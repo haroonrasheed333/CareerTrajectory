@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734991' xml:space='preserve'><summary>SKILL SUMMARY
+   <personalstatements>Highly motivated self-starter with a passion to succeed and excel at any given task
+   Effective communication and interpersonal skills 
+   High-level prioritizing, planning, tactical execution and analysis abilities
+   Excellent writing ability with strong attention to detail
+   	     
+Internet and Social Media savvy
+Quality leadership experience
+Time-management, multitasking, organizational expert
+Works well with a team or individually and under pressure
+Proficient in AP Style</personalstatements></summary>
+
+
+
+
+<education>EDUCATION
+   <school id='5'><degree level='16' name='Bachelor of Arts'>Bachelor of Arts</degree> in <major code='4503'>Journalism</major>, Concentration: <major code='4504'>Public Relations</major>
+   <institution>California State University</institution>, <degree>Northridge (CSUN)</degree>
+   Minor in <minor code='2016'>Psychology</minor>
+   Honors: <honors>Dean's List, Cum Laude</honors>
+
+
+
+<daterange><start days='733622' iso8601='2009-08-01'>August 2009</start>
+- <end days='734626' iso8601='2012-05-01'>May 2012</end></daterange></school></education>	
+
+<experience end='present' start='733895'>EXPERIENCE						
+
+
+
+   <job id='1' sic='7622' sic2='76'><title>Social Media Coordinator</title>
+   <employer>MMAInterviews.tv</employer>  |  <address lat='42.2875' lon='-73.3437' majorcity='GLENDALE' state='MA'><city>Glendale</city>, <state abbrev='CA'>CA</state></address>
+<description>Strategically compose and send posts on company's social media accounts to ensure maximum views
+Maintain website growth as the fastest growing media outlet for the world's fastest growing sport of mixed martial arts
+Assist reporters at events and with athlete interviews	    February 2012
+- Present 
+
+
+
+
+   Host, Busser, Expedite, Server</description></job>, <job end='present' id='2' pos='1' sic='581208' sic2='58' start='733895'><title>Assistant Manager</title>
+   <employer>Eggs N' Things</employer>  |  <address><city>Valencia</city>, <state abbrev='CA'>CA</state></address>
+<description>Oversee restaurant employees and operations
+Provide excellent service through teamwork in a dynamic, fast-paced environment to fulfill each customer's specific needs and expectations
+Manage cash flow and prepare large sums of money to be transferred to company's account</description>	   <daterange><start days='733895' iso8601='2010-05-01'>May 2010</start>
+- <end days='present' iso8601='2013-05-01'>Present</end></daterange></job>
+
+
+
+
+   <job end='734626' id='3' pos='2' sic='874302' sic2='87' start='734505'><title>Student Public Relations Intern</title>
+   <employer>The Bohle Company</employer>  |  <address><city>Santa Monica</city>, <state abbrev='CA'>CA</state></address>
+<description>Conducted extensive research to create and update media lists, conference schedules and clip reports to present to clients
+Wrote for blogs and social media accounts of the company and their clients
+Took charge of a client's email account to aid in granting media passes for PAX East, a large gaming conference</description> <daterange><start days='734505' iso8601='2012-01-01'>January 2012</start>
+- <end days='734626' iso8601='2012-05-01'>May 2012</end></daterange></job>  
+
+   <job end='734626' id='4' pos='3' start='734505'><title>Public Relations Team Leader</title>
+   <employer>CSUN On Point</employer>  |  <address><city>Northridge</city>, <state abbrev='CA'>CA</state></address>
+<description>Expanded audience and awareness of the return of CSUN On Point, a news and public affairs show
+Announced revamped show and secured placement on different online outlets
+Effectively used social media to gain viewers for weekly shows</description>
+
+
+<daterange><start days='734505' iso8601='2012-01-01'>January 2012</start>
+- <end days='734626' iso8601='2012-05-01'>May 2012</end></daterange></job></experience>
+
+
+
+
+<skills>COMPUTER SKILLS
+   <skills>Mac and PC systems
+   Microsoft: Excel, PowerPoint, Outlook, Word
+   Adobe: Photoshop, Illustrator, InDesign	
+   CisionPoint
+   WorldMerge
+   Basic HTML coding</skills></skills>		
+
+
+
+
+
+
+
+
+
+
+
+</resume>
+
+<skillrollup version='1'>
+  <canonskill name='adobe'>
+    <variant>Adobe</variant>
+  </canonskill>
+  <canonskill name='adobe photoshop'>
+    <variant>Photoshop</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='1' idrefs='1' name='art'>
+    <variant>arts</variant>
+  </canonskill>
+  <canonskill end='734962' experience='1' expidrefs='2' idrefs='2' lastused='2013' name='cash flow' start='733895'>
+    <variant>cash flow</variant>
+  </canonskill>
+  <canonskill end='734626' experience='1' expidrefs='3' idrefs='3' lastused='2012' name='customer relations' start='734505'>
+    <variant>client</variant>
+    <variant>clients</variant>
+  </canonskill>
+  <canonskill end='734626' experience='1' expidrefs='3' idrefs='3' lastused='2012' name='email' start='734505'>
+    <variant>email</variant>
+  </canonskill>
+  <canonskill end='734962' experience='1' expidrefs='2' idrefs='2' lastused='2013' name='fast' start='733895'>
+    <variant>fast</variant>
+  </canonskill>
+  <canonskill name='html'>
+    <variant>Basic HTML</variant>
+  </canonskill>
+  <canonskill name='illustrator'>
+    <variant>Illustrator</variant>
+  </canonskill>
+  <canonskill name='indesign'>
+    <variant>InDesign</variant>
+  </canonskill>
+  <canonskill name='macintosh'>
+    <variant>Mac</variant>
+  </canonskill>
+  <canonskill name='microsoft excel'>
+    <variant>Excel</variant>
+  </canonskill>
+  <canonskill end='734962' experience='1' expidrefs='2' idrefs='2' lastused='2013' name='microsoft money' start='733895'>
+    <variant>money</variant>
+  </canonskill>
+  <canonskill name='microsoft outlook'>
+    <variant>Outlook</variant>
+  </canonskill>
+  <canonskill name='microsoft powerpoint'>
+    <variant>PowerPoint</variant>
+  </canonskill>
+  <canonskill name='microsoft word'>
+    <variant>Word</variant>
+  </canonskill>
+  <canonskill name='pc systems'>
+    <variant>PC systems</variant>
+  </canonskill>
+  <canonskill name='programming'>
+    <variant>coding</variant>
+  </canonskill>
+  <canonskill end='734626' experience='1' expidrefs='3' idrefs='3' lastused='2012' name='research' start='734505'>
+    <variant>research</variant>
+  </canonskill>
+  <canonskill end='734962' experience='1' expidrefs='2' idrefs='2' lastused='2013' name='teamwork' start='733895'>
+    <variant>teamwork</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='1' idrefs='1' name='web site production'>
+    <variant>website</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>

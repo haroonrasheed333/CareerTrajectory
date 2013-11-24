@@ -29,13 +29,12 @@ def compute_frequency_scores(docs):
     for doc in docs:
         f = open(doc).read()
         words = nltk.word_tokenize(f)
-        words = [word for word in words if word not in stopwords and word not in punct]
+        words = [word.lower() for word in words if word not in stopwords and word not in punct]
         text = nltk.Text(words)
         texts.append(text)
 
     text_collection = nltk.TextCollection(texts)
     unique_words = list(set(text_collection))
-    print unique_words
 
     tfidf_vectors = [numpy.array(tf_idf(f)) for f in texts]
     frequencies['tf_idf'] = []
