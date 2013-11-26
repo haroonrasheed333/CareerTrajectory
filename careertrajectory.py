@@ -42,7 +42,7 @@ class ResumeCorpus():
         resumes = []
         for line in open(file).read():
             filename,tag = line.split('\t')
-            resumes.append((filename,tag))
+            resumes.append((open(filename).read(),tag))
         return resumes
                       
 def trainClassifier(training_featureset):

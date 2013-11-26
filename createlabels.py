@@ -1,6 +1,6 @@
 import nltk
 from nltk.tokenize import word_tokenize
-import lxml
+from lxml import etree
 import pprint, random, pickle
 import itertools
 import os, sys, re
@@ -22,13 +22,17 @@ class ResumeCorpus():
         
         self.source_dir = source_dir
         self.files = self.getFiles(self.source_dir)
-        self.sents = self.readFiles(self.files, self.source_dir)
         
     def getFiles(self, source_dir):
         files = [ f for (dirpath, dirnames, filenames) in os.walk(source_dir) for f in filenames if f[-4:] == '.txt' ]
         return files
-        
+   
     def readFiles(self, files, source_dir):
+             
+        def stripxml(data):
+            pattern = re.compile(r'<.*?>')
+            return pattern.sub('', data)
+    
         labels = open ('labels.txt', 'w')
         for fname in files:
             data = open(fname).read()
@@ -50,6 +54,7 @@ class ResumeCorpus():
             f.close()
             labels.writelines(fname + "\t" + current_job_title)
         return
+
 
 if __name__ == "__main__":
     traintest_corpus = ResumeCorpus('/Users/divyakarthikeyan/') #4256
