@@ -44,9 +44,12 @@ class ResumeCorpus():
             print current_job_title
         
             current_job = xml.xpath('//job[@end = "present"]')
-            current_job[0].getparent().remove(current_job[0])
+            if current_job:
+                current_job[0].getparent().remove(current_job[0])
             xml = etree.tostring(xml, pretty_print=True)      
             text_data = stripxml(xml)
+            if current_job_title:
+                text_data.replace(current_job_title[0], '')
             #print text_data
         
             f = open('%s' %fname +'_plaintext.txt', 'w')

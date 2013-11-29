@@ -7,8 +7,11 @@ baseurl = 'http://www.careeronestop.org/educationtraining/find/certification-fin
 with open('certifications1.json') as data:
     json_data = json.load(data)
 
-n = 0
-while n < len(json_data['certifications']):
+print len(json_data['certifications'])
+
+n = 200
+#while n < len(json_data['certifications']):
+while n < 300:
     i = 0
     while i < len(json_data['certifications'][n]['certification_list']):
         keyword = json_data['certifications'][n]['certification_list'][i]['Certification Name']
@@ -25,8 +28,8 @@ while n < len(json_data['certifications']):
                 soup = BeautifulSoup(html)
                 table = soup.findAll('table')[0]
                 cert_name = table.findAll('th')[0].text
-                start_pos = cert_name.find('(')
-                stop_pos = cert_name.find(')')
+                start_pos = cert_name.rfind('(')
+                stop_pos = cert_name.rfind(')')
                 if start_pos > 0:
                     acr = cert_name[start_pos+1:stop_pos]
                 else:

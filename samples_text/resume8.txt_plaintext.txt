@@ -1,0 +1,707 @@
+
+HETAN SHAH
+1237 W Washington Ave, #1, Sunnyvale, CA 94087	*hetanjob@yahoo.com*   		408 420 0512
+Summary:
+Extensive experience in Software System Analysis and Design (SSAD), Prototyping, Development, Testing, Documentation.
+Enterprise-class Java applications Salesforce, Java/J2EE, XML, Struts, SOAP, Web Services, JavaScript 
+Middleware and backend access (Business Works, Enterprise Service Bus, iProcess, JDBC, interfaces)
+Working at Shopping.com as Team Lead.
+Worked at Pacific Biosciences as Sr. Web Developer / Team Lead.
+Worked at TIBCO Software as Team Lead, working on migrating existing intranet infrastructure from windows to Linux, documenting internal process. Migrated from Portal builder 4.3 to 5.2.
+Worked as Portal Site Administrator at Genentech, worked on migrating Genentech's intranet portal to Vignette Portal Server 7.2
+Worked as Software Engineer at Sun Microsystems. Worked on the Partner Engagement System (PES). Work on the advance search module for searching the directory and catalog for the products, vendors and the solutions provided by the vendors using Lucene Search Engine.
+Worked as Portal Specialist at Hewlett Packard. Working on implementing partner portal using Vignette Portal Server version 7.2.
+Worked on Vignette and Plumtree Portal servers at Intuit with Apache Tomcat and Weblogic servers for implementing next generation intranet by collaborating internal sites in one central intranet portal for improved user experience.
+Worked as User Interface engineer at Hewlett Packard. Implemented user interface for web services monitoring platform using Servlets, JSP and Java.
+Worked as Senior Portal Engineer at Workscape Inc. Scotts Valley, implementing corporate Human Resources portal solutions for General Motors and Daimler Chrysler.
+Worked as Software Engineer at Lutris Technologies, Santa Cruz. Developed various e-commerce applications individually as well as in a team using Enhydra Application Server and Java.
+Worked as a Software Engineer Intern at IBM, San Jose.  
+
+Education:
+Master of Science in Computer Science, California State University Chico.
+Advance Computing Diploma, Boston's Institute of Management.
+Bachelor's Degree, Bombay University, Bombay
+
+WORK EXPERIENCE
+Pacific Biosciences Inc, CA							          03/2010 - 02/2011
+Web Developer II - Team Lead
+Part of core team that successfully implemented Developers Network using Salesforce Sites technology. Developers Network is accessed by developers across the globe in life sciences industry. Integrated registration via Pardot and secure data download for registered members. Implemented google analytics to track page visits and generate reports. 
+Work closely with marketing to implement new changes/enhancements to corporate website.
+Part of four member team that successfully developed and released on time Pacific Biosciences' public website on Drupal CMS. Corporate website was integrated with Taleo for open job postings and user registration using Pardot. 
+Part of five member team that successfully implemented Salesforce Customer Portal solution for PacBio's Limited Partner Release (LPR) and continue to work on the Full Commercial Release (FCR) customer portal enhancements.
+Work as point person for Salesforce modules configuration, enhancements and maintenance and also for hosting PacBio's corporate website, PacBio's Developers Network and ongoing newsletters.
+Customized look and feel of Salesforce DevNet Site to match approved Pacbio look and feel. 
+Developed various pages within Salesforce to become part of DevNet Site content.
+Setup process for content update by content owner via Drupal CMS to be presented on DevNet. 
+Enabled login for sites with customer portal and implemented self registration with Pardot integration and Salesforce customer portal.
+Wrote Apex classes to use with Visualforce pages for front end interaction with users.
+Support various Customer Portal applications for service organization.
+Enabled content sharing between Drupal CMS and Salesforce Customer Portal.
+Configure user profiles and related Page Layout to present the data to various group of users.
+Migrated content from ModX 0.9 to Drupal 6.0 and help content users with migration path.
+Generated templates to be used with monthly newsletters.
+Installed &amp; configured CMSForce to use with Salesforce Sites, created custom templates and pages.
+Environment:  Salesforce, APEX, Visualforce, CMSForce, jQuery, CSS3, HTML, Drupal 6.0, Pardot, Numara Track It, Dreamweaver, Fireworks and Photoshop.
+
+*TIBCO Software, Palo Alto, CA*    					 	         05/2007 - 10/2009
+Web Developer II - Team Lead
+Architected Portal upgrades initiative from Portal Builder 4.3 to 5.2. Guide internal customer groups in the definition of content and functionality to support their business processes.  Gather and analyze usage data, identify and usage patterns and areas for improvement.  Maintain existing portal architecture.  Contribute to documentation of internal business processes and policies. Help developers with new portal pages, sites for internal TIBCO users. Participate in developing training site for TIBCO TEN (TIBCO Education Network). Designed and developed Log &amp; Exception handling framework using modular design approach. Spring framework was utilized for implementing backend data store access. API was provided to developers to offload Log/Exception handling capabilities from their code. Work with development team to assign and integrate various modules of Log &amp; Exception Framework with Enterprise Message Bus. Lead development of Enterprise Monitoring System which was responsible for monitoring systems and applications using TIBCO Tools. Vital server specific data was gathered such as CPU temperature, Fan Speed, Memory consumption and availability using business works with SQL Server and SIW tool. TIBCO HAWK was used to query machine level details. TIBCO EMS was used for sending data from infrastructure layer to database.
+Developed web-services using Business Works for reporting real time status of components and servers.
+Develop framework using Java, JSP, EMS (implementation of JMS), Business Works, Administrator, SQL Server for various functional groups within TIBCO to publish content on Intranet.
+Streamlining process for content contributor to publish their data.
+Design new look and feel for the ITIL site within TIBCO's intranet using JSP, CSS, HTML. 
+Work with support group to incorporate intranet portal migration initiative using Portal Builder, Linux, SAN and SQL Server. 
+Work on TIBCO's education site to enable credit card processing and other payment options using Java, JSP, CSS, Eclipse.
+Used Hibernate like tools for data modeling.
+Work on creating web services using Business Works to provide data to education site for credit card processing.
+Environment:  Java 1.5, JSP, JavaScript, Apache Tomcat, Portal Builder 4.3/5.2, Business Works, EMS, iProcess Studio, BMC, Bridge Track, MSSQL Server.
+
+Infovista Technologies									       05/04 - 05/07
+Genentech, South San Francisco, CA*      						      06/05 - 05/07
+Commercial Portal and Security
+Senior Portal Consultant (Contractor)
+Contribute to the development, implementation and support of an existing intranet portal that provides sales, marketing and financial data, as well as other tools and information, to Genentech's Commercial organization.  Build mock up sites for getting approval from business owners. Development of new portal content in problem analysis, requirements gathering, project definition, documentation and implementation. Guide internal customer groups in the definition of content and functionality to support their business processes.  Gather and analyze usage data, identify and document usage patterns, adoption rates and areas for improvement.  Maintain existing portal content.  Provide administrative and technical support.  Contribute to documentation of internal business processes. Maintain training materials capturing ongoing modifications to the portal. 
+Created new pages/ portlets for new various groups and brands on Vignette Portal Server.
+Worked on changing structure of the pages based on business requirements using JSP and Vignette Portal Builder API.
+Generated test scripts for use by QA team to test new changes before going live.
+Worked with the Product Brands to identify product specifications and create requirements.
+Developed Incentive compensation reports structure, secured by the roles and hierarchy on Vignette Portal Server using Java, JSP and Oracle.
+Developed Commercial Access Manager using Vignette Application Builder.
+Developed executive dashboard for Drug brands for sales relater data reporting on Vignette Portal Builder. 
+Worked with engineering and reporting teams to ensure their components are integrated successfully. 
+Worked with service desk for ticket triages using Remedy AR and resolve day to day issues.
+Environment: Java/J2EE, JDBC, JSP, AJAX, HTML, JavaScript, Perl, Vignette Portal Server 7.2, UML, Remedy AR, Oracle 9i.
+
+Hewlett Packard, Cupertino, CA*								      03/05 - 06/05
+Partner facing Web portal System
+Sr. Software Engineer (Contractor)
+Work effectively with extended team members to coordinate, develop and deliver reliable, high-quality portal content, functionality and user experience to the internal customers.  Contribute to usability/user experience analysis.
+Installed and configured Vignette Portal server, Weblogic Application Server and Apache Tomcat server using Oracle 9i database.
+Implemented Vignette Application Portal for replacing the legacy PWeb portal for partners.
+Evaluated and implemented the complex audiencing rules for content selection based on the authorization available to the users using Vignette Story Publisher Portlet.
+Developed the grid for Hewlett Packard's look and feel and deploy it on the Vignette Portal Server for partner experience using struts framework.
+Developed user properties module to enable the custom user properties available in the Siebel Data Store.
+Participated in weekly client meetings to understand and provide feedback for the requirements.
+Gave presentations to the client on the proposed architecture of the new system.
+Deployed existing pages from the partner portal in the new portal instance and configured with new look and feel.
+Environment: Java/J2EE, JSP, Apache Tomcat, HTML, JavaScript, Windows 2003 Server, Microsoft Excel, Power Point, BEA Weblogic Server 8.1, BEA Weblogic Portal Server
+ 
+Sun Microsystems, Menlo Park, CA       						      04/04 - 03/05
+Partner Engagement System Search Integration
+Sr. Software Engineer (Contractor)
+Integrate Search solution with the existing Partner Engagement System (PES). Work with cross functional team developing other modules for the PES system. Support development of new portal content in problem analysis, requirements gathering, project definition, documentation, implementation.  Guide internal customer groups in definition of content and functionality to support their business processes, in order to make it easily searchable. 
+Implemented Advance Search for products and vendors using Lucene Search Engine and JSPs.
+Worked with project managers on an ongoing basis to work with changing business requirements and successfully incorporate them in solution.
+Worked on integrating and merging data from various schemas to create a master schema to perform various searches e.g. Boolean, keywords (text), fuzzy logic, phrase searches.
+Worked on automating data extraction and file creation using PERL and Oracle backend for indexing purposes.
+Automated the index creation on the extracted data and automate the data migration to various environments from the development environment using UNIX shell scripts.
+Worked on implementing search for the bug resolution system, where user can search for the resolution details for any bug based on the key words.
+Participated in weekly requirements meetings to evaluate requirements and create requirements documents.
+Work on Sun Access Manager and Directory server for users content authorization against ACIs.
+Evaluated the SunONE portal for implementing the desktop for the partner experience based on their profile.
+Environment: Java, JSP, Tomcat 4.2, Perl, JavaScript, CVS, SunONE servers, Solaris, Windows 2000.
+
+Hewlett Packard, Cupertino, CA*      							      11/03 - 02/04
+Web Developer (Contractor)
+Installed and maintained Apache web-server and Apache tomcat server for development team
+Installed IIS web server and maintained virtual directories and content within them
+Automated the deployment procedure for code promotion to the staging environment
+Assisted peers in installation and troubleshooting of development environment
+Worked as UI Engineer for MIP group. Implementing the application using JSP, JavaBeans and XML.
+Developed the entity bean for extracting the data from the data store and pass it to the JSP for displaying the results to users.
+Worked with product manager to translate functional requirements into demo product and final implementation.
+Maintained FTP server for the development group
+Applied system patches and upgrades to keep the systems free from knows bugs and issues
+Environment: Java, JSP, EJBs, Apache, Tomcat, HTML, JavaScript, Windows 2000/3 Server, WinCVS, Dreamweaver, Microsoft Excel, Power Point, Project
+ 
+Intuit, Mountain View, CA**      								      03/03 - 09/03
+Intranet Portal Evaluation and Implementation
+Sr. Software Engineer (Contractor)
+Build and support user-facing applications to improve the company's internal communications and collaboration. Support existing Corporate Directory application. Support existing Intuit's Intranet infrastructure and publishing tool set. Participate in evaluating new portal technologies for strategic intranet initiatives. Supported content publishing, platform maintenance, daily operations and automation activities of Intuit's intranet. Work with wide range of internal customers to integrate new web content, communications and service into the enterprise portal. Perform ongoing maintenance, configuration and enhancements of Intuit Central systems.
+Role: Team Lead
+Deploy and maintain portal application for collaborating internal sites in one central intranet place for improved user experience
+Install, and support Apache web-servers and BEA Weblogic application servers
+Applied Service Packs and Upgrades Server instances for the environment
+Handled Performance tuning for environment to enhance performance of BEA Weblogic server
+Created security roles for development, testing and production environments using Realms
+Handled partial OS system admin tasks for performance/load monitoring
+Developed scripts for automatic shutdown, start up of admin server, node manager, and managed servers. Specific to the customer environment
+Install and administer Weblogic, Apache and IIS web server for content crawlers and virtual directories on UNIX, and Windows operating systems respectively
+Install and maintain Oracle 8i and 9i for schema and data for various servers
+Work as junior DBA, setting up databases, creating listeners, loading schema
+Environment: UNIX, Linux, BEA Weblogic, Apache, Plumtree portal server, Java, HTML, JavaScript, Oracle, Shell Scripts, Windows 2000, Windows NT
+ 
+Workscape Inc, Scotts Valley, CA*       							       05/01- 02/03
+Role: Sr. Software Engineer
+Employee.com
+Deploy corporate portals developed using iPlanet portal server, J2EE, and Java
+Manage 32 instances of portal cluster in round robin configuration for load balancing
+Worked on troubleshooting UNIX, iPlanet web server, Sun-ONE directory server
+Automated code updates and promotion to 32 instances using Perl and shell scripts
+Automated the data fetch and transformation using shell scripts
+Manage Sun-ONE directory server's policies, rules, realms, accounts, groups, and ACI
+Work with bulk data modification on Sun Directory Server
+Work with clients for data mirroring, and keeping data up-to-date from clients Sun Directory Server
+Extensive experience using Oracle, PL/SQL, SQL, and UNIX Shell Scripts
+Extensive experience on UNIX (Linux, Sun Solaris) operating system
+Wrote shell scripts to automate builds for project and tagging content of build
+Developed shell scripts and automated using cron scripts for nightly backups of systems
+Daimler Chrysler Corporation
+Deploy Corporate Portal (Dashboard Anywhere)developed using iPlanet portal server
+Integrate the Single Sign On (SSO) feature with the Sun directory server
+Implemented role based access spanning from 2 to 21 roles
+Support product-specific features as well as integration with other applications.  
+Communicate with end-users with strong knowledge about the products and services offered.
+Automated the data fetch and transformation using shell scripts
+Manage Sun-ONE directory server's policies, rules, realms, accounts, groups, and ACI.
+Extensive troubleshooting expertise with UNIX, Sun Directory Server, Web server
+Work with clients for data mirroring, and keeping data up-to-date.
+General Motors
+Deploy Corporate Portal (mySocrates) developed using iPlanet portal server.
+Define new technologies and methods to incorporate directory server maintenance and modifications.
+Involved in monitoring and improving performance of servers
+Automated the data fetch and transformation using shell scripts
+Manage Sun-ONE directory server's accounts, groups, and ACI.
+Work with clients for data mirroring, and keeping data up-to-date.
+Extensive experience in implementation of version control software CVS and responsible for various software release's
+Environment: Linux, Solaris, Apache, iPlanet, Java, HTML, Tomcat, JavaScript, Perl, Sun Directory Server, Shell Scripts, BEA Weblogic
+ 
+Lutris Technologies, CA*          *       							       06/99 - 05/01
+*Role: Staff Engineer
+Client: Employee.com 
+Worked on the iPlanet Portal Server to develop the portal product.
+Implemented portal to provide different content on users desktop based on domain and role.
+Extended base portal capabilities to meet requirements, integrate custom content providers.
+Developed the Chat applet using Java 1.1 and client server architecture in Java. Implemented simplified Chat interface where in the user can change the nickname.
+Client: Lutris.com
+Worked on Lutris.com site to develop the online educational site. Involved in design of Content, Presentation, Business and a part of the database scheme design and also in implementation on Presentation and Business side and wrote few classes for the database access functionality.
+Actively involved in the design of the business design and database design of the site
+Client: NextOffice.com
+Implemented online furniture superstore providing products from various furniture manufacturers.
+Worked on e-mail EJB for the client. Order details mailed to client upon order placement.
+Wrote various utility classes to facilitate the proper execution of the orders and automatic notification process, once the order gets placed
+Environment: Solaris, EAS, Java, HTML, JavaScript, XMLC, Oracle, iPlanet portal server, SSI, BEA Weblogic, EJBs. 
+ 
+IBM, San Jose, CA*      									      06/98 - 12/98
+*Role: Engineer
+SCSI Device Driver Development*    
+Worked with several SCSI tape devices like 4mm, 8mm, DLT, QIC. Involved in Configuring and testing SCSI devices on UNIX (AIX, HP and Solaris) and PC (OS2, NT) also in monitoring multi-client backups and schedules with ADSM. Involved in setup and configuration of ACSLS and test with ADSM.
+Environment: Shell Scripts, Batch jobs, Solaris, HP-UX, AIX, OS2, Windows-NT.
+
+Niti - Telecom Consultants, India*      							      06/96 - 06/97
+Role: Software Support Engineer 
+Worked as software support engineer. Responsibilities included on-site installation of products, training the clients and providing technical support for the products.
+
+Technical Skills:
+Languages:	Java/J2EE, Visualforce, APEX, XML, Struts, XSLT, JavaScript, Perl, JSP, HTML	
+
+Platforms:	HP-9000 workstations, Sun Ultra workstation, IBM-PC, Macintosh	
+
+Systems:	UNIX (Solaris, HP-UX), Linux, Windows NT, Windows 2000, Mac OS X	
+
+Databases:	Oracle 8i/9i, SQL Server 2005, InstantDB, PB 3.0, MS-Access	
+
+Cloud /SaaS:	Salesforce 10, 11.	
+
+Portal / CMS Technologies:	Drupal 6.0, ModX, BEA Weblogic, Plumtree, Vignette Application Portal &amp; Builder, SunONE, iPlanet, TIBCO portal Builder 4.2, 5.0	
+
+Analytics Tools:	Pardot, Google Analytics	
+
+Web Technologies:	Apache, Tomcat, Servlets, EJB, XMLC, IIS, CSS, Lucene, Enact, JDBC, HTTP, SAX, DOM, SOAP	
+
+Middleware	Business Works, EMS (ESB), iProcess Studio, Hawk, Administrator	
+
+Tools:	OpenSTA, LDAP, LDAP Browser, DODS, CVS, WinCVS, TortoiseSVN, StarTeam, GoLive, Make, Ant, Dreamweaver, SecureCRT, Remedy AR, BMC, jQuery, CSS3	
+
+Design &amp; Modeling:	UML and Use Case Modeling, MS VISIO	
+
+IDE:	Eclipse 2.0, 3.0, *	
+
+
+Organizational Skills:
+Full project development life cycle
+Team leadership
+Business interaction and business requirements analysis from Users and Managers
+Document requirements and create detailed design specifications.
+Experience in preparing developer guidelines and user guides
+Work with users to ensure that development efforts are meeting the users' needs.
+
+
+
+  
+    administrative
+  
+  
+    Photoshop
+  
+  
+    ADSM
+  
+  
+    ads
+  
+  
+    AIX
+  
+  
+    Ant
+  
+  
+    Apache
+  
+  
+    API
+  
+  
+    approach
+  
+  
+    AR
+  
+  
+    automate
+  
+  
+    automation
+  
+  
+    business processes
+  
+  
+    Business Works
+    business works
+  
+  
+    catalog
+  
+  
+    client server
+  
+  
+    CMS
+  
+  
+    com
+  
+  
+    content
+    Content
+  
+  
+    CPU
+  
+  
+    credit
+  
+  
+    CSS
+    CSS3
+  
+  
+    client
+    clients
+  
+  
+    CVS
+    version control
+  
+  
+    data migration
+  
+  
+    data modeling
+  
+  
+    Databases
+    databases
+    database
+  
+  
+    database design
+  
+  
+    direction
+  
+  
+    Documentation
+    documentation
+  
+  
+    DOM
+  
+  
+    Dreamweaver
+  
+  
+    e-commerce
+  
+  
+    Eclipse
+    Eclipse 2.0
+  
+  
+    e-mail
+  
+  
+    Engineer
+    engineer
+  
+  
+    EJB
+  
+  
+    features
+  
+  
+    fetch
+  
+  
+    financial
+  
+  
+    Fireworks
+  
+  
+    FTP
+  
+  
+    functional
+  
+  
+    GoLive
+  
+  
+    Hewlett Packard
+    HP
+  
+  
+    HP-UX
+  
+  
+    HP-9000
+  
+  
+    HTML
+  
+  
+    HTTP
+  
+  
+    Human Resources
+  
+  
+    IDE
+  
+  
+    IIS
+  
+  
+    indexing
+  
+  
+    iPlanet
+  
+  
+    ITIL
+  
+  
+    Java
+    Java 1.1
+    Java 1.5
+  
+  
+    JSP
+  
+  
+    JavaBeans
+  
+  
+    JavaScript
+  
+  
+    JDBC
+  
+  
+    JMS
+  
+  
+    Languages
+  
+  
+    LDAP
+  
+  
+    Team leadership
+    Team Lead
+  
+  
+    Linux
+  
+  
+    logic
+  
+  
+    Macintosh	
+
+Systems
+  
+  
+    Mac OS
+  
+  
+    marketing
+  
+  
+    meetings
+  
+  
+    Memory
+  
+  
+    Access
+    access
+    MS-Access
+  
+  
+    Microsoft Excel
+  
+  
+    Power Point
+  
+  
+    Publisher
+  
+  
+    Windows
+    windows
+    Windows operating systems
+  
+  
+    Windows 2000
+  
+  
+    NT
+    Windows-NT
+    Windows NT
+  
+  
+    Middleware
+  
+  
+    migration
+  
+  
+    Modeling
+  
+  
+    Enterprise
+    enterprise
+  
+  
+    Network
+  
+  
+    newsletters
+  
+  
+    next
+  
+  
+    OS
+    operating system
+  
+  
+    Oracle 9
+    Oracle
+  
+  
+    DBA
+  
+  
+    developer
+  
+  
+    PL/SQL
+  
+  
+    Oracle 8i
+  
+  
+    Organizational Skills
+  
+  
+    OS2
+  
+  
+    page
+  
+  
+    Page Layout
+  
+  
+    IBM-PC
+  
+  
+    PERL
+    Perl
+  
+  
+    policies
+  
+  
+    presentations
+  
+  
+    problem analysis
+  
+  
+    product manager
+  
+  
+    project development
+  
+  
+    Project Management
+  
+  
+    promotion
+  
+  
+    Prototyping
+  
+  
+    quality
+  
+  
+    QA
+  
+  
+    real time
+  
+  
+    reporting
+  
+  
+    requirements analysis
+    requirements gathering
+  
+  
+    sales
+  
+  
+    SAN
+  
+  
+    scheme
+  
+  
+    SCSI devices
+    SCSI
+  
+  
+    servers
+  
+  
+    Servlets
+  
+  
+    scripts
+    Shell Scripts
+    shell scripts
+  
+  
+    Siebel
+  
+  
+    SOAP
+  
+  
+    Sun Solaris
+    Solaris
+  
+  
+    MSSQL
+    SQL Server
+    SQL
+  
+  
+    SSI
+  
+  
+    strategic
+  
+  
+    Struts
+    struts
+  
+  
+    Sun
+    Sun Microsystems
+  
+  
+    System Analysis and Design
+  
+  
+    technical support
+    software support
+  
+  
+    TIBCO
+  
+  
+    Tomcat
+    tomcat
+    Tomcat 4.2
+    Tomcat 5.5
+  
+  
+    training materials
+  
+  
+    troubleshooting
+  
+  
+    UML
+  
+  
+    UNIX
+  
+  
+    UNIX Shell Scripts
+    UNIX shell scripts
+  
+  
+    Upgrades
+    upgrades
+  
+  
+    User Interface
+    user interface
+  
+  
+    Vignette
+  
+  
+    VISIO
+  
+  
+    web-server
+    web-servers
+    Web server
+    web server
+  
+  
+    website
+    web content
+  
+  
+    Weblogic
+  
+  
+    XML
+  
+  
+    XSLT
+  
+
+

@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734579' xml:space='preserve'><contact><name><givenname>TEJAS</givenname> <givenname>R</givenname>. <surname>SARAIYA</surname></name>	
+
+
+
+<phone type='cell'>408-712-4198</phone> (m)
+<email>tsaraiya@alum.berkeley.edu</email>	
+
+
+<address lat='37.538' lon='122.031' majorcity='NEWARK' state='CA'><street>6302 Potrero Drive</street>
+<city>Newark</city>, <state abbrev='CA'>CA</state> <postalcode>94560</postalcode></address></contact>	
+
+
+<summary>OBJECTIVE
+<objective>To bring my entrepreneurial heart and mind to Simply Hired as Strategic Partner Manager and deliver exceptional results</objective></summary>
+
+<education>EDUCATION
+<school id='5'><institution>University of California</institution>, <address><city>Berkeley</city></address>
+<degree level='16' name='Bachelor of Science'>BS</degree> with Honors, <major code='1203 0402'>Electrical Engineering and Computer Science</major> (CS emphasis)
+Minor, <minor code='4201'>Business Administration</minor> (<institution>Walter A. Haas School of Business</institution></school>)
+<school id='6'><degree level='18'>Masters</degree> Candidate, <major code='4201'>Business Administration</major>, Class of <completiondate days='733044' iso8601='2008-01-01'>2008</completiondate> (<institution>Walter A. Haas School of Business Weekend</institution> <degree level='18' name='Master of Business Administration'>MBA</degree>)
+EECS GPA: <gpa max='4' value='3.8'>3.8/4.0</gpa>, <major code='4399'>Business</major> GPA: <gpa max='4' value='3.9'>3.9/4.0</gpa>, Overall GPA: <gpa max='4' value='3.7'>3.7/4.0</gpa></school></education>
+
+<experience end='present' start='730182'>EXPERIENCE
+<employer>PayPal, an eBay Company</employer> - Leader in on-line payments for world's largest on-line marketplace (<address><city>San Jose</city>, <state abbrev='CA'>CA</state></address>)
+<job end='present' id='1' pos='1' sic='4731' sic2='47' start='731827'><title>Product Manager</title>, <employer>PayPal Shipping</employer> (<daterange><start days='731827' iso8601='2004-09-01'>09/04</start>-<end days='present' iso8601='2012-03-15'>Present</end></daterange>)
+*	<description>Hold primary ownership and accountability for PayPal's highly-profitable shipping and postage products
+*	Products generate over $215 million in gross postage sales and over $13 million in annual revenue
+*	Build consensus among representatives from 15+ functional groups with conflicting priorities for each product release
+*	Lead cross-functional teams of 10+ people to deliver new products/enhancements to market on time and to spec
+*	Manage relationships with key stakeholders at multi-billion dollar partners including UPS, USPS, and Pitney-Bowes
+*	Influence partners and technology, marketing, and BU groups to successfully develop and execute product strategy
+
+Propensys Group, LLC - Web-technology and marketing communications consulting firm</description> (<address><city>San Jose</city>, <state abbrev='CA'>CA</state></address></job>)
+Co-Founder, <job end='731827' id='2' pos='2' start='731096'><title>Senior Consultant</title> (<daterange><start days='731096' iso8601='2002-09-01'>09/02</start>-<end days='731827' iso8601='2004-09-01'>09/04</end></daterange>)
+*	<description>Responsible for 100% of business development, contract execution, and day-to-day management activities
+*	Generated $150,000+ revenue in first 18 months by signing 15+ clients including two $10 mil+ companies
+*	Sold 5 service contracts and 20 projects ranging from $5,000 to $45,000 in value
+*	Authored white paper Business Case for Offshore Printing which earned #1 rank on Google under &quot;offshore printing&quot;</description></job>
+
+<job end='731034' id='3' pos='3' start='730547'><employer>SkyGo, Inc</employer>. - Start-up wireless marketing/advertising service provider (<address><city>Redwood Shores</city>, <state abbrev='CA'>CA</state></address>)
+<title>Software Lead</title> (<daterange><start days='730547' iso8601='2001-03-01'>03/01</start>-<end days='731034' iso8601='2002-07-01'>07/02</end></daterange>)
+*	<description>Responsible for entire product development lifecycle of SkyReports business intelligence (BI) system
+*	Analyzed BI software packages based on Product Marketing and customer needs; CTO accepted recommendation
+*	Worked with other Software Leads to ensure interoperability throughout product suite
+*	Managed expectations of Product Marketing as simultaneous demand for new reports continually increased
+*	Mentored and trained Report Engineer resource to produce a total of 35 reports and meet aggressive release schedules</description></job>
+
+<job end='730547' id='4' pos='4' start='730182'><employer>Stario, Inc</employer>. - Start-up provider of private-label loyalty programs for <employer>CRM</employer> (<address><city>Santa Clara</city>, <state abbrev='CA'>CA</state></address>)
+<title>Software Engineer</title> (<daterange><start days='730182' iso8601='2000-03-01'>03/00</start>-<end days='730547' iso8601='2001-03-01'>03/01</end></daterange>)
+*	<description>Key leader on five-person server-side team and four-person front-end team
+*	Gathered technical requirements from internal and external sources to design and build StarioClient product
+*	Worked closely with Product Marketing to prioritize product requirements and understand customer needs
+*	Mentored new team members brought on board as the company grew</description></job></experience>
+
+<statements>ACTIVITIES
+<activities>India Community Center (ICC) - Non-profit organization
+Chair, Library Committee (04/02</activities><honors>-04/03)
+*	Built largest India-focused library in North America, acquiring 12,000 titles in under one year
+*	Recognized by ICC leadership as committee chair of the month and committee of the month among 15 others
+
+Eta Kappa Nu (HKN) - EECS Honor Society (members hail from top 25% of</honors> <eligibility>EECS major)
+President (06/99-12/99); Officer (06/98-06/99</eligibility>)
+*	<honors>Led 25 officers in delivering student services such as tutoring, professor evaluations, and corporate info. sessions
+*	Instituted Career Fair committee which has generated over $100,000 for the organization since inception
+
+Alumni Scholar - Awarded the Alumni Leadership Scholarship by the California Alumni Association (30% tuition-paid)</honors></statements>
+
+
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='731827' experience='1' expidrefs='2' idrefs='2' lastused='2004' name='business case' start='731096'>
+    <variant>Business Case</variant>
+  </canonskill>
+  <canonskill end='731827' experience='1' expidrefs='2' idrefs='2' lastused='2004' name='business development' start='731096'>
+    <variant>business development</variant>
+  </canonskill>
+  <canonskill end='731034' experience='1' expidrefs='3' idrefs='3' lastused='2002' name='business intelligence' start='730547'>
+    <variant>BI</variant>
+    <variant>business intelligence</variant>
+  </canonskill>
+  <canonskill end='734569' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='consulting' start='731827'>
+    <variant>consulting</variant>
+  </canonskill>
+  <canonskill end='731827' experience='1' expidrefs='2' idrefs='2' lastused='2004' name='contract management' start='731096'>
+    <variant>contracts</variant>
+  </canonskill>
+  <canonskill end='731827' experience='1' expidrefs='2' idrefs='2' lastused='2004' name='customer relations' start='731096'>
+    <variant>clients</variant>
+  </canonskill>
+  <canonskill end='731034' experience='1' expidrefs='3' idrefs='3' lastused='2002' name='development' start='730547'>
+    <variant>product development</variant>
+  </canonskill>
+  <canonskill end='731034' experience='1' expidrefs='3' idrefs='3' lastused='2002' name='engineering' start='730547'>
+    <variant>Engineer</variant>
+  </canonskill>
+  <canonskill end='734569' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='functional' start='731827'>
+    <variant>functional</variant>
+  </canonskill>
+  <canonskill end='734569' experience='1' expidrefs='1,3,4' idrefs='1,3,4' lastused='2012' name='marketing' start='730182'>
+    <variant>marketing</variant>
+    <variant>market</variant>
+    <variant>Product Marketing</variant>
+  </canonskill>
+  <canonskill end='734569' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='marketing communications' start='731827'>
+    <variant>marketing communications</variant>
+  </canonskill>
+  <canonskill end='734569' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='sales' start='731827'>
+    <variant>sales</variant>
+  </canonskill>
+  <canonskill end='734569' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='shipping' start='731827'>
+    <variant>shipping</variant>
+  </canonskill>
+  <canonskill end='734569' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='strategic' start='731827'>
+    <variant>strategy</variant>
+  </canonskill>
+  <canonskill end='734569' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='web technology' start='731827'>
+    <variant>Web-technology</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

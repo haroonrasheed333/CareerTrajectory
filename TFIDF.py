@@ -65,7 +65,7 @@ def cos_sim(v1, v2):
 
 
 def main():
-    docs = ['JobDesc.txt', 'HN.txt']
+    docs = ['JobDesc.txt', 'HLat.txt']
     frequencies = compute_frequency_scores(docs)
     tfidf_vectors = frequencies['tf_idf']
     cosine_similarity =  cos_sim(tfidf_vectors[0], tfidf_vectors[1])
