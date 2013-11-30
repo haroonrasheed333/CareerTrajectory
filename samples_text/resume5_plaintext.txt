@@ -11,14 +11,6 @@ Led development of high performance, distributed metric system for aggregating a
 Helped implement Simply Hired's Facebook Connect feature: extending the Javascript libraries to cache and retrieve user data, and developed API failover mechanisms.
 Worked on various sections of the Simply Hired site using PHP, MySQL, HTML, CSS, and JS, including the job permalink, job trends, salary, local portal, and company pages.
 
-09/06 - Present	Founder, Twiigs.com, http://www.twiigs.com/
-Co-founded Twiigs.com with a friend.  Did much of the product design and was also the sole software engineer.  Launched in April 2007.
-Developed an online polling site from scratch using LAMP (Linux, Apache, MySQL, PHP) technologies.
-Used AJAX to make voting and commenting more efficient and dynamic.  Graceful degradation allows voting and commenting to still work with Javascript disabled.
-Created a Javascript widget to allow users to add polls to their own websites and blogs.  The widget lets readers of those sites to view the poll, vote, and survey the results without ever leaving the user's site.  It also inherits the formatting and styling of the html element it is placed in, to automatically blend in to the user's site.
-Created an OpenSocial polling application for the Glam Developer Network.
-The Twiigs polling widget has been used by prominent sites such as washingtonpost.com, evite.com, gofugyourself.com, and britneyspears.com.
-
 03/05 - 06/07	Technical Yahoo!, Yahoo!, Santa Clara, CA
 Developed Fraud Moderation system for Yahoo! Auctions, consisting of fraud detection engine and moderation tool for customer care.
 Migrated various Auction pages to PHP and updated the registration page to include identity validation.

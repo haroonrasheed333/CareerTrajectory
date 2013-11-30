@@ -36,37 +36,45 @@ class ResumeCorpus():
     
         labels = open ('labels.txt', 'w')
         for fname in files:
-            #data = open(source_dir + '/' + fname).read()
-            xml = etree.parse(source_dir + '/' + fname)
-            current_employer = xml.xpath('//job[@end = "present"]/employer/text()')
-            #print current_employer
-        
-            current_job_title = xml.xpath('//job[@end = "present"]/title/text()')
-            #print current_job_title
-        
-            current_job = xml.xpath('//job[@end = "present"]')
-	    print current_job
-	    print "#" + str(current_job_title)
-            if current_job:
-		i = 0
-		while (i<len(current_job)):
-			if current_job[i]:
-                		current_job[i].getparent().remove(current_job[i])
-            xml = etree.tostring(xml, pretty_print=True)      
-            text_data = stripxml(xml)
-            if current_job_title:
-                i = 0
-                while (i<len(current_job_title)):
-			if current_job_title[i]:
-                		text_data.replace(current_job_title[i], '')
-            #print text_data
-        
-            f = open('samples_text/' + '%s' %fname[:-4] +'_plaintext.txt', 'w')
-            f.write(text_data)
-            f.close()
-            if current_job_title:
-                labels.writelines(fname[:-4] +'_plaintext.txt' + "\t" + current_job_title[0] + "\n")
-        return
+		
+            	#data = open(source_dir + '/' + fname).read()
+            	xml = etree.parse(source_dir + '/' + fname)
+            	current_employer = xml.xpath('//job[@end = "present"]/employer/text()')
+            	current_job_title = xml.xpath('//job[@end = "present"]/title/text()')
+            	current_job = xml.xpath('//job[@end = "present"]')
+
+	    	if fname == 'resume324.txt':
+			print current_job
+			print current_job_title[0]
+	
+            	if current_job:
+	    		i = 0
+			if len(current_job)>1:
+				while (i<len(current_job)):
+					current_job[i].getparent().remove(current_job[i])
+                                	i = i+1
+	        	else:
+				current_job[0].getparent().remove(current_job[0])
+                         
+            	xml = etree.tostring(xml, pretty_print=True)      
+            	text_data = stripxml(xml)
+            	if current_job_title:
+            		i = 0
+			if len(current_job_title)>1:
+                		while (i<len(current_job_title)):
+					text_data.replace(current_job_title[i], '')
+                        		i = i+1
+            		else:
+				text_data.replace(current_job_title[0], '')
+
+            	f = open('samples_text/' + '%s' %fname[:-4] +'_plaintext.txt', 'w')
+            	f.write(text_data)
+            	f.close()
+            	if current_job_title:
+                	labels.writelines(fname[:-4] +'_plaintext.txt' + "\t" + current_job_title[0] + "\n")
+             	if fname == 'resume324.txt':
+			print text_data
+	return
 
 
 if __name__ == "__main__":

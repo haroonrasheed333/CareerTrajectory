@@ -40,14 +40,6 @@ GPA around 3.3. Graduated in 2007.
 
 Experience
 
-San Jose State University						August 2010- Present
-
-Developing Federated Cloud Agent as Master's project to distribute the user data over several cloud storage pools based on factors such as cost, response time, turnaround time, service disruption frequency, tolerance for failure and expected service rate using [Java, Google Cloud Storage and Google Doc].
-Developed various cryptographic techniques using Java security packages like Key Management (ANSI X9.17), Private key encryption/decryption ciphers (Enigma Rotor Machine, Pohlig Hellman), Authentication Protocol (S-Key), E-Mail Security System-PGP (Pretty Good Privacy) using [Java].
-Developed a ssl secured chat system on yahoo domain to enable both intra-domain chat and inter-domain chat. Included features like-file sharing, voice texting, emoticons and custom profile page creation using [Php, Javascript, Jquery, AJAX, cURL, mySql].
-Developed a multithreaded client/server automatic backup system which takes replicates of all the files from client's folder and save it on multiple servers with version control and recover the latest in case of any failure using [C, BSD Sockets, ONC RPC] 
-Getting hands-on experience on various data analysis systems[Apache hadoop, SSAS]
-
 Software Engineer
 Infosys Technologies Ltd, INDIA					2007 - 2010 (3 years)
 

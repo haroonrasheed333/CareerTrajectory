@@ -24,18 +24,7 @@ Tools
 Operating Systems
 : Linux, Windows.
 PROJECTS:
-Data manipulation in Python 						              		              March 2012 - Present
-Implementing a Python script that will parse a packed array of single-precision 'floats' encoded in base64, increment it, and then output the array and some related statistics, serialized in JSON format.
-Implementation of a file-based database using C++ 							  March 2012
-Implemented a file-based database with command-line interface for the Linux platform, allowing three commands 'insert', 'find', 'delete', using C++. 
-Built a GNU makefile to implement the code and test.sh - shell script that verifies the executable.
-Hire-n-expert (Database project) 						            August 2011 - December 2011
-Design, developed and implemented a yellow pages kind of web service to hire a technician, a worker or a freelancer in a very systematic and trustworthy manner (from user point of view).
-Used Oracle for database and Django (a python based framework) was used for web development and HTML and CSS for designing the web pages.
-Bitmask based code Compression and Decompression (Embedded systems) 		       	        November 2011
-Implementation of bitmask-based compression and decompression functions using C language.
-The working prototype took any 32-bit binary file, compressed it to produce compressed data and then decompress the compressed data to generate the original input and also calculated the compression ratio.
-Petri net simulator (Embedded Systems)   							       September 2011
+September 2011
 Created simulator in C capable of loading an initial state of a Petri net and generate the step-by-step simulations for a user defined number of stages.
 ACADEMIC ACHIEVEMENT:
 Received the College of Engineering Achievement Award of a 50% tuition waiver at the University of Florida.

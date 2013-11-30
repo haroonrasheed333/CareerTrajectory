@@ -37,41 +37,7 @@ Content Management System
 
 Professional Experience
 
-Jul 2011 - present
-Client: Charles Schwab &amp; Co.
-Project Lead\Architect\Senior Developer	
-C#, ASP.Net MVC 3, WCF Client, .Net Framework 4.0, JQuery, JSON, Visual Studio 2010
-
-Develop a scaled-down "emergency" version of Schwab.com Trading Site that:
--Can be activated when the "regular" site has reached max capacity or has availability issues.
--Is an alternative to "System Unavailable" or unstable experience.
--Can sustain flash-crash traffic levels of 7x and beyond.
--Is optimized for capacity and (server-side) performance.
-	-Has minimal cross-system resource consumption and dependencies.
-My responsibilities include:-
-Responsible for designing and documenting various components of the architecture which would make up the application.
-Code review.
-Prototyping &amp; evaluating various design options, tools &amp; technologies.
-Creating architecture for the new system in coordination with client architecture team.
-Presenting architecture design to various stakeholders.
-Technical design documentation &amp; review.
-Creating plan for various teams to work on.
-Managing &amp; coordinating with offshore development team of 3.
-Supporting onsite and offshore project managers in creating detailed project plans.
-
-Project: Web Analytics Migration	Jan 2012 - present
-Client: Charles Schwab &amp; Co.
-Project Lead\Architect\Senior Developer	
-JavaScript, C#, ASP.Net MVC, WCF, .Net Framework 4.0, Visual Studio 2010, Adobe Omniture SiteCatalyst
-
-	This project is mainly to replace the current web analytics product (Hitbox) with Adobe's Omniture SiteCatalyst. The migration of the web analytics tagging across multiple website of client now will support the new product through tag management system hosted on internal Content Management System based on the page tag syndication framework. My responsibilities include:-
-Responsible for designing and documenting various components of the architecture which would make up the integration of web analytics on each client web sites through page tag syndication framework.
-Presenting designs to various stakeholders for sigh-off and comments.
-Development of custom plugins to be used as common platform for integration through tag management system. 
-Point of contact to the implementation team for any technical issues faced in individual site integration with web analytics.
-Consultant to the Production Support team for suggesting ways to debug issues till application is client facing
-
-Project: Prospect Site Redesign	Jan 2010 - July 2011
+Jan 2010 - July 2011
 Client: Charles Schwab &amp; Co.
 Project Lead\Architect\Senior Developer	
 ASP.Net 4.0, C#, WCF Client, .Net Framework 4.0, Visual Studio 2010, Google Maps JavaScript V3 API, Google Search Appliance 6

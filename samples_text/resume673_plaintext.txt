@@ -11,27 +11,7 @@ Professional Experience:
 
 
 
-Period	January 2011 - Present	
-
-Position	Team Member &amp; Technical Developer	
-
-Team Size	12	
-
-Project
-Description	EFT(Electronic Fund Transfer) is part of Electronic banking System  used  for processing online and offline payment, Generating advice throughCorresponding settlements system and use cash manager Application(CMA) to format transaction message and update the database.
-
-EFT deals with the different types of payments processing generated at end-users and send it to corresponding settlements system to generate the advice in the  format acceptable to end-users and update the corresponding database for eachtransactions.
-In EBS Customer request transaction through online(LOLi-Lloyds link Online) or Offline(POLi) through CTS(Customer Transaction Switch) designed by logica. After going through all Checks it is sent to EFT. Where it recognize the payment type(FP, CHAPS etc)  and send it to corresponding settelement system like FP(Faster Payment, CS(Common System) and IAT(Inter-Account Transfer) and From there it Generate a advice and send it to customer in required format.
-
-
-
-
-Nature Of Project	Requirements Analysis, Design, Development, Testing and Documentation	
-
-Responsibilities	My basic responsibility was to provide enhancements and new product features
-and to resolve payment and advice(Complete EFT-Electronic Fund Transfer)  related problems reported by LBG customers. Specific Responsibilities included
-Requirements Analysis and Implementation to support new features and enhancements.
-Implementation of requirement,  testing and documentation 
+ 
 Version Control of the source code*
 
 

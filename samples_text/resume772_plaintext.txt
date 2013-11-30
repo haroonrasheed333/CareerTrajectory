@@ -6,7 +6,6 @@ jason.parker.atx@gmail.com
 Cell: 512-919-2119
 Objective: Learn as much technology as one person can consume.
 Professional Experience
-Systems Administrator II -- 1/12 - Present
 Systems Administrator -- 3/10 to 12/11
 Application Support Engineer/Specialist -- 10/07 to 2/10
 Focus of this shifting role was to provide 24/7 customer and internal service for escalated technical issues with multiple software platforms.  Two ticket queues managed (Tech Support and Operations, in Salesforce).   The servers are all VMWare ESX clusters (Dell PowerEdge models) in our hosted environment (licensed clients vary).  Data stored in SQL databases (MySQL, MS SQL) usually with SAN/iSCSI backend.  Complex monitoring configuration for hosted and licensed clients via custom scripts based in Python, Perl, and shell for "Zenoss".   Software written by in house team of Developers is enterprise level.  Roughly 150 clients use these products (StormPost, UnsubCentral and Aperture).  The platforms incorporate many internet standards, protocols, and open source software.  Most products are Java based on Linux/UNIX hosts (CentOS hosted, licensed clients use RHEL 5, Solaris, and Windows Server). Supported and improved a sophisticated SOAP API and multiple User Interfaces.  Web traffic serviced by Apache or Tomcat.  Bulk SMTP functions handled by Port25 PowerMTA software or Ironport servers.  Products interface with multiple third party API/protocols, such as Social Media APIs and SMS providers.
