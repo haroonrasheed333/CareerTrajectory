@@ -39,18 +39,26 @@ class ResumeCorpus():
             #data = open(source_dir + '/' + fname).read()
             xml = etree.parse(source_dir + '/' + fname)
             current_employer = xml.xpath('//job[@end = "present"]/employer/text()')
-            print current_employer
+            #print current_employer
         
             current_job_title = xml.xpath('//job[@end = "present"]/title/text()')
-            print current_job_title
+            #print current_job_title
         
             current_job = xml.xpath('//job[@end = "present"]')
+	    print current_job
+	    print "#" + str(current_job_title)
             if current_job:
-                current_job[0].getparent().remove(current_job[0])
+		i = 0
+		while (i<len(current_job)):
+			if current_job[i]:
+                		current_job[i].getparent().remove(current_job[i])
             xml = etree.tostring(xml, pretty_print=True)      
             text_data = stripxml(xml)
             if current_job_title:
-                text_data.replace(current_job_title[0], '')
+                i = 0
+                while (i<len(current_job_title)):
+			if current_job_title[i]:
+                		text_data.replace(current_job_title[i], '')
             #print text_data
         
             f = open('samples_text/' + '%s' %fname[:-4] +'_plaintext.txt', 'w')
@@ -63,3 +71,4 @@ class ResumeCorpus():
 
 if __name__ == "__main__":
     traintest_corpus = ResumeCorpus('samples') #4256
+
