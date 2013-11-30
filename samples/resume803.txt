@@ -1,0 +1,308 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734597' xml:space='preserve'><contact><name><givenname>Christian</givenname> <givenname>P</givenname>. <surname>Heller</surname></name></contact>
+
+<education>Education
+
+<school id='12'><institution>American InterContinental University</institution>, <address lat='33.9742' lon='-118.245' majorcity='LOS ANGELES' state='CA'><city>Los Angeles</city>, <state abbrev='CA'>CA</state></address>	<completiondate days='730792' iso8601='2001-11-01'>11/2001</completiondate>
+<degree level='18'>Master of Information Technology</degree></school>
+
+<school id='13'><institution>University of Southern California</institution>, <address><city>Los Angeles</city>, <state abbrev='CA'>CA</state></address>	<completiondate days='728630' iso8601='1995-12-01'>12/1995</completiondate>
+<degree level='16'>Bachelor of Art</degree> in <major code='1902'>Political Science</major>
+Student Senate
+Pre-law Fraternity - <degree level='18'>Master of Ritual</degree></school></education>
+
+<skills>Technical Skills
+
+<skills>Testing tool Hiperstation+, SAP, Client/Server system Sunview, Microsoft Office, CICS, Rumba 5.2, Vantage, RPS, TSO, Windows 2000, e-Tester. Site Manager, ITS Quick Look, WAST, Perf Monitor, ASTRA Quick Test, e-load,
+ASTRA Site Manager, Visual Source Safe, Rational Robot, Mercury WinRunner, Mercury LoadRunner, Empirix e-test Suite, Site Server, Java, Visual Basic, Html, Oracle, ASP, Active X, TCP/IP, Networking and Project Mgmt., ODBC IIS, MS Project, VSS, MS Visio, MS Automated Test Tool.</skills></skills>
+
+<summary>Professional Summary
+
+<summary>Senior QA Analyst with over 9 years of professional technical experience, including:
+
+Over 9 years of manual and automated testing experience 
+Extensive experience performing black box and grey box testing.
+Solid experience testing in a .Net environment, as well as well versed with multiple software platforms.
+Significant experience working with Business Analysts, Project Managers, and Product Managers to complete projects.
+Technical experience including VB, ASP, SQL, and Java.
+Working knowledge of SQL queries using Rapid SQL
+Long track record of quality analysis and business knowledge testing financial applications in an multi-tier java environment 
+Working knowledge of Mainframe such as AS400 applications testing 
+Working knowledge of software SDLC methodologies 
+Experience functional, regression, smoke, integration and UAT testing</summary></summary> 
+
+
+<experience end='present' start='728752'>Experience
+
+<job end='present' id='1' pos='1' sic='653104' sic2='65' start='732618'><employer>Western Asset Management</employer>, <address><city>Pasadena</city>, <state abbrev='CA'>CA</state></address>	<daterange><start days='732618' iso8601='2006-11-01'>11/2006</start>-<end days='present' iso8601='2012-04-02'>Present</end></daterange>
+<title>QA Senior Analyst</title>
+
+<description>Created Test Cases using Mercury QualityCenter.
+Used HP/Mercury Quality Center for enhancement/defect tracking 
+Ran manual and automated test scripts using Test Director.
+Testing Functional, Regression, integration and UAT testing environments
+Extensive testing of Trading platform applications such as Tradeweb, MarketAxess, FXConnect
+TradePipe, and GS REdi+
+Experience as a senior QA analyst coordinating off-shore resources, forecasting resource allocations for a project with onshore and off-shore resources, and estimating time for deliverables to management</description></job> 
+
+
+<job end='732618' id='2' pos='2' sic='736103' sic2='73' start='732526'><employer>PeopleWare Technical Resources Inc</employer>., <address><city>El Segundo</city>, <state abbrev='CA'>CA</state></address>	<daterange><start days='732526' iso8601='2006-08-01'>8/2006</start>-<end days='732618' iso8601='2006-11-01'>11/2006</end></daterange>
+<title>Senior QA Analyst</title>
+
+<description>Created and executed test plans and cases.
+Ran manual and automated testing scripts using Test Director.
+Worked on AS400, web technologies and client server applications.
+Coordinated with Business Analysts and Product Manager to complete projects.
+Implemented QA standards and guidelines for bank division.
+Used Test Director to document software rules and business changes.</description></job>
+
+<job end='732526' id='3' naics='52211002' naics2='52' pos='3' sic='602101' sic2='60' start='732192'><employer>Downey Savings and Loan</employer>, <address><city>Newport Beach</city>, <state abbrev='CA'>CA</state></address>	<daterange><start days='732192' iso8601='2005-09-01'>9/2005</start>-<end days='732526' iso8601='2006-08-01'>8/2006</end></daterange>
+<title>Senior QA Analyst</title>
+
+<description>Created and executed test plans and cases.
+Ran manual and automated testing scripts.
+Worked on multiple software platforms.
+Coordinated with Business Analysts and Product Manager to complete projects.
+Followed banking industry software and compliance regulations and guidelines.</description></job>
+
+<job end='732192' id='4' pos='4' sic='736103' sic2='73' start='732039'><employer>Tri-Staff Group, Inc</employer>., <address><city>Irvine</city>, <state abbrev='CA'>CA</state></address>	<daterange><start days='732039' iso8601='2005-04-01'>4/2005</start>-<end days='732192' iso8601='2005-09-01'>9/2005</end></daterange>
+<title>QA Analyst</title>
+
+<description>Contracted to hire at Finance America, Inc.
+Created test plans.
+Created test cases.
+Functional testing for web applications for mortgage industry.
+QA Policies and Procedures implementation.
+Implemented a testing lab for application development unit within IT.</description></job>
+
+<job end='731857' id='5' pos='5' sic='736304' sic2='73' start='731218'><employer>Commercial Programming Systems, Inc</employer>., <address><city>Los Angeles</city>, <state abbrev='CA'>CA</state></address>	<daterange><start days='731218' iso8601='2003-01-01'>1/2003</start>-<end days='731857' iso8601='2004-10-01'>10/2004</end></daterange>
+<title>QA Lead Engineer</title>
+
+<description>MS Project, VSS, MS Visio, MS Automated Test Tool.
+Completed contract was with Toyota Motors Sales, USA.
+Black box testing of intranet sites for Toyota Motors Corporation.
+Grey box testing of intranet sites for Toyota Motors Corporation.
+Recorded and played automated test scripts using Rational Robot.
+Created test cases for new intranet sites for Toyota Motors Corporation.
+Worked with management and technical teams to report bugs and resolve problems.
+Completed change management/release builds to production using content management tools.</description></job>
+
+<job end='731218' id='6' pos='6' start='730335'><employer>Homestore.com</employer>, Westlake Village/Anaheim/<address><city>Thousand Oaks</city>, <state abbrev='CA'>CA</state></address>	<daterange><start days='730335' iso8601='2000-08-01'>8/2000</start>-<end days='731218' iso8601='2003-01-01'>1/2003</end></daterange>
+<title>QA Lead Engineer</title></job>
+
+<job id='7' start='730122'><daterange>Windows <start days='730122' iso8601='2000-01-01'>2000</start></daterange>, <title>e-Tester, Site Manager</title>, <description>ITS Quick Look, WAST, Perf Monitor, ASTRA Quick Test, e-load, ASTRA Site Manager, Site Server, Java, Visual Basic, Html, Oracle, ASP, Active X, TCP/IP.
+Developed test plans based on functional and technical specifications.
+Recorded and played automated test scripts using e-test Suite by Empirix.
+Created, recorded and played automated test scripts using Mercury Interactive Winrunner and Loadrunner.</description></job>
+<job id='8'><title>QA Lead Engineer</title> <description>for CRM project in Visual Basic environment.
+Performed interviews for QA department.
+White box testing for 1 year.
+Black box testing for over 2 years.
+Familiar with Software testing and development methodologies.
+Managed a team of 2 QA testers and worked closely with Product Manager in coordinating projects.</description></job>
+
+<job id='9'><title>Test Administrator - QA</title>
+<description>Developed test scenarios.
+Developed test plans based on functional and technical specs to ensure accuracy.
+Communicated the status of changes and updates to the QA environment to all affected parties.
+Release engineer functions for Realtor.com.
+Used web based automated testing tools to gather and report information on the test results.
+Worked with Producer and Project Manager to complete projects.
+Black Box Testing.
+Helped conduct interviews for prospective employees.</description></job>
+
+<job end='730335' id='10' naics='54161201' naics2='54' pos='7' sic='641112' sic2='64' start='730030'><employer>Pacific Life Insurance Company</employer>, <address><city>Newport Beach</city>, <state abbrev='CA'>CA</state></address>	<daterange><start days='730030' iso8601='1999-10-01'>10/1999</start>-<end days='730335' iso8601='2000-08-01'>8/2000</end></daterange>
+<title>Product Implementation Analyst</title> - <department>MIS Department</department>
+
+<description>Maintained and developed the business systems.
+Black box testing of business applications.
+Client service support with death claim calculations and life insurance products.
+Ran illustrations of life insurance products.
+Updated systems: Vector, Alis, Cyberlife.</description></job>
+
+<job end='730030' id='11' pos='8' sic='511308' sic2='51' start='728752'><employer>SunAmerica, Inc</employer>., <address><city>Woodland Hills</city>, <state abbrev='CA'>CA</state></address>	<daterange><start days='728752' iso8601='1996-04-01'>4/1996</start>-<end days='730030' iso8601='1999-10-01'>10/1999</end></daterange>
+Year 2000 <title>Operations Analyst</title> - <department>MIS Department</department>
+
+<description>Testing tool Hiperstation+, SAP, Client/Server system Sunview, Microsoft Office, CICS, Rumba 5.2, Vantage, RPS, TSO.
+Analyzed and implemented Year 2000 testing requirements.
+Year 2000 compliance documentation, software and system modification testing.
+Change management function support.
+Recorded and played automated test scripts using Compuware Hiperstation+ testing tool.
+Black box testing of business applications within SunAmerica Inc.</description></job></experience>
+</resume>
+
+<skillrollup version='1'>
+  <canonskill experience='1' expidrefs='7' idrefs='7' name='activex' start='730122'>
+    <variant>Active X</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='analysis' start='732618'>
+    <variant>analyst</variant>
+  </canonskill>
+  <canonskill end='732192' experience='1' expidrefs='4' idrefs='4' lastused='2005' name='application development' start='732039'>
+    <variant>application development</variant>
+  </canonskill>
+  <canonskill end='732618' experience='1' expidrefs='2' idrefs='2' lastused='2006' name='as/400' start='732526'>
+    <variant>AS400</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='7' idrefs='7' name='asp' start='730122'>
+    <variant>ASP</variant>
+  </canonskill>
+  <canonskill end='732526' experience='1' expidrefs='3' idrefs='3' lastused='2006' name='banking' start='732192'>
+    <variant>banking</variant>
+  </canonskill>
+  <canonskill end='730335' experience='1' expidrefs='10' idrefs='10' lastused='2000' name='business systems analysis' start='730030'>
+    <variant>business systems</variant>
+  </canonskill>
+  <canonskill end='731857' experience='1' expidrefs='5,11' idrefs='5,11' lastused='2004' name='change management' start='728752'>
+    <variant>Change management</variant>
+    <variant>change management</variant>
+  </canonskill>
+  <canonskill end='730030' experience='1' expidrefs='11' idrefs='11' lastused='1999' name='cics' start='728752'>
+    <variant>CICS</variant>
+  </canonskill>
+  <canonskill end='732618' experience='1' expidrefs='2,11' idrefs='2,11' lastused='2006' name='client/server' start='728752'>
+    <variant>Client/Server</variant>
+    <variant>client server</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='9' idrefs='9' name='com'>
+    <variant>com</variant>
+  </canonskill>
+  <canonskill end='731857' experience='1' expidrefs='5' idrefs='5' lastused='2004' name='content management' start='731218'>
+    <variant>content management</variant>
+  </canonskill>
+  <canonskill experience='1' name='crm'>
+    <variant>CRM</variant>
+  </canonskill>
+  <canonskill end='730335' experience='1' expidrefs='10' idrefs='10' lastused='2000' name='customer relations' start='730030'>
+    <variant>Client</variant>
+  </canonskill>
+  <canonskill end='730030' experience='1' expidrefs='11' idrefs='11' lastused='1999' name='documentation' start='728752'>
+    <variant>documentation</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='9' idrefs='9' name='engineering'>
+    <variant>engineer</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='estimating' start='732618'>
+    <variant>estimating</variant>
+  </canonskill>
+  <canonskill end='732192' experience='1' expidrefs='4' idrefs='4' lastused='2005' name='finance' start='732039'>
+    <variant>Finance</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='forecasting' start='732618'>
+    <variant>forecasting</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,4,7,9' idrefs='1,4,7,9' lastused='2012' name='functional' start='730122'>
+    <variant>Functional</variant>
+    <variant>functional</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='hewlett packard' start='732618'>
+    <variant>HP</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='7' idrefs='7' name='html' start='730122'>
+    <variant>Html</variant>
+  </canonskill>
+  <canonskill name='iis'>
+    <variant>IIS</variant>
+  </canonskill>
+  <canonskill end='730335' experience='1' expidrefs='10' idrefs='10' lastused='2000' name='insurance' start='730030'>
+    <variant>insurance</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='7' idrefs='7' name='java' start='730122'>
+    <variant>Java</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='7' idrefs='7' name='load runner' start='730122'>
+    <variant>LoadRunner</variant>
+    <variant>Loadrunner</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='7' idrefs='7' name='mercury interactive' start='730122'>
+    <variant>Mercury Interactive</variant>
+  </canonskill>
+  <canonskill end='730030' experience='1' expidrefs='11' idrefs='11' lastused='1999' name='microsoft office' start='728752'>
+    <variant>Microsoft Office</variant>
+  </canonskill>
+  <canonskill end='731857' experience='1' expidrefs='5' idrefs='5' lastused='2004' name='microsoft project' start='731218'>
+    <variant>MS Project</variant>
+  </canonskill>
+  <canonskill name='microsoft windows 2000'>
+    <variant>Windows 2000</variant>
+  </canonskill>
+  <canonskill name='networking'>
+    <variant>Networking</variant>
+  </canonskill>
+  <canonskill name='odbc'>
+    <variant>ODBC</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='7' idrefs='7' name='oracle' start='730122'>
+    <variant>Oracle</variant>
+  </canonskill>
+  <canonskill end='732192' experience='1' expidrefs='4' idrefs='4' lastused='2005' name='policy analysis' start='732039'>
+    <variant>Policies</variant>
+  </canonskill>
+  <canonskill end='732618' experience='1' expidrefs='2,3' idrefs='2,3' lastused='2006' name='product management' start='732192'>
+    <variant>Product Manager</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='9' idrefs='9' name='production'>
+    <variant>Producer</variant>
+  </canonskill>
+  <canonskill name='project management'>
+    <variant>Project Mgmt</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='quality' start='732618'>
+    <variant>Quality</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,4,9' idrefs='1,2,4,9' lastused='2012' name='quality control' start='732039'>
+    <variant>QA</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='7' idrefs='7' name='quick' start='730122'>
+    <variant>Quick</variant>
+  </canonskill>
+  <canonskill end='730030' experience='1' expidrefs='11' idrefs='11' lastused='1999' name='rumba' start='728752'>
+    <variant>Rumba 5.2</variant>
+  </canonskill>
+  <canonskill end='731857' experience='1' expidrefs='5' idrefs='5' lastused='2004' name='sales' start='731218'>
+    <variant>Sales</variant>
+  </canonskill>
+  <canonskill end='730030' experience='1' expidrefs='11' idrefs='11' lastused='1999' name='sap' start='728752'>
+    <variant>SAP</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,3,5,7,11' idrefs='1,2,3,5,7,11' lastused='2012' name='shell scripting' start='728752'>
+    <variant>scripts</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='7' idrefs='7' name='site server' start='730122'>
+    <variant>Site Server</variant>
+  </canonskill>
+  <canonskill experience='1' name='software testing'>
+    <variant>Software testing</variant>
+  </canonskill>
+  <canonskill name='sourcesafe'>
+    <variant>Visual Source Safe</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='7' idrefs='7' name='tcp/ip' start='730122'>
+    <variant>TCP/IP</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='test director' start='732526'>
+    <variant>Test Director</variant>
+  </canonskill>
+  <canonskill end='730030' experience='1' expidrefs='11' idrefs='11' lastused='1999' name='tso' start='728752'>
+    <variant>TSO</variant>
+  </canonskill>
+  <canonskill end='731857' experience='1' expidrefs='5' idrefs='5' lastused='2004' name='visio' start='731218'>
+    <variant>Visio</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='7' idrefs='7' name='visual basic' start='730122'>
+    <variant>Visual Basic</variant>
+  </canonskill>
+  <canonskill end='732192' experience='1' expidrefs='4' idrefs='4' lastused='2005' name='web application development' start='732039'>
+    <variant>web applications</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='7' idrefs='7' name='winrunner' start='730122'>
+    <variant>WinRunner</variant>
+    <variant>Winrunner</variant>
+  </canonskill>
+  <canonskill end='730030' experience='1' expidrefs='11' idrefs='11' lastused='1999' name='year 2000' start='728752'>
+    <variant>Year 2000</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

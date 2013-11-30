@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734595' xml:space='preserve'><contact><name><givenname>Loreta</givenname> <surname>Sakhnovsky</surname></name>
+<address lat='40.5984' lon='73.9393' majorcity='BROOKLYN' state='NY'><street>2350 Ocean Ave. Apt. 10B</street>, <city>Brooklyn</city>, <state abbrev='NY'>NY</state> <postalcode>11229</postalcode></address>
+<phone>(201) 779-9688</phone>  *  <email>lorsakhnovsky@gmail.com</email></contact>
+
+
+
+<experience end='present' start='730639'>WORK EXPERIENCE
+<job end='present' id='1' pos='1' sic='801101' sic2='80' start='734383'><employer>Harlem Hospital</employer>, <address><city>New York</city>, <state abbrev='NY'>NY</state></address>
+<title>Staff Nurse</title>, <department>Adult Emergency Department</department>, <daterange><start days='734383' iso8601='2011-09-01'>09/2011</start> - <end days='present' iso8601='2012-03-31'>present</end></daterange> 
+<description>Provided care for Emergency Room patients within a level I trauma center. Assessed patients and rendered necessary triage. Prioritized care and managed multiple critically ill patients. Documented assessments, care plans, and outcomes.</description></job> 
+<job end='734171' id='2' pos='2' sic='8051' sic2='80' start='733744'><employer>Hudson Manor Healthcare Center</employer>, <address><city>Secaucus</city>, <state abbrev='NJ'>NJ</state></address>
+<title>Staff Nurse</title>, <daterange><start days='733744' iso8601='2009-12-01'>12/2009</start> - <end days='734171' iso8601='2011-02-01'>02/2011</end></daterange>
+<description>Direct assessment and care of residents in long-term geriatric and psychiatric units. Maintained accurate resident care records and documentation. Supervised and coordinated nursing personnel (LPNs, NAs) in providing resident care.</description></job> 
+
+<job end='733714' id='3' pos='3' start='731461'><employer>New York Bay Remittance</employer>, <address><city>New York</city>, <state abbrev='NY'>NY</state></address>
+Operations, Accounting, Compliance, <daterange><start days='731461' iso8601='2003-09-01'>09/2003</start> - <end days='733714' iso8601='2009-11-01'>11/2009</end></daterange>
+<title>Operations Staff</title>. <description>Processing and crediting of orders, generate reports using the company system, Access databases, and Excel spreadsheets. Telephone and email (Outlook) customer service. Provided training to newly hired staff.
+Accounting Staff. Updating and collection of accounts receivables from agents and customers, using company and online banking systems. Maintaining daily collection reports with Excel spreadsheets.</description></job> 
+<job id='4'><title>Compliance Staff</title>. <description>Performed compliance according to NYS Banking Dept. and company policies, including Anti-Money Laundering (AML) and Office of Foreign Assets Control (OFAC) checking of transactions and clients.</description></job>
+
+<job end='730884' id='5' pos='4' start='730639'><employer>Lan Care Information Systems</employer>, <address><city>Makati City</city>, <country iso3='PHL'>Philippines</country></address>	                		   	    
+<title>Computer Technician</title>, <daterange><start days='730639' iso8601='2001-06-01'>06/2001</start> - <end days='730884' iso8601='2002-02-01'>02/2002</end></daterange>
+<description>Troubleshoot hardware and software problems. Set up operating systems, hardware configuration, and other software for clients.</description></job></experience>
+<education>EDUCATION
+<school id='6'><degree level='16' name='Bachelor of Science'>Bachelor of Science</degree> in <major code='0610'>Nursing</major>, <completiondate days='734352' iso8601='2011-08-01'>August 2011</completiondate>
+<institution>New Jersey City University</institution>, <address><city>Jersey City</city>, <state abbrev='NJ'>NJ</state></address>
+<honors>Dean's List</honors>, Spring and Fall 2010 * Nursing Model Award, <completiondate days='734260' iso8601='2011-05-01'>May 2011</completiondate></school>
+
+<school id='7'><degree level='14'>Associate</degree> in <major code='0502'>Science</major> and <degree level='13' name='Diploma'>Diploma</degree> in <major code='0610'>Nursing</major>, <completiondate days='733561' iso8601='2009-06-01'>June 2009</completiondate>
+<institution>Christ Hospital School of Nursing and Hudson County Community College</institution>, <address><city>Jersey City</city>, <state abbrev='NJ'>New Jersey</state></address> 
+<honors>Graduated Summa Cum Laude</honors> with <gpa max='4' value='3.882'>3.882</gpa></school> GPA on a 4.0 scale
+
+<school id='8'><degree level='16' name='Bachelor of Science'>Bachelor of Science</degree> in <major code='1201'>Computer Engineering</major>, <completiondate days='731338' iso8601='2003-05-01'>May 2003</completiondate>
+<institution>Rizal Technological University</institution>, <address><city>Mandaluyong</city> City, <country iso3='PHL'>Philippines</country></address></school></education>
+
+<skills>COMPUTER SKILLS
+<skills>Windows, Mac OS X, Linux, MS/Open Office, Access, Wordpress, HTML, CSS, C++, VB, Ruby
+
+LICENSURE &amp; CERTIFICATION
+State of New York, Active
+BLS, ACLS, PALS, American Heart Association, Current</skills></skills>
+
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='a level' start='734383'>
+    <variant>a level I</variant>
+  </canonskill>
+  <canonskill end='733714' experience='1' expidrefs='3' idrefs='3' lastused='2009' name='accountancy' start='731461'>
+    <variant>Accounting</variant>
+  </canonskill>
+  <canonskill end='733714' experience='1' expidrefs='3' idrefs='3' lastused='2009' name='accounts receivable' start='731461'>
+    <variant>accounts receivables</variant>
+  </canonskill>
+  <canonskill end='733714' experience='1' expidrefs='3,4' idrefs='3,4' lastused='2009' name='banking' start='731461'>
+    <variant>banking</variant>
+    <variant>Banking</variant>
+  </canonskill>
+  <canonskill name='c + +'>
+    <variant>C++</variant>
+  </canonskill>
+  <canonskill end='730884' experience='1' expidrefs='5' idrefs='5' lastused='2002' name='computer hardware' start='730639'>
+    <variant>hardware configuration</variant>
+    <variant>hardware</variant>
+  </canonskill>
+  <canonskill name='css'>
+    <variant>CSS</variant>
+  </canonskill>
+  <canonskill end='730884' experience='1' expidrefs='4,5' idrefs='4,5' lastused='2002' name='customer relations' start='730639'>
+    <variant>clients</variant>
+  </canonskill>
+  <canonskill end='733714' experience='1' expidrefs='3' idrefs='3' lastused='2009' name='customer service' start='731461'>
+    <variant>customer service</variant>
+  </canonskill>
+  <canonskill end='733714' experience='1' expidrefs='3' idrefs='3' lastused='2009' name='database administration' start='731461'>
+    <variant>databases</variant>
+  </canonskill>
+  <canonskill end='734171' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='documentation' start='733744'>
+    <variant>documentation</variant>
+  </canonskill>
+  <canonskill end='733714' experience='1' expidrefs='3' idrefs='3' lastused='2009' name='email' start='731461'>
+    <variant>email</variant>
+  </canonskill>
+  <canonskill name='html'>
+    <variant>HTML</variant>
+  </canonskill>
+  <canonskill name='linux'>
+    <variant>Linux</variant>
+  </canonskill>
+  <canonskill name='macintosh os'>
+    <variant>Mac OS</variant>
+  </canonskill>
+  <canonskill end='733714' experience='1' expidrefs='3' idrefs='3' lastused='2009' name='microsoft access' start='731461'>
+    <variant>Access</variant>
+  </canonskill>
+  <canonskill end='733714' experience='1' expidrefs='3' idrefs='3' lastused='2009' name='microsoft excel' start='731461'>
+    <variant>Excel spreadsheets</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='4' idrefs='4' name='microsoft money'>
+    <variant>Money</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='4' idrefs='4' name='microsoft office'>
+    <variant>Office</variant>
+  </canonskill>
+  <canonskill end='733714' experience='1' expidrefs='3' idrefs='3' lastused='2009' name='microsoft outlook' start='731461'>
+    <variant>Outlook</variant>
+  </canonskill>
+  <canonskill name='microsoft windows'>
+    <variant>Windows</variant>
+  </canonskill>
+  <canonskill end='734171' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='nas' start='733744'>
+    <variant>NAs</variant>
+  </canonskill>
+  <canonskill end='734171' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='nursing' start='733744'>
+    <variant>nursing</variant>
+  </canonskill>
+  <canonskill end='730884' experience='1' expidrefs='5' idrefs='5' lastused='2002' name='operating systems' start='730639'>
+    <variant>operating systems</variant>
+  </canonskill>
+  <canonskill end='734171' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='personnel' start='733744'>
+    <variant>personnel</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='4' idrefs='4' name='policy analysis'>
+    <variant>policies</variant>
+  </canonskill>
+  <canonskill end='733714' experience='1' expidrefs='3' idrefs='3' lastused='2009' name='telephone skills' start='731461'>
+    <variant>Telephone</variant>
+  </canonskill>
+  <canonskill end='730884' experience='1' expidrefs='5' idrefs='5' lastused='2002' name='troubleshooting' start='730639'>
+    <variant>Troubleshoot</variant>
+  </canonskill>
+  <canonskill name='visual basic'>
+    <variant>VB</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

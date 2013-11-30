@@ -1,0 +1,40 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "FP", 
+            "Certification Name": "Forensic Photography", 
+            "Type": "Specialty", 
+            "Certification ID": "3597", 
+            "Certifying Organization": "The International Association for Identification"
+        }, 
+        {
+            "Acronym": "RBP", 
+            "Certification Name": "Registered Biological Photographer", 
+            "Type": "Specialty", 
+            "Certification ID": "4020", 
+            "Certifying Organization": "BioCommunications Association, Inc. - Board of Registry"
+        }, 
+        {
+            "Acronym": "CFVT", 
+            "Certification Name": "Certified Forensic Video Technician", 
+            "Type": "Core", 
+            "Certification ID": "5670", 
+            "Certifying Organization": "Law Enforcement and Emergency Services Video Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "AVID Certified Instructor", 
+            "Type": "Advanced", 
+            "Certification ID": "5455", 
+            "Certifying Organization": "Avid Technology, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Forensic Photographer Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "7734", 
+            "Certifying Organization": "International Association for Identification"
+        }
+    ], 
+    "onet": "27402100"
+}

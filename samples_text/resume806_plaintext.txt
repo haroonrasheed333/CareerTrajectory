@@ -1,0 +1,682 @@
+
+Vipin Lavania			Page 2
+
+
+
+
+
+
+
+PROFESSIONAL SUMMARY
+
+Sun Certified Java Programmer (1.2) with 12 Years of Experience in java development in domains like financial and banking, mainly in foreign exchange, Services financial securities and Mutual Funds.
+Currently working in IBM Global Account for over all implementation of Maximo TSRM and CCMDB. 
+Have worked on ISM 7.1 implementation of Rogers communication (Senior Service designer/Architect) 
+Worked as a Java developer in Bank of America implementation of Maximo.
+Worked with Tivoli as part of  Change PMP development team to develop Change process manager 7.1 and 7.1.1
+Worked on content loader development/enhancement
+Worked on Several java J2EE project with large implementations like G2 (Mutual funds). EIBS (Share market) and portals like ESP(Retail)
+Handled design and development of tools like Streaming quotes , SWIFT code and Migration utilities 
+Sun certified java programmer (1.2) and TSRM 7.1 implementation certification.
+
+
+
+AREAS OF EXPERTISE
+
+Operating systems	Windows/ Unix	
+
+Products/ Tools	Weblogic Portal, Weblogic Integrator, IPlanet web Server, Java Script, Jbuilder, WSAD 5.0, 6.1, RAD 6.0, Maximo621, 7.1, 7.1.1, 7.2.1	
+
+Technologies/Tools:  	Web Technologies, Websphere Application Developer, Eclipse, RAD.	
+
+RDBMS:	DB27.5, Oracle 9, SQL Server	
+
+Languages:        	Java1.1, 1.2, 1.3. 1.4.2,.1.5 EJB 1.1, 2.0 JSP and Servlets, XML, XSL, Struts 1.1	
+
+Application Server:	Weblogic 4.5, 5.1, 8.1, Web Sphere 4.5, 5.0,6.1	
+
+Designing Tool :	Rational Rose, UML	
+
+Business Domains	Finance, Retail and Equity	
+
+
+
+CERTIFICATIONS:
+
+ITIL @V3 foundation
+IBM Certified Deployment Professional - Tivoli Service Request Manager V7.1
+IBM Certified Deployment Professional - Tivoli Service Request Manager V7.2
+SCJP - Sun Certified Java Programmer (java 1.2)
+
+
+EDUCATION
+
+Masters in Computer Applications, 1998
+Masters in Statistics, 1993
+
+
+
+PROFESSIONAL WORK EXPERIENCE
+
+Jan 2006 - Dec 2006,	              		- Patni computer systems Inc, USA
+May 2005 - Dec 2005			- Zensar, Pune, India
+March 2003 - May 2005			- Mphasis Software and services, Mumbai, India
+May 2001 - March 2003                                  	- Nelito Systems, Mumbai, India	
+
+
+
+
+
+
+
+
+
+
+
+CURRENT ASSIGNMENT
+
+IBM Global Account Implementations							      Nov 10 - Till date.
+Location: Austin, Texas, USA.
+
+Client 		:  (IBM) IBM Global Account
+Environment	: DB2(Database), WAS(Websphere Application Server), Tivoli Base Services, TSD(Tivoli Service Desk), AIX (Operating System),Java, Windows XP(Operating System),VMImage(Development environment tool)
+Skill/Tools        		: RMI, Maximo 7.1.1.3, Web Sphere 6.1, DB2, RAD 6.0, XML, Birt
+Role			: Senior Service Designer/ Architect
+
+This project is to build an instance for all kind of IT Services for IBM worldwide organization. That includes ticket management, Change and Configuration management, asset management, Service catalog and self service as a unified single point of entry. This project global account is IBM helpdesk and Handles all the service tickets raised by IBM employees. This is a large system and accounts for estimated 1500 + concurrent users and more than  total 300K users.
+
+Responsibilities:
+Designed build process using content loader
+Design and Development of features assigned 
+Have single handedly planned and implement a pilot upgrade project IGA to 7.2.1 TSRM/CCMDB and prepared report and presentation of the out come that will help in sizing the effort.
+Supporting the maintenance team if they are not able to answer some questions on some incidents.
+Build and deployment of defect and features on the release.
+Part of Architecture team to develop architecture documents of IGA Service Catalog 7.2
+Worked as SME for Rogers and IGA support. 
+
+
+
+
+
+PREVIOUS ASSIGNMENTS
+
+ISM implementation in Rogers IT implementation				    September 09 - March 2011
+Location: Austin, Texas, USA.
+
+Client		: (IBM) Rogers IT, Canada
+Environment	: DB2(Database), WAS(Websphere Application Server), Tivoli Base Services, TSD(Tivoli Service Desk), AIX (Operating System),Java, Windows XP(Operating System),VMImage(Development environment tool)
+Skill/Tools        		: Maximo 7.1.1.5, Web Sphere 6.1, DB2, XML, Birt reports
+Role			: Senior Service Designer/ Architect
+
+Rogers is one of the largest communication service providers in CANADA. As part of ongoing information technology transformation  IBM is implementing ISM( Service Request Management and change and configuration management done through ISM7.1,) Mainly as part of IBM team our job is to suggest and provide implementation of the best practices and design and  align it with there current requirements. In this project I am working on, 
+
+Responsibilities:
+Design and development of Change templates and loading mechanism through MEA.
+Working as Lead Designer/Architect.
+Worked for End to end implementation of ism from inception to making it Live.
+Design and development of end to end change process,
+Devising the migration process which will be basically a combination of migration manager package and SQL scripts and implementation of the requirements.
+designing security profiles 
+Configuration of Maximo to implements the requirements.
+Design change Enterprise and IMAC Change process. 
+Part of training as SME to the customer
+
+
+
+
+
+
+
+
+
+Bank of America Maximo Implementation			  		August 2008 - September 2009
+Location: Austin, Texas, USA.
+
+Client                   : (IBM) Bank of America (USA)
+Environment	: DB2 (Database), WAS (Websphere Application Server), Tivoli Base Services, TSD(Tivoli Service Desk),  AIX (Operating System),Java, Windows (Operating System), VMImage (Development environment tool), RAD
+Skill/Tools        	: RMI, Maximo 7.1.1.3, Web Sphere 6.1, DB2, RAD 6.0, XML, Java1.4.2
+Role		: Maximo Developer
+
+Bank of America is one of the big customers for IBM in North America of Maximo, They are in process of implementation of Maximo 7.1.1.5 for there Change, Configuration and Service management. They have customized all Maximo to make it fit for their need as a large organization.
+
+Responsibilities: 
+Design and Development of Queries which will be used for start center result sets
+Design and Customization of Field Level Historical data(out of box Maximo provides record level history)
+Development and Customization of Mass CAB Approvals/Rejections 
+Part of team in development of approval workflows
+Development of most of Conditional UI to show, hide and make fields read only depending on the roles. 
+Development of Mass functions for Service Voting members (OIG for service CIs), Change OPS Reviewer.
+Development of Functionality of applying events to RFC and add Event Approvers, SLM Approvers and Additional Approvers and Services.
+Writing various field validations classes, Custom Actions, Data Beans as a solution to Bank Of America change process.
+Build rules Engine for automate approvals and other actions which need to take place depending on certain rule can be automated.
+
+
+
+Run book Automation	  						             	  May 2008 - August 2008
+Location: Austin, Texas, USA.
+
+Client                   : IBM (Tivoli Software and Services - USA)
+Environment	: Windows/ AIX
+Skill/Tools        	: RMI, Maximo 7.1.1.3, Web Sphere 6.1, DB2, RAD 6.0, XML, Java1.4.2
+Role		: Programmer/Analyst
+
+
+
+Run book Automation initiative is to combine the end to end implementation of a CI/Asset through the workflow so that this can be done by one click of button. For this workflow is enhanced to handle requests in form of script and can communicate to TPM for deployments. CI attribute runtime values are also be assigned dynamically.
+
+Responsibilities: 
+Design and development of Run book Designer Application, Which extends workflow application to provide user with actions and tasks to automate their process.
+Designed sample workflows for TPM Interactions through run book.
+
+
+
+ISM 7.1, 7.1.1								         December 2006 - May 2008
+Location: Austin, Texas, USA.
+
+Client                   : IBM (Tivoli Software and Services - USA)
+Environment	: Windows/ AIX
+Skill/Tools        	: RMI, Maximo 7.1.1.3, Web Sphere 6.1, DB2, RAD 6.0, XML, Birt
+Role	: Programmer/Analyst
+
+Maximo Asset Management helps companies in asset intensive industries increase their return on asset investment while decreasing their operating costs, including greater work force efficiency, inventory/material optimization and lower supplier transaction costs. Maximo IT service management solutions are the applications you need to make the most out of your IT investments. Going beyond stand-alone IT asset management and IT service desk capabilities, Maximo IT Asset Management software provides a comprehensive view of all your critical IT business processes, enabling you to effectively manage IT assets, resources, changes and service levels using ITIL&#174; best practices.
+
+Responsibilities: 
+Design and Development of Start Centers for change management.
+Worked in development of Change application derived from Base change.
+Design and development of Birt Reports for change management
+Part of first Half release(blue wash) this was Maximo 621
+Design and development of users KPIs, result sets and security groups for Maximo Change management
+Designed and developed security roles and privileges on the basis of ITUP with my team lead
+Design and development of approval workflow for change owner and CI owner.
+
+
+
+Prescott Derby System							January 2006 - December 2006
+
+Location: Rochester, New York, USA.
+
+Client                     	: (Patni computers) Thomson Legal and Regulatory (USA)
+Environment	: Windows
+Skill/Tools        	: Web sphere 6.0, Struts 1.1, EJB 2.0, XML, Eclipse
+Role		: On-Site Coordinator
+
+Thomson west is company that is in legal in USA and is famous for their product called West Law. This system is generally used here in USA for buying the legal document related to market research news research and broker research. This system interacts with other systems like NOVUS, Mercury, SAP and prism using MQ, LDAP or Web services. I am handling the maintenance to this system with the team at offshore.
+
+Responsibilities: 
+Coordinating and managing work with offshore team
+Suggesting new performance Improvements
+Estimating the trackers timelines.
+Planning maintenance deliveries
+Part of development team working for Feature development, which includes Writing EJBS, code for transformation of XML document to HTML by applying XSL.
+
+
+
+
+SK 600K								       	 March 2005 - December 2005
+Location: Pune, India.
+
+Client                    	 : (Zensar) Senshukai (Japan)
+Environment	: Windows/ AIX
+Skill/Tools        	: java, JSP, EJB2.0, Web sphere, DB2, Eclipse  
+Role		: Technical Lead
+	
+This is a migration project from PL/1 to java and the approach followed was line by line migration that is new in migration project like that. Its 60 member team divided into four parts and I was leading one team.  I was working on O3W framework which is a proprietary framework of client and is similar to struts. My role was basically support team with the development by making guidelines and tools to automate some of the process.
+
+Responsibilities:
+Standardization of the Migration process.
+Code reviews for the team and providing technical solution.
+I was responsible for the all the partial deliveries for my module.
+Developed Source code parser which can parse the PL/1 code to java to approximate 60-70%
+
+
+MCV DBR(My Customer View DB Remodeling)			                      January 2005-March 2005
+Location: Mumbai, India.
+
+Company/Client                     : (Mphasis) Wells Fargo (US)
+Environment		: Windows
+Skill/Tools    	: EJB2.0, Web logic 8.1, Weblogic portal Oracle 9i, Weblogic Workshop, Web   Methods Integration Server  
+Role			: Technical Lead
+
+The View (My Customer View) is a major Wells Fargo wholesale banking group (WFB) initiative to provide a single integrated view of the Bank's wholesale customer relationships and its points-of-contact. The Data Base Remodeling is done for the system and the required impact on the other layers. I, as a Module lead in the project doing the impact analysis and Design for the Presentation layer and Middle layer of the project
+
+Responsibilities:
+Impact analysis for the project  
+Coding for the Presentation layer
+Low lever design for the project
+Done Off-shore installation of the old application. 
+
+
+LOA(Learning Operations Automation)				             October 2004- January 2005
+Location: Mumbai, India.
+
+Client                     		: (Mphasis) Pfizer (US)
+Environment		: Windows
+Skill/Tools    	: EJB2.0, Weblogic 8.1, Weblogic portal Oracle 9i, Weblogic Workshop, Weblogic Integrator (WLI) , XML  
+Role			: Technical Lead
+
+This is a Learning automation Intranet application done for Pfizer (US) learning center.
+This application involves automation of various emails sent to the Pfizer employees for various training in which they are enrolled/invited. This application was the complete automation of the training center process for organizing, conducting and scheduling trainings.
+This application involves workflows for assigning trainees, trainee approvals, trainee testing and sending mail across the organization at a given time..
+
+Responsibilities:
+Development of Low Level Design for the trainee track
+Development of Email common component that sends mails in HTML format
+Helping developers in development of testing, trainee modules
+
+ESP(Every Serve Perfect)				                	           	 August 2004 - October 2004
+Location: Mumbai, India.
+
+Client                          	: (Mphasis) Diageo (UK)
+Environment		: Windows
+Skill/Tools        		: RMI, Maximo 7.1.1.3, Web Sphere 6.1, DB2, RAD 6.0, XML, Birt
+Role			: Technical  Lead
+
+This is a portal developed for Diageo, the largest liquor manufacturing company in UK . this portal has targeted the pub owners who can register with the site and get the information about the new product launched by the company. I as a senior software programmer developing functionalities like login(Authentication) and contact us and managing a sub team of two people and conducting review of development and test cases. I have also developed the email functionality in whole of the site.
+
+
+
+Responsibilities:
+Development of Login module end to end.
+Development of administration Module
+Development of FAQ and contact us screens
+Development of email component that was used through out the application.
+
+
+G2 Systems						                	           	 March 2003 - August 2004
+Location: Delhi, India.
+
+Client                    	 	: (Mphasis) Fidelity Investments (UK) 
+Environment		: Windows/ AIX
+Skill/Tools        		: RMI, Maximo 7.1.1.3, Web Sphere 6.1, DB2, RAD 6.0, XML, Birt
+Role			: Java Developer
+
+The G2 project is meant to re-engineer the existing Mutual Fund Transfer Agency System to a J2EE based application on Websphere/DB2. this system has its framework, implemented in EJB1.1 which extensively uses various patterns for the different layers, and is highly configurable and scalable. The G2 framework has a Business Service Interface (Session Bean), which provides client side API for different clients. Mozilla Client interacts with BSI thru Live connect (Java Script to Java Bridge), On server side different business object wrapped in session beans interact with each other thru server delegate. These business objects interact with XML based persistence framework to access database.
+
+
+Responsibilities:
+Development of Authorization module
+Part of Framework team for Information delivery module
+Development of JMS implementation for generation of documents.
+Designed testing strategy for "Information delivery" module.
+
+
+
+EIBS						    			            May 2001 - March 2003
+Location: Mumbai, India.
+
+Client                     		: TCS (deployed in HSBC, HDFC, Apollo Sinduri, Anagram Securities)
+Environment		: Windows
+Skill/Tools        		: RMI, Maximo 7.1.1.3, Web Sphere 6.1, DB2, RAD 6.0, XML, Birt
+Role			: Java Developer
+
+
+This is a Product developed by TCS for various brokers of the share market. This product enables a broker to verify the exposure and margins at the dealer and branch level. Also all the broker level validations can be done before hand to sending the order to the Neat or bolt terminal. Also the dealer and client can trade on both NSC and BSC with the same terminal. This product enables client to trade on internet also. The broker and branch can work with VSAT connections also.
+
+Responsibilities:
+Development of Market watch component
+Development of Admin Console for HSBC 
+Implementation of Application in HSBC
+Development of "file upload" application
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Vipin Lavania
+
+1966 Kemp wood Loop, Round rock, Texas-78665
+Home:  5124336672
+Cell: 5125060387
+ E-mail Address: lvipin@yahoo.com
+
+
+
+
+
+
+
+
+  
+    AIX
+  
+  
+    Analyst
+  
+  
+    API
+  
+  
+    Apollo
+  
+  
+    approach
+  
+  
+    Asset Management
+    asset management
+  
+  
+    Agency
+  
+  
+    automate
+  
+  
+    Automation
+    automation
+  
+  
+    banking
+  
+  
+    book
+  
+  
+    BSC
+  
+  
+    BSI
+  
+  
+    business objects
+  
+  
+    business processes
+  
+  
+    catalog
+    Catalog 7.2
+  
+  
+    Change management
+    change management
+  
+  
+    Configuration management
+    configuration management
+  
+  
+    content
+  
+  
+    Client
+    client
+    clients
+  
+  
+    Data Base
+    Database
+  
+  
+    delivery
+  
+  
+    Designing
+    designing
+  
+  
+    Eclipse
+  
+  
+    Email
+    email
+  
+  
+    engineer
+  
+  
+    EJB1.1
+    EJB2.0
+    EJB 1.1
+    EJB 2.0
+  
+  
+    Equity
+  
+  
+    Estimating
+  
+  
+    features
+  
+  
+    Finance
+  
+  
+    HTML
+  
+  
+    IBM
+  
+  
+    DB2
+  
+  
+    Web Sphere 4.5
+    Web Sphere 6.1
+    Web sphere 6.0
+    Web sphere
+    Websphere
+  
+  
+    IMAC
+  
+  
+    information technology
+  
+  
+    inventory
+  
+  
+    Investments
+    investments
+  
+  
+    IPlanet
+  
+  
+    ITIL
+  
+  
+    Java
+    java
+    Java1.4.2
+    Java1.1
+  
+  
+    java 1.2
+  
+  
+    JSP
+  
+  
+    Beans
+    beans
+  
+  
+    Java Script
+  
+  
+    Jbuilder
+  
+  
+    JMS
+  
+  
+    Languages
+  
+  
+    LDAP
+  
+  
+    team lead
+  
+  
+    Law
+    Legal
+    legal
+  
+  
+    managing
+  
+  
+    market research
+  
+  
+    Market
+    market
+  
+  
+    access database
+  
+  
+    mail
+  
+  
+    Windows
+    Windows (Operating System
+  
+  
+    3. 1
+  
+  
+    Windows XP
+  
+  
+    Migration
+    migration
+  
+  
+    Neat
+  
+  
+    Enterprise
+  
+  
+    Operating systems
+    Operating System
+  
+  
+    optimization
+  
+  
+    Oracle 9
+  
+  
+    DB
+  
+  
+    Developer
+  
+  
+    organizing
+  
+  
+    PL/1
+  
+  
+    prism
+  
+  
+    Coding
+    Programmer
+    programmer
+  
+  
+    RAD 6.0
+    RAD
+  
+  
+    Rational Rose
+  
+  
+    RDBMS
+  
+  
+    read
+  
+  
+    research
+  
+  
+    Retail
+  
+  
+    RMI
+  
+  
+    SAP
+  
+  
+    scheduling
+  
+  
+    Securities
+  
+  
+    Servlets
+  
+  
+    scripts
+    script
+  
+  
+    SQL Server
+    SQL
+  
+  
+    strategy
+  
+  
+    Struts 1.1
+    struts
+  
+  
+    Sun
+  
+  
+    Tivoli
+  
+  
+    UML
+  
+  
+    Unix
+  
+  
+    upgrade
+  
+  
+    View
+    view
+  
+  
+    web Server
+  
+  
+    Weblogic 4.5
+    Web logic 8.1
+    Weblogic 8.1
+    Weblogic
+  
+  
+    workflow
+  
+  
+    XML
+  
+  
+    XSL
+  
+
+

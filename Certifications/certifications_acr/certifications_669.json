@@ -1,0 +1,54 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CFPC&C", 
+            "Certification Name": "Fluid Power Connector and Conductor", 
+            "Type": "Advanced", 
+            "Certification ID": "2605", 
+            "Certifying Organization": "International Fluid Power Society"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Internal Corrosion Technologist", 
+            "Type": "Advanced", 
+            "Certification ID": "8586", 
+            "Certifying Organization": "NACE International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Journeyman Pipefitter-Steamfitter", 
+            "Type": "Core", 
+            "Certification ID": "5635", 
+            "Certifying Organization": "National Inspection, Testing and Certification Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "STAR Fire SprinklerFitter Mastery", 
+            "Type": "Advanced", 
+            "Certification ID": "7014", 
+            "Certifying Organization": "National Inspection, Testing and Certification Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Corrosion Specialist", 
+            "Type": "Advanced", 
+            "Certification ID": "1152", 
+            "Certifying Organization": "NACE International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Journeyman Plumber", 
+            "Type": "Core", 
+            "Certification ID": "5634", 
+            "Certifying Organization": "National Inspection, Testing and Certification Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "STAR Pipefitter Mastery", 
+            "Type": "Advanced", 
+            "Certification ID": "7012", 
+            "Certifying Organization": "National Inspection, Testing and Certification Corporation"
+        }
+    ], 
+    "onet": "47215201"
+}

@@ -1,0 +1,33 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CET", 
+            "Certification Name": "Certified Elevator Technician", 
+            "Type": "Core", 
+            "Certification ID": "6056", 
+            "Certifying Organization": "National Association of Elevator Contractors"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Elevator Inspector", 
+            "Type": "Advanced", 
+            "Certification ID": "8578", 
+            "Certifying Organization": "International Association of Plumbing and Mechanical Officials"
+        }, 
+        {
+            "Acronym": "CFPC&C", 
+            "Certification Name": "Fluid Power Connector and Conductor", 
+            "Type": "Advanced", 
+            "Certification ID": "2605", 
+            "Certifying Organization": "International Fluid Power Society"
+        }, 
+        {
+            "Acronym": "CAT", 
+            "Certification Name": "Certified Accessibility Technician", 
+            "Type": "Core", 
+            "Certification ID": "6055", 
+            "Certifying Organization": "National Association of Elevator Contractors"
+        }
+    ], 
+    "onet": "47402100"
+}

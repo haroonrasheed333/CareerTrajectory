@@ -1,0 +1,201 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CMC", 
+            "Certification Name": "Certified Mortgage Consultant", 
+            "Type": "Advanced", 
+            "Certification ID": "6061", 
+            "Certifying Organization": "National Association of Mortgage Brokers"
+        }, 
+        {
+            "Acronym": "CMI", 
+            "Certification Name": "Certified Mortgage Investigator", 
+            "Type": "Core", 
+            "Certification ID": "8801", 
+            "Certifying Organization": "Conference of State Bank Supervisors"
+        }, 
+        {
+            "Acronym": "CMI", 
+            "Certification Name": "Certified Mortgage Investigator", 
+            "Type": "Core", 
+            "Certification ID": "6900", 
+            "Certifying Organization": "Education Foundation of State Bank Supervisors"
+        }, 
+        {
+            "Acronym": "HCM", 
+            "Certification Name": "Health Care Collection Management", 
+            "Type": "Advanced", 
+            "Certification ID": "7977", 
+            "Certifying Organization": "Association of Credit and Collection Professionals"
+        }, 
+        {
+            "Acronym": "CRU", 
+            "Certification Name": "Certified Residential Underwriter", 
+            "Type": "Core", 
+            "Certification ID": "1374", 
+            "Certifying Organization": "Mortgage Bankers Association of America"
+        }, 
+        {
+            "Acronym": "CMS", 
+            "Certification Name": "Residential Certified Mortgage Servicer", 
+            "Type": "Core", 
+            "Certification ID": "4781", 
+            "Certifying Organization": "Mortgage Bankers Association of America"
+        }, 
+        {
+            "Acronym": "CMAR", 
+            "Certification Name": "Certified Mortgage Appraisal Reviewer", 
+            "Type": "Core", 
+            "Certification ID": "6162", 
+            "Certifying Organization": "National Association of Independent Fee Appraisers"
+        }, 
+        {
+            "Acronym": "CSME", 
+            "Certification Name": "Certified Senior Mortgage Examiner", 
+            "Type": "Advanced", 
+            "Certification ID": "8798", 
+            "Certifying Organization": "Conference of State Bank Supervisors"
+        }, 
+        {
+            "Acronym": "CMME", 
+            "Certification Name": "Certified Multistate Mortgage Examiner-in-Charge", 
+            "Type": "Advanced", 
+            "Certification ID": "8800", 
+            "Certifying Organization": "Conference of State Bank Supervisors"
+        }, 
+        {
+            "Acronym": "CMS", 
+            "Certification Name": "Commercial Certified Mortgage Servicer", 
+            "Type": "Core", 
+            "Certification ID": "4777", 
+            "Certifying Organization": "Mortgage Bankers Association of America"
+        }, 
+        {
+            "Acronym": "CME", 
+            "Certification Name": "Certified Mortgage Examiner", 
+            "Type": "Core", 
+            "Certification ID": "8797", 
+            "Certifying Organization": "Conference of State Bank Supervisors"
+        }, 
+        {
+            "Acronym": "CMEM", 
+            "Certification Name": "Certified Mortgage Examinations Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "8799", 
+            "Certifying Organization": "Conference of State Bank Supervisors"
+        }, 
+        {
+            "Acronym": "PCA", 
+            "Certification Name": "Professional Credit Associate", 
+            "Type": "Core", 
+            "Certification ID": "8972", 
+            "Certifying Organization": "Credit Professionals International"
+        }, 
+        {
+            "Acronym": "CCP", 
+            "Certification Name": "Credit & Collection Professional", 
+            "Type": "Core", 
+            "Certification ID": "7979", 
+            "Certifying Organization": "Association of Credit and Collection Professionals"
+        }, 
+        {
+            "Acronym": "SHCM", 
+            "Certification Name": "Specialist in Housing Credit Management", 
+            "Type": "Specialty", 
+            "Certification ID": "4789", 
+            "Certifying Organization": "National Affordable Housing Management Association"
+        }, 
+        {
+            "Acronym": "PCE", 
+            "Certification Name": "Professional Credit Executive", 
+            "Type": "Advanced", 
+            "Certification ID": "8974", 
+            "Certifying Organization": "Credit Professionals International"
+        }, 
+        {
+            "Acronym": "CPB", 
+            "Certification Name": "Certified Personal Banker", 
+            "Type": "Advanced", 
+            "Certification ID": "3864", 
+            "Certifying Organization": "Institute of Certified Bankers"
+        }, 
+        {
+            "Acronym": "PCS", 
+            "Certification Name": "Professional Credit Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "8973", 
+            "Certifying Organization": "Credit Professionals International"
+        }, 
+        {
+            "Acronym": "CSME", 
+            "Certification Name": "Certified Senior Mortgage Examiner", 
+            "Type": "Advanced", 
+            "Certification ID": "6898", 
+            "Certifying Organization": "Education Foundation of State Bank Supervisors"
+        }, 
+        {
+            "Acronym": "AMP", 
+            "Certification Name": "Accredited Mortgage Professional", 
+            "Type": "Core", 
+            "Certification ID": "5821", 
+            "Certifying Organization": "Mortgage Bankers Association of America"
+        }, 
+        {
+            "Acronym": "GMA", 
+            "Certification Name": "General Mortgage Associate", 
+            "Type": "Core", 
+            "Certification ID": "6059", 
+            "Certifying Organization": "National Association of Mortgage Brokers"
+        }, 
+        {
+            "Acronym": "CME", 
+            "Certification Name": "Certified Mortgage Examiner", 
+            "Type": "Core", 
+            "Certification ID": "6897", 
+            "Certifying Organization": "Education Foundation of State Bank Supervisors"
+        }, 
+        {
+            "Acronym": "HCCP", 
+            "Certification Name": "Housing Credit Certified Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "3798", 
+            "Certifying Organization": "National Association of Home Builders"
+        }, 
+        {
+            "Acronym": "MPCE", 
+            "Certification Name": "Master Professional Credit Executive", 
+            "Type": "Advanced", 
+            "Certification ID": "8975", 
+            "Certifying Organization": "Credit Professionals International"
+        }, 
+        {
+            "Acronym": "CCCO", 
+            "Certification Name": "Credit and Collection Compliance Officer", 
+            "Type": "Advanced", 
+            "Certification ID": "7976", 
+            "Certifying Organization": "Association of Credit and Collection Professionals"
+        }, 
+        {
+            "Acronym": "CCUFC", 
+            "Certification Name": "Certified Credit Union Financial Counselor", 
+            "Type": "Advanced", 
+            "Certification ID": "9230", 
+            "Certifying Organization": "Credit Union National Association"
+        }, 
+        {
+            "Acronym": "CRMS", 
+            "Certification Name": "Certified Residential Mortgage Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "6060", 
+            "Certifying Organization": "National Association of Mortgage Brokers"
+        }, 
+        {
+            "Acronym": "SHCM", 
+            "Certification Name": "Specialist in Housing Credit Management", 
+            "Type": "Specialty", 
+            "Certification ID": "8039", 
+            "Certifying Organization": "National Apartment Association"
+        }
+    ], 
+    "onet": "13207100"
+}

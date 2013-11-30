@@ -1,0 +1,484 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734595' xml:space='preserve'><contact><name><givenname>Sergey</givenname> <surname>Kozlov</surname></name> (Telecommute)
+Contact:	Email #1:	<email>SergeyKozlov2009@gmail.com</email>
+	<email>xksa@inbox.ru</email>
+AOL IM 	SergeyAKozlov
+Skype:		SergeyKozlov2009
+Phone:		<phone>+7 (3532) 53-39-24</phone>
+Mobile:	<phone type='cell'>+7 890 3393 5513</phone></contact>
+		Address:	Russia, Orenburg
+
+
+<summary>Objective:	<objective>Seeking a challenging position as telecommute J2EE Developer with a growth-oriented organization where my skills, experience will be utilized to their full potential.</objective></summary>
+
+
+
+<skills>Skills Summary
+
+
+<skills>Design Skills 6+ yrs	J2EE Design Patterns, EJB Design Patterns, AllFusion ERwin Data Modeler, UML, System Development Life Cycle (SDLC)	
+
+J2SE 9+ yrs	JDBC, JNDI, Security, Java Web Start, Swing, Applet, Collections, JavaBeans, Networking, Log4j, SLF4j, Struts, Spring, Hibernate, JUnit, LDAP	
+
+JEE 7+ yrs	EJB (2.1, 3.0), Java Persistence API, Servlet, JSP, Tag Libraries, JSF, JSTL, JMS, JTA, JavaMail, Web Services, Security	
+
+Other Technologies 	Adobe FLEX, Cairngorm, BlazeDS, PHP, Joomla CMS, C#(basics)	
+
+Middleware 9+ yrs	JBoss, Glassfish, Tomcat, Apache, Weblogic	
+
+XML/HTML 9+ yrs	XML, XSLT, XPath, SAX, StAX, DOM, HTML, XHTML, CSS, AJAX	
+
+Scripts 9+ yrs	Shell Script(Bash, CSH), JavaScript (Dojo, jQuery, Prototype, JSON), VB Script, Ant, Maven	
+
+IDE 7+yrs	JBoss Developer Studio (1.0/2.0), Eclipse, NetBeans, Adobe Flex Builder 3	
+
+Source Control 1+yrs	CVS, Subversion	
+
+Database 10+yrs	Oracle 9i/10g/11g ( PL/SQL, Stored Procedures and Triggers, Data Guard), MySQL, PostgreSQL, Informix, MS SQL Server, Interbase, MS Access, MongoDB	
+
+Operating System 12+yrs	RedHat Linux, CentOS, Windows, FreeBSD, Sun Solaris	
+
+
+
+
+Major achievements in commercial projects
+
+Migrated a poorly performing and outdated application from JSP, Struts, MySQL, and Tomcat Server based architecture to an EJB 3.0, JSF, Oracle, and JBoss Apps Server based architecture, which performs 20% faster.
+
+Improved the overall quality of the J2EE/MySQL/Oracle based on-line Internet Services for WS Inc.
+
+Designed and developed billing systems for internet providers Key-System Ltd. and TTS  Ltd.
+
+Identified and fixed a hard to reproduce concurrency issue for the WS Inc. Fixed performance and memory issues. The improvement affected MySQL, Apache + mod_jk + JBoss.
+
+Created backup system based on RedHat Cluster software, SAN, and RedHat Linux Servers.
+
+Migrated web forms from Swing to FLEX.</skills>
+
+
+Achievements in Technical Tests/Certifications
+<courses>http://www.brainbench.com Transcript ID#:1210224).
+Java Server Pages (JSP 2.1).
+Java 2 Platform Enterprise Edition (J2EE) 1.4.
+Certified C Programmer.
+Certified UNIX (General) Programmer.
+Certified HTML 4.0 Programmer.
+Certified Perl Programmer.
+Certified Javascript Programmer.
+Certified PHP4 Programmer.
+Certified Java 1 Programmer.
+Certified VBScript 5.5 Programmer.
+Certified Java 2-GUI Programmer.
+Certified Java 2-Non-GUI Programmer.
+Certified Apache 1.3.12 Administrator (master).
+Certified SQL Programmer.
+Certified Linux (General) Administrator.
+Certified MySQL Administrator.
+Certified SOAP programmer.
+
+
+Major Projects</courses>
+
+<skills>I was involved in design and development of the following large scale and transactional projects
+utilizing J2SE/J2EE/EJB/Struts/JSF/JMS/Oracle/MySQL/XML/HTML/XHTML/CSS</skills>
+
+WS Inc.: <skills>J2EE/JSF/Oracle/JBoss based online Contract Agent Tracking System. The database contains voice files and text information. There are more than 100 000 accounts. 
+
+WS Inc.: J2EE/Struts/MySQL/JBoss based online Paid Time Off (PTO) System.
+
+WS Inc.: J2EE/MySQL/JBoss based online Agent Payment Monitoring System.
+
+WS Inc.: J2EE/Struts/Oracle/JBoss based online customer relationship management (CRM) System.
+
+TTS Ltd. (Internet provider): Internet based Billing and Monitoring System.  The system takes information from CISCO equipment and generates online reports and invoices.
+
+Key-System Ltd. (Internet provider): Tacacs/Java/MySQL online Billing System.
+
+
+Minor Projects
+
+Swing forms.
+FLEX forms
+Java Web Start forms.
+JavaMail based e-mail processors.</skills></skills>
+
+
+
+
+
+<experience end='present' start='727352'>Work Experience
+
+<job end='present' id='1' pos='1' sic='621105' sic2='62' start='730519'><daterange><start days='730519' iso8601='2001-02-01'>Feb 2001</start> - <end days='present' iso8601='2012-03-31'>present</end></daterange>	<employer>WS Inc</employer>. 
+<address><country iso3='USA'>USA</country>, <state abbrev='TX'>TX</state></address> (telecommute)	
+
+
+Position	Senior Java/<title>J2EE designer/developer</title>	
+
+<description>Achievements	Developed J2EE/JMS/EJB/JSF/Oracle/JBoss based online Contract Agent Tracking System.
+Designed and developed secured J2EE/EJB/Struts/MySQL/JBoss based online Paid Time Off System. Includes Access Control, SSL certificate and DIGEST Authentication.
+Developed J2EE/Oracle based online customer relationship management (CRM) System
+Developed several JSF/Oracle/EJB3/ AJAX/JBoss based 3-tier web applications.
+Developed JavaMail based e-mail processors.
+Developed Swing Applets.
+Developed VOX/VOC to WAV convertor
+Created backup system. The system includes Oracle, MySQL, FTP content and system configuration files.
+Installed several RedHat Linux Servers in a cluster
+Installed Oracle 9i / 10g, MySQL with replication (master and slave servers), ProFTPD service, Apache and JBoss.
+Configured security services on the RedHat Servers.
+Identified and fixed a hard to reproduce concurrency issue.
+FLEX + Cairngorm  + BlazeDS forms</description></job>	
+
+
+<job end='731399' id='2' naics='52211002' naics2='52' pos='2' sic='422505' sic2='42' start='730091'><daterange><start days='730091' iso8601='1999-12-01'>Dec 1999</start> - <end days='731399' iso8601='2003-07-01'>Jul 2003</end></daterange>	<employer>Key-System Ltd</employer>.(Internet Provider)
+Russia, Orenburg	
+
+(
+Position	Java/<title>J2EE Developer / solution designer</title>	
+
+<description>Achievements	Modified Tacacs (C language under FreeBSD) and developed Java/PHP/Apache/MySQL based online Billing System.
+Developed a complex online Report Generation System using J2EE/Struts/MySQL.
+Installed FreeBSD server and Apache/MySQL/Tomcat services.</description></job>	
+
+
+<job end='730091' id='3' pos='3' sic='753801' sic2='75' start='729604'><daterange><start days='729604' iso8601='1998-08-01'>Aug 1998</start> - <end days='730091' iso8601='1999-12-01'>Dec 1999</end></daterange>	<employer>TTS Ltd</employer>. (<description>Internet Provider)
+Russia, Orenburg	
+
+
+Position	Application Developer	
+
+Achievements	Developed Tacacs/Perl/PHP/Apache/MySQL based online Billing System. The system includes access control and report generation subsystem.
+Developed Linux/Informix/Sendmail based online system to send text messages from web form or e-mail to a pager.
+Installed RedHat Linux server, Informix and Apache services.</description></job>	
+
+
+<job end='729361' id='4' pos='4' start='727352'><daterange><start days='727352' iso8601='1992-06-01'>Jun 1992</start> - <end days='729361' iso8601='1997-12-01'>Dec 1997</end></daterange>	<employer>Regional committee of statistics</employer>
+<address>Russia, <city>Orenburg</city></address>	
+
+
+Position	<title>Junior Application Developer</title>	
+
+<description>Achievements	Developed a lot of DBase, Paradox, FoxPro and Clipper applications.
+Delivered technical consulting to customers.</description></job></experience>	
+
+
+
+<education>Education
+
+<school id='5'><daterange><start days='727566' iso8601='1993-01-01'>1993</start>-<end days='729392' iso8601='1998-01-01'>1998</end></daterange>	<degree level='18' name='Master of Science'>M. S</degree>. in <major code='0402'>Computer Science</major>, <institution>Orenburg University</institution>, <address><city>Orenburg</city>, <country iso3='RUS'>Russia</country>.</address></school>	
+
+<school id='6'><daterange><start days='726105' iso8601='1989-01-01'>1989</start>-<end days='727566' iso8601='1993-01-01'>1993</end></daterange>	<degree level='16' name='Bachelor of Science'>B. S</degree>. in <major code='0402'>Computer Science</major>, <institution>Orenburg College</institution>, <address><city>Orenburg</city>, <country iso3='RUS'>Russia</country>.</address>	
+
+
+
+<description>Located in Russia, Orenburg and looking for full-time/part-time long term work, preferably telecommute.</description></school></education>
+</resume>
+
+<skillrollup version='1'>
+  <canonskill name='adobe'>
+    <variant>Adobe</variant>
+  </canonskill>
+  <canonskill name='ant'>
+    <variant>Ant</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,3' idrefs='1,2,3' lastused='2012' name='apache webserver' start='729604'>
+    <variant>Apache</variant>
+    <variant>Apache 1.3.12</variant>
+  </canonskill>
+  <canonskill name='api'>
+    <variant>API</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='applets' start='730519'>
+    <variant>Applets</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='backup' start='730519'>
+    <variant>backup</variant>
+  </canonskill>
+  <canonskill name='bash'>
+    <variant>Bash</variant>
+  </canonskill>
+  <canonskill name='billing'>
+    <variant>Billing</variant>
+  </canonskill>
+  <canonskill end='731399' experience='1' expidrefs='2,3' idrefs='2,3' lastused='2003' name='billing systems' start='729604'>
+    <variant>Billing System</variant>
+    <variant>billing systems</variant>
+  </canonskill>
+  <canonskill end='731399' experience='1' expidrefs='2' idrefs='2' lastused='2003' name='c' start='730091'>
+    <variant>C</variant>
+    <variant>C language</variant>
+  </canonskill>
+  <canonskill name='cisco'>
+    <variant>CISCO</variant>
+  </canonskill>
+  <canonskill end='729361' experience='1' expidrefs='4' idrefs='4' lastused='1997' name='clipper' start='727352'>
+    <variant>Clipper</variant>
+  </canonskill>
+  <canonskill name='cms'>
+    <variant>CMS</variant>
+  </canonskill>
+  <canonskill name='com'>
+    <variant>com</variant>
+  </canonskill>
+  <canonskill end='729361' experience='1' expidrefs='4' idrefs='4' lastused='1997' name='consulting' start='727352'>
+    <variant>consulting</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='content management' start='730519'>
+    <variant>content</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='crm' start='730519'>
+    <variant>customer relationship management</variant>
+    <variant>CRM</variant>
+  </canonskill>
+  <canonskill name='csh'>
+    <variant>CSH</variant>
+  </canonskill>
+  <canonskill name='css'>
+    <variant>CSS</variant>
+  </canonskill>
+  <canonskill name='cvs'>
+    <variant>CVS</variant>
+  </canonskill>
+  <canonskill name='database administration'>
+    <variant>Database</variant>
+    <variant>database</variant>
+  </canonskill>
+  <canonskill end='729361' experience='1' expidrefs='4' idrefs='4' lastused='1997' name='dbase' start='727352'>
+    <variant>DBase</variant>
+  </canonskill>
+  <canonskill name='dom'>
+    <variant>DOM</variant>
+  </canonskill>
+  <canonskill name='eclipse'>
+    <variant>Eclipse</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,3' idrefs='1,3' lastused='2012' name='email' start='729604'>
+    <variant>e-mail</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='enterprise java beans' start='730519'>
+    <variant>EJB3</variant>
+    <variant>EJB 3.0</variant>
+    <variant>EJB</variant>
+  </canonskill>
+  <canonskill name='erwin'>
+    <variant>ERwin</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='forms' start='730519'>
+    <variant>forms</variant>
+  </canonskill>
+  <canonskill end='729361' experience='1' expidrefs='4' idrefs='4' lastused='1997' name='foxpro' start='727352'>
+    <variant>FoxPro</variant>
+  </canonskill>
+  <canonskill end='731399' experience='1' expidrefs='2' idrefs='2' lastused='2003' name='freebsd' start='730091'>
+    <variant>FreeBSD</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='ftp' start='730519'>
+    <variant>FTP</variant>
+  </canonskill>
+  <canonskill name='graphical user interface'>
+    <variant>GUI</variant>
+  </canonskill>
+  <canonskill name='html'>
+    <variant>HTML 9</variant>
+    <variant>HTML 4.0</variant>
+    <variant>HTML</variant>
+  </canonskill>
+  <canonskill name='http'>
+    <variant>http</variant>
+  </canonskill>
+  <canonskill name='ide'>
+    <variant>IDE 7</variant>
+  </canonskill>
+  <canonskill end='730091' experience='1' expidrefs='3' idrefs='3' lastused='1999' name='informix' start='729604'>
+    <variant>Informix</variant>
+  </canonskill>
+  <canonskill name='interbase'>
+    <variant>Interbase</variant>
+  </canonskill>
+  <canonskill name='internet services'>
+    <variant>Internet Services</variant>
+  </canonskill>
+  <canonskill end='731399' experience='1' expidrefs='2' idrefs='2' lastused='2003' name='java' start='730091'>
+    <variant>Java</variant>
+    <variant>Java 1</variant>
+  </canonskill>
+  <canonskill name='java 2'>
+    <variant>Java 2</variant>
+  </canonskill>
+  <canonskill name='java server pages'>
+    <variant>JSP</variant>
+    <variant>JSP 2.1</variant>
+    <variant>Java Server Pages</variant>
+  </canonskill>
+  <canonskill name='javabeans'>
+    <variant>JavaBeans</variant>
+  </canonskill>
+  <canonskill name='javascript'>
+    <variant>JavaScript</variant>
+    <variant>Javascript</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='jboss' start='730519'>
+    <variant>JBoss</variant>
+  </canonskill>
+  <canonskill name='jdbc'>
+    <variant>JDBC</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='jms' start='730519'>
+    <variant>JMS</variant>
+  </canonskill>
+  <canonskill name='jndi'>
+    <variant>JNDI</variant>
+  </canonskill>
+  <canonskill name='ldap'>
+    <variant>LDAP</variant>
+  </canonskill>
+  <canonskill end='730091' experience='1' expidrefs='3' idrefs='3' lastused='1999' name='linux' start='729604'>
+    <variant>Linux</variant>
+  </canonskill>
+  <canonskill name='log4j'>
+    <variant>Log4j</variant>
+  </canonskill>
+  <canonskill name='memory'>
+    <variant>memory</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,3' idrefs='1,3' lastused='2012' name='microsoft access' start='729604'>
+    <variant>Access</variant>
+    <variant>access</variant>
+    <variant>MS Access</variant>
+  </canonskill>
+  <canonskill name='microsoft c #'>
+    <variant>C#</variant>
+  </canonskill>
+  <canonskill name='microsoft windows'>
+    <variant>Windows</variant>
+  </canonskill>
+  <canonskill name='middleware'>
+    <variant>Middleware 9</variant>
+  </canonskill>
+  <canonskill name='ministry of defence'>
+    <variant>mod</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,3' idrefs='1,2,3' lastused='2012' name='mysql' start='729604'>
+    <variant>MySQL</variant>
+  </canonskill>
+  <canonskill name='netscape enterprise server'>
+    <variant>Enterprise</variant>
+  </canonskill>
+  <canonskill name='networking'>
+    <variant>Networking</variant>
+  </canonskill>
+  <canonskill name='operating systems'>
+    <variant>Operating System</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='oracle' start='730519'>
+    <variant>Oracle 9</variant>
+    <variant>Oracle</variant>
+  </canonskill>
+  <canonskill end='730091' experience='1' expidrefs='3' idrefs='3' lastused='1999' name='oracle developer 2000' start='729604'>
+    <variant>Developer</variant>
+  </canonskill>
+  <canonskill name='oracle pl/sql'>
+    <variant>PL/SQL</variant>
+  </canonskill>
+  <canonskill end='729361' experience='1' expidrefs='4' idrefs='4' lastused='1997' name='paradox' start='727352'>
+    <variant>Paradox</variant>
+  </canonskill>
+  <canonskill end='730091' experience='1' expidrefs='3' idrefs='3' lastused='1999' name='perl' start='729604'>
+    <variant>Perl</variant>
+  </canonskill>
+  <canonskill end='731399' experience='1' expidrefs='2,3' idrefs='2,3' lastused='2003' name='php' start='729604'>
+    <variant>PHP</variant>
+    <variant>PHP4</variant>
+  </canonskill>
+  <canonskill name='postgresql'>
+    <variant>PostgreSQL</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='processors' start='730519'>
+    <variant>processors</variant>
+  </canonskill>
+  <canonskill name='programming'>
+    <variant>Programmer</variant>
+    <variant>programmer</variant>
+  </canonskill>
+  <canonskill name='quality'>
+    <variant>quality</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,3' idrefs='1,3' lastused='2012' name='red hat linux' start='729604'>
+    <variant>RedHat Linux</variant>
+    <variant>RedHat</variant>
+  </canonskill>
+  <canonskill name='san'>
+    <variant>SAN</variant>
+  </canonskill>
+  <canonskill name='sdlc'>
+    <variant>SDLC</variant>
+  </canonskill>
+  <canonskill end='730091' experience='1' expidrefs='3' idrefs='3' lastused='1999' name='sendmail' start='729604'>
+    <variant>Sendmail</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='servers' start='730519'>
+    <variant>Servers</variant>
+    <variant>servers</variant>
+  </canonskill>
+  <canonskill name='servlets'>
+    <variant>Servlet</variant>
+  </canonskill>
+  <canonskill name='shell scripting'>
+    <variant>Scripts 9</variant>
+  </canonskill>
+  <canonskill name='shell scripts'>
+    <variant>Shell Script</variant>
+  </canonskill>
+  <canonskill name='soap'>
+    <variant>SOAP</variant>
+  </canonskill>
+  <canonskill name='solaris'>
+    <variant>Sun Solaris</variant>
+  </canonskill>
+  <canonskill name='sql'>
+    <variant>MS SQL Server</variant>
+    <variant>SQL</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='ssl' start='730519'>
+    <variant>SSL</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='struts' start='730091'>
+    <variant>Struts</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='swing' start='730519'>
+    <variant>Swing</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='system configuration' start='730519'>
+    <variant>system configuration</variant>
+  </canonskill>
+  <canonskill end='731399' experience='1' expidrefs='2' idrefs='2' lastused='2003' name='tomcat' start='730091'>
+    <variant>Tomcat</variant>
+  </canonskill>
+  <canonskill name='unified modeling language'>
+    <variant>UML</variant>
+  </canonskill>
+  <canonskill name='unix'>
+    <variant>UNIX</variant>
+  </canonskill>
+  <canonskill name='vbscript'>
+    <variant>VBScript 5.5</variant>
+    <variant>VB Script</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='web application development' start='730519'>
+    <variant>web applications</variant>
+  </canonskill>
+  <canonskill name='weblogic'>
+    <variant>Weblogic</variant>
+  </canonskill>
+  <canonskill name='xhtml'>
+    <variant>XHTML</variant>
+  </canonskill>
+  <canonskill name='xml'>
+    <variant>XML</variant>
+  </canonskill>
+  <canonskill name='xslt'>
+    <variant>XSLT</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

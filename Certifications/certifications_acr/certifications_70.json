@@ -1,0 +1,19 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "PHR", 
+            "Certification Name": "Professional in Human Resources", 
+            "Type": "Advanced", 
+            "Certification ID": "0089", 
+            "Certifying Organization": "Human Resources Certification Institute"
+        }, 
+        {
+            "Acronym": "SPHR", 
+            "Certification Name": "Senior Professional in Human Resources", 
+            "Type": "Advanced", 
+            "Certification ID": "0090", 
+            "Certifying Organization": "Human Resources Certification Institute"
+        }
+    ], 
+    "onet": "13104103"
+}

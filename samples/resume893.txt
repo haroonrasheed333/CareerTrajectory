@@ -1,0 +1,924 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734597' xml:space='preserve'><summary>SUMMARY 
+
+<summary>An experienced information technology professional with expertise in computer programming, designing, and implementing solutions to meet various computing needs. An excellent communicator with the ability to interface with a variety of technical levels and interpret business needs into technical solutions. Pertinent certifications include Microsoft Certified Application Developer for .Net and Microsoft Certified Solution Developer for .Net; Microsoft Certified Database Administrator for SQL Server 2000.</summary></summary> 
+ 
+<skills>CURRENT TECHNICAL SKILLS 
+
+<skills>Microsoft .Net, VB.Net, C#, N-Tier Applications, ASP.NET Web Applications, Web Service Applications, MSMQ, XML, XSD, Encryption, Sql Server 2005, Transact Sql Stored Procedures, DAL, BLL, UI, Facade, Object Oriented Programming. Microsoft .NET Architecture modeling. nHibernate 2.2, Dot Net Nuke 4.9.2, Kentico 4.x, Java 5.0, Silverlight 4, MVVM, MVC, MVP, Team Foundation Server 2010.</skills></skills>
+
+<education>EDUCATION 
+
+<school id='26'><institution>Freed-Hardeman University</institution> - <address lat='43.8484' lon='-76.2295' majorcity='HENDERSON' state='NY'><city>Henderson</city>, <state abbrev='TN'>TN</state></address> (<daterange><start days='726105' iso8601='1989-01-01'>1989</start> - <end days='727931' iso8601='1994-01-01'>1994</end></daterange>)
+<degree level='16' name='Bachelor of Science'>BS</degree> <major code='0402'>Computer Science</major>, <degree level='16' name='Bachelor of Science'>BS</degree> <major code='0703'>Mathematics</major></school></education>
+
+<experience end='present' start='731369'>EXPERIENCE 
+
+<job end='present' id='1' pos='1' sic='519202' sic2='51' start='733883'><employer>Educational Services of America</employer>
+<daterange><start days='733883' iso8601='2010-04-19'>April 19, 2010</start> to <end days='present' iso8601='2012-04-02'>present</end></daterange></job>
+
+DMEX Application, C#, <job end='733775' id='2' pos='4' start='733044'><title>SQL Server</title> <daterange><start days='733044' iso8601='2008-01-01'>2008</start>
+Visual Studio <end days='733775' iso8601='2010-01-01'>2010</end></daterange></job>
+<job id='3' sic='569913' sic2='56' start='733775'><title>Team Foundation Server</title> <daterange><start days='733775' iso8601='2010-01-01'>2010</start></daterange>
+
+<employer>MVP</employer> (<description>Model-View-Presenter) application maintenance (WCSF)
+Migration from visual studio 2008 to visual studio 2010
+TSQL development of stored procedures
+C# development team lead</description></job>
+
+<job end='733880' id='4' pos='2' sic='729901' sic2='72' start='733694'><title>Project Manager</title> <description>responsible for all aspects of development including giving other members of the team direction as well as trouble shoot issues that arise.
+
+Duties include managing builds, deployments and reporting what issues are being deployed to production and when to business stakeholders
+
+Currently designing a new database model, a new architecture to meet new business needs while fixing some design flaws in current system
+
+Working on a project planning tool for asp.net applications (export to Microsoft project then import into team foundation server 2010)</description>
+
+<employer>Healthways</employer>
+<daterange><start days='733694' iso8601='2009-10-12'>October 12, 2009</start> to <end days='733880' iso8601='2010-04-16'>April 16, 2010</end></daterange></job>
+<job end='733779' id='5' pos='3' start='733584'><title>BT Contractor - ePhit</title>, <description>Fitness Center Application.  Developing Roles/Tasks for customer service representatives to log in and have their role determine the tasks they may perform in a web application.  Utilizing n-tier architecture for development.
+
+Requirements analysis
+Use case development
+Functional specification design
+Data modeling Sql Server 2005
+T-Sql query development
+Stored procedure development
+Operations support
+C# 1.1, 2.0, 3.5
+Classic ASP
+
+Tuniverse.tv</description>
+<daterange><start days='733584' iso8601='2009-06-24'>June 24, 2009</start> to <end days='733779' iso8601='2010-01-05'>January 5, 2010</end></daterange>
+- <description>Working on the Tuniverse.tv website in particular the shopping cart process to purchase single songs, albums and videos.  C# 3.5, SQL Server 2005, Kentico 4.x
+- Download management for albums (1..n files) was developed using Java 5.0 where we could setup a .jar (the executable) with a .jnlp to automatically run and download an album purchase (which is not limited to songs, it includes a digital fan kit, artwork, etc.).
+- Physical cart implementation for selling cd's, dvd's, t-shirts for various artists.
+
+Requirements analysis
+Data modeling Sql Server 2005
+T-Sql query development
+Stored procedure development
+C# 3.5
+Java development
+key developer on a two (2) person team</description></job>	
+
+
+
+
+
+
+
+
+
+
+
+
+
+<job end='733572' id='6' naics='54161113' naics2='54' pos='6' sic='252204' sic2='25' start='733512'><employer>Kroll</employer>
+<daterange><start days='733512' iso8601='2009-04-13'>April 13, 2009</start> to <end days='733572' iso8601='2009-06-12'>June 12, 2009</end></daterange>
+<description>Taleo Client Integration project.  Background Request Processor, c#, .Net 3.5, Screening factory pattern used in background request processor; sql server 2000, stored procedure creation.  Created developer to developer test process for the project between client and Kroll (11 components to test).  Used application blocks (4.0) for data layer and logging throughout the n-tier component.
+
+Data modeling Sql Server 2005
+T-Sql query development
+Stored procedure development
+Wrote a factory pattern in c# to facilitate application needs
+C# 1.1, 2.0, 3.5
+Team developer on a three (3) person team</description></job>	
+
+<job end='733714' id='7' pos='5' start='733470'><employer>Helper Buddies</employer>
+<daterange><start days='733470' iso8601='2009-03-02'>March 2, 2009</start> to <end days='733714' iso8601='2009-11-01'>November, 2009</end></daterange>
+<description>Job Board - allow consumers and providers sign up free and find providers or people needing services at home (lawn care, painting, plumbing, etc.)
+C#, VB.Net, Dot Net Nuke 5.0, SQL Server 2005.
+
+Data modeling Sql Server 2005
+T-Sql query development
+Stored procedure development
+C# 2.0
+VB .Net
+Architect/developer for whole site</description></job>
+
+<job end='733469' id='8' pos='7' start='733463'><employer>Custom Design DB</employer>
+<daterange><start days='733463' iso8601='2009-02-23'>February 23, 2009</start> to <end days='733469' iso8601='2009-03-01'>March, 2009</end></daterange> <description>(they never paid for the work I did)
+Project Management Tracker - provide a management team with a calendar view of a project, its status, who is assigned to each project, etc.
+C#, ASP.Net, SQL Server 2005
+
+Data modeling Sql Server 2005
+T-Sql query development
+Stored procedure development
+C# 2.0
+Architect/developer for whole site</description></job>
+
+
+
+
+
+
+<job end='733440' id='9' pos='8' sic='729901' sic2='72' start='733339'><employer>Healthways</employer>
+<daterange><start days='733339' iso8601='2008-10-22'>October 22, 2008</start> - <end days='733440' iso8601='2009-01-31'>January 31, 2009</end></daterange>
+<description>Popworks 4x - wrote a C# n-tier application to setup inscodes for contracted clients.  Setup contracted clients writing T-SQL scripts.  Utilized an n-tier application for their client setup.
+
+Data modeling Sql Server 2005
+T-Sql query development
+Stored procedure development
+C# 1.1, 2.0, 3.5
+Team developer on a many person team	
+Operations support for application</description></job>
+
+<job end='733338' id='10' pos='9' start='733281'><employer>Link2Gov</employer>
+<daterange><start days='733281' iso8601='2008-08-25'>August 25, 2008</start> - <end days='733338' iso8601='2008-10-21'>October 21, 2008</end></daterange>
+VISA project
+<description>Eight applications (.Net 1.1.4322, Classic ASP) needing updated logic for new VISA rules.
+
+Data modeling Sql Server 2005
+T-Sql query development
+Stored procedure development
+C# 1.1, 2.0
+Team developer on a many person team	
+
+Information Control Systems, LLC 
+Authored a C# code template to generate DAL, BLL, Web Controls, Web Pages from a Sql Server 2000/2005 database, Oracle 10G database or MySQL database.  Enterprise Architecture (including Enterprise template projects, database modeling, ER diagramming).  Iterative Projects with all phases of an MSF project with or without a team experience.</description></job>
+
+<job end='733302' id='11' pos='10' sic='729943' sic2='72' start='733226'><employer>Ink Gallery Tattoo</employer>
+<daterange><start days='733226' iso8601='2008-07-01'>July 1, 2008</start> - <end days='733302' iso8601='2008-09-15'>9/15/2008</end></daterange>
+<description>Rewrite their web site with emphasis upon: ASP.Net, C#, SQL Server 2005, image management via a control panel, allowing their artist(s) and managers to upload photos to appropriate profiles.
+Their main concern is that most of their clients use dial-up so image thumbnails are required to be generated from uploaded images.
+Visit: http://www.inkgallerytattoo.com
+
+Data modeling Sql Server 2005
+T-Sql query development
+Stored procedure development
+C# 2.0
+Ajax 2.0
+Architect/developer for whole site
+
+Compuware (US Tobacco)</description></job>
+<job end='733241' id='12' pos='11' start='733155'><daterange><start days='733155' iso8601='2008-04-21'>April 21, 2008</start> - <end days='733241' iso8601='2008-07-16'>July 16, 2008</end></daterange>
+Tablet PC Project
+<description>FAST - Field Automated Sales Tracking
+C# development - Buydowns, Loyalty Rewards, Facings, Returns, Sales, Price Audits, Bulletins, Surveys.
+N-Tier development - UI Tier, Middle Tier, Data Tier
+XAML user interface for windows application; utilized MVVM</description></job>
+<job id='13' start='731949'><title>SQL Server</title> <daterange><start days='731949' iso8601='2005-01-01'>2005</start></daterange>
+
+<description>Data modeling Sql Server 2005
+T-Sql query development
+Stored procedure development
+C# 3.5
+WPF/NTier/Tablet PC Developer on a many person team</description></job>
+
+<job end='733104' id='14' naics='54161113' naics2='54' pos='12' sic='252204' sic2='25' start='732983'><employer>Kroll</employer>
+<daterange><start days='732983' iso8601='2007-11-01'>November, 2007</start> to <end days='733104' iso8601='2008-03-01'>March 2008</end></daterange>
+<description>Security based firm needed to convert existing business logic into .Net 3.5.  We were able to modify the c# code template to generate nHibernate 2.2 n-tier objects.  We fit these objects into a task-based server process that reported on activity pertinent to Kroll's security products.  Architected an n-tier strategy to convert 100 visual basic 6.0 tasks to c# and implemented a milestone based process to manage each of the 100 tasks being converted.
+
+Data modeling Sql Server 2005
+T-Sql query development
+Stored procedure development
+C# 1.1, 2.0, 3.5
+Team developer on a three (3) person team</description></job>	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<job end='732952' id='15' pos='13' start='732769'><employer>National Distributing and Contracting</employer>
+<daterange><start days='732769' iso8601='2007-04-01'>April, 2007</start> to <end days='732952' iso8601='2007-10-01'>October, 2007</end></daterange>
+
+<description>MedConduit 2 - implementation of a online membership based ordering system for medical supplies.  SQL Server 2005, Dot Net Nuke version 4.x, Visual Basic .Net, credit card processing, invoicing and n-tier style application development.  Responsible for data model, data model changes, overall implementation methodology (a code generator using N-Tier development methods), working with other team members closely on changes to the user interface, middle tier, and data tier.
+ 
+Data modeling Sql Server 2005
+T-Sql query development
+Stored procedure development
+C# 2.0
+Ajax 2.0
+Team Lead for project team</description></job>
+
+<job end='732738' id='16' pos='14' sic='738999' sic2='73' start='732225'><employer>Broadcast Music Incorporated</employer>, <address><city>Nashville</city>, <state abbrev='TN'>TN</state></address>
+<daterange><start days='732225' iso8601='2005-10-04'>October 4, 2005</start> to <end days='732738' iso8601='2007-03-01'>March 2007</end></daterange>
+
+Duties Include:
+
+.<description>Net development (Visual Studio 2003 and .Net 1.14, Visual Studio 2005 and .Net 2.0)
+A) Chart Attack - rewritten/redesigned application from an access application with .Net 1.14
+ B) Live Pop - rewritten/redesigned application from an access application with .Net 1.14
+Mentored junior developer in the oracle database design, .Net development effort
+ 
+C) Symphony Survey - added verification code to the screen(s) involved in the survey
+ 
+D) Online Services - redesign of an application encompassing security, authorization manager, active directory and user authentication for external customers. 
+Followed the MSF process for the project as working and mentoring three employees on the team development effort.
+  
+E) Online Services (asp version) - added a message to the default.asp web form for various purposes
+ 
+F) Repertoire (asp version) - added a message to the startpage.asp web form for various purposes</description></job>
+ 
+
+
+
+<job end='732163' id='17' pos='15' sic='291101' sic2='29' start='732140'><employer>MAPCO Petroleum</employer>, <address><city>Franklin</city>, <state abbrev='TN'>TN</state></address>
+<daterange><start days='732140' iso8601='2005-07-11'>July 11, 2005</start> - <end days='732163' iso8601='2005-08-03'>August 3, 2005</end></daterange>
+Duties Include:
+
+Sql Server Reporting Services
+<description>Visual Basic .Net
+Sql Server 2000 Stored Procedures</description></job>
+
+<job end='732095' id='18' pos='16' start='732065'><employer>Focus/Concentra HealthCare</employer>, <address><city>Franklin</city>, <state abbrev='TN'>TN</state></address>
+<daterange><start days='732065' iso8601='2005-04-27'>April 27, 2005</start> - <end days='732095' iso8601='2005-05-27'>May27, 2005</end></daterange>
+C# <jobtype>Contract</jobtype>, Duties include:
+
+- <description>Improved performance of a key report by changing a Sybase Sql Server 
+stored procedure (which had a full-table scan) to utilize an index hint, and diagnosing the retrieval/usage of the report data in the ASP.NET web pages and changing those retrieval/usage patterns to utilize caching.
+- Mentor staff in .Net development utilizing past training experience.
+- ClientNotesPDF application written to read client notes from a database and send a pdf file to subscribers based upon a date range and a crystal report.
+- PowerBuilder screens conversion to C# and .Net.</description></job>
+ 
+<job end='732060' id='19' pos='17' start='731867'><employer>HealthStream, Inc</employer>., <address><city>Nashville</city>, <state abbrev='TN'>TN</state></address>
+<daterange><start days='731867' iso8601='2004-10-11'>Oct. 11, 2004</start> - <end days='732060' iso8601='2005-04-22'>April 22, 2005</end></daterange>
+C# <jobtype>Contract</jobtype>, Duties include:
+-<description>Diagnose/use Com object with C# to dynamically create Secure FTP users, IIS Virtual Directories, Ftp access
+- Dynamically create IIS Web Virtual Directories with C#.
+- C# Web Service work to automate creation of Secure FTP users and IIS Virtual Directories
+-N-Tier Application (including DAL, BLL and UIL).
+-Database Design/Implementation
+-ColdFusion application rewritten in .Net
+-Normalizing authoring database with Sql Server 2000
+-Writing custom content management tool to publish to production servers
+-Utilized FTP and Network Sockets to determine content vs. user initiated update
+-Utilized DAL object methodology two ways 
+a) custom object following best practices and 
+b) microsoft application block for data access layers.</description></job>
+ 
+
+
+
+
+
+<job end='731856' id='20' pos='18' sic='866110' sic2='86' start='731765'><employer>Lifeway Christian Resources</employer>, <address><city>Nashville</city>, <state abbrev='TN'>TN</state></address> 
+<daterange><start days='731765' iso8601='2004-07-01'>July 2004</start> through <end days='731856' iso8601='2004-09-30'>Sept. 30 2004</end></daterange>. 
+<description>Duties include:
+.Net, C#, Web Services, XML, Web Page 
+Design/Development, Web Control Development, Database design / implementation. 
+ASP.NET programming user controls, Web Service programming included Soap Headers.
+Security, Encryption, RinjDael; Set up a .NET C# encryption library for use in a shopping cart scenario;
+incorporated a disjoined methodology to separate the encryption for a credit card number from the decryption of a credit card number.</description></job> 
+
+<job end='731491' id='21' pos='19' start='731369'><employer>Knowledge Key Associates, Inc</employer>. <daterange><start days='731369' iso8601='2003-06-01'>6.2003</start> - <end days='731491' iso8601='2003-10-01'>10.2003</end></daterange>
+<title>MCAD/MCSD/MCDBA</title> <jobtype>Contract Trainer</jobtype>
+<description>For MCAD .Net certification trained individuals in the following technologies:
+-Program Windows Applications with Visual Basic .Net and C# .Net
+-Program Web Applications with Visual Basic .Net and C# .Net
+-Program XML Web Services with Visual Basic .Net and C# .Net
+For MCSD .Net certification trained individuals in the following technologies:
+-Designing and Implementing Databases with SQL Server 2000
+-Analyzing Requirements and Defining .NET Solution Architectures
+Trained individuals upon Sql Server 2000 for the MCDBA certification
+-SQL Server 2000 System Administration</description></job></experience>
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<skills>PREVIOUS TECHNICAL SKILLS
+
+<skills>UNIX (HP, AIX), RS/6000, Windows 95/NT 4.0/2000, ACD, CTI, IVR, Aspect Agility, Visual VoicePro 3.0 / 4.0, Dialogic D/41D, IBM Xlc C/C++, Watcom C/C++, Borland Turbo C/C++, Microsoft Visual C++, Microsoft Visual Basic 4.0/5.0/6.0, ADO, DAO, Oracle 7.3/8.0, PL/SQL, Sybase Sql Server 11.0, Transact SQL, Tcl/Tk, Microsoft .Net (including Visual Basic, C++). 
+
+Murray, Incorporated 9.98 - 6.2003
+Programmer Analyst
+Programming with Microsoft Visual Basic .Net as needed for vendor rewrite of Pipeline.
+
+Designed and implemented shipping system needs in conjunction with vendor supplied inventory management warehousing system.
+vendor supplied system is Oracle 7.x/8.x based; used ADO data controls and Oracle PL/SQL to access information pertinent to shipping information to aid various business groups. 
+Information includes a four-in-one bill of lading, shipping manifests, export check sheets, as well as a menu driven interface to allow new reports or interfaces to be designed and tested with Visual Basic 6.0.
+Technical environment includes Unix (HP) on a HP 9000, shell scripting, Oracle 7.3/8.0, PL/SQL, isual Basic 5.0/6.0 using ADO and DAO with Oracle.
+Manage vendor supplied system problems with internal champions to correct issues as they arise.</skills></skills>
+<experience end='729635' start='728204'><job end='729635' id='22' naics='54151109' naics2='54' pos='20' sic='737103' sic2='73' start='729086'><description>HP 9000 Unix ANSI C/C++ programming, including Oracle Pro*C. Worked on a mission critical interface from vendor supplied shipping software and vendor supplied forecasting software.
+Developed database on Oracle 7.3.x that allows program tracking and system issue resolutions to be maintained.
+Developed a menu program in Visual C++ 6.0 using MFC that is similar to the Visual Basic 5.0/6.0 menu program. Provides flexibility in which solution is best suited to any particular need.
+Developed Order tracking system that tracks changes to orders (whether it was a customer request or a Murray, Inc. personnel request for a change). Utilized Pro*C, PL/SQL (for database implementation) and Visual Basic 6.0 to present various reports.</description>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<employer>Analysts International Corp</employer>. <daterange><start days='729086' iso8601='1997-03-01'>3.97</start> - <end days='729635' iso8601='1998-09-01'>9.98</end></daterange>
+
+<title>Systems Analyst</title> 
+<description>Designed and implemented automatic call distribution database entities with a team of developers and users to eliminate a need for operator assistance on the majority of telephone queries received.
+Designed interfaces between Aspect telephone switch and the Call Center using various methods to develop a core group of support options the call flow would provide. The call-flow was developed with Aspect Agility via interactive voice response (IVR) with the caller.
+Interfaced Scopus v3.6.2 with the Aspect switch to allow technicians to transfer calls, log support issues, etc. on a real time basis. For example, a telephone call comes to a technician, he/she determines that the support is predicated by pay-per-issue billing, the technician transfers call to support billing who will handle the call until the technician is requested again.
+Developed mechanism to determine rate of errors the Aspect switch was reporting (call dropped, call lost, call destination unknown, etc.) by interpreting the errors reported in various log files with C++ and saving the results in a Sybase SQL database for reporting mechanisms (Crystal Reports primarily).
+Unix (AIX) on an RS/6000 using IBM Xlc C/C++ to develop reporting tools for client/server based technical support center at client site.
+
+Utilized Sybase SQL Server 11.0 including Transact-SQL and BCP utilities
+Windows 95/NT 4.0 using Scopus v3.6.2 (a 4GL tool to develop applications), Tcl/Tk, Aspect Agility (CTI Application on Aspect phone switch).</description></job>
+
+<job end='729086' id='23' pos='21' sic='357101' sic2='35' start='728692'><employer>Dialogic Communications Corp</employer>. <daterange><start days='728692' iso8601='1996-02-01'>2.96</start> - <end days='729086' iso8601='1997-03-01'>3.97</end></daterange>
+<title>Software Engineer</title>
+<description>Developed CTI Based Applications utilizing Visual Voice Pro 3.0 and Dialogic D/41D analog phone cards as a member of the product development team.
+Developed object oriented methodology to handle call flows using database to store call flow information. This allowed IVR to be generic to application usage. 
+Developed a siren application based on object oriented methodology that could use a radio telephone connection to determine if a siren was to sound based upon DTMF input.
+Implemented generic call flow interface that was based partly on existing code and upon object oriented methodology previously developed.
+Developed Windows 95 products based upon CDOS products using Microsoft Visual C++ 4.0, Microsoft Visual Basic 4.0, and Sybase SQL Anywhere.
+Implemented Automatic Paging Application utilizing RS-232, Windows 95, Visual C++ 4.0, Motorola Format.</description></job>
+ 
+ 
+
+
+
+<job end='728692' id='24' pos='22' sic='357101' sic2='35' start='728600'><employer>Dialogic Communications Corporation</employer> <daterange><start days='728600' iso8601='1995-11-01'>11.95</start> - <end days='728692' iso8601='1996-02-01'>2.96</end></daterange>
+<title>CTI/IVR Consultant</title>
+<description>Used DBASE IV to develop a public notification hotline for refineries. Interacted with the client to determine their IVR needs and worked with existing code to develop the system using C language.
+CDOS environment using Borland Turbo C/C++ for CTI based applications. CDOS is a concurrent multi-tasking like operating system that was based upon MS-DOS or PC-DOS.</description></job>
+
+<job end='728600' id='25' pos='23' sic='573401' sic2='57' start='728204'><employer>Equinox Information Systems</employer> <daterange><start days='728204' iso8601='1994-10-01'>10.94</start> - <end days='728600' iso8601='1995-11-01'>11.95</end></daterange>
+<title>Programmer</title>
+<description>Worked extensively with client server architecture for telephone billing systems and telephone fraud detection utilizing a Novell network.
+Programs generally followed an existing design, but could change due to DEC switch changes 
+(i.e. number of trunks on the switch, flat file format, etc.) to allow call-detail-record billing as well as fraud detection to occur.
+Used Turbo Pascal, Watcom C/C++, and Paradox 4.5 to implement the majority of tasks.
+Technical environment included Borland Turbo C/C++, Borland Turbo Pascal 7.0, Watcom C/C++ 10, and Paradox 4.5 for DOS, RS-232.
+
+
+
+
+
+
+
+
+
+
+5</description></job></experience>
+
+
+
+
+
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='733714' experience='1' expidrefs='6,7,8,10,11,14,15,16,17,18,19,20,21' idrefs='6,7,8,10,11,14,15,16,17,18,19,20,21' lastused='2009' name='.net' start='731369'>
+    <variant>.Net 2.0</variant>
+    <variant>ASP.Net</variant>
+    <variant>.Net 3.5</variant>
+    <variant>.Net 1.14</variant>
+    <variant>asp.net</variant>
+    <variant>VB .Net</variant>
+    <variant>.Net 1.1.4322</variant>
+    <variant>Microsoft .NET</variant>
+    <variant>Microsoft .Net</variant>
+    <variant>Visual Basic .Net</variant>
+    <variant>VB.Net</variant>
+    <variant>.NET</variant>
+    <variant>.Net</variant>
+    <variant>C# .Net</variant>
+    <variant>ASP.NET</variant>
+  </canonskill>
+  <canonskill end='729635' experience='1' expidrefs='22' idrefs='22' lastused='1998' name='4gl' start='729086'>
+    <variant>4GL</variant>
+  </canonskill>
+  <canonskill name='acd'>
+    <variant>ACD</variant>
+  </canonskill>
+  <canonskill end='732738' experience='1' expidrefs='16' idrefs='16' lastused='2007' name='active directory' start='732225'>
+    <variant>active directory</variant>
+  </canonskill>
+  <canonskill name='ado'>
+    <variant>ADO</variant>
+  </canonskill>
+  <canonskill end='729635' experience='1' expidrefs='22' idrefs='22' lastused='1998' name='aix' start='729086'>
+    <variant>AIX</variant>
+  </canonskill>
+  <canonskill name='analysis'>
+    <variant>Analyst</variant>
+  </canonskill>
+  <canonskill end='732952' experience='1' expidrefs='15' idrefs='15' lastused='2007' name='application development' start='732769'>
+    <variant>application development</variant>
+  </canonskill>
+  <canonskill end='733714' experience='1' expidrefs='7,8,11' idrefs='7,8,11' lastused='2009' name='architecture' start='733226'>
+    <variant>Architect</variant>
+  </canonskill>
+  <canonskill end='733302' experience='1' expidrefs='11' idrefs='11' lastused='2008' name='art' start='733226'>
+    <variant>artist</variant>
+  </canonskill>
+  <canonskill end='733779' experience='1' expidrefs='5,10,16' idrefs='5,10,16' lastused='2010' name='asp' start='732225'>
+    <variant>ASP</variant>
+    <variant>asp</variant>
+  </canonskill>
+  <canonskill end='732060' experience='1' expidrefs='19' idrefs='19' lastused='2005' name='automate' start='731867'>
+    <variant>automate</variant>
+  </canonskill>
+  <canonskill name='basic'>
+    <variant>Basic 5.0</variant>
+  </canonskill>
+  <canonskill end='729635' experience='1' expidrefs='22,25' idrefs='22,25' lastused='1998' name='billing' start='728204'>
+    <variant>billing</variant>
+  </canonskill>
+  <canonskill end='728600' experience='1' expidrefs='25' idrefs='25' lastused='1995' name='billing systems' start='728204'>
+    <variant>billing systems</variant>
+  </canonskill>
+  <canonskill end='728692' experience='1' expidrefs='24,25' idrefs='24,25' lastused='1996' name='borland' start='728204'>
+    <variant>Borland</variant>
+  </canonskill>
+  <canonskill end='732738' experience='1' expidrefs='16,22,24,25' idrefs='16,22,24,25' lastused='2007' name='c' start='728204'>
+    <variant>C</variant>
+    <variant>ANSI C</variant>
+    <variant>C language</variant>
+  </canonskill>
+  <canonskill end='729635' experience='1' expidrefs='22,24,25' idrefs='22,24,25' lastused='1998' name='c + +' start='728204'>
+    <variant>C++</variant>
+    <variant>C++ programming</variant>
+  </canonskill>
+  <canonskill end='729635' experience='1' expidrefs='22' idrefs='22' lastused='1998' name='call center' start='729086'>
+    <variant>Call Center</variant>
+  </canonskill>
+  <canonskill end='733779' experience='1' expidrefs='5' idrefs='5' lastused='2010' name='cd' start='733584'>
+    <variant>cd</variant>
+  </canonskill>
+  <canonskill end='729635' experience='1' expidrefs='22,25' idrefs='22,25' lastused='1998' name='client/server' start='728204'>
+    <variant>client/server</variant>
+    <variant>client server</variant>
+  </canonskill>
+  <canonskill end='732060' experience='1' expidrefs='19' idrefs='19' lastused='2005' name='cold fusion' start='731867'>
+    <variant>ColdFusion</variant>
+  </canonskill>
+  <canonskill end='733302' experience='1' expidrefs='11,19' idrefs='11,19' lastused='2008' name='com' start='731867'>
+    <variant>Com</variant>
+    <variant>com</variant>
+  </canonskill>
+  <canonskill end='732060' experience='1' expidrefs='19' idrefs='19' lastused='2005' name='content management' start='731867'>
+    <variant>content</variant>
+    <variant>content management</variant>
+  </canonskill>
+  <canonskill end='732095' experience='1' expidrefs='18' idrefs='18' lastused='2005' name='conversion' start='732065'>
+    <variant>conversion</variant>
+  </canonskill>
+  <canonskill end='732952' experience='1' expidrefs='15,20' idrefs='15,20' lastused='2007' name='credit' start='731765'>
+    <variant>credit</variant>
+  </canonskill>
+  <canonskill end='731856' experience='1' expidrefs='20' idrefs='20' lastused='2004' name='cryptography' start='731765'>
+    <variant>Encryption</variant>
+    <variant>encryption</variant>
+  </canonskill>
+  <canonskill end='732095' experience='1' expidrefs='18,22' idrefs='18,22' lastused='2005' name='crystal reports' start='729086'>
+    <variant>Crystal Reports</variant>
+    <variant>crystal report</variant>
+  </canonskill>
+  <canonskill end='729635' experience='1' expidrefs='22,23,24' idrefs='22,23,24' lastused='1998' name='cti' start='728600'>
+    <variant>CTI</variant>
+  </canonskill>
+  <canonskill end='733572' experience='1' expidrefs='6,9,11,18,22,24' idrefs='6,9,11,18,22,24' lastused='2009' name='customer relations' start='728600'>
+    <variant>Client</variant>
+    <variant>client</variant>
+    <variant>clients</variant>
+  </canonskill>
+  <canonskill end='733779' experience='1' expidrefs='5' idrefs='5' lastused='2010' name='customer service' start='733584'>
+    <variant>customer service</variant>
+  </canonskill>
+  <canonskill name='dao'>
+    <variant>DAO</variant>
+  </canonskill>
+  <canonskill end='733779' experience='1' expidrefs='5,6,7,8,9,10,11,13,14,15' idrefs='5,6,7,8,9,10,11,13,14,15' lastused='2010' name='data modeling' start='731949'>
+    <variant>Data modeling</variant>
+  </canonskill>
+  <canonskill end='733338' experience='1' expidrefs='10,18,19,21,22,23' idrefs='10,18,19,21,22,23' lastused='2008' name='database administration' start='728692'>
+    <variant>Databases</variant>
+    <variant>database</variant>
+  </canonskill>
+  <canonskill end='732060' experience='1' expidrefs='19,20' idrefs='19,20' lastused='2005' name='database design' start='731765'>
+    <variant>Database Design</variant>
+    <variant>Database design</variant>
+  </canonskill>
+  <canonskill end='733338' experience='1' expidrefs='10' idrefs='10' lastused='2008' name='database modeling' start='733281'>
+    <variant>database modeling</variant>
+  </canonskill>
+  <canonskill end='728692' experience='1' expidrefs='24' idrefs='24' lastused='1996' name='dbase iv' start='728600'>
+    <variant>DBASE IV</variant>
+  </canonskill>
+  <canonskill end='728600' experience='1' expidrefs='25' idrefs='25' lastused='1995' name='dec' start='728204'>
+    <variant>DEC</variant>
+  </canonskill>
+  <canonskill end='731856' experience='1' expidrefs='20' idrefs='20' lastused='2004' name='decryption' start='731765'>
+    <variant>decryption</variant>
+  </canonskill>
+  <canonskill end='731491' experience='1' expidrefs='21' idrefs='21' lastused='2003' name='design' start='731369'>
+    <variant>Designing</variant>
+    <variant>designing</variant>
+  </canonskill>
+  <canonskill end='729086' experience='1' expidrefs='23' idrefs='23' lastused='1997' name='development' start='728692'>
+    <variant>product development</variant>
+  </canonskill>
+  <canonskill experience='1' name='directing'>
+    <variant>direction</variant>
+  </canonskill>
+  <canonskill end='728600' experience='1' expidrefs='25' idrefs='25' lastused='1995' name='dos' start='728204'>
+    <variant>DOS</variant>
+  </canonskill>
+  <canonskill end='733779' experience='1' expidrefs='5' idrefs='5' lastused='2010' name='dvd' start='733584'>
+    <variant>dvd</variant>
+  </canonskill>
+  <canonskill end='733241' experience='1' expidrefs='12' idrefs='12' lastused='2008' name='fast' start='733155'>
+    <variant>FAST</variant>
+  </canonskill>
+  <canonskill experience='1' name='forecasting'>
+    <variant>forecasting</variant>
+  </canonskill>
+  <canonskill end='732060' experience='1' expidrefs='19' idrefs='19' lastused='2005' name='ftp' start='731867'>
+    <variant>FTP</variant>
+    <variant>Ftp</variant>
+  </canonskill>
+  <canonskill end='733779' experience='1' expidrefs='5' idrefs='5' lastused='2010' name='functional' start='733584'>
+    <variant>Functional</variant>
+  </canonskill>
+  <canonskill name='hewlett packard'>
+    <variant>HP</variant>
+  </canonskill>
+  <canonskill experience='1' name='hp 9000'>
+    <variant>HP 9000</variant>
+  </canonskill>
+  <canonskill end='733302' experience='1' expidrefs='11' idrefs='11' lastused='2008' name='http' start='733226'>
+    <variant>http</variant>
+  </canonskill>
+  <canonskill end='729635' experience='1' expidrefs='22' idrefs='22' lastused='1998' name='ibm' start='729086'>
+    <variant>IBM</variant>
+  </canonskill>
+  <canonskill end='732060' experience='1' expidrefs='19' idrefs='19' lastused='2005' name='iis' start='731867'>
+    <variant>IIS</variant>
+  </canonskill>
+  <canonskill end='733302' experience='1' expidrefs='11' idrefs='11' lastused='2008' name='imaging' start='733226'>
+    <variant>image</variant>
+  </canonskill>
+  <canonskill name='inventory management'>
+    <variant>inventory management</variant>
+  </canonskill>
+  <canonskill end='732952' experience='1' expidrefs='15' idrefs='15' lastused='2007' name='invoicing' start='732769'>
+    <variant>invoicing</variant>
+  </canonskill>
+  <canonskill end='729635' experience='1' expidrefs='22,23,24' idrefs='22,23,24' lastused='1998' name='ivr' start='728600'>
+    <variant>interactive voice response</variant>
+    <variant>IVR</variant>
+  </canonskill>
+  <canonskill end='733779' experience='1' expidrefs='5' idrefs='5' lastused='2010' name='java' start='733584'>
+    <variant>Java</variant>
+    <variant>Java 5.0</variant>
+  </canonskill>
+  <canonskill end='732952' experience='1' expidrefs='3,15,16' idrefs='3,15,16' lastused='2007' name='leadership' start='732225'>
+    <variant>team development</variant>
+    <variant>Team Lead</variant>
+    <variant>team lead</variant>
+  </canonskill>
+  <canonskill end='733338' experience='1' expidrefs='10,14' idrefs='10,14' lastused='2008' name='logic' start='732983'>
+    <variant>logic</variant>
+  </canonskill>
+  <canonskill end='732095' experience='1' expidrefs='18' idrefs='18' lastused='2005' name='lotus notes' start='732065'>
+    <variant>notes</variant>
+  </canonskill>
+  <canonskill experience='1' name='management'>
+    <variant>managing</variant>
+  </canonskill>
+  <canonskill end='732738' experience='1' expidrefs='16,18' idrefs='16,18' lastused='2007' name='mentoring' start='732065'>
+    <variant>Mentor</variant>
+    <variant>mentoring</variant>
+  </canonskill>
+  <canonskill end='732738' experience='1' expidrefs='16,19' idrefs='16,19' lastused='2007' name='microsoft access' start='731867'>
+    <variant>access</variant>
+  </canonskill>
+  <canonskill end='733779' experience='1' expidrefs='3,5,6,7,8,9,10,11,12,13,14,15,18,19,20' idrefs='3,5,6,7,8,9,10,11,12,13,14,15,18,19,20' lastused='2010' name='microsoft c #' start='731765'>
+    <variant>C#</variant>
+    <variant>c#</variant>
+    <variant>C# 1.1</variant>
+    <variant>C# 2.0</variant>
+    <variant>C# 3.5</variant>
+  </canonskill>
+  <canonskill end='731491' experience='1' expidrefs='21' idrefs='21' lastused='2003' name='microsoft certified database administrator' start='731369'>
+    <variant>MCDBA</variant>
+  </canonskill>
+  <canonskill end='731491' experience='1' expidrefs='21' idrefs='21' lastused='2003' name='microsoft certified systems developer' start='731369'>
+    <variant>MCSD</variant>
+  </canonskill>
+  <canonskill experience='1' name='microsoft foundation classes'>
+    <variant>MFC</variant>
+  </canonskill>
+  <canonskill experience='1' name='microsoft project'>
+    <variant>Microsoft project</variant>
+  </canonskill>
+  <canonskill name='microsoft visual basic 5.0'>
+    <variant>Microsoft Visual Basic 4.0/5.0</variant>
+  </canonskill>
+  <canonskill end='733241' experience='1' expidrefs='12,21' idrefs='12,21' lastused='2008' name='microsoft windows' start='731369'>
+    <variant>Windows Applications</variant>
+    <variant>windows</variant>
+  </canonskill>
+  <canonskill name='microsoft windows 2000'>
+    <variant>2000</variant>
+  </canonskill>
+  <canonskill end='729635' experience='1' expidrefs='22,23' idrefs='22,23' lastused='1998' name='microsoft windows 95' start='728692'>
+    <variant>Windows 95</variant>
+  </canonskill>
+  <canonskill name='microsoft windows 98'>
+    <variant>98</variant>
+  </canonskill>
+  <canonskill end='729635' experience='1' expidrefs='22' idrefs='22' lastused='1998' name='microsoft windows nt 4.0' start='729086'>
+    <variant>NT 4.0</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='3' idrefs='3' name='migration' start='733775'>
+    <variant>Migration</variant>
+  </canonskill>
+  <canonskill name='modeling'>
+    <variant>modeling</variant>
+  </canonskill>
+  <canonskill end='729086' experience='1' expidrefs='23' idrefs='23' lastused='1997' name='motorola hardware' start='728692'>
+    <variant>Motorola</variant>
+  </canonskill>
+  <canonskill end='728692' experience='1' expidrefs='24' idrefs='24' lastused='1996' name='ms dos' start='728600'>
+    <variant>MS-DOS</variant>
+  </canonskill>
+  <canonskill name='msmq'>
+    <variant>MSMQ</variant>
+  </canonskill>
+  <canonskill end='728692' experience='1' expidrefs='24' idrefs='24' lastused='1996' name='multi - tasking' start='728600'>
+    <variant>multi-tasking</variant>
+  </canonskill>
+  <canonskill name='mvc'>
+    <variant>MVC</variant>
+  </canonskill>
+  <canonskill end='733338' experience='1' expidrefs='10' idrefs='10' lastused='2008' name='mysql' start='733281'>
+    <variant>MySQL</variant>
+  </canonskill>
+  <canonskill end='733338' experience='1' expidrefs='10' idrefs='10' lastused='2008' name='netscape enterprise server' start='733281'>
+    <variant>Enterprise</variant>
+  </canonskill>
+  <canonskill end='732060' experience='1' expidrefs='19' idrefs='19' lastused='2005' name='networking' start='731867'>
+    <variant>Network</variant>
+  </canonskill>
+  <canonskill end='728600' experience='1' expidrefs='25' idrefs='25' lastused='1995' name='novell network' start='728204'>
+    <variant>Novell network</variant>
+  </canonskill>
+  <canonskill end='729086' experience='1' expidrefs='23' idrefs='23' lastused='1997' name='object oriented design' start='728692'>
+    <variant>object oriented</variant>
+  </canonskill>
+  <canonskill name='object oriented programming'>
+    <variant>Object Oriented Programming</variant>
+  </canonskill>
+  <canonskill end='728692' experience='1' expidrefs='24' idrefs='24' lastused='1996' name='operating systems' start='728600'>
+    <variant>operating system</variant>
+  </canonskill>
+  <canonskill end='733338' experience='1' expidrefs='10' idrefs='10' lastused='2008' name='oracle' start='733281'>
+    <variant>Oracle</variant>
+  </canonskill>
+  <canonskill experience='1' name='oracle 7.3'>
+    <variant>Oracle 7.3</variant>
+  </canonskill>
+  <canonskill name='oracle 7.x'>
+    <variant>Oracle 7.x</variant>
+  </canonskill>
+  <canonskill name='oracle 8'>
+    <variant>Oracle 7.3/8.0</variant>
+  </canonskill>
+  <canonskill end='732738' experience='1' expidrefs='16' idrefs='16' lastused='2007' name='oracle dba' start='732225'>
+    <variant>oracle database</variant>
+  </canonskill>
+  <canonskill end='733779' experience='1' expidrefs='5,6,7,8,9,10,11,13,14,16' idrefs='5,6,7,8,9,10,11,13,14,16' lastused='2010' name='oracle developer 2000' start='731949'>
+    <variant>developer</variant>
+    <variant>Developer</variant>
+  </canonskill>
+  <canonskill experience='1' name='oracle pl/sql'>
+    <variant>Oracle PL/SQL</variant>
+    <variant>PL/SQL</variant>
+  </canonskill>
+  <canonskill end='733714' experience='1' expidrefs='7' idrefs='7' lastused='2009' name='painting' start='733470'>
+    <variant>painting</variant>
+  </canonskill>
+  <canonskill end='728600' experience='1' expidrefs='25' idrefs='25' lastused='1995' name='paradox' start='728204'>
+    <variant>Paradox 4.5</variant>
+  </canonskill>
+  <canonskill end='728600' experience='1' expidrefs='25' idrefs='25' lastused='1995' name='pascal' start='728204'>
+    <variant>Turbo Pascal</variant>
+    <variant>Turbo Pascal 7.0</variant>
+  </canonskill>
+  <canonskill end='728692' experience='1' expidrefs='24' idrefs='24' lastused='1996' name='pc dos' start='728600'>
+    <variant>PC-DOS</variant>
+  </canonskill>
+  <canonskill end='732095' experience='1' expidrefs='18' idrefs='18' lastused='2005' name='pdf' start='732065'>
+    <variant>pdf</variant>
+  </canonskill>
+  <canonskill experience='1' name='personnel'>
+    <variant>personnel</variant>
+  </canonskill>
+  <canonskill end='733714' experience='1' expidrefs='7' idrefs='7' lastused='2009' name='plumbing' start='733470'>
+    <variant>plumbing</variant>
+  </canonskill>
+  <canonskill end='732095' experience='1' expidrefs='18' idrefs='18' lastused='2005' name='powerbuilder' start='732065'>
+    <variant>PowerBuilder</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='3' idrefs='3' name='presentation skills' start='733775'>
+    <variant>Presenter</variant>
+  </canonskill>
+  <canonskill end='733779' experience='1' expidrefs='5,6,7,8,9,10,11,13,14,15' idrefs='5,6,7,8,9,10,11,13,14,15' lastused='2010' name='procedures' start='731949'>
+    <variant>procedure development</variant>
+  </canonskill>
+  <canonskill end='731856' experience='1' expidrefs='20' idrefs='20' lastused='2004' name='programming' start='731765'>
+    <variant>Programmer</variant>
+    <variant>Programming</variant>
+    <variant>programming</variant>
+  </canonskill>
+  <canonskill end='733469' experience='1' expidrefs='8' idrefs='8' lastused='2009' name='project management' start='733463'>
+    <variant>Project Management</variant>
+  </canonskill>
+  <canonskill experience='1' name='project planning'>
+    <variant>project planning</variant>
+  </canonskill>
+  <canonskill end='729086' experience='1' expidrefs='23' idrefs='23' lastused='1997' name='radio' start='728692'>
+    <variant>radio</variant>
+  </canonskill>
+  <canonskill end='732095' experience='1' expidrefs='18' idrefs='18' lastused='2005' name='read' start='732065'>
+    <variant>read</variant>
+  </canonskill>
+  <canonskill end='729635' experience='1' expidrefs='22' idrefs='22' lastused='1998' name='real time' start='729086'>
+    <variant>real time</variant>
+  </canonskill>
+  <canonskill end='729635' experience='1' expidrefs='22' idrefs='22' lastused='1998' name='reports' start='729086'>
+    <variant>reporting</variant>
+  </canonskill>
+  <canonskill end='733779' experience='1' expidrefs='5' idrefs='5' lastused='2010' name='requirements analysis' start='733584'>
+    <variant>Requirements analysis</variant>
+  </canonskill>
+  <canonskill end='729635' experience='1' expidrefs='22' idrefs='22' lastused='1998' name='rs6000' start='729086'>
+    <variant>RS/6000</variant>
+  </canonskill>
+  <canonskill end='733779' experience='1' expidrefs='5,12' idrefs='5,12' lastused='2010' name='sales' start='733155'>
+    <variant>selling</variant>
+    <variant>Sales</variant>
+  </canonskill>
+  <canonskill end='732060' experience='1' expidrefs='19' idrefs='19' lastused='2005' name='servers' start='731867'>
+    <variant>servers</variant>
+  </canonskill>
+  <canonskill end='733440' experience='1' expidrefs='9' idrefs='9' lastused='2009' name='shell scripting' start='733339'>
+    <variant>scripts</variant>
+    <variant>shell scripting</variant>
+  </canonskill>
+  <canonskill experience='1' name='shipping'>
+    <variant>shipping</variant>
+  </canonskill>
+  <canonskill end='731856' experience='1' expidrefs='20' idrefs='20' lastused='2004' name='soap' start='731765'>
+    <variant>Soap</variant>
+  </canonskill>
+  <canonskill end='732060' experience='1' expidrefs='19' idrefs='19' lastused='2005' name='sockets' start='731867'>
+    <variant>Sockets</variant>
+  </canonskill>
+  <canonskill end='729086' experience='1' expidrefs='23' idrefs='23' lastused='1997' name='sound' start='728692'>
+    <variant>sound</variant>
+  </canonskill>
+  <canonskill end='733779' experience='1' expidrefs='5' idrefs='5' lastused='2010' name='specification' start='733584'>
+    <variant>specification</variant>
+  </canonskill>
+  <canonskill end='733779' experience='1' expidrefs='5,6,7,8,9,10,11,13,14,15' idrefs='5,6,7,8,9,10,11,13,14,15' lastused='2010' name='sql' start='731949'>
+    <variant>SQL Server</variant>
+    <variant>Sql Server</variant>
+  </canonskill>
+  <canonskill end='733572' experience='1' expidrefs='6,10,17,19,21' idrefs='6,10,17,19,21' lastused='2009' name='sql server 2000' start='731369'>
+    <variant>SQL Server 2000</variant>
+    <variant>Sql Server 2000</variant>
+    <variant>sql server 2000</variant>
+  </canonskill>
+  <canonskill end='733104' experience='1' expidrefs='14' idrefs='14' lastused='2008' name='strategic' start='732983'>
+    <variant>strategy</variant>
+  </canonskill>
+  <canonskill end='729635' experience='1' expidrefs='22,25' idrefs='22,25' lastused='1998' name='switches' start='728204'>
+    <variant>switch</variant>
+  </canonskill>
+  <canonskill end='729086' experience='1' expidrefs='23' idrefs='23' lastused='1997' name='sybase sql anywhere' start='728692'>
+    <variant>Sybase SQL Anywhere</variant>
+  </canonskill>
+  <canonskill end='732095' experience='1' expidrefs='18,22' idrefs='18,22' lastused='2005' name='sybase sql server' start='729086'>
+    <variant>Sybase SQL</variant>
+    <variant>Sybase SQL Server</variant>
+    <variant>Sybase Sql Server</variant>
+  </canonskill>
+  <canonskill end='732738' experience='1' expidrefs='16' idrefs='16' lastused='2007' name='symphony' start='732225'>
+    <variant>Symphony</variant>
+  </canonskill>
+  <canonskill end='731491' experience='1' expidrefs='21' idrefs='21' lastused='2003' name='system administration' start='731369'>
+    <variant>System Administration</variant>
+  </canonskill>
+  <canonskill end='729635' experience='1' expidrefs='22' idrefs='22' lastused='1998' name='tcl/tk' start='729086'>
+    <variant>Tcl/Tk</variant>
+  </canonskill>
+  <canonskill end='729635' experience='1' expidrefs='22' idrefs='22' lastused='1998' name='technical support' start='729086'>
+    <variant>technical support</variant>
+  </canonskill>
+  <canonskill end='729635' experience='1' expidrefs='22' idrefs='22' lastused='1998' name='technician' start='729086'>
+    <variant>technician</variant>
+  </canonskill>
+  <canonskill end='729635' experience='1' expidrefs='22,23,25' idrefs='22,23,25' lastused='1998' name='telephone skills' start='728204'>
+    <variant>telephone</variant>
+    <variant>phone</variant>
+  </canonskill>
+  <canonskill end='733779' experience='1' expidrefs='5' idrefs='5' lastused='2010' name='television' start='733584'>
+    <variant>tv</variant>
+  </canonskill>
+  <canonskill end='733779' experience='1' expidrefs='3,5,6,7,8,9,10,11,13,14,15,22' idrefs='3,5,6,7,8,9,10,11,13,14,15,22' lastused='2010' name='transact sql' start='729086'>
+    <variant>Transact SQL</variant>
+    <variant>Transact Sql</variant>
+    <variant>Transact-SQL</variant>
+    <variant>T-SQL</variant>
+    <variant>T-Sql</variant>
+    <variant>TSQL</variant>
+  </canonskill>
+  <canonskill end='728692' experience='1' expidrefs='24,25' idrefs='24,25' lastused='1996' name='turbo c' start='728204'>
+    <variant>Turbo C</variant>
+  </canonskill>
+  <canonskill end='729635' experience='1' expidrefs='22' idrefs='22' lastused='1998' name='unix' start='729086'>
+    <variant>UNIX</variant>
+    <variant>Unix</variant>
+  </canonskill>
+  <canonskill end='733241' experience='1' expidrefs='12,15' idrefs='12,15' lastused='2008' name='user interface design' start='732769'>
+    <variant>user interface</variant>
+  </canonskill>
+  <canonskill end='729635' experience='1' expidrefs='22' idrefs='22' lastused='1998' name='utilities' start='729086'>
+    <variant>utilities</variant>
+  </canonskill>
+  <canonskill end='733469' experience='1' expidrefs='3,8' idrefs='3,8' lastused='2009' name='view' start='733463'>
+    <variant>View</variant>
+    <variant>view</variant>
+  </canonskill>
+  <canonskill end='729086' experience='1' expidrefs='23' idrefs='23' lastused='1997' name='visual basic' start='728692'>
+    <variant>Visual Basic</variant>
+    <variant>Microsoft Visual Basic</variant>
+    <variant>Microsoft Visual Basic 4.0</variant>
+  </canonskill>
+  <canonskill end='733104' experience='1' expidrefs='14' idrefs='14' lastused='2008' name='visual basic 6.0' start='732983'>
+    <variant>Visual Basic 6.0</variant>
+    <variant>visual basic 6.0</variant>
+    <variant>Visual Basic 5.0/6.0</variant>
+  </canonskill>
+  <canonskill end='729086' experience='1' expidrefs='23' idrefs='23' lastused='1997' name='visual c + +' start='728692'>
+    <variant>Microsoft Visual C++</variant>
+    <variant>Microsoft Visual C++ 4.0</variant>
+    <variant>Visual C++ 4.0</variant>
+  </canonskill>
+  <canonskill experience='1' name='visual c + + 6.0'>
+    <variant>Visual C++ 6.0</variant>
+  </canonskill>
+  <canonskill end='732738' experience='1' expidrefs='3,16' idrefs='3,16' lastused='2007' name='visual studio' start='732225'>
+    <variant>Visual Studio</variant>
+    <variant>visual studio</variant>
+  </canonskill>
+  <canonskill name='warehousing'>
+    <variant>warehousing</variant>
+  </canonskill>
+  <canonskill end='731491' experience='1' expidrefs='21' idrefs='21' lastused='2003' name='web application development' start='731369'>
+    <variant>Web Applications</variant>
+  </canonskill>
+  <canonskill end='733779' experience='1' expidrefs='5,10,11,18,20' idrefs='5,10,11,18,20' lastused='2010' name='web site production' start='731765'>
+    <variant>web site</variant>
+    <variant>website</variant>
+    <variant>Web Page 
+Design/Development</variant>
+    <variant>Web Pages</variant>
+    <variant>web pages</variant>
+  </canonskill>
+  <canonskill end='732095' experience='1' expidrefs='18' idrefs='18' lastused='2005' name='writing' start='732065'>
+    <variant>written</variant>
+  </canonskill>
+  <canonskill end='731856' experience='1' expidrefs='20,21' idrefs='20,21' lastused='2004' name='xml' start='731369'>
+    <variant>XML</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

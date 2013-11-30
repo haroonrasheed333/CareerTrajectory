@@ -1,0 +1,19 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "TAS", 
+            "Certification Name": "Training Advertising Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "9139", 
+            "Certifying Organization": "Promotional Products Association International"
+        }, 
+        {
+            "Acronym": "CAS", 
+            "Certification Name": "Certified Advertising Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "9140", 
+            "Certifying Organization": "Promotional Products Association International"
+        }
+    ], 
+    "onet": "41901100"
+}

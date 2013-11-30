@@ -1,0 +1,47 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "SC:L", 
+            "Certification Name": "Specialist Certificate: Legal", 
+            "Type": "Specialty", 
+            "Certification ID": "6106", 
+            "Certifying Organization": "Registry of Interpreters for the Deaf"
+        }, 
+        {
+            "Acronym": "CDI", 
+            "Certification Name": "Certified Deaf Interpreter", 
+            "Type": "Specialty", 
+            "Certification ID": "6104", 
+            "Certifying Organization": "Registry of Interpreters for the Deaf"
+        }, 
+        {
+            "Acronym": "OTC", 
+            "Certification Name": "Oral Transliteration Certificate", 
+            "Type": "Core", 
+            "Certification ID": "6105", 
+            "Certifying Organization": "Registry of Interpreters for the Deaf"
+        }, 
+        {
+            "Acronym": "CAPE", 
+            "Certification Name": "Certified Adapted Physical Educator", 
+            "Type": "Advanced", 
+            "Certification ID": "5102", 
+            "Certifying Organization": "National Consortium on Physical Education and Recreation for Individuals with Disabilities"
+        }, 
+        {
+            "Acronym": "NIC", 
+            "Certification Name": "National Interpreter Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "6107", 
+            "Certifying Organization": "Registry of Interpreters for the Deaf"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "National Board Certification - Early Childhood through Young Adulthood/Exceptional Needs Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "1308", 
+            "Certifying Organization": "National Board for Professional Teaching Standards"
+        }
+    ], 
+    "onet": "25205100"
+}

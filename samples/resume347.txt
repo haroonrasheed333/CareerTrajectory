@@ -1,0 +1,206 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734593' xml:space='preserve'>                                       <contact><name><givenname>Robert</givenname> <surname>Romero</surname></name>
+    <address lat='33.9827' lon='117.898' majorcity='ROWLAND HEIGHTS' state='CA'><street>1503 Brea Canyon Cut Off Road</street>  <city>Rowland Heights</city> , <state abbrev='CA'>CA</state> <postalcode>91748</postalcode></address>  <phone>(909) 568-9158</phone>  <email>R.Romero_80@hotmail.com</email></contact>
+
+
+
+
+<summary>Objective                           <objective>To develop well-designed and object-oriented web pages utilizing the latest
+                                    technological applications for the individual as well as corporate websites.</objective></summary>
+
+
+<education>Education                           <school id='3'><completiondate days='734079' iso8601='2010-11-01'>November 2010</completiondate>
+                                    <institution>Platt College School of Design</institution> , <address>Ontario, <state abbrev='CA'>CA</state></address>
+                                    *<courses>Bachelors of Art, Visual Communication Web Specialization</courses>
+                                    *<description>Web programming
+                                    *Database driven web development, shopping carts, blogs, CMS, forums, and
+                                    galleries
+                                    *Search engine optimization/management ,and secured server technologies
+                                    *Graphic/web design, advertising, marketing and branding</description></school>
+
+
+                                    <school id='4'><completiondate days='733987' iso8601='2010-08-01'>August 2010</completiondate>
+                                    <institution>Platt College School of Design</institution>, <address><state abbrev='ON'>Ontario</state>, <state abbrev='CA'>Ca</state></address>
+                                    *<courses>Certificate in Multimedia Interactive Technologies</courses>
+                                    *<description>Web design and Flash animation
+                                    *3D animation, Non -linear editing, visual effects and on-screen design</description></school>
+
+
+                                    <school id='5'><completiondate days='733683' iso8601='2009-10-01'>October 2009</completiondate>
+                                    <institution>Platt College School of Design</institution>, <address><city>Alhambra</city>, <state abbrev='CA'>CA</state></address>
+                                    *<degree level='14'>Associates of Art</degree>, <major code='2405'>Graphic Design</major>
+                                    *<description>Graphic design, advertising, marketing, and branding
+                                    *Concept development, typography/color theory, illustration, and layout</description></school>
+
+
+                                    <school id='6'><completiondate days='733165' iso8601='2008-05-01'>May 2008</completiondate>
+                                    <institution>East Los Angeles College</institution>, <address><city>Monterey Park</city>, <state abbrev='CA'>CA</state></address>
+                                    <degree level='14'>Associates of Art</degree>, <major>Liberal Studies</major></school></education>
+
+
+
+
+<experience end='present' start='733075'>Employment and                      R-ROMERODESIGN <job end='present' id='1' pos='1' start='733410'><address><city>Rowland Heights</city>, <state abbrev='CA'>CA</state></address>
+Experience Highlights
+                                    <daterange><start days='733410' iso8601='2009-01-01'>2009</start> - <end days='present' iso8601='2012-03-29'>present</end></daterange>
+
+                                    <title>Graphic/Web Designer</title> <jobtype>Freelance</jobtype> <address><city>Rowland Heights</city>, <state abbrev='CA'>CA</state></address>
+                                            <description>Designed flyers and promotional poster for bands
+                                            Designed business cards and logos
+                                            Complete projects in a timely manner for clients
+                                            Design key websites for clients
+                                            Maintain E-commerce store
+                                            T-shirt designing
+                                            Catalog layout</description></job>
+
+                                    <job end='733196' id='2' pos='2' start='733075'><employer>ELAC</employer> <department>Photography Department</department> <address><city>Monterey Park</city>, <state abbrev='CA'>CA</state></address>
+
+                                    <daterange><start days='733075' iso8601='2008-02-01'>2/2008</start>-<end days='733196' iso8601='2008-06-01'>6/2008</end></daterange>
+
+                                    <title>Photo Student Intern</title>
+                                    <description>Assisted Students with developing films
+                                    Answered inquiries regarding photography
+                                    Organized and maintained film room</description></job></experience>
+<skills>Selected Skills and   Proficient in various web design programs and software including <skills>Illustrator,
+Abilities             Indesign, Flash, Javascritpt, PHP, MySql, Ajax, After Effexcts, Final Cut Pro,
+                      Maya and Microsoft Office, SEO, Extensive knowledge with CS5 Photoshop,
+                      Dreamweaver, HTML 5, CSS 3, and Action Script.
+                      Experience graphic Illustrator and designer</skills></skills>
+
+
+<references>References            Available upon request</references>
+</resume>
+
+<skillrollup version='1'>
+  <canonskill education='1' eduidrefs='4' idrefs='4' name='3d animation'>
+    <variant>3D animation</variant>
+  </canonskill>
+  <canonskill name='adobe photoshop'>
+    <variant>Photoshop</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='3,5' idrefs='3,5' name='advertising'>
+    <variant>advertising</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='3' idrefs='3' name='art'>
+    <variant>Art</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='3' idrefs='3' name='batchelor'>
+    <variant>Bachelors</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='3,5' idrefs='3,5' name='brand management'>
+    <variant>branding</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='business cards' start='733410'>
+    <variant>business cards</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='catalogs' start='733410'>
+    <variant>Catalog</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='3' idrefs='3' name='cms'>
+    <variant>CMS</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='5' idrefs='5' name='color'>
+    <variant>color</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='5' idrefs='5' name='concept development'>
+    <variant>Concept development</variant>
+  </canonskill>
+  <canonskill name='css'>
+    <variant>CSS 3</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='customer relations' start='733410'>
+    <variant>clients</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='3' idrefs='3' name='database administration'>
+    <variant>Database</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='design' start='733410'>
+    <variant>designing</variant>
+  </canonskill>
+  <canonskill name='dreamweaver'>
+    <variant>Dreamweaver</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='e - commerce' start='733410'>
+    <variant>E-commerce</variant>
+  </canonskill>
+  <canonskill end='733196' experience='1' expidrefs='2' idrefs='2' lastused='2008' name='film production' start='733075'>
+    <variant>film</variant>
+  </canonskill>
+  <canonskill name='final cut pro'>
+    <variant>Final Cut Pro</variant>
+  </canonskill>
+  <canonskill name='flash'>
+    <variant>Flash</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='4' idrefs='4' name='flash animation'>
+    <variant>Flash animation</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='5' idrefs='5' name='graphic design'>
+    <variant>Graphic design</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='3' idrefs='3' name='graphics software'>
+    <variant>Graphic</variant>
+    <variant>graphic</variant>
+  </canonskill>
+  <canonskill name='html'>
+    <variant>HTML 5</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='5' idrefs='5' name='illustrator'>
+    <variant>illustration</variant>
+    <variant>Illustrator</variant>
+  </canonskill>
+  <canonskill name='indesign'>
+    <variant>Indesign</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='5' end='734579' experience='1' expidrefs='1' idrefs='5,1' lastused='2012' name='layout design' start='733410'>
+    <variant>layout</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='logo design' start='733410'>
+    <variant>logos</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='3,5' idrefs='3,5' name='marketing'>
+    <variant>marketing</variant>
+  </canonskill>
+  <canonskill name='maya'>
+    <variant>Maya</variant>
+  </canonskill>
+  <canonskill name='microsoft office'>
+    <variant>Microsoft Office</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='4' idrefs='4' name='multimedia'>
+    <variant>Multimedia</variant>
+  </canonskill>
+  <canonskill name='mysql'>
+    <variant>MySql</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='4' idrefs='4' name='non - linear editing'>
+    <variant>Non -linear editing</variant>
+  </canonskill>
+  <canonskill end='733196' experience='1' expidrefs='2' idrefs='2' lastused='2008' name='photography' start='733075'>
+    <variant>photography</variant>
+  </canonskill>
+  <canonskill name='php'>
+    <variant>PHP</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='3' idrefs='3' name='search engine optimization'>
+    <variant>Search engine optimization</variant>
+  </canonskill>
+  <canonskill name='shell scripting'>
+    <variant>Script</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='5' idrefs='5' name='typesetting'>
+    <variant>typography</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='3' idrefs='3' name='web programming'>
+    <variant>Web programming</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='3,4' end='734579' experience='1' expidrefs='1' idrefs='3,4,1' lastused='2012' name='web site production' start='733410'>
+    <variant>web development</variant>
+    <variant>websites</variant>
+    <variant>Web design</variant>
+    <variant>web design</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

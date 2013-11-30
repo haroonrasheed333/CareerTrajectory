@@ -1,0 +1,341 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "OHST", 
+            "Certification Name": "Occupational Health and Safety Technologist", 
+            "Type": "Core", 
+            "Certification ID": "8102", 
+            "Certifying Organization": "Board of Certified Safety Professionals"
+        }, 
+        {
+            "Acronym": "WSO-RSD", 
+            "Certification Name": "Registered Safety Director", 
+            "Type": "Advanced", 
+            "Certification ID": "6850", 
+            "Certifying Organization": "World Safety Organization"
+        }, 
+        {
+            "Acronym": "HSO", 
+            "Certification Name": "Health & Safety Officer Certification", 
+            "Type": "Core", 
+            "Certification ID": "5400", 
+            "Certifying Organization": "Fire Department Safety Officers Association"
+        }, 
+        {
+            "Acronym": "OHST", 
+            "Certification Name": "Occupational Health and Safety Technologist", 
+            "Type": "Core", 
+            "Certification ID": "5875", 
+            "Certifying Organization": "International Board for Certification of Safety Managers"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Inspection and Testing of Water-Based Systems I", 
+            "Type": "Advanced", 
+            "Certification ID": "5382", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Special Hazards Suppression Systems I", 
+            "Type": "Specialty", 
+            "Certification ID": "5383", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Special Hazards Suppression Systems III", 
+            "Type": "Specialty", 
+            "Certification ID": "9098", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "CHST", 
+            "Certification Name": "Construction Health and Safety Technician", 
+            "Type": "Specialty", 
+            "Certification ID": "5877", 
+            "Certifying Organization": "International Board for Certification of Safety Managers"
+        }, 
+        {
+            "Acronym": "CSSHI", 
+            "Certification Name": "Certified Site Safety and Health Inspector", 
+            "Type": "Specialty", 
+            "Certification ID": "7679", 
+            "Certifying Organization": "Center for Security and Emergency Management"
+        }, 
+        {
+            "Acronym": "WSO-CGST", 
+            "Certification Name": "WSO - Certified Governmental Safety Technician", 
+            "Type": "Specialty", 
+            "Certification ID": "1002", 
+            "Certifying Organization": "World Safety Organization"
+        }, 
+        {
+            "Acronym": "RAC", 
+            "Certification Name": "Regulatory Affairs Certification - US", 
+            "Type": "Advanced", 
+            "Certification ID": "6103", 
+            "Certifying Organization": "Regulatory Affairs Professionals Society"
+        }, 
+        {
+            "Acronym": "CPSI", 
+            "Certification Name": "Certified Playground Safety Inspector", 
+            "Type": "Specialty", 
+            "Certification ID": "3132", 
+            "Certifying Organization": "National Recreation and Park Association"
+        }, 
+        {
+            "Acronym": "AEP", 
+            "Certification Name": "Associate Ergonomics Professional", 
+            "Type": "Core", 
+            "Certification ID": "1451", 
+            "Certifying Organization": "Board of Certification in Professional Ergonomics"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Inspection and Testing of Water-Based Systems III", 
+            "Type": "Advanced", 
+            "Certification ID": "9096", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "CSP", 
+            "Certification Name": "Certified Safety Professional", 
+            "Type": "Core", 
+            "Certification ID": "7853", 
+            "Certifying Organization": "Board of Certified Safety Professionals"
+        }, 
+        {
+            "Acronym": "AHFP", 
+            "Certification Name": "Associate Human Factors Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "1452", 
+            "Certifying Organization": "Board of Certification in Professional Ergonomics"
+        }, 
+        {
+            "Acronym": "CEA", 
+            "Certification Name": "Certified Ergonomics Associate", 
+            "Type": "Core", 
+            "Certification ID": "1453", 
+            "Certifying Organization": "Board of Certification in Professional Ergonomics"
+        }, 
+        {
+            "Acronym": "CHMP", 
+            "Certification Name": "Certified Hazardous Materials Practitioner", 
+            "Type": "Core", 
+            "Certification ID": "6032", 
+            "Certifying Organization": "Institute of Hazardous Materials Management"
+        }, 
+        {
+            "Acronym": "CET/CIT", 
+            "Certification Name": "Certified Environmental, Safety and Health Trainer / Certified Instructional Technologist", 
+            "Type": "Advanced", 
+            "Certification ID": "8640", 
+            "Certifying Organization": "Board of Certified Safety Professionals"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Technician Certification in Biofeedback", 
+            "Type": "Specialty", 
+            "Certification ID": "6716", 
+            "Certifying Organization": "Biofeedback Certification International Alliance"
+        }, 
+        {
+            "Acronym": "WSO-CGEO", 
+            "Certification Name": "WSO - Certified Governmental Environmental Officer", 
+            "Type": "Advanced", 
+            "Certification ID": "1003", 
+            "Certifying Organization": "World Safety Organization"
+        }, 
+        {
+            "Acronym": "CPSO", 
+            "Certification Name": "Certified Patient Safety Officer", 
+            "Type": "Core", 
+            "Certification ID": "8580", 
+            "Certifying Organization": "International Board for Certification of Safety Managers"
+        }, 
+        {
+            "Acronym": "OHC", 
+            "Certification Name": "Occupational Hearing Conservationist", 
+            "Type": "Specialty", 
+            "Certification ID": "5660", 
+            "Certifying Organization": "Council for Accreditation in Occupational Hearing Conservation"
+        }, 
+        {
+            "Acronym": "CHCM", 
+            "Certification Name": "Certified Hazard Control Manager", 
+            "Type": "Specialty", 
+            "Certification ID": "7878", 
+            "Certifying Organization": "International Board for Certification of Safety Managers"
+        }, 
+        {
+            "Acronym": "WSO-CHMS", 
+            "Certification Name": "WSO - Certified Hazardous Materials Supervisor", 
+            "Type": "Specialty", 
+            "Certification ID": "1011", 
+            "Certifying Organization": "World Safety Organization"
+        }, 
+        {
+            "Acronym": "WSO-CST", 
+            "Certification Name": "WSO - Certified Safety Technician", 
+            "Type": "Specialty", 
+            "Certification ID": "0999", 
+            "Certifying Organization": "World Safety Organization"
+        }, 
+        {
+            "Acronym": "WSO-CGSS", 
+            "Certification Name": "WSO - Certified Governmental Safety Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "1001", 
+            "Certifying Organization": "World Safety Organization"
+        }, 
+        {
+            "Acronym": "CHSP", 
+            "Certification Name": "Certified Healthcare Safety Professional", 
+            "Type": "Specialty", 
+            "Certification ID": "0662", 
+            "Certifying Organization": "International Board for Certification of Safety Managers"
+        }, 
+        {
+            "Acronym": "CMSP", 
+            "Certification Name": "Certified Mine Safety Professional", 
+            "Type": "Core", 
+            "Certification ID": "5390", 
+            "Certifying Organization": "International Society of Mine Safety Professionals"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Special Hazards Suppression Systems II", 
+            "Type": "Specialty", 
+            "Certification ID": "9097", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "CHSP-FSM", 
+            "Certification Name": "Certified Healthcare Safety Professional - Fire Safety Management", 
+            "Type": "Advanced", 
+            "Certification ID": "8579", 
+            "Certifying Organization": "International Board for Certification of Safety Managers"
+        }, 
+        {
+            "Acronym": "CPH", 
+            "Certification Name": "Certified in Public Health", 
+            "Type": "Specialty", 
+            "Certification ID": "6078", 
+            "Certifying Organization": "National Board of Public Health Examiners"
+        }, 
+        {
+            "Acronym": "WSO", 
+            "Certification Name": "WSO - Certified Safety Manager (Construction)", 
+            "Type": "Specialty", 
+            "Certification ID": "6851", 
+            "Certifying Organization": "World Safety Organization"
+        }, 
+        {
+            "Acronym": "REHS/RS", 
+            "Certification Name": "Registered Environmental Health Specialist/Registered Sanitarian", 
+            "Type": "Specialty", 
+            "Certification ID": "0122", 
+            "Certifying Organization": "National Environmental Health Association"
+        }, 
+        {
+            "Acronym": "CSHM", 
+            "Certification Name": "Certified Safety and Health Manager", 
+            "Type": "Specialty", 
+            "Certification ID": "2149", 
+            "Certifying Organization": "Institute for Safety and Health Management"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Product Safety Technician", 
+            "Type": "Core", 
+            "Certification ID": "4804", 
+            "Certifying Organization": "National Association of Radio and Telecommunications Engineers, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Special Hazards Suppression Systems IV", 
+            "Type": "Specialty", 
+            "Certification ID": "9099", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Technician Certification in Neurofeedback", 
+            "Type": "Specialty", 
+            "Certification ID": "6715", 
+            "Certifying Organization": "Biofeedback Certification International Alliance"
+        }, 
+        {
+            "Acronym": "WSO-CGET", 
+            "Certification Name": "WSO - Certified Governmental Environmental Technician", 
+            "Type": "Core", 
+            "Certification ID": "1005", 
+            "Certifying Organization": "World Safety Organization"
+        }, 
+        {
+            "Acronym": "WSO-CGSO", 
+            "Certification Name": "WSO - Certified Governmental Safety Officer", 
+            "Type": "Advanced", 
+            "Certification ID": "1000", 
+            "Certifying Organization": "World Safety Organization"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Product Safety Technician", 
+            "Type": "Core", 
+            "Certification ID": "7749", 
+            "Certifying Organization": "International Association for Radio, Telecommunications and  Electromagnetics"
+        }, 
+        {
+            "Acronym": "STS", 
+            "Certification Name": "Safety Trained Supervisor", 
+            "Type": "Advanced", 
+            "Certification ID": "5878", 
+            "Certifying Organization": "International Board for Certification of Safety Managers"
+        }, 
+        {
+            "Acronym": "WSO-CSS", 
+            "Certification Name": "WSO - Certified Safety Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "0997", 
+            "Certifying Organization": "World Safety Organization"
+        }, 
+        {
+            "Acronym": "WSO-CHME", 
+            "Certification Name": "WSO - Certified Hazardous Materials Executive", 
+            "Type": "Specialty", 
+            "Certification ID": "1012", 
+            "Certifying Organization": "World Safety Organization"
+        }, 
+        {
+            "Acronym": "WSO-CGES", 
+            "Certification Name": "WSO - Certified Governmental Environmental Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "1004", 
+            "Certifying Organization": "World Safety Organization"
+        }, 
+        {
+            "Acronym": "WSO-CSE", 
+            "Certification Name": "Certified Safety Executive", 
+            "Type": "Advanced", 
+            "Certification ID": "0995", 
+            "Certifying Organization": "World Safety Organization"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Inspection and Testing of Water-Based Systems II", 
+            "Type": "Advanced", 
+            "Certification ID": "9095", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "MRO", 
+            "Certification Name": "Medical Review Officer Certification", 
+            "Type": "Core", 
+            "Certification ID": "2182", 
+            "Certifying Organization": "American Association of Medical Review Officers"
+        }
+    ], 
+    "onet": "29901200"
+}

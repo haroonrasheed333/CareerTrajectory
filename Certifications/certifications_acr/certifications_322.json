@@ -1,0 +1,460 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Step Certification", 
+            "Type": "Core", 
+            "Certification ID": "1051", 
+            "Certifying Organization": "Aerobics and Fitness Association of America"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Cycling Instructor", 
+            "Type": "Core", 
+            "Certification ID": "2041", 
+            "Certifying Organization": "National Strength Professionals Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Trail Assistant Clinic Instructor", 
+            "Type": "Advanced", 
+            "Certification ID": "7158", 
+            "Certifying Organization": "Certified Horsemanship Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Weight Management Specialist Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "9106", 
+            "Certifying Organization": "American Council on Exercise"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Senior Fitness Specialty Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "9113", 
+            "Certifying Organization": "American Council on Exercise"
+        }, 
+        {
+            "Acronym": "IRD", 
+            "Certification Name": "Level One Instructor of Riders with Disabilities (IRD)", 
+            "Type": "Specialty", 
+            "Certification ID": "7141", 
+            "Certifying Organization": "Certified Horsemanship Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Level Three Instructor of Riders with Disabilities", 
+            "Type": "Specialty", 
+            "Certification ID": "7143", 
+            "Certifying Organization": "Certified Horsemanship Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Personal Trainer Certification", 
+            "Type": "Core", 
+            "Certification ID": "2637", 
+            "Certifying Organization": "International Sports Sciences Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Assistant DIDC Clinic Instructor", 
+            "Type": "Specialty", 
+            "Certification ID": "7172", 
+            "Certifying Organization": "Certified Horsemanship Association"
+        }, 
+        {
+            "Acronym": "CWP", 
+            "Certification Name": "Certified Wellness Practitioner", 
+            "Type": "Advanced", 
+            "Certification ID": "8929", 
+            "Certifying Organization": "National Wellness Institute"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Sports Medicine Trainer", 
+            "Type": "Specialty", 
+            "Certification ID": "4655", 
+            "Certifying Organization": "International Fitness Professional Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Heart Rate Performance Specialist", 
+            "Type": "Core", 
+            "Certification ID": "8600", 
+            "Certifying Organization": "National Exercise and Sports Trainers Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Trail Clinic Instructor", 
+            "Type": "Core", 
+            "Certification ID": "7159", 
+            "Certifying Organization": "Certified Horsemanship Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Basic Certified Casting Instructor", 
+            "Type": "Core", 
+            "Certification ID": "1386", 
+            "Certifying Organization": "Federation of Fly Fishers"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Strength Training Specialist", 
+            "Type": "Core", 
+            "Certification ID": "4648", 
+            "Certifying Organization": "International Fitness Professional Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Level One Instructor", 
+            "Type": "Specialty", 
+            "Certification ID": "7147", 
+            "Certifying Organization": "Certified Horsemanship Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Level Three Instructor", 
+            "Type": "Specialty", 
+            "Certification ID": "7149", 
+            "Certifying Organization": "Certified Horsemanship Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Level One Vaulting Coach", 
+            "Type": "Specialty", 
+            "Certification ID": "7164", 
+            "Certifying Organization": "Certified Horsemanship Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Assistant Driver/Instructor", 
+            "Type": "Specialty", 
+            "Certification ID": "7167", 
+            "Certifying Organization": "Certified Horsemanship Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "National Board Certification - Early Adolescence through Young Adulthood/Physical Education", 
+            "Type": "Specialty", 
+            "Certification ID": "4811", 
+            "Certifying Organization": "National Board for Professional Teaching Standards"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Primary Group Exercise Instructor", 
+            "Type": "Core", 
+            "Certification ID": "1050", 
+            "Certifying Organization": "Aerobics and Fitness Association of America"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "USDF Certified Instructor", 
+            "Type": "Core", 
+            "Certification ID": "1601", 
+            "Certifying Organization": "United States Dressage Federation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Level Two Instructor of Riders with Disabilities", 
+            "Type": "Specialty", 
+            "Certification ID": "7142", 
+            "Certifying Organization": "Certified Horsemanship Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Master Certified Casting Instructor", 
+            "Type": "Advanced", 
+            "Certification ID": "1387", 
+            "Certifying Organization": "Federation of Fly Fishers"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Group Exercise Instructor", 
+            "Type": "Core", 
+            "Certification ID": "7656", 
+            "Certifying Organization": "National Exercise and Sports Trainers Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Assistant Instructor", 
+            "Type": "Core", 
+            "Certification ID": "1392", 
+            "Certifying Organization": "Certified Horsemanship Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Senior Fitness Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "2635", 
+            "Certifying Organization": "International Sports Sciences Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Sports Nutrition Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "1292", 
+            "Certifying Organization": "International Sports Sciences Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Elite Trainer I Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "6819", 
+            "Certifying Organization": "International Sports Sciences Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Personal FitnessTrainer", 
+            "Type": "Core", 
+            "Certification ID": "1052", 
+            "Certifying Organization": "Aerobics and Fitness Association of America"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Level Four Instructor", 
+            "Type": "Advanced", 
+            "Certification ID": "7150", 
+            "Certifying Organization": "Certified Horsemanship Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Master Instructor", 
+            "Type": "Advanced", 
+            "Certification ID": "7151", 
+            "Certifying Organization": "Certified Horsemanship Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Instructor Trainer Educator Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "3135", 
+            "Certifying Organization": "American Canoe Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Level Two Vaulting Coach", 
+            "Type": "Specialty", 
+            "Certification ID": "7165", 
+            "Certifying Organization": "Certified Horsemanship Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Fitness Nutrition Certification", 
+            "Type": "Core", 
+            "Certification ID": "1291", 
+            "Certifying Organization": "International Sports Sciences Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Conditioning Specialist Certification", 
+            "Type": "Core", 
+            "Certification ID": "2039", 
+            "Certifying Organization": "National Strength Professionals Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Advanced Sports Nutrition", 
+            "Type": "Advanced", 
+            "Certification ID": "4647", 
+            "Certifying Organization": "International Fitness Professional Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Elite Trainer II Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "6820", 
+            "Certifying Organization": "International Sports Sciences Association"
+        }, 
+        {
+            "Acronym": "ARICP", 
+            "Certification Name": "Certified Riding Instructor Level I (Instructor in Training)", 
+            "Type": "Core", 
+            "Certification ID": "2019", 
+            "Certifying Organization": "American Riding Instructors Association"
+        }, 
+        {
+            "Acronym": "ARICP", 
+            "Certification Name": "Certified Riding Instructor - Level II (Instructor of Beginner through Intermediate)", 
+            "Type": "Core", 
+            "Certification ID": "2020", 
+            "Certifying Organization": "American Riding Instructors Association"
+        }, 
+        {
+            "Acronym": "CSCS", 
+            "Certification Name": "Certified Strength and Conditioning Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "1056", 
+            "Certifying Organization": "National Strength and Conditioning Association - Certification Commission"
+        }, 
+        {
+            "Acronym": "CAI", 
+            "Certification Name": "Aquatics Instructor Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "1070", 
+            "Certifying Organization": "American Fitness Professionals and Associates"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Tai Chi and Chi Kung Instructor", 
+            "Type": "Specialty", 
+            "Certification ID": "4659", 
+            "Certifying Organization": "International Fitness Professional Association"
+        }, 
+        {
+            "Acronym": "DACI", 
+            "Certification Name": "Instructor of Riders with Disabilities Assistant Clinic Instructor", 
+            "Type": "Specialty", 
+            "Certification ID": "7144", 
+            "Certifying Organization": "Certified Horsemanship Association"
+        }, 
+        {
+            "Acronym": "CFCS-HNFS", 
+            "Certification Name": "Certified in Hospitality, Nutrition, and Food Science", 
+            "Type": "Core", 
+            "Certification ID": "8151", 
+            "Certifying Organization": "American Association of Family and Consumer Sciences"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Instructor Trainer Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "3139", 
+            "Certifying Organization": "American Canoe Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IRD Assistant Sidewalker or Horsehandler", 
+            "Type": "Specialty", 
+            "Certification ID": "1394", 
+            "Certifying Organization": "Certified Horsemanship Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Level 2 Driving Instructor", 
+            "Type": "Specialty", 
+            "Certification ID": "7171", 
+            "Certifying Organization": "Certified Horsemanship Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Physical Best Health-Fitness Instructor", 
+            "Type": "Core", 
+            "Certification ID": "2145", 
+            "Certifying Organization": "American Alliance for Health, Physical Education, Recreation and Dance"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Water Ski Instructor/Coach", 
+            "Type": "Core", 
+            "Certification ID": "2317", 
+            "Certifying Organization": "USA Water Ski"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Assistant Clinic Instructor", 
+            "Type": "Core", 
+            "Certification ID": "7152", 
+            "Certifying Organization": "Certified Horsemanship Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IRD Assistant Instructor", 
+            "Type": "Specialty", 
+            "Certification ID": "7140", 
+            "Certifying Organization": "Certified Horsemanship Association"
+        }, 
+        {
+            "Acronym": "DCI", 
+            "Certification Name": "Instructor of Riders with Disabilities Clinic Instructor", 
+            "Type": "Specialty", 
+            "Certification ID": "7145", 
+            "Certifying Organization": "Certified Horsemanship Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Level Two Instructor", 
+            "Type": "Specialty", 
+            "Certification ID": "7148", 
+            "Certifying Organization": "Certified Horsemanship Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Strength and Conditioning Certification", 
+            "Type": "Core", 
+            "Certification ID": "2634", 
+            "Certifying Organization": "International Sports Sciences Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Physical Best Health-Fitness Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "2144", 
+            "Certifying Organization": "American Alliance for Health, Physical Education, Recreation and Dance"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Youth Fitness Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "1295", 
+            "Certifying Organization": "International Sports Sciences Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Perinatal Fitness Educator", 
+            "Type": "Specialty", 
+            "Certification ID": "5775", 
+            "Certifying Organization": "International Childbirth Education Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Master Trainer Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "6818", 
+            "Certifying Organization": "International Sports Sciences Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Kickboxing Certification", 
+            "Type": "Core", 
+            "Certification ID": "1049", 
+            "Certifying Organization": "Aerobics and Fitness Association of America"
+        }, 
+        {
+            "Acronym": "ARICP", 
+            "Certification Name": "Certified Riding Instructor - Level III (Instructor of Beginner through Advanced)", 
+            "Type": "Advanced", 
+            "Certification ID": "2021", 
+            "Certifying Organization": "American Riding Instructors Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Assistant Vaulting Coach", 
+            "Type": "Specialty", 
+            "Certification ID": "7163", 
+            "Certifying Organization": "Certified Horsemanship Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Level Three Vaulting Coach", 
+            "Type": "Specialty", 
+            "Certification ID": "7166", 
+            "Certifying Organization": "Certified Horsemanship Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Level 1 Driving Instructor", 
+            "Type": "Specialty", 
+            "Certification ID": "7169", 
+            "Certifying Organization": "Certified Horsemanship Association"
+        }, 
+        {
+            "Acronym": "APT", 
+            "Certification Name": "Advanced Personal Trainer", 
+            "Type": "Advanced", 
+            "Certification ID": "2624", 
+            "Certifying Organization": "American Fitness Professionals and Associates"
+        }
+    ], 
+    "onet": "25119300"
+}

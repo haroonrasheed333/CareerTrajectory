@@ -1,0 +1,307 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734597' xml:space='preserve'><contact><name><givenname>TOBY</givenname> <givenname>E</givenname>. <surname>NEMIROFF</surname></name>                                                                         
+<address lat='40.695' lon='73.991' majorcity='BROOKLYN' state='NY'><city>Brooklyn</city>, <state abbrev='NY'>NY</state> <postalcode>11201</postalcode></address>          
+E-mail: <email>tobyen@yahoo.com</email>
+Home: <phone type='home'>(718) 797-2451</phone>, Cell: <phone type='cell'>(917) 446-0853</phone>         linkedin.com/pub/toby-nemiroff/7/306/6a3</contact>
+
+
+
+                                                       <summary>PROFILE:
+<summary>Award-winning, results-oriented Business Analyst with significant experience in systems design, development, training and
+technical writing in a Healthcare Payor setting. Expert in EDI, HIPAA compliance, systems integration and data conversions.
+Embraces challenge with enthusiasm.</summary></summary>
+<skills>Areas of Expertise:
+              <skills>o   Functional and technical specifications, SQL data modification and user documentation
+              o   Systems conversions and interfaces
+              o   Software requirements analysis and solution design
+              o   Healthcare Claims, Providers, Utilization Management
+              o   Process redesign
+              o   Project management and systems implementation,
+                  software development life cycle (SDLC) policies and procedures
+              o   Systems presentations and End-user training for new customers and users.
+              o   Quality control and assurance
+
+                                         APPLICATIONS/ENVIRONMENTS:
+Facets | X12 EDI (Healthcare) | VisualCactus | ClaimFacts | MS Windows | MS Office (Word, Excel, PowerPoint, Project) |
+Visio | SQL | DBArtisan | MS SQL 2000/2005/2008 | Visual SourceSafe | GroupFacts | NetworX | QNXT | XML | Mac OS X |
+COBOL | C++ | TOAD | Unix | Macess | Ingenix Webstrat|</skills></skills>
+
+                              <experience end='present' start='731949'>EMPLOYMENT HISTORY AND ACCOMPLISHMENTS:
+<job end='present' id='1' pos='1' start='733044'><title>Lead Business Analyst</title>,
+<employer>Health Plus PHSP, Inc</employer>.,                      ITS Application Development,                                <daterange><start days='733044' iso8601='2008-01-01'>2008</start> ­ <end days='present' iso8601='2012-04-02'>Present</end></daterange>
+    <description>Design and implement technical solutions for a variety of complex business needs, for leading Medicaid managed care
+    organization. Investigate and analyze business user requirements, develop logical and functional technical design
+    specifications, and partner with development and QA staff, business team, and vendors towards deployment and
+    production. Define and implement ITS Development business analysis practices and procedures. Liaison between
+    Application Development and ITS Operations to develop and document streamlined processes for ongoing production
+    jobs.
+    o Designed and implemented technical solutions for complex state-mandated prospective claims pricing
+         methodologies. Result: Health Plus is compliant with NY state mandates for Ambulatory Patient Group (APG) and
+         All Patient Refined Diagnosis Related Groups (APR-DRGs).
+    o Key Member of implementation team for enterprise-level provider credentialing solution, and designed interface with
+         claims system. Result: Health Plus Provider Relations staff utilize a single point of data entry managing
+         comprehensive provider data, accessible to the Health Plus enterprise.</description></job>
+
+<job id='2' sic='8631' sic2='86' start='732679'><title>Technical Analyst</title>,
+1199<employer>SEIU Benefit and Pension Funds</employer>,                                                                                    <daterange><start days='732679' iso8601='2007-01-01'>2007</start></daterange>
+    <description>Developed logical and functional requirements specifications for software releases related to provider data management,
+    Electronic Data Interchange, and healthcare claim adjudication operations for a major Taft Hartley benefits trust.
+    o Consolidated five separate provider data sources, partnering with business user organization, to implement
+        enterprise-level provider data repository and its custom configuration. Result: Languishing project brought to
+        successful live processing with data in one central repository accessible to other systems.</description></job>
+
+<job end='732679' id='3' pos='2' sic='632404' sic2='63' start='731949'><title>Senior Business Analyst/Project Manager</title>,
+<employer>MultiPlan, Inc</employer>.,                                                                                            <daterange><start days='731949' iso8601='2005-01-01'>2005</start> ­ <end days='732679' iso8601='2007-01-01'>2007</end></daterange>
+    <description>Developed and implement technical solutions and functional requirements specifications for software releases related to
+    Electronic Data Interchange (EDI) and healthcare claim repricing operations for the leading independent provider
+    network serving hospitals, physicians, insurers, TPAs, HMOs and self-funded plans.
+    o Managed new client EDI implementation projects to successful live production, having developed improved
+        implementation support materials. Result: MultiPlan has realized increased revenue with decreased administrative
+        expense due to automation of the repricing process with electronic claims.
+    o Project manager for company-wide implementation of the National Provider Identifier, a HIPAA requirement.
+        Result: MultiPlan proprietary systems have been enhanced to comply with this federal regulation.</description></job></experience>
+<contact><name><givenname>TOBY</givenname> <givenname>E</givenname>. <surname>NEMIROFF</surname></name>                                                                            
+<address lat='40.695' lon='73.991' majorcity='BROOKLYN' state='NY'><city>Brooklyn</city>, <state abbrev='NY'>NY</state> <postalcode>11201</postalcode></address>           
+E-mail: <email>tobyen@yahoo.com</email>
+Home: <phone type='home'>(718) 797-2451</phone>, Cell: <phone type='cell'>(917) 446-0853</phone>          linkedin.com/pub/toby-nemiroff/7/306/6a3</contact>
+
+
+
+
+<experience end='731949' start='726470'><job end='731949' id='4' pos='3' start='730122'><title>Business Analysis Specialist</title>,
+<employer>The TriZetto Group</employer>,                            Enterprise Software Division (formerly <employer>Erisco, Inc</employer>.)              <daterange><start days='730122' iso8601='2000-01-01'>2000</start> ­ <end days='731949' iso8601='2005-01-01'>2005</end></daterange>
+    <description>Developed logical and functional technical design specifications for Facets HIPAA Gateway, a client-server-based
+    enterprise software product, architected on a relational database design with graphical user interface, browser and web
+    service components. With the development team, effected enhancements, fixes and provided support for complex
+    users. Coordinated accurate implementations of EDI processes with insight obtained as member of ASC X12 national
+    standards setting organization.
+    o Appointed HIPAA Champion in January 2001. Integrated compliance, product development and customer relations
+         activities in support of corporate regulatory compliance strategy. Assured the division's internal compliance, product
+         readiness, and customer education so that TriZetto's Enterprise Software division meets regulatory requirements,
+         from both organizational and product standpoints.
+    o To expand on TriZetto's HIPAA product offerings, and to address a market need, initiated and developed original
+         concept for what has become the Facets HIPAA Privacy System. Result: TriZetto presently markets the Facets
+         HIPAA Privacy System as an add-on module, and realizes additional revenue from sales.</description></job>
+
+<job end='730122' id='5' pos='4' sic='514101' sic2='51' start='726470'><title>Product Specialist</title>,
+<employer>Erisco, Incorporated</employer>,                                                                                          <daterange><start days='726470' iso8601='1990-01-01'>1990</start> ­ <end days='730122' iso8601='2000-01-01'>2000</end></daterange>
+    <description>Developed logical and functional technical design specifications for Facets client-server and ClaimFacts mainframe
+    enterprise software products, including enhancements and fixes. Led design, development and implementation of non-
+    core and custom systems, EDI applications, conversions and interfaces for client-server and mainframe platforms.
+    Supported complex users, including on-site and remote troubleshooting.
+    o Designed and implemented provider batch import subsystems for both mainframe (&quot;XP&quot;) and client-server (&quot;XP/F&quot;)
+         platforms, addressing the need to integrate provider data from a variety of sources and maintain currency.
+    o Reengineered Erisco's approach to check extract offerings, permitting customers and business partners (e. g., ABF,
+         Inc.) to benefit from a consistent, comprehensive and maintainable extract dataset.</description></job>
+
+Prior Experience
+<job id='6' sic='581208' sic2='58'><title>Manager</title>, Insurance Administration, <employer>Ogden Allied Services</employer></job>,
+<job id='7' sic='514101' sic2='51'><title>Product Implementation Consultant</title>, <employer>Erisco, Incorporated</employer>; a Dun &amp; Bradstreet subsidiary,
+<title>Project Manager</title>, <description>Healthcare Cost Containment Division, Equitable Life Assurance Society of the United States
+Customer Reports Consultant, Group Administration Department, Equitable Life Assurance Society of the United States
+Publications &amp; Administration Specialist, Group Benefits Department, Equitable Life Assurance Society of the United States</description></job></experience>
+
+                                <professional>PROFESSIONAL ACCREDITATION AND AWARDS:
+                 <affiliations>Member of ANSI ASC X12 EDI Designated Standards Setting Organization, 1992-2005</affiliations></professional>
+                                        <statements><honors>TriZetto Superior Service Award, 2004
+                    Erisco Associates Committed to Excellence (ACE) Awards, 2000, 1999 (x2), 1998
+                         Dun &amp; Bradstreet Corporation Chairman's Discretionary Award, 1992
+                              Dun &amp; Bradstreet Corporation Customer Focus Award, 1991
+                                  Microsoft Project 2003 White Belt certification, 2006</honors></statements>
+
+
+                                                       <education>EDUCATION:
+                  <school id='8'><degree level='16' name='Bachelor of Arts'>B. A</degree>., <major code='1701'>Anthropology</major>, <institution>Brooklyn College of the City University of New York</institution>
+                  <courses>Graduate course work</courses> (Education) at <institution>Long Island University, Brooklyn College</institution></school></education>
+
+
+
+
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='732679' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='administration' start='731949'>
+    <variant>administrative</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='application development' start='733044'>
+    <variant>Application Development</variant>
+  </canonskill>
+  <canonskill end='730122' experience='1' expidrefs='5' idrefs='5' lastused='2000' name='approach' start='726470'>
+    <variant>approach</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='automation' start='731949'>
+    <variant>automation</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='2,7' idrefs='2,7' name='benefits administration' start='732679'>
+    <variant>Benefits</variant>
+    <variant>benefits</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='business analysis' start='733044'>
+    <variant>business analysis</variant>
+  </canonskill>
+  <canonskill name='c + +'>
+    <variant>C++</variant>
+  </canonskill>
+  <canonskill end='731949' experience='1' expidrefs='4,5' idrefs='4,5' lastused='2005' name='client/server' start='726470'>
+    <variant>client-server</variant>
+  </canonskill>
+  <canonskill name='cobol'>
+    <variant>COBOL</variant>
+  </canonskill>
+  <canonskill end='731949' experience='1' expidrefs='4' idrefs='4' lastused='2005' name='concept development' start='730122'>
+    <variant>concept</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='7' idrefs='7' name='consulting'>
+    <variant>Consultant</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='3,4' idrefs='3,4' lastused='2007' name='customer relations' start='730122'>
+    <variant>client</variant>
+    <variant>customer relations</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='data entry' start='733044'>
+    <variant>data entry</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='2' idrefs='2' name='data management' start='732679'>
+    <variant>data management</variant>
+  </canonskill>
+  <canonskill end='731949' experience='1' expidrefs='4' idrefs='4' lastused='2005' name='development' start='730122'>
+    <variant>product development</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='diagnosis' start='733044'>
+    <variant>Diagnosis</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='2,3,4,5' idrefs='2,3,4,5' lastused='2007' name='electronic data interchange' start='726470'>
+    <variant>Electronic Data Interchange</variant>
+    <variant>EDI</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,3,4,5' idrefs='1,2,3,4,5' lastused='2012' name='functional' start='726470'>
+    <variant>Functional</variant>
+    <variant>functional</variant>
+  </canonskill>
+  <canonskill end='731949' experience='1' expidrefs='4' idrefs='4' lastused='2005' name='gateway' start='730122'>
+    <variant>Gateway</variant>
+  </canonskill>
+  <canonskill end='731949' experience='1' expidrefs='4' idrefs='4' lastused='2005' name='graphical user interface' start='730122'>
+    <variant>graphical user interface</variant>
+  </canonskill>
+  <canonskill end='730122' experience='1' expidrefs='5' idrefs='5' lastused='2000' name='ingres abf' start='726470'>
+    <variant>ABF</variant>
+  </canonskill>
+  <canonskill name='macintosh os'>
+    <variant>Mac OS</variant>
+  </canonskill>
+  <canonskill end='730122' experience='1' expidrefs='5' idrefs='5' lastused='2000' name='mainframe' start='726470'>
+    <variant>mainframe</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='management' start='733044'>
+    <variant>managing</variant>
+  </canonskill>
+  <canonskill end='731949' experience='1' expidrefs='4' idrefs='4' lastused='2005' name='marketing' start='730122'>
+    <variant>market</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='materials management' start='731949'>
+    <variant>materials</variant>
+  </canonskill>
+  <canonskill name='microsoft excel'>
+    <variant>Excel</variant>
+  </canonskill>
+  <canonskill name='microsoft office'>
+    <variant>MS Office</variant>
+  </canonskill>
+  <canonskill name='microsoft powerpoint'>
+    <variant>PowerPoint</variant>
+  </canonskill>
+  <canonskill name='microsoft windows'>
+    <variant>MS Windows</variant>
+  </canonskill>
+  <canonskill name='microsoft windows 2000'>
+    <variant>2000</variant>
+  </canonskill>
+  <canonskill name='microsoft word'>
+    <variant>Word</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,4,5' idrefs='1,2,4,5' lastused='2012' name='netscape enterprise server' start='726470'>
+    <variant>Enterprise</variant>
+    <variant>enterprise</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='networking' start='731949'>
+    <variant>network</variant>
+  </canonskill>
+  <canonskill end='731949' experience='1' expidrefs='4' idrefs='4' lastused='2005' name='organizational skills' start='730122'>
+    <variant>organizational</variant>
+  </canonskill>
+  <canonskill name='policy analysis'>
+    <variant>policies</variant>
+  </canonskill>
+  <canonskill name='presentation skills'>
+    <variant>presentations</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='pricing' start='733044'>
+    <variant>pricing</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,4' idrefs='1,4' lastused='2012' name='process engineering' start='730122'>
+    <variant>processes</variant>
+  </canonskill>
+  <canonskill name='project management'>
+    <variant>Project management</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='7' idrefs='7' name='publicity'>
+    <variant>Publications</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='quality control' start='733044'>
+    <variant>QA</variant>
+    <variant>Quality control</variant>
+  </canonskill>
+  <canonskill end='731949' experience='1' expidrefs='4' idrefs='4' lastused='2005' name='relational database design' start='730122'>
+    <variant>relational database design</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='requirements' start='731949'>
+    <variant>requirement</variant>
+  </canonskill>
+  <canonskill name='requirements analysis'>
+    <variant>requirements analysis</variant>
+  </canonskill>
+  <canonskill end='731949' experience='1' expidrefs='4' idrefs='4' lastused='2005' name='sales' start='730122'>
+    <variant>sales</variant>
+  </canonskill>
+  <canonskill name='sdlc'>
+    <variant>SDLC</variant>
+  </canonskill>
+  <canonskill name='software development'>
+    <variant>software development</variant>
+  </canonskill>
+  <canonskill name='sourcesafe'>
+    <variant>Visual SourceSafe</variant>
+  </canonskill>
+  <canonskill name='sql'>
+    <variant>MS SQL</variant>
+    <variant>SQL</variant>
+  </canonskill>
+  <canonskill end='731949' experience='1' expidrefs='4' idrefs='4' lastused='2005' name='strategic' start='730122'>
+    <variant>strategy</variant>
+  </canonskill>
+  <canonskill name='technical training'>
+    <variant>user training</variant>
+  </canonskill>
+  <canonskill name='technical writing'>
+    <variant>user documentation</variant>
+  </canonskill>
+  <canonskill name='toad'>
+    <variant>TOAD</variant>
+  </canonskill>
+  <canonskill end='730122' experience='1' expidrefs='5' idrefs='5' lastused='2000' name='troubleshooting' start='726470'>
+    <variant>troubleshooting</variant>
+  </canonskill>
+  <canonskill name='unix'>
+    <variant>Unix</variant>
+  </canonskill>
+  <canonskill name='visio'>
+    <variant>Visio</variant>
+  </canonskill>
+  <canonskill name='xml'>
+    <variant>XML</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

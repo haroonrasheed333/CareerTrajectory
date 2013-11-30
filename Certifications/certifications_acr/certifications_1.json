@@ -1,0 +1,572 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CESP", 
+            "Certification Name": "Certified Equipment Support Professional", 
+            "Type": "Core", 
+            "Certification ID": "9050", 
+            "Certifying Organization": "Association of Equipment Management Professionals"
+        }, 
+        {
+            "Acronym": "CMDSM", 
+            "Certification Name": "Certified Mail and Distribution Systems Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "5452", 
+            "Certifying Organization": "Mail Systems Management Association "
+        }, 
+        {
+            "Acronym": "ACM", 
+            "Certification Name": "Accredited Cruise Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "8011", 
+            "Certifying Organization": "Cruise Lines International Association"
+        }, 
+        {
+            "Acronym": "HDI", 
+            "Certification Name": "HDI Support Center Director", 
+            "Type": "Advanced", 
+            "Certification ID": "5488", 
+            "Certifying Organization": "HDI"
+        }, 
+        {
+            "Acronym": "PPM", 
+            "Certification Name": "Public Power Manager", 
+            "Type": "Core", 
+            "Certification ID": "6196", 
+            "Certifying Organization": "American Public Power Association"
+        }, 
+        {
+            "Acronym": "AFO", 
+            "Certification Name": "Aquatics Facility Operator", 
+            "Type": "Core", 
+            "Certification ID": "3131", 
+            "Certifying Organization": "National Recreation and Park Association"
+        }, 
+        {
+            "Acronym": "WSO-RSD", 
+            "Certification Name": "Registered Safety Director", 
+            "Type": "Advanced", 
+            "Certification ID": "6850", 
+            "Certifying Organization": "World Safety Organization"
+        }, 
+        {
+            "Acronym": "CRX", 
+            "Certification Name": "Certified Retail Property Executive", 
+            "Type": "Advanced", 
+            "Certification ID": "9393", 
+            "Certifying Organization": "International Council of Shopping Centers"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Transfer Station Systems - Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "1470", 
+            "Certifying Organization": "Solid Waste Association of North America"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Automobile Technician: Service Consultant", 
+            "Type": "Advanced", 
+            "Certification ID": "3685", 
+            "Certifying Organization": "National Institute for Automotive Service Excellence"
+        }, 
+        {
+            "Acronym": "CSE", 
+            "Certification Name": "Court Security Executive", 
+            "Type": "Specialty", 
+            "Certification ID": "8004", 
+            "Certifying Organization": "National Sheriffs' Association"
+        }, 
+        {
+            "Acronym": "C-CISO", 
+            "Certification Name": "EC Council Certified Chief Information Security Officer", 
+            "Type": "Advanced", 
+            "Certification ID": "6341", 
+            "Certifying Organization": "EC-Council"
+        }, 
+        {
+            "Acronym": "CMCA", 
+            "Certification Name": "Certified Manager of Community Associations", 
+            "Type": "Advanced", 
+            "Certification ID": "5504", 
+            "Certifying Organization": "National Board of Certification for Community Association Managers"
+        }, 
+        {
+            "Acronym": "CCM", 
+            "Certification Name": "Certified Club Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "7984", 
+            "Certifying Organization": "Club Managers Association of America"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Public Power Governance Certificate Program", 
+            "Type": "Core", 
+            "Certification ID": "9534", 
+            "Certifying Organization": "American Public Power Association"
+        }, 
+        {
+            "Acronym": "CSM", 
+            "Certification Name": "Certified Service Manager", 
+            "Type": "Core", 
+            "Certification ID": "3680", 
+            "Certifying Organization": "ETA International"
+        }, 
+        {
+            "Acronym": "CPRE", 
+            "Certification Name": "The Certified Park and Recreation Executive", 
+            "Type": "Advanced", 
+            "Certification ID": "8778", 
+            "Certifying Organization": "National Recreation and Park Association"
+        }, 
+        {
+            "Acronym": "SPP", 
+            "Certification Name": "Strategic Planning Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "6877", 
+            "Certifying Organization": "Association for Strategic Planning"
+        }, 
+        {
+            "Acronym": "SMP", 
+            "Certification Name": "Strategic Management Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "6879", 
+            "Certifying Organization": "Association for Strategic Planning"
+        }, 
+        {
+            "Acronym": "CABM", 
+            "Certification Name": "Certified Associate Business Manager", 
+            "Type": "Core", 
+            "Certification ID": "4485", 
+            "Certifying Organization": "Association of Professionals in Business Management"
+        }, 
+        {
+            "Acronym": "ABA,", 
+            "Certification Name": "Certified Travel Industry Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "3721", 
+            "Certifying Organization": "American Bus Association"
+        }, 
+        {
+            "Acronym": "GISF", 
+            "Certification Name": "GIAC Information Security Fundamentals", 
+            "Type": "Core", 
+            "Certification ID": "4381", 
+            "Certifying Organization": "Global Information Assurance Certification"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "CompTIA Strata IT Fundamentals Certification", 
+            "Type": "Core", 
+            "Certification ID": "7373", 
+            "Certifying Organization": "Computing Technology Industry Association (CompTIA)"
+        }, 
+        {
+            "Acronym": "MOLO", 
+            "Certification Name": "Landfill Operations - Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "1462", 
+            "Certifying Organization": "Solid Waste Association of North America"
+        }, 
+        {
+            "Acronym": "CFE", 
+            "Certification Name": "Certified Franchise Executive", 
+            "Type": "Advanced", 
+            "Certification ID": "8017", 
+            "Certifying Organization": "International Franchise Association"
+        }, 
+        {
+            "Acronym": "CIL", 
+            "Certification Name": "Certified Innovation Leader", 
+            "Type": "Advanced", 
+            "Certification ID": "9046", 
+            "Certifying Organization": "Association of International Product Marketing and Management"
+        }, 
+        {
+            "Acronym": "CPIM", 
+            "Certification Name": "Certified in Production and Inventory Management", 
+            "Type": "Advanced", 
+            "Certification ID": "1432", 
+            "Certifying Organization": "The Association for Operations Management"
+        }, 
+        {
+            "Acronym": "REM", 
+            "Certification Name": "Registered Environmental Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "1115", 
+            "Certifying Organization": "National Registry of Environmental Professionals"
+        }, 
+        {
+            "Acronym": "OPMP", 
+            "Certification Name": "Operations and Performance Management Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "5848", 
+            "Certifying Organization": "American Society of Heating, Refrigerating and Air-Conditioning Engineers"
+        }, 
+        {
+            "Acronym": "CPPA", 
+            "Certification Name": "Certified Professional Property Administrator", 
+            "Type": "Advanced", 
+            "Certification ID": "1334", 
+            "Certifying Organization": "National Property Management Association, Inc."
+        }, 
+        {
+            "Acronym": "CMM", 
+            "Certification Name": "Certification in Meetings Management", 
+            "Type": "Core", 
+            "Certification ID": "0844", 
+            "Certifying Organization": "Meeting Professionals International"
+        }, 
+        {
+            "Acronym": "KPPAE", 
+            "Certification Name": "Key Account Certificate Program", 
+            "Type": "Core", 
+            "Certification ID": "9536", 
+            "Certifying Organization": "American Public Power Association"
+        }, 
+        {
+            "Acronym": "CGCS", 
+            "Certification Name": "Certified Golf Course Superintendent", 
+            "Type": "Advanced", 
+            "Certification ID": "2209", 
+            "Certifying Organization": "Golf Course Superintendents Association of America"
+        }, 
+        {
+            "Acronym": "MPM", 
+            "Certification Name": "Master Project Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "9496", 
+            "Certifying Organization": "American Academy of Project Management"
+        }, 
+        {
+            "Acronym": "CLC", 
+            "Certification Name": "Certified Leadership Consultant", 
+            "Type": "Advanced", 
+            "Certification ID": "9500", 
+            "Certifying Organization": "American Academy of Project Management"
+        }, 
+        {
+            "Acronym": "CCUE", 
+            "Certification Name": "Certified Credit Union Executive", 
+            "Type": "Advanced", 
+            "Certification ID": "1362", 
+            "Certifying Organization": "Credit Union National Association"
+        }, 
+        {
+            "Acronym": "RLLD", 
+            "Certification Name": "Registered Laundry and Linen Director", 
+            "Type": "Core", 
+            "Certification ID": "2220", 
+            "Certifying Organization": "National Association of Institutional Linen Management"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Integrated Solid Waste Management - Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "1465", 
+            "Certifying Organization": "Solid Waste Association of North America"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Construction & Demolition Materials - Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "1466", 
+            "Certifying Organization": "Solid Waste Association of North America"
+        }, 
+        {
+            "Acronym": "CEC", 
+            "Certification Name": "Certified E-Commerce Consultant", 
+            "Type": "Advanced", 
+            "Certification ID": "7943", 
+            "Certifying Organization": "American Academy of Project Management"
+        }, 
+        {
+            "Acronym": "CPFM", 
+            "Certification Name": "Certified Parking Facility Manager", 
+            "Type": "Core", 
+            "Certification ID": "1279", 
+            "Certifying Organization": "National Parking Association"
+        }, 
+        {
+            "Acronym": "CPO", 
+            "Certification Name": "Certified Pool/Spa Operator", 
+            "Type": "Core", 
+            "Certification ID": "1348", 
+            "Certifying Organization": "National Swimming Pool Foundation"
+        }, 
+        {
+            "Acronym": "PME", 
+            "Certification Name": "Project Manager E-Business", 
+            "Type": "Core", 
+            "Certification ID": "2767", 
+            "Certifying Organization": "Institute of Certified E-Commerce Consultants "
+        }, 
+        {
+            "Acronym": "CBP", 
+            "Certification Name": "Certified Business Professional, Master Executive, Project Management", 
+            "Type": "Advanced", 
+            "Certification ID": "3815", 
+            "Certifying Organization": "International Business Training Association"
+        }, 
+        {
+            "Acronym": "CHT", 
+            "Certification Name": "Certified HospitalityTrainer", 
+            "Type": "Core", 
+            "Certification ID": "3316", 
+            "Certifying Organization": "American Hotel and Lodging Association Educational Institute"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Chemical Hygiene Officer", 
+            "Type": "Core", 
+            "Certification ID": "3715", 
+            "Certifying Organization": "National Registry of Certified Chemists"
+        }, 
+        {
+            "Acronym": "ASE", 
+            "Certification Name": "Associate Service Executive", 
+            "Type": "Advanced", 
+            "Certification ID": "0957", 
+            "Certifying Organization": "National Association of Service Managers"
+        }, 
+        {
+            "Acronym": "CSE", 
+            "Certification Name": "Certified Service Executive", 
+            "Type": "Advanced", 
+            "Certification ID": "0958", 
+            "Certifying Organization": "National Association of Service Managers"
+        }, 
+        {
+            "Acronym": "CDFA", 
+            "Certification Name": "Certified Design Firm Administrator", 
+            "Type": "Advanced", 
+            "Certification ID": "6185", 
+            "Certifying Organization": "Society for Design Administration"
+        }, 
+        {
+            "Acronym": "CPIA", 
+            "Certification Name": "Certified Professional IACUC Administrator", 
+            "Type": "Advanced", 
+            "Certification ID": "6873", 
+            "Certifying Organization": "Public Responsibility in Medicine and Research"
+        }, 
+        {
+            "Acronym": "PPCSM", 
+            "Certification Name": "Public Power Customer Service Manager", 
+            "Type": "Core", 
+            "Certification ID": "6195", 
+            "Certifying Organization": "American Public Power Association"
+        }, 
+        {
+            "Acronym": "Construction", 
+            "Certification Name": "WSO - Certified Safety Manager (Construction)", 
+            "Type": "Specialty", 
+            "Certification ID": "6851", 
+            "Certifying Organization": "World Safety Organization"
+        }, 
+        {
+            "Acronym": "CCT", 
+            "Certification Name": "Certified Cost Technician", 
+            "Type": "Core", 
+            "Certification ID": "5727", 
+            "Certifying Organization": "AACE International, Inc."
+        }, 
+        {
+            "Acronym": "CHBME", 
+            "Certification Name": "Certified Healthcare Billing and Management Executive", 
+            "Type": "Core", 
+            "Certification ID": "9528", 
+            "Certifying Organization": "Healthcare Billing & Management Association"
+        }, 
+        {
+            "Acronym": "CFPIM", 
+            "Certification Name": "Certified Fellow in Production and Inventory Management", 
+            "Type": "Advanced", 
+            "Certification ID": "1434", 
+            "Certifying Organization": "The Association for Operations Management"
+        }, 
+        {
+            "Acronym": "CAE", 
+            "Certification Name": "Certified Association Executive", 
+            "Type": "Advanced", 
+            "Certification ID": "1551", 
+            "Certifying Organization": "American Society of Association Executives"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Recycling Systems - Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "1469", 
+            "Certifying Organization": "Solid Waste Association of North America"
+        }, 
+        {
+            "Acronym": "CCCM", 
+            "Certification Name": "Certified Commercial Contracts Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "1422", 
+            "Certifying Organization": "National Contract Management Association"
+        }, 
+        {
+            "Acronym": "CBP", 
+            "Certification Name": "CBP Professional", 
+            "Type": "Core", 
+            "Certification ID": "3813", 
+            "Certifying Organization": "International Business Training Association"
+        }, 
+        {
+            "Acronym": "ISPI", 
+            "Certification Name": "Certified Performance Technologist", 
+            "Type": "Advanced", 
+            "Certification ID": "3699", 
+            "Certifying Organization": "International Society of Performance Improvement "
+        }, 
+        {
+            "Acronym": "CFRE", 
+            "Certification Name": "Certified Fundraising Executive", 
+            "Type": "Advanced", 
+            "Certification ID": "3998", 
+            "Certifying Organization": "Association for Healthcare Philanthropy"
+        }, 
+        {
+            "Acronym": "CM", 
+            "Certification Name": "Certified Manager", 
+            "Type": "Core", 
+            "Certification ID": "0083", 
+            "Certifying Organization": "Institute of Certified Professional Managers"
+        }, 
+        {
+            "Acronym": "CFM", 
+            "Certification Name": "Certified Facility Manager", 
+            "Type": "Core", 
+            "Certification ID": "0087", 
+            "Certifying Organization": "International Facility Management Association"
+        }, 
+        {
+            "Acronym": "CSM", 
+            "Certification Name": "Certified Service Manager", 
+            "Type": "Core", 
+            "Certification ID": "0512", 
+            "Certifying Organization": "National Electronics Service Dealers Association, Inc."
+        }, 
+        {
+            "Acronym": "CCLM", 
+            "Certification Name": "Certified Laundry/Linen Manager", 
+            "Type": "Core", 
+            "Certification ID": "2223", 
+            "Certifying Organization": "National Association of Institutional Linen Management"
+        }, 
+        {
+            "Acronym": "CHFE", 
+            "Certification Name": "Certified Hospitality Facilities Executive", 
+            "Type": "Advanced", 
+            "Certification ID": "0111", 
+            "Certifying Organization": "American Hotel and Lodging Association Educational Institute"
+        }, 
+        {
+            "Acronym": "CPPM", 
+            "Certification Name": "Certified Professional Property Manager", 
+            "Type": "Core", 
+            "Certification ID": "1335", 
+            "Certifying Organization": "National Property Management Association, Inc."
+        }, 
+        {
+            "Acronym": "KCS", 
+            "Certification Name": "Knowledge Management Foundations: Knowledge-Centered Support Principles", 
+            "Type": "Advanced", 
+            "Certification ID": "5489", 
+            "Certifying Organization": "HDI"
+        }, 
+        {
+            "Acronym": "CCM", 
+            "Certification Name": "Certified Construction Manager", 
+            "Type": "Core", 
+            "Certification ID": "5402", 
+            "Certifying Organization": "Construction Manager Certification Institute"
+        }, 
+        {
+            "Acronym": "CBP", 
+            "Certification Name": "Certified Business Professional Executive Level", 
+            "Type": "Advanced", 
+            "Certification ID": "3814", 
+            "Certifying Organization": "International Business Training Association"
+        }, 
+        {
+            "Acronym": "CIC", 
+            "Certification Name": "Certified Irrigation Contractor", 
+            "Type": "Core", 
+            "Certification ID": "1460", 
+            "Certifying Organization": "Irrigation Association"
+        }, 
+        {
+            "Acronym": "CLSD", 
+            "Certification Name": "Certified Lodging Security Director", 
+            "Type": "Core", 
+            "Certification ID": "2975", 
+            "Certifying Organization": "American Hotel and Lodging Association Educational Institute"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Executive Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "9446", 
+            "Certifying Organization": "International Academies of Emergency Dispatch"
+        }, 
+        {
+            "Acronym": "CBM", 
+            "Certification Name": "Certified Business Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "4484", 
+            "Certifying Organization": "Association of Professionals in Business Management"
+        }, 
+        {
+            "Acronym": "CPRM", 
+            "Certification Name": "Certified Project Risk Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "7942", 
+            "Certifying Organization": "American Academy of Project Management"
+        }, 
+        {
+            "Acronym": "CCR", 
+            "Certification Name": "Certified Collegiate Retailer", 
+            "Type": "Core", 
+            "Certification ID": "0850", 
+            "Certifying Organization": "National Association of College Bookstores"
+        }, 
+        {
+            "Acronym": "EEMCP", 
+            "Certification Name": "Energy Efficiency Management Certificate Program", 
+            "Type": "Core", 
+            "Certification ID": "9535", 
+            "Certifying Organization": "American Public Power Association"
+        }, 
+        {
+            "Acronym": "CESM", 
+            "Certification Name": "Certified Environmental Systems Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "1119", 
+            "Certifying Organization": "National Registry of Environmental Professionals"
+        }, 
+        {
+            "Acronym": "PME", 
+            "Certification Name": "Project Manager Ebusiness", 
+            "Type": "Advanced", 
+            "Certification ID": "7940", 
+            "Certifying Organization": "American Academy of Project Management"
+        }, 
+        {
+            "Acronym": "CJM", 
+            "Certification Name": "Certified Jail Manager", 
+            "Type": "Specialty", 
+            "Certification ID": "3768", 
+            "Certifying Organization": "American Jail Association"
+        }, 
+        {
+            "Acronym": "CEPM", 
+            "Certification Name": "IPC EMS Program Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "3482", 
+            "Certifying Organization": "Association Connecting Electronics Industries"
+        }
+    ], 
+    "onet": "11102100"
+}

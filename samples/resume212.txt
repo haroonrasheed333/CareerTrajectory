@@ -1,0 +1,677 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734588' xml:space='preserve'>	                      SYED	
+Sr. <contact><name><givenname>Unix</givenname> <surname>Administrator</surname></name>
+		           
+Cell:  <phone type='cell'>646-932-7866</phone>
+Email: <email>adminsyd@gmail.com</email></contact>
+
+<summary>SUMMARY
+	
+<summary>Over Eight  Plus years of strong experience in administration of System Administration in Sun Solaris, HP-UX, SuSE &amp; Redhat Enterprise Linux and Windows Operating System with extensive implementation &amp; troubleshooting experience under Client Server Systems.   
+Experience on Redhat ES/AS 3/4/5, Sun Solaris 7/8/9/10 implementation Administration, Installation &amp; Maintenance. Installed HPUX Boxes through Ignite.
+Expertise implementation and maintenance of DHCP, NFS, NIS, DNS &amp; Apache
+Experience in Migration from Sun Solaris to Linux. Upgraded Solaris 8  to Solaris 10.
+Worked on the BACKUP, design, development, and support creation of all file system layouts, database environments, referential integrity relationships/constraints and security environment roles.
+Installation and configuration of Solaris 10 container Technology, created and maintained Global &amp; Non Global Zones.
+Experience in web application like Apache/Tomcat/Iplanet  etc
+Installation and support of RedHat Enterprise Linux using Satellite server(Kickstart)
+Expert in Datacenter operations including hardware,software setup monitoring,troubleshooting on a 24 x 7 basis with BMC patrol,Team Quest, Unicenter &amp; Smart trouble ticketing Systems/remedy tickets/kintana tickets etc.
+Installing, Configuring Solaris Volume Manager (Solstice Disksuite 4.2.1), Veritas Volume Manger and Logical Volume Manager.
+Experience in Performance monitoring tools such as BMC main view, BMC Enterprise Performance Assurance and BMC Patrol.
+Installed and configured Veritas Cluster Server on Solaris/Linux with Veritas Volume Manager.
+Worked on Redhat Cluster Servers (RHCS) with Global File System (GFS).
+Installation, configuration and administration of Veritas Cluster Server and HP Service guard high availability and redundancy, Installed &amp; Configured HBA(PCI/PCI-X) in SAN storage.
+Worked on IPMP and NIC Bonding.
+VMware Infrastructure Installation &amp; Configuration. Planning and Designing VMware VI3 (ESX3.x/ ESXi 4.x/ Thin ESX and VMware Virtual Center).
+Configured &amp; installed ALOM  (Advanced Lights Out Manager) &amp; Load Balancer</summary></summary>
+
+<skills>SKILLS
+<skills>Operating System: SUN Solaris 2.6/7/8/9/10, HP-UX 11.11/11.23/11.31, AIX 5.1/5.3L, SCO  Unix 5.x,  Linux (Redhat 4/5/6,  SuSE 9/10/11), Windows 2008/2003/7/Vista
+
+Hardware: Sun Fire 6800/4800/3800/880/480/1280, T2000/5000, M5000/9000, E15K/25K, HP-9000, IBM RS/6000, pSeries, xSeries, Dell 5500 Servers, Compaq Proliant ML370, 3000 &amp; 6000 Servers, Proliant DL-320/ 360/ 380/ 560/ 580, Sun StorEdge A-5200, D-1000 Array, HP/Sun/IBM Blade Servers.
+Cluster: Veritas Cluster, Redhat Cluster, Service Guard, Sun cluster
+Web /Application Server: Tomcat, Apache, WebSphere, Weblogic
+Languages: UNIX Shell Scripting, PL/SQL 
+Networking: TCP/IP, IPX/SPX, NetBEUI, PPP, SMTP,  IPMP, SNMP
+Database: Oracle 8i/9i/10g,  MS-Access, Unify (RDBMS)</skills> 
+
+CERTIFICATION:
+<courses>Sun Certified Unix System Administrator  (Solaris 10)
+Red Hat Certified Engineer (RHEL 5)
+Microsoft Certified Systems Engineer (Windows 2000)</courses></skills>
+
+<education>EDUCATION: 
+<degree level='18' name='Master'>Master</degree> in <major code='0402'>Computer Science</major></education>
+
+<experience end='present' start='734079'>EXPERIENCE
+
+eBAY - <job end='present' id='1' pos='1' start='734413'><address lat='40.3031' lon='-89.605' majorcity='SAN JOSE' state='IL'><city>San Jose</city>  - <state abbrev='CA'>California</state></address> - <daterange><start days='734413' iso8601='2011-10-01'>October 2011</start> to  <end days='present' iso8601='2012-03-24'>Present</end></daterange> - <title>Sr. Unix System Administrator</title>
+<description>Installation, configuration &amp; upgrade of Solaris,  Redhat Linux  operating system.
+Worked on Performance monitoring tools such as BMC Enterprise Performance Assurance and BMC Patrol &amp; Team Quest Tool
+Installed patches with UCE Tool (Sun update Connection)
+Knowledge about java and perl
+Configured and install Zones - identify zone components and zonecfg resource parameters, allocate file system space, describe the interactive configuration of a zone.
+Using vmstat, iostat, SAR, tnsping &amp; netstat to determine the system and network health.
+Experienced with monitoring tools including Nagios and BMC Patrol. Expertise with admin tools including  Big Brother and components.
+Experience in apache, Tomcat,Iplanet
+Installing weblogic application and troubleshooting
+Implemented Security Hardening per company policy using Solaris 10 feature.
+Implemented SUDO, SSH and other security tools and implemented SOX (Sarbanes Oxley) security compliance, Trouble shooting of day to day system and user problems
+Installed &amp; Configured Sun Fire T-1000 210, V240, V440, V490, V880, T2000,E450,1280 &amp; HP Proliant  DL-320/360/380/560/580 L Servers
+Installation Red hat  Linux 8, 9.0, 10.0 on Dell, Proliant, Enterprise Server 4.0 
+Configuring DNS, DHCP, NIS, NFS, Sendmail in Sun Solaris 6/7/8/9 &amp; other Network Services 
+Formatted raw disks &amp; partitioned them using the format utility. Created file system using newfs and mounted it. Created devices &amp; special files using mknod
+Installed, managed Solaris Volume Manager (Configuring mirror/Breaking mirror/metadata bases Solstice Disk suite 4.2.1)
+Implemented TCP/IP network based on DHCP, DNS on Linux 5.2 &amp; Sun Solaris 8
+Setting up of network involving Sun Workstation, Servers and Communication Product
+Setup a Jumpstart server and client workstation installation
+Oracle Installation on Solaris 8 &amp; Linux 5.2 redhat
+Performed system health check up by using various utilities like sar, top etc  
+Expertise in managing ZFS in Solaris Container.
+Extensive experience in configuring Global File System(GFS) and Zeta byte File System(ZFS)
+Backup management and recovery policies using Veritas Netbackup.
+Worked on SAN/EMC storages with HBA card configuration and different level of RAID .</description></job>
+
+
+
+
+
+<job end='734383' id='2' naics='54151905' naics2='54' pos='2' sic='573407' sic2='57' start='734079'><employer>Cisco Systems</employer>  - <address><city>San Jose</city> - <state abbrev='CA'>California</state></address> -    <daterange><start days='734079' iso8601='2010-11-01'>November 2010</start>  to   <end days='734383' iso8601='2011-09-01'>September 2011</end></daterange>-<title>Sr.unix administrator</title>
+<description>Installation, Configuration and Upgrade of Solaris 8/10, Redhat Linux RHEL 4/5/6, HP-UX 11i, AIX 5.3 operating systems.
+Installation and Configuration of Veritas Volume Manager, Logical Volume Manager and Veritas Cluster Server.
+Implementation of RAID techniques and the creation of Disk groups and volumes, plex using Veritas Volume manager.
+Installed and Configured DHCP Servers
+Written a Backup/restore scripting in shell programming and server installation &amp; upgrading
+Installation of Suse, Redhat Linux, Kickstart Installation  through SATELLITE  Server
+Installed and configu
+Efficiently managed Disk and File system through Veritas Volume Manager,  Logical Volume Manager.
+Extensive experience with working on Solstice Disk Suite (SDS)/ Solaris Volume Manager (SVM), creating meta devices, soft partitions, mirroring the devices. Extensive Space allocation to Meta devices, detaching and clearing the devices if not in use.
+Extensive use of Logical Volume Manager (LVM), creating Volume Groups, Logical volumes and disk mirroring in Linux,HP-UX .
+Day to day trouble shooting for end users on UNIX/LINUX  
+Experience about scripting
+Experience in Setting up and configuring Install Server, Configuration Server and Boot Server for Kickstart process &amp; performed Kickstart to install OS on Several workstations. 
+Installation and configuration of Veritas Cluster Server, RHCS (Redhat Cluster Suites) and HP Serviceguard for high availability. 
+Performed setting up Configuration Server and Boot Server for Jumpstart process 
+Extensively worked on Solaris 10 container technology, created non global zones, modified local zone parameters, created file systems on local and global zones.
+Implemented and organized a rollout project which involves upgrade of servers using Redhat Satellite Server.
+Installed, configured and maintained the Apache, Nagios.
+Involved in OS upgrade and Server migration from Solaris and HP-UX to Redhat Linux and data migration using EMC Open replication.  
+Installation and configuration of Solaris Zones.
+Worked in ZFS and QFS and fixed the problems occurred, set the quota and reservations for such file systems.
+Used VMWare for testing various applications on different operating system.</description></job></experience>
+<skills><skills>Installation, Configuration, Administration and Trouble shooting of ESX 3.x/4.x, Virtual Center, VI Client
+Configured Resource Pool, Motion, Alerts, Alarms, NT
+
+Environment: SUN Servers - E10K, 15K, 25K, E450, E3500, E4500, E5000, E6500, HP Blades, Solaris 10/9,  Red-hat Linux 5/4, SUSE 10, Windows 2000, VERITAS Cluster Software, RHEL, VMware Infrastructure 3,  VERITAS Volume Manager 4.x, VERITAS Net Backup 6.5, NFS, DNS, LDAP, Net App NAS, Apache, Solaris Zones, VERITAS Cluster server (VCS), BASH, Perl, D-trace, q-mail, Oracle 10g, My SQL, SAN, Shell programming, EMC DMX3000, 2000, 1000.</skills></skills>
+
+<experience end='734048' start='731491'><job end='734048' id='3' pos='3' sic='752102' sic2='75' start='733226'><employer>Embarq - Kansas - Overland Park</employer>   -  <daterange><start days='733226' iso8601='2008-07-01'>July  2008</start>  to  <end days='734048' iso8601='2010-10-01'>Oct 2010</end></daterange> - <title>Sr. Unix system Administrator</title>
+<description>Installation, configuration &amp; upgrade of Solaris,  Redhat Linux  and HP Unix operating system.
+Worked on Performance monitoring tools such as BMC Enterprise Performance Assurance and BMC Patrol &amp; Team Quest Tool
+Installed patches with UCE Tool (Sun update Connection)
+Configured and install Zones - identify zone components and zonecfg resource parameters, allocate file system space, describe the interactive configuration of a zone,
+Administered zones - use the zoneadm command to view, install, boot, halt, reboot, and delete a zone.
+Expertise in VERITAS Volume Manager(VxVM 3.5 &amp; 4.1), Disk management,  Volume management,   software RAID solutions using VERITAS Volume Manager,  Solaris Volume Manager (SVM) and File System administration using VERITAS File System (VxFS)
+Develops and implements a systems back-up and recovery plan for local back-ups.
+Installing Packages with RPM and YUM tool
+Installed  and Configured XMPP Server and Installed XMPP software on client side
+Installing ZENworks Linux Management 7.3 Agent on Remote Servers
+Participated in developing and implementing a jumpstart server for multiple installations.
+Created related documentation, standards and procedures to comply with corporation and industry standards.
+Installation of Suse, Redhat Linux, Kickstart Installation  through SATELLITE  Server
+Upgraded Solaris 8 to Solaris 10 &amp; Migrated solaris to Suse Linux
+Installing and configuring LDOMS &amp; Virtualization with Solaris Zones &amp; LDOMS
+Installation and configuration of Veritas Volume Manager, Veritas File System.
+Installation and configuration of Veritas Netbackup, Created User, Groups per client requirement.
+Using vmstat, iostat, SAR, tnsping &amp; netstat to determine the system and network health.
+Experienced with monitoring tools including HP OpenView and BMC Patrol. Expertise with admin tools including  Big Brother and components (nagios etc)
+Documented administration and maintenance procedures
+Implemented Security Hardening per company policy using Solaris 10 feature.
+Implemented SUDO, SSH and other security tools and implemented SOX (Sarbanes Oxley) security compliance, Trouble shooting of day to day system and user problems
+Installed &amp; Configured Sun Fire T-1000 210, V240, V440, V490, V880, T2000,E450,1280 &amp; HP Proliant  DL-320/360/380/560/580 L Servers
+Installation Red hat  Linux 8, 9.0, 10.0 on Dell, Proliant, Enterprise Server 4.0 
+      Mirrored root disks on all the servers by using solaris volume manager
+SAMBA/Apache implementation and support
+Reviewing BACKUP design specifications to ensure adherence to best practice methods for database usage
+Installed and configured HBA card in SAN storage 
+Providing 24 x7x 365  support to various application level server level &amp; network level Monitoring &amp; troubleshooting of any datacenter outages.
+Installed and configured  containers(Zonning) - solaris 10
+Veritas Netbackup installation &amp; maintenance Backup/restore on ADIC (Intelligent Storage -Scalar i2000k - Library Management Console) using server Windows NT/2000 &amp; Sun Solaris server  &amp; taking backup in DLT tape &amp; checking the job failures.
+Configured NFS Servers, NIS+ Servers, NIS+ Clients, Diskless clients and Auto clients and automounted the file systems using direct and indirect maps. Also setup entries in /etc/dfs/dfstab in Solaris share file systems and mounted the disks onto the client systems.
+Suse linux / Redhat Enterprise Linux kernel, memory upgrade &amp; swap area
+Integration of Linux/Solaris with Active Directory (LDAP)
+Redhat Linux Kickstart Installation  &amp; Sun Solaris  Jump start Installation
+
+Environment: Solaris 10/8/2.x, HP-UX 11.0/11i, AIX 4.3, 5.1/5.3L,  Sun Fire 4800/3800/ V880/V240 Sun E10K and E15K Servers, Sun Enterprise 6500/500/4500/450/ 420R/250 Servers</description></job>
+<job end='733226' id='4' pos='4' sic='899906' sic2='89' start='733044'><employer>Mitchell International</employer>- <address><city>San Diego</city> -<state abbrev='CA'>CA</state></address>   - 	<daterange><start days='733044' iso8601='2008-01-01'>Jan 2008</start>  to <end days='733226' iso8601='2008-07-01'>July 2008</end></daterange> -<description>Unix administrator                                 
+Installation, Configuration &amp; Upgrade of Solaris, HP-UX  and Linux operating system.
+Installation and configuration of Veritas Volume Manager, Veritas File System.
+Installation and configuration of Veritas Netbackup.
+Installing Packages with RPM and YUM tool
+Using vmstat, iostat, SAR, tnsping and netstat to determine the system and network health.
+Experienced with monitoring tools including HP OpenView and BMC Patrol. Expertise with admin tools including  Big Brother.
+Documented administration and maintenance procedures
+Implemented Security Hardening per company policy using Solaris 10 feature.
+Implemented SUDO, SSH and other security tools and implemented SOX (Sarbanes Oxley) security compliance.  
+Upgraded Solaris to Redhat linux with the help of P2V tool etc
+Experience on monitoring tool Team Quest, Big Brother &amp; Nagios
+Trouble shooting of day to day system and user problems
+Installation and configuration of Veritas Cluster Server (VCS) from the scratch.
+Installed &amp; Configured Sun Fire T-1000 210, V240, V440, V490, V880, T2000,E450,1280 &amp; HP Proliant  DL-320/360/380/560/580 L Servers
+Installation Red hat  Linux 8, 9.0, 10.0 on Dell, Proliant, Enterprise Server 4.0 
+      Mirrored root disks on all the servers by using solaris volume manager
+
+Environment: Solaris 10/9/8/2.x, HP-UX 11.0/11i, AIX 4.3, 5.1/5.3L,  Sun Fire 4800/3800/ V880 and Sun E10K and E15K Servers, Sun Enterprise 6500/500/4500/450/ 420R/250 Servers, Ultra Enterprise 2/1 Servers, SPARC server 1000, SPARC server 20 Enterprise Servers, SPARC server 1000/20,  HP 9000 K,L,N class server , IBM RS/6000, pSeries servers.</description></job>
+<job end='732983' id='5' pos='5' sic='999999' sic2='99' start='732526'><employer>Sun Microsystems  - Broomfield</employer> - Colorado   -  <daterange><start days='732526' iso8601='2006-08-01'>Aug 2006</start>   to  <end days='732983' iso8601='2007-11-01'>Nov 2007</end></daterange>                                                                   
+<title>Sr. Unix System Administrator</title>
+<description>Installation, Configuration &amp; Upgrade of Solaris, AIX, HP-UX, Linux and Windows-NT operating systems.
+Installed Suse Linux  &amp; Redhat Linux on HP Proliant Blade Servers
+Installation Packages and patches &amp; supported 24/7  high availability production servers.
+Experienced with monitoring tools including HP OpenView and BMC Patrol. Expertise with admin tools including Webmin, Netcool and Big Brother.
+Installed, configured Zones and maintenance in sun solaris 10.0
+Installed &amp; Configured Sun Fire 210, V240, V440, V490, V880, T2000,E450,1280 &amp; HP Proliant  DL-320/360/380/560/580 L Servers
+Installing Packages with RPM and YUM tool
+Installation Red hat  Linux 8, 9.0, 10.0 on Dell, Proliant, Enterprise Server 4.0 
+      Mirrored root disks on all the servers by using solaris volume manager
+Knowledge AIX system administration.
+Integration of Linux/Solaris with Active Directory (LDAP)
+Providing 24 x 7 supports to various application level server level &amp; network level Monitoring &amp; troubleshooting of any datacenter outages.
+Day-to-day administration on Sun Solaris which includes Installation, upgrade &amp; loading patches &amp; packages
+Installed  and Configured XMPP Server and Installed.
+Experience on writing a Shell scripts in Korn &amp; Bourn Shell to take the backup automation jobs.
+Implemented Solaris 10 containers(Zonning)
+Veritas  Netbackup installation &amp; maintenance backup/restore on ADIC (Intelligent Storage -Scalar i2000k - Library Management Console) using server Windows NT/2000 &amp; Sun Solaris server  &amp; taking backup in DLT tape &amp; checking the job failures.
+Configured NFS Servers, NIS+ Servers, NIS+ Clients, Diskless clients and Auto clients and automounted the file systems using direct and indirect maps. Also setup entries in /etc/dfs/dfstab in Solaris share file systems and mounted the disks onto the client systems.
+Installation &amp; configuration of  Sun Cluster on Solaris &amp; HP Service Guard on HP-UX.
+Redhat Enterprise Linux kernel, memory upgrade and swap area
+
+Environment: Solaris, Redhat Enterprise Linux, AIX, HP-UX and Windows NT,  Sun Enterprise E35000 450/420R/250 Servers, Ultra Enterprise 2/1 Servers, SPARC server 1000, SPARC server 20 Enterprise Servers, SPARC server 1000/20, SPARCstation 10, Sun Sparc Ultra 1,5,10,  Intel Based Dell Servers, Veritas File System 3.0, ORACLE</description></job>
+
+<job end='732526' id='6' naics='54121101' naics2='54' pos='6' sic='872101' sic2='87' start='732345'><employer>Deloitte</employer> - <employer>Superior Court of California</employer> at <address><city>San Diego</city> - <state abbrev='CA'>CA</state></address>-  <daterange><start days='732345' iso8601='2006-02-01'>Feb 2006</start> - <end days='732526' iso8601='2006-08-01'>Aug 2006</end></daterange>
+<title>Unix System Administrator</title>
+Responsibilities:
+<description>Installation, Configuration &amp; Upgrade of Solaris, HP-UX and Linux operating system.
+Problems &amp; performance issues; Installed latest patches for Sun, Linux and Application servers, Performed Solaris and Red Hat Linux Kernel Tuning for TCP stack.
+Installation Red hat  Linux 8, 9.0 on Dell, Proliant, Enterprise Server 4.0
+Installed &amp; configured Sun Fire 210, V240, V440, V490, V880, 1280 &amp; HP Proliant
+      DL-320/360/380/560/580 L Servers
+Mirrored root disks on all the servers by using solaris volume manager
+Installing Packages with RPM and YUM tool
+Installed and configured HBA card in SAN storage
+Providing 24x7 supports to various application level server level &amp; network level Monitoring &amp; troubleshooting of any datacenter outages.
+Day-to-day administration on Sun Solaris which includes Installation, upgrade &amp; loading patches &amp; packages
+Configured NFS Servers, NIS+ Servers, NIS+ Clients, Diskless clients and Auto clients and automounted the file systems using direct and indirect maps. Also setup entries in /etc/dfs/dfstab in Solaris share file systems and mounted the disks onto the client systems.
+Installation and configuration of Veritas Cluster servers. Added new service group and maintained existing service group.
+Redhat Linux Kickstart &amp; Jump start sun solaris Installation
+Configuring DNS, DHCP, NIS, NFS in Sun Solaris 8/9 &amp; other Network Services 
+Formatted raw disks &amp; partitioned them using the format utility. Created file system using newfs and mounted it. Created devices and special files using mknod
+Installed, managed Solaris Volume Manager (Configuring mirror/Breaking mirror/metadata bases Solstice Disk suite 4.2.1)
+Installed, managed Verities Volume Manager 3.5 (VxVM) on Solaris 9
+Veritas Netbackup installation and maintenance Backup/restore &amp; Disk/Volume management with Veritas Volume Manager on Sun SPARC Storage Arrays &amp; Multi-Packs
+Handled Performance Monitoring in File system CPU, Memory and Process in all the UNIX Servers
+Written shell scripts to take backup oracle database.</description></job>
+
+<job end='732283' id='7' naics='51512001' naics2='51' pos='7' start='731949'><employer>NBC Universal</employer>,  <address>Englewood <city>Cliff</city>, <state abbrev='NJ'>NJ</state></address>		           	  		    	  <daterange><start days='731949' iso8601='2005-01-01'>Jan 2005</start> - <end days='732283' iso8601='2005-12-01'>Dec 2005</end></daterange>
+<description>Unix system administrator
+Responsibilities:
+Documented Apache Web Server Development, Staging &amp; Production environments, installed  configured and managed Solaris 2.7-2.9 on Sun Enterprise systems, Administered, maintained Red Hat 2.1, 3.0 AS, ES, Troubleshooting Hardware, Operating System Application &amp; Network problems and performance issues; Deployed latest patches for Sun, Linux and Application servers, Performed Solaris and Red Hat Linux Kernel Tuning for TCP stack.
+Installation Red hat  Linux 7.2, 9.0 on Dell, Proliant, Enterprise Server 3.0/AS3.5 
+Installed and configured Sun V880, V490, V440, V240 servers, mirrored root disks on all the servers by using Sun Disk Suite
+Providing 24 x 7 supports to various application level server level &amp; network level Monitoring and troubleshooting of any datacenter outages.
+Installing Packages with RPM 
+Day-to-day administration on Sun Solaris which includes Installation, upgrade and loading patches
+Veritas  Netback up installation, Catalogue backup and maintenance Backup/restore on ADIC (Intelligent Storage -Scalar i2000k - Library Management Console) using server Windows NT/2000 &amp; Sun Solaris server and checking the job failures.
+Configured NFS Servers, NIS+ Servers, NIS+ Clients, Diskless clients and Auto clients and automounted the file systems using direct and indirect maps. Also setup entries in /etc/dfs/dfstab in Solaris share file systems and mounted the disks onto the client systems.
+Linux kernel, memory upgrade &amp; swap area
+Production support of Apache and JBoss including installation, configuration, management and troubleshooting
+Configuring DNS, DHCP, NIS, NFS, Sendmail in Sun Solaris 6/7/8/9 &amp; other Network Services 
+Formatted raw disks &amp; partitioned them using the format utility. Created file system using newfs and mounted it. Created devices &amp; special files using mknod
+Installed, managed Solaris Volume Manager (Configuring mirror/Breaking mirror/metadata bases Solstice Disk suite 4.2.1)
+Installed, managed Verities Volume Manager 3.5 (VxVM) on Solaris 5.9
+Installation of weblogic, upgraded to service pack updates, installed BEA patches, configuring and creation new domain &amp;  services starting &amp; stopping.
+Installation of Oracle on Linux and Solaris, creating database, creating oracle users etc.</description></job>
+
+
+<job end='731888' id='8' naics='33441302' naics2='33' pos='8' sic='367401' sic2='36' start='731491'><employer>NEC Electronics Inc</employer>., <address><city>Santa Clara</city>, <state abbrev='CA'>CA</state></address>                                             <daterange><start days='731491' iso8601='2003-10-01'>Oct 2003</start> - <end days='731888' iso8601='2004-11-01'>Nov 2004</end></daterange>
+<title>Unix system Administrator</title>
+Responsibilities:
+<description>Responsible for hardware, software and network installations &amp; maintenance, Installed, administered and maintained multiple Solaris 7/8 servers, Installed packages and patches as required, setup and supported NFS, NIS+ &amp; DNS environment, performed volume management by using veritas file system, Veritas Volume Manager, Planned, managed and conducted daily backup and restore services by using Veritas.
+Creating slices or volumes, constructing file systems, creating links, design strategies to maintain Free spaces in file system, monitoring free space, disk usage, Administration  &amp; monitoring of disk based file system, process and cachefs file system.
+Configured DNS, DHCP servers &amp; Installation of Weblogic, troubleshooting etc.
+Installation Redhat Linux 5.0 with help of kickstart installation.
+Upgrade Kernel/memory/swap area/cpu /Fiber card &amp; adding hard-disk on HP proliant DL 380,320/360/380/560 and HP workstation etc
+Uploading and Down loading files between Remote &amp; Local servers using secure shell.
+Supporting on all Network, Hardware &amp; Software issues with proper problem solving techniques
+Installation of Veritas Cluster &amp; Basic setup of  Veritas Cluster, Resources, Service group and (volume manager /process resources)
+Veritas Netbackup installation, maintenance Backup/restore, creating policies &amp; adding new hosts  on  ADIC ( i2000K )using server Windows NT/2000 &amp; Sun Solaris box.
+Searching the scratch tape/creating policies/trouble shooting the error code
+Worked with Oracle DBA's for developing/modifying scripts to take database backup &amp; scheduling cron jobs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8</description></job></experience>
+
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='734048' experience='1' expidrefs='3,5' idrefs='3,5' lastused='2010' name='active directory' start='732526'>
+    <variant>Active Directory</variant>
+  </canonskill>
+  <canonskill end='734383' experience='1' expidrefs='2,3,4,5' idrefs='2,3,4,5' lastused='2011' name='aix' start='732526'>
+    <variant>AIX</variant>
+    <variant>AIX 4.3</variant>
+    <variant>AIX 5.1</variant>
+    <variant>AIX 5.3</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,3,7' idrefs='1,2,3,7' lastused='2012' name='apache webserver' start='731949'>
+    <variant>Apache</variant>
+    <variant>apache</variant>
+    <variant>Apache Web Server</variant>
+  </canonskill>
+  <canonskill end='732983' experience='1' expidrefs='5' idrefs='5' lastused='2007' name='automation' start='732526'>
+    <variant>automation</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,3,5,6,7,8' idrefs='1,2,3,5,6,7,8' lastused='2012' name='backup' start='731491'>
+    <variant>back-up</variant>
+    <variant>BACKUP</variant>
+    <variant>Backup</variant>
+    <variant>backup</variant>
+  </canonskill>
+  <canonskill name='bash'>
+    <variant>BASH</variant>
+  </canonskill>
+  <canonskill end='731888' experience='1' expidrefs='8' idrefs='8' lastused='2004' name='basic' start='731491'>
+    <variant>Basic</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,3,4,5' idrefs='1,3,4,5' lastused='2012' name='bmc patrol' start='732526'>
+    <variant>BMC Patrol</variant>
+  </canonskill>
+  <canonskill name='compaq servers'>
+    <variant>Compaq Proliant</variant>
+  </canonskill>
+  <canonskill end='732283' experience='1' expidrefs='7,8' idrefs='7,8' lastused='2005' name='computer hardware' start='731491'>
+    <variant>Hardware</variant>
+    <variant>hardware</variant>
+  </canonskill>
+  <canonskill end='732526' experience='1' expidrefs='6,8' idrefs='6,8' lastused='2006' name='cpu' start='731491'>
+    <variant>cpu</variant>
+    <variant>CPU</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,3,5,6,7' idrefs='1,3,5,6,7' lastused='2012' name='customer relations' start='731949'>
+    <variant>Client</variant>
+    <variant>client</variant>
+    <variant>Clients</variant>
+    <variant>clients</variant>
+  </canonskill>
+  <canonskill end='734383' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='data migration' start='734079'>
+    <variant>data migration</variant>
+  </canonskill>
+  <canonskill end='734048' experience='1' expidrefs='3,7,8' idrefs='3,7,8' lastused='2010' name='database administration' start='731491'>
+    <variant>Database</variant>
+    <variant>database</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,3,4,5,6,7' idrefs='1,3,4,5,6,7' lastused='2012' name='dell computers' start='731949'>
+    <variant>Dell</variant>
+  </canonskill>
+  <canonskill end='732983' experience='1' expidrefs='5' idrefs='5' lastused='2007' name='dell servers' start='732526'>
+    <variant>Dell Servers</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,6,7,8' idrefs='1,2,6,7,8' lastused='2012' name='dhcp' start='731491'>
+    <variant>DHCP</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,6,7,8' idrefs='1,6,7,8' lastused='2012' name='dns' start='731491'>
+    <variant>DNS</variant>
+  </canonskill>
+  <canonskill end='734048' experience='1' expidrefs='3' idrefs='3' lastused='2010' name='documentation' start='733226'>
+    <variant>documentation</variant>
+  </canonskill>
+  <canonskill end='734048' experience='1' expidrefs='3,4' idrefs='3,4' lastused='2010' name='e10000' start='733044'>
+    <variant>E10K</variant>
+  </canonskill>
+  <canonskill name='engineering'>
+    <variant>Engineer</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,3,4,5,6,8' idrefs='1,2,3,4,5,6,8' lastused='2012' name='hewlett packard' start='731491'>
+    <variant>HP</variant>
+  </canonskill>
+  <canonskill end='734383' experience='1' expidrefs='2,3,4,5,6' idrefs='2,3,4,5,6' lastused='2011' name='hp - ux' start='732345'>
+    <variant>HP-UX</variant>
+  </canonskill>
+  <canonskill end='733226' experience='1' expidrefs='4' idrefs='4' lastused='2008' name='hp 9000' start='733044'>
+    <variant>HP 9000</variant>
+    <variant>HP-9000</variant>
+  </canonskill>
+  <canonskill end='734048' experience='1' expidrefs='3,4,5' idrefs='3,4,5' lastused='2010' name='hp openview' start='732526'>
+    <variant>HP OpenView</variant>
+  </canonskill>
+  <canonskill name='ibm'>
+    <variant>IBM</variant>
+  </canonskill>
+  <canonskill name='ibm websphere'>
+    <variant>WebSphere</variant>
+  </canonskill>
+  <canonskill end='732983' experience='1' expidrefs='5' idrefs='5' lastused='2007' name='intel' start='732526'>
+    <variant>Intel</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='iplanet' start='734413'>
+    <variant>Iplanet</variant>
+  </canonskill>
+  <canonskill name='ipx/spx'>
+    <variant>IPX/SPX</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='java' start='734413'>
+    <variant>java</variant>
+  </canonskill>
+  <canonskill end='732283' experience='1' expidrefs='7' idrefs='7' lastused='2005' name='jboss' start='731949'>
+    <variant>JBoss</variant>
+  </canonskill>
+  <canonskill name='languages'>
+    <variant>Languages</variant>
+  </canonskill>
+  <canonskill end='734048' experience='1' expidrefs='3,5' idrefs='3,5' lastused='2010' name='ldap' start='732526'>
+    <variant>LDAP</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,3,4,5,6,7' idrefs='1,2,3,4,5,6,7' lastused='2012' name='linux' start='731949'>
+    <variant>LINUX</variant>
+    <variant>Linux 5.2</variant>
+    <variant>Linux</variant>
+    <variant>linux</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='management' start='734413'>
+    <variant>managing</variant>
+  </canonskill>
+  <canonskill end='734048' experience='1' expidrefs='3,5,6,7,8' idrefs='3,5,6,7,8' lastused='2010' name='memory' start='731491'>
+    <variant>memory</variant>
+    <variant>Memory</variant>
+  </canonskill>
+  <canonskill name='microsoft access'>
+    <variant>MS-Access</variant>
+  </canonskill>
+  <canonskill name='microsoft certified systems engineer'>
+    <variant>Microsoft Certified Systems Engineer</variant>
+  </canonskill>
+  <canonskill name='microsoft mail'>
+    <variant>mail</variant>
+  </canonskill>
+  <canonskill name='microsoft windows'>
+    <variant>Windows</variant>
+  </canonskill>
+  <canonskill end='734048' experience='1' expidrefs='3,5,7,8' idrefs='3,5,7,8' lastused='2010' name='microsoft windows 2000' start='731491'>
+    <variant>Windows 2000</variant>
+    <variant>2000</variant>
+  </canonskill>
+  <canonskill name='microsoft windows 3.x'>
+    <variant>3.x</variant>
+  </canonskill>
+  <canonskill end='734048' experience='1' expidrefs='3,5,7,8' idrefs='3,5,7,8' lastused='2010' name='microsoft windows nt' start='731491'>
+    <variant>NT</variant>
+    <variant>Windows-NT</variant>
+    <variant>Windows NT</variant>
+  </canonskill>
+  <canonskill name='mysql'>
+    <variant>My SQL</variant>
+  </canonskill>
+  <canonskill name='nas'>
+    <variant>NAS</variant>
+  </canonskill>
+  <canonskill name='netbeui'>
+    <variant>NetBEUI</variant>
+  </canonskill>
+  <canonskill end='732983' experience='1' expidrefs='5' idrefs='5' lastused='2007' name='netcool' start='732526'>
+    <variant>Netcool</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,3,4,5,6,7' idrefs='1,3,4,5,6,7' lastused='2012' name='netscape enterprise server' start='731949'>
+    <variant>Enterprise 2</variant>
+    <variant>Enterprise</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,3,4,5,6,7,8' idrefs='1,3,4,5,6,7,8' lastused='2012' name='networking' start='731491'>
+    <variant>Network</variant>
+    <variant>network</variant>
+    <variant>Networking</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,3,5,6,7,8' idrefs='1,3,5,6,7,8' lastused='2012' name='nfs' start='731491'>
+    <variant>NFS</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,3,5,6,7,8' idrefs='1,3,5,6,7,8' lastused='2012' name='nis' start='731491'>
+    <variant>NIS</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,3,4,5,6,7' idrefs='1,2,3,4,5,6,7' lastused='2012' name='operating systems' start='731949'>
+    <variant>operating systems</variant>
+    <variant>OS</variant>
+    <variant>Operating System</variant>
+    <variant>operating system</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,5,7' idrefs='1,5,7' lastused='2012' name='oracle' start='731949'>
+    <variant>ORACLE</variant>
+    <variant>Oracle</variant>
+    <variant>oracle</variant>
+  </canonskill>
+  <canonskill end='732526' experience='1' expidrefs='6,8' idrefs='6,8' lastused='2006' name='oracle dba' start='731491'>
+    <variant>oracle database</variant>
+    <variant>Oracle DBA</variant>
+  </canonskill>
+  <canonskill name='oracle pl/sql'>
+    <variant>PL/SQL</variant>
+  </canonskill>
+  <canonskill name='oracle version 8'>
+    <variant>Oracle 8i</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='perl' start='734413'>
+    <variant>Perl</variant>
+    <variant>perl</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,8' idrefs='1,8' lastused='2012' name='policy analysis' start='731491'>
+    <variant>policies</variant>
+  </canonskill>
+  <canonskill name='ppp'>
+    <variant>PPP</variant>
+  </canonskill>
+  <canonskill end='731888' experience='1' expidrefs='8' idrefs='8' lastused='2004' name='problem solving' start='731491'>
+    <variant>problem solving</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,3,4,5,6,7,8' idrefs='1,3,4,5,6,7,8' lastused='2012' name='proliant' start='731491'>
+    <variant>Proliant</variant>
+    <variant>proliant</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,3,4' idrefs='1,3,4' lastused='2012' name='quest' start='733044'>
+    <variant>Quest</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,3' idrefs='1,2,3' lastused='2012' name='raid' start='733226'>
+    <variant>RAID</variant>
+  </canonskill>
+  <canonskill name='rdbms'>
+    <variant>RDBMS</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,3,4,5,6,7,8' idrefs='1,2,3,4,5,6,7,8' lastused='2012' name='red hat linux' start='731491'>
+    <variant>Red hat  Linux 8</variant>
+    <variant>Red Hat 2.1</variant>
+    <variant>Redhat 4</variant>
+    <variant>Red hat  Linux 7.2</variant>
+    <variant>Red Hat Linux</variant>
+    <variant>Red Hat</variant>
+    <variant>Redhat Linux 5.0</variant>
+    <variant>Red-hat Linux 5</variant>
+    <variant>Redhat Linux</variant>
+    <variant>Redhat linux</variant>
+    <variant>Redhat</variant>
+    <variant>redhat</variant>
+  </canonskill>
+  <canonskill end='734048' experience='1' expidrefs='3' idrefs='3' lastused='2010' name='requirements' start='733226'>
+    <variant>requirement</variant>
+  </canonskill>
+  <canonskill end='733226' experience='1' expidrefs='4' idrefs='4' lastused='2008' name='rs6000' start='733044'>
+    <variant>IBM RS/6000</variant>
+  </canonskill>
+  <canonskill end='734048' experience='1' expidrefs='3' idrefs='3' lastused='2010' name='samba' start='733226'>
+    <variant>SAMBA</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,3,6' idrefs='1,3,6' lastused='2012' name='san' start='732345'>
+    <variant>SAN</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,3,4' idrefs='1,3,4' lastused='2012' name='sarbanesoxley' start='733044'>
+    <variant>Sarbanes Oxley</variant>
+  </canonskill>
+  <canonskill end='731888' experience='1' expidrefs='8' idrefs='8' lastused='2004' name='scheduling' start='731491'>
+    <variant>scheduling</variant>
+  </canonskill>
+  <canonskill name='sco unix'>
+    <variant>SCO  Unix 5.x</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,7' idrefs='1,7' lastused='2012' name='sendmail' start='731949'>
+    <variant>Sendmail</variant>
+  </canonskill>
+  <canonskill end='734383' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='server migration' start='734079'>
+    <variant>Server migration</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,3,4,5,6,7,8' idrefs='1,2,3,4,5,6,7,8' lastused='2012' name='servers' start='731491'>
+    <variant>Servers</variant>
+    <variant>servers</variant>
+  </canonskill>
+  <canonskill end='734383' experience='1' expidrefs='2,5,6,8' idrefs='2,5,6,8' lastused='2011' name='shell scripting' start='731491'>
+    <variant>scripting</variant>
+    <variant>Shell programming</variant>
+    <variant>shell programming</variant>
+    <variant>Shell</variant>
+    <variant>shell</variant>
+    <variant>scripts</variant>
+    <variant>Shell scripts</variant>
+    <variant>shell scripts</variant>
+  </canonskill>
+  <canonskill name='smtp'>
+    <variant>SMTP</variant>
+  </canonskill>
+  <canonskill name='snmp'>
+    <variant>SNMP</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,3,4,5,6,7,8' idrefs='1,2,3,4,5,6,7,8' lastused='2012' name='solaris' start='731491'>
+    <variant>Solaris 5.9</variant>
+    <variant>Sun Solaris</variant>
+    <variant>SUN Solaris 2.6</variant>
+    <variant>sun solaris</variant>
+    <variant>Solaris 8</variant>
+    <variant>Solaris 9</variant>
+    <variant>Sun Solaris 6</variant>
+    <variant>Sun Solaris 8</variant>
+    <variant>Solaris</variant>
+    <variant>solaris</variant>
+    <variant>Solaris 2.7</variant>
+  </canonskill>
+  <canonskill end='731888' experience='1' expidrefs='8' idrefs='8' lastused='2004' name='solaris 7' start='731491'>
+    <variant>Solaris 7</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,6,7' idrefs='1,2,6,7' lastused='2012' name='solstice disk suite' start='731949'>
+    <variant>Solstice Disk suite 4.2.1</variant>
+    <variant>Solstice Disk Suite</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,3,4' idrefs='1,3,4' lastused='2012' name='ssh' start='733044'>
+    <variant>SSH</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,3,4,5,6,7' idrefs='1,3,4,5,6,7' lastused='2012' name='sun microsystems' start='731949'>
+    <variant>Sun</variant>
+    <variant>Sun Workstation</variant>
+  </canonskill>
+  <canonskill name='sun servers'>
+    <variant>SUN Servers</variant>
+  </canonskill>
+  <canonskill end='733226' experience='1' expidrefs='4,5,6' idrefs='4,5,6' lastused='2008' name='sun sparcstation' start='732345'>
+    <variant>Sun SPARC</variant>
+    <variant>Sun Sparc</variant>
+    <variant>SPARC</variant>
+  </canonskill>
+  <canonskill end='734048' experience='1' expidrefs='3,5' idrefs='3,5' lastused='2010' name='system administration' start='732526'>
+    <variant>System administration</variant>
+    <variant>system administration</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='tcp/ip' start='734413'>
+    <variant>TCP/IP</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='tomcat' start='734413'>
+    <variant>Tomcat</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,3,4,5,6,7,8' idrefs='1,2,3,4,5,6,7,8' lastused='2012' name='troubleshooting' start='731491'>
+    <variant>Trouble shooting</variant>
+    <variant>trouble shooting</variant>
+    <variant>Troubleshooting</variant>
+    <variant>troubleshooting</variant>
+  </canonskill>
+  <canonskill end='734383' experience='1' expidrefs='2,3,4,7' idrefs='2,3,4,7' lastused='2011' name='unix' start='731949'>
+    <variant>Unix System</variant>
+    <variant>Unix system</variant>
+    <variant>UNIX</variant>
+    <variant>Unix</variant>
+    <variant>HP Unix</variant>
+  </canonskill>
+  <canonskill end='732526' experience='1' expidrefs='6' idrefs='6' lastused='2006' name='unix servers' start='732345'>
+    <variant>UNIX Servers</variant>
+  </canonskill>
+  <canonskill name='unix shell scripting'>
+    <variant>UNIX Shell Scripting</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,3,4,5,6,7,8' idrefs='1,2,3,4,5,6,7,8' lastused='2012' name='upgrades' start='731491'>
+    <variant>upgrading</variant>
+    <variant>Upgrade</variant>
+    <variant>upgrade</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='utilities' start='734413'>
+    <variant>utilities</variant>
+  </canonskill>
+  <canonskill end='734048' experience='1' expidrefs='3,4,5,6,7,8' idrefs='3,4,5,6,7,8' lastused='2010' name='veritas' start='731491'>
+    <variant>veritas</variant>
+    <variant>VERITAS</variant>
+    <variant>Veritas</variant>
+  </canonskill>
+  <canonskill end='734383' experience='1' expidrefs='2,4' idrefs='2,4' lastused='2011' name='veritas cluster server' start='733044'>
+    <variant>VERITAS Cluster server</variant>
+    <variant>Veritas Cluster Server</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,3,4,5,6,8' idrefs='1,3,4,5,6,8' lastused='2012' name='veritas netbackup' start='731491'>
+    <variant>Net Backup 6.5</variant>
+    <variant>Veritas  Netbackup</variant>
+    <variant>Veritas Netbackup</variant>
+  </canonskill>
+  <canonskill end='734383' experience='1' expidrefs='2,3,4,6,8' idrefs='2,3,4,6,8' lastused='2011' name='veritas volume manager' start='731491'>
+    <variant>VERITAS Volume Manager</variant>
+    <variant>VERITAS Volume Manager 4.x</variant>
+    <variant>Veritas Volume Manager</variant>
+    <variant>Veritas Volume manager</variant>
+  </canonskill>
+  <canonskill name='vi'>
+    <variant>VI</variant>
+  </canonskill>
+  <canonskill end='734048' experience='1' expidrefs='3' idrefs='3' lastused='2010' name='view' start='733226'>
+    <variant>view</variant>
+  </canonskill>
+  <canonskill name='vista'>
+    <variant>Vista</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,7,8' idrefs='1,7,8' lastused='2012' name='weblogic' start='731491'>
+    <variant>Weblogic</variant>
+    <variant>weblogic</variant>
+  </canonskill>
+  <canonskill end='734383' experience='1' expidrefs='2,6' idrefs='2,6' lastused='2011' name='writing' start='732345'>
+    <variant>Written</variant>
+  </canonskill>
+  <canonskill end='734048' experience='1' expidrefs='3' idrefs='3' lastused='2010' name='zenworks' start='733226'>
+    <variant>ZENworks</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

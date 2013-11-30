@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734586' xml:space='preserve'><contact><name><givenname>Jim</givenname> <surname>York</surname></name>
+<address lat='42.7282' lon='71.4962' majorcity='NASHUA' state='NH'><street>450 West Hollis St.  Apt A</street>
+<city>Nashua</city>, <state abbrev='NH'>NH</state> <postalcode>03062</postalcode></address>
+Phone <phone>(603) 521-8544</phone> email <email>jyorknh@gmail.com</email></contact>
+
+<experience end='present' start='724795'>Business Analysis, <job end='present' id='1' pos='1' sic='829911' sic2='82' start='726560'><title>Quality Assurance, SoftwareTester, Trainer</title>  -- <employer>CJ System Solutions, Inc</employer>.    <daterange><start days='726560' iso8601='1990-04-01'>Apr. 1990</start> - <end days='present' iso8601='2012-03-22'>Present</end></daterange>
+<description>Designed and developed testable Business Requirements, generated templates and check lists to more clearly identify client's requirements.  Conducted Needs Analysis processes to separate &quot;needs from wants.&quot;  Prioritized requirements to ensure most important was done first.  Set milestones to &quot;Measure to Manage&quot; during the development and testing process.  I am multi-lingual, that is I speak the language of Clients, Developers, Testers, and other technical people.  Designed and developed Test Plans, Test Scripts and Test Cases for various software applications.  Used test methodologies such as Needs Analysis, Path Analysis, Functional Analysis, Risk Analysis, Checklists, Equivalence Testing, Boundary Testing, Exploratory Testing, White Box and Black Box Testing in both waterfall and AGILE environments. Have also designed and participated in User Acceptance Testing.  I have designed and developed Traceability Matrices to reduce regression testing by eliminating those modules that would not be affected by specific changes, thus eliminating unneeded testing.   Familiar with Use Case Design and Implementation, SQL, Visual Basic, Unix Shell Programming, and Windows.  Worked in all phases of the SDLC process and designed and implemented ongoing enhancement policies and procedures.  Developed and implemented processes for &quot;Lessons Learned&quot;, and ongoing test case libraries that lowered present and future development expenses.  Have designed, implemented, and maintained Relational Data Bases on various applications.  Worked on AGILE projects in the development and testing of applications.  I have presented over 500 workshops on Quality Assurance/Software Testing Techniques, Test Planning, Improving Customer Satisfactions Skills and more. I have excellent communications skills, able to communicate effectively with all levels of personnel involved in projects.  Have worked closely with other team members to ensure the client's needs are being met.</description></job>  
+
+<job end='726560' id='2' pos='2' sic='573401' sic2='57' start='726074'><title>Information Technology - Director of Customer Service</title> - <employer>IMNET Corporation</employer>                           <daterange><start days='726074' iso8601='1988-12-01'>Dec. 1988</start> - <end days='726560' iso8601='1990-04-01'>Apr. 1990</end></daterange>
+<description>Responsible for world-wide Pre and Post Customer Service and Support for an Image Processing System.  Responsible for identifying client's needs and ensuring implementation.  Also responsible for Software and Hardware Support, Education, and Quality Assurance.  Directly supported client products. Designed and presented materials to prospective clients on the professionalism, quality and capabilities of the products and on-going Customer Service.  Personally responsible for the high level of customer satisfaction the company achieved.  Designed and maintained a central dispatch Call Tracking and Assets Management System operating on UNIX for both hardware and software support.  Participated in the Business Analysis Process.  Company went out of business.</description></job>
+ 
+<job end='726044' id='3' pos='3' sic='504503' sic2='50' start='725464'><title>Client Services Manager</title> - <employer>Encore Computer</employer>                                                                                   <daterange><start days='725464' iso8601='1987-04-01'>Apr. 1987</start> - <end days='726044' iso8601='1988-11-01'>Nov. 1988</end></daterange>
+<description>Encore designed, sold, and supported multi-processing computers, operating under UNIX, with the capability of delivering more than 500 Million Instructions Per Second (500 MIPS.)  Responsibilities included - - installation and ongoing software support; managing  the software support group; train customers and company personnel in Unix, Informix, PICK, and other software products; presented Customer Relations Classes to both customers and company personnel, Train-The-Trainer, and other personnel development courses. Involved in the Business Analysis Process.  Designed, developed, and maintained a Inventory Control System to assist sales.  Designed and maintained a Call Management System that not only tracked calls, but was also used to manage both company and customer assets, and was used for maintenance billing.  The system also maintained status on all customer configurations and applications.  Interfaced directly with customers on a daily basis to resolve and prevent problems.  Company relocated to Atlanta, GA, and I did not want to relocate.</description></job> 
+ 
+<job end='725405' id='4' pos='4' start='724795'><title>Client Services Manager</title> - <employer>EnMasse Computer</employer>                                                                               <daterange><start days='724795' iso8601='1985-06-01'>Jun. 1985</start> - <end days='725405' iso8601='1987-02-01'>Feb. 1987</end></daterange>
+<description>Responsible for installation, training, quality control, and software support on all delivered products. Designed, coded, implemented, and supported various unique application programs and applications written under Informix ESQL for a UNIX based transaction processing system.  Provided training to customers and in-house personnel on UNIX, and developed procedures for implementing application programs on the system.</description></job></experience> 
+
+ 
+Accomplishments:  <summary><objective>A demonstrated record of superior accomplishment.</objective> <summary>Extensive experience in the SDLC as a project manager, business analyst, developer, quality assurance, on-site implementation, and follow up support.  Possess excellent communication skills and have the technical experience to interface with other departments. Worked with clients both internally and externally to achieve desired success. Have extensive experience in developing templates and check lists that provide other team members with clearer understandings.  I have developed Scripts and Test Cases for Quality Assurance and Software Testing.  Over 10 years script development in SQL. Designed processes and methodology to develop and implement quality software products to the customer.  Developed traceability matrices to enable developers and testers to more easily maintain the software after the release thus reducing regression testing.</summary></summary>    
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='agile' start='726560'>
+    <variant>AGILE</variant>
+  </canonskill>
+  <canonskill end='726044' experience='1' expidrefs='3' idrefs='3' lastused='1988' name='billing' start='725464'>
+    <variant>billing</variant>
+  </canonskill>
+  <canonskill end='726560' experience='1' expidrefs='2,3' idrefs='2,3' lastused='1990' name='business analysis' start='725464'>
+    <variant>Business Analysis</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='communication skills' start='726560'>
+    <variant>communications skills</variant>
+  </canonskill>
+  <canonskill end='726560' experience='1' expidrefs='2' idrefs='2' lastused='1990' name='computer hardware' start='726074'>
+    <variant>hardware</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,3' idrefs='1,2,3' lastused='2012' name='customer relations' start='725464'>
+    <variant>client</variant>
+    <variant>Clients</variant>
+    <variant>clients</variant>
+    <variant>Customer Relations</variant>
+  </canonskill>
+  <canonskill end='726560' experience='1' expidrefs='2' idrefs='2' lastused='1990' name='customer satisfaction' start='726074'>
+    <variant>customer satisfaction</variant>
+  </canonskill>
+  <canonskill end='726560' experience='1' expidrefs='2' idrefs='2' lastused='1990' name='customer service' start='726074'>
+    <variant>Customer Service</variant>
+  </canonskill>
+  <canonskill end='725405' experience='1' expidrefs='4' idrefs='4' lastused='1987' name='esql' start='724795'>
+    <variant>ESQL</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='functional' start='726560'>
+    <variant>Functional</variant>
+  </canonskill>
+  <canonskill end='726560' experience='1' expidrefs='2' idrefs='2' lastused='1990' name='hardware support' start='726074'>
+    <variant>Hardware Support</variant>
+  </canonskill>
+  <canonskill end='726560' experience='1' expidrefs='2' idrefs='2' lastused='1990' name='image processing' start='726074'>
+    <variant>Image Processing</variant>
+  </canonskill>
+  <canonskill end='726044' experience='1' expidrefs='3,4' idrefs='3,4' lastused='1988' name='informix' start='724795'>
+    <variant>Informix</variant>
+  </canonskill>
+  <canonskill end='726044' experience='1' expidrefs='3' idrefs='3' lastused='1988' name='inventory management' start='725464'>
+    <variant>Inventory Control</variant>
+  </canonskill>
+  <canonskill end='726044' experience='1' expidrefs='3' idrefs='3' lastused='1988' name='management' start='725464'>
+    <variant>managing</variant>
+  </canonskill>
+  <canonskill end='726560' experience='1' expidrefs='2' idrefs='2' lastused='1990' name='materials management' start='726074'>
+    <variant>materials</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='microsoft windows' start='726560'>
+    <variant>Windows</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='needs analysis' start='726560'>
+    <variant>Needs Analysis</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,3,4' idrefs='1,3,4' lastused='2012' name='personnel' start='724795'>
+    <variant>personnel</variant>
+  </canonskill>
+  <canonskill end='726044' experience='1' expidrefs='3' idrefs='3' lastused='1988' name='pick' start='725464'>
+    <variant>PICK</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='policy analysis' start='726560'>
+    <variant>policies</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='process engineering' start='726560'>
+    <variant>processes</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='programming' start='726560'>
+    <variant>Programming</variant>
+  </canonskill>
+  <canonskill end='726560' experience='1' expidrefs='2' idrefs='2' lastused='1990' name='quality' start='726074'>
+    <variant>quality</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,4' idrefs='1,2,4' lastused='2012' name='quality control' start='724795'>
+    <variant>quality control</variant>
+    <variant>Quality Assurance</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='risk analysis' start='726560'>
+    <variant>Risk Analysis</variant>
+  </canonskill>
+  <canonskill end='726044' experience='1' expidrefs='3' idrefs='3' lastused='1988' name='sales' start='725464'>
+    <variant>sales</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='sdlc' start='726560'>
+    <variant>SDLC</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='shell scripting' start='726560'>
+    <variant>Scripts</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='software testing' start='726560'>
+    <variant>Software Testing</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='sql' start='726560'>
+    <variant>SQL</variant>
+  </canonskill>
+  <canonskill end='726560' experience='1' expidrefs='2,3,4' idrefs='2,3,4' lastused='1990' name='technical support' start='724795'>
+    <variant>software support</variant>
+  </canonskill>
+  <canonskill end='726044' experience='1' expidrefs='3' idrefs='3' lastused='1988' name='training' start='725464'>
+    <variant>Trainer</variant>
+  </canonskill>
+  <canonskill end='725405' experience='1' expidrefs='4' idrefs='4' lastused='1987' name='transaction processing' start='724795'>
+    <variant>transaction processing</variant>
+  </canonskill>
+  <canonskill end='725405' experience='1' expidrefs='4' idrefs='4' lastused='1987' name='unique' start='724795'>
+    <variant>unique</variant>
+  </canonskill>
+  <canonskill end='726560' experience='1' expidrefs='2,3,4' idrefs='2,3,4' lastused='1990' name='unix' start='724795'>
+    <variant>UNIX</variant>
+    <variant>Unix</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='unix shell scripting' start='726560'>
+    <variant>Unix Shell</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='visual basic' start='726560'>
+    <variant>Visual Basic</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='workshops' start='726560'>
+    <variant>workshops</variant>
+  </canonskill>
+  <canonskill end='725405' experience='1' expidrefs='4' idrefs='4' lastused='1987' name='writing' start='724795'>
+    <variant>written</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734592' xml:space='preserve'><contact><address><street>207 National Drive Apt. 153	     Chuncey Jamelle Vinson</street></address>	       <email>cjv2i@mtmail.mtsu.edu</email>
+<address lat='35.8704' lon='86.3427' majorcity='MURFREESBORO' state='TN'><city>Murfreesboro</city>, <state abbrev='TN'>TN</state> <postalcode>37130</postalcode></address>						       		         <phone>(731) 234-6357</phone></contact>_______
+
+<summary>Objective:	<objective>Mechanical Engineering Technology candidate having a superb ability to cooperate with others on various tasks, experience maintaining inventory, gathering data, and working with various soft wares. Seeks a position as a Manufacturing Engineering Technician.</objective></summary>
+<education>Education:	<school id='7'><institution>Middle Tennessee State University</institution>, <address><city>Murfreesboro</city>, <state abbrev='TN'>TN</state></address>	
+	<degree level='16' name='Bachelor of Science'>Bachelor of Science</degree> in <major code='1699'>Engineering Technology</major> (<completiondate>May 2012</completiondate>)
+	Concentration - <major code='1501'>Mechanical Engineering Technology</major>
+
+	Relevant Coursework
+<courses>Machine Tool &amp; Technology		Statics		
+Strength of Materials			Fluid Power
+		Computer Science (C++)		Metals &amp; Metallurgy</courses></school></education>
+		<experience end='present' start='733410'><job end='present' id='1' pos='3' start='733410'><description>Professional Writing			Electrical Circuit Analysis (DC &amp; AC)</description>
+		HVAC					Robotics
+
+Employment:	Journeys in Community Living, <address><city>Murfreesboro</city>, <state abbrev='TN'>TN</state></address>
+<title>Direct Support Professional &amp; Client Accounting Coordinator</title> (<daterange><start days='733410' iso8601='2009-01-01'>January 2009</start> - <end days='present' iso8601='2012-03-28'>Present</end></daterange>)
+<description>Provide, nurture, and support mentally/physically disabled individuals
+Monitor budget and income for supported individuals.</description></job>
+
+Experience:		MTSU STEP Program, <job id='2' start='733865'><address><city>Murfreesboro</city>, <state abbrev='TN'>TN</state></address>
+			Summer Research (<daterange><start days='733865' iso8601='2010-04-01'>Summer 2010</start></daterange>)
+<description>Conducted summer research for the TNLEAP Healthy Homes Project to prepare lead remediation and abatement of rural homes built before 1974
+Used Excel and SPSS software to store and perform analyses on collected data</description></job> 
+<job id='3' start='734079'><employer>Presented STEP Research</employer>, <address><city>Knoxville</city>, <state abbrev='TN'>TN</state></address>
+<title>Poster Presentation</title> (<daterange><start days='734079' iso8601='2010-11-01'>November 2010</start></daterange>)
+<description>Presented a poster of completed STEP research at a TLSAMP research convention.
+
+Activities:		Collegiate 100 Alpha Chapter</description></job> 
+Community Service/Health &amp; Wellness Chair (<job end='present' id='4' pos='1' start='734140'><daterange><start days='734140' iso8601='2011-01-01'>2011</start>-<end days='present' iso8601='2012-03-28'>Present</end></daterange></job>)
+<job end='734505' id='5' pos='4' start='734140'><employer>MTSU Experimental Vehicle</employer> (<employer>BAJA</employer>)
+<title>Team Member</title> (<daterange><start days='734140' iso8601='2011-01-01'>2011</start>-<end days='734505' iso8601='2012-01-01'>2012</end></daterange></job>) 
+			<job end='present' id='6' pos='2' start='733530'><employer>Tennessee Louis Stokes Alliance for Minority Participation</employer> (TLSAMP) 
+<title>Organization Member</title> (<daterange><start days='733530' iso8601='2009-05-01'>May 2009</start>-<end days='present' iso8601='2012-03-28'>Present</end></daterange></job>)</experience>
+
+<skills>Skills:			Proficient in <skills>Microsoft Word, Excel, PowerPoint, AutoDesk Inventor, and
+AutoCad
+			Familiar with Machining Tool and Technology, SPSS Statistical
+Software, and Solid Works</skills></skills>
+</resume>
+
+<skillrollup version='1'>
+  <canonskill experience='1' expidrefs='3' idrefs='3' name='alpha' start='734079'>
+    <variant>Alpha</variant>
+  </canonskill>
+  <canonskill name='autocad'>
+    <variant>AutoCad</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='budgeting' start='733410'>
+    <variant>budget</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='7' idrefs='7' name='c + +'>
+    <variant>C++</variant>
+  </canonskill>
+  <canonskill experience='1' name='dc'>
+    <variant>DC</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='7' idrefs='7' name='materials management'>
+    <variant>Materials</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='2' idrefs='2' name='microsoft excel' start='733865'>
+    <variant>Excel</variant>
+  </canonskill>
+  <canonskill name='microsoft powerpoint'>
+    <variant>PowerPoint</variant>
+  </canonskill>
+  <canonskill name='microsoft word'>
+    <variant>Microsoft Word</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='2,3' idrefs='2,3' name='research' start='733865'>
+    <variant>research</variant>
+  </canonskill>
+  <canonskill name='solidworks'>
+    <variant>Solid Works</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='2' idrefs='2' name='spss' start='733865'>
+    <variant>SPSS</variant>
+  </canonskill>
+  <canonskill experience='1' name='writing'>
+    <variant>Professional Writing</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

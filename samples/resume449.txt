@@ -1,0 +1,324 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734594' xml:space='preserve'><contact><name><givenname>Levar</givenname> <surname>Burton</surname></name>
+<address lat='38.6293' lon='76.9675' majorcity='WALDORF' state='MD'><street>10411 Kentsdale Dr</street> <city>Waldorf</city>, <state abbrev='MD'>MD</state> <postalcode>20603</postalcode></address>
+ Home: <phone type='home'>(301) 645-7640</phone> Cell: <phone type='cell'>(646) 271-8176</phone>
+ <email>levar.burton@yahoo.com</email></contact> 
+
+<summary>OBJECTIVE
+<objective>To obtain an IT Specialist position within a professional environment that enables me to maximize and advance my computer knowledge and experience.</objective></summary>
+
+<skills>CREDENTIALS
+<skills>Operating Systems
+Windows 98 /XP/Vista/7
+Hardware
+Dell, Hewlett Packard, Toshiba, Sony
+Install, configure and troubleshoot PC's
+DSL modems
+Laptops
+Desktops
+Wireless cards
+USB adapters
+Video Cards
+Sound Cards
+Security
+Norton Anti-Virus
+McAfee
+Spyware
+Virus and Spam removal
+Firewalls
+VPN's
+
+
+Networking
+IP Addressing
+LAN/WAN Technology
+TCP/IP Protocols
+Router configuration: Cisco, Linksys
+Ethernet Drivers
+Software
+Microsoft Word, Excel, PowerPoint, Outlook
+Remedy (Trouble ticket tracking system)
+Citrix/Unix
+MS Exchange
+VMWARE</skills></skills>
+
+
+
+
+
+
+
+
+
+
+
+<summary>HIGHLIGHTS OF QUALIFICATIONS
+<summary>Government SECRET security clearance
+Over six years of diverse and challenging experience as a Signal Support Systems Specialist combined with the innate ability for problem solving
+Managed a Desktop support/Helpdesk section
+Supervised a staff of five Technicians and seven Automations Representatives in a Desktop Support/Help desk forum
+Army Commendation Medal awarded for exceptional service as the Information Management Officer for over 100 users during Operation Iraqi Freedom
+Strong ability to patiently assist customers with diagnosis and problem resolution
+Adept at defining end user requirements and meeting their needs
+Strong customer service and interpersonal skills
+Proven ability to work efficiently and effectively with limited supervision and under pressure
+Strong record of excellence and discipline in getting the job done
+Knowledge, training and hands on experience with patching, installing software
+Experienced in the use of Microsoft Word, Excel, PowerPoint and Outlook
+Self motivated and able to motivate others
+Consistent record of exceeding customer support and technical support goals
+Able to define problems, collect data, establish facts, draw valid conclusions and provide solutions
+Strong analytical skills
+Ability to balance multiple tasks and accomplish tasks in a timely manner
+
+
+
+Levar Burton				                                                                                                Page 2 
+
+In depth experience in troubleshooting computer based issues
+Able to communicate effectively orally and written in a professional manner
+Organized and precise
+Trained users in the area of Information Assurance Awareness</summary></summary> 
+
+<experience end='present' start='731583'>EXPERIENCE
+<job end='present' id='1' pos='1' sic='971101' sic2='97' start='732314'><daterange><start days='732314' iso8601='2006-01-01'>2006</start> - <end days='present' iso8601='2012-03-30'>Present</end></daterange>				<employer>US Army</employer>						  <address><city>Fort Lee</city>, <state abbrev='VA'>VA</state></address>
+<title>IT Operations Manager</title>			
+<description>Established trouble ticket system which improved work order organization and section work output by 25%.
+Oversaw all daily operations and functions of a high volume Desktop Support/Help desk section with a customer base of 400+ users
+Directly involved in the successful deployment of the Windows 7 migration   
+Monitored and compiled weekly information and reported to senior management
+Planned and lead training sessions for end users and new automation representatives
+Experience in supporting, implementing and administering networks such as Microsoft Windows Active Directory
+Compiles and maintains monthly reports of end user documents and training certification status
+Processed over 150 user Email accounts which improved the organizations production by 33%. 
+Monitors bi weekly IAVA scan list resulting in continuous operability on local and wireless area networks
+Monthly written and verbal evaluations for an assigned staff
+Accountable for over $300,000 of computers and computer related equipment
+Upgrades, installs and troubleshoots networks, networking hardware and software
+Resolved client issues with hardware maintenance, installations and upgrades
+Tracked progress of special projects
+Maintains help desk tickets/ resolutions as well as equipment inventory
+Recommends and schedules repairs to the LAN/WAN
+Issues internal and external written notifications in association with customers' accounts</description></job>
+
+
+<job end='732314' id='2' pos='2' sic='971101' sic2='97' start='731583'><daterange><start days='731583' iso8601='2004-01-01'>2004</start> - <end days='732314' iso8601='2006-01-01'>2006</end></daterange>	<employer>US Army</employer>                                                                              <address><city>Fort Hood</city>, <state abbrev='TX'>TX</state></address>
+<title>IT Technician Desktop Support</title>
+<description>Troubleshot, diagnosed and corrected internet connectivity and computer issues via phone and  in person
+Assisted customers with setting up, configuring and installing LAN/WAN, Windows 98/XP/Vista
+Effectively handled  final call resolutions with minimum to no escalations
+Downloaded and installed USB and Ethernet drivers for internet connectivity
+Supported the day to day delivery of IT products and services
+Assisted in performing upgrades and system patching
+Maintains inventory of equipment and parts as well as documentation of vendor activities
+Experience in diagnosing and troubleshooting Windows systems
+Performed preventative as well as routine maintenance of computer systems
+Identified, repaired or replaced computer equipment
+Configured network printers, digital senders and fax machines
+Hands on interaction with several models of laptops, desktops, tough books and stand alone systems
+Located and gathered user and computer related information in order to create spreadsheets for tracking</description></job></experience>
+
+
+<education>EDUCATION
+<school id='3'><completiondate days='730853' iso8601='2002-01-01'>2002</completiondate>				<institution>Foreign Language of Global Studies H.S</institution>.			        <address><city>Bronx</city>, <state abbrev='NY'>NY</state></address>
+<degree level='12'>High School Diploma</degree></school></education>
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='active directory' start='732314'>
+    <variant>Active Directory</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='automation' start='732314'>
+    <variant>automation</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='business intelligence' start='732314'>
+    <variant>bi</variant>
+  </canonskill>
+  <canonskill name='cisco'>
+    <variant>Cisco</variant>
+  </canonskill>
+  <canonskill name='citrix'>
+    <variant>Citrix</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='computer hardware' start='732314'>
+    <variant>Hardware</variant>
+    <variant>hardware</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='customer relations' start='732314'>
+    <variant>client</variant>
+  </canonskill>
+  <canonskill end='732314' experience='1' expidrefs='2' idrefs='2' lastused='2006' name='delivery' start='731583'>
+    <variant>delivery</variant>
+  </canonskill>
+  <canonskill name='dell computers'>
+    <variant>Dell</variant>
+  </canonskill>
+  <canonskill end='732314' experience='1' expidrefs='2' idrefs='2' lastused='2006' name='desktop pc' start='731583'>
+    <variant>Desktops</variant>
+    <variant>desktops</variant>
+  </canonskill>
+  <canonskill end='732314' experience='1' expidrefs='2' idrefs='2' lastused='2006' name='documentation' start='731583'>
+    <variant>documentation</variant>
+  </canonskill>
+  <canonskill end='732314' experience='1' expidrefs='2' idrefs='2' lastused='2006' name='drivers' start='731583'>
+    <variant>Drivers</variant>
+    <variant>drivers</variant>
+  </canonskill>
+  <canonskill name='dsl'>
+    <variant>DSL</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='email' start='732314'>
+    <variant>Email</variant>
+  </canonskill>
+  <canonskill end='732314' experience='1' expidrefs='2' idrefs='2' lastused='2006' name='ethernet' start='731583'>
+    <variant>Ethernet</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='executive management' start='732314'>
+    <variant>senior management</variant>
+  </canonskill>
+  <canonskill end='732314' experience='1' expidrefs='2' idrefs='2' lastused='2006' name='fax' start='731583'>
+    <variant>fax machines</variant>
+  </canonskill>
+  <canonskill name='firewalls'>
+    <variant>Firewalls</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='help desk support' start='732314'>
+    <variant>Help desk</variant>
+    <variant>help desk</variant>
+  </canonskill>
+  <canonskill name='hewlett packard'>
+    <variant>Hewlett Packard</variant>
+  </canonskill>
+  <canonskill end='732314' experience='1' expidrefs='2' idrefs='2' lastused='2006' name='internet connectivity' start='731583'>
+    <variant>internet connectivity</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='inventory management' start='731583'>
+    <variant>inventory</variant>
+  </canonskill>
+  <canonskill name='ip'>
+    <variant>IP</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='lan' start='731583'>
+    <variant>LAN</variant>
+  </canonskill>
+  <canonskill end='732314' experience='1' expidrefs='2' idrefs='2' lastused='2006' name='laptop computers' start='731583'>
+    <variant>Laptops</variant>
+    <variant>laptops</variant>
+  </canonskill>
+  <canonskill name='mcafee'>
+    <variant>McAfee</variant>
+  </canonskill>
+  <canonskill name='microsoft excel'>
+    <variant>Excel</variant>
+  </canonskill>
+  <canonskill name='microsoft exchange'>
+    <variant>MS Exchange</variant>
+  </canonskill>
+  <canonskill name='microsoft outlook'>
+    <variant>Outlook</variant>
+  </canonskill>
+  <canonskill name='microsoft powerpoint'>
+    <variant>PowerPoint</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='microsoft windows' start='731583'>
+    <variant>Windows 7</variant>
+    <variant>Microsoft Windows</variant>
+    <variant>Windows</variant>
+  </canonskill>
+  <canonskill end='732314' experience='1' expidrefs='2' idrefs='2' lastused='2006' name='microsoft windows 98' start='731583'>
+    <variant>Windows 98</variant>
+  </canonskill>
+  <canonskill name='microsoft word'>
+    <variant>Microsoft Word</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='migration' start='732314'>
+    <variant>migration</variant>
+  </canonskill>
+  <canonskill name='modems'>
+    <variant>modems</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='monitors' start='732314'>
+    <variant>Monitors</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='network hardware' start='732314'>
+    <variant>networking hardware</variant>
+  </canonskill>
+  <canonskill end='732314' experience='1' expidrefs='2' idrefs='2' lastused='2006' name='network printers' start='731583'>
+    <variant>network printers</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='networking' start='732314'>
+    <variant>Networking</variant>
+    <variant>networks</variant>
+  </canonskill>
+  <canonskill name='norton antivirus'>
+    <variant>Norton Anti-Virus</variant>
+  </canonskill>
+  <canonskill name='operating systems'>
+    <variant>Operating Systems</variant>
+  </canonskill>
+  <canonskill name='pc'>
+    <variant>PC's</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='progress' start='732314'>
+    <variant>progress</variant>
+  </canonskill>
+  <canonskill name='protocols'>
+    <variant>Protocols</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='repair' start='732314'>
+    <variant>repairs</variant>
+  </canonskill>
+  <canonskill name='routers'>
+    <variant>Router</variant>
+  </canonskill>
+  <canonskill name='sound cards'>
+    <variant>Sound Cards</variant>
+  </canonskill>
+  <canonskill end='732314' experience='1' expidrefs='2' idrefs='2' lastused='2006' name='spreadsheets' start='731583'>
+    <variant>spreadsheets</variant>
+  </canonskill>
+  <canonskill name='tcp/ip'>
+    <variant>TCP/IP</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='technical support' start='732314'>
+    <variant>Desktop Support</variant>
+  </canonskill>
+  <canonskill end='732314' experience='1' expidrefs='2' idrefs='2' lastused='2006' name='telephone skills' start='731583'>
+    <variant>phone</variant>
+  </canonskill>
+  <canonskill name='toshiba'>
+    <variant>Toshiba</variant>
+  </canonskill>
+  <canonskill end='732314' experience='1' expidrefs='2' idrefs='2' lastused='2006' name='troubleshooting' start='731583'>
+    <variant>troubleshoot</variant>
+    <variant>troubleshooting</variant>
+  </canonskill>
+  <canonskill name='unix'>
+    <variant>Unix</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='upgrades' start='731583'>
+    <variant>Upgrades</variant>
+    <variant>upgrades</variant>
+  </canonskill>
+  <canonskill end='732314' experience='1' expidrefs='2' idrefs='2' lastused='2006' name='usb' start='731583'>
+    <variant>USB</variant>
+  </canonskill>
+  <canonskill name='video cards'>
+    <variant>Video Cards</variant>
+  </canonskill>
+  <canonskill end='732314' experience='1' expidrefs='2' idrefs='2' lastused='2006' name='vista' start='731583'>
+    <variant>Vista</variant>
+  </canonskill>
+  <canonskill name='vpn'>
+    <variant>VPN</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='wan' start='731583'>
+    <variant>WAN</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='writing' start='732314'>
+    <variant>written</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

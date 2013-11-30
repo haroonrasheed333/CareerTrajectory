@@ -1,0 +1,26 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Associate Certified Entomologist", 
+            "Type": "Core", 
+            "Certification ID": "4371", 
+            "Certifying Organization": "Entomological Society of America"
+        }, 
+        {
+            "Acronym": "BCE", 
+            "Certification Name": "Board Certified Entomologist", 
+            "Type": "Advanced", 
+            "Certification ID": "9038", 
+            "Certifying Organization": "ESA Certification Corporation"
+        }, 
+        {
+            "Acronym": "ACE", 
+            "Certification Name": "Associate Certified Entomologist", 
+            "Type": "Core", 
+            "Certification ID": "9037", 
+            "Certifying Organization": "ESA Certification Corporation"
+        }
+    ], 
+    "onet": "37202100"
+}

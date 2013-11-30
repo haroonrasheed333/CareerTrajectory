@@ -1,0 +1,337 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734596' xml:space='preserve'><contact><name><givenname>ALICIA</givenname> <givenname>L</givenname>. <surname>MICKLE-BOOTH</surname></name>
+*<address lat='33.9222' lon='84.0725' majorcity='LAWRENCEVILLE' state='GA'><street>751 ARBOR GATE LANE</street>   *<city>LAWRENCEVILLE</city>, <state abbrev='GA'>GA</state> <postalcode>30044</postalcode></address>
+<email>Alicia.Mickle@gmail.com</email>
+<phone>678-458-3754</phone></contact>
+
+
+<summary>Objective	
+<objective>To utilize my experience in the Health IT industry where medical training, education, excellent communication, interpersonal and analytical skills can be best utilized.</objective></summary>
+<education>Education	 
+<school id='7'><institution>Tennessee State University</institution>      <major code='4303'>Management Information Systems</major>	 Graduated <completiondate days='728782' iso8601='1996-05-01'>May 1996</completiondate>
+<degree level='16'>Bachelor's Degree</degree> in <major code='4303'>Management Information Systems</major> (MIS)
+
+<courses>Keller Graduate School            Information Systems Certificate            Completed June 2010
+Master's Certificate in Management Information Systems Management (CISM)</courses></school></education>
+<experience end='present' start='730578'>Skills
+
+<job id='1'><title>PACS Administrator</title>: <description>Managing digital images for quality and accuracy for departments including Radiology, Cardiology, Mammography, Dermatology, CT, MRI and specialties such as ENT. Working closely with Radiologist to support viewing Dicom images via Philips PACS system. Also involves troubleshooting, messages including HL7 and RIS via GE ConnectR. Testing using Pass / Fail format for Go Lives, upgrades and reporting to leadership is another requirement.
+ 
+Information Technology: Working in the Health Care Technology field with over 15 years professional experience in technical support deploying, migrating, imaging and upgrading a wide range of systems.  Supporting and managing networking from switch to data jack and utilizing IP addressing utilities. Critical responsibilities include ability to quickly access and triage in the event of system outages, initiate team bridge calls. Create an incident in Remedy and alert managed service partners while continually engaging the business partners affected.
+
+Project Management /Business Analyst: Program Management Team (PMT) City of Atlanta. Responsible for performing systems improvement optimization and integration for the Bureau of Watershed Protection (BOWP) divisions and the Technical Services Automatic Meter Reading (AMR) initiative. Requirements were to development custom web-based applications to automate manual business process. Application interfaces include Hansen Computerized Maintenance Management System (CMMS), Systems and Software enQuesta billing system, and Accela. Using a business process management methodology for documenting work flows and database system development lifecycle. 
+Programming / Database: Academic training in Visual Basic.NET, PL/SQL (ORACLE), Access / SQL Database, Database Modeling Concepts (Use Case), Logical, Physical cardinality and UML. 
+
+Asset Management / Procurement: Over eight years experience working with B2B vendors including Dell, HP, ATT, and Sprint managing estimates and completing / receiving orders. Managing and inventorying equipment and software assets using Peregrine and Maximo ITAM databases.</description></job> 
+
+
+Work History	
+
+<job end='present' id='2' naics='62111107' naics2='62' pos='1' sic='641112' sic2='64' start='733653'><employer>Kaiser Permanente</employer>, <address><city>Atlanta</city>, <state abbrev='GA'>Georgia</state></address> 	   			       <daterange><start days='733653' iso8601='2009-09-01'>Sep 2009</start> - <end days='present' iso8601='2012-04-01'>Present</end></daterange>
+
+<title>PACS Administrator</title>
+<description>This position is a hybrid of IT and Radiology coming into the digital age.  Responsibilities encompass management of digital image health records for exams current, prior and external. In this vein, it is required to partner with all digitized medical departments that perform an exam and generate an image ranging from Radiology to Gastro to Breast Surgery.  Managing images include moving, deleting, and resolving exceptions via GE iSuite (integrated within Philips iSite).  Familiarity of medical exam views and dictionaries is necessary to support Radiologist preferences and hanging protocols.  Proficiency in EPIC Radiant, IDX Rad  and PowerScribe is essential. Other job functions include projects to bring departments online with PACS, training business partners, providers, and Radiologist.  Projects also involve continuous end to end testing in test environments and production environments in preparation for Go Lives and upgrades.  Inherently to the position is to work closely with medical vendors such as Philips, PowerScribe, GE, Barco, Hologic, Siemens, Kodak Carestream and See My Radiolology.</description></job>
+
+<job id='3'><title>Distributed Computing Analyst</title>   (DCA)			
+<description>As a DCA, requirements are to utilize IT technical skill sets and Kaiser IT standards to support business partners within the regional administrative offices and medical facilities. Report outages and initiate bridge calls with each department affected. This could include Health Connect, IBM partners, Cerner, Network team leads. Other responsibilities include asset management, PC imaging, printer fleet management, and work flow. Remedy is the database used for tickets, escalations and managing assets. 
+
+Medical Office Field Support- Supporting computing services for pharmacy, medical departments, administrative offices and business partners assigned to the medical offices.</description></job> 
+<job id='4'><title>Executive Support</title> - <description>Select team designed to engage top level executives and their assistances who utilized specialized computing and conferencing equipment. Urgency is emphasized. 
+Training - Coordinated training agendas and created training plans for new and current IT regional/ field teams.</description></job> 
+
+<job end='733441' id='5' inferred-to='3' pos='2' sic='871111' sic2='87' start='730578'><employer>CH2M HILL</employer>, <address><city>Atlanta</city>, <state abbrev='GA'>Georgia</state></address> 	   			   <daterange><start days='730578' iso8601='2001-04-01'>Apr 2001</start> - <end days='733441' iso8601='2009-02-01'>Feb 2009</end></daterange>
+
+<title>Business Analyst</title>			   
+<description>Responsible for business process management work with the City of Altanta's Department of Watershed Management BOWP, Technical Services AMR and Bureau of Management (HRIS) programs. Utilizing Business Process Mapping and Re-Engineering methodologies to capture as-is workflows, then presenting the findings to clients and project teams for system improvements, optimization and integration. 
+
+Program Management Team (PMT) City of Atlanta 2008- Responsible for performing systems improvement optimization and integration for the Bureau of Watershed Protection (BOWP) divisions. Requirements were to develop a paperless system bureau wide through automation of manual business process.  Responsibilities involved the development of custom web-based applications to automate field forms and reports by manipulating relevant data from SQL and Oracle databases. Application interfaces include Hansen Computerized Maintenance Management System (CMMS), enQuesta, and Accela. 
+Program Management Team (PMT) City of Atlanta 2007 -As a member of the PMT, responsibilities included assisting with the City of Atlanta's Web-Based Technical Services AMR initiative. Also for contributing to the process of streamlining communication between small and large meter departments and external site developers and vendors.  Collaborating with client and software developers, provided standardization for the City of Atlanta employees, DWM, Bureau of Drinking Water, the Technical Services Division, the Bureau of Wastewater Treatment &amp; Collection, and the Human Resources Information System (HRIS) with aspects of Business Process Mapping and Re-Engineering, Training, and Web-Based Technical Services.</description></job> 
+<job end='732314' id='6' inferred-from='2' pos='3' sic='871111' sic2='87' start='731949'><title>Information Technology Specialist</title>   			
+<description>As an experienced IT professional, provided support for desktop, servers, and local network (LAN), switches, printers, wide area network (WAN) connectivity and telecommunications.  Platforms included Windows XP, Windows Vista, Office 2003/2007, Microsoft Server 2000 /2003, VMware, Exchange 2005, and SQL 2005. Workflow databases used were Peregrine Service Center and HP Service Center. Asset management databases used were Peregrine and Maximo ITAM.
+
+Special Projects Disaster Recovery Asset Coordinator (Hurricane Katrina</description> <daterange><start days='731949' iso8601='2005-01-01'>2005</start>- <end days='732314' iso8601='2006-01-01'>2006</end></daterange>)-  <description>Lead point of contact  (POC) responsible for rapid deployment of computer, network equipment and telephony assets as required by on site Project Mangers. Projects involved with the Army Corps of Engineers and the Federal Emergency Management Agency for hurricane relief. Coordinating technical resources, and proactively managing assets for budget constraints.
+Office POC - POC for the Atlanta office several teams including Panagon (FileNET) document management system.  Responsible for Panagon server upgrades and end-user support. Southeast region Antivirus POC using Trend Micro, responsible for maintaining updates and upgrades. 
+Telephony - Sever Administrator (SA) for Avaya PBX system, phone setup and cross connections. POC for Blackberry Enterprise Activations, emFAST FACSys server support and AT&amp;T DID communications.</description></job></experience>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</resume>
+
+<skillrollup version='1'>
+  <canonskill experience='1' expidrefs='1' idrefs='1' name='.net'>
+    <variant>Visual Basic.NET</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='1' idrefs='1' name='academic'>
+    <variant>Academic</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='3' idrefs='3' name='administration'>
+    <variant>administrative</variant>
+  </canonskill>
+  <canonskill experience='1' name='anti virus'>
+    <variant>Antivirus</variant>
+  </canonskill>
+  <canonskill experience='1' name='army'>
+    <variant>Army</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='1,3' idrefs='1,3' name='asset management'>
+    <variant>Asset Management</variant>
+    <variant>Asset management</variant>
+    <variant>asset management</variant>
+  </canonskill>
+  <canonskill experience='1' name='assets recovery'>
+    <variant>Agency</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='1' idrefs='1' name='automate'>
+    <variant>automate</variant>
+  </canonskill>
+  <canonskill experience='1' name='automation'>
+    <variant>automation</variant>
+  </canonskill>
+  <canonskill experience='1' name='avaya'>
+    <variant>Avaya</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='1' idrefs='1' name='b2b'>
+    <variant>B2B</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='1' idrefs='1' name='billing systems'>
+    <variant>billing system</variant>
+  </canonskill>
+  <canonskill experience='1' name='budgeting'>
+    <variant>budget</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='1' idrefs='1' name='business analysis'>
+    <variant>Business Analyst</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='1' idrefs='1' name='business process'>
+    <variant>Business Process</variant>
+    <variant>business process</variant>
+  </canonskill>
+  <canonskill experience='1' name='customer relations'>
+    <variant>client</variant>
+    <variant>clients</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='1,3' idrefs='1,3' name='database administration'>
+    <variant>databases</variant>
+    <variant>Database</variant>
+    <variant>database</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='1' idrefs='1' name='database modeling'>
+    <variant>Database Modeling</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='1' idrefs='1' name='dell computers'>
+    <variant>Dell</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='3' idrefs='3' name='department for constitutional affairs'>
+    <variant>DCA</variant>
+  </canonskill>
+  <canonskill experience='1' name='disaster recovery planning'>
+    <variant>Disaster Recovery</variant>
+  </canonskill>
+  <canonskill experience='1' name='document management'>
+    <variant>document management</variant>
+  </canonskill>
+  <canonskill experience='1' name='filenet'>
+    <variant>FileNET</variant>
+  </canonskill>
+  <canonskill experience='1' name='forms'>
+    <variant>forms</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='1' idrefs='1' name='hewlett packard'>
+    <variant>HP</variant>
+  </canonskill>
+  <canonskill experience='1' name='hris'>
+    <variant>HRIS</variant>
+  </canonskill>
+  <canonskill experience='1' name='human resources'>
+    <variant>Human Resources</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='3' idrefs='3' name='ibm'>
+    <variant>IBM</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,3' idrefs='1,2,3' lastused='2012' name='imaging' start='733653'>
+    <variant>image</variant>
+    <variant>imaging</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='7' idrefs='7' name='information systems'>
+    <variant>Information Systems</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='1' idrefs='1' name='information technology'>
+    <variant>Information Technology</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='1' idrefs='1' name='ip'>
+    <variant>IP</variant>
+  </canonskill>
+  <canonskill experience='1' name='lan'>
+    <variant>LAN</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='1' idrefs='1' name='leadership'>
+    <variant>leadership</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,3' idrefs='1,2,3' lastused='2012' name='management' start='733653'>
+    <variant>Managing</variant>
+    <variant>managing</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='1' idrefs='1' name='microsoft access'>
+    <variant>Access</variant>
+    <variant>access</variant>
+  </canonskill>
+  <canonskill experience='1' name='microsoft exchange'>
+    <variant>Exchange</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='3' idrefs='3' name='microsoft office'>
+    <variant>Office</variant>
+    <variant>office</variant>
+  </canonskill>
+  <canonskill experience='1' name='microsoft windows'>
+    <variant>Windows</variant>
+  </canonskill>
+  <canonskill experience='1' name='microsoft windows 2000'>
+    <variant>2000</variant>
+  </canonskill>
+  <canonskill experience='1' name='microsoft windows xp'>
+    <variant>Windows XP</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='7' idrefs='7' name='mis'>
+    <variant>Management Information Systems</variant>
+  </canonskill>
+  <canonskill experience='1' name='netscape enterprise server'>
+    <variant>Enterprise</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='1,3' idrefs='1,3' name='networking'>
+    <variant>Network</variant>
+    <variant>network</variant>
+    <variant>networking</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='1' idrefs='1' name='optimization'>
+    <variant>optimization</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='1' idrefs='1' name='oracle'>
+    <variant>ORACLE</variant>
+    <variant>Oracle</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='1' idrefs='1' name='oracle pl/sql'>
+    <variant>PL/SQL</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='pacs' start='733653'>
+    <variant>PACS</variant>
+  </canonskill>
+  <canonskill experience='1' name='pbx'>
+    <variant>PBX</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='1' idrefs='1' name='peregrine'>
+    <variant>Peregrine</variant>
+  </canonskill>
+  <canonskill experience='1' name='presentation skills'>
+    <variant>presenting</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='3' idrefs='3' name='printers'>
+    <variant>printer</variant>
+    <variant>printers</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='1' idrefs='1' name='procurement'>
+    <variant>Procurement</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='1' idrefs='1' name='program management'>
+    <variant>Program Management</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='1' idrefs='1' name='programming'>
+    <variant>Programming</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='1' idrefs='1' name='project management'>
+    <variant>Project Management</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='protocols' start='733653'>
+    <variant>protocols</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='1' idrefs='1' name='quality'>
+    <variant>quality</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='rad' start='733653'>
+    <variant>Rad</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='1' idrefs='1' name='read'>
+    <variant>Reading</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='1' idrefs='1' name='receiving'>
+    <variant>receiving</variant>
+  </canonskill>
+  <canonskill experience='1' name='reengineering'>
+    <variant>Re-Engineering</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='1' idrefs='1' name='reports'>
+    <variant>reporting</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='1' idrefs='1' name='requirements'>
+    <variant>requirement</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='1' idrefs='1' name='ris'>
+    <variant>RIS</variant>
+  </canonskill>
+  <canonskill experience='1' name='servers'>
+    <variant>servers</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='siemens nixdorf hardware' start='733653'>
+    <variant>Siemens</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='1' idrefs='1' name='sql'>
+    <variant>SQL</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='1' idrefs='1' name='switches'>
+    <variant>switches</variant>
+    <variant>switch</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='1' idrefs='1' name='technical support'>
+    <variant>technical support</variant>
+    <variant>user support</variant>
+  </canonskill>
+  <canonskill experience='1' name='telecommunications'>
+    <variant>telecommunications</variant>
+  </canonskill>
+  <canonskill experience='1' name='telephone skills'>
+    <variant>Telephony</variant>
+    <variant>telephony</variant>
+    <variant>phone</variant>
+  </canonskill>
+  <canonskill experience='1' name='trend'>
+    <variant>Trend</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='1' idrefs='1' name='troubleshooting'>
+    <variant>troubleshooting</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='1' idrefs='1' name='unified modeling language'>
+    <variant>UML</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='upgrades' start='733653'>
+    <variant>upgrades</variant>
+    <variant>upgrading</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='1' idrefs='1' name='utilities'>
+    <variant>utilities</variant>
+  </canonskill>
+  <canonskill experience='1' name='vista'>
+    <variant>Vista</variant>
+  </canonskill>
+  <canonskill experience='1' name='wan'>
+    <variant>WAN</variant>
+  </canonskill>
+  <canonskill experience='1' name='workflow analysis'>
+    <variant>Workflow</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

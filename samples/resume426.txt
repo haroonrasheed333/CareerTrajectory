@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734594' xml:space='preserve'><contact><name><givenname>Billye</givenname> <givenname>Reynolds</givenname> <surname>Carter</surname></name>
+<address lat='36.3157' lon='80.8162' majorcity='ELKIN' state='NC'><street>5702 Austin Traphill Road</street>
+<city>Elkin</city>, <state abbrev='NC'>NC</state> <postalcode>28621</postalcode></address>
+<phone type='cell'>336-902-5332</phone> c
+<phone type='home'>336-957-2062</phone> h
+<email>billyecarter@wilkes.net</email></contact>
+
+<summary>PROFESSIONAL PROFILE
+<summary>Dedicated professional with a diverse skill set that performs well in a fast paced environment.</summary>  
+Areas of expertise include:
+
+<summary>Customer Service
+Scheduling
+Create &amp; Maintain Reporting
+Plan Develop &amp; Manage Special Projects
+Inventory Management
+New Product Research
+Expense Reduction
+Office Management
+Spreadsheet &amp; Database Creation
+Create &amp; Document Business Requirements	
+Issue Resolution
+User Acceptance Testing
+Subject Matter Expert
+Communicate Proactively
+Workflow &amp; Process Flow
+Bookkeeping &amp; Payroll
+Policy &amp; Procedure Creation &amp; Documentation
+Item Creation &amp; Maintenance
+Research &amp; Analysis
+Internet Marketing</summary></summary>	
+
+
+<experience end='present' start='727566'>EXPERIENCE
+<job end='present' id='1' pos='2' start='732679'><title>BLISS DAY SPA</title>
+<daterange><start days='732679' iso8601='2007-01-01'>2007</start> to <end days='present' iso8601='2012-03-30'>Present</end></daterange></job>
+
+<job end='present' id='2' pos='1' start='733044'><title>Spa Director</title>, <daterange><start days='733044' iso8601='2008-01-01'>2008</start> to <end days='present' iso8601='2012-03-30'>Present</end></daterange></job>
+<job end='733044' id='3' pos='3' start='732679'><title>Receptionist</title>, <daterange><start days='732679' iso8601='2007-01-01'>2007</start> to <end days='733044' iso8601='2008-01-01'>2008</end></daterange>
+
+Results:
+<description>Continually increased service revenue and client base by standardizing customer service levels.
+Successfully managed employees and independent contractors.  
+Independent contractor client base grew by 300% &amp; they created their own proprietorship.
+Decreased office expenditures by 10% by sourcing new providers.</description></job>
+
+<job end='732314' id='4' pos='6' start='727566'><employer>LOWE'S CORPORATE HEADQUARTERS</employer>
+<daterange><start days='727566' iso8601='1993-01-01'>1993</start> to <end days='732314' iso8601='2006-01-01'>2006</end></daterange></job>
+
+<job end='732648' id='5' pos='4' start='732404'><title>Sr. Analyst</title> <employer>PCM Initiatives</employer>, <daterange><start days='732404' iso8601='2006-04-01'>April 2006</start> to <end days='732648' iso8601='2006-12-01'>December 2006</end></daterange></job>
+<job end='732314' id='6' pos='5' start='731218'><title>Product Content Management Coordinator</title>, <daterange><start days='731218' iso8601='2003-01-01'>2003</start> to <end days='732314' iso8601='2006-01-01'>2006</end></daterange></job>
+<job end='731218' id='7' pos='7' start='730853'><title>Category Analyst</title>, <daterange><start days='730853' iso8601='2002-01-01'>2002</start> to <end days='731218' iso8601='2003-01-01'>2003</end></daterange></job>
+<job end='730853' id='8' pos='8' start='730122'><title>Internet Business Group Information Specialist</title>, <daterange><start days='730122' iso8601='2000-01-01'>2000</start> to <end days='730853' iso8601='2002-01-01'>2002</end></daterange></job>
+<job end='730122' id='9' pos='9' start='728661'><title>Merchandising Assistant</title>, <daterange><start days='728661' iso8601='1996-01-01'>1996</start> to <end days='730122' iso8601='2000-01-01'>2000</end></daterange></job>
+<job end='728661' id='10' pos='10' start='727931'><title>Bar Code Coordinator</title>, <daterange><start days='727931' iso8601='1994-01-01'>1994</start> to <end days='728661' iso8601='1996-01-01'>1996</end></daterange></job>
+<job end='727931' id='11' pos='11' start='727566'><title>Administrative Assistant</title> (<jobtype>temp</jobtype> via <employer>Lowes Internal</employer>) <daterange><start days='727566' iso8601='1993-01-01'>1993</start> to <end days='727931' iso8601='1994-01-01'>1994</end></daterange>
+
+Results:
+<description>Repeatedly promoted during 13 year career at Lowe's, culminating in Sr. Analyst Position.
+Successfully delivered new item creation software that supported Lowes adoption of electronic data synchronization standards.
+Successfully launched Lowes.com and provided all data need for assigned product categories.
+Effectively executed merchandising programs that increased Lowes Major Appliance sales, increased national sales standing to 3rd in Nation from 5th in National sales.
+Implemented and executed vendor adoption of, Interleaved 2 of 5 bar code program for vendors supplying Regional Distribution Centers and stores.</description></job></experience>
+
+<education>EDUCATION
+
+UNC Charlotte Continuing Education, <school id='12'><address><city>Charlotte</city>, <state abbrev='NC'>NC</state></address>
+Continuing Education, <courses>Principles of Project Management Certificate</courses>
+
+<institution>Wilkes Community College</institution>, <address><city>Wilkesboro</city>, <state abbrev='NC'>NC</state></address>
+<degree level='14'>Associate</degree> in <major code='0502'>Applied Sciences</major> <degree>Degree</degree>, <major code='4001'>Accounting</major> <completiondate days='727566' iso8601='1993-01-01'>1993</completiondate></school></education>
+
+
+
+
+
+
+
+
+
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='727931' experience='1' expidrefs='11' idrefs='11' lastused='1994' name='analysis' start='727566'>
+    <variant>Analyst</variant>
+  </canonskill>
+  <canonskill end='727931' experience='1' expidrefs='11' idrefs='11' lastused='1994' name='com' start='727566'>
+    <variant>com</variant>
+  </canonskill>
+  <canonskill end='733044' experience='1' expidrefs='3' idrefs='3' lastused='2008' name='customer relations' start='732679'>
+    <variant>client</variant>
+  </canonskill>
+  <canonskill end='733044' experience='1' expidrefs='3' idrefs='3' lastused='2008' name='customer service' start='732679'>
+    <variant>customer service</variant>
+  </canonskill>
+  <canonskill end='727931' experience='1' expidrefs='11' idrefs='11' lastused='1994' name='merchandising' start='727566'>
+    <variant>merchandising</variant>
+  </canonskill>
+  <canonskill end='733044' experience='1' expidrefs='3' idrefs='3' lastused='2008' name='microsoft office' start='732679'>
+    <variant>office</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='12' idrefs='12' name='project management'>
+    <variant>Project Management</variant>
+  </canonskill>
+  <canonskill end='727931' experience='1' expidrefs='11' idrefs='11' lastused='1994' name='sales' start='727566'>
+    <variant>sales</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734594' xml:space='preserve'><summary>Objectives
+<summary>Minimal and Effective Design ­ Makes you look good and makes business process seamless. 3-4 years having
+a design and development role with Object Oriented Programming and W3C standards.
+
+Effective self starter, great team player ­ I've underwent numerous team transitions and was able to adapt to
+every single one, I've made solo projects and collaborative projects alike.</summary></summary>
+
+<skills>Software Skills
+<skills>Adobe Photoshop         Adobe Illustrator     Adobe Dreamweaver          HTML/CSS/PHP/Javascript/jQuery
+
+mySQL                   SQL Server            C#/.NET                    Adobe Flash
+
+Adobe Fireworks         MAC/LINUX/REDHAT/UNIX                            Ruby (on Rails)</skills></skills>
+
+<education>Education
+    <school id='5'><institution>MAPUA INSTITUTE OF TECHNOLOGY</institution> (Philippines)
+    <degree level='16' name='Bachelor of Science'>BACHELOR OF SCIENCE</degree> IN <major code='1699'>INFORMATION TECHNOLOGY</major>
+        <description>Years attended: 2005 ­ 2009 Thesis: Pet Immune Home Security System. With GPRS and web
+technologies.</description></school></education>
+
+<experience end='present' start='733500'>WORK
+Malabon City Management Information Systems
+                  <job end='733561' id='1' pos='4' start='733500'><title>MIS Intern</title> (<daterange><start days='733500' iso8601='2009-04-01'>April 2009</start> ­ <end days='733561' iso8601='2009-06-01'>June 2009</end></daterange>) <description>Managed web content and Internal data gathering
+Clean Leaf International Corporation
+                  Information Systems and Development (September 2009 ­ May 2010) Created and managed
+website and database schemes.</description></job>
+<job end='734230' id='2' pos='3' start='734109'><employer>VXI Global Solutions</employer>
+                 <title>Technical Specialist</title> (<daterange><start days='734109' iso8601='2010-12-01'>December 2010</start> - <end days='734230' iso8601='2011-04-01'>April 2011</end></daterange></job>) Front end repairs for client's service.
+<job end='present' id='3' pos='1' start='733622'><title>Web Developer</title> (<daterange><start days='733622' iso8601='2009-08-01'>August 2009</start>-<end days='present' iso8601='2012-03-30'>present</end></daterange>) <description>self initiated projects, off and on freelance work with design and
+development.</description></job>
+<job end='734565' id='4' pos='2' start='734444'><employer>Friend2Friend</employer> (<daterange><start days='734444' iso8601='2011-11-01'>November 2011</start>-<end days='734565' iso8601='2012-03-01'>March 2012</end></daterange>) <description>Front End Developer and designer using Facebook for social
+media campaigns, using html and css.
+
+Achievements
+Save the Colorado Facebook Campaign
+           Designed and created a Sweepstakes Campaign for savethecolorado.org, the target of the
+           campaign was to generate 5,000 fans on their facebook fanpage. The campaign exceeded target
+           expectation.</description></job></experience>
+            <professional><description>CSS and HTML, Adobe Photoshop, SVN
+New Belgium: Share Shift App
+           New Belgium is launching its new beer called Shift, Created the html/css templates on the app.
+           Worked together with a flash developer to have facebook functionalities where you can ask a
+           friend out to enjoy a glass of Shift Beer.
+           CSS and HTML, Adobe Photoshop, SVN
+Hide and Seek Designs PH
+           A self initialized project, with the help of various graphic artists. The project is basically a showcase
+           of designs and I myself created the short lived website and used various social media resources to
+           create a small following. Used: CSS/HTML/PHP/JAVA, Adobe Creative Suite
+</description></professional>                                                                                                                        www.reianthomas.com
+
+                                                    <contact><address lat='37.5737' lon='122.047' majorcity='FREMONT' state='CA'><street>32450 LAKE TEMESCAL LN</street>. <city>FREMONT</city> <state abbrev='CA'>CA</state> <postalcode>94555-1053</postalcode></address>   · <phone>(510)825-1535</phone>    <email>reianthomas@gmail.com</email></contact>
+</resume>
+
+<skillrollup version='1'>
+  <canonskill name='.net'>
+    <variant>.NET</variant>
+  </canonskill>
+  <canonskill name='adobe'>
+    <variant>Adobe</variant>
+  </canonskill>
+  <canonskill name='adobe photoshop'>
+    <variant>Adobe Photoshop</variant>
+  </canonskill>
+  <canonskill end='734565' experience='1' expidrefs='4' idrefs='4' lastused='2012' name='css' start='734444'>
+    <variant>CSS</variant>
+    <variant>css</variant>
+  </canonskill>
+  <canonskill end='733561' experience='1' expidrefs='1' idrefs='1' lastused='2009' name='database administration' start='733500'>
+    <variant>database</variant>
+  </canonskill>
+  <canonskill name='dreamweaver'>
+    <variant>Dreamweaver</variant>
+  </canonskill>
+  <canonskill name='fireworks'>
+    <variant>Fireworks</variant>
+  </canonskill>
+  <canonskill name='flash'>
+    <variant>Flash</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='3' idrefs='3' lastused='2012' name='freelance graphics' start='733622'>
+    <variant>freelance</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='5' idrefs='5' name='gprs'>
+    <variant>GPRS</variant>
+  </canonskill>
+  <canonskill end='734565' experience='1' expidrefs='4' idrefs='4' lastused='2012' name='html' start='734444'>
+    <variant>HTML</variant>
+    <variant>html</variant>
+  </canonskill>
+  <canonskill name='illustrator'>
+    <variant>Adobe Illustrator</variant>
+  </canonskill>
+  <canonskill end='733561' experience='1' expidrefs='1' idrefs='1' lastused='2009' name='information systems' start='733500'>
+    <variant>Information Systems</variant>
+  </canonskill>
+  <canonskill name='javascript'>
+    <variant>Javascript</variant>
+  </canonskill>
+  <canonskill name='linux'>
+    <variant>LINUX</variant>
+  </canonskill>
+  <canonskill name='macintosh'>
+    <variant>MAC</variant>
+  </canonskill>
+  <canonskill name='microsoft c #'>
+    <variant>C#</variant>
+  </canonskill>
+  <canonskill name='mysql'>
+    <variant>mySQL</variant>
+  </canonskill>
+  <canonskill end='734565' experience='1' expidrefs='4' idrefs='4' lastused='2012' name='oracle developer 2000' start='734444'>
+    <variant>Developer</variant>
+  </canonskill>
+  <canonskill name='php'>
+    <variant>PHP</variant>
+  </canonskill>
+  <canonskill name='red hat linux'>
+    <variant>REDHAT</variant>
+  </canonskill>
+  <canonskill name='sql'>
+    <variant>SQL Server</variant>
+  </canonskill>
+  <canonskill name='unix'>
+    <variant>UNIX</variant>
+  </canonskill>
+  <canonskill end='733561' experience='1' expidrefs='1' idrefs='1' lastused='2009' name='web site production' start='733500'>
+    <variant>website</variant>
+    <variant>web content</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

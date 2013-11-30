@@ -1,0 +1,68 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Collision Repair and Refinish: Structural Analysis and Damage Repair", 
+            "Type": "Specialty", 
+            "Certification ID": "5249", 
+            "Certifying Organization": "National Institute for Automotive Service Excellence"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Auto Glass Master", 
+            "Type": "Advanced", 
+            "Certification ID": "7702", 
+            "Certifying Organization": "Auto Glass Safety Council"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Undercar Specialist: Exhaust Systems", 
+            "Type": "Specialty", 
+            "Certification ID": "5246", 
+            "Certifying Organization": "National Institute for Automotive Service Excellence"
+        }, 
+        {
+            "Acronym": "AGRT", 
+            "Certification Name": "Certified Auto Glass Technician", 
+            "Type": "Core", 
+            "Certification ID": "3317", 
+            "Certifying Organization": "Auto Glass Safety Council"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "School Bus Technician: Body Systems and Special Equipment", 
+            "Type": "Specialty", 
+            "Certification ID": "5251", 
+            "Certifying Organization": "National Institute for Automotive Service Excellence"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Collision Repair and Refinish: Damage Analysis and Estimating", 
+            "Type": "Core", 
+            "Certification ID": "5230", 
+            "Certifying Organization": "National Institute for Automotive Service Excellence"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Collision Repair and Refinish: Non-Structural Analysis and Damage Repair", 
+            "Type": "Specialty", 
+            "Certification ID": "5248", 
+            "Certifying Organization": "National Institute for Automotive Service Excellence"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Collision Repair and Refinish: Painting and Refinishing Technician", 
+            "Type": "Specialty", 
+            "Certification ID": "5247", 
+            "Certifying Organization": "National Institute for Automotive Service Excellence"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Master Collision Repair & Refinishing Technician", 
+            "Type": "Advanced", 
+            "Certification ID": "0049", 
+            "Certifying Organization": "National Institute for Automotive Service Excellence"
+        }
+    ], 
+    "onet": "49302100"
+}

@@ -1,0 +1,82 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "HCM", 
+            "Certification Name": "Health Care Collection Management", 
+            "Type": "Advanced", 
+            "Certification ID": "7977", 
+            "Certifying Organization": "Association of Credit and Collection Professionals"
+        }, 
+        {
+            "Acronym": "CAPA", 
+            "Certification Name": "Certified Accounts Payable Associate", 
+            "Type": "Core", 
+            "Certification ID": "6034", 
+            "Certifying Organization": "Institute of Financial Operations"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Oracle Fusion Financials 11g Accounts Payable Certified Implementation Specialist", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8488", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "CAPP", 
+            "Certification Name": "Certified Accounts Payable Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "6033", 
+            "Certifying Organization": "Institute of Financial Operations"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "QuickBooks Certification", 
+            "Type": "Core", 
+            "Certification ID": "9400", 
+            "Certifying Organization": "National Bookkeepers Association"
+        }, 
+        {
+            "Acronym": "PCA", 
+            "Certification Name": "Professional Credit Associate", 
+            "Type": "Core", 
+            "Certification ID": "8972", 
+            "Certifying Organization": "Credit Professionals International"
+        }, 
+        {
+            "Acronym": "CCP", 
+            "Certification Name": "Credit & Collection Professional", 
+            "Type": "Core", 
+            "Certification ID": "7979", 
+            "Certifying Organization": "Association of Credit and Collection Professionals"
+        }, 
+        {
+            "Acronym": "PCE", 
+            "Certification Name": "Professional Credit Executive", 
+            "Type": "Advanced", 
+            "Certification ID": "8974", 
+            "Certifying Organization": "Credit Professionals International"
+        }, 
+        {
+            "Acronym": "PCS", 
+            "Certification Name": "Professional Credit Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "8973", 
+            "Certifying Organization": "Credit Professionals International"
+        }, 
+        {
+            "Acronym": "CCCO", 
+            "Certification Name": "Credit and Collection Compliance Officer", 
+            "Type": "Advanced", 
+            "Certification ID": "7976", 
+            "Certifying Organization": "Association of Credit and Collection Professionals"
+        }, 
+        {
+            "Acronym": "PCS", 
+            "Certification Name": "Professional Collection Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "7975", 
+            "Certifying Organization": "Association of Credit and Collection Professionals"
+        }
+    ], 
+    "onet": "43301100"
+}

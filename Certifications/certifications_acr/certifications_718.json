@@ -1,0 +1,383 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Air Distribution Installation Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "0821", 
+            "Certifying Organization": "North American Technician Excellence, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Air Distribution Service Technician", 
+            "Type": "Specialty", 
+            "Certification ID": "0822", 
+            "Certifying Organization": "North American Technician Excellence, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Hydronics Gas Installation", 
+            "Type": "Specialty", 
+            "Certification ID": "5610", 
+            "Certifying Organization": "North American Technician Excellence, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Master Specialist Hands On Gas Heat Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "8091", 
+            "Certifying Organization": "HVAC Excellence "
+        }, 
+        {
+            "Acronym": "AABC,", 
+            "Certification Name": "Test and Balance Engineer", 
+            "Type": "Advanced", 
+            "Certification ID": "3617", 
+            "Certifying Organization": "Associated Air Balance Council"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Residential and Light Commercial Low Pressure Hydronic Heat Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "6150", 
+            "Certifying Organization": "HVAC Excellence "
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "EPA Section 608 Certification", 
+            "Type": "Core", 
+            "Certification ID": "9058", 
+            "Certifying Organization": "Air Conditioning Contractors of America"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Air to Air Heat Pump Service Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "0828", 
+            "Certifying Organization": "North American Technician Excellence, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Master Specialist Hands On Light Commercial Air Conditioning Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "8094", 
+            "Certifying Organization": "HVAC Excellence "
+        }, 
+        {
+            "Acronym": "CIAQM", 
+            "Certification Name": "Certified Indoor Air Quality Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "3516", 
+            "Certifying Organization": "National Registry of Environmental Professionals"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Residential Air Conditioning Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "6142", 
+            "Certifying Organization": "HVAC Excellence "
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Air Conditioning Installation Technician", 
+            "Type": "Specialty", 
+            "Certification ID": "0823", 
+            "Certifying Organization": "North American Technician Excellence, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "HVAC Efficiency Analyst Senior", 
+            "Type": "Specialty", 
+            "Certification ID": "5615", 
+            "Certifying Organization": "North American Technician Excellence, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Electric Heat Certification", 
+            "Type": "Core", 
+            "Certification ID": "6148", 
+            "Certifying Organization": "HVAC Excellence "
+        }, 
+        {
+            "Acronym": "6149", 
+            "Certification Name": "Oil Heat Certification", 
+            "Type": "Core", 
+            "Certification ID": "6149", 
+            "Certifying Organization": "HVAC Excellence "
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Master Specialist Hands On Combustion Analysis Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "8090", 
+            "Certifying Organization": "HVAC Excellence "
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Master Specialist Hands On Heat Pump Service Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "8093", 
+            "Certifying Organization": "HVAC Excellence "
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Residential Heat Load Calculation Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "8098", 
+            "Certifying Organization": "HVAC Excellence "
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "STAR HVAC Mastery", 
+            "Type": "Advanced", 
+            "Certification ID": "7013", 
+            "Certifying Organization": "National Inspection, Testing and Certification Corporation"
+        }, 
+        {
+            "Acronym": "NAFA,", 
+            "Certification Name": "NAFA Certified Air Filter Specialist", 
+            "Type": "Core", 
+            "Certification ID": "3615", 
+            "Certifying Organization": "National Air Filtration Associaton"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Air to Air Heat Pump Installation", 
+            "Type": "Specialty", 
+            "Certification ID": "0827", 
+            "Certifying Organization": "North American Technician Excellence, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Heat Pump Service Certification", 
+            "Type": "Core", 
+            "Certification ID": "6145", 
+            "Certifying Organization": "HVAC Excellence "
+        }, 
+        {
+            "Acronym": "Air", 
+            "Certification Name": "Gas Heating (Air) Service", 
+            "Type": "Specialty", 
+            "Certification ID": "5608", 
+            "Certifying Organization": "North American Technician Excellence, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Hydronics Oil Service", 
+            "Type": "Specialty", 
+            "Certification ID": "5611", 
+            "Certifying Organization": "North American Technician Excellence, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Combustion Analysis Certification", 
+            "Type": "Core", 
+            "Certification ID": "6153", 
+            "Certifying Organization": "HVAC Excellence "
+        }, 
+        {
+            "Acronym": "VSMR", 
+            "Certification Name": "Ventilation System Mold Remediator", 
+            "Type": "Advanced", 
+            "Certification ID": "4791", 
+            "Certifying Organization": "National Air Ducts Cleaning Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Ground Source Heat Pump Loop", 
+            "Type": "Specialty", 
+            "Certification ID": "6250", 
+            "Certifying Organization": "North American Technician Excellence, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Gas Heat Certification", 
+            "Type": "Core", 
+            "Certification ID": "6147", 
+            "Certifying Organization": "HVAC Excellence "
+        }, 
+        {
+            "Acronym": "Air", 
+            "Certification Name": "Gas Heating (Air) Installation", 
+            "Type": "Specialty", 
+            "Certification ID": "0825", 
+            "Certifying Organization": "North American Technician Excellence, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Heating Professional", 
+            "Type": "Core", 
+            "Certification ID": "6156", 
+            "Certifying Organization": "Building Performance Institute"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "HVAC Master Specialist", 
+            "Type": "Advanced", 
+            "Certification ID": "5517", 
+            "Certifying Organization": "HVAC Excellence "
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Hydronics Oil Installation Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "5612", 
+            "Certifying Organization": "North American Technician Excellence, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Residential Building Envelope Whole House Air Leakage Control Installer Professional", 
+            "Type": "Specialty", 
+            "Certification ID": "6797", 
+            "Certifying Organization": "Building Performance Institute"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Master Specialist Hands On Heat Pump Installer Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "8092", 
+            "Certifying Organization": "HVAC Excellence "
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Cleanroom Testing Engineer", 
+            "Type": "Advanced", 
+            "Certification ID": "3619", 
+            "Certifying Organization": "Associated Air Balance Council"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Test and Balance Technician", 
+            "Type": "Advanced", 
+            "Certification ID": "3620", 
+            "Certifying Organization": "Associated Air Balance Council"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Air Conditioning Service Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "0824", 
+            "Certifying Organization": "North American Technician Excellence, Inc."
+        }, 
+        {
+            "Acronym": "Air", 
+            "Certification Name": "Oil Heating (Air) Service", 
+            "Type": "Specialty", 
+            "Certification ID": "0830", 
+            "Certifying Organization": "North American Technician Excellence, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Heat Pump Installer Certification", 
+            "Type": "Core", 
+            "Certification ID": "6146", 
+            "Certifying Organization": "HVAC Excellence "
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Hydronics Gas Service", 
+            "Type": "Specialty", 
+            "Certification ID": "5609", 
+            "Certifying Organization": "North American Technician Excellence, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Master Specialist Hands On Residential and Light Commercial Low Pressure Hydronic Heat Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "8097", 
+            "Certifying Organization": "HVAC Excellence "
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified National Appliance Service Technician - Refrigeration and Air Conditioning", 
+            "Type": "Core", 
+            "Certification ID": "4663", 
+            "Certifying Organization": "International Society of Certified Electronics Technicians"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Journeyman Air Conditioning & Refrigeration", 
+            "Type": "Core", 
+            "Certification ID": "5636", 
+            "Certifying Organization": "National Inspection, Testing and Certification Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Light Commercial Air Conditioning Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "6143", 
+            "Certifying Organization": "HVAC Excellence "
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Small Wind Installer Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "6781", 
+            "Certifying Organization": "North American Board of Certified Energy Practitioners"
+        }, 
+        {
+            "Acronym": "Air", 
+            "Certification Name": "Oil Heating (Air) Installation Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "0829", 
+            "Certifying Organization": "North American Technician Excellence, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Universal R-410A Certification", 
+            "Type": "Core", 
+            "Certification ID": "8642", 
+            "Certifying Organization": "HVAC Excellence "
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Carbon Monoxide Inspector", 
+            "Type": "Core", 
+            "Certification ID": "8641", 
+            "Certifying Organization": "HVAC Excellence "
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Air Conditioning and Heat Pump Professional", 
+            "Type": "Core", 
+            "Certification ID": "6157", 
+            "Certifying Organization": "Building Performance Institute"
+        }, 
+        {
+            "Acronym": "CVI", 
+            "Certification Name": "Certified Ventilation System Inspector", 
+            "Type": "Advanced", 
+            "Certification ID": "4790", 
+            "Certifying Organization": "National Air Ducts Cleaning Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Master Specialist Hands On Residential Air Conditioning Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "8096", 
+            "Certifying Organization": "HVAC Excellence "
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Solar Thermal Installer Certification", 
+            "Type": "Core", 
+            "Certification ID": "5724", 
+            "Certifying Organization": "North American Board of Certified Energy Practitioners"
+        }, 
+        {
+            "Acronym": "NCT", 
+            "Certification Name": "NAFA Certified Technician", 
+            "Type": "Core", 
+            "Certification ID": "3616", 
+            "Certifying Organization": "National Air Filtration Associaton"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified National Appliance Service Technician - Universal Technician", 
+            "Type": "Core", 
+            "Certification ID": "4666", 
+            "Certifying Organization": "International Society of Certified Electronics Technicians"
+        }
+    ], 
+    "onet": "49902101"
+}

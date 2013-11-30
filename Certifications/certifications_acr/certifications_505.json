@@ -1,0 +1,124 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Latent Fingerprint Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "3599", 
+            "Certifying Organization": "The International Association for Identification"
+        }, 
+        {
+            "Acronym": "CIPP", 
+            "Certification Name": "The Certified Information Privacy Professional", 
+            "Type": "Core", 
+            "Certification ID": "6336", 
+            "Certifying Organization": "International Association of Privacy Professionals"
+        }, 
+        {
+            "Acronym": "ACTAR,", 
+            "Certification Name": "Accredited Accident Reconstructionist", 
+            "Type": "Advanced", 
+            "Certification ID": "3592", 
+            "Certifying Organization": "The Accreditation Commission for Traffic Accident Reconstruction "
+        }, 
+        {
+            "Acronym": "FP", 
+            "Certification Name": "Forensic Photography", 
+            "Type": "Specialty", 
+            "Certification ID": "3597", 
+            "Certifying Organization": "The International Association for Identification"
+        }, 
+        {
+            "Acronym": "CFE", 
+            "Certification Name": "Certified Fraud Examiner", 
+            "Type": "Core", 
+            "Certification ID": "1245", 
+            "Certifying Organization": "Association of Certified Fraud Examiners"
+        }, 
+        {
+            "Acronym": "F-ABC", 
+            "Certification Name": "Fellow of the ABC", 
+            "Type": "Advanced", 
+            "Certification ID": "8128", 
+            "Certifying Organization": "American Board of Criminalistics"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Footwear Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "8672", 
+            "Certifying Organization": "International Association for Identification"
+        }, 
+        {
+            "Acronym": "C3E", 
+            "Certification Name": "Certified Cyber-Crime Expert", 
+            "Type": "Core", 
+            "Certification ID": "5319", 
+            "Certifying Organization": "E-Business Process Solutions"
+        }, 
+        {
+            "Acronym": "CSFA", 
+            "Certification Name": "CyberSecurity Forensic Analyst", 
+            "Type": "Advanced", 
+            "Certification ID": "5305", 
+            "Certifying Organization": "CyberSecurity Institute"
+        }, 
+        {
+            "Acronym": "CIPP/G", 
+            "Certification Name": "The Certified Information Privacy Professional/Government", 
+            "Type": "Core", 
+            "Certification ID": "6337", 
+            "Certifying Organization": "International Association of Privacy Professionals"
+        }, 
+        {
+            "Acronym": "CLI", 
+            "Certification Name": "Certified Legal Investigator", 
+            "Type": "Core", 
+            "Certification ID": "1420", 
+            "Certifying Organization": "National Association of Legal Investigators"
+        }, 
+        {
+            "Acronym": "D-ABC", 
+            "Certification Name": "Diplomate of the ABC", 
+            "Type": "Advanced", 
+            "Certification ID": "8127", 
+            "Certifying Organization": "American Board of Criminalistics"
+        }, 
+        {
+            "Acronym": "CSC", 
+            "Certification Name": "Crime Scene Certification", 
+            "Type": "Core", 
+            "Certification ID": "3595", 
+            "Certifying Organization": "The International Association for Identification"
+        }, 
+        {
+            "Acronym": "CICA", 
+            "Certification Name": "Criminal Intelligence Certified Analyst", 
+            "Type": "Advanced", 
+            "Certification ID": "7667", 
+            "Certifying Organization": "International Association of Law Enforcement Intelligence Analysts"
+        }, 
+        {
+            "Acronym": "FA", 
+            "Certification Name": "Forensic Artist Certification", 
+            "Type": "Core", 
+            "Certification ID": "3598", 
+            "Certifying Organization": "The International Association for Identification"
+        }, 
+        {
+            "Acronym": "FC", 
+            "Certification Name": "Footwear Certification", 
+            "Type": "Core", 
+            "Certification ID": "3596", 
+            "Certifying Organization": "The International Association for Identification"
+        }, 
+        {
+            "Acronym": "CIIO", 
+            "Certification Name": "Certified Internal Investigation Officer", 
+            "Type": "Advanced", 
+            "Certification ID": "7677", 
+            "Certifying Organization": "Center for Security and Emergency Management"
+        }
+    ], 
+    "onet": "33302103"
+}

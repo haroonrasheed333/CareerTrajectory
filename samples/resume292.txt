@@ -1,0 +1,170 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734591' xml:space='preserve'><contact><name><givenname>DEBORA</givenname> <givenname>L</givenname>. <surname>TOMLINSON</surname></name>
+
+<address lat='39.6309' lon='84.2621' majorcity='MIAMISBURG' state='OH'><street>1131 Castleton Court</street>, <city>Miamisburg</city>, <state abbrev='OH'>Ohio</state> <postalcode>45342</postalcode></address>	           513.<phone>490.1344</phone>             <email>dtmj5059@roadrunner.com</email></contact>
+
+
+
+<summary>SUMMARY OF QUALIFICATIONS
+
+<summary>Excellent blend of customer service, administrative, and computer skills
+Microsoft Certified Master Instructor: Word, Excel, Access, PowerPoint, and Outlook
+Exceptional organizational, problem solving, interpersonal, and communication skills
+Team oriented but ability to exercise independent judgment
+Adaptable and flexible attitude toward achievement of company goals
+Solid history of excellent work relationships with both the public and internal personnel at all organization levels
+Skilled in facilitation, adult training, and personnel adeptness</summary></summary>
+
+
+<experience end='present' start='724644'>EXPERIENCE
+
+<job end='present' id='1' naics='81233107' naics2='81' pos='1' sic='569921' sic2='56' start='733410'><employer>Cintas</employer>
+<title>Accounts Receivable Customer Service Representative</title>: <daterange><start days='733410' iso8601='2009-01-01'>2009</start> to <end days='present' iso8601='2012-03-27'>present</end></daterange>
+<description>Perform billing and collection procedures for national customers of the organization.  Develop and sustain relationships with national corporate customer and Cintas locations.</description></job>
+
+<job end='733044' id='2' pos='2' start='732679'><employer>Atrium Medical Center</employer>
+<title>Administrative Assistant</title> to Foundation Director: <daterange><start days='732679' iso8601='2007-01-01'>2007</start> to <end days='733044' iso8601='2008-01-01'>2008</end></daterange>
+<description>Coordinated the meeting set up and documented the discussion for the Board of Directors for the Atrium Medical Center Foundation.  Assisted in the design of fundraising programs.</description></job>
+
+<job end='732679' id='3' pos='3' start='731583'><title>Environment of Care Coordinator</title>: <daterange><start days='731583' iso8601='2004-01-01'>2004</start> to <end days='732679' iso8601='2007-01-01'>2007</end></daterange>
+<description>Assisted director of facilities in the coordination of the Environment of Care functions used in running the day-to-day operations of the hospital.  Worked with the public and internal personnel to design Environment of Care drills.</description></job>
+
+<job end='731583' id='4' pos='4' sic='822101' sic2='82' start='730488'><employer>Miami University</employer>
+<title>Corporate Computer Trainer / Consultant</title>: <daterange><start days='730488' iso8601='2001-01-01'>2001</start> to <end days='731583' iso8601='2004-01-01'>2004</end></daterange>
+<description>Worked with the Continuing Education department as a technology instructor.  Developed classes to teach PowerPoint to college students.</description></job>
+
+<job end='730488' id='5' pos='5' start='730122'><employer>ExecuTrain Computer Training</employer>
+<title>Corporate Computer Trainer / Consultant</title>: <daterange><start days='730122' iso8601='2000-01-01'>2000</start> to <end days='730488' iso8601='2001-01-01'>2001</end></daterange>
+<description>Advised and trained customers in computer technology to the advanced and programming level.  Worked with network teams to install hardware and software classroom setups.</description></job>
+
+<job end='730122' id='6' naics='52412607' naics2='52' pos='6' sic='641112' sic2='64' start='729757'><employer>Ohio Casualty (Liberty Mutual) Insurance Company</employer>
+<title>Asset Administrator</title>: <daterange><start days='729757' iso8601='1999-01-01'>1999</start> to <end days='730122' iso8601='2000-01-01'>2000</end></daterange>
+<description>Developed systems and managed processes to track and monitor computer equipment for more than 3,000 employees countrywide.</description></job>
+
+<job end='729757' id='7' pos='7' start='729027'><title>Programmer</title>: <daterange><start days='729027' iso8601='1997-01-01'>1997</start> to <end days='729757' iso8601='1999-01-01'>1999</end></daterange>
+<description>Wrote and maintained systems for processing insurance policies.</description></job>
+
+
+<job end='729027' id='8' pos='8' start='726835'><title>Corporate Consultant / Trainer</title>: <daterange><start days='726835' iso8601='1991-01-01'>1991</start> to <end days='729027' iso8601='1997-01-01'>1997</end></daterange>
+<description>Designed classes and trained employees on both computer and software skills.</description></job>
+
+<job end='726835' id='9' pos='9' start='724644'><title>Administrative Assistant</title>: <daterange><start days='724644' iso8601='1985-01-01'>1985</start> to <end days='726835' iso8601='1991-01-01'>1991</end></daterange>
+<description>Worked in the accounting department for the controller, assistant controllers, and assistant secretary.  Scheduled meetings, travel for executives, tracked attendance of employees, and maintained reports.</description></job></experience>
+
+
+<education>EDUCATION / CERTIFICATIONS
+
+<school id='10'><institution>Miami University</institution>, <address><city>Middletown</city>, <state abbrev='OH'>Ohio</state></address>:  Major: <major code='4201'>Business Information Management Technology</major>
+<courses>Microsoft Certified Master Instructor</courses></school></education> 
+
+
+<skills>TECHNICAL SKILLS
+
+<skills>Microsoft Word, Excel, Access, PowerPoint, Visio, Project, Outlook
+Instructional system design
+Situational leadership training
+Raiser's Edge database
+S400 systems</skills></skills>
+
+
+<references>REFERENCES
+
+Excellent references available
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</references></resume>
+
+<skillrollup version='1'>
+  <canonskill end='726835' experience='1' expidrefs='9' idrefs='9' lastused='1991' name='accountancy' start='724644'>
+    <variant>accounting</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='billing' start='733410'>
+    <variant>billing</variant>
+  </canonskill>
+  <canonskill end='730488' experience='1' expidrefs='5' idrefs='5' lastused='2001' name='computer hardware' start='730122'>
+    <variant>hardware</variant>
+  </canonskill>
+  <canonskill end='726835' experience='1' expidrefs='9' idrefs='9' lastused='1991' name='control' start='724644'>
+    <variant>controller</variant>
+  </canonskill>
+  <canonskill name='database administration'>
+    <variant>database</variant>
+  </canonskill>
+  <canonskill end='733044' experience='1' expidrefs='2' idrefs='2' lastused='2008' name='fundraising' start='732679'>
+    <variant>fundraising</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='10' end='731583' experience='1' expidrefs='4' idrefs='4,10' lastused='2004' name='instruction' start='730488'>
+    <variant>Instructor</variant>
+    <variant>instructor</variant>
+  </canonskill>
+  <canonskill end='729757' experience='1' expidrefs='7' idrefs='7' lastused='1999' name='insurance' start='729027'>
+    <variant>insurance</variant>
+  </canonskill>
+  <canonskill name='leadership training'>
+    <variant>leadership training</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='macromedia director' start='731583'>
+    <variant>director</variant>
+  </canonskill>
+  <canonskill end='726835' experience='1' expidrefs='9' idrefs='9' lastused='1991' name='meeting facilitation' start='724644'>
+    <variant>meetings</variant>
+  </canonskill>
+  <canonskill name='microsoft access'>
+    <variant>Access</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='10' idrefs='10' name='microsoft certified professional'>
+    <variant>Microsoft Certified</variant>
+  </canonskill>
+  <canonskill name='microsoft excel'>
+    <variant>Excel</variant>
+  </canonskill>
+  <canonskill name='microsoft outlook'>
+    <variant>Outlook</variant>
+  </canonskill>
+  <canonskill end='731583' experience='1' expidrefs='4' idrefs='4' lastused='2004' name='microsoft powerpoint' start='730488'>
+    <variant>PowerPoint</variant>
+  </canonskill>
+  <canonskill name='microsoft word'>
+    <variant>Microsoft Word</variant>
+  </canonskill>
+  <canonskill end='730488' experience='1' expidrefs='5' idrefs='5' lastused='2001' name='networking' start='730122'>
+    <variant>network</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='personnel' start='731583'>
+    <variant>personnel</variant>
+  </canonskill>
+  <canonskill end='729757' experience='1' expidrefs='7' idrefs='7' lastused='1999' name='policy analysis' start='729027'>
+    <variant>policies</variant>
+  </canonskill>
+  <canonskill end='730122' experience='1' expidrefs='6' idrefs='6' lastused='2000' name='process engineering' start='729757'>
+    <variant>processes</variant>
+  </canonskill>
+  <canonskill end='730488' experience='1' expidrefs='5' idrefs='5' lastused='2001' name='programming' start='730122'>
+    <variant>programming</variant>
+  </canonskill>
+  <canonskill name='raiser &apos;  s edge'>
+    <variant>Raiser's Edge</variant>
+  </canonskill>
+  <canonskill name='system architecture'>
+    <variant>system design</variant>
+  </canonskill>
+  <canonskill name='visio'>
+    <variant>Visio</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

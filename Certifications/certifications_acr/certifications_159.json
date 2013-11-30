@@ -1,0 +1,26 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "RFID", 
+            "Certification Name": "Radio Frequency Identification Technical Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "6830", 
+            "Certifying Organization": "ETA International"
+        }, 
+        {
+            "Acronym": "LAS", 
+            "Certification Name": "Line and Antenna Sweeping", 
+            "Type": "Core", 
+            "Certification ID": "5810", 
+            "Certifying Organization": "ETA International"
+        }, 
+        {
+            "Acronym": "NCE", 
+            "Certification Name": "Junior Telecommunications Engineer", 
+            "Type": "Core", 
+            "Certification ID": "2664", 
+            "Certifying Organization": "National Association of Radio and Telecommunications Engineers, Inc."
+        }
+    ], 
+    "onet": "17207201"
+}

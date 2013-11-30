@@ -1,0 +1,33 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CFE", 
+            "Certification Name": "Certified Fraud Examiner", 
+            "Type": "Core", 
+            "Certification ID": "1245", 
+            "Certifying Organization": "Association of Certified Fraud Examiners"
+        }, 
+        {
+            "Acronym": "ATP", 
+            "Certification Name": "Accredited Tax Preparer", 
+            "Type": "Core", 
+            "Certification ID": "1329", 
+            "Certifying Organization": "Accreditation Council for Accountancy and Taxation"
+        }, 
+        {
+            "Acronym": "CITA", 
+            "Certification Name": "Certified International Tax Analyst", 
+            "Type": "Advanced", 
+            "Certification ID": "7930", 
+            "Certifying Organization": "American Academy of Financial Management"
+        }, 
+        {
+            "Acronym": "ATA", 
+            "Certification Name": "Accredited Tax Advisor", 
+            "Type": "Core", 
+            "Certification ID": "1330", 
+            "Certifying Organization": "Accreditation Council for Accountancy and Taxation"
+        }
+    ], 
+    "onet": "13208100"
+}

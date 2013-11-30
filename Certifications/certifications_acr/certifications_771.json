@@ -1,0 +1,40 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "MSDP", 
+            "Certification Name": "Master Sewing and Design Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "9043", 
+            "Certifying Organization": "Association of Sewing and Design Professionals"
+        }, 
+        {
+            "Acronym": "CGCP", 
+            "Certification Name": "Certified Garment Care Professional", 
+            "Type": "Core", 
+            "Certification ID": "9165", 
+            "Certifying Organization": "Drycleaning & Laundry Institute"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "National Certification for Flexographic Press Operators", 
+            "Type": "Core", 
+            "Certification ID": "5396", 
+            "Certifying Organization": "The National Council for Skill Standards in Graphic Communications"
+        }, 
+        {
+            "Acronym": "CED", 
+            "Certification Name": "Certified Environmental Drycleaner", 
+            "Type": "Core", 
+            "Certification ID": "5512", 
+            "Certifying Organization": "Drycleaning & Laundry Institute"
+        }, 
+        {
+            "Acronym": "CWT", 
+            "Certification Name": "Certified Washroom Technician", 
+            "Type": "Core", 
+            "Certification ID": "2224", 
+            "Certifying Organization": "National Association of Institutional Linen Management"
+        }
+    ], 
+    "onet": "51602100"
+}

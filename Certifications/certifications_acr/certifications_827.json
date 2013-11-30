@@ -1,0 +1,33 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "CIP Level 1 with Marine and Bridge Specialties", 
+            "Type": "Specialty", 
+            "Certification ID": "8107", 
+            "Certifying Organization": "NACE International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "CIP Level 2 with Bridge Specialty", 
+            "Type": "Specialty", 
+            "Certification ID": "8110", 
+            "Certifying Organization": "NACE International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "CIP Level 1 with Bridge Specialty", 
+            "Type": "Specialty", 
+            "Certification ID": "8106", 
+            "Certifying Organization": "NACE International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "CIP Level 1 with Marine Specialty", 
+            "Type": "Specialty", 
+            "Certification ID": "8108", 
+            "Certifying Organization": "NACE International"
+        }
+    ], 
+    "onet": "53601100"
+}

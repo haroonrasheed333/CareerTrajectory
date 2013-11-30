@@ -1,0 +1,19 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CRCST", 
+            "Certification Name": "Certified Registered Central Service Technician", 
+            "Type": "Core", 
+            "Certification ID": "9013", 
+            "Certifying Organization": "International Association for Healthcare Central Service Material Management"
+        }, 
+        {
+            "Acronym": "CMRP", 
+            "Certification Name": "Certified Materials & Resource Professional", 
+            "Type": "Core", 
+            "Certification ID": "3746", 
+            "Certifying Organization": "Association for Healthcare Resource & Materials Management"
+        }
+    ], 
+    "onet": "43508100"
+}

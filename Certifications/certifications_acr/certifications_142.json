@@ -1,0 +1,26 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Specialist - SPSS Statistics Level 1 v2", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9278", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "CBP", 
+            "Certification Name": "Certified Biometrics Professional", 
+            "Type": "Core", 
+            "Certification ID": "6046", 
+            "Certifying Organization": "Institute of Electrical and Electronics Engineers"
+        }, 
+        {
+            "Acronym": "FCAS", 
+            "Certification Name": "Fellow in the Casualty Actuarial Society", 
+            "Type": "Advanced", 
+            "Certification ID": "5368", 
+            "Certifying Organization": "Casualty Actuarial Society"
+        }
+    ], 
+    "onet": "15204100"
+}

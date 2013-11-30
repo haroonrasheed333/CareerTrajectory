@@ -1,0 +1,370 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734594' xml:space='preserve'><contact><name><givenname>George</givenname> <surname>Zuyev</surname></name> 
+<address lat='42.047' lon='87.8908' majorcity='DES PLAINES' state='IL'><street>9481 Terrace Place</street>   <city>Des Plaines</city>, <state abbrev='IL'>IL</state> <postalcode>60016</postalcode></address>   <phone>(847) 687-6845</phone>   <email>zuyevg_521@hotmail.com</email></contact> 
+
+<summary>PROFESSIONAL SUMMARY 
+<summary>Senior level information technology professional with a unique set of a wide range skills combining depth knowledge of hardware, software, operating systems, network and troubleshooting with  experience in system analysis and programming in different business and industries including manufacturing, sciences, medical, accounting and paralegal.
+Quick learner with the ability to work under pressure, adapt to new environments and change, work well with all levels of management and business experts.  
+Strong background in business and data analyses, systems integration, data modeling and database development skills. 
+Successfully developed full life cycle of numerous Web and Client/Server projects including gathering requirements, software programming, user training and support documentation. 
+Specializing in finding creative and unexpressive solutions that allow building better products with fewer resources.</summary></summary> 
+<skills>Hardware: <skills>Maintain, troubleshoot, repair, upgrade and configure varieties of brands and models of servers, desktop, and notebook computers (Dell, HP, Gateway, Compaq, etc), peripherals (modems, laser/inkjet printers, scanners, etc) and mobile devises.
+Software: Extensive background in software configuration/support, data migration and troubleshooting.  Installation and deployment of PCs (Windows 7, Vista, XP, NT, 98, 95, and related applications, Red Hat Linux 8); Server configuration management, support of LAN applications and related hardware (including hubs and switches) under Windows NT/2000/2003/2008, SQL Server 2008, Exchange Server. Proficient in MS Office, SharePoint, Laserfiche, Varieties Anti-virus applications, Crystal Reports, Visual Studio, Visio, etc. 
+Programming Tools:  Visual Basic 6, VB.net, Power Builder, C, C++,C#, Java, JavaScript, VBScript, HTML, DHTML, SQL Server, Oracle, MS Access, VBA, client and server-side scripts.</skills></skills>
+<experience end='present' start='727566'>PROFESSIONAL EXPERIENCE 
+
+Consulting: <job end='present' id='1' pos='1' sic='802101' sic2='80' start='730122'><title>PC Support Network Specialist</title>						<daterange><start days='730122' iso8601='2000-01-01'>2000</start>-<end days='present' iso8601='2012-03-30'>present</end></daterange>
+<employer>General Dentistry Dental Center, Inc</employer>., <address><city>Chicago</city>, <state abbrev='IL'>IL</state></address>
+<description>Environment: Exchange Server 2000, SQL Server, MS Windows XP/ Vista 
+Performed full line of on-site services of servers and PCs including hardware and software installation, upgrade, troubleshooting, and repair, backups, administered a point-to-point 25 user network. Ran diagnostic programs, test for hardware problems, and fix issues.  Conducted virus detection and removal, hard drive cleaning, formatting, partitioning, network setup and repair.  User instruction support.</description></job>
+
+<job end='733775' id='2' pos='2' sic='152103' sic2='15' start='732679'><title>Programmer / Analyst / IT Engineer</title>							<daterange><start days='732679' iso8601='2007-01-01'>2007</start> - <end days='733775' iso8601='2010-01-01'>2010</end></daterange>
+<employer>Heuer Law Offices, S.C</employer>, <address><city>Milwaukee</city>, <state abbrev='WI'>WI</state></address>
+<description>Environment: MS Windows XP/ Vista, Visual Studio.Net, Power Builder, SQL Server 2000/2005 (Data Intelligence, Reporting Services), MS Access, Visio, Crystal Reports.
+Company the only IT specialist was supporting all business areas including network, help desk, programming.</description></job>
+<job id='3'><title>IT Engineer</title> responsibilities include:
+<description>Repair and maintenance of desktop, laptop computers, and servers. Configure computer operating systems under company requirements, variety of software installation.
+Provide secure and stable network, coordinate planning and implementation of upgrades.
+Administrate Windows 2000 Server and Windows 2003 Server. 
+MS Exchange Server administration.
+Develop new security system for company. Configuration Fire Wall Hardware.
+Backups administration.
+Repaired and troubleshoot Network TSP/IP configuration hardware.</description></job>  
+
+<job id='4'><title>Business Programmer Analyst</title> <description>with the primary responsibilities in integration of multiple platforms and previously developed software systems. The key achievements are in design and implementation full lifecycle of the following projects:
+Debtor Program is a proprietary reporting system supporting Financial and Accounting company needs. The reports are executed from within the PowerBuilder code that makes a &quot;call&quot; to the previously built Crystal Report, which then access the SQL Server database and executes the stored procedure/view.
+Played a principal role in requirement gathering, analysis, database administration, design and implementation of Enterprise Data Warehouse using SQL Server. The company main documents' depository being used to produce custom legal papers sets for each client case by merging them with specific client information.
+Provide end-user troubleshooting/support and software training.</description></job> 
+
+<job end='732679' id='5' pos='3' start='730122'><title>Programmer / Analyst</title>									<daterange><start days='730122' iso8601='2000-01-01'>2000</start>-<end days='732679' iso8601='2007-01-01'>2007</end></daterange></job>
+<job end='730122' id='6' pos='4' sic='308601' sic2='30' start='727566'><title>Computer Support Specialist</title>								<daterange><start days='727566' iso8601='1993-01-01'>1993</start>-<end days='730122' iso8601='2000-01-01'>2000</end></daterange>
+<employer>MILCUT INC</employer>., <address><city>Milwaukee</city>, <state abbrev='WI'>WI</state></address>
+<description>Environment: DOS, MS Windows, Visual Basic, SQL Server, MS Access, Excel, Crystal Reports.
+Responsible for design, development, implementation, and testing of several full life cycle projects:
+Raw Materials Inventory management system provides daily/by-weekly detail and summary reports for all management and executive levels.
+Participated in 3rd party website implementation approving the database design. Then supporting the web site by applying changes.
+Offsite backup system is tracking tapes numbers, the dates of the circulation and the data categories for easiest access. 
+Conversion of company billing/scheduling system with changing user interface from Access 2.0 to Access 2002 and back-end from SQL Server 6.0 to SQL Server 2000.
+Ad hoc reporting developed to fit user needs using Crystal Reports.
+Repaired and maintained 50+ desktop and laptop computers.  Coordinated planning and implementation of network upgrades.  Deployed network user profiles. Scripted registry changes. Managed registry security. Used registry-based policy. Configured computer operating systems.  Installed and upgraded computer software and hardware.  Installed various applications and provided technical and customer support for end users including software issues troubleshooting.  Troubleshooting for TSP/IP configuration of network hardware.  
+
+Consulting: Developer										2004</description></job>
+<job id='7' sic='509202' sic2='50'><employer>Freedom Inc</employer>., <address><city>Milwaukee</city>, <state abbrev='WI'>WI</state></address>
+<description>Environment: DOS, MS Windows, Visual Basic 6, SQL Server, MS Access, Front Page, ActiveX, VBScript.
+Implementation of full life cycle database-driven company web site for non-profit agency providing services to elderly and disabled people serving the four county metropolitan Milwaukee area.</description></job></experience>
+
+<education>EDUCATION 
+
+<school id='8'><institution>Polytechnic University</institution> 								<address><city>St. Petersburg</city>, <country iso3='RUS'>Russia</country></address>
+<degree level='18' name='Master of Science'>M.S</degree>. in <major code='1699'>Information Technology</major></school>
+
+<school id='9'><institution>Milwaukee Area Technical College</institution> 							<address><city>Milwaukee</city>, <state abbrev='WI'>WI</state></address>
+<degree level='14' name='Associate in Arts and Sciences'>A.A.S</degree>. in <major code='0402'>Computer Information System</major></school></education> 
+
+<statements>Professional and personal references are available upon request.</statements>  
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='733775' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='.net' start='732679'>
+    <variant>VB.net</variant>
+    <variant>.Net</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='7' idrefs='7' name='activex'>
+    <variant>ActiveX</variant>
+  </canonskill>
+  <canonskill end='730122' experience='1' expidrefs='6' idrefs='6' lastused='2000' name='advertising' start='727566'>
+    <variant>Ad</variant>
+  </canonskill>
+  <canonskill name='anti virus'>
+    <variant>Anti-virus</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='7' idrefs='7' name='assets recovery'>
+    <variant>agency</variant>
+  </canonskill>
+  <canonskill end='730122' experience='1' expidrefs='6' idrefs='6' lastused='2000' name='backup' start='727566'>
+    <variant>backup</variant>
+  </canonskill>
+  <canonskill end='730122' experience='1' expidrefs='6' idrefs='6' lastused='2000' name='billing' start='727566'>
+    <variant>billing</variant>
+  </canonskill>
+  <canonskill name='c'>
+    <variant>C</variant>
+  </canonskill>
+  <canonskill name='c + +'>
+    <variant>C++</variant>
+  </canonskill>
+  <canonskill name='client/server'>
+    <variant>client and server</variant>
+  </canonskill>
+  <canonskill name='compaq'>
+    <variant>Compaq</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,3,6' idrefs='1,3,6' lastused='2012' name='computer hardware' start='727566'>
+    <variant>Hardware</variant>
+    <variant>hardware</variant>
+  </canonskill>
+  <canonskill end='730122' experience='1' expidrefs='6' idrefs='6' lastused='2000' name='consulting' start='727566'>
+    <variant>Consulting</variant>
+  </canonskill>
+  <canonskill end='730122' experience='1' expidrefs='6' idrefs='6' lastused='2000' name='conversion' start='727566'>
+    <variant>Conversion</variant>
+  </canonskill>
+  <canonskill end='733775' experience='1' expidrefs='2,6' idrefs='2,6' lastused='2010' name='crystal reports' start='727566'>
+    <variant>Crystal Report</variant>
+    <variant>Crystal Reports</variant>
+  </canonskill>
+  <canonskill experience='1' name='customer relations'>
+    <variant>client</variant>
+  </canonskill>
+  <canonskill end='730122' experience='1' expidrefs='6' idrefs='6' lastused='2000' name='customer support' start='727566'>
+    <variant>customer support</variant>
+  </canonskill>
+  <canonskill name='data migration'>
+    <variant>data migration</variant>
+  </canonskill>
+  <canonskill experience='1' name='data warehousing'>
+    <variant>Data Warehouse</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='7' idrefs='7' name='database administration'>
+    <variant>database administration</variant>
+    <variant>database</variant>
+  </canonskill>
+  <canonskill end='730122' experience='1' expidrefs='6' idrefs='6' lastused='2000' name='database design' start='727566'>
+    <variant>database design</variant>
+  </canonskill>
+  <canonskill name='dell computers'>
+    <variant>Dell</variant>
+  </canonskill>
+  <canonskill name='dhtml'>
+    <variant>DHTML</variant>
+  </canonskill>
+  <canonskill end='730122' experience='1' expidrefs='6,7' idrefs='6,7' lastused='2000' name='dos' start='727566'>
+    <variant>DOS</variant>
+  </canonskill>
+  <canonskill experience='1' name='financial accounting'>
+    <variant>Financial and Accounting</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='7' idrefs='7' name='frontpage'>
+    <variant>Front Page</variant>
+  </canonskill>
+  <canonskill end='730122' experience='1' expidrefs='6,7' idrefs='6,7' lastused='2000' name='full life cycle' start='727566'>
+    <variant>full life cycle</variant>
+  </canonskill>
+  <canonskill name='gateway'>
+    <variant>Gateway</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='hard drives' start='730122'>
+    <variant>hard drive</variant>
+  </canonskill>
+  <canonskill end='733775' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='help desk support' start='732679'>
+    <variant>help desk</variant>
+  </canonskill>
+  <canonskill name='hewlett packard'>
+    <variant>HP</variant>
+  </canonskill>
+  <canonskill name='html'>
+    <variant>HTML</variant>
+  </canonskill>
+  <canonskill name='hubs'>
+    <variant>hubs</variant>
+  </canonskill>
+  <canonskill name='inkjet printers'>
+    <variant>inkjet printers</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='instruction' start='730122'>
+    <variant>instruction</variant>
+  </canonskill>
+  <canonskill end='730122' experience='1' expidrefs='6' idrefs='6' lastused='2000' name='inventory management' start='727566'>
+    <variant>Inventory management</variant>
+  </canonskill>
+  <canonskill end='730122' experience='1' expidrefs='3,6' idrefs='3,6' lastused='2000' name='ip' start='727566'>
+    <variant>IP</variant>
+  </canonskill>
+  <canonskill name='java'>
+    <variant>Java</variant>
+  </canonskill>
+  <canonskill name='javascript'>
+    <variant>JavaScript</variant>
+  </canonskill>
+  <canonskill name='lan'>
+    <variant>LAN</variant>
+  </canonskill>
+  <canonskill end='730122' experience='1' expidrefs='3,6' idrefs='3,6' lastused='2000' name='laptop computers' start='727566'>
+    <variant>laptop computers</variant>
+    <variant>notebook computers</variant>
+  </canonskill>
+  <canonskill name='laser'>
+    <variant>laser</variant>
+  </canonskill>
+  <canonskill experience='1' name='legal'>
+    <variant>legal</variant>
+  </canonskill>
+  <canonskill end='730122' experience='1' expidrefs='6' idrefs='6' lastused='2000' name='materials management' start='727566'>
+    <variant>Materials</variant>
+  </canonskill>
+  <canonskill end='733775' experience='1' expidrefs='2,6,7' idrefs='2,6,7' lastused='2010' name='microsoft access' start='727566'>
+    <variant>Access</variant>
+    <variant>access</variant>
+    <variant>MS Access</variant>
+  </canonskill>
+  <canonskill name='microsoft c #'>
+    <variant>C#</variant>
+  </canonskill>
+  <canonskill end='730122' experience='1' expidrefs='6' idrefs='6' lastused='2000' name='microsoft excel' start='727566'>
+    <variant>Excel</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,3' idrefs='1,3' lastused='2012' name='microsoft exchange server' start='730122'>
+    <variant>Exchange Server</variant>
+    <variant>MS Exchange Server</variant>
+  </canonskill>
+  <canonskill name='microsoft office'>
+    <variant>MS Office</variant>
+  </canonskill>
+  <canonskill end='730122' experience='1' expidrefs='3,6,7' idrefs='3,6,7' lastused='2000' name='microsoft windows' start='727566'>
+    <variant>Windows 7</variant>
+    <variant>Windows</variant>
+    <variant>MS Windows</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='microsoft windows 2000' start='730122'>
+    <variant>2000</variant>
+  </canonskill>
+  <canonskill name='microsoft windows 98'>
+    <variant>98</variant>
+  </canonskill>
+  <canonskill name='microsoft windows nt'>
+    <variant>NT</variant>
+    <variant>Windows NT</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='microsoft windows xp' start='730122'>
+    <variant>MS Windows XP</variant>
+  </canonskill>
+  <canonskill name='modems'>
+    <variant>modems</variant>
+  </canonskill>
+  <canonskill end='730122' experience='1' expidrefs='6' idrefs='6' lastused='2000' name='ms access 2.0' start='727566'>
+    <variant>Access 2.0</variant>
+  </canonskill>
+  <canonskill experience='1' name='netscape enterprise server'>
+    <variant>Enterprise</variant>
+  </canonskill>
+  <canonskill end='730122' experience='1' expidrefs='6' idrefs='6' lastused='2000' name='network hardware' start='727566'>
+    <variant>network hardware</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='network installation' start='730122'>
+    <variant>network setup</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,3,6' idrefs='1,2,3,6' lastused='2012' name='networking' start='727566'>
+    <variant>Network</variant>
+    <variant>network</variant>
+  </canonskill>
+  <canonskill end='730122' experience='1' expidrefs='3,6' idrefs='3,6' lastused='2000' name='operating systems' start='727566'>
+    <variant>operating systems</variant>
+  </canonskill>
+  <canonskill name='oracle'>
+    <variant>Oracle</variant>
+  </canonskill>
+  <canonskill end='730122' experience='1' expidrefs='6' idrefs='6' lastused='2000' name='oracle developer 2000' start='727566'>
+    <variant>Developer</variant>
+  </canonskill>
+  <canonskill name='peripherals'>
+    <variant>peripherals</variant>
+  </canonskill>
+  <canonskill end='733775' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='powerbuilder' start='732679'>
+    <variant>PowerBuilder</variant>
+    <variant>Power Builder</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='7' idrefs='7' name='profit'>
+    <variant>profit</variant>
+  </canonskill>
+  <canonskill end='733775' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='programming' start='732679'>
+    <variant>Programming</variant>
+    <variant>programming</variant>
+  </canonskill>
+  <canonskill name='red hat linux'>
+    <variant>Red Hat Linux 8</variant>
+  </canonskill>
+  <canonskill end='733775' experience='1' expidrefs='2,6' idrefs='2,6' lastused='2010' name='reports' start='727566'>
+    <variant>reporting</variant>
+    <variant>Reporting</variant>
+  </canonskill>
+  <canonskill experience='1' name='requirements'>
+    <variant>requirement</variant>
+  </canonskill>
+  <canonskill name='scanners'>
+    <variant>scanners</variant>
+  </canonskill>
+  <canonskill end='730122' experience='1' expidrefs='6' idrefs='6' lastused='2000' name='scheduling' start='727566'>
+    <variant>scheduling</variant>
+  </canonskill>
+  <canonskill name='server configuration'>
+    <variant>Server configuration</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,3' idrefs='1,3' lastused='2012' name='servers' start='730122'>
+    <variant>servers</variant>
+  </canonskill>
+  <canonskill name='shell scripting'>
+    <variant>scripts</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,3' idrefs='1,3' lastused='2012' name='software installation' start='730122'>
+    <variant>software installation</variant>
+  </canonskill>
+  <canonskill experience='1' name='software training'>
+    <variant>software training</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,6,7' idrefs='1,6,7' lastused='2012' name='sql' start='727566'>
+    <variant>SQL Server 6.0</variant>
+    <variant>SQL Server</variant>
+  </canonskill>
+  <canonskill end='733775' experience='1' expidrefs='2,6' idrefs='2,6' lastused='2010' name='sql server 2000' start='727566'>
+    <variant>SQL Server 2000</variant>
+  </canonskill>
+  <canonskill name='switches'>
+    <variant>switches</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,3,6' idrefs='1,3,6' lastused='2012' name='troubleshooting' start='727566'>
+    <variant>troubleshoot</variant>
+    <variant>Troubleshooting</variant>
+    <variant>troubleshooting</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,3,6' idrefs='1,3,6' lastused='2012' name='upgrades' start='727566'>
+    <variant>upgrades</variant>
+    <variant>upgrade</variant>
+  </canonskill>
+  <canonskill end='730122' experience='1' expidrefs='6' idrefs='6' lastused='2000' name='user interface design' start='727566'>
+    <variant>user interface</variant>
+  </canonskill>
+  <canonskill name='vba'>
+    <variant>VBA</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='7' idrefs='7' name='vbscript'>
+    <variant>VBScript</variant>
+  </canonskill>
+  <canonskill experience='1' name='view'>
+    <variant>view</variant>
+  </canonskill>
+  <canonskill end='733775' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='visio' start='732679'>
+    <variant>Visio</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='vista' start='730122'>
+    <variant>Vista</variant>
+  </canonskill>
+  <canonskill end='730122' experience='1' expidrefs='6' idrefs='6' lastused='2000' name='visual basic' start='727566'>
+    <variant>Visual Basic</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='7' idrefs='7' name='visual basic 6.0'>
+    <variant>Visual Basic 6</variant>
+  </canonskill>
+  <canonskill end='733775' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='visual studio' start='732679'>
+    <variant>Visual Studio</variant>
+  </canonskill>
+  <canonskill end='730122' experience='1' expidrefs='6,7' idrefs='6,7' lastused='2000' name='web site production' start='727566'>
+    <variant>web site</variant>
+    <variant>website</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='3' idrefs='3' name='windows 2000 server'>
+    <variant>Windows 2000 Server</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

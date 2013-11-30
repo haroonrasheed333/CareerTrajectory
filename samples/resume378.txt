@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734593' xml:space='preserve'><contact><name><givenname>Hans</givenname> <givenname>Benedict</givenname> <givenname>B</givenname>. <surname>Hafalla</surname></name>
+<address><street>Block 708 #12-98 Tampines St. 71</street>,
+<city>Singapore</city>, <postalcode>520708</postalcode></address>
+<phone>+65 9369 7645</phone>
+<email>hanshafalla@gmail.com</email>
+<website>http://hanshafalla.wordpress.com</website>/</contact>
+B-2 Visitor Visa Holder - 10 Years
+
+
+<education>Education Background	
+
+
+<school id='4'><institution>Asia Pacific College</institution>
+<address><city>Makati City</city>, <country iso3='PHL'>Philippines</country></address>
+<degree level='16' name='Bachelor of Science'>Bachelor of Science</degree> in <major code='0402'>Computer Science</major> - <courses>Systems Software Engineering with Web Technologies</courses></school></education>
+
+<experience end='present' start='731949'>Work Experience 	
+
+
+<job end='present' id='1' pos='1' start='733410'><employer>Impact Lifestyle Inc.Pte Ltd</employer>
+<title>Graphic Designer</title> - <address><city>Woodlands</city>, <country iso3='SGP'>Singapore</country></address>
+<daterange><start days='733410' iso8601='2009-01-01'>2009</start>-<end days='present' iso8601='2012-03-29'>Present</end></daterange>
+
+<description>Responsible for all marketing design collateral for its retails showrooms such as newspaper and magazine publications, promotional banners, posters, flyers, catalogs and website design and maintenance.</description></job>
+
+<job end='733410' id='2' pos='2' start='733044'><employer>Doughnut People Inc</employer>.
+<title>Graphic Artist</title> - <address><city>Makati</city>, <country iso3='PHL'>Philippines</country></address>
+<daterange><start days='733044' iso8601='2008-01-01'>2008</start>-<end days='733410' iso8601='2009-01-01'>2009</end></daterange>
+
+<description>Created marketing materials for its donut chains in the Philippines. The materials are in-store menuboards, posters, banners, flyers, van decals and stickers and packaging.</description></job> 
+
+<job end='733044' id='3' pos='3' sic='7911' sic2='79' start='731949'><employer>Orange Dance Studio</employer>
+<title>Technical Head</title> - <address><city>Pasig</city>, <country iso3='PHL'>Philippines</country></address>
+<daterange><start days='731949' iso8601='2005-01-01'>2005</start>-<end days='733044' iso8601='2008-01-01'>2008</end></daterange>
+
+<description>Created performance materials such as Audio Visual Presentation, banners and performance posters and DVD design covers.</description></job></experience>
+<skills>Software And Applications 	
+
+
+<skills>Adobe Photoshop
+Adobe Illustrator 
+Adobe Dreamweaver
+Adobe Flash
+Final Cut Pro X
+Sony Sound Forge
+Autodesk Maya 3D
+Mac OS X Lion
+Windows/PC</skills></skills>
+</resume>
+
+<skillrollup version='1'>
+  <canonskill name='adobe'>
+    <variant>Adobe</variant>
+  </canonskill>
+  <canonskill name='adobe photoshop'>
+    <variant>Adobe Photoshop</variant>
+  </canonskill>
+  <canonskill end='733044' experience='1' expidrefs='3' idrefs='3' lastused='2008' name='audio' start='731949'>
+    <variant>Audio</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,3' idrefs='1,2,3' lastused='2012' name='banners' start='731949'>
+    <variant>banners</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='catalogs' start='733410'>
+    <variant>catalogs</variant>
+  </canonskill>
+  <canonskill name='dreamweaver'>
+    <variant>Dreamweaver</variant>
+  </canonskill>
+  <canonskill end='733044' experience='1' expidrefs='3' idrefs='3' lastused='2008' name='dvd' start='731949'>
+    <variant>DVD</variant>
+  </canonskill>
+  <canonskill name='final cut pro'>
+    <variant>Final Cut Pro</variant>
+  </canonskill>
+  <canonskill name='flash'>
+    <variant>Flash</variant>
+  </canonskill>
+  <canonskill name='illustrator'>
+    <variant>Adobe Illustrator</variant>
+  </canonskill>
+  <canonskill name='macintosh os'>
+    <variant>Mac OS</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='marketing' start='733410'>
+    <variant>marketing</variant>
+  </canonskill>
+  <canonskill end='733410' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='marketing materials' start='733044'>
+    <variant>marketing materials</variant>
+  </canonskill>
+  <canonskill end='733410' experience='1' expidrefs='2,3' idrefs='2,3' lastused='2009' name='materials management' start='731949'>
+    <variant>materials</variant>
+  </canonskill>
+  <canonskill name='maya'>
+    <variant>Maya 3</variant>
+  </canonskill>
+  <canonskill name='microsoft windows'>
+    <variant>Windows/PC</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='newspaper' start='733410'>
+    <variant>newspaper</variant>
+  </canonskill>
+  <canonskill end='733410' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='packaging' start='733044'>
+    <variant>packaging</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,3' idrefs='1,2,3' lastused='2012' name='posters' start='731949'>
+    <variant>posters</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='publicity' start='733410'>
+    <variant>publications</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='4' idrefs='4' name='software engineering'>
+    <variant>Software Engineering</variant>
+  </canonskill>
+  <canonskill name='sound forge'>
+    <variant>Sound Forge</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='web site production' start='733410'>
+    <variant>website design</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

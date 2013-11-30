@@ -1,0 +1,142 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734596' xml:space='preserve'>RESUME
+<contact><name><givenname>AUNDRE</givenname> <givenname>V</givenname>. <surname>CUFFY</surname></name>
+<address lat='38.9824' lon='77.0036' majorcity='TAKOMA PARK' state='MD'><street>7600 Flower Avenue</street>
+<city>Takoma Park</city>, <state abbrev='MD'>Maryland</state> <postalcode>20912</postalcode></address>
+<email>Aundre.Cuffy@hotmail.com</email>
+<phone>(301) 273-8011</phone></contact>
+
+
+<summary>Objective:
+<objective>As an accountant, I am seeking a position in the area of accounting to increase my knowledge in the field, and where my work ethics will add value to your organization.</objective> 
+
+Summary of Qualification:
+Working Knowledge of Accounting Software,  Datatel, Microsoft Word, Microsoft Excel, and Microsoft Works.</summary>  
+
+<education>Education:		<school id='5'><institution>Washington Adventist University</institution>, <address><state abbrev='MD'>Maryland</state>, <city>Takoma Park</city></address>
+<daterange><start days='733257' iso8601='2008-08-01'>8/2008</start>-<end days='present' iso8601='2012-04-01'>Present</end></daterange>	Degree:  <degree level='16' name='Bachelor of Arts'>BA</degree>- <major code='4001'>Accounting</major>. Expected graduation date <completiondate>May 2012</completiondate>.
+
+GPA: <honors>Above 3.0. Member of Sigma Beta Delta Honor Society- The highest scholastic honor achieved in the Department of Business.</honors></school></education>                                                                                                            
+                    
+
+<experience end='present' start='733013'>Work Experience:  
+<job end='present' id='1' pos='1' start='733530'><employer>Washington Adventist University</employer> - <daterange><start days='733530' iso8601='2009-05-01'>5/1/09</start> - <end days='present' iso8601='2012-04-01'>Present</end></daterange>
+<address lat='38.9824' lon='77.0036' majorcity='TAKOMA PARK' state='MD'><city>Takoma Park</city>, <state abbrev='MD'>Maryland</state>, <postalcode>20912</postalcode></address>
+Position: <title>Accountant Assistant</title> - <description>Responsible for working alongside staff accountants. Encompassing the following duties:
+Collections - Calling and emailing clients with outstanding balances.
+Managing Purchase Orders
+Accounts Receivable - Recording student payments to accounts, making deposits. 
+Preparing Bank Reconciliations.
+Preparing and posting month end Journal Entries 
+Assisting with month end financials
+Posting to the General Ledger
+Assisting with Payroll task
+Assisting in miscellaneous administrative support, other duties and special projects.</description></job> 
+
+<job end='734260' id='2' pos='2' start='733897'><employer>Washington Adventist University</employer>- <daterange><start days='733897' iso8601='2010-05-03'>5/3/10</start>-<end days='734260' iso8601='2011-05-01'>5/1/11</end></daterange>
+<address lat='38.9824' lon='77.0036' majorcity='TAKOMA PARK' state='MD'><city>Takoma Park</city>, <state abbrev='MD'>Maryland</state>, <postalcode>20912</postalcode></address>
+Position: <title>Student Association Financial Vice President</title>- <description>Responsible for budgeting, and managing Student Association funds totaling $110,000.00. Encompassing the following duties: 
+Bank Reconciliations.
+Accounts Payable.
+Budget Transfers.
+And other miscellaneous task.</description></job>
+
+
+
+
+<job end='733551' id='3' pos='3' start='733410'><employer>Taste of Takoma</employer> - <daterange><start days='733410' iso8601='2009-01-01'>1/1/09</start>-<end days='733551' iso8601='2009-05-22'>5/22/09</end></daterange> (<jobtype>temporary</jobtype> position)
+<address lat='38.9824' lon='77.0036' majorcity='TAKOMA PARK' state='MD'><city>Takoma Park</city>, <state abbrev='MD'>Maryland</state>, <postalcode>20912</postalcode></address>
+Position: <title>Financial Coordinator</title> for Event- <description>Responsible for the following financial duties.
+Accounts Payable.
+Accounts Receivable.
+Budgeting of funds for event.
+Preparing Receipts &amp; Invoices.</description></job>
+
+<job end='733226' id='4' pos='4' start='733013'><employer>Law Offices of Rohn and Cameron</employer>-<daterange><start days='733013' iso8601='2007-12-01'>12/07</start>-<end days='733226' iso8601='2008-07-01'>07/08</end></daterange>
+<employer>Christiansted, St.Croix U.S Virgin Islands</employer> 00820
+Position: <title>Accountants Assistant</title> - <description>Responsible for all filing in the accounting area, and accounting activities encompassing the following duties:
+Bank Reconciling.
+Filing all clients' information.
+Calling different businesses for receipt of accurate or estimated bills.
+Posting deposits and cashing petty cash checks to replenish office register.
+Preparing Accounts Payables.</description></job></experience>
+                             
+
+<statements>Extra Curricular Activities: <activities>Member of Honor Society Sigma Beta Delta, Volunteer worker for the U.S Virgin Islands Animal Shelter, Member of Students in Free Enterprise (SIFE), Member of the Washington Adventist University Student Association.</activities></statements>
+
+<references>References:				**Upon request</references>**
+
+
+
+
+
+
+
+
+
+
+1
+
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='733226' experience='1' expidrefs='4' idrefs='4' lastused='2008' name='accountancy' start='733013'>
+    <variant>accounting</variant>
+  </canonskill>
+  <canonskill end='734260' experience='1' expidrefs='2,3,4' idrefs='2,3,4' lastused='2011' name='accounts payable' start='733013'>
+    <variant>Accounts Payables</variant>
+    <variant>Accounts Payable</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,3' idrefs='1,3' lastused='2012' name='accounts receivable' start='733410'>
+    <variant>Accounts Receivable</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='administrative support' start='733530'>
+    <variant>administrative support</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='bank reconciliation' start='733530'>
+    <variant>Bank Reconciliations</variant>
+  </canonskill>
+  <canonskill end='734260' experience='1' expidrefs='2,3' idrefs='2,3' lastused='2011' name='budgeting' start='733410'>
+    <variant>Budgeting</variant>
+    <variant>budgeting</variant>
+    <variant>Budget</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,4' idrefs='1,4' lastused='2012' name='customer relations' start='733013'>
+    <variant>clients</variant>
+  </canonskill>
+  <canonskill end='733226' experience='1' expidrefs='4' idrefs='4' lastused='2008' name='file management' start='733013'>
+    <variant>Filing</variant>
+    <variant>filing</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='finance' start='733530'>
+    <variant>financials</variant>
+  </canonskill>
+  <canonskill end='733551' experience='1' expidrefs='3' idrefs='3' lastused='2009' name='financial' start='733410'>
+    <variant>financial</variant>
+  </canonskill>
+  <canonskill end='734260' experience='1' expidrefs='2,3' idrefs='2,3' lastused='2011' name='funds' start='733410'>
+    <variant>funds</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='general ledger' start='733530'>
+    <variant>General Ledger</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='management' start='733530'>
+    <variant>Managing</variant>
+    <variant>managing</variant>
+  </canonskill>
+  <canonskill end='733226' experience='1' expidrefs='4' idrefs='4' lastused='2008' name='microsoft office' start='733013'>
+    <variant>office</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='payroll processing' start='733530'>
+    <variant>Payroll</variant>
+  </canonskill>
+  <canonskill end='733226' experience='1' expidrefs='4' idrefs='4' lastused='2008' name='reconciling' start='733013'>
+    <variant>Reconciling</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='recording' start='733530'>
+    <variant>Recording</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

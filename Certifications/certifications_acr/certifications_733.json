@@ -1,0 +1,47 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CML", 
+            "Certification Name": "Certified Master Locksmith", 
+            "Type": "Advanced", 
+            "Certification ID": "1482", 
+            "Certifying Organization": "Associated Locksmiths of America"
+        }, 
+        {
+            "Acronym": "CPS", 
+            "Certification Name": "Certified Professional Safe Technician", 
+            "Type": "Core", 
+            "Certification ID": "8553", 
+            "Certifying Organization": "Associated Locksmiths of America"
+        }, 
+        {
+            "Acronym": "CPL", 
+            "Certification Name": "Certified Professional Locksmith", 
+            "Type": "Advanced", 
+            "Certification ID": "1481", 
+            "Certifying Organization": "Associated Locksmiths of America"
+        }, 
+        {
+            "Acronym": "CMST", 
+            "Certification Name": "Certified Master Safe Technician", 
+            "Type": "Advanced", 
+            "Certification ID": "8554", 
+            "Certifying Organization": "Associated Locksmiths of America"
+        }, 
+        {
+            "Acronym": "CAL", 
+            "Certification Name": "Certified Automotive Locksmith", 
+            "Type": "Specialty", 
+            "Certification ID": "8552", 
+            "Certifying Organization": "Associated Locksmiths of America"
+        }, 
+        {
+            "Acronym": "CRL", 
+            "Certification Name": "Certified Registered Locksmith", 
+            "Type": "Core", 
+            "Certification ID": "1480", 
+            "Certifying Organization": "Associated Locksmiths of America"
+        }
+    ], 
+    "onet": "49909400"
+}

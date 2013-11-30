@@ -1,0 +1,26 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Landscape Industry Certified Horticultural Technician", 
+            "Type": "Core", 
+            "Certification ID": "0092", 
+            "Certifying Organization": "Professional Landcare Network"
+        }, 
+        {
+            "Acronym": "CAIS", 
+            "Certification Name": "Certified Agricultural Irrigation Specialist", 
+            "Type": "Core", 
+            "Certification ID": "1457", 
+            "Certifying Organization": "Irrigation Association"
+        }, 
+        {
+            "Acronym": "CIC", 
+            "Certification Name": "Certified Irrigation Contractor", 
+            "Type": "Core", 
+            "Certification ID": "1460", 
+            "Certifying Organization": "Irrigation Association"
+        }
+    ], 
+    "onet": "45209202"
+}

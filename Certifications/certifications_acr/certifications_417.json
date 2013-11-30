@@ -1,0 +1,40 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification of Clinical Hypnosis", 
+            "Type": "Advanced", 
+            "Certification ID": "9301", 
+            "Certifying Organization": "American Society of Clinical Hypnosis"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Professional Sign Language Certification", 
+            "Type": "Core", 
+            "Certification ID": "5806", 
+            "Certifying Organization": "American Sign Language Teachers Association"
+        }, 
+        {
+            "Acronym": "CCC-SLP", 
+            "Certification Name": "Certificate of Clinical Competence in Speech-Language Pathology", 
+            "Type": "Core", 
+            "Certification ID": "0287", 
+            "Certifying Organization": "American Speech-Language-Hearing Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Approved Consultant in Clinical Hypnosis", 
+            "Type": "Advanced", 
+            "Certification ID": "9302", 
+            "Certifying Organization": "American Society of Clinical Hypnosis"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Qualified Sign Language Certification", 
+            "Type": "Core", 
+            "Certification ID": "5805", 
+            "Certifying Organization": "American Sign Language Teachers Association"
+        }
+    ], 
+    "onet": "29112700"
+}

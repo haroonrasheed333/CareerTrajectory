@@ -1,0 +1,296 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734580' xml:space='preserve'>                                        <contact><name><givenname>Parashuram</givenname> <surname>Kulkarni</surname></name>
+                                   <address lat='37.3477' lon='121.985' majorcity='SANTA CLARA' state='CA'><street>3480 Granada Ave, 257</street>, <city>Santa Clara</city>, <state abbrev='CA'>CA</state> <postalcode>95051</postalcode></address>
+                                Phone: <phone>408-838-4400</phone> * E-Mail: <email>parashuram@gmail.com</email></contact>
+
+
+<summary>Summary
+
+<summary>Extensive experience in building, leading Research and Engineering teams, establishing R&amp;D processes, managing
+overseas development, Inventing and Architecting complex web scale Search and Advertising products.
+Over 5 years of management experience and 10 years of experience in Search &amp; Advertising technology. Track record of
+inventing, designing and building large scale, profitable Search and Advertising products. Track record of delivering
+substantial business gains for large Internet companies. Hands on experience with all aspects of online businesses and
+Search engines.</summary></summary>
+
+<experience end='present' start='730488'>Experience
+
+<job end='present' id='1' pos='1' sic='737505' sic2='73' start='733683'><employer>eBay, Inc</employer>. ­ <address><city>San Jose</city>, <state abbrev='CA'>CA</state></address>                                                                            (<daterange><start days='733683' iso8601='2009-10-01'>Oct 2009</start> - <end days='present' iso8601='2012-03-16'>till date</end></daterange>)
+  <title>Director</title></job>, Search Ranking &amp; Quality                                                                 (Q1 2011 onwards)
+  <job end='734140' id='2' pos='2' start='733683'><title>Sr. Manager</title>, <employer>Search Ranking &amp; Relevance</employer>                                                            (<daterange><start days='733683' iso8601='2009-10-01'>Oct 2009</start> ­ Q1 <end days='734140' iso8601='2011-01-01'>2011</end></daterange>)
+
+       <description>Heading the Search Science Ranking and Relevance group responsible for eBay's Search Quality, managing &amp;
+       driving Revenue improvements from Search (70% of eBay's Marketplace revenue).
+
+       Took over managing the group from its inception, built a talented team of 25 Engineers and Researchers.
+       Advocated and worked on establishing first ever Hadoop experimentation infrastructure for Research in eBay.
+
+       Lead the technical roadmap/improvements in eBay's Search Quality which has resulted in a YoY revenue
+       improvement of 4.5% in 2010(~ $200 million) and an improvement of 2.4% (~ $120 million) within the first
+       couple of months in 2011, resulting in hundreds of millions of dollars in additional yearly revenue for eBay.
+       Delivered a total of 7% GMV (Gross Merchandise Value) and 5% Purchases improvement from the time of
+       team's inception, more than all the other teams in Marketplaces put together. This came from over 15 iterative
+       improvements and over 100 tests.
+       Play an important role in laying out Search Strategy at eBay, establishing technical direction for Search Quality
+       improvements and managing/meeting business goals.
+       Work with Analytics team for AB Test planning, analyzing business impact and making launch decisions.
+       Collaborate with various other stake holders(Business, PM, Customer Service, International Markets, Finance etc)
+       in laying out technical strategy, marketplace management, launch decisions, forecasts etc.
+       Lead the revamp of eBay's Search Ranking infrastructure with state of the art Machine learning algorithms to
+       enable fast iteration and improvement. Advocated many Search infrastructure improvements in the backend,
+       which enabled fast iteration and flexibility.
+       Many patents and publications resulting from the work done in the team.
+       Research leading to the implementation of duplicate policy on eBay and a resulting 2% GMV improvement.</description></job>
+
+
+
+<job end='733683' id='3' pos='3' start='733257'><employer>Conductor, Inc</employer>. - <address><city>New York City</city>, <state abbrev='NY'>NY</state></address>                                                               (<daterange><start days='733257' iso8601='2008-08-01'>Aug 2008</start> ­ <end days='733683' iso8601='2009-10-01'>Oct 2009</end></daterange>)
+  <title>Director</title>, <description>Research &amp; Development
+
+  Conductor's Search Analytics platform is centered on providing a clear insight into the science of search, enterprise
+  level tracking, reporting, ROI analysis, recommendations and predictions aiding natural search efforts.
+       Head of the R&amp;D group at Conductor, Inc. Lead efforts to build a talented team of Researchers and Engineers,
+       managing and architecting next generation state of the art algorithms for Conductor's search analytics, scoring,
+       recommendation and predictions platform.
+       Played an important part in designing and envisioning Conductor's core technology and roadmap. Lead the
+       product technology into a successful launch, boasting clients like Apple, Bestbuy etc generating revenue with
+       70% profit margin, generating in excess of $25 million in revenue during 2009.
+       Established process for protecting conductor's IP and managing the company's patent portfolio. Established
+       processes in research and engineering. Architected several of Conductor's patent pending algorithms and
+       infrastructure. Filed 4 patents.
+       Helped develop QA strategy and oversee QA processes, strategic planning, team development and mentoring.
+       Collaborated with product management in designing revenue model, product design and roadmap.</description></job>
+
+
+
+<job end='733044' id='4' pos='4' sic='737415' sic2='73' start='732314'><employer>Yahoo Inc</employer> - <address><city>Santa Clara</city>, <state abbrev='CA'>CA</state></address>( <daterange><start days='732314' iso8601='2006-01-01'>2006</start> ­ <end days='733044' iso8601='2008-01-01'>2008</end></daterange>)
+  <title>Technical Lead/Manager</title> (<description>Yahoo Web Search ­ Classification &amp; Relevance)
+  Yahoo's Web Search (http://search.yahoo.com ) is the second largest web search engine in the world responsible for
+  over a billion dollars in annual revenue. The classification and relevance team forms the core of Yahoo web Search
+  engine and is responsible for algorithmic relevance, spam detection and content classification.
+       Responsibilities included leading and actively participating in various projects involving architecting, research,
+       design, and development of various components of the web search engine relating to content classification, spam
+       detection and search relevance.
+       Lead a small team of researchers and engineers. Contributed to Yahoo Web search strategy and roadmap. The
+       teams work resulted in substantial YoY DCG (relevance) gain in terms of search relevance improvements.</description></job>
+
+
+
+<job end='732648' id='5' inferred-to='5,7' pos='6' start='731704'><employer>Yahoo Research and Development Centre</employer> ­ <address><city>Bangalore</city>, <country iso3='IND'>India</country></address>                                        (<daterange><start days='731704' iso8601='2004-05-01'>May 2004</start> ­ <end days='732648' iso8601='2006-12-01'>Dec 2006</end></daterange></job>)
+  <job end='732648' id='6' inferred-from='6' pos='5' start='732314'><title>Technical Lead &amp; Architect</title>, Yahoo Vertical Search                                              (<daterange><start days='732314' iso8601='2006-01-01'>Jan 2006</start> ­ <end days='732648' iso8601='2006-12-01'>Dec 2006</end></daterange></job>)
+  <job end='732314' id='7' inferred-from='6' pos='7' start='731704'><title>Sr. Research Engineer III</title>, Yahoo Vertical Search                                               (<daterange><start days='731704' iso8601='2004-05-01'>May 2004</start> ­ <end days='732314' iso8601='2006-01-01'>Jan 2006</end></daterange>)
+  <description>The Yahoo R&amp;D center's core activity includes developing innovative technologies and global product platforms for
+  Yahoo! Inc. and focuses on Product Engineering, Technology Research and Market Innovation. The Yahoo Vertical
+  Search group is focused on developing search technologies and products to provide search capabilities to many of
+  Yahoo's vertical products like Hotjobs, Shopping, Autos, and so on.
+       Lead team in research, design and implementation of large scale distributed Information Retrieval, Extraction,
+       Content Matching and Machine Learning based Components for Yahoo Vertical search components and
+       products.
+       Architected many of Yahoo Vertical search components which currently provide search capabilities and
+       intelligence around verticals such as Hotjobs, Shopping etc.
+       Managed Product development, interacting with Project managers, taking the Product through
+       Hardware/Architecture/Security review process. Developed QA and deployment strategy and established
+       development, quality assurance and deployment processes.
+       Envisioned, Architected and lead the development of recommendation engine for Yahoo job search engine, which
+       was successfully deployed for automatic job/resume recommendations which generates hundreds of thousands
+       of dollars of revenue every year for Yahoo Hotjobs.
+       Received the coveted &quot;Yahoo Ratna Award&quot; for performance and contribution during the year.</description></job>
+
+
+
+<job end='731704' id='8' pos='8' start='731522'><employer>SAP Labs India</employer>, <address><city>Bangalore</city></address>                                                                       (<daterange><start days='731522' iso8601='2003-11-01'>Nov 2003</start> ­ <end days='731704' iso8601='2004-05-01'>May 2004</end></daterange>)
+  <title>Research Intern</title> (<description>SAP Enterprise Search team)
+  SAP's Enterprise search engine (TREX) is a full text and attribute search engine in the SAP NetWeaver integrated
+  technology platform produced by SAP AG. The TREX engine is a standalone component that can be used primarily as
+  an integral part of such SAP products as Enterprise Portal, Knowledge Warehouse, and Business Intelligence.
+       Worked on Research and development of information retrieval and extraction components for SAP's enterprise
+       search engine. One of the first engineers in TREX Bangalore group.</description></job>
+
+
+
+
+                                                           
+<job end='731430' id='9' pos='9' start='731096'><employer>AIV Systems Pvt Ltd</employer>., <address><city>Bangalore</city></address>                                                                 (<daterange><start days='731096' iso8601='2002-09-01'>Sep 2002</start> ­ <end days='731430' iso8601='2003-08-01'>Aug 2003</end></daterange>)
+   <title>Consultant - Developer</title></job>
+   Worked <job id='10'><jobtype>part-time</jobtype> at <employer>AIV Systems Pvt Ltd</employer> as a <title>consultant</title> <description>in designing and developing security system software.</description></job>
+
+
+
+<job end='730853' id='11' pos='10' start='730488'><employer>APT Plexus Systems</employer>, <address><city>Bangalore</city></address>                                                                       (<daterange><start days='730488' iso8601='2001-01-01'>2001</start> ­ <end days='730853' iso8601='2002-01-01'>2002</end></daterange>)
+  <title>Jr. Developer/Engineer</title> (Embedded system Software division)
+  <description>Worked as a junior developer in embedded system software design and development.</description></job></experience>
+
+
+<education>Education
+
+   ·   Proficiency course in Artificial Intelligence from <school id='12'><institution>Indian Institute of Science</institution>, <major>Bangalore</major>, <completiondate days='731949' iso8601='2005-01-01'>2005</completiondate>.
+   ·   <degree level='18' name='Master of Science'>MS</degree> in <major code='0402'>Computer Science</major> from <institution>Indian Institute of Information Technology</institution>, <description>Bangalore, 2002-2004 specializing
+       in Machine learning and Information Retrieval.</description>
+   ·   <degree level='16' name='Bachelor of Engineering'>Bachelor of Engineering</degree> from <institution>Bangalore University</institution>, <daterange><start days='729027' iso8601='1997-01-01'>1997</start>-<end days='730488' iso8601='2001-01-01'>2001</end></daterange></school>.</education>
+
+
+<professional>Patents &amp; Publications
+
+   <publications>1. Kulkarni, Parashuram. (2005). &quot;Record Boundary Identification and Extraction through Pattern Mining&quot;. Yahoo!
+      Inc. US Patent 7,606,816, 2009. Issued 2009.
+   2. Kulkarni, Parashuram. (2005). &quot;Unsupervised Learning Tool for Feature Correction&quot;. Yahoo! Inc. US Patent
+      7,483,903, 2009. Issued 2009.
+   3. Kulkarni, Parashuram. (2005). &quot;Techniques for Unsupervised Web Content Discovery and Automated Query
+      Generation for Crawling the Hidden Web&quot;. Yahoo! Inc.US Patent App. 11/224,887, 2005.
+   4. Kulkarni, Parashuram et al. (2005). &quot;Automated Web Host Dynamicity Detection, Dead Link Detection and
+      Prerequisite Page Discovery&quot;. Yahoo! Inc. US Patent 7,610,267, 2009. Issued 2009.
+   5. Kulkarni, Parashuram; &quot;REBIEX: Record Boundary Identification and Extraction through Pattern Mining&quot;,
+      Proceedings of the 6th WISE Conference, 2005.
+   6. Kulkarni, Parashuram. (2009). &quot;System and method for generating Search Ranking scores&quot;. Conductor, Inc. US
+      Patent App. 12/367,644, 2009.
+   7. Kulkarni, Parashuram. (2009). &quot;System and method for generating an approximation of a Search Engine Ranking
+      algorithm&quot;. Conductor, Inc. US Patent App. 12/367,646, 2009.
+   8. Kulkarni, Parashuram. (2009). &quot;System and method to For Generating Training Data For Function Approximation
+      Of An Unknown Process Such As A Search Engine Ranking Algorithm&quot;. Conductor, Inc. US Patent App.
+      12/367,656, 2009.
+   9. Kulkarni, Parashuram et al. (2011). &quot;Search Result Ranking using Machine Learning&quot;. eBay, Inc. US Patent App.
+      12/387,394, 2011.
+   10. Zhong, Kathy; Kulkarni, Parashuram et al. (2011). &quot;Computation of User Reputation using Transaction Graphs&quot;.
+       eBay, Inc. US Patent App. 13/015,362, 2011.</publications></professional>
+
+
+<statements><personal>Recommendations                                                                    http://www.linkedin.com/in/parashuram</personal></statements>
+
+
+
+
+                                                                                                                        
+
+
+
+                                                              
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='733683' experience='1' expidrefs='3' idrefs='3' lastused='2009' name='apple' start='733257'>
+    <variant>Apple</variant>
+  </canonskill>
+  <canonskill end='734140' experience='1' expidrefs='2,3' idrefs='2,3' lastused='2011' name='art' start='733257'>
+    <variant>art</variant>
+  </canonskill>
+  <canonskill end='731704' experience='1' expidrefs='8' idrefs='8' lastused='2004' name='business intelligence' start='731522'>
+    <variant>Business Intelligence</variant>
+  </canonskill>
+  <canonskill end='733044' experience='1' expidrefs='4' idrefs='4' lastused='2008' name='com' start='732314'>
+    <variant>com</variant>
+  </canonskill>
+  <canonskill experience='1' name='computer hardware'>
+    <variant>Hardware</variant>
+  </canonskill>
+  <canonskill end='733044' experience='1' expidrefs='4' idrefs='4' lastused='2008' name='content management' start='732314'>
+    <variant>content</variant>
+    <variant>Content</variant>
+  </canonskill>
+  <canonskill end='733683' experience='1' expidrefs='3' idrefs='3' lastused='2009' name='customer relations' start='733257'>
+    <variant>clients</variant>
+  </canonskill>
+  <canonskill end='734140' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='customer service' start='733683'>
+    <variant>Customer Service</variant>
+  </canonskill>
+  <canonskill end='733683' experience='1' expidrefs='3,10' idrefs='3,10' lastused='2009' name='design' start='733257'>
+    <variant>designing</variant>
+    <variant>product design</variant>
+  </canonskill>
+  <canonskill experience='1' name='development'>
+    <variant>Product development</variant>
+  </canonskill>
+  <canonskill end='734140' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='directing' start='733683'>
+    <variant>direction</variant>
+  </canonskill>
+  <canonskill end='734140' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='driving' start='733683'>
+    <variant>driving</variant>
+  </canonskill>
+  <canonskill end='734140' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='fast' start='733683'>
+    <variant>fast</variant>
+  </canonskill>
+  <canonskill end='734140' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='finance' start='733683'>
+    <variant>Finance</variant>
+  </canonskill>
+  <canonskill end='733044' experience='1' expidrefs='4' idrefs='4' lastused='2008' name='forms' start='732314'>
+    <variant>forms</variant>
+  </canonskill>
+  <canonskill end='733044' experience='1' expidrefs='4' idrefs='4' lastused='2008' name='http' start='732314'>
+    <variant>http</variant>
+  </canonskill>
+  <canonskill experience='1' name='innovative'>
+    <variant>Innovation</variant>
+  </canonskill>
+  <canonskill end='733683' experience='1' expidrefs='3' idrefs='3' lastused='2009' name='ip' start='733257'>
+    <variant>IP</variant>
+  </canonskill>
+  <canonskill end='733683' experience='1' expidrefs='3' idrefs='3' lastused='2009' name='leadership' start='733257'>
+    <variant>team development</variant>
+  </canonskill>
+  <canonskill end='734140' experience='1' expidrefs='2,3' idrefs='2,3' lastused='2011' name='management' start='733257'>
+    <variant>managing</variant>
+  </canonskill>
+  <canonskill experience='1' name='marketing'>
+    <variant>Market</variant>
+  </canonskill>
+  <canonskill end='733683' experience='1' expidrefs='3' idrefs='3' lastused='2009' name='mentoring' start='733257'>
+    <variant>mentoring</variant>
+  </canonskill>
+  <canonskill end='733683' experience='1' expidrefs='3' idrefs='3' lastused='2009' name='natural' start='733257'>
+    <variant>natural</variant>
+  </canonskill>
+  <canonskill end='733683' experience='1' expidrefs='3,8' idrefs='3,8' lastused='2009' name='netscape enterprise server' start='731522'>
+    <variant>Enterprise</variant>
+    <variant>enterprise</variant>
+  </canonskill>
+  <canonskill end='733683' experience='1' expidrefs='3' idrefs='3' lastused='2009' name='next' start='733257'>
+    <variant>next</variant>
+  </canonskill>
+  <canonskill end='730853' experience='1' expidrefs='11' idrefs='11' lastused='2002' name='oracle developer 2000' start='730488'>
+    <variant>developer</variant>
+  </canonskill>
+  <canonskill end='733683' experience='1' expidrefs='3' idrefs='3' lastused='2009' name='process engineering' start='733257'>
+    <variant>processes</variant>
+  </canonskill>
+  <canonskill end='733683' experience='1' expidrefs='3' idrefs='3' lastused='2009' name='product management' start='733257'>
+    <variant>product management</variant>
+  </canonskill>
+  <canonskill end='733683' experience='1' expidrefs='3' idrefs='3' lastused='2009' name='profit' start='733257'>
+    <variant>profit</variant>
+  </canonskill>
+  <canonskill end='734140' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='publicity' start='733683'>
+    <variant>publications</variant>
+  </canonskill>
+  <canonskill end='734140' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='quality' start='733683'>
+    <variant>Quality</variant>
+  </canonskill>
+  <canonskill end='733683' experience='1' expidrefs='3' idrefs='3' lastused='2009' name='quality control' start='733257'>
+    <variant>quality assurance</variant>
+    <variant>QA</variant>
+  </canonskill>
+  <canonskill end='733683' experience='1' expidrefs='3' idrefs='3' lastused='2009' name='reports' start='733257'>
+    <variant>reporting</variant>
+  </canonskill>
+  <canonskill end='734140' experience='1' expidrefs='2,3,4,8' idrefs='2,3,4,8' lastused='2011' name='research' start='731522'>
+    <variant>Research</variant>
+    <variant>research</variant>
+  </canonskill>
+  <canonskill end='731704' experience='1' expidrefs='8' idrefs='8' lastused='2004' name='sap' start='731522'>
+    <variant>SAP</variant>
+  </canonskill>
+  <canonskill end='730853' experience='1' expidrefs='11' idrefs='11' lastused='2002' name='software development' start='730488'>
+    <variant>software design and development</variant>
+  </canonskill>
+  <canonskill end='734140' experience='1' expidrefs='2,3,4' idrefs='2,3,4' lastused='2011' name='strategic' start='732314'>
+    <variant>Strategy</variant>
+    <variant>strategy</variant>
+  </canonskill>
+  <canonskill end='733683' experience='1' expidrefs='3' idrefs='3' lastused='2009' name='strategic planning' start='733257'>
+    <variant>strategic planning</variant>
+  </canonskill>
+  <canonskill experience='1' name='technical analysis'>
+    <variant>Technology Research</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

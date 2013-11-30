@@ -1,0 +1,68 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Certificate of Completion: Airways Management", 
+            "Type": "Specialty", 
+            "Certification ID": "9539", 
+            "Certifying Organization": "American College of Chest Physicians"
+        }, 
+        {
+            "Acronym": "RRT", 
+            "Certification Name": "Registered Respiratory Therapist", 
+            "Type": "Core", 
+            "Certification ID": "2566", 
+            "Certifying Organization": "National Board for Respiratory Care"
+        }, 
+        {
+            "Acronym": "CRT-SDS", 
+            "Certification Name": "Sleep Disorders Testing and Therapeutic Intervention Respiratory Care Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "6079", 
+            "Certifying Organization": "National Board for Respiratory Care"
+        }, 
+        {
+            "Acronym": "CRT", 
+            "Certification Name": "Certified Respiratory Therapist", 
+            "Type": "Core", 
+            "Certification ID": "0282", 
+            "Certifying Organization": "National Board for Respiratory Care"
+        }, 
+        {
+            "Acronym": "ACCS", 
+            "Certification Name": "Adult Critical Care Specialty", 
+            "Type": "Specialty", 
+            "Certification ID": "8652", 
+            "Certifying Organization": "National Board for Respiratory Care"
+        }, 
+        {
+            "Acronym": "CIC", 
+            "Certification Name": "Infection Control Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "2290", 
+            "Certifying Organization": "Certification Board of Infection Control and Epidemiology, Inc."
+        }, 
+        {
+            "Acronym": "C-NPT", 
+            "Certification Name": "Certificate of Added Qualification in Neonatal Pediatric Transport", 
+            "Type": "Specialty", 
+            "Certification ID": "1194", 
+            "Certifying Organization": "The National Certification Corporation"
+        }, 
+        {
+            "Acronym": "CHT", 
+            "Certification Name": "Certified Hyperbaric Technologist", 
+            "Type": "Specialty", 
+            "Certification ID": "5663", 
+            "Certifying Organization": "National Board of Diving and Hyperbaric Medical Technology"
+        }, 
+        {
+            "Acronym": "CRT-NPS", 
+            "Certification Name": "Neonatal/Pediatric Respiratory Care Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "0286", 
+            "Certifying Organization": "National Board for Respiratory Care"
+        }
+    ], 
+    "onet": "29112600"
+}

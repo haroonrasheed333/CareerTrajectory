@@ -1,0 +1,26 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "ICMI Professional Certification", 
+            "Type": "Core", 
+            "Certification ID": "8776", 
+            "Certifying Organization": "International Customer Management Institute"
+        }, 
+        {
+            "Acronym": "PT", 
+            "Certification Name": "Permit Technician", 
+            "Type": "Core", 
+            "Certification ID": "3408", 
+            "Certifying Organization": "International Code Council"
+        }, 
+        {
+            "Acronym": "COS-TP", 
+            "Certification Name": "Certified Outsourcing Specialist: Transaction Processing", 
+            "Type": "Core", 
+            "Certification ID": "6488", 
+            "Certifying Organization": "International Association of Outsourcing Professionals"
+        }
+    ], 
+    "onet": "43417100"
+}

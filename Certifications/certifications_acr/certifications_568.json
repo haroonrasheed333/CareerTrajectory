@@ -1,0 +1,96 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CLS", 
+            "Certification Name": "Certified Lifestyle Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "9345", 
+            "Certifying Organization": "The Travel Institute"
+        }, 
+        {
+            "Acronym": "CTIE", 
+            "Certification Name": "Certified Travel Industry Executive", 
+            "Type": "Advanced", 
+            "Certification ID": "4896", 
+            "Certifying Organization": "The Travel Institute"
+        }, 
+        {
+            "Acronym": "CSP", 
+            "Certification Name": "Certified Sales Professional", 
+            "Type": "Core", 
+            "Certification ID": "1320", 
+            "Certifying Organization": "Manufacturers Representatives Educational Research Foundation"
+        }, 
+        {
+            "Acronym": "ABA,", 
+            "Certification Name": "Certified Travel Industry Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "3721", 
+            "Certifying Organization": "American Bus Association"
+        }, 
+        {
+            "Acronym": "CTA", 
+            "Certification Name": "Certified Travel Associate", 
+            "Type": "Core", 
+            "Certification ID": "0513", 
+            "Certifying Organization": "The Travel Institute"
+        }, 
+        {
+            "Acronym": "GTP", 
+            "Certification Name": "Global Travel Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "7996", 
+            "Certifying Organization": "Global Business Travel Association Academy"
+        }, 
+        {
+            "Acronym": "CGTE", 
+            "Certification Name": "Certified Government Travel Executive", 
+            "Type": "Advanced", 
+            "Certification ID": "7999", 
+            "Certifying Organization": "Global Business Travel Association Academy"
+        }, 
+        {
+            "Acronym": "CTP", 
+            "Certification Name": "Certified Tour Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "8005", 
+            "Certifying Organization": "National Tour Association"
+        }, 
+        {
+            "Acronym": "CTC", 
+            "Certification Name": "Certified Travel Counselor", 
+            "Type": "Core", 
+            "Certification ID": "0514", 
+            "Certifying Organization": "The Travel Institute"
+        }, 
+        {
+            "Acronym": "CCTE", 
+            "Certification Name": "Certified Corporate Travel Executives", 
+            "Type": "Advanced", 
+            "Certification ID": "7997", 
+            "Certifying Organization": "Global Business Travel Association Academy"
+        }, 
+        {
+            "Acronym": "CTA", 
+            "Certification Name": "Certified Tourism Ambassador", 
+            "Type": "Core", 
+            "Certification ID": "7982", 
+            "Certifying Organization": "Tourism Ambassador Institute"
+        }, 
+        {
+            "Acronym": "CDS", 
+            "Certification Name": "Certified Destination Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "9346", 
+            "Certifying Organization": "The Travel Institute"
+        }, 
+        {
+            "Acronym": "TTP", 
+            "Certification Name": "Travel and Tourism Professional", 
+            "Type": "Core", 
+            "Certification ID": "9385", 
+            "Certifying Organization": "International Air Transport Association"
+        }
+    ], 
+    "onet": "41304100"
+}

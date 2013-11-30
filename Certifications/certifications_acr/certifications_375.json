@@ -1,0 +1,33 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Media Composer Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "8535", 
+            "Certifying Organization": "Avid Technology, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Media Composer User", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8534", 
+            "Certifying Organization": "Avid Technology, Inc."
+        }, 
+        {
+            "Acronym": "CSTE", 
+            "Certification Name": "Certified Senior Broadcast Television Engineer", 
+            "Type": "Advanced", 
+            "Certification ID": "0311", 
+            "Certifying Organization": "Society of Broadcast Engineers, Inc."
+        }, 
+        {
+            "Acronym": "CLVS", 
+            "Certification Name": "Certified Legal Video Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "0337", 
+            "Certifying Organization": "National Court Reporters Association"
+        }
+    ], 
+    "onet": "27403100"
+}

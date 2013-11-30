@@ -1,0 +1,54 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified LabWindows/CVI Developer", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "3774", 
+            "Certifying Organization": "National Instruments Corporation"
+        }, 
+        {
+            "Acronym": "CFPS", 
+            "Certification Name": "Certified Function Point Specialist", 
+            "Type": "Core", 
+            "Certification ID": "2875", 
+            "Certifying Organization": "International Function Point Users Group"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified LabVIEW Architect", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "3773", 
+            "Certifying Organization": "National Instruments Corporation"
+        }, 
+        {
+            "Acronym": "CBP", 
+            "Certification Name": "Certified Biometrics Professional", 
+            "Type": "Core", 
+            "Certification ID": "6046", 
+            "Certifying Organization": "Institute of Electrical and Electronics Engineers"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Associate LabVIEW Developer", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "3775", 
+            "Certifying Organization": "National Instruments Corporation"
+        }, 
+        {
+            "Acronym": "EMCDSA", 
+            "Certification Name": "Data Science Associate", 
+            "Type": "Advanced", 
+            "Certification ID": "8812", 
+            "Certifying Organization": "EMC Corporation"
+        }, 
+        {
+            "Acronym": "CSDP", 
+            "Certification Name": "Certified Software Development Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "2871", 
+            "Certifying Organization": "Institute of Electrical and Electronics Engineers"
+        }
+    ], 
+    "onet": "15111100"
+}

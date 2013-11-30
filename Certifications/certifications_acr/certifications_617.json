@@ -1,0 +1,19 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CTS", 
+            "Certification Name": "Certified Transfer Pricing Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "7928", 
+            "Certifying Organization": "American Academy of Financial Management"
+        }, 
+        {
+            "Acronym": "CPP", 
+            "Certification Name": "Certified Pricing Professional", 
+            "Type": "Core", 
+            "Certification ID": "7285", 
+            "Certifying Organization": "Professional Pricing Society"
+        }
+    ], 
+    "onet": "43508102"
+}

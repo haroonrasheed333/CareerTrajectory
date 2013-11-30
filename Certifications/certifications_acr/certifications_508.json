@@ -1,0 +1,82 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Search and Rescue K-9 Team Test", 
+            "Type": "Specialty", 
+            "Certification ID": "5468", 
+            "Certifying Organization": "Eastern States Working Dog Association, INC"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Narcotic Detection K-9 Team Test", 
+            "Type": "Specialty", 
+            "Certification ID": "5466", 
+            "Certifying Organization": "Eastern States Working Dog Association, INC"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Trailing Dog Test", 
+            "Type": "Specialty", 
+            "Certification ID": "5467", 
+            "Certifying Organization": "Eastern States Working Dog Association, INC"
+        }, 
+        {
+            "Acronym": "WSO-CHMT", 
+            "Certification Name": "WSO - Certified Hazardous Materials Technician Level II", 
+            "Type": "Advanced", 
+            "Certification ID": "1010", 
+            "Certifying Organization": "World Safety Organization"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Accredited Traffic Accident  Reconstructionist", 
+            "Type": "Core", 
+            "Certification ID": "7646", 
+            "Certifying Organization": "Accreditation Commission for Traffic Accident Reconstruction"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Explosive Detection K-9 Team Test", 
+            "Type": "Specialty", 
+            "Certification ID": "5463", 
+            "Certifying Organization": "Eastern States Working Dog Association, INC"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Police Service Dog Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "5424", 
+            "Certifying Organization": "Eastern States Working Dog Association, INC"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "First Responder", 
+            "Type": "Core", 
+            "Certification ID": "0290", 
+            "Certifying Organization": "National Registry of Emergency Medical Technicians"
+        }, 
+        {
+            "Acronym": "WSO-CHMT", 
+            "Certification Name": "WSO - Certified Hazardous Materials Technician I", 
+            "Type": "Core", 
+            "Certification ID": "1009", 
+            "Certifying Organization": "World Safety Organization"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Accelerant K-9 Team Test", 
+            "Type": "Specialty", 
+            "Certification ID": "5471", 
+            "Certifying Organization": "Eastern States Working Dog Association, INC"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Human Remains K-9 Team Test", 
+            "Type": "Specialty", 
+            "Certification ID": "5472", 
+            "Certifying Organization": "Eastern States Working Dog Association, INC"
+        }
+    ], 
+    "onet": "33305101"
+}

@@ -1,0 +1,460 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734597' xml:space='preserve'>			<contact><name><givenname>NEETU</givenname> <givenname>P</givenname> <surname>NOTANI</surname></name>
+	                           	 	<email>n_neetu@yahoo.com</email>
+			<phone>(703) 593 9698</phone></contact>
+
+<summary>SUMMARY
+<summary>Respected professional accomplished in leading IT organizations to achieve challenging business goals and strategies.  Broad experience in software development, business and data analysis and information management technologies. Advanced experience in business intelligence, technical architecture, data mining, top management reporting, business performance reporting, predictive analytics, Finance/Budget reporting.  Strong team leadership and communication, analytical and problem solving skills, with the ability to design and implement complex business requirements. Expertise includes
+
+Business Intelligence	
+Data Modeling 
+ETL
+Project Management
+Planning and Forecasting</summary></summary>
+
+
+
+<experience end='present' start='729208'>PROFESSIONAL EXPERIENCE
+<job end='present' id='1' naics='33411101' naics2='33' pos='1' sic='422506' sic2='42' start='732130'><employer>IBM</employer> Corporate headquarters 
+<title>Executive Dashboard Team Lead</title> 
+<daterange><start days='732130' iso8601='2005-07-01'>July 2005</start> - <end days='present' iso8601='2012-04-02'>present</end></daterange></job>
+				
+<job end='present' id='2' inferred-to='3' pos='2' sic='581304' sic2='58' start='732130'><employer>EDGE</employer> (Enabling decisions for Global Execution)
+<daterange><start days='732130' iso8601='2005-07-01'>July 2005</start> - <end days='present' iso8601='2012-04-02'>present</end></daterange>
+
+<description>Worked and led the project to support CEO Dashboard for CEO of IBM Samuel J Palmisano for 7 years.
+Created reports for CFO, CIO, General Managers and 1st line managers to take timely decisions.
+Provides concise consolidated views of a wide variety of information across all business units and geographies. Including structured and semi-structured data
+Its demand, Its leads, its market opportunities - we can roll it up electronically for every client team, every customer set, every Geography, every product line everywhere in the world.
+Business Performance Reporting with trusted data sources. Data ownership is clearly defined and data owners are responsible for data quality, reliability and timeliness.
+Helps IBM executives identify shortfalls in the sales pipeline or projected revenue early in the quarter when action can be taken to address them.
+Focused Reports Analytics and Alerts
+Provides Sales Management metrics such as Validated and Qualified Pipeline and Dollarized Loads Provides these Reports from C level executives to 1st line managers and staff
+Align each units critical information and metrics to their business processes and management system.
+&quot;Aggregate-Up&quot; critical information from lowest possible level
+Provide drill-down capability to identify issues and problems early in the business cycle and facilitate fast analysis and decision making.
+Experience manipulating various data sources to support Senior Management decisions.
+Weekly Revenue headlights are provided for all businesses. 
+The Key Financial Indicators section includes Revenue, Controllable Expense and  PTI.
+The latest forecasts for the current quarter and full year are compared to standard reference points. Generally, the comparisons are Year to year, (YtY), quarter to quarter (QtQ) and % of Budget. 
+Poor performance of a Business unit.
+There are also links to other useful information such as: Financial History, Revenue Participation, Customer Satisfaction, Technology Milestones, Financial History, and the Annual Report by Business Segment.
+
+
+Hyperion to Cognos migration</description></job> 
+<job end='734565' id='3' inferred-from='2' pos='3' sic='581304' sic2='58' start='734140'><daterange><start days='734140' iso8601='2011-01-01'>Jan 2011</start> - <end days='734565' iso8601='2012-03-01'>Mar 2012</end></daterange>	
+<description>Delivered 6 Hyperion reports that are currently in the portal using Cognos framework manager and report studio ahead of anticipated 2Q12 plan. 
+Did this in three-step process that leverages an additional IBM technology, DB2, to create a business data layer (or ETL), consolidating the data into a simpler and more efficient format that can be stored and then used by Framework manager. 
+Acquired knowledge from this project that will enable to use data modeling and consultant expertise to provide an expanded business model through BI@IBM and the BACC(Data layer)
+Collaboration and teamwork cross all skills.  Redesign concept of coverage amongst each other.
+Long term plan to restructure RESO IW based on Cognos modeling.</description></job>  
+
+<job end='733834' id='4' pos='4' start='733196'><employer>Active Insight Dashboards</employer>		
+<daterange><start days='733196' iso8601='2008-06-01'>Jun 2008</start> - <end days='733834' iso8601='2010-03-01'>Mar 2010</end></daterange>					
+<description>Worked on Active Insight (AI) dashboards and scorecards for a new BI portal, for the Client Value Initiative (CVI) to help drive efficiency and excellence in client relations, sales operations, and resources. 
+AI and Websphere Designer were new tools I had to learn on the job in a short period of time. My success in this area leads to some critical roles in this project.</description></job> 
+
+IBM GBS 
+<job end='732100' id='5' pos='5' start='731126'><title>Software Specialist</title>
+<daterange><start days='731126' iso8601='2002-10-01'>Oct 2002</start> - <end days='732100' iso8601='2005-06-01'>Jun 2005</end></daterange>
+<description>Worked on automating delivery cadence process for IBM. My role was in analyzing business scenarios for extracting data from different geographies into global warehouse.
+Worked on School District Data Warehouse Project as Data Analyst/Reports Developer. Job responsibility includes conducting interview with Clients and Analyzing there requirements. 
+Did extensive amount of Requirement Analysis. Interact with users, prepare user requirements and specifications. 
+Utilized Erwin for data modeling. 
+My role included Design, mapping and development. 
+Knowledge of Extracting, Transforming (or Transporting) and Loading (ETL) data from source systems into the data warehouse.
+Involved in Development and Deployment of Complex Reports. 
+Divided the requirements in different Subject Areas and developed Report Templates which is like a Prototype based on Analysis. 
+Based on requirements Translated Business Requirements in to technical Specs for development Team and help them develop Reports using Oracle Discoverer. 
+Tuning and optimization of SQL queries. Did a lot of Gap Analysis. 
+Worked on Conceptual Data models for Enterprise Data Warehouse and also assisted with Business Analysis
+Responsible for gathering business requirements from the client. 
+Worked closely with Logical Data modeling team to create Conceptual to Logical data mappings
+Developed Used Cases in health care industry. 
+Worked on Used Cases for subject areas for travel and lodging industry 
+
+
+
+
+
+
+Worked as technical architect in banking industry.  The project required 
+
+Defining the end-state architecture design to support the business's vision
+Developed front-end portal for Payment Requisitions using Forms 6i and procedures and triggers using SQL. Developed reports using Reports 6i. Using standard oracle template form as a base developed new form.
+
+
+Clients:	Marriot	 Prince William County Schools, Arundel County Schools, Care first, Aviva, Capital One and AOL.</description></job>
+
+<job end='731126' id='6' pos='6' start='730427'><employer>Pricewaterhouse Coopers Consulting</employer>
+<title>Software Specialist</title>
+<daterange><start days='730427' iso8601='2000-11-01'>Nov 2000</start>- <end days='731126' iso8601='2002-10-01'>Oct 2002</end></daterange> 
+<description>Worked in different areas of Banking and Finance.
+Gather Business requirements.
+Worked on Reporting Data Warehouse implementation to develop extracts for different geographies.  The engagement requires in-depth business analysis of client business processes as well as the application of PwC methodologies to create an effective, value-added, centralized data warehouse. 
+My responsibilities as an ETL Analyst included to work on Mainframe environment, understand the Bank's data models. 
+Process involved interacting with Business users and Development of the System using ETI* Extract.
+ Provide an analysis of the end to end nightly financial reporting process.  
+Participated in the design of improvements to the report generation process flow that would increase efficiencies in the reporting cycle time.
+Analyzed and designed the technical and business requirements and defined the strategies to load data into the Warehouse
+Worked on project plan, process flow diagram, and the unit test 
+
+
+Clients:	Bank of Tokyo Mitsubishi, Fidelity, Fleet Bank Boston, Quick and Reilly
+
+System Integrated Technology</description></job> 
+Client: <job end='730427' id='7' naics='32562007' naics2='32' pos='7' sic='512210' sic2='51' start='729969'><employer>Gillette</employer>
+<title>Data warehouse Specialist</title>
+<daterange><start days='729969' iso8601='1999-08-01'>Aug 1999</start> to <end days='730427' iso8601='2000-11-01'>Nov 2000</end></daterange>
+<description>Participated as a team member in the extraction of data from SAP R/3 and other legacy systems from various Geographies using ETI [Evolutionary Technologies Inc] and other tools. 
+Created new conversions using ETI to extract data and to generate Pro* C scripts and shell Scripts. 
+Developed PL /SQL scripts for system testing to ensure the data integrity. 
+Worked on version control.  
+Created Web-based reports using BRIO reporting tools.</description></job> 
+
+<job end='729938' id='8' pos='8' start='729270'><employer>Texport Industries</employer>  
+<title>Oracle Forms Developer</title>
+<daterange><start days='729270' iso8601='1997-09-01'>Sep 1997</start> to <end days='729938' iso8601='1999-07-01'>Jul 1999</end></daterange>
+<description>Worked on Export Management System
+Worked on Financial account system
+Worked on Payroll system</description></job>
+
+
+
+
+
+
+<job end='728843' id='9' start='729208'><employer>Jaysynth</employer>
+<title>Software Programmer</title>
+<daterange><start days='729208' iso8601='1997-07-01'>Jul 1997</start> to <end days='728843' iso8601='1996-07-01'>Jul 1996</end></daterange>			 
+ <description>Worked on sales ordering. Involved in design and development of sales order, shipping, transportation, and customer invoicing application. 
+The second phase of the project involved design and implementation of inventory management systems.
+Involved in design and creation of GUI to maintain products and customer profiles. The system consists of queries on sales and stock figures.</description></job></experience> 
+
+
+				<education>Education 
+	<school id='10'><degree level='16' name='Bachelor of Engineering'>Bachelor of Engineering</degree> in <major code='0402'>Computer science</major>, <institution>Pune University</institution>, <address><country iso3='IND'>INDIA</country>.</address></school>
+	<degree level='13'>Higher Diploma</degree> in <courses>Oracle/ Developer 2000, Concourse Information Technology, INDIA
+	Active Insight Websphere (IBM)
+	Cognos Report Studio (IBM)</courses></education>
+
+		<skills>Technical Skills
+Industries:	<skills>Financial Industry, Banking, Insurance, Educational, Consumer Product, Entertainment	
+
+Project Domain: 
+
+
+Customer Relationship Management Solutions, Performance Improvement, Application Development etc.  	
+
+Hardware:	HP 9000, IBM Mainframes, PCs, Compatibles	
+
+Operating Systems:	Windows, Unix	
+
+Computer Languages:	SQL	
+
+Databases:	ORACLE, DB2	
+
+Development Tools:	Cognos Report studio, Cognos Framework manager, Lotus Suite, ETL Tools like ETI, Informatica, Brio, Business Objects, Forms, Reports (Developer 2000), Brio (SQR), Discoverer, ERWin, Visio, Websphere designer, Ab Initio.	
+
+Applications:	Microsoft Office 97, Microsoft Office 2000, Oracle 11i	
+
+Training:	Ab Initio, Informatica, COGNOS , Websphere designer	
+
+
+
+				Certifications
+Cognos</skills></skills> 
+<statements>Informtica
+<activities>Active Insight Websphere designer
+
+			Conferences
+Participated in poster presentation for IBM CEO Dashboard in Technical leadership conference on May 18th 2011.</activities></statements>
+	
+
+
+
+
+
+
+
+
+
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='732100' experience='1' expidrefs='5' idrefs='5' lastused='2005' name='america online' start='731126'>
+    <variant>AOL</variant>
+  </canonskill>
+  <canonskill end='732100' experience='1' expidrefs='5,6' idrefs='5,6' lastused='2005' name='analysis' start='730427'>
+    <variant>Analyst</variant>
+  </canonskill>
+  <canonskill name='application development'>
+    <variant>Application Development</variant>
+  </canonskill>
+  <canonskill end='732100' experience='1' expidrefs='5' idrefs='5' lastused='2005' name='architecture' start='731126'>
+    <variant>architect</variant>
+  </canonskill>
+  <canonskill end='733834' experience='1' expidrefs='4' idrefs='4' lastused='2010' name='artificial intelligence' start='733196'>
+    <variant>AI</variant>
+  </canonskill>
+  <canonskill end='732100' experience='1' expidrefs='5,6' idrefs='5,6' lastused='2005' name='banking' start='730427'>
+    <variant>banking</variant>
+    <variant>Banking</variant>
+  </canonskill>
+  <canonskill end='730427' experience='1' expidrefs='7' idrefs='7' lastused='2000' name='brio' start='729969'>
+    <variant>BRIO</variant>
+    <variant>Brio</variant>
+  </canonskill>
+  <canonskill experience='1' name='budgeting'>
+    <variant>Budget</variant>
+  </canonskill>
+  <canonskill end='732100' experience='1' expidrefs='5,6' idrefs='5,6' lastused='2005' name='business analysis' start='730427'>
+    <variant>Business Analysis</variant>
+    <variant>business analysis</variant>
+  </canonskill>
+  <canonskill end='733834' experience='1' expidrefs='4' idrefs='4' lastused='2010' name='business intelligence' start='733196'>
+    <variant>BI</variant>
+  </canonskill>
+  <canonskill name='business objects'>
+    <variant>Business Objects</variant>
+  </canonskill>
+  <canonskill end='731126' experience='1' expidrefs='6' idrefs='6' lastused='2002' name='business process' start='730427'>
+    <variant>business processes</variant>
+  </canonskill>
+  <canonskill end='730427' experience='1' expidrefs='7' idrefs='7' lastused='2000' name='c' start='729969'>
+    <variant>C</variant>
+  </canonskill>
+  <canonskill end='732100' experience='1' expidrefs='5' idrefs='5' lastused='2005' name='cadence' start='731126'>
+    <variant>cadence</variant>
+  </canonskill>
+  <canonskill education='1' experience='1' name='cognos impromptu'>
+    <variant>COGNOS</variant>
+    <variant>Cognos</variant>
+  </canonskill>
+  <canonskill name='computer hardware'>
+    <variant>Hardware</variant>
+  </canonskill>
+  <canonskill experience='1' name='concept development'>
+    <variant>concept</variant>
+  </canonskill>
+  <canonskill experience='1' name='concise'>
+    <variant>concise</variant>
+  </canonskill>
+  <canonskill experience='1' name='consulting'>
+    <variant>consultant</variant>
+  </canonskill>
+  <canonskill name='crm'>
+    <variant>Customer Relationship Management</variant>
+  </canonskill>
+  <canonskill end='733834' experience='1' expidrefs='4,5,6' idrefs='4,5,6' lastused='2010' name='customer relations' start='730427'>
+    <variant>Client</variant>
+    <variant>client</variant>
+    <variant>Clients</variant>
+    <variant>client relations</variant>
+  </canonskill>
+  <canonskill experience='1' name='customer satisfaction'>
+    <variant>Customer Satisfaction</variant>
+  </canonskill>
+  <canonskill end='730427' experience='1' expidrefs='7' idrefs='7' lastused='2000' name='cvs' start='729969'>
+    <variant>version control</variant>
+  </canonskill>
+  <canonskill end='732100' experience='1' expidrefs='5' idrefs='5' lastused='2005' name='data modeling' start='731126'>
+    <variant>Data modeling</variant>
+    <variant>data modeling</variant>
+  </canonskill>
+  <canonskill end='732100' experience='1' expidrefs='5,6' idrefs='5,6' lastused='2005' name='data warehousing' start='730427'>
+    <variant>data warehouse</variant>
+    <variant>Data Warehouse</variant>
+  </canonskill>
+  <canonskill name='database administration'>
+    <variant>Databases</variant>
+  </canonskill>
+  <canonskill experience='1' name='decision making'>
+    <variant>decision making</variant>
+  </canonskill>
+  <canonskill end='732100' experience='1' expidrefs='5' idrefs='5' lastused='2005' name='delivery' start='731126'>
+    <variant>delivery</variant>
+  </canonskill>
+  <canonskill end='732100' experience='1' expidrefs='5' idrefs='5' lastused='2005' name='erwin' start='731126'>
+    <variant>ERWin</variant>
+    <variant>Erwin</variant>
+  </canonskill>
+  <canonskill end='731126' experience='1' expidrefs='6,7' idrefs='6,7' lastused='2002' name='eti' start='729969'>
+    <variant>ETI</variant>
+  </canonskill>
+  <canonskill end='732100' experience='1' expidrefs='5,6' idrefs='5,6' lastused='2005' name='etl' start='730427'>
+    <variant>ETL</variant>
+  </canonskill>
+  <canonskill experience='1' name='executive management'>
+    <variant>Senior Management</variant>
+  </canonskill>
+  <canonskill experience='1' name='fast'>
+    <variant>fast</variant>
+  </canonskill>
+  <canonskill end='731126' experience='1' expidrefs='6' idrefs='6' lastused='2002' name='finance' start='730427'>
+    <variant>Finance</variant>
+  </canonskill>
+  <canonskill end='729938' experience='1' expidrefs='8' idrefs='8' lastused='1999' name='financial' start='729270'>
+    <variant>Financial</variant>
+  </canonskill>
+  <canonskill end='731126' experience='1' expidrefs='6' idrefs='6' lastused='2002' name='financial reporting' start='730427'>
+    <variant>financial reporting</variant>
+  </canonskill>
+  <canonskill end='732100' experience='1' expidrefs='5' idrefs='5' lastused='2005' name='forms' start='731126'>
+    <variant>Forms</variant>
+    <variant>Forms 6</variant>
+  </canonskill>
+  <canonskill end='728843' experience='1' expidrefs='9' idrefs='9' lastused='1996' name='graphical user interface' start='729208'>
+    <variant>GUI</variant>
+  </canonskill>
+  <canonskill name='hp 9000'>
+    <variant>HP 9000</variant>
+  </canonskill>
+  <canonskill experience='1' name='hyperion'>
+    <variant>Hyperion</variant>
+  </canonskill>
+  <canonskill education='1' end='732100' experience='1' expidrefs='5' idrefs='5' lastused='2005' name='ibm' start='731126'>
+    <variant>IBM</variant>
+  </canonskill>
+  <canonskill name='ibm compatible pc'>
+    <variant>Compatibles</variant>
+  </canonskill>
+  <canonskill experience='1' name='ibm db/2'>
+    <variant>DB2</variant>
+  </canonskill>
+  <canonskill name='ibm mainframe'>
+    <variant>IBM Mainframes</variant>
+  </canonskill>
+  <canonskill education='1' end='733834' experience='1' expidrefs='4' idrefs='4' lastused='2010' name='ibm websphere' start='733196'>
+    <variant>Websphere</variant>
+  </canonskill>
+  <canonskill name='informatica'>
+    <variant>Informatica</variant>
+  </canonskill>
+  <canonskill education='1' name='information technology'>
+    <variant>Information Technology</variant>
+  </canonskill>
+  <canonskill name='insurance'>
+    <variant>Insurance</variant>
+  </canonskill>
+  <canonskill end='728843' experience='1' expidrefs='9' idrefs='9' lastused='1996' name='inventory management' start='729208'>
+    <variant>inventory management</variant>
+  </canonskill>
+  <canonskill end='728843' experience='1' expidrefs='9' idrefs='9' lastused='1996' name='invoicing' start='729208'>
+    <variant>invoicing</variant>
+  </canonskill>
+  <canonskill name='languages'>
+    <variant>Languages</variant>
+  </canonskill>
+  <canonskill name='lotus office suite'>
+    <variant>Lotus Suite</variant>
+  </canonskill>
+  <canonskill end='731126' experience='1' expidrefs='6' idrefs='6' lastused='2002' name='mainframe' start='730427'>
+    <variant>Mainframe</variant>
+  </canonskill>
+  <canonskill experience='1' name='marketing'>
+    <variant>market</variant>
+  </canonskill>
+  <canonskill name='microsoft office 2000'>
+    <variant>Microsoft Office 2000</variant>
+  </canonskill>
+  <canonskill name='microsoft office 97'>
+    <variant>Microsoft Office 97</variant>
+  </canonskill>
+  <canonskill name='microsoft windows'>
+    <variant>Windows</variant>
+  </canonskill>
+  <canonskill experience='1' name='migration'>
+    <variant>migration</variant>
+  </canonskill>
+  <canonskill experience='1' name='modeling'>
+    <variant>modeling</variant>
+  </canonskill>
+  <canonskill end='732100' experience='1' expidrefs='5' idrefs='5' lastused='2005' name='netscape enterprise server' start='731126'>
+    <variant>Enterprise</variant>
+  </canonskill>
+  <canonskill name='operating systems'>
+    <variant>Operating Systems</variant>
+  </canonskill>
+  <canonskill end='732100' experience='1' expidrefs='5' idrefs='5' lastused='2005' name='optimization' start='731126'>
+    <variant>optimization</variant>
+  </canonskill>
+  <canonskill end='732100' experience='1' expidrefs='5' idrefs='5' lastused='2005' name='oracle' start='731126'>
+    <variant>ORACLE</variant>
+    <variant>Oracle</variant>
+    <variant>oracle</variant>
+  </canonskill>
+  <canonskill education='1' end='732100' experience='1' expidrefs='5' idrefs='5' lastused='2005' name='oracle developer 2000' start='731126'>
+    <variant>Oracle/ Developer 2000</variant>
+    <variant>Developer 2000</variant>
+    <variant>Developer</variant>
+  </canonskill>
+  <canonskill end='732100' experience='1' expidrefs='5' idrefs='5' lastused='2005' name='oracle discoverer' start='731126'>
+    <variant>Oracle Discoverer</variant>
+  </canonskill>
+  <canonskill end='730427' experience='1' expidrefs='7' idrefs='7' lastused='2000' name='oracle pl/sql' start='729969'>
+    <variant>PL /SQL</variant>
+  </canonskill>
+  <canonskill end='729938' experience='1' expidrefs='8' idrefs='8' lastused='1999' name='payroll processing' start='729270'>
+    <variant>Payroll</variant>
+  </canonskill>
+  <canonskill end='732100' experience='1' expidrefs='5' idrefs='5' lastused='2005' name='prince' start='731126'>
+    <variant>Prince</variant>
+  </canonskill>
+  <canonskill experience='1' name='quality'>
+    <variant>quality</variant>
+  </canonskill>
+  <canonskill end='731126' experience='1' expidrefs='6' idrefs='6' lastused='2002' name='quick' start='730427'>
+    <variant>Quick</variant>
+  </canonskill>
+  <canonskill end='731126' experience='1' expidrefs='6,7' idrefs='6,7' lastused='2002' name='reports' start='729969'>
+    <variant>reporting</variant>
+    <variant>Reporting</variant>
+  </canonskill>
+  <canonskill end='732100' experience='1' expidrefs='5' idrefs='5' lastused='2005' name='requirements' start='731126'>
+    <variant>Requirement</variant>
+  </canonskill>
+  <canonskill end='733834' experience='1' expidrefs='4,9' idrefs='4,9' lastused='2010' name='sales' start='729208'>
+    <variant>sales</variant>
+  </canonskill>
+  <canonskill experience='1' name='sales management'>
+    <variant>Sales Management</variant>
+  </canonskill>
+  <canonskill end='730427' experience='1' expidrefs='7' idrefs='7' lastused='2000' name='sap r3' start='729969'>
+    <variant>SAP R/3</variant>
+  </canonskill>
+  <canonskill end='730427' experience='1' expidrefs='7' idrefs='7' lastused='2000' name='shell scripting' start='729969'>
+    <variant>scripts</variant>
+    <variant>shell Scripts</variant>
+  </canonskill>
+  <canonskill end='728843' experience='1' expidrefs='9' idrefs='9' lastused='1996' name='shipping' start='729208'>
+    <variant>shipping</variant>
+  </canonskill>
+  <canonskill end='732100' experience='1' expidrefs='5' idrefs='5' lastused='2005' name='sql' start='731126'>
+    <variant>SQL</variant>
+  </canonskill>
+  <canonskill name='sqr'>
+    <variant>SQR</variant>
+  </canonskill>
+  <canonskill experience='1' name='structured methods'>
+    <variant>structured</variant>
+  </canonskill>
+  <canonskill experience='1' name='teamwork'>
+    <variant>teamwork</variant>
+  </canonskill>
+  <canonskill end='728843' experience='1' expidrefs='9' idrefs='9' lastused='1996' name='transportation' start='729208'>
+    <variant>transportation</variant>
+  </canonskill>
+  <canonskill name='unix'>
+    <variant>Unix</variant>
+  </canonskill>
+  <canonskill name='visio'>
+    <variant>Visio</variant>
+  </canonskill>
+  <canonskill end='732100' experience='1' expidrefs='5' idrefs='5' lastused='2005' name='vision' start='731126'>
+    <variant>vision</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

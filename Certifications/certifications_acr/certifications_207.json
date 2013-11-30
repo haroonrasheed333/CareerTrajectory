@@ -1,0 +1,40 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Senior Corrosion Technologist", 
+            "Type": "Advanced", 
+            "Certification ID": "1149", 
+            "Certifying Organization": "NACE International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Engineering Technologist", 
+            "Type": "Core", 
+            "Certification ID": "7846", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Mechanical Plans Examiner", 
+            "Type": "Advanced", 
+            "Certification ID": "8570", 
+            "Certifying Organization": "International Association of Plumbing and Mechanical Officials"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Corrosion Technologist", 
+            "Type": "Advanced", 
+            "Certification ID": "1147", 
+            "Certifying Organization": "NACE International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Associate Engineering Technologist", 
+            "Type": "Advanced", 
+            "Certification ID": "7847", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }
+    ], 
+    "onet": "17302907"
+}

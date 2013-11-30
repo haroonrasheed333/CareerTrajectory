@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734595' xml:space='preserve'>             				<contact><name><givenname>Jonathan</givenname> <givenname>B</givenname>. <surname>David</surname></name>
+<address lat='38.8571' lon='77.0609' majorcity='ARLINGTON' state='VA'><street>1805 Crystal Drive, Apt 1017</street>
+<city>Arlington</city>, <state abbrev='VA'>VA</state> <postalcode>22202</postalcode></address>
+<phone>847-337-2085</phone>
+<email>jbdesq08@gmail.com</email></contact>
+
+
+<education>Education
+<school id='5'><completiondate days='733044' iso8601='2008-01-01'>2008</completiondate> 
+<degree level='21' name='Juris Doctor'>JD</degree>, <institution>Northeastern University School of Law</institution>, <address><city>Boston</city>, <state abbrev='MA'>Ma</state></address></school> 
+<school id='6'><completiondate days='731218' iso8601='2003-01-01'>2003</completiondate>
+<degree level='18' name='Master of Science'>M.S</degree>., <major code='0808'>Physics</major>, <institution>The University of Illinois</institution>-<address><city>Chicago</city>, <city>Chicago</city>, <state abbrev='IL'>IL</state></address></school> 
+<school id='7'><completiondate days='729392' iso8601='1998-01-01'>1998</completiondate> 
+<degree level='16' name='Bachelor of Science'>B.S</degree>., <major code='0808'>Physics</major>, <institution>The Illinois Institute of Technology</institution>, <address><city>Chicago</city>, <state abbrev='IL'>IL</state></address> 
+
+<courses>Bar Admissions
+2008 US Patent &amp; Trademark Office
+2010 Illinois
+2012 District of Columbia (pending swearing in date)</courses></school></education>
+
+<experience end='present' start='733257'>Experience
+<job end='present' id='1' pos='1' start='734444'><description>One-Two years of experience which has included, but not been limited to preparing and prosecuting patent applications in a wide variety of electronic, electrical arts, and assisting with litigation.
+Representative Arts
+Data Processing, Electronic displays, Circuits, semiconductors, superconductors, Computer hardware/software, smartphones.</description>
+
+<title>Patent Attorney</title>
+<employer>Sughrue Mion</employer>, Washington, Dc  (<daterange><start days='734444' iso8601='2011-11-01'>November 2011</start>-<end days='present' iso8601='2012-03-31'>Present</end></daterange>)
+<description>Performing Office Action Responses and Amendments on Electronic Display devices, wireless devices, computer storage units, semiconductors, and mechanical devices for Samsung and Shimadzu.</description></job>
+
+<job end='734413' id='2' pos='2' sic='781205' sic2='78' start='733744'><title>Associate Of Counsel</title>
+<employer>Denison &amp; Associates, PC</employer>, <address><city>Chicago</city>, <state abbrev='IL'>IL</state></address> (<daterange><start days='733744' iso8601='2009-12-01'>December 2009</start> to <end days='734413' iso8601='2011-10-01'>October 2011</end></daterange>)
+<description>Providing litigation assistance on commercial litigation matters (housing, disability law, and consumer law) and providing patent prosecution services with mechanical, electrical, and software patents.</description></job>
+
+<job end='733683' id='3' pos='3' start='733653'><jobtype>Independent</jobtype> <title>Contractor</title>
+<employer>Leason &amp; Ellis</employer>, <address><city>White Plains</city>, <state abbrev='NY'>NY</state></address> (<daterange><start days='733653' iso8601='2009-09-01'>September 2009</start> to <end days='733683' iso8601='2009-10-01'>October 2009</end></daterange>) 
+<description>Provided litigation assistance for 35 USC 287. Performed a Due Diligence report   
+on a surgical device used to treat arthritis in knees. Performed patent 
+prosecution duties on a medical device used for heart surgery.</description></job>
+
+<job end='733410' id='4' pos='4' start='733257'><title>Patent Associate</title>                                                                  
+<employer>Harrington &amp; Smith</employer>, <address><city>Shelton</city>, <state abbrev='CT'>CT</state></address> (<daterange><start days='733257' iso8601='2008-08-01'>August 2008</start>-<end days='733410' iso8601='2009-01-01'>January 2009</end></daterange>)
+<description>Patent preparation and prosecution in the electrical and software arts including 
+cellular systems, wireless devices, mobile computing, software systems, and   
+storage device technologies for Nokia and IBM. Responded to office actions and   
+prepared patent application for a wireless communication system.</description></job></experience>    
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='733410' experience='1' expidrefs='4' idrefs='4' lastused='2009' name='art' start='733257'>
+    <variant>Arts</variant>
+    <variant>arts</variant>
+  </canonskill>
+  <canonskill experience='1' name='computer hardware'>
+    <variant>Computer hardware</variant>
+  </canonskill>
+  <canonskill experience='1' name='data processing'>
+    <variant>Data Processing</variant>
+  </canonskill>
+  <canonskill end='733683' experience='1' expidrefs='3' idrefs='3' lastused='2009' name='due diligence' start='733653'>
+    <variant>Due Diligence</variant>
+  </canonskill>
+  <canonskill end='733410' experience='1' expidrefs='4' idrefs='4' lastused='2009' name='ibm' start='733257'>
+    <variant>IBM</variant>
+  </canonskill>
+  <canonskill end='734413' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='legal' start='733744'>
+    <variant>law</variant>
+  </canonskill>
+  <canonskill end='734413' experience='1' expidrefs='2,3' idrefs='2,3' lastused='2011' name='litigation' start='733653'>
+    <variant>litigation</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='mechanical' start='733744'>
+    <variant>mechanical</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='7' end='734579' experience='1' expidrefs='1,4' idrefs='7,1,4' lastused='2012' name='microsoft office' start='733257'>
+    <variant>Office</variant>
+    <variant>office</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

@@ -1,0 +1,218 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734586' xml:space='preserve'><contact><name><givenname>Andrew</givenname> <surname>Baxter</surname></name>
+MCP, A+, i-Net+, ITIL v3
+Tel: <phone>416-464-7009</phone>
+<address lat='43.8573' lon='-79.0125' majorcity='Ajax' state='ON'><street>10 Trowell Lane</street>, <city>Ajax</city>, <state abbrev='ON'>ON</state>, <postalcode>L1Z 1K4</postalcode></address>
+Email: <email>andrew@andrewbaxter.ca</email></contact>
+
+<summary>PROFILE
+
+<summary>Senior Technical Support Administrator with progressive professional experience and industry recognized certifications who has been recognized for the ability to build relationships with all users while providing exceptional support. Fully knowledgeable in many aspects of Information Technology.  Exceptional trainer and mentor with the skills to provide direction and to motivate junior help desk personnel. Received numerous awards and recognitions for quality and productivity improvements.</summary></summary> 
+
+<skills>Key Technical areas of expertise includes
+
+<skills>LAN Network Services	DNS, DHCP	
+
+Application Systems	Active Directory	
+
+PC Desktop Support	Windows Registry	
+
+Help Desk Operations	Wireless Access Point, Routers	
+
+System Builds, Upgrade, Migrations	Windows OS 98, XP, 7	
+
+Win Servers 2003/2008	Microsoft Office 2003,2007,2010</skills></skills>	
+
+
+
+
+
+
+
+
+
+
+
+
+
+<experience end='present' start='729512'>PROFESSIONAL EXPERIENCE
+
+<job end='present' id='1' pos='1' sic='8361' sic2='83' start='732830'><employer>Chartwell Seniors Housing REIT</employer>
+<title>Sr. Technical Support Administrator - Mississauga</title> (<daterange><start days='732830' iso8601='2007-06-01'>June 2007</start> - <end days='present' iso8601='2012-03-22'>Present</end></daterange>)
+
+<description>Responsible for mentoring and providing direction and leadership to junior help desk analysts while providing superior  support to head office and retirement facility staff  across Canada including on-site visits. Support includes upgrades, installs, configuring and maintenance of PCs, peripherals and software. Identify and repair hardware and network connectivity issues. Assist in the maintenance of systems and data through the implementation of processes and procedures to ensure a secure technology environment.  Manage access control via Active Directory, Yardi and Pointclickcare.
+
+Key Projects &amp; Achievements
+
+In charge of the standardization of computer and network equipment, including IP schemes, naming conventions, computer configurations and security policies throughout Head Office and over 250 Chartwell Residences across Canada.
+Responsible for increasing overall efficiency in the department by creating a new standard desktop image for all new desktop computer purchases.  Worked with vendor to ensure computers were delivered pre-configured thus enabling them to be set up remotely. This reduced set up time on average of 25% an hour and it also reduced the number of on-site visits required to set up and install new computers.</description></job>
+
+
+<job end='732769' id='2' pos='2' start='732526'><employer>Trillium Health Centre</employer>
+<title>Helpdesk Analyst Team Leader</title> - Etobicoke (<daterange><start days='732526' iso8601='2006-08-01'>August 2006</start> - <end days='732769' iso8601='2007-04-01'>April 2007</end></daterange></job>)
+<job end='732526' id='3' pos='3' start='732314'><title>Helpdesk Analyst - Etobicoke</title> (<daterange><start days='732314' iso8601='2006-01-01'>January 2006</start> - <end days='732526' iso8601='2006-08-01'>August 2006</end></daterange>)
+
+<description>Ensured the highest level of staff satisfaction through the resolution of IT related issues and requests in accordance with established policies and procedures. Assisted management with regards to solving technology challenges and ensuring project implementations were completed in a timely manner. . As Team Leader ensured proper change management controls were followed, maintained and analyzed as well as provided technical expertise to junior analysts prior to escalation to technical support group.</description></job>   
+
+<job end='732283' id='4' pos='4' sic='835101' sic2='83' start='732100'><employer>CHUM Limited</employer> (<jobtype>Contract</jobtype> Position)
+Helpdesk Support - <address><city>Toronto</city></address> (<daterange><start days='732100' iso8601='2005-06-01'>June 2005</start> - <end days='732283' iso8601='2005-12-01'>December 2005</end></daterange>)
+
+<description>Provided helpdesk and desk side support on IBM PCs and laptops. Assisted with hardware upgrades, system updates and printer problems. Documented incidents and outages in problem tickets. Aided computer users to solve technical problems. Provided support for Microsoft Office suites, Windows XP and password changes using Active Directory. Installed peripheral components such as monitors, keyboards and printers as required.</description></job> 
+
+<job end='731552' id='5' pos='5' sic='602101' sic2='60' start='729512'><employer>Royal Bank of Canada</employer>	
+<title>Technical Support Analyst</title> - Toronto (<daterange><start days='729512' iso8601='1998-05-01'>May 1998</start> - <end days='731552' iso8601='2003-12-01'>December 2003</end></daterange>)
+
+<description>Primary contact/support related to the Connect:Direct file transfer programs existing on the company's Host, UNIX and NT systems.  Assisted users with coding and testing JCL scripts as well as debugged existing code and integrated additional functions such as user setup and testing of jobs. Also provided 2nd level computer support for desktops, including software and hardware upgrades, system updates and printer problems. Tested new software releases, system upgrades and patches. Installed peripheral components such as monitors, keyboards and printers when needed.</description></job></experience>  
+
+
+<education>EDUCATION AND CERTIFICATIONS
+
+<school id='6'><courses>ITIL Foundation v3	- 2010
+i-Net+ Certified 	- 2005
+Microsoft Certified	- 2004
+A+ Certified 		- 2004
+HiTech Institute 	- Networking &amp; Internet Engineering Diploma</courses>	- <completiondate days='731583' iso8601='2004-01-01'>2004</completiondate>
+<institution>Durham College</institution> 	- <major code='4399'>Business Information Systems</major> <degree level='13' name='Diploma'>Diploma</degree> 	- <completiondate days='729392' iso8601='1998-01-01'>1998</completiondate></school></education>
+
+
+<statements>OTHER QUALIFICATIONS
+
+<personal>Focused on customer satisfaction, productivity and operational efficiency.
+Highly organized with excellent time management and problem solving skills.
+Ability to learn new systems quickly and adapt to changing situations.
+Excellent written and verbal communications skills.</personal></statements>
+</resume>
+
+<skillrollup version='1'>
+  <canonskill education='1' name='a + certified'>
+    <variant>A+ Certified</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,4' idrefs='1,4' lastused='2012' name='active directory' start='732100'>
+    <variant>Active Directory</variant>
+  </canonskill>
+  <canonskill end='732526' experience='1' expidrefs='3' idrefs='3' lastused='2006' name='change management' start='732314'>
+    <variant>change management</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,4,5' idrefs='1,4,5' lastused='2012' name='computer hardware' start='729512'>
+    <variant>hardware upgrades</variant>
+    <variant>hardware</variant>
+  </canonskill>
+  <canonskill end='731552' experience='1' expidrefs='5' idrefs='5' lastused='2003' name='desktop pc' start='729512'>
+    <variant>desktops</variant>
+  </canonskill>
+  <canonskill name='dhcp'>
+    <variant>DHCP</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='directing' start='732830'>
+    <variant>direction</variant>
+  </canonskill>
+  <canonskill name='dns'>
+    <variant>DNS</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='help desk support' start='732830'>
+    <variant>Help Desk</variant>
+    <variant>help desk</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='imaging' start='732830'>
+    <variant>image</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='ip' start='732830'>
+    <variant>IP</variant>
+  </canonskill>
+  <canonskill education='1' name='itil'>
+    <variant>ITIL</variant>
+  </canonskill>
+  <canonskill end='731552' experience='1' expidrefs='5' idrefs='5' lastused='2003' name='jcl' start='729512'>
+    <variant>JCL</variant>
+  </canonskill>
+  <canonskill name='lan'>
+    <variant>LAN</variant>
+  </canonskill>
+  <canonskill end='732283' experience='1' expidrefs='4' idrefs='4' lastused='2005' name='laptop computers' start='732100'>
+    <variant>laptops</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,3' idrefs='1,3' lastused='2012' name='leadership' start='732314'>
+    <variant>leadership</variant>
+    <variant>Team Leader</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='mentoring' start='732830'>
+    <variant>mentoring</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='microsoft access' start='732830'>
+    <variant>Access</variant>
+    <variant>access</variant>
+  </canonskill>
+  <canonskill education='1' name='microsoft certified professional'>
+    <variant>Microsoft Certified</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,4' idrefs='1,4' lastused='2012' name='microsoft office' start='732100'>
+    <variant>Microsoft Office</variant>
+    <variant>Office</variant>
+    <variant>office</variant>
+    <variant>Microsoft Office suites</variant>
+  </canonskill>
+  <canonskill name='microsoft windows'>
+    <variant>Win</variant>
+    <variant>Windows</variant>
+    <variant>Windows OS</variant>
+  </canonskill>
+  <canonskill name='microsoft windows 98'>
+    <variant>98</variant>
+  </canonskill>
+  <canonskill end='731552' experience='1' expidrefs='5' idrefs='5' lastused='2003' name='microsoft windows nt' start='729512'>
+    <variant>NT</variant>
+  </canonskill>
+  <canonskill end='732283' experience='1' expidrefs='4' idrefs='4' lastused='2005' name='microsoft windows xp' start='732100'>
+    <variant>Windows XP</variant>
+  </canonskill>
+  <canonskill end='732283' experience='1' expidrefs='4,5' idrefs='4,5' lastused='2005' name='monitors' start='729512'>
+    <variant>monitors</variant>
+  </canonskill>
+  <canonskill education='1' end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='networking' start='732830'>
+    <variant>Network</variant>
+    <variant>network</variant>
+    <variant>Networking</variant>
+  </canonskill>
+  <canonskill end='732283' experience='1' expidrefs='4' idrefs='4' lastused='2005' name='pc' start='732100'>
+    <variant>IBM PCs</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='peripherals' start='732830'>
+    <variant>peripherals</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,3' idrefs='1,3' lastused='2012' name='policy analysis' start='732314'>
+    <variant>policies</variant>
+  </canonskill>
+  <canonskill end='732283' experience='1' expidrefs='4,5' idrefs='4,5' lastused='2005' name='printers' start='729512'>
+    <variant>printer</variant>
+    <variant>printers</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='process engineering' start='732830'>
+    <variant>processes</variant>
+  </canonskill>
+  <canonskill end='731552' experience='1' expidrefs='5' idrefs='5' lastused='2003' name='programming' start='729512'>
+    <variant>coding</variant>
+  </canonskill>
+  <canonskill name='routers'>
+    <variant>Routers</variant>
+  </canonskill>
+  <canonskill name='servers'>
+    <variant>Servers</variant>
+  </canonskill>
+  <canonskill end='731552' experience='1' expidrefs='5' idrefs='5' lastused='2003' name='shell scripting' start='729512'>
+    <variant>scripts</variant>
+  </canonskill>
+  <canonskill end='732526' experience='1' expidrefs='3' idrefs='3' lastused='2006' name='technical support' start='732314'>
+    <variant>technical support</variant>
+    <variant>Desktop Support</variant>
+  </canonskill>
+  <canonskill end='731552' experience='1' expidrefs='5' idrefs='5' lastused='2003' name='unix' start='729512'>
+    <variant>UNIX</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,5' idrefs='1,5' lastused='2012' name='upgrades' start='729512'>
+    <variant>upgrades</variant>
+    <variant>Upgrade</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

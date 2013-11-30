@@ -1,0 +1,235 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734597' xml:space='preserve'><contact><name><givenname>Joshua</givenname> <surname>Bacon</surname></name>
+<address lat='28.5157' lon='81.4823' majorcity='ORLANDO' state='FL'><street>6344 Raleigh St Apt 1111</street> <city>Orlando</city>, <state abbrev='FL'>FL</state> <postalcode>32835</postalcode></address>
+<phone>(407) 690-8790</phone> <email>Jbacon115@email.itt-tech.edu</email></contact>
+<summary>OBJECTIVE
+<objective>To obtain a help desk or entry level Network Administrative position within a professional environment that enables me to maximize and advance my computer knowledge and experience.</objective></summary>
+
+<skills>CREDENTIALS
+<skills>Operating Systems
+Windows  7/XP/Vista/2003
+Red Hat Linux
+Hardware
+Dell, Hewlett Packard, Toshiba, Sony, E Machine
+Install, configure and troubleshoot PC's
+DSL modems
+Laptops
+Wireless cards
+USB adapters
+External/Internal drives
+Sound Cards
+Assemble PC's to the component level
+Security
+Norton Anti-Virus
+McAfee
+Spyware
+Virus and Spam removal
+Firewalls
+VPN's	Networking
+Subnet Masking
+IP Addressing
+LAN/WAN Technology
+TCP/IP Protocols
+Router configuration: Cisco
+GUI Applications
+Ethernet Drivers
+Windows Server 2008
+Activity Directory
+Software
+Microsoft office 2007( Word, Excel, PowerPoint, Access, Outlook)
+Sunbox Virtual
+SAP (Systems Applications and Products)
+VM Ware
+Remote Desktop
+Virtual Machines
+Linux Adminstration</skills>
+Customer Service
+Five years Call Center experience
+Strong written and oral communication skills
+Strong ability to patiently assist customers with diagnosis and problem resolution
+Maintain customer loyalty by treating customers with empathy and professionalism, resolving issues to the satisfaction of the customer and the company</skills>	
+
+
+<experience end='present' start='731949'>EXPERIENCE
+<job end='present' id='1' pos='1' start='733410'><daterange><start days='733410' iso8601='2009-01-01'>2009</start> - <end days='present' iso8601='2012-04-02'>Present</end></daterange>				<department>Department of Economic Opportunity</department>			<address><city>Orlando</city>, <state abbrev='FL'>FL</state></address>
+<title>Claims Representative</title>			
+Processing Payments
+<description>Providing information to claimants regarding their claims 
+Resolving issues with customer accounts
+Documenting call interactions 
+Mailing requested documents to claimants
+Handling Inbound/Outbound calls</description></job>
+
+<job end='733410' id='2' pos='2' start='732679'><daterange><start days='732679' iso8601='2007-01-01'>2007</start> - <end days='733410' iso8601='2009-01-01'>2009</end></daterange>	<employer>Nations Health</employer>        	<address><city>Fort Pierce</city>, <state abbrev='FL'>FL</state></address>
+Customer Service / <title>Sales Representative</title>
+<description>Placing new and existing orders for customers
+Educating customers on new products
+Upgrading customers medical equipment and supplies
+Retrieving and billing medical insurance
+Resolving account issues</description></job> 
+
+<job end='732679' id='3' pos='3' sic='999977' sic2='99' start='731949'><daterange><start days='731949' iso8601='2005-01-01'>2005</start> - <end days='732679' iso8601='2007-01-01'>2007</end></daterange>	<employer>Liberty Medical</employer>						<address>Port <city>St Lucie</city>, <state abbrev='FL'>FL</state></address>
+Customer Service / <title>Sales Representative</title>
+<description>Re-ording  prescription medication for customers
+Educating customers on new products
+Upgrading customers medical equipment and supplies
+Retrieving and billing medical insurance 
+Handing Inbound / Outbound calls</description></job></experience>
+
+<education>EDUCATION
+<school id='4'><daterange><start days='733410' iso8601='2009-01-01'>2009</start> - <end days='present' iso8601='2012-04-02'>Present</end></daterange>				<institution>ITT Technical Institute</institution>					<address><city>Orlando</city>, <state abbrev='FL'>FL</state></address>
+Pursuing an <degree level='14'>Associate of Science Degree</degree> in <major code='1201'>Information Technology - Computer Network Systems</major></school></education>
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='733410' experience='1' expidrefs='2,3' idrefs='2,3' lastused='2009' name='billing' start='731949'>
+    <variant>billing</variant>
+  </canonskill>
+  <canonskill name='call center'>
+    <variant>Call Center</variant>
+  </canonskill>
+  <canonskill name='cisco'>
+    <variant>Cisco</variant>
+  </canonskill>
+  <canonskill name='communication skills'>
+    <variant>oral communication</variant>
+  </canonskill>
+  <canonskill name='computer hardware'>
+    <variant>Hardware</variant>
+  </canonskill>
+  <canonskill name='customer service'>
+    <variant>Customer Service</variant>
+  </canonskill>
+  <canonskill name='dell computers'>
+    <variant>Dell</variant>
+  </canonskill>
+  <canonskill name='diagnosis'>
+    <variant>diagnosis</variant>
+  </canonskill>
+  <canonskill name='drivers'>
+    <variant>Drivers</variant>
+  </canonskill>
+  <canonskill name='dsl'>
+    <variant>DSL</variant>
+  </canonskill>
+  <canonskill name='ethernet'>
+    <variant>Ethernet</variant>
+  </canonskill>
+  <canonskill name='firewalls'>
+    <variant>Firewalls</variant>
+  </canonskill>
+  <canonskill name='graphical user interface'>
+    <variant>GUI</variant>
+  </canonskill>
+  <canonskill name='hewlett packard'>
+    <variant>Hewlett Packard</variant>
+  </canonskill>
+  <canonskill end='733410' experience='1' expidrefs='2,3' idrefs='2,3' lastused='2009' name='insurance' start='731949'>
+    <variant>insurance</variant>
+  </canonskill>
+  <canonskill name='ip'>
+    <variant>IP</variant>
+  </canonskill>
+  <canonskill name='lan'>
+    <variant>LAN</variant>
+  </canonskill>
+  <canonskill name='laptop computers'>
+    <variant>Laptops</variant>
+  </canonskill>
+  <canonskill name='linux'>
+    <variant>Linux</variant>
+  </canonskill>
+  <canonskill name='mcafee'>
+    <variant>McAfee</variant>
+  </canonskill>
+  <canonskill name='microsoft access'>
+    <variant>Access</variant>
+  </canonskill>
+  <canonskill name='microsoft excel'>
+    <variant>Excel</variant>
+  </canonskill>
+  <canonskill name='microsoft office'>
+    <variant>Microsoft office</variant>
+  </canonskill>
+  <canonskill name='microsoft outlook'>
+    <variant>Outlook</variant>
+  </canonskill>
+  <canonskill name='microsoft powerpoint'>
+    <variant>PowerPoint</variant>
+  </canonskill>
+  <canonskill name='microsoft windows'>
+    <variant>Windows</variant>
+  </canonskill>
+  <canonskill name='microsoft windows xp'>
+    <variant>Windows  7/XP</variant>
+  </canonskill>
+  <canonskill name='microsoft word'>
+    <variant>Word</variant>
+  </canonskill>
+  <canonskill name='modems'>
+    <variant>modems</variant>
+  </canonskill>
+  <canonskill name='networking'>
+    <variant>Networking</variant>
+  </canonskill>
+  <canonskill name='norton antivirus'>
+    <variant>Norton Anti-Virus</variant>
+  </canonskill>
+  <canonskill name='operating systems'>
+    <variant>Operating Systems</variant>
+  </canonskill>
+  <canonskill name='pc'>
+    <variant>PC's</variant>
+  </canonskill>
+  <canonskill name='problem solving'>
+    <variant>problem resolution</variant>
+  </canonskill>
+  <canonskill name='protocols'>
+    <variant>Protocols</variant>
+  </canonskill>
+  <canonskill name='red hat linux'>
+    <variant>Red Hat Linux</variant>
+  </canonskill>
+  <canonskill name='routers'>
+    <variant>Router</variant>
+  </canonskill>
+  <canonskill name='sap'>
+    <variant>SAP</variant>
+  </canonskill>
+  <canonskill name='sound cards'>
+    <variant>Sound Cards</variant>
+  </canonskill>
+  <canonskill name='tcp/ip'>
+    <variant>TCP/IP</variant>
+  </canonskill>
+  <canonskill name='toshiba'>
+    <variant>Toshiba</variant>
+  </canonskill>
+  <canonskill name='troubleshooting'>
+    <variant>troubleshoot</variant>
+  </canonskill>
+  <canonskill end='733410' experience='1' expidrefs='2,3' idrefs='2,3' lastused='2009' name='upgrades' start='731949'>
+    <variant>Upgrading</variant>
+  </canonskill>
+  <canonskill name='usb'>
+    <variant>USB</variant>
+  </canonskill>
+  <canonskill name='vista'>
+    <variant>Vista</variant>
+  </canonskill>
+  <canonskill name='vm'>
+    <variant>VM</variant>
+  </canonskill>
+  <canonskill name='vpn'>
+    <variant>VPN</variant>
+  </canonskill>
+  <canonskill name='wan'>
+    <variant>WAN</variant>
+  </canonskill>
+  <canonskill name='writing'>
+    <variant>written</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

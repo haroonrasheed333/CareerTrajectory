@@ -1,0 +1,145 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CPT", 
+            "Certification Name": "Certified Phlebotomy Technician", 
+            "Type": "Core", 
+            "Certification ID": "2448", 
+            "Certifying Organization": "American Society of Phlebotomy Technicians"
+        }, 
+        {
+            "Acronym": "POCT", 
+            "Certification Name": "Point-of-Care Technician", 
+            "Type": "Core", 
+            "Certification ID": "2449", 
+            "Certifying Organization": "American Society of Phlebotomy Technicians"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Patient Care Technician", 
+            "Type": "Core", 
+            "Certification ID": "8530", 
+            "Certifying Organization": "American Phlebotomy Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "EKG Technician", 
+            "Type": "Core", 
+            "Certification ID": "8531", 
+            "Certifying Organization": "American Phlebotomy Association"
+        }, 
+        {
+            "Acronym": "VA-BC", 
+            "Certification Name": "Vascular Access-Board Certified", 
+            "Type": "Core", 
+            "Certification ID": "9533", 
+            "Certifying Organization": "Vascular Access Certification Corporation"
+        }, 
+        {
+            "Acronym": "NCPT", 
+            "Certification Name": "Nationally Certified Phlebotomy Technician", 
+            "Type": "Core", 
+            "Certification ID": "6295", 
+            "Certifying Organization": "National Center for Competency Testing"
+        }, 
+        {
+            "Acronym": "CPT", 
+            "Certification Name": "Certified Phlebotomy Technician", 
+            "Type": "Core", 
+            "Certification ID": "3784", 
+            "Certifying Organization": "National Healthcareer Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Clinical Research Assistant", 
+            "Type": "Core", 
+            "Certification ID": "8529", 
+            "Certifying Organization": "American Phlebotomy Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Phlebotomist", 
+            "Type": "Core", 
+            "Certification ID": "5667", 
+            "Certifying Organization": "National Phlebotomy Association"
+        }, 
+        {
+            "Acronym": "PBT", 
+            "Certification Name": "International Phlebotomy Technician", 
+            "Type": "Core", 
+            "Certification ID": "6702", 
+            "Certifying Organization": "American Society for Clinical Pathology"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Phlebotomist", 
+            "Type": "Core", 
+            "Certification ID": "1090", 
+            "Certifying Organization": "American Medical Technologists"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Phlebotomy Technician", 
+            "Type": "Core", 
+            "Certification ID": "8532", 
+            "Certifying Organization": "American Phlebotomy Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Donor Phlebotomy Technician", 
+            "Type": "Core", 
+            "Certification ID": "3951", 
+            "Certifying Organization": "American Society for Clinical Pathology"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certificate in Skin Puncture", 
+            "Type": "Core", 
+            "Certification ID": "5785", 
+            "Certifying Organization": "American Society of Phlebotomy Technicians"
+        }, 
+        {
+            "Acronym": "PCT", 
+            "Certification Name": "Patient Care Technician", 
+            "Type": "Core", 
+            "Certification ID": "2453", 
+            "Certifying Organization": "American Society of Phlebotomy Technicians"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Paramedical Insurance Examiner", 
+            "Type": "Specialty", 
+            "Certification ID": "2452", 
+            "Certifying Organization": "American Society of Phlebotomy Technicians"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Arterial Blood Gas Collection", 
+            "Type": "Core", 
+            "Certification ID": "5784", 
+            "Certifying Organization": "American Society of Phlebotomy Technicians"
+        }, 
+        {
+            "Acronym": "PT", 
+            "Certification Name": "Phlebotomy Technician", 
+            "Type": "Core", 
+            "Certification ID": "7870", 
+            "Certifying Organization": "American Association of Bioanalysts"
+        }, 
+        {
+            "Acronym": "ASCP)", 
+            "Certification Name": "Phlebotomy Technician", 
+            "Type": "Core", 
+            "Certification ID": "1816", 
+            "Certifying Organization": "American Society for Clinical Pathology"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Drug Collection Specialist", 
+            "Type": "Core", 
+            "Certification ID": "2451", 
+            "Certifying Organization": "American Society of Phlebotomy Technicians"
+        }
+    ], 
+    "onet": "31909700"
+}

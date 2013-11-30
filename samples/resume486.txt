@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734594' xml:space='preserve'><contact><name><givenname>Brittany</givenname> <givenname>M</givenname>. <surname>Flanagan</surname></name>		
+<address lat='38.5247' lon='76.9736' majorcity='LA PLATA' state='MD'><street>6560 Dobbins Lane</street>, <city>LaPlata</city>, <state abbrev='MD'>Maryland</state> <postalcode>20646</postalcode></address>
+<phone>301-751-8726</phone>* <email>bmflanagan115@gmail.com</email></contact>
+<summary>ADMINISTRATIVE ASSISTANT
+<objective>In searching for full-time employment my goals include enhancing computer skills and technology while keeping everyday tasks in administration at the forefront.  Furthering my education in the medical field while sharing my strong core values in the field of customer service where my positive nature and capable work ethic will be recognized and given room to grow.</objective></summary>
+<experience end='present' start='730853'>PROFESSIONAL EXPERIENCE
+<job end='present' id='1' pos='1' start='731583'><employer>DJC Telco</employer> * <address lat='38.5239' lon='76.7749' majorcity='HUGHESVILLE' state='MD'><city>Hughesville</city>, <state abbrev='MD'>Maryland</state> <postalcode>20637</postalcode></address>* <daterange><start days='731583' iso8601='2004-01-01'>January 2004</start>-<end days='present' iso8601='2012-03-30'>Present</end></daterange>
+IT Services - <description>Providing customized telecommunications within the public and private sectors.</description> 
+<title>Technician</title>
+<description>Installation and programming of telephone communication systems in and around the Maryland area on projects such as:
+Pentagon City Mall</description></job> 
+<job end='present' id='2' pos='2' sic='783201' sic2='78' start='730853'><employer>St Charles Towne Center</employer>  
+Private In Home Childcare * <address>Southern <state abbrev='MD'>Maryland</state></address>* <daterange><start days='730853' iso8601='2002-01-01'>2002</start>-<end days='present' iso8601='2012-03-30'>Present</end></daterange>
+<title>Babysitter</title>
+<description>Caring for young children ranging in ages from infants to 10 yrs of age.  Providing full weekend care to as many as 4 children at any given time.</description></job>  
+<job end='733653' id='3' pos='3' sic='5812' sic2='58' start='733530'><employer>Boston's Gourmet Pizza</employer> * <address lat='38.6287' lon='76.8763' majorcity='WALDORF' state='MD'><city>Waldorf</city>, <state abbrev='MD'>Maryland</state> <postalcode>20601</postalcode></address>* <daterange><start days='733530' iso8601='2009-05-01'>May 2009</start>-<end days='733653' iso8601='2009-09-01'>Sept 2009</end></daterange>
+<description>Restaurant - Family oriented pizzeria offering in house dining and full service carry out menu.  
+Hostess
+Customer service, greeting and seating of customers. Receiving and processing To Go orders via the phone. Responsible for all monies transferred for orders placed To Go. In addition to general daily housekeeping of store front and restrooms.</description></job>  
+<job end='732679' id='4' pos='4' sic='804101' sic2='80' start='732345'><employer>Clinton Chiropractic</employer> * <address lat='38.7566' lon='76.9039' majorcity='CLINTON' state='MD'><city>Clinton</city>, <state abbrev='MD'>Maryland</state> <postalcode>20735</postalcode></address> * <daterange><start days='732345' iso8601='2006-02-01'>February 2006</start>-<end days='732679' iso8601='2007-01-01'>January 2007</end></daterange>
+<description>Chiropractors Office - Servicing the Clinton area for their Chiropractic needs.</description> 
+<title>Receptionist</title>
+<description>Greeting patients, processing intake information and directing clients to appropriate area for treatment.
+All filing of patient documentation, receivables, mail and the like on a daily basis.
+Answered telephones and scheduled appointments accordingly.</description></job></experience>
+<statements>EDUCATION
+<activities>Currently enrolled at The College of Southern Maryland LaPlata Campus since September 2009, studies are focused in the field of General Medicine, Radiology and Psychology.</activities></statements> 
+<skills>Comfortably perform daily tasks in <skills>Microsoft Word, Microsoft Power Point, Emails, Telephone Communications, Scanning, Facsimile, Shredding Private Documents, Internet Research, Typewriter 60WPM, Label Maker, Shorthand, Software Installation, Postage Machine, Cash Register, Hand Tools and Basic Power Tools</skills></skills> 
+<references>References furnished upon request</references>
+
+
+
+
+
+
+</resume>
+
+<skillrollup version='1'>
+  <canonskill name='basic'>
+    <variant>Basic</variant>
+  </canonskill>
+  <canonskill name='cashier'>
+    <variant>Cash Register</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='4' idrefs='4' lastused='2007' name='customer relations' start='732345'>
+    <variant>clients</variant>
+  </canonskill>
+  <canonskill end='733653' experience='1' expidrefs='3' idrefs='3' lastused='2009' name='customer service' start='733530'>
+    <variant>Customer service</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='4' idrefs='4' lastused='2007' name='directing' start='732345'>
+    <variant>directing</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='4' idrefs='4' lastused='2007' name='documentation' start='732345'>
+    <variant>documentation</variant>
+  </canonskill>
+  <canonskill name='fax'>
+    <variant>Facsimile</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='4' idrefs='4' lastused='2007' name='file management' start='732345'>
+    <variant>filing</variant>
+  </canonskill>
+  <canonskill name='hand tools'>
+    <variant>Hand Tools</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='4' idrefs='4' lastused='2007' name='microsoft mail' start='732345'>
+    <variant>mail</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='4' idrefs='4' lastused='2007' name='microsoft office' start='732345'>
+    <variant>Office</variant>
+  </canonskill>
+  <canonskill name='microsoft powerpoint'>
+    <variant>Microsoft Power Point</variant>
+  </canonskill>
+  <canonskill name='microsoft word'>
+    <variant>Microsoft Word</variant>
+  </canonskill>
+  <canonskill name='online research'>
+    <variant>Internet Research</variant>
+  </canonskill>
+  <canonskill name='postage meter'>
+    <variant>Postage Machine</variant>
+  </canonskill>
+  <canonskill name='power tools'>
+    <variant>Power Tools</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='programming' start='731583'>
+    <variant>programming</variant>
+  </canonskill>
+  <canonskill end='733653' experience='1' expidrefs='3' idrefs='3' lastused='2009' name='receiving' start='733530'>
+    <variant>Receiving</variant>
+  </canonskill>
+  <canonskill name='scanners'>
+    <variant>Scanning</variant>
+  </canonskill>
+  <canonskill name='shorthand'>
+    <variant>Shorthand</variant>
+  </canonskill>
+  <canonskill name='software installation'>
+    <variant>Software Installation</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='telecommunications' start='731583'>
+    <variant>telecommunications</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,3,4' idrefs='1,3,4' lastused='2012' name='telephone skills' start='731583'>
+    <variant>Telephone</variant>
+    <variant>telephone</variant>
+    <variant>telephones</variant>
+    <variant>phone</variant>
+  </canonskill>
+  <canonskill name='typing'>
+    <variant>Typewriter</variant>
+    <variant>60WPM</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

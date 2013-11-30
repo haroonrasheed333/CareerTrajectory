@@ -1,0 +1,96 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "NCC", 
+            "Certification Name": "National Certified Counselor", 
+            "Type": "Advanced", 
+            "Certification ID": "0356", 
+            "Certifying Organization": "National Board for Certified Counselors"
+        }, 
+        {
+            "Acronym": "CRS", 
+            "Certification Name": "Certified Relationship Specialist", 
+            "Type": "Advanced", 
+            "Certification ID": "5967", 
+            "Certifying Organization": "American Psychotherapy Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification in Cognitive Therapy", 
+            "Type": "Core", 
+            "Certification ID": "8670", 
+            "Certifying Organization": "Academy of Cognitive Therapy"
+        }, 
+        {
+            "Acronym": "CST", 
+            "Certification Name": "Sex Therapist Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "2096", 
+            "Certifying Organization": "American Association of Sexuality Educators, Counselors and Therapists"
+        }, 
+        {
+            "Acronym": "CEDSN", 
+            "Certification Name": "Certified Eating Disorders Specialist in Nutrition", 
+            "Type": "Specialty", 
+            "Certification ID": "2682", 
+            "Certifying Organization": "International Association of Eating Disorders Professionals"
+        }, 
+        {
+            "Acronym": "CSE", 
+            "Certification Name": "Sex Counselor Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "2095", 
+            "Certifying Organization": "American Association of Sexuality Educators, Counselors and Therapists"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Family Crisis Inteventionist Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "7002", 
+            "Certifying Organization": "Association of Christian Alcohol and Drug Counselors"
+        }, 
+        {
+            "Acronym": "BCB", 
+            "Certification Name": "Board Certified in Biofeedback", 
+            "Type": "Specialty", 
+            "Certification ID": "2318", 
+            "Certifying Organization": "Biofeedback Certification International Alliance"
+        }, 
+        {
+            "Acronym": "CAS", 
+            "Certification Name": "Certified Addiction Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "2443", 
+            "Certifying Organization": "American Academy of Health Care Providers in the Addictive Disorders"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Sex Therapist Supervisor Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "7850", 
+            "Certifying Organization": "American Association of Sexuality Educators, Counselors and Therapists"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Board Certified Specialist in Couple and  Family Psychology", 
+            "Type": "Specialty", 
+            "Certification ID": "2122", 
+            "Certifying Organization": "American Board of Professional Psychology"
+        }, 
+        {
+            "Acronym": "BCAB", 
+            "Certification Name": "Board Certified Behavior Analyst", 
+            "Type": "Advanced", 
+            "Certification ID": "5983", 
+            "Certifying Organization": "Behavior Analyst Certification Board"
+        }, 
+        {
+            "Acronym": "DCC", 
+            "Certification Name": "Distance Credentialed Counselor", 
+            "Type": "Advanced", 
+            "Certification ID": "3817", 
+            "Certifying Organization": "Center for Credentialing & Education, Inc."
+        }
+    ], 
+    "onet": "21101300"
+}

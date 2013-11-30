@@ -1,0 +1,19 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CPF", 
+            "Certification Name": "Certified Professional Facilitator", 
+            "Type": "Core", 
+            "Certification ID": "9105", 
+            "Certifying Organization": "International Association of Facilitators"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Board Certified Family Lawyers & Attorneys", 
+            "Type": "Specialty", 
+            "Certification ID": "7990", 
+            "Certifying Organization": "National Board of Trial Advocacy"
+        }
+    ], 
+    "onet": "23102200"
+}

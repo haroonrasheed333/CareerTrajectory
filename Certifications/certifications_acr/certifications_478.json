@@ -1,0 +1,474 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "PMAC", 
+            "Certification Name": "Podiatric Medical Assistant, Certified", 
+            "Type": "Specialty", 
+            "Certification ID": "1094", 
+            "Certifying Organization": "American Society of Podiatric Medical Assistants"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Patient Care Technician", 
+            "Type": "Core", 
+            "Certification ID": "8530", 
+            "Certifying Organization": "American Phlebotomy Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "EKG Technician", 
+            "Type": "Core", 
+            "Certification ID": "8531", 
+            "Certifying Organization": "American Phlebotomy Association"
+        }, 
+        {
+            "Acronym": "CIRCC", 
+            "Certification Name": "Certified Interventional Radiology Cardiovascular Coder", 
+            "Type": "Specialty", 
+            "Certification ID": "5731", 
+            "Certifying Organization": "American Academy of Professional Coders"
+        }, 
+        {
+            "Acronym": "CPC", 
+            "Certification Name": "Certified Procurement Coordinators", 
+            "Type": "Specialty", 
+            "Certification ID": "5943", 
+            "Certifying Organization": "Organization for Transplant Professionals"
+        }, 
+        {
+            "Acronym": "CRC", 
+            "Certification Name": "Certified Radiology Coder", 
+            "Type": "Specialty", 
+            "Certification ID": "6108", 
+            "Certifying Organization": "Radiology Coding Certification Board"
+        }, 
+        {
+            "Acronym": "CCC", 
+            "Certification Name": "Certified Cardiology Coder", 
+            "Type": "Specialty", 
+            "Certification ID": "6733", 
+            "Certifying Organization": "American Academy of Professional Coders"
+        }, 
+        {
+            "Acronym": "CEMC", 
+            "Certification Name": "Certified Evaluation and Management Coder", 
+            "Type": "Specialty", 
+            "Certification ID": "6738", 
+            "Certifying Organization": "American Academy of Professional Coders"
+        }, 
+        {
+            "Acronym": "COBGC", 
+            "Certification Name": "Certified Obstetrics Gynecology Coder", 
+            "Type": "Specialty", 
+            "Certification ID": "6744", 
+            "Certifying Organization": "American Academy of Professional Coders"
+        }, 
+        {
+            "Acronym": "CRHC", 
+            "Certification Name": "Certified Rheumatology Coder", 
+            "Type": "Specialty", 
+            "Certification ID": "6749", 
+            "Certifying Organization": "American Academy of Professional Coders"
+        }, 
+        {
+            "Acronym": "CWCA", 
+            "Certification Name": "Certified Wound Care Associate", 
+            "Type": "Specialty", 
+            "Certification ID": "6476", 
+            "Certifying Organization": "American Board of Wound Management"
+        }, 
+        {
+            "Acronym": "MACE", 
+            "Certification Name": "Medication Aide Certification", 
+            "Type": "Core", 
+            "Certification ID": "7639", 
+            "Certifying Organization": "National Council of State Boards of Nursing"
+        }, 
+        {
+            "Acronym": "CPC", 
+            "Certification Name": "Certified Professional Coder", 
+            "Type": "Core", 
+            "Certification ID": "2165", 
+            "Certifying Organization": "American Academy of Professional Coders"
+        }, 
+        {
+            "Acronym": "CHAM", 
+            "Certification Name": "Certified Healthcare Access Manager", 
+            "Type": "Specialty", 
+            "Certification ID": "7949", 
+            "Certifying Organization": "National Association of Healthcare Access Management"
+        }, 
+        {
+            "Acronym": "CGIC", 
+            "Certification Name": "Certified Gastroenterology Coder", 
+            "Type": "Specialty", 
+            "Certification ID": "6740", 
+            "Certifying Organization": "American Academy of Professional Coders"
+        }, 
+        {
+            "Acronym": "CHONC", 
+            "Certification Name": "Certified Hematology and Oncology Coder", 
+            "Type": "Specialty", 
+            "Certification ID": "6742", 
+            "Certifying Organization": "American Academy of Professional Coders"
+        }, 
+        {
+            "Acronym": "CUC", 
+            "Certification Name": "Certified Urology Coder", 
+            "Type": "Specialty", 
+            "Certification ID": "6750", 
+            "Certifying Organization": "American Academy of Professional Coders"
+        }, 
+        {
+            "Acronym": "CPCT/CPCA/CNT", 
+            "Certification Name": "Certified Patient Care Technician/Associate/Nurse Technician", 
+            "Type": "Core", 
+            "Certification ID": "3782", 
+            "Certifying Organization": "National Healthcareer Association"
+        }, 
+        {
+            "Acronym": "CMCO", 
+            "Certification Name": "Certified Medical Compliance Officer", 
+            "Type": "Core", 
+            "Certification ID": "8676", 
+            "Certifying Organization": "Practice Management Institute"
+        }, 
+        {
+            "Acronym": "CMI", 
+            "Certification Name": "Certified Medical Interpreter", 
+            "Type": "Core", 
+            "Certification ID": "6037", 
+            "Certifying Organization": "The National Board of Certification for Medical Interpreters"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Functional Training Specialty Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "9108", 
+            "Certifying Organization": "American Council on Exercise"
+        }, 
+        {
+            "Acronym": "CAC", 
+            "Certification Name": "Certified Alzheimer Caregiver", 
+            "Type": "Specialty", 
+            "Certification ID": "8681", 
+            "Certifying Organization": "National Certification Board for Alzheimer Care"
+        }, 
+        {
+            "Acronym": "CPCS", 
+            "Certification Name": "Certified Provider Credentialing Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "4355", 
+            "Certifying Organization": "National Association of Medical Services Staff"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Clinical Research Assistant", 
+            "Type": "Core", 
+            "Certification ID": "8529", 
+            "Certifying Organization": "American Phlebotomy Association"
+        }, 
+        {
+            "Acronym": "CCHT", 
+            "Certification Name": "Certified Clinical Hemodialysis Technician", 
+            "Type": "Specialty", 
+            "Certification ID": "5668", 
+            "Certifying Organization": "Nephrology Nursing Certification Commission"
+        }, 
+        {
+            "Acronym": "CCTC", 
+            "Certification Name": "Certified Clinical Transplant Coordinators", 
+            "Type": "Specialty", 
+            "Certification ID": "5944", 
+            "Certifying Organization": "Organization for Transplant Professionals"
+        }, 
+        {
+            "Acronym": "NCMA", 
+            "Certification Name": "Nationally Certified Medical Assistant", 
+            "Type": "Core", 
+            "Certification ID": "6291", 
+            "Certifying Organization": "National Center for Competency Testing"
+        }, 
+        {
+            "Acronym": "NCICS", 
+            "Certification Name": "Nationally Certified Insurance and Coding Specialist", 
+            "Type": "Core", 
+            "Certification ID": "6290", 
+            "Certifying Organization": "National Center for Competency Testing"
+        }, 
+        {
+            "Acronym": "NCPCT", 
+            "Certification Name": "Nationally Certified Patient Care Technician", 
+            "Type": "Core", 
+            "Certification ID": "6293", 
+            "Certifying Organization": "National Center for Competency Testing"
+        }, 
+        {
+            "Acronym": "CASCC", 
+            "Certification Name": "Certified ASC Coder", 
+            "Type": "Specialty", 
+            "Certification ID": "6731", 
+            "Certifying Organization": "American Academy of Professional Coders"
+        }, 
+        {
+            "Acronym": "CCPC", 
+            "Certification Name": "Certified Chiropractic Professional Coder", 
+            "Type": "Specialty", 
+            "Certification ID": "6735", 
+            "Certifying Organization": "American Academy of Professional Coders"
+        }, 
+        {
+            "Acronym": "CPCD", 
+            "Certification Name": "Certified Professional Coder in Dermatology", 
+            "Type": "Specialty", 
+            "Certification ID": "6736", 
+            "Certifying Organization": "American Academy of Professional Coders"
+        }, 
+        {
+            "Acronym": "CEDC", 
+            "Certification Name": "Certified Emergency Department Coder", 
+            "Type": "Specialty", 
+            "Certification ID": "6737", 
+            "Certifying Organization": "American Academy of Professional Coders"
+        }, 
+        {
+            "Acronym": "CFPC", 
+            "Certification Name": "Certified Family Practice Coder", 
+            "Type": "Specialty", 
+            "Certification ID": "6739", 
+            "Certifying Organization": "American Academy of Professional Coders"
+        }, 
+        {
+            "Acronym": "CPRC", 
+            "Certification Name": "Certified Plastic and Reconstructive Surgery Coder", 
+            "Type": "Specialty", 
+            "Certification ID": "6748", 
+            "Certifying Organization": "American Academy of Professional Coders"
+        }, 
+        {
+            "Acronym": "NHA,", 
+            "Certification Name": "Certified Clinical Medical Assistant", 
+            "Type": "Core", 
+            "Certification ID": "3779", 
+            "Certifying Organization": "National Healthcareer Association"
+        }, 
+        {
+            "Acronym": "CMA", 
+            "Certification Name": "Certified Medical Assistant", 
+            "Type": "Core", 
+            "Certification ID": "1093", 
+            "Certifying Organization": "American Association of Medical Assistants"
+        }, 
+        {
+            "Acronym": "CCS-P", 
+            "Certification Name": "Certified Coding Specialist--Physician-based", 
+            "Type": "Specialty", 
+            "Certification ID": "1573", 
+            "Certifying Organization": "American Health Information Management Association"
+        }, 
+        {
+            "Acronym": "COSC", 
+            "Certification Name": "Certified Orthopaedic Surgery Coder", 
+            "Type": "Specialty", 
+            "Certification ID": "6745", 
+            "Certifying Organization": "American Academy of Professional Coders"
+        }, 
+        {
+            "Acronym": "CMAA", 
+            "Certification Name": "Certified Medical Administrative Assistant", 
+            "Type": "Core", 
+            "Certification ID": "3780", 
+            "Certifying Organization": "National Healthcareer Association"
+        }, 
+        {
+            "Acronym": "CCS", 
+            "Certification Name": "Certified Coding Specialist", 
+            "Type": "Core", 
+            "Certification ID": "1572", 
+            "Certifying Organization": "American Health Information Management Association"
+        }, 
+        {
+            "Acronym": "CPCHA", 
+            "Certification Name": "Certified Professional Coder-Hospital", 
+            "Type": "Core", 
+            "Certification ID": "2689", 
+            "Certifying Organization": "American Academy of Professional Coders"
+        }, 
+        {
+            "Acronym": "CCOA", 
+            "Certification Name": "Corporate Certified Ophthalmic Assistant", 
+            "Type": "Specialty", 
+            "Certification ID": "4747", 
+            "Certifying Organization": "Joint Commission on Allied Health Personnel in Ophthalmology"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Registered Medical Assistant", 
+            "Type": "Core", 
+            "Certification ID": "8528", 
+            "Certifying Organization": "American Phlebotomy Association"
+        }, 
+        {
+            "Acronym": "CHAA", 
+            "Certification Name": "Certified Healthcare Access Associate", 
+            "Type": "Specialty", 
+            "Certification ID": "7950", 
+            "Certifying Organization": "National Association of Healthcare Access Management"
+        }, 
+        {
+            "Acronym": "CPEDC", 
+            "Certification Name": "Certified Pediatrics Coder", 
+            "Type": "Specialty", 
+            "Certification ID": "6747", 
+            "Certifying Organization": "American Academy of Professional Coders"
+        }, 
+        {
+            "Acronym": "CHT", 
+            "Certification Name": "Certified Hemodialysis Technologist/Technician", 
+            "Type": "Core", 
+            "Certification ID": "9492", 
+            "Certifying Organization": "Board of Nephrology Examiners Technology Nursing"
+        }, 
+        {
+            "Acronym": "CMC", 
+            "Certification Name": "Certified Medical Coder", 
+            "Type": "Core", 
+            "Certification ID": "5437", 
+            "Certifying Organization": "Practice Management Institute"
+        }, 
+        {
+            "Acronym": "COA", 
+            "Certification Name": "Certified Ophthalmic Assistant", 
+            "Type": "Core", 
+            "Certification ID": "1026", 
+            "Certifying Organization": "Joint Commission on Allied Health Personnel in Ophthalmology"
+        }, 
+        {
+            "Acronym": "CPC-P", 
+            "Certification Name": "Certified Professional Coder-Payer", 
+            "Type": "Core", 
+            "Certification ID": "2166", 
+            "Certifying Organization": "American Academy of Professional Coders"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Phlebotomy Technician", 
+            "Type": "Core", 
+            "Certification ID": "8532", 
+            "Certifying Organization": "American Phlebotomy Association"
+        }, 
+        {
+            "Acronym": "CANPC", 
+            "Certification Name": "Certified Anesthesia and Pain Management Coder", 
+            "Type": "Specialty", 
+            "Certification ID": "6732", 
+            "Certifying Organization": "American Academy of Professional Coders"
+        }, 
+        {
+            "Acronym": "CCVTC", 
+            "Certification Name": "Certified Cardiovascular and Thoracic Surgery", 
+            "Type": "Specialty", 
+            "Certification ID": "6734", 
+            "Certifying Organization": "American Academy of Professional Coders"
+        }, 
+        {
+            "Acronym": "CIMC", 
+            "Certification Name": "Certified Internal Medicine Coder", 
+            "Type": "Specialty", 
+            "Certification ID": "6743", 
+            "Certifying Organization": "American Academy of Professional Coders"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Trauma Registrar", 
+            "Type": "Specialty", 
+            "Certification ID": "6871", 
+            "Certifying Organization": "American Trauma Society"
+        }, 
+        {
+            "Acronym": "CCA", 
+            "Certification Name": "Certified Coding Associate", 
+            "Type": "Core", 
+            "Certification ID": "3914", 
+            "Certifying Organization": "American Health Information Management Association"
+        }, 
+        {
+            "Acronym": "CMRS", 
+            "Certification Name": "Certified Medical Reimbursement Specialist", 
+            "Type": "Core", 
+            "Certification ID": "6761", 
+            "Certifying Organization": "American Medical Billing Association"
+        }, 
+        {
+            "Acronym": "CCH", 
+            "Certification Name": "Certified Colon Hydrotherapist - Foundation", 
+            "Type": "Specialty", 
+            "Certification ID": "2874", 
+            "Certifying Organization": "International Association for Colon Hydrotherapy"
+        }, 
+        {
+            "Acronym": "CCH", 
+            "Certification Name": "Certified Colon Hydrotherapist - Advanced", 
+            "Type": "Advanced", 
+            "Certification ID": "5793", 
+            "Certifying Organization": "International Association for Colon Hydrotherapy"
+        }, 
+        {
+            "Acronym": "CCH", 
+            "Certification Name": "Certified Colon Hydrotherapist - Intermediate", 
+            "Type": "Specialty", 
+            "Certification ID": "5792", 
+            "Certifying Organization": "International Association for Colon Hydrotherapy"
+        }, 
+        {
+            "Acronym": "NCMOA", 
+            "Certification Name": "Nationally Certified Medical Office Assistant", 
+            "Type": "Core", 
+            "Certification ID": "6292", 
+            "Certifying Organization": "National Center for Competency Testing"
+        }, 
+        {
+            "Acronym": "CGSC", 
+            "Certification Name": "Certified General Surgery Coder", 
+            "Type": "Specialty", 
+            "Certification ID": "6741", 
+            "Certifying Organization": "American Academy of Professional Coders"
+        }, 
+        {
+            "Acronym": "CENTC", 
+            "Certification Name": "Certified ENT Coder", 
+            "Type": "Specialty", 
+            "Certification ID": "6746", 
+            "Certifying Organization": "American Academy of Professional Coders"
+        }, 
+        {
+            "Acronym": "CBCS", 
+            "Certification Name": "Certified Billing and Coding Specialist", 
+            "Type": "Core", 
+            "Certification ID": "3783", 
+            "Certifying Organization": "National Healthcareer Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Medical Administrative Specialist", 
+            "Type": "Core", 
+            "Certification ID": "3919", 
+            "Certifying Organization": "American Medical Technologists"
+        }, 
+        {
+            "Acronym": "RHIT", 
+            "Certification Name": "Registered Health Information Technician", 
+            "Type": "Core", 
+            "Certification ID": "1575", 
+            "Certifying Organization": "American Health Information Management Association"
+        }, 
+        {
+            "Acronym": "MA", 
+            "Certification Name": "Medical Assistant", 
+            "Type": "Core", 
+            "Certification ID": "0458", 
+            "Certifying Organization": "American Medical Technologists"
+        }
+    ], 
+    "onet": "31909200"
+}

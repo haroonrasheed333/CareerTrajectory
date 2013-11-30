@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734590' xml:space='preserve'><contact><name><givenname>Eileen</givenname> <surname>Chmielewski</surname></name>
+<address lat='41.4202' lon='87.3559' majorcity='CROWN POINT' state='IN'><street>905 Heritage Ct., 304</street>
+<city>Crown Point</city>, <state abbrev='IN'>Indiana</state> <postalcode>46307</postalcode></address>
+Home: <phone type='home'>(708) 328-7410</phone>
+Mobile: <phone type='cell'>(219) 776-8956</phone>
+E-Mail:  <email>ledojo@comcast.net</email></contact>
+<education>EDUCATION
+<school id='5'><daterange><start days='723183' iso8601='1981-01-01'>1981</start>-<end days='724644' iso8601='1985-01-01'>1985</end></daterange>	<institution>Elizabeth Seton High School</institution>
+		<address>South <city>Holland</city>, <state abbrev='IL'>Illinois</state></address></school>
+<school id='6'><daterange><start days='724644' iso8601='1985-01-01'>1985</start>-<end days='725374' iso8601='1987-01-01'>1987</end></daterange>	<institution>South Suburban College</institution>
+		<address>South <city>Holland</city>, <state abbrev='IL'>Illinois</state></address></school></education>
+
+<experience end='present' start='724644'>WORK HISTORY
+<job end='726470' id='1' pos='4' sic='171102' sic2='17' start='724644'><daterange><start days='724644' iso8601='1985-01-01'>1985</start>-<end days='726470' iso8601='1990-01-01'>1990</end></daterange>	<title>Accounts Payable Clerk</title>
+		<employer>Air-Rite Heating &amp; Cooling</employer>
+		<address><city>Mokena</city>, <state abbrev='IL'>Illinois</state></address>
+
+Duties:	<description>Processing operating expenses for the company
+* expense reports
+* time sheets 
+* payroll
+* purchase orders
+* filing 
+* receptionist duties</description></job>
+
+<job end='733044' id='2' pos='3' sic='861102' sic2='86' start='726470'><daterange><start days='726470' iso8601='1990-01-01'>1990</start>-<end days='733044' iso8601='2008-01-01'>2008</end></daterange>	<title>Sr. Accounts Payable Accountant</title>
+		<employer>Illinois State Medical Society</employer> (<employer>Medical Malpractice Insurance Co</employer>.)
+		<address><city>Chicago</city>, <state abbrev='IL'>Illinois</state></address>
+
+Duties:  <description>Processing operating expenses for the company
+* utility bills
+* process claim invoices, legal invoices through a paperless imaging system (Image Right) and a claims-history database (Infinity)
+* expense reports
+* corporate credit card payments
+* preparing journal entries
+* daily check printing (50-200 per day)
+* invoice coding/approval/payment
+* setting up recurring payments for board members 
+* yearly 1099 preparations/adjustments</description></job>
+
+<job end='733987' id='3' pos='2' sic='736103' sic2='73' start='733834'><daterange><start days='733834' iso8601='2010-03-01'>Mar</start>-<end days='733987' iso8601='2010-08-01'>Aug/2010</end></daterange>	<employer>Robert Half International</employer> (Temp Agency)
+		<address><city>Merrillville</city>, <state abbrev='IN'>Indiana</state></address>
+
+<description>Duties:  Heavy data entry to update members system for Direct Buy 
+* receptionist duties, data entry, maintain files, light accounts payable work for Precision Construction</description></job>
+
+<job end='present' id='4' naics='33621202' naics2='33' pos='1' sic='501212' sic2='50' start='733775'><daterange><start days='733775' iso8601='2010-01-01'>2010</start>-<end days='present' iso8601='2012-03-26'>Current</end></daterange>	<employer>Great Dane Trailers</employer> (Trailer Manufacturer)
+<address><city>Chicago</city>, <state abbrev='IL'>Illinois</state></address>
+
+Duties:  <description>Heavy data entry for multiple plant locations
+* processing 200-300 invoices daily
+* invoice coding/approval/payment
+* purchase orders
+* processing expense reports
+* handling production/material discrepancy reports</description></job></experience>
+
+<skills>SKILLED IN:  <skills>Data entry, Word, Excel, 10-key, Internet Usage, Proofreading, Attention to detail &amp; accuracy, Type 75 WPM
+CERTIFICATES RECEIVED:  Time Management &amp; Dealing with Difficult and Demanding Customers</skills></skills>
+
+
+ 
+</resume>
+
+<skillrollup version='1'>
+  <canonskill name='10 key'>
+    <variant>10-key</variant>
+  </canonskill>
+  <canonskill end='733987' experience='1' expidrefs='3' idrefs='3' lastused='2010' name='accounts payable' start='733834'>
+    <variant>accounts payable</variant>
+  </canonskill>
+  <canonskill name='attention to detail'>
+    <variant>Attention to detail</variant>
+  </canonskill>
+  <canonskill end='733044' experience='1' expidrefs='2' idrefs='2' lastused='2008' name='credit' start='726470'>
+    <variant>credit</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='3,4' idrefs='3,4' lastused='2012' name='data entry' start='733775'>
+    <variant>Data entry</variant>
+    <variant>data entry</variant>
+  </canonskill>
+  <canonskill end='733044' experience='1' expidrefs='2' idrefs='2' lastused='2008' name='database administration' start='726470'>
+    <variant>database</variant>
+  </canonskill>
+  <canonskill end='726470' experience='1' expidrefs='1' idrefs='1' lastused='1990' name='file management' start='724644'>
+    <variant>filing</variant>
+  </canonskill>
+  <canonskill end='733044' experience='1' expidrefs='2' idrefs='2' lastused='2008' name='imaging' start='726470'>
+    <variant>Image</variant>
+    <variant>imaging</variant>
+  </canonskill>
+  <canonskill end='733044' experience='1' expidrefs='2' idrefs='2' lastused='2008' name='infinity' start='726470'>
+    <variant>Infinity</variant>
+  </canonskill>
+  <canonskill name='internet software'>
+    <variant>Internet Usage</variant>
+  </canonskill>
+  <canonskill end='733044' experience='1' expidrefs='2' idrefs='2' lastused='2008' name='legal' start='726470'>
+    <variant>legal</variant>
+  </canonskill>
+  <canonskill name='microsoft excel'>
+    <variant>Excel</variant>
+  </canonskill>
+  <canonskill name='microsoft word'>
+    <variant>Word</variant>
+  </canonskill>
+  <canonskill end='726470' experience='1' expidrefs='1' idrefs='1' lastused='1990' name='payroll processing' start='724644'>
+    <variant>payroll</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2,4' idrefs='2,4' lastused='2012' name='programming' start='726470'>
+    <variant>coding</variant>
+  </canonskill>
+  <canonskill name='proofreading'>
+    <variant>Proofreading</variant>
+  </canonskill>
+  <canonskill end='733987' experience='1' expidrefs='1,3' idrefs='1,3' lastused='2010' name='receptionist' start='724644'>
+    <variant>receptionist</variant>
+  </canonskill>
+  <canonskill name='time management'>
+    <variant>Time Management</variant>
+  </canonskill>
+  <canonskill name='typing'>
+    <variant>Type</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

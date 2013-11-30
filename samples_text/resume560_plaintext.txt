@@ -1,0 +1,659 @@
+
+B. Singh 
+     	bsingh@bsingh.net
+	535 Tumble Grass Terrace
+	Fremont CA 94539
+    	202-299-6766(Cell)
+408-940-6766(GVoice)
+                               
+SUMMARY
+Highly motivated, dynamic visionary, creative and competent software professional over 14 years of software development &amp; leadership experience. A result oriented &amp; entrepreneur minded technical/project lead with proven leadership skills to keep team motivated and focused on delivering their best in challenging and fast-paced software development environment.
+High Proficient in identifying and analyzing requirements to architect modular system using generic Design Patterns to promote code reusability and maintainability. 
+
+Expertise in procedural programming languages in C, C++, VC++, STL.
+Expertise in functional languages Erlang, Lua.
+Expertise in MultiThreaded, Concurrent programming.
+Expertise in OpenSource telephony projects FreeSwitch, Asterisk, Kamailio, OpenSIPS etc..
+Expertise in Call Center/IVR/VOIP Technologies.
+Expertise on Dialogic, HMP, NMS Platform.
+Expertise in Nuance, Loquendo Speech Recognition Technology.
+
+PROFESSIONAL SKILLS
+Operating Systems: 
+      Linux(CentOS,RedHat), Windows NT/2000/XP/2003/2008, Mac OSX, HP-UX 9000.
+Programming Languages: 
+      C, C++(STL), JAVA, Visual C++(MFC), Objective-C, Visual Basic.
+Functional Languages:
+      Erlang.
+Scripting Languages:
+      PHP, Lua, XML, JavaScript, VBScript.
+Web:                    
+      HTML, CSS, SALT, SOAP &amp; Web Services, REST, MochiWeb.
+Development Tools/SDKs: 
+      Win32 SDK, WinSock, ODBC, MS ADO.
+Version Control Tools:      
+      Perforce, SVN, Git, MS-SourceSafe, Serena Dimensions.
+Telephony Boards:            
+      Dialogic, Natural MicroSystems.
+Telephony(VOIP SDKs) APIs:                 
+      Radvision, PJSIP, Sofia-SIP, Dialogic R4/GlobalCall, Microsoft TAPI, Speech.Net.
+Voice &amp; Telephony Tools: 
+      VoiceXML, SALT, MRCP.
+Speech Engines:                
+      SpeechWorks OSR, Nuance Speech Recognition Systems(SpeechObjects, RCEngine) and 
+      L&amp;H  TTS.
+Protocols &amp; Standards:     
+      SIP, SDP, RTP, SRTP, TLS, T.38, T.30, &amp; IMAP.
+Databases:	
+      MySQL, SQL-Server, Oracle, SQLite, MS-Access, LDAP.
+Debugging Tools:
+     WinDBG, Valgrind, Memory Validator, LeakDiag, UMDH, BoundsChecker.
+Reporting Tool:   	           
+      Seagate Crystal Reports.
+Gateways:	
+       Quintum Tenor AX/DX Series.
+Network Protocol Tools:	
+      Ethereal, Wireshark.
+
+Education:
+Bachelor of Technology in Computer Science &amp; Engineering from H.B.T.I. Kanpur (India).
+Patents:
+Resolving resource time intervals in distributed system.
+
+EXPERIENCE: 
+
+DialTel Inc.   				 			    (Jul'07 - Mar'09)
+
+DialTel is small private company, I founded with the vision to deliver the value of leading call center software at an affordable price, as we saw hosted solution could dramatically improve return on investment results and delivering applications utilizing network and server-based communications software. There were several product portfolios including Predictive Dialer, Power Dialer, Voice Message Broadcasting services. 
+My role as architect was to design system &amp; define strategies to facilitate product delivery in market and closely work with marketing and sales folks, still being engineer &amp; keeping hands full in writing code.
+Telephony Server - Initially we started using Dialogic board for telephony functionalities to utilize T1 &amp; analog lines and this core engine was written in C++.  But later we opted to use open source project FreeSwitch as telephony platform and used Erlang programming language to develop complete back end telephony server to scale into thousands simultaneous calls. 
+
+Billing Server - Billing server was a Java native application that was designed to run non-stop to do live billing for all reported calls and manage/update all customers' account on the fly. 
+
+System Manager - A web interface developed using PHP/MySQL integrate with REST interface to communicate with telephony server. And later we added billing capability  &amp; line monitoring capability then interface was changed to JSP/Struts 2 platform.
+
+Mitel/Inter-Tel Inc.  Phoenix, AZ		 	(Apr'04 - Feb'08)
+
+Mitel is a global leader in communications landscape, delivering technologically advanced value-driven communications products; and a wide range of managed services that include voice and data network design and traffic provisioning. My role as Sr. Software Design Engineer was to design, enhance and debug various modules on Enterprise Messaging platform, and write Functional Specification Design (FSD) to outline the design and implementation of system components. 
+
+1. Worked in Messing Central team 			                                        
+      Inter-Tel used Dialogic's HMP platform for media services to develop voicemail system, SIP as call control layer. I was responsible for designing and developing main telephony engine which has front end as MFC MDI Application and linked with several other components in distributed environment and they are described below:
+
+Responsibilities:
+   a) CallControl  layer SIP/RTP   
+Using Dialogic's HMP platform for RTP &amp; Media, I was responsible to develop SIP  Call Control layer to interact with RTP layer &amp; provide call management and bridge port state with call state. The HSS(now Aricent)SIP stack was used to send, receive, parse, and construct SIP messages and HMP for all media functionalities like play, record, and digit collections etc..
+
+
+   b) ASR(Automatic Speech Recognition) integration  with Nuance Open Speech 
+       Recognizer (OSR3.0)
+Using SpeechWorks new OSR platform, ASR functionality is implemented as separate module. It's a multithreaded DLL and interacts with media layer(HMP) from different threads which acts as end pointer used for buffering and separate recognizer thread to do real time recognition.
+
+   
+   c) RGM/AGM(Resource/Application Group Manager) implementation
+RGM &amp; AGM is tightly coupled with the Telephony Engine and linked as static library. THese modules were responsible for implementing resource group thresholds and reserved resources &amp; applications respectively. It interacts with the Certifier API for license acquisition, and the LDAP database for resource group accessibility and configuration
+
+
+   d) T.38 Fax  Implementation 
+Using HMP's fax related APIs, this component is responsible to handle inbound and outbound fax calls through call control layer(SIP module) to manage fax sessions for call establishment and teardown. Worked closely with Dialogic in fixing so many fax issues related to T.30 protocol implementation and Quintum for gateway issues. 
+
+
+  e) DPAM(Dial Plan Analysis Module) Implementation 
+DPAM module is implemented as DLL and integrated to Application platform Engine. It is responsible to expose configured SIP endpoint parameters through windows registry, digit collection validation against a configured dial plan, expose a configured "outgoing prefix" through API, and expose feature codes collected during digit collection on live call.
+
+Environment:  Microsoft VC++, MS-SourceSafe, Dialogic(HMP) platform, WinXP/2003.
+
+2. Developed &amp; Enhanced core component (Telephony Engine) in Enterprise 
+    Messaging                                                                                             
+Enterprise Messaging(EM) is complete unified messaging platform by which telecommunication provider and enterprise can manage, synchronize, and coordinate service interactions across a broad range of communications channels including the web, email, telephone, fax, wireless devices. Telephone Engine is the program that actually executes the application(s). The Engine program handles all database access, voice message play/recording, call processing, switching etc.. The application platform engine provides various ways to monitor application activity and to diagnostic problems.
+
+Responsibilities:
+Designed &amp; Developed Engine and integrated several other components including Nuance Speech Recognition and L&amp;H Text-To-Speech integration. Developed infrastructure &amp; exposed interface called as Application Objects(AO) a standard interface to link external DLLs at runtime.
+Exposed Interface to listen external requests to grab port to handle calls for Unified Messaging component. The interface was developed in separate threads to listen using TCP messages and UDP messages in another thread.
+
+Environment:  MS Visual Studio 2005, MS-SourceSafe, WinXP/2003.
+Telephony Board:  NMS 2000/4000/6060. 
+
+3. Enhanced AMX(Axxess Multiplexer) as COM Server to interact other 
+    components 							       
+Axxess Multiplexer provided communication link to Call Processing(CP) software running on old legacy system. It was based on Voice Processing Unit(VPU) Adjunct Switch Application Interface(ASAI) code. Axxess Multiplexer encapsulated the ASAI interface to Axxess platform and simplified communication between Telephony Engine and Call Processing software. 
+
+Responsibilities:
+Implemented four interfaces - Call Control to Telephony Engine, Database interface to DBManager(a component to maintain database changes), Lamp control interface to Trigger Handler(a component to maintain display on handset), remote print interface to OAM server to report alarms. Developed client side component on Telephony Engine and added notification functionality using function callbacks on user inputs.
+Extended OAM Client functionality for generating events such as Axxess link status and communicate with OAM server as an OAM manager entity and implemented as singleton object using OOP methodologies.
+
+Environment:  Microsoft Visual Studio 2005, MS-SourceSafe, Windows2003.
+
+ 
+Enablx  Inc. Randolph, NJ					    (Apr'01 - Apr'04)
+
+1. Development of Dialogic CTI  Framework 			      
+The purpose of the framework was to develop application boilerplate code and common telephony class hierarchy in C++ for the all the future projects that can be used for IVR (Interactive Voice Response) implementations including the use of all Digital &amp; Analog aspects and would also provide a common interface to application developer to integrate technologies like Database, Speech Recognition and Text-To-Speech etc.
+
+Responsibilities:
+Involved in design and implementation of classes definitions for telephony resources and multithreading capability.
+Developed Voice recognition module using Nuance RCEngine model in multithreaded context.
+Developed Text-To-Speech module using L&amp;H APIs using Function CallBack mechanism. 
+Developed database component using Microsoft ADO DLL.
+Designed database and related stored procedures for Call Activity &amp; report purpose.
+
+Environment:  VC++, STL, ADO, SQLServer 7.0, MS-SourceSafe, Windows2000.
+
+2. Development of Locator Server    				      
+Locator Server was the core engine as C++ exe and worked based on CGI concept on web server. It was capable of handling request from web client as well as IVR client to find the nearest dealer location based on the zip code across the USA &amp; Canada. 
+
+Responsibilities:
+Developed &amp; Enhanced existing application using Object Oriented Methodologies. 
+Developed and integrated with SQL Database Server using the stored procedures.
+Developed DLL for client Integration from IVR using Windows Sockets.
+ 
+Environment:  Microsoft C++, SQLServer 7.0, MS-SourceSafe, WindowsNT.
+Telephony Board:  Dialogic D/480 JCT. 
+
+3. CompUSA Product Order Injection 				      
+This comprehensive software package was developed for telephonic ordering of the products to reduce traffic and help older people who are not able to go online. This system was capable of handling incoming calls &amp; to retrieve product information as well as nearest dealer using zip code entered by caller. 
+
+Responsibilities:
+Developed SpeechObjects in JAVA using Nuance Name&amp;Address Recognition Package which was able to recognize most of US Names &amp; Addresses listed on census bureau. 
+Developed IVR using Envox  CTADE SDK.
+Developed and integrated DLL using Windows Sockets to locate the dealer.
+Developed Web Interface to show the Call Activity on Web Page
+
+Environment:  JAVA(JDK 1.4.x),Nuance SpeechObjects, SQLServer 7.0, MS-SourceSafe. 
+Telephony Board:  Dialogic D/480 JCT. 
+
+
+4. Dynamic Port Allocation &amp; Threshold Notification 		      
+Basic aim of this project was to allow multiple applications to run on the single CT Server. Since DNIS was not supposed to be passed so one master application played prompt to user for his/her desiring service. There were three modules, which were built into a Multithreaded C++ DLL. This DLL was integrated as an interface to CTServer which was programmed using CTI APIs.
+
+Responsibilities: 
+Developed interface in C++ which interacted with XML document using Microsoft XML Parser using DOM mechanism. All the functions were exported so that application running on CT Server must be able to update all the resources status.
+Designed and developed DLL for EMail component using Windows Sockets to notify the critical events to administrator.
+Developed Database component using Microsoft ADO Component to dump all resources status to Database. 
+
+Environment:  C++ , COM, MSXML3.0, SQLServer 7.0, MS-SourceSafe, WindowsNT.
+
+
+
+Enterprise Messaging Services, Inc. West Chester, PA    (Nov'00 - Apr'01)
+1. Speech Access IVR Engine			     
+Speech Access Runtime Engine was a standard application based on NMS(Natural MicroSystem) telephony platform. Speech enabled IVR system allowed telephone callers to use naturally speaking language sentences to interact with the system by utilizing the Automatic Speech Recognizers &amp; natural language interpreters.
+
+Responsibilities:
+Developed module for call handling in VC++ MFC and integrated voice recognition component using Nuance Speech Recognition APIs.
+Developed a COM component, which was used to dump error log messages to database as well as many other options like sending critical mails to Administrator using SMTP Server. It was an In-Process DLL and used by Speech Access Run-Time module. 
+
+Environment:  VC++, MFC, COM/DCOM, SQLServer 7.0, MS-SourceSafe, WindowsNT.
+Telephony Board:  Natural Microsystems.
+
+2. Development of Configuration Manager for Speech Access	      
+Configuration Manager was an interactive interface for configuring &amp; maintaining all basic initialization parameters in configuration file as well as Windows registry so that Speech Access Run Time Engine can utilize them on during runtime. It had all the properties of importing and exporting configuration files on different machines. 
+
+Responsibilities:
+Developed all the modules using VC++ MFC as a SDI application using telephony interface CTACCESS SDK to manage resources. 
+
+Environment:  VC++, MFC, MS-SourceSafe, WindowsNT.
+
+Parsec Technologies, Gurgaon (Haryana), India		 (Sep'98 - Nov 00)
+Parsec had a multi-media CTI Call Center technology solution for bulk voice and data traffic management. It provided standard API's through which custom applications can be written, where these third parties could be CRM vendors &amp; integrators. There were two main components of a Call Center system, the call handling component and the management system. The call handling system included the Automatic Call Distributor (ACD), Predictive Dialer (PD), Interactive Voice response System (IVR) and the Agent Call Handling Interface. The management system includes the supervisory features, system administration, security, billing and Management Information System.
+
+1. Developed various modules listed as below in responsibilities section.		
+
+Responsibilities:
+Developed DID (Incoming Call) task for handling all incoming calls from PSTN lines to Call Center. This Task used mapping to a particular service if defined in Call Center configuration else as new service and invoked next required task.
+
+Developed Standard Agent Finder Service (Predictive) module to search desired agent using a particular time period in every stage and then transfer call to that agent with all further working ordered by supervisor. ACD concept was used to find qualified agents to provide desired service using different skill sets like idleness, language skill, weightage etc. 
+Developed Standard Agent Finder Service(Preview) module  which was especially used for outgoing calls that can be made by agent or Predictive Dialer with Auto and Agent Dial Features.
+
+Environment:  VC++, C, COM, SQLServer 7.0, MARS (API), MS-SourceSafe, WindowsNT.
+Telephony Board:  Dialogic.
+
+2. Project Title: Prepaid Calling Solution (Omni Prepaid) 	     
+"Prepaid " has been widely accepted as a medium of carrying out the transactions over large distances, which was not even thought of a few years back. This gives both the customer and the departmental store chain an unprecedented gain, the customer gets the benefit of not having to carry cash while on move and departmental store gains from dedicated customers and increased volume of sales. Today, telephony service providers offering prepaid services are doing good business. Distributed client server architecture was used for management of data in the prepaid system. DCOM (Distributed COM) was used for communication among different modules of prepaid. 
+
+Responsibilities:
+Developed Nodal Transaction Manager, which was a DCOM Server and responsible for transaction of data from Nodal location to Central location. 
+Involved in development database interaction module to process queries.
+
+Environment: Visual C++, COM/DCOM, SQLServer 7.0, MS-SourceSafe, and WindowsNT.
+Telephony Board:  Dialogic.
+
+3. Project Title: Development of Predictive Dialer 		     
+The purpose of Predictive Dialer was to calculate the number of calls to make based on the number of resources (Agents, Fax etc.) available. It had capabilities to filter out busy signals and answering call before routing to agent or to provide required service, to check if there were eligible agents who were free or likely to become free by the time call will be placed. Once the call was connected (with Called Party), the ACD component used to forward the call to one of the eligible agents. 
+
+Responsibilities:
+Designed and developed Scheduler Task Queue mechanism using classic Linked List (Didn't know anything about STL at that time) implementation in C language to maintain records buffer. No STL was used and classic 
+Developed Shooter(Database) Task that interacted with Scheduler Task and Outgoing Task to estimate the availability of required resources, accordingly  it invoked Outgoing Task to handle the further processing of the record.
+
+Environment:  'C', MARS (API), SQLServer 7.0,MS-Access, MS-SourceSafe, WindowsNT.
+Telephony Board:  Dialogic.
+
+
+
+  
+    .Net
+  
+  
+    Automatic Call Distributor
+    ACD
+  
+  
+    ADO
+  
+  
+    API
+  
+  
+    architect
+  
+  
+    Basic
+    basic
+  
+  
+    Billing
+    billing
+  
+  
+    Broadcasting
+  
+  
+    C
+    c
+    C language
+  
+  
+    C++
+  
+  
+    Call Center
+    call center
+  
+  
+    CGI
+  
+  
+    client server
+  
+  
+    COM
+  
+  
+    hardware
+  
+  
+    concept
+  
+  
+    CRM
+  
+  
+    Seagate Crystal Reports
+  
+  
+    CSS
+  
+  
+    CTI
+  
+  
+    Client
+    client
+  
+  
+    Version Control
+  
+  
+    Databases
+    Database
+    database
+  
+  
+    DCOM
+  
+  
+    Debugging
+  
+  
+    delivery
+  
+  
+    designing
+  
+  
+    Dimensions
+  
+  
+    disaster recovery
+  
+  
+    DOM
+  
+  
+    EMail
+    email
+  
+  
+    Engineer
+    engineer
+  
+  
+    fashion
+  
+  
+    Fax
+    fax
+  
+  
+    Features
+    features
+  
+  
+    Functional
+  
+  
+    Gateways
+    gateway
+  
+  
+    HP-UX
+  
+  
+    HTML
+  
+  
+    IP
+  
+  
+    Interactive Voice Response
+    IVR
+  
+  
+    Interactive Voice response System
+  
+  
+    Java
+    JAVA
+  
+  
+    JSP
+  
+  
+    JavaScript
+  
+  
+    Languages
+  
+  
+    LDAP
+  
+  
+    Linux
+  
+  
+    Mac
+  
+  
+    managing
+  
+  
+    marketing
+    market
+  
+  
+    MARS
+  
+  
+    Memory
+  
+  
+    Messaging
+    messaging
+  
+  
+    Access
+    access
+    MS-Access
+  
+  
+    Microsoft C++
+  
+  
+    MFC
+  
+  
+    Win
+    Windows
+    windows
+    Windows platform
+  
+  
+    2000
+    Windows2000
+  
+  
+    WindowsNT
+    Windows NT
+  
+  
+    works
+  
+  
+    Management Information System
+  
+  
+    monitors
+  
+  
+    multi-media
+  
+  
+    MySQL
+  
+  
+    Natural
+    natural
+  
+  
+    Enterprise
+    enterprise
+  
+  
+    network design
+  
+  
+    Network
+    network
+    Networks
+  
+  
+    next
+  
+  
+    NMS
+  
+  
+    Object Oriented
+  
+  
+    OOP
+  
+  
+    ODBC
+  
+  
+    OOPs
+  
+  
+    Operating Systems
+  
+  
+    Oracle
+  
+  
+    developer
+  
+  
+    phone system
+  
+  
+    PHP
+  
+  
+    Programming
+    programming
+  
+  
+    Protocols
+  
+  
+    PSTN
+  
+  
+    speaking
+  
+  
+    real time
+  
+  
+    recording
+  
+  
+    RedHat
+  
+  
+    reporting
+    Reporting
+  
+  
+    requirement
+  
+  
+    routing
+  
+  
+    sales
+  
+  
+    scheduling
+  
+  
+    servers
+  
+  
+    Scripting
+  
+  
+    SMTP
+  
+  
+    SOAP
+  
+  
+    Sockets
+  
+  
+    Software Design
+  
+  
+    SourceSafe
+  
+  
+    Specification
+  
+  
+    Speech
+  
+  
+    SQL-Server
+    SQL
+  
+  
+    SQLServer 7.0
+  
+  
+    Struts 2
+  
+  
+    supervisor
+    supervisory
+  
+  
+    Switch
+  
+  
+    system administration
+  
+  
+    T1
+  
+  
+    telecommunication
+  
+  
+    Telephone
+    Telephony
+    telephone
+    telephony
+  
+  
+    threads
+  
+  
+    validation
+  
+  
+    VBScript
+  
+  
+    video
+  
+  
+    vision
+    Vision
+  
+  
+    Visual Basic
+  
+  
+    Visual C++
+    VC++
+  
+  
+    Microsoft Visual Studio
+    MS Visual Studio
+  
+  
+    voice and data
+  
+  
+    VOIP
+  
+  
+    WAN
+  
+  
+    web server
+  
+  
+    Web Page
+  
+  
+    WinSock
+  
+  
+    Workbench
+  
+  
+    workflow
+  
+  
+    written
+  
+  
+    XML
+  
+  
+    zip
+  
+
+

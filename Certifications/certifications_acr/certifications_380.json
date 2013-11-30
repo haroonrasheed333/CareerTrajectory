@@ -1,0 +1,26 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Fellow of the AAID", 
+            "Type": "Core", 
+            "Certification ID": "2706", 
+            "Certifying Organization": "American Academy of Implant Dentistry"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Associate Fellow of the AAID", 
+            "Type": "Core", 
+            "Certification ID": "2707", 
+            "Certifying Organization": "American Academy of Implant Dentistry"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification in Orthodontics", 
+            "Type": "Specialty", 
+            "Certification ID": "0436", 
+            "Certifying Organization": "American Board of Orthodontics"
+        }
+    ], 
+    "onet": "29102300"
+}

@@ -1,0 +1,68 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Welder", 
+            "Type": "Core", 
+            "Certification ID": "0350", 
+            "Certifying Organization": "American Welding Society"
+        }, 
+        {
+            "Acronym": "CAWI", 
+            "Certification Name": "Certified Associate Welding Inspector", 
+            "Type": "Core", 
+            "Certification ID": "0353", 
+            "Certifying Organization": "American Welding Society"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Welding Supervisor", 
+            "Type": "Core", 
+            "Certification ID": "3987", 
+            "Certifying Organization": "American Welding Society"
+        }, 
+        {
+            "Acronym": "SCWI", 
+            "Certification Name": "Senior Certified Welding Inspector", 
+            "Type": "Advanced", 
+            "Certification ID": "0351", 
+            "Certifying Organization": "American Welding Society"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Robotic Arc Welding Operator", 
+            "Type": "Core", 
+            "Certification ID": "3989", 
+            "Certifying Organization": "American Welding Society"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Structural Welding Special Inspector", 
+            "Type": "Specialty", 
+            "Certification ID": "0150", 
+            "Certifying Organization": "International Code Council"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Robotic Arc Welding Technician", 
+            "Type": "Advanced", 
+            "Certification ID": "7852", 
+            "Certifying Organization": "American Welding Society"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Welding Engineer", 
+            "Type": "Advanced", 
+            "Certification ID": "3988", 
+            "Certifying Organization": "American Welding Society"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Radiographic Interpreter", 
+            "Type": "Core", 
+            "Certification ID": "3986", 
+            "Certifying Organization": "American Welding Society"
+        }
+    ], 
+    "onet": "51412106"
+}

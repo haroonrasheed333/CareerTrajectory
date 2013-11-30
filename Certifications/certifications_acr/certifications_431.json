@@ -1,0 +1,26 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "Dipl.Ac.", 
+            "Certification Name": "Diplomate in Acupuncture", 
+            "Type": "Core", 
+            "Certification ID": "0338", 
+            "Certifying Organization": "National Certification Commission for Acupuncture and Oriental Medicine"
+        }, 
+        {
+            "Acronym": "Dipl.C.H.", 
+            "Certification Name": "Diplomate in Chinese Herbology", 
+            "Type": "Specialty", 
+            "Certification ID": "0339", 
+            "Certifying Organization": "National Certification Commission for Acupuncture and Oriental Medicine"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Diplomate in Oriental Medicine", 
+            "Type": "Specialty", 
+            "Certification ID": "4827", 
+            "Certifying Organization": "National Certification Commission for Acupuncture and Oriental Medicine"
+        }
+    ], 
+    "onet": "29119901"
+}

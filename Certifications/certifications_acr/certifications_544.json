@@ -1,0 +1,61 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CPRE", 
+            "Certification Name": "The Certified Park and Recreation Executive", 
+            "Type": "Advanced", 
+            "Certification ID": "8778", 
+            "Certifying Organization": "National Recreation and Park Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Caddie", 
+            "Type": "Core", 
+            "Certification ID": "9130", 
+            "Certifying Organization": "The Caddie Association"
+        }, 
+        {
+            "Acronym": "CSEP", 
+            "Certification Name": "Certified Special Events Professional", 
+            "Type": "Core", 
+            "Certification ID": "2232", 
+            "Certifying Organization": "International Special Events Society"
+        }, 
+        {
+            "Acronym": "CPSI", 
+            "Certification Name": "Certified Playground Safety Inspector", 
+            "Type": "Specialty", 
+            "Certification ID": "3132", 
+            "Certifying Organization": "National Recreation and Park Association"
+        }, 
+        {
+            "Acronym": "CPO", 
+            "Certification Name": "Certified Park Operator", 
+            "Type": "Core", 
+            "Certification ID": "2309", 
+            "Certifying Organization": "National Association of RV Parks and Campgrounds"
+        }, 
+        {
+            "Acronym": "EPA AOSC", 
+            "Certification Name": "EPA Amusement Operators Safety Certification", 
+            "Type": "Core", 
+            "Certification ID": "9036", 
+            "Certifying Organization": "Event Planners Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Beer Judge", 
+            "Type": "Specialty", 
+            "Certification ID": "2362", 
+            "Certifying Organization": "Beer Judge Certification Program"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Seasonal Equestrian Staff Certification", 
+            "Type": "Core", 
+            "Certification ID": "4237", 
+            "Certifying Organization": "Certified Horsemanship Association"
+        }
+    ], 
+    "onet": "39309100"
+}

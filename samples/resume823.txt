@@ -1,0 +1,315 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734597' xml:space='preserve'><contact><name><givenname>HARIHAR</givenname> <surname>DUDDI</surname></name> 
+<email>haridp@gmail.com</email> 
+  <phone type='cell'>732-604-7702</phone> (Mobile)</contact> 
+<summary>Summary: 
+<summary>Over 6 years of total experience working as a Technical Project Manager and Business Analyst in the IT sector. 
+Over 4 years of experience in web technologies which include HTML, Java Script and Software as a Service (SaaS). 
+Experienced in client facing environment and handling multiple projects through the SDLC process. 
+Project management experience included daily interaction with clients, Cross functional and development teams. 
+Proficient in using advance SQL queries and stored procedures for analysis and report generation. 
+Expert in gathering business &amp; functional requirement, developing various specification documents (BRD, FRD, SRS, BRS, UCS and UIS), process mapping using UML methodologies and developing test cases &amp; plans. 
+Experienced in Software Development Life Cycle (SDLC) methodologies - Rational Unified Process and Agile (Scrum). 
+Strong team builder with excellent analytical and communication skills with capability to handle new technologies. 
+Proficient in using UML to create Activity diagrams, Sequence diagrams &amp; Use Case analysis. 
+Excellent working knowledge in analyzing and improving business process to improve quality and efficiency. 
+Outstanding communication skills. Able to successfully build strong working relationship with coworkers and cliental.</summary></summary> 
+  
+<education>Education: 
+<school id='7'><degree level='18'>Master's</degree> in <major code='4201'>Business Administration</major>  
+<institution>The University of Texas</institution> at <address lat='41.3334' lon='-75.9622' majorcity='DALLAS' state='PA'><city>Dallas</city></address>, <address><city>Richardson</city>, <state abbrev='TX'>TX</state></address></school>                                                                                 
+
+<school id='8'><degree level='16' name='Bachelor of Science'>BS</degree> <major code='0402'>Computer Science</major> 
+<institution>The University of Madras</institution>, <address><country iso3='IND'>India</country></address></school></education>               
+                                                                                                   
+<skills>Software/Database: 
+<skills>Windows, SQL, Use Cases, Microsoft Office Tools, MS Source Safe, Rational Rose, Marketing Tool (Zoomerang, Hoovers, Eloqua), MS SharePoint, K2 Blackpearl, Raven Flow, PeopleSoft, Agile Scrum, Scrummy, HTML, XML, Web service, Web API.</skills></skills> 
+  
+<experience end='present' start='731249'>Experience: 
+<job end='present' id='1' pos='1' start='733895'><employer>LiveOps, Inc</employer>. - <address><city>Santa Clara</city>, <state abbrev='CA'>CA</state></address>                           				                                                               <daterange><start days='733895' iso8601='2010-05-01'>May 2010</start> - <end days='present' iso8601='2012-04-02'>Present</end></daterange> 
+<title>Technical Project Manager</title> 
+<description>Technical project manager for $12M clients in the Enterprise (Transamerica) and Direct Response (Guthy Renker) divisions. 
+
+Hardware/Software: 
+MS Office , MY SQL, Scrummy, Filezilla, SaaS, Agile Scrum, Cloud Computing, Web services, Pearl, ASP.NET 
+
+Responsibilities: 
+Responsible to manage all projects end to end, from requirement gathering to implementation and maintenance.  
+Re-engineered existing code (Pear-Fulfillment &amp; ASP.NET-Scripts) to gather and understand the requirements.
+Improved quality and efficiency by creating automations and monitors for daily processes and updates. 
+Oversee all technical aspects such as scripts creation, data uploads, QA, Fulfillment of Orders, and Daily Reporting. 
+Implemented web API between LiveOps and Clients to transfer data between the two websites. 
+Conduct weekly meeting with clients to provide status updated on all outstanding projects. 
+Responsible for everyday interaction with clients and business partners to solve any outstanding issues. 
+Use advance SQL queries for analysis and generating reports. 
+Developed SLA document for each task category to set client expectation on deliverables. 
+Interacting everyday with offshore developers and engineers on daily deliverables and project updates.
+Using agile scrum methodology to handle and deliver projects with quality and timely delivery. 
+Awarded the customer excellence for AEGON implementation. 
+Increased review from Guthy Renker by reducing the No. of Errors and providing the ability to handle more projects.</description></job>  
+
+<job end='733865' id='2' pos='2' sic='944102' sic2='94' start='733622'><employer>Employees Retirement System</employer>, <address><city>Austin</city>, <state abbrev='TX'>TX</state></address>                                                                                                                      <daterange><start days='733622' iso8601='2009-08-01'>Aug 2009</start> - <end days='733865' iso8601='2010-04-01'>April 2010</end></daterange> 
+<title>Business System Analyst</title> 
+<description>Worked on multiple projects involving business process modeling, redesign and enhancements to improve efficiency. 
+
+Hardware/Software: 
+MS Office 07, Windows, MS SharePoint, PeopleSoft, K2 Blackpearl, Raven Flow, Oracle, SQL, .Net. 
+  
+Responsibilities: 
+Conducted initial meeting with business to define the scope of the project. 
+Gathered the Order of Magnitude (OM) from development, testing and UAT. 
+Conducted meeting with the business to define the return of investment and the priority for the project based on the initial OM. 
+Gathered, analyzed and documented business and functional requirement in BRFD.
+Acted as a liaison by communicating with the business, developers and testers after the completion of the BRFD. 
+Developed use cases and process flows using Raven Flow. 
+Developed detail process mapping with activity diagrams representing different actors and their functions. 
+Conducted final walkthrough with the Business owners, SME's, developers and testing for final signoffs on the BRFD.</description></job> 
+    
+<job end='733591' id='3' pos='3' sic='641112' sic2='64' start='733410'><employer>AIG</employer>, <address><city>Berkeley Heights</city>, <state abbrev='NJ'>NJ</state></address>                                                                                                                                                 <daterange><start days='733410' iso8601='2009-01-01'>Jan 2009</start> - <end days='733591' iso8601='2009-07-01'>July 2009</end></daterange> 
+<title>Senior Business Analyst</title> 
+<description>The objective was to automate the process of issuance for an Accident and Health policy. 
+
+Hardware/Software: 
+MS Office, Windows, I-Works, Eprocess, Estart, Eroom, SQL, RUP. 
+  
+Responsibilities: 
+Developed the AS-IS process by analyzing the internal and external business process. 
+Developed the BRD , FRD and TO-BE flow to included the process improvements discussed with the SME's . 
+Developed data mapping document, mapping all the forms that were triggered by the application. 
+Executed advance SQL queries for validating requirements and generating reports.</description></job> 
+
+<job end='733379' id='4' naics='55111101' naics2='55' pos='4' start='733013'><employer>JP Morgan Chase</employer>, <address><city>Wilmington</city>, <state abbrev='DE'>DE</state></address>                                                                                                                                           <daterange><start days='733013' iso8601='2007-12-01'>Dec 2007</start>- <end days='733379' iso8601='2008-12-01'>Dec 2008</end></daterange> 
+<title>Business Analyst</title> 
+<description>Direct Mail Non Check- To provide direct mail channel an infrastructure to allow non-check incentives and fulfilled automatically. 
+Speech Recognition and Voice Analytics-To implementation of a natural language speech recognition solution with speaker authentication technology. 
+Spend Focus Card-To enable the functionality of the Spend Focused Card for customers to do variable purchasing and payments. 
+
+Hardware/Software: 
+Windows, SQL, Microsoft Office tools, HP Quality Center, Waterfall.               
+  
+Responsibilities: 
+Worked with the business to prepare the vision and scope of the project. 
+Conducted JAD sessions and developed the requirements, use case and use case diagrams using UML language.  
+Conducted gap analysis to create the AS-IS and TO-BE states in MS Visio. 
+Performed risk analysis to indentify the key risk areas for the project and prioritized the implementation and testing. 
+Developed and maintained traceability matrix to match all requirements with the documentation. 
+Developed test plans and executed advance SQL queries for validating requirements.</description></job> 
+  
+<job end='732983' id='5' pos='5' start='732679'><employer>Enterpulse</employer>, <address><city>Basking Ridge</city>, <state abbrev='NJ'>NJ</state></address>                                                                                                                                               <daterange><start days='732679' iso8601='2007-01-01'>Jan 2007</start> - <end days='732983' iso8601='2007-11-01'>Nov 2007</end></daterange> 
+<title>Business System Analyst</title> 
+<description>The objective of the project is to develop the documentation of the portal in the release (R2) for the client CIT Financials. 
+
+Hardware/Software: 
+Windows, Oracle, ASP, Microsoft Office tools, MS Visual Source Safe, Agile (Scrum), Bloomberg
+
+Responsibilities: 
+Re- Engineered requirements from the ASP .Net code and existing document to gather requirements.  
+Analyzed the CIT financial website to gather additional requirements, business rules,  page elements and interactions.  
+Developed System Requirement, Business Rules, Use Case, User Interface documents. 
+Developed upward and downward traceability matrix to match requirements with the corresponding documentation.</description></job>  
+
+<job end='731643' id='6' pos='6' start='731249'><address>Infosys, <country iso3='IND'>India</country></address>                                                                                                                                                                   <daterange><start days='731249' iso8601='2003-02-01'>Feb 2003</start> - <end days='731643' iso8601='2004-03-01'>Mar 2004</end></daterange> 
+<title>Program Analyst</title>  
+<description>The objective of the project was to enhance multiple E-Commerce websites. 
+
+Hardware/Software: 
+Windows, SQL, VB, Microsoft office tools, HTML, CSS, IBM Rational Tools.  
+  
+Responsibilities: 
+Interact with the vendors and clients to define the product and  process. 
+Interacted with the website to understand the functionality provided by the website and identify constraints. 
+Analyzed the process, data, behavior of the website and proposed new process to improve quality and efficiency.</description></job></experience>    
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='734579' experience='1' expidrefs='1,2,5' idrefs='1,2,5' lastused='2012' name='.net' start='732679'>
+    <variant>ASP .Net</variant>
+    <variant>.Net</variant>
+    <variant>ASP.NET</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,5' idrefs='1,5' lastused='2012' name='agile' start='732679'>
+    <variant>Agile</variant>
+    <variant>agile</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='api' start='733895'>
+    <variant>API</variant>
+  </canonskill>
+  <canonskill end='732983' experience='1' expidrefs='5' idrefs='5' lastused='2007' name='asp' start='732679'>
+    <variant>ASP</variant>
+  </canonskill>
+  <canonskill end='733591' experience='1' expidrefs='3' idrefs='3' lastused='2009' name='automate' start='733410'>
+    <variant>automate</variant>
+  </canonskill>
+  <canonskill end='732983' experience='1' expidrefs='5' idrefs='5' lastused='2007' name='bloomberg' start='732679'>
+    <variant>Bloomberg</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='2,3' idrefs='2,3' lastused='2010' name='business process' start='733410'>
+    <variant>business process</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,3,4,5,6' idrefs='1,2,3,4,5,6' lastused='2012' name='computer hardware' start='731249'>
+    <variant>Hardware</variant>
+  </canonskill>
+  <canonskill end='731643' experience='1' expidrefs='6' idrefs='6' lastused='2004' name='css' start='731249'>
+    <variant>CSS</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,5,6' idrefs='1,5,6' lastused='2012' name='customer relations' start='731249'>
+    <variant>client</variant>
+    <variant>Clients</variant>
+    <variant>clients</variant>
+  </canonskill>
+  <canonskill name='database administration'>
+    <variant>Database</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='delivery' start='733895'>
+    <variant>delivery</variant>
+  </canonskill>
+  <canonskill end='733379' experience='1' expidrefs='4' idrefs='4' lastused='2008' name='direct mail' start='733013'>
+    <variant>Direct Mail</variant>
+    <variant>direct mail</variant>
+  </canonskill>
+  <canonskill end='733379' experience='1' expidrefs='4,5' idrefs='4,5' lastused='2008' name='documentation' start='732679'>
+    <variant>documentation</variant>
+  </canonskill>
+  <canonskill end='731643' experience='1' expidrefs='6' idrefs='6' lastused='2004' name='e - commerce' start='731249'>
+    <variant>E-Commerce</variant>
+  </canonskill>
+  <canonskill end='732983' experience='1' expidrefs='5' idrefs='5' lastused='2007' name='finance' start='732679'>
+    <variant>Financials</variant>
+  </canonskill>
+  <canonskill end='732983' experience='1' expidrefs='5' idrefs='5' lastused='2007' name='financial' start='732679'>
+    <variant>financial</variant>
+  </canonskill>
+  <canonskill end='733379' experience='1' expidrefs='4' idrefs='4' lastused='2008' name='focus' start='733013'>
+    <variant>Focus</variant>
+  </canonskill>
+  <canonskill end='733591' experience='1' expidrefs='3' idrefs='3' lastused='2009' name='forms' start='733410'>
+    <variant>forms</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='functional' start='733622'>
+    <variant>functional</variant>
+  </canonskill>
+  <canonskill end='733379' experience='1' expidrefs='4' idrefs='4' lastused='2008' name='hewlett packard' start='733013'>
+    <variant>HP</variant>
+  </canonskill>
+  <canonskill end='731643' experience='1' expidrefs='6' idrefs='6' lastused='2004' name='html' start='731249'>
+    <variant>HTML</variant>
+  </canonskill>
+  <canonskill end='731643' experience='1' expidrefs='6' idrefs='6' lastused='2004' name='ibm' start='731249'>
+    <variant>IBM</variant>
+  </canonskill>
+  <canonskill name='marketing'>
+    <variant>Marketing</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,3,4,5,6' idrefs='1,2,3,4,5,6' lastused='2012' name='microsoft office' start='731249'>
+    <variant>Microsoft Office</variant>
+    <variant>Microsoft office</variant>
+    <variant>MS Office</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='2,3,4,5,6' idrefs='2,3,4,5,6' lastused='2010' name='microsoft windows' start='731249'>
+    <variant>Windows</variant>
+  </canonskill>
+  <canonskill end='733591' experience='1' expidrefs='3' idrefs='3' lastused='2009' name='microsoft works' start='733410'>
+    <variant>Works</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='modeling' start='733622'>
+    <variant>modeling</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='monitors' start='733895'>
+    <variant>monitors</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='mysql' start='733895'>
+    <variant>MY SQL</variant>
+  </canonskill>
+  <canonskill end='733379' experience='1' expidrefs='4' idrefs='4' lastused='2008' name='natural' start='733013'>
+    <variant>natural</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='netscape enterprise server' start='733895'>
+    <variant>Enterprise</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='2,5' idrefs='2,5' lastused='2010' name='oracle' start='732679'>
+    <variant>Oracle</variant>
+  </canonskill>
+  <canonskill end='732983' experience='1' expidrefs='5' idrefs='5' lastused='2007' name='page' start='732679'>
+    <variant>page</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='peoplesoft' start='733622'>
+    <variant>PeopleSoft</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='perl' start='733895'>
+    <variant>Pearl</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='process engineering' start='733895'>
+    <variant>processes</variant>
+  </canonskill>
+  <canonskill end='733379' experience='1' expidrefs='4' idrefs='4' lastused='2008' name='public speaking' start='733013'>
+    <variant>speaker</variant>
+  </canonskill>
+  <canonskill end='733379' experience='1' expidrefs='4' idrefs='4' lastused='2008' name='purchasing' start='733013'>
+    <variant>purchasing</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,4,6' idrefs='1,4,6' lastused='2012' name='quality' start='731249'>
+    <variant>Quality</variant>
+    <variant>quality</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='quality control' start='733895'>
+    <variant>QA</variant>
+  </canonskill>
+  <canonskill name='rational rose'>
+    <variant>Rational Rose</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='reports' start='733895'>
+    <variant>Reporting</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,5' idrefs='1,2,5' lastused='2012' name='requirements' start='732679'>
+    <variant>Requirement</variant>
+    <variant>requirement</variant>
+  </canonskill>
+  <canonskill end='733379' experience='1' expidrefs='4' idrefs='4' lastused='2008' name='risk analysis' start='733013'>
+    <variant>risk analysis</variant>
+  </canonskill>
+  <canonskill end='733591' experience='1' expidrefs='3' idrefs='3' lastused='2009' name='rup' start='733410'>
+    <variant>RUP</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='shell scripting' start='733895'>
+    <variant>Scripts</variant>
+    <variant>scripts</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='sla' start='733895'>
+    <variant>SLA</variant>
+  </canonskill>
+  <canonskill end='732983' experience='1' expidrefs='5' idrefs='5' lastused='2007' name='sourcesafe' start='732679'>
+    <variant>Visual Source Safe</variant>
+  </canonskill>
+  <canonskill end='733379' experience='1' expidrefs='4' idrefs='4' lastused='2008' name='speechwriting' start='733013'>
+    <variant>Speech</variant>
+    <variant>speech</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,3,4,6' idrefs='1,2,3,4,6' lastused='2012' name='sql' start='731249'>
+    <variant>SQL</variant>
+  </canonskill>
+  <canonskill end='733379' experience='1' expidrefs='4' idrefs='4' lastused='2008' name='unified modeling language' start='733013'>
+    <variant>UML</variant>
+  </canonskill>
+  <canonskill end='732983' experience='1' expidrefs='5' idrefs='5' lastused='2007' name='user interface design' start='732679'>
+    <variant>User Interface</variant>
+  </canonskill>
+  <canonskill end='733379' experience='1' expidrefs='4' idrefs='4' lastused='2008' name='visio' start='733013'>
+    <variant>Visio</variant>
+  </canonskill>
+  <canonskill end='733379' experience='1' expidrefs='4' idrefs='4' lastused='2008' name='vision' start='733013'>
+    <variant>vision</variant>
+  </canonskill>
+  <canonskill end='731643' experience='1' expidrefs='6' idrefs='6' lastused='2004' name='visual basic' start='731249'>
+    <variant>VB</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,5,6' idrefs='1,5,6' lastused='2012' name='web site production' start='731249'>
+    <variant>website</variant>
+    <variant>websites</variant>
+  </canonskill>
+  <canonskill name='xml'>
+    <variant>XML</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

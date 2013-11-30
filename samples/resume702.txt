@@ -1,0 +1,458 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734596' xml:space='preserve'><contact><name><givenname>Ashish</givenname> <givenname>Kumar</givenname> <surname>Shukla</surname></name>
+<email>Ashishshukla.infy@gmail.com</email> 
+<phone>503-750-9163</phone></contact>
+<summary>SUMMARY
+<summary>5+ years of experience in Sharepoint implementation, architecture and development.
+3+ years of experience in Microsoft Project Server implementation, architecture and development.
+Experienced with complete application development life-cycle including requirements gathering, analysis and design, coding, testing and deployment.
+Quality assurance engineering with expertise in SDLC, Agile and QA methodologies.
+Possess strong analytical and client interfacing skills.
+Professional working experience in India, USA and UK.
+Possess excellent communication and interpersonal skills
+Good motivator and ability to handle multiple tasks.
+Possess excellent problem solving, leadership skills with experience in building teams from ground up. 
+Possess good Knowledge of requirement management and test cases tools like Fitnesse.
+Acquired various domain and technology certifications.</summary></summary>
+<skills>TECHNICAL PROFECIENCY
+
+SharePoint 
+<skills>Microsoft SharePoint Server 2010, Microsoft SharePoint Foundation 2010, FAST Search Server 2010 for SharePoint, Microsoft Office SharePoint Server 2007 (MOSS 2007), Windows SharePoint Services 3.0 (WSS 3.0) 
+Installation, Configuration, Upgrade, Architecture, Customization, Site Templates, Site Definitions, Taxonomy, Metadata, Content Management, Collaboration, Windows Workflow Foundation, Custom Web Parts, Reports, Search, InfoPath Services, Master Pages, Content Types, Features, Excel Services, CAML. 
+Microsoft Project Server 2007, Microsoft Project Server 2010, Nintex workflows 2010, Dundas charts.
+Microsoft Office 2010, Microsoft Office 2007, SharePoint Designer 2010, InfoPath, Visio and Project.
+
+Programming 
+ .Net: ASP.Net, C# 
+HTML, CSS, XML, XSL, XSLT, JavaScript 
+Database: SQL Server 2008/2005, SQL Server Reporting Services (SSRS), SQL Server Analysis Services (SSAS), SSIS, Access 
+
+Applications 
+Visual Studio 2010/2008,  FrontPage,  PhotoShop, Illustrator, Acrobat</skills></skills>
+
+ 
+<experience end='present' start='732679'>PROJECT EXPERIENCE
+
+
+01
+Project Name:      
+<job id='1' naics='31621101' naics2='31' sic='513705' sic2='51'><title>Project Image Manager</title>
+
+Client: 
+<employer>NIKE</employer></job>
+
+Description:   <job id='2'><title>Product Image Manager</title> <description>(PIM) is a web-based, search-driven application that serves the needs of Merchandisers, Developers, Production Artists, Designers and others who work with line art images. These users directly go to PIM to access images and to download images or a collection of images. PIM is an application used to upload and manage images related to styles in Apparel and Equipment. With PIM, line art users can create PDF or PPT output from a combination of images and line plan data. PIM also allows users to download individual images as needed.</description></job>
+
+Role                      
+:
+<job end='present' id='3' pos='1' start='734505'><title>Business System Analyst</title>
+
+Responsibilities
+:
+<description>Analysis of requirements of the Product Image Manager application with the new apparel and equipment product structure.
+Ensure the understanding and complete requirements with the help of development and quality assurance team members.
+Responsible for the creation of the procedural documents such as user guides, job aids and process flow diagram.</description>
+
+
+Duration
+:
+<daterange><start days='734505' iso8601='2012-01-01'>January 2012</start>-<end days='present' iso8601='2012-04-01'>Current
+
+02</end></daterange>
+<description>Project Name:      
+Transition Workbench Ver3.0
+
+Client: 
+Infosys
+
+Description:  Transition Workbench provides a platform that helps in understanding the existing suite of applications before starting independent maintenance on them, a process labeled as Transition. The project involved migration of Transition Workbench from Sharepoint 2007 &amp; Project Server 2007 to Sharepoint 2010 and Project Server 2010. The platform was setup on a secured centralized deployment environment using latest Microsoft technology, ADFS.</description></job>
+
+Role                      
+:
+<job end='734444' id='4' pos='2' start='734230'><title>Technology Analyst</title>
+
+Responsibilities
+:
+<description>Working in collaboration with Microsoft to setup the ADFS environment. This was the first secured centralized ADFS environment setup at Infosys.
+Requirement analysis for module
+High level Design, Low level design
+Leading and mentoring a team of 4 developers</description>
+
+
+Duration
+:
+Eight months (<daterange><start days='734230' iso8601='2011-04-01'>April 2011</start>-<end days='734444' iso8601='2011-11-01'>November 2011</end></daterange>)
+
+Software
+:
+<description>Microsoft ADFS, MS SharePoint Server 2010, Microsoft Project Server 2010, Visual Studio 2010, and SQL Server 2008.
+
+03
+Project Name:      
+GTEL IT&amp;S
+
+Client: 
+British Petroleum
+
+Description:  The project involved support of IT&amp;S and Reference Data Sharepoint sites. The IT&amp;S site contains all the information related to projects under BP GTEL program. Reference Data constitutes information related to various trading entities which are stored and maintained in GTEL applications.</description></job> 
+
+Role                      
+:
+<job end='734199' id='5' pos='3' start='733987'><title>Technology Analyst</title>
+
+Responsibilities
+:
+<description>Analyzing the requirements for workflows and site customizations.
+Design and development of Workflows using Nintex 2007.
+Design and development of charts and reports using Dundas Charts.
+Share point site customizations, using Java scripts and Jquery.</description>
+
+
+Duration
+:
+Eight months (<daterange><start days='733987' iso8601='2010-08-01'>August 2010</start>-<end days='734199' iso8601='2011-03-01'>March 2011</end></daterange>)
+
+Software
+:
+<description>MS Office SharePoint Server 2007, Nintex 2007, Dundas charts and SQL Server 2005.
+
+04
+Project Name:      
+ Transition Workbench Ver2.1 : Penetration testing changes 
+
+Client: 
+Infosys
+
+Description:  Transition Workbench provides a platform that helps in understanding the existing suite of applications before starting independent maintenance on them.  This module included changes made on the existing Transition Workbench application on the recommendation of Penetration Testing team to make the product secure of hacking.</description></job> 
+
+Role                      
+:
+<job end='733834' id='6' pos='4' start='733806'><title>Senior System Engineer</title>
+
+Responsibilities
+:
+<description>Analyzing the areas prone to hacking in the application.
+Implementing code level changes as recommended Penetration Testing team.</description>
+
+
+Duration
+:
+Two months (<daterange><start days='733806' iso8601='2010-02-01'>February 2010</start>-<end days='733834' iso8601='2010-03-01'>March 2010</end></daterange>)
+
+Software
+:
+<description>MS Office SharePoint Server 2007, Microsoft Project Server 2007, Visual Studio 2008, and SQL Server 2005.
+
+
+05
+Project Name:      
+ Intelligent Production Support Platform (IPSP)
+
+Client: 
+BELGACOM
+
+Description:  IPSP is a Knowledge Management (KM) tool developed on Microsoft Office Sharepoint Server 2007. This tool is placed in the area of custom application based support and used by Infosys ADM teams to serve the clients better thereby bringing in a holistic KM practice in place. This tool is also used directly by Infosys client teams if they plan to roll out KM as a collaborative platform for sharing information across the organization and for effective content management.</description></job>
+
+Role                      
+:
+<job end='733775' id='7' pos='5' start='733653'><title>Senior System Engineer</title>
+
+Responsibilities
+:
+<description>Influencing and rapport building with stakeholders while delivering the product to client BELGACOM under tight schedule.
+Designed one of the modules of IPSP for the Bulk Status import functionality.
+Implemented Custom Search and Wiki pages.
+Leading and mentoring a team of 3 developers</description>
+
+
+Duration
+:
+Five months (<daterange><start days='733653' iso8601='2009-09-01'>September 2009</start>-<end days='733775' iso8601='2010-01-01'>January 2010</end></daterange>)
+
+Software
+:
+<description>MS Office SharePoint Server 2007, Microsoft Project Server 2007, Visual Studio 2008, and SQL Server 2005.
+
+06
+Project Name:      
+ MANTRA Transition Workbench (TWB) Ver2.1
+
+Client:
+ Infosys
+
+Description:  Transition Workbench provides a platform that helps in understanding the existing suite of applications before starting independent maintenance on them. The major addition to Version 1.0 was integration of IPM+ (a tool used in Infosys for defining new Plans, tasks in plans and resources for each plan) and DART (a client based desktop tool used to log efforts of each resource) to automate the process of resource allocation to different tasks and to log efforts by each resource for billing purpose.</description></job>
+
+Role                      
+:
+<job end='733622' id='8' pos='6' start='733441'><title>Software Engineer</title>
+
+Responsibilities
+:
+<description>Requirement analysis for module
+High level Design, Low level design
+Development of Transition Workbench Ver2.1 
+Recreation/Creation of custom web parts for new version &amp; Event Handlers
+Deployment of Transition Workbench Ver2.1 
+
+
+Duration
+:
+Seven months</description> (<daterange><start days='733441' iso8601='2009-02-01'>February 2009</start>-<end days='733622' iso8601='2009-08-01'>August 2009</end></daterange>)
+
+Software
+:
+<description>MS Office SharePoint Server 2007, Microsoft Project Server 2007, Visual Studio 2008, and SQL Server 2005.
+
+07
+Project Name:      
+Production Support for MANTRA solution
+
+Client
+Infosys
+
+Description:  MANTRA - is a workbench for providing a collaborative working environment for all the stakeholders participating in Maintenance projects, integrating different set of toolsets needed to execute the entire lifecycle of Maintenance projects covering knowledge transition (System Appreciation) phase, Steady State and Reverse transition/closure phase. The production support activities involved deployment, support and presales activities for MANTRA solution.</description></job>
+
+
+Role                      
+:
+<job end='733410' id='9' pos='7' start='733044'><title>Software Engineer</title>
+
+Responsibilities
+:
+<description>Communicating with customer to understand the scenario and giving workarounds.
+ Implementing enhancements corresponding to new customer requirements on Production Support platform.
+Anchoring project demos for the Production Support platform.
+Fostering Microsoft Office Sharepoint Server 2007 and Project Server 2007 thinking amongst different teams.</description>
+ 
+
+Duration
+:
+Thirteen months (<daterange><start days='733044' iso8601='2008-01-01'>January 2008</start>-<end days='733410' iso8601='2009-01-01'>January 2009</end></daterange>)
+
+Software
+:
+<description>MS Office SharePoint Server 2007, Microsoft Project Server 2007, Visual Studio 2005, and SQL Server 2005.
+
+08
+Project Name:      
+ MANTRA Transition Workbench (TWB) Ver1.0
+
+Client:
+Infosys 
+
+Description:  Transition Workbench provides a platform that helps in understanding the existing suite of applications before starting independent maintenance on them. Transition Workbench 1.0 aimed at helping offshore, onsite and client users to collaborate with each other. It provided one platform for document management, tracking and reporting, issue/risk management, effort collection, etc.</description></job>
+
+<job id='10'><title>Role</title></job>                      
+:
+<job id='11'><title>Software Engineer</title>
+
+Responsibilities
+:
+<description>Requirement analysis for SharePoint 2007 and Project Server 2007 module.
+Design and development of the module.
+Recreation/Creation of custom web parts for new version &amp; Event Handlers.</description></job>
+
+
+Duration
+:
+<job end='733013' id='12' pos='8' start='732830'><title>Seven months</title> (<daterange><start days='732830' iso8601='2007-06-01'>June 2007</start>-<end days='733013' iso8601='2007-12-01'>December 2007</end></daterange>)
+
+Software
+:
+<description>MS Office SharePoint Server 2007, Microsoft Project Server 2007, Visual Studio 2005, and SQL Server 2005.
+
+09
+Project Name:
+MPEC Portfolio Analysis Tool
+
+Client:
+Infosys
+
+Description:  MPEC is a Portfolio Analysis tool that provides a structured approach to assess application portfolios on factors such as health, flexibility, business value contribution, cost of operations and sourcing attractiveness.</description></job>
+
+Role                      
+:
+<job end='732769' id='13' pos='9' start='732679'><title>Software Engineer</title>
+
+Responsibilities
+:
+<description>Design, development &amp; testing of the product.</description>
+
+Duration
+:
+4 months (<daterange><start days='732679' iso8601='2007-01-01'>January 2007</start>-<end days='732769' iso8601='2007-04-01'>April 2007</end></daterange>)
+
+Software
+:
+<description>Visual Studio 2005, SQL Server 2005, and SQL Server Reporting Services.</description></job></experience>
+
+PERSONAL DETAILS
+
+Name:		<contact><name><givenname>Ashish</givenname> <givenname>Kumar</givenname> <surname>Shukla</surname></name>
+Address:	<address lat='45.518' lon='122.859' majorcity='BEAVERTON' state='OR'><street>Apt 207, 16405 SW Estuary Dr</street>
+<city>Beaverton</city>, <state abbrev='OR'>OR</state> - <postalcode>97006</postalcode></address>
+Email:		<email>ashishshukla.infy@gmail.com</email>
+	<phone>503-750-9163</phone></contact>
+
+<education>Education: <degree level='16'>Bachelors of Technology</degree> in <major code='0402 1699'>Computer Science and Engineering</major> (<completiondate days='732314' iso8601='2006-01-01'>2006</completiondate>) 
+
+Visa Status: <major>H1B</major></education>
+
+
+</resume>
+
+<skillrollup version='1'>
+  <canonskill name='.net'>
+    <variant>ASP.Net</variant>
+    <variant>.Net</variant>
+  </canonskill>
+  <canonskill name='adobe acrobat'>
+    <variant>Acrobat</variant>
+  </canonskill>
+  <canonskill name='adobe photoshop'>
+    <variant>PhotoShop</variant>
+  </canonskill>
+  <canonskill end='733013' experience='1' expidrefs='12' idrefs='12' lastused='2007' name='approach' start='732830'>
+    <variant>approach</variant>
+  </canonskill>
+  <canonskill experience='1' name='art'>
+    <variant>art</variant>
+  </canonskill>
+  <canonskill end='733775' experience='1' expidrefs='7' idrefs='7' lastused='2010' name='automate' start='733653'>
+    <variant>automate</variant>
+  </canonskill>
+  <canonskill end='733775' experience='1' expidrefs='7' idrefs='7' lastused='2010' name='billing' start='733653'>
+    <variant>billing</variant>
+  </canonskill>
+  <canonskill end='734199' experience='1' expidrefs='5' idrefs='5' lastused='2011' name='charts' start='733987'>
+    <variant>Charts</variant>
+    <variant>charts</variant>
+  </canonskill>
+  <canonskill end='733834' experience='1' expidrefs='6' idrefs='6' lastused='2010' name='content management' start='733806'>
+    <variant>Content Management</variant>
+    <variant>content management</variant>
+    <variant>Content</variant>
+  </canonskill>
+  <canonskill name='css'>
+    <variant>CSS</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='3,4,5,6,7,8,9,12' idrefs='3,4,5,6,7,8,9,12' lastused='2012' name='customer relations' start='732830'>
+    <variant>Client</variant>
+    <variant>client</variant>
+    <variant>clients</variant>
+  </canonskill>
+  <canonskill name='database administration'>
+    <variant>Database</variant>
+  </canonskill>
+  <canonskill end='733410' experience='1' expidrefs='9' idrefs='9' lastused='2009' name='document management' start='733044'>
+    <variant>document management</variant>
+  </canonskill>
+  <canonskill name='fast'>
+    <variant>FAST</variant>
+  </canonskill>
+  <canonskill name='features'>
+    <variant>Features</variant>
+  </canonskill>
+  <canonskill name='frontpage'>
+    <variant>FrontPage</variant>
+  </canonskill>
+  <canonskill name='html'>
+    <variant>HTML</variant>
+  </canonskill>
+  <canonskill name='illustrator'>
+    <variant>Illustrator</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='3' idrefs='3' lastused='2012' name='imaging' start='734505'>
+    <variant>Image</variant>
+  </canonskill>
+  <canonskill end='734199' experience='1' expidrefs='5' idrefs='5' lastused='2011' name='javascript' start='733987'>
+    <variant>Java scripts</variant>
+    <variant>JavaScript</variant>
+  </canonskill>
+  <canonskill end='733834' experience='1' expidrefs='6' idrefs='6' lastused='2010' name='knowledge management' start='733806'>
+    <variant>Knowledge Management</variant>
+  </canonskill>
+  <canonskill end='734444' experience='1' expidrefs='4,7' idrefs='4,7' lastused='2011' name='mentoring' start='733653'>
+    <variant>mentoring</variant>
+  </canonskill>
+  <canonskill experience='1' name='microsoft access'>
+    <variant>Access</variant>
+    <variant>access</variant>
+  </canonskill>
+  <canonskill name='microsoft c #'>
+    <variant>C#</variant>
+  </canonskill>
+  <canonskill name='microsoft excel'>
+    <variant>Excel</variant>
+  </canonskill>
+  <canonskill end='734199' experience='1' expidrefs='5,6,7,8,9,12' idrefs='5,6,7,8,9,12' lastused='2011' name='microsoft office' start='732830'>
+    <variant>Microsoft Office</variant>
+    <variant>MS Office</variant>
+  </canonskill>
+  <canonskill end='734444' experience='1' expidrefs='4,6,7,8,9,12' idrefs='4,6,7,8,9,12' lastused='2011' name='microsoft project' start='732830'>
+    <variant>Microsoft Project</variant>
+  </canonskill>
+  <canonskill name='microsoft windows'>
+    <variant>Windows</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='3' idrefs='3' lastused='2012' name='migration' start='734505'>
+    <variant>migration</variant>
+  </canonskill>
+  <canonskill experience='1' name='pdf'>
+    <variant>PDF</variant>
+  </canonskill>
+  <canonskill name='programming'>
+    <variant>Programming</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='3' idrefs='3' lastused='2012' name='quality control' start='734505'>
+    <variant>quality assurance</variant>
+  </canonskill>
+  <canonskill end='733775' experience='1' expidrefs='7' idrefs='7' lastused='2010' name='rapport' start='733653'>
+    <variant>rapport</variant>
+  </canonskill>
+  <canonskill end='733410' experience='1' expidrefs='9,13' idrefs='9,13' lastused='2009' name='reports' start='732679'>
+    <variant>reporting</variant>
+    <variant>Reporting</variant>
+  </canonskill>
+  <canonskill end='734444' experience='1' expidrefs='4,8,11' idrefs='4,8,11' lastused='2011' name='requirements' start='733441'>
+    <variant>Requirement</variant>
+  </canonskill>
+  <canonskill end='733410' experience='1' expidrefs='9' idrefs='9' lastused='2009' name='risk management' start='733044'>
+    <variant>risk management</variant>
+  </canonskill>
+  <canonskill end='734444' experience='1' expidrefs='4,5,6,7,8,9,12,13' idrefs='4,5,6,7,8,9,12,13' lastused='2011' name='sql' start='732679'>
+    <variant>SQL Server</variant>
+  </canonskill>
+  <canonskill end='733013' experience='1' expidrefs='12' idrefs='12' lastused='2007' name='structured methods' start='732830'>
+    <variant>structured</variant>
+  </canonskill>
+  <canonskill name='upgrades'>
+    <variant>Upgrade</variant>
+  </canonskill>
+  <canonskill name='visio'>
+    <variant>Visio</variant>
+  </canonskill>
+  <canonskill end='734444' experience='1' expidrefs='4,6,7,8,9,12,13' idrefs='4,6,7,8,9,12,13' lastused='2011' name='visual studio' start='732679'>
+    <variant>Visual Studio</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='3,5,7,8,9' idrefs='3,5,7,8,9' lastused='2012' name='workbench' start='733044'>
+    <variant>Workbench</variant>
+    <variant>workbench</variant>
+    <variant>Workbench 1.0</variant>
+  </canonskill>
+  <canonskill name='workflow analysis'>
+    <variant>Workflow</variant>
+  </canonskill>
+  <canonskill name='xml'>
+    <variant>XML</variant>
+  </canonskill>
+  <canonskill name='xsl'>
+    <variant>XSL</variant>
+  </canonskill>
+  <canonskill name='xslt'>
+    <variant>XSLT</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

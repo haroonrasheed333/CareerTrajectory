@@ -1,0 +1,162 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734584' xml:space='preserve'><contact><name><givenname>Andrew</givenname> <surname>Press</surname></name>
+<phone>714.872.0885</phone>
+<email>APress04@yahoo.com</email></contact>
+
+
+<education>Education
+
+<school id='6'><institution>San Jose State University</institution>    
+<degree level='18' name='Master of Arts'>M.A</degree>. <major code='4'>Counselor Education</major></school>
+
+<school id='7'><institution>California State University</institution> <address lat='40.5884' lon='-73.656' majorcity='LONG BEACH' state='NY'><city>Long Beach</city></address>			
+<degree level='16' name='Bachelor of Arts'>BA</degree>: <major code='2799 1902'>History and Political Science</major></school></education> 
+
+<skills>Technical Skills
+
+<skills>Software:  Windows 2000/XP/7 operating systems, Microsoft Office 2010: Word, Excel, PowerPoint, Outlook, typing speed 55 wpm.</skills></skills> 
+
+<summary>Professional Summary
+
+<summary>Successful Teacher, Coach, Mentor and Counselor with over 10 years of experience handling students and athletes day to day, highlights include:
+Organized in scheduling meetings and upholding great communication. 
+Skilled in evaluating needs and developing student-focused teaching strategies and educational plans. 
+Proficient in involving, motivating, and leading students to achieve goals. 
+Extensive experience working with youth, both street children and private school students. 
+Proven ability to control large groups of children and create an environment conducive to learning. 
+Taught English and Social Sciences to a wide range of students</summary></summary>
+
+<experience end='present' start='732222'>Experience 
+
+<job end='present' id='1' pos='1' sic='822101' sic2='82' start='734260'><employer>La Sierra University</employer>, <address><city>Riverside</city> <state abbrev='CA'>CA</state></address>			       	         		 <daterange><start days='734260' iso8601='2011-05-01'>05/2011</start> - <end days='present' iso8601='2012-03-20'>Present</end></daterange> 
+<title>Women's Basketball Coach</title>
+<description>Worked extensively with Microsoft Office Professional Suite.
+Gathered research, drafted professional letters, and formed numerous presentations.
+Scheduled meetings, upheld great communication, and correspondence for the entire organization.
+Efficiently completed projects, tight deadlines, off-site events, and office deadlines.
+Implemented various classroom management techniques for maintaining student attention, involvement and discipline.</description></job>
+
+<job end='734230' id='2' pos='2' sic='821103' sic2='82' start='732222'><employer>Mills High School</employer>, <address><city>Millbrae</city> <state abbrev='CA'>CA</state></address>		       	        			  <daterange><start days='732222' iso8601='2005-10-01'>10/2005</start>-<end days='734230' iso8601='2011-04-01'>4/2011</end></daterange>
+<title>Basketball Coach</title> 
+
+<description>Organized, and lead Boys' Basketball team to playoffs throughout multiple seasons.
+Facilitated practices and team environment to ensure a successful and lasting learning experience.
+Implemented various classroom management techniques for maintaining student attention, involvement, and discipline.</description></job>
+
+
+
+<job end='733561' id='3' pos='3' sic='821103' sic2='82' start='733196'><employer>The Foundry Community School</employer>, <address><city>San Jose</city> <state abbrev='CA'>CA</state></address>			           		      <daterange><start days='733196' iso8601='2008-06-01'>06/2008</start> - <end days='733561' iso8601='2009-06-01'>06/2009</end></daterange> 
+<title>Guidance Counselor</title>
+
+<description>Worked closely with an at risk youth community guiding and counseling high school-level students.
+Organized and led group sessions, including Anger Management, Job Preparation, and Group Dynamics. 
+Performed individual transcript evaluation and counseling.
+Evaluated and maintained new student intake and scheduling.
+Utilize multiple assessments in compliance with district and state requirements to inform instruction.
+Worked multiple site-locations to ensure every student within the organization could be assisted.</description></job> 
+
+
+<job end='733226' id='4' pos='5' start='732465'><employer>School for Independent Learners</employer>, <address><city>San Jose</city> <state abbrev='CA'>CA</state></address>		                    		 <daterange><start days='732465' iso8601='2006-06-01'>06/2006</start> - <end days='733226' iso8601='2008-07-01'>07/2008</end></daterange>
+<title>Teacher</title> 
+
+<description>Organized, instructed, and facilitated crossover classes at a high school level between History and English 
+Use innovative methods and materials to produce effective learning experiences including cooperative learning, thematic instruction and differentiation.  
+Taught students basic application software usage, such as Microsoft Windows, Word, PowerPoint, Internet access using various search engines through browser programs.
+Prepared assignments for student reports; assisted students in organizing and writing research findings, bibliographies and final reports.
+Partnered with parents in students' success; provided feedback on students' progress and to discuss areas needing improvement and additional work.
+
+
+Volunteer Work
+
+Africa, Zambia- Salvation House							2009/2010
+Community Service Learning Project- Certificate of Completion
+Follow up research study in Zambia</description></job>					                                
+
+
+<job end='733410' id='5' pos='4' sic='899999' sic2='89' start='733044'><employer>Mentoring</employer>, <address>San Jose/<city>Oakland</city> <state abbrev='CA'>CA</state></address>		  	              				  <daterange><start days='733044' iso8601='2008-01-01'>2008</start> -<end days='733410' iso8601='2009-01-01'>2009</end></daterange>
+<title>Ben Rodriguez</title>
+ <description>Guided this at-risk youth in learning how to be successful in society, helped obtain and keep a job.</description></job></experience>  
+
+
+
+
+
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='733226' experience='1' expidrefs='4' idrefs='4' lastused='2008' name='basic' start='732465'>
+    <variant>basic</variant>
+  </canonskill>
+  <canonskill end='733561' experience='1' expidrefs='3' idrefs='3' lastused='2009' name='counseling' start='733196'>
+    <variant>counseling</variant>
+  </canonskill>
+  <canonskill end='733226' experience='1' expidrefs='4' idrefs='4' lastused='2008' name='english' start='732465'>
+    <variant>English</variant>
+  </canonskill>
+  <canonskill end='733561' experience='1' expidrefs='3,4' idrefs='3,4' lastused='2009' name='instruction' start='732465'>
+    <variant>instruction</variant>
+  </canonskill>
+  <canonskill end='733226' experience='1' expidrefs='4' idrefs='4' lastused='2008' name='internet software' start='732465'>
+    <variant>Internet access</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='letters' start='734260'>
+    <variant>letters</variant>
+  </canonskill>
+  <canonskill end='733226' experience='1' expidrefs='4' idrefs='4' lastused='2008' name='materials management' start='732465'>
+    <variant>materials</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='meeting facilitation' start='734260'>
+    <variant>meetings</variant>
+  </canonskill>
+  <canonskill name='microsoft excel'>
+    <variant>Excel</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='microsoft office' start='734260'>
+    <variant>Microsoft Office Professional</variant>
+    <variant>Microsoft Office</variant>
+    <variant>office</variant>
+  </canonskill>
+  <canonskill name='microsoft outlook'>
+    <variant>Outlook</variant>
+  </canonskill>
+  <canonskill end='733226' experience='1' expidrefs='4' idrefs='4' lastused='2008' name='microsoft powerpoint' start='732465'>
+    <variant>PowerPoint</variant>
+  </canonskill>
+  <canonskill end='733226' experience='1' expidrefs='4' idrefs='4' lastused='2008' name='microsoft windows' start='732465'>
+    <variant>Microsoft Windows</variant>
+  </canonskill>
+  <canonskill name='microsoft windows 2000'>
+    <variant>Windows 2000</variant>
+  </canonskill>
+  <canonskill end='733226' experience='1' expidrefs='4' idrefs='4' lastused='2008' name='microsoft word' start='732465'>
+    <variant>Word</variant>
+  </canonskill>
+  <canonskill end='733226' experience='1' expidrefs='4' idrefs='4' lastused='2008' name='online research' start='732465'>
+    <variant>search engines</variant>
+  </canonskill>
+  <canonskill name='operating systems'>
+    <variant>operating systems</variant>
+  </canonskill>
+  <canonskill end='733226' experience='1' expidrefs='4' idrefs='4' lastused='2008' name='organizational skills' start='732465'>
+    <variant>organizing</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='presentation skills' start='734260'>
+    <variant>presentations</variant>
+  </canonskill>
+  <canonskill end='733226' experience='1' expidrefs='4' idrefs='4' lastused='2008' name='progress' start='732465'>
+    <variant>progress</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,4' idrefs='1,4' lastused='2012' name='research' start='732465'>
+    <variant>research</variant>
+  </canonskill>
+  <canonskill end='733561' experience='1' expidrefs='3' idrefs='3' lastused='2009' name='scheduling' start='733196'>
+    <variant>scheduling</variant>
+  </canonskill>
+  <canonskill name='typing'>
+    <variant>55 wpm</variant>
+    <variant>typing speed</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

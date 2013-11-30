@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734597' xml:space='preserve'><contact><name><givenname>Aarthi</givenname> <surname>Janakiraman</surname></name>
+<address lat='37.518' lon='121.929' majorcity='FREMONT' state='CA'><street>40901 Valero Drive</street>, <city>Fremont</city>, <state abbrev='CA'>CA</state> <postalcode>94539</postalcode></address>
+<phone type='home'>510 344 0889</phone>(H)
+<email>aarthij76@yahoo.com</email></contact>
+<summary>Objective
+<objective>A Research and Laboratory position to apply my strong technical and communication skills in a Biotech Industry</objective></summary>
+
+<education>Education
+<school id='4'><degree level='18' name='Master of Science'>M.S</degree> <major code='1001'>Chemical Engineering</major> (emphasis on Biochemical Engg), <institution>San Jose State University</institution> <completiondate days='733044' iso8601='2008-01-01'>2008</completiondate></school>
+<school id='5'><degree level='16' name='Bachelor of Technology'>B.Tech</degree> <major code='1001'>Chemical Engineering</major>, <institution>Sri Venkateswara College of Engineering, University of Madras</institution>, <address><country iso3='IND'>India</country></address>,
+<completiondate days='729392' iso8601='1998-01-01'>1998</completiondate></school></education>
+<experience end='present' start='729847'>Relevant Skills
+<job end='present' id='1' pos='1' start='734444'><description>Bioprocess lab technologies 
+Fermentation, FPLC, column chromatography, HIC, Ion-exchange chromatography, LC-MS 
+Protein handling 
+Enzyme Kinetics, Ultra Filtration, SDS-PAGE
+Molecular Biology
+Electrophoresis, Restriction enzyme digest, Nucleic acid &amp; recombinant DNA plasmid purification, PCR</description>
+
+Work Experience
+<title>Research Associate</title>, <employer>Tandem Sciences Inc</employer>, <address><city>Menlo Park</city>, <state abbrev='CA'>CA</state></address>, <daterange><start days='734444' iso8601='2011-11-01'>November11</start> - <end days='present' iso8601='2012-04-02'>Current</end></daterange>
+<description>Involved in the custom synthesis and purification of small molecule compounds  and organic compounds needed for drug discovery</description></job>
+
+<job end='733744' id='2' pos='2' sic='801101' sic2='80' start='733469'><title>Research Assistant</title>, <department>Department of Chemistry</department>, <employer>San Jose State University</employer>, <address><state abbrev='CA'>CA</state></address>, <daterange><start days='733469' iso8601='2009-03-01'>March09</start> -<end days='733744' iso8601='2009-12-01'>Dec 09</end></daterange>
+<description>Analyzed &amp; predicted modes of flavonoid derivatives that can specifically and strongly inhibit members of caspase family of proteins using UCSF DOCK on Unix /Linux platforms
+Applied computational techniques to aid in rational design of flavonoid derivatives that can specifically &amp; strongly inhibit members of caspase family of proteins
+Applied molecular visualization software  such as Chimera, Pymol, VEGAZZ  to analyze  ligand binding complex to evaluate the biochemical properties</description></job>
+
+<job end='730091' id='3' pos='3' start='729847'><title>Technical Editor</title>, Domex Technical Information, <address><city>Chennai</city>, <country iso3='IND'>India</country></address>, <daterange><start days='729847' iso8601='1999-04-01'>April 99</start>- <end days='730091' iso8601='1999-12-01'>Dec99</end></daterange>
+<description>Provided  technical abstracting services with emphasis on determining novelty in Japanese &amp; US patent documents &amp; Research papers 
+Promoted to Senior Editor within 2 months of appointment for Chemical engineering department
+
+Thesis Work 
+Development of Structure based Drug Design Lab Module 
+Recognized as top module in course by the thesis committee &amp; to be incorporated into future Bio-engineering curriculum
+Designed and developed Lab module based on Structure Based Drug Design to introduce basic principles of drug design  
+Integrated  application of  bioinformatics, computer modeling of molecular structures
+&amp; protein chemistry
+	
+Process Design: Plant design for manufacture of 10,000 tons of propylene oxide by indirect oxidation of propylene which lead to an efficient plant design with less wastage and a commercial by-product</description></job></experience> 
+
+<statements>Other Activities
+<activities>Guest Lecture, Department of Chemical engineering, San Jose State University, 2010
+       Interactive lecture on Application of Structure based drug design towards Osteoarthritis
+Teacher Volunteer at Weekend Cultural School</activities>
+<eligibility>Status US Green Card Holder</eligibility></statements>
+</resume>
+
+<skillrollup version='1'>
+  <canonskill experience='1' name='acid'>
+    <variant>acid</variant>
+  </canonskill>
+  <canonskill end='730091' experience='1' expidrefs='3' idrefs='3' lastused='1999' name='basic' start='729847'>
+    <variant>basic</variant>
+  </canonskill>
+  <canonskill end='733744' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='derivatives' start='733469'>
+    <variant>derivatives</variant>
+  </canonskill>
+  <canonskill end='730091' experience='1' expidrefs='3' idrefs='3' lastused='1999' name='editing' start='729847'>
+    <variant>Editor</variant>
+  </canonskill>
+  <canonskill end='730091' experience='1' expidrefs='3' idrefs='3' lastused='1999' name='japanese' start='729847'>
+    <variant>Japanese</variant>
+  </canonskill>
+  <canonskill end='733744' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='linux' start='733469'>
+    <variant>Linux</variant>
+  </canonskill>
+  <canonskill experience='1' name='microsoft exchange'>
+    <variant>exchange</variant>
+  </canonskill>
+  <canonskill end='730091' experience='1' expidrefs='3' idrefs='3' lastused='1999' name='modeling' start='729847'>
+    <variant>modeling</variant>
+  </canonskill>
+  <canonskill experience='1' name='page'>
+    <variant>PAGE</variant>
+  </canonskill>
+  <canonskill experience='1' name='pcr'>
+    <variant>PCR</variant>
+  </canonskill>
+  <canonskill end='730091' experience='1' expidrefs='3' idrefs='3' lastused='1999' name='process engineering' start='729847'>
+    <variant>Process Design</variant>
+  </canonskill>
+  <canonskill end='730091' experience='1' expidrefs='3' idrefs='3' lastused='1999' name='research' start='729847'>
+    <variant>Research</variant>
+  </canonskill>
+  <canonskill end='733744' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='unix' start='733469'>
+    <variant>Unix</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

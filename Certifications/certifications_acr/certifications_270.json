@@ -1,0 +1,257 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Computer Forensic Technician Advanced", 
+            "Type": "Advanced", 
+            "Certification ID": "5859", 
+            "Certifying Organization": "High Tech Crime Network"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Latent Fingerprint Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "3599", 
+            "Certifying Organization": "The International Association for Identification"
+        }, 
+        {
+            "Acronym": "GCFA", 
+            "Certification Name": "GIAC Certified Forensics Analyst", 
+            "Type": "Core", 
+            "Certification ID": "4400", 
+            "Certifying Organization": "Global Information Assurance Certification"
+        }, 
+        {
+            "Acronym": "CAWFE", 
+            "Certification Name": "Certified Advanced Windows Forensic Examiner", 
+            "Type": "Advanced", 
+            "Certification ID": "9582", 
+            "Certifying Organization": "International Association of Computer Investigative Specialists"
+        }, 
+        {
+            "Acronym": "CFF", 
+            "Certification Name": "Certified in Financial Forensics", 
+            "Type": "Advanced", 
+            "Certification ID": "6788", 
+            "Certifying Organization": "American Institute of Certified Public Accountants"
+        }, 
+        {
+            "Acronym": "CFI", 
+            "Certification Name": "Certified Forensic Interviewer", 
+            "Type": "Core", 
+            "Certification ID": "9009", 
+            "Certifying Organization": "International Association of Interviewers"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Forensic Video Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "7735", 
+            "Certifying Organization": "International Association for Identification"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Latent Print Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "7736", 
+            "Certifying Organization": "International Association for Identification"
+        }, 
+        {
+            "Acronym": "MAFF", 
+            "Certification Name": "Master Analyst in Financial Forensics", 
+            "Type": "Specialty", 
+            "Certification ID": "3584", 
+            "Certifying Organization": "National Association of Certified Valuation Analysts"
+        }, 
+        {
+            "Acronym": "FP", 
+            "Certification Name": "Forensic Photography", 
+            "Type": "Specialty", 
+            "Certification ID": "3597", 
+            "Certifying Organization": "The International Association for Identification"
+        }, 
+        {
+            "Acronym": "CFSW", 
+            "Certification Name": "Certified Forensic Social Worker", 
+            "Type": "Specialty", 
+            "Certification ID": "6977", 
+            "Certifying Organization": "National Association of Forensic Counselors"
+        }, 
+        {
+            "Acronym": "LPT", 
+            "Certification Name": "Licensed Penetration Tester", 
+            "Type": "Core", 
+            "Certification ID": "5312", 
+            "Certifying Organization": "EC-Council"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Bloodstain Pattern Analysis Certification", 
+            "Type": "Core", 
+            "Certification ID": "3594", 
+            "Certifying Organization": "The International Association for Identification"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Footwear Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "8672", 
+            "Certifying Organization": "International Association for Identification"
+        }, 
+        {
+            "Acronym": "C3E", 
+            "Certification Name": "Certified Cyber-Crime Expert", 
+            "Type": "Core", 
+            "Certification ID": "5319", 
+            "Certifying Organization": "E-Business Process Solutions"
+        }, 
+        {
+            "Acronym": "ECSA", 
+            "Certification Name": "EC-Council Certified Security Analyst", 
+            "Type": "Advanced", 
+            "Certification ID": "5315", 
+            "Certifying Organization": "EC-Council"
+        }, 
+        {
+            "Acronym": "CSFA", 
+            "Certification Name": "CyberSecurity Forensic Analyst", 
+            "Type": "Advanced", 
+            "Certification ID": "5305", 
+            "Certifying Organization": "CyberSecurity Institute"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Accredited Traffic Accident  Reconstructionist", 
+            "Type": "Core", 
+            "Certification ID": "7646", 
+            "Certifying Organization": "Accreditation Commission for Traffic Accident Reconstruction"
+        }, 
+        {
+            "Acronym": "CCFT", 
+            "Certification Name": "Certified Computer Forensic Technician", 
+            "Type": "Advanced", 
+            "Certification ID": "5858", 
+            "Certifying Organization": "High Tech Crime Network"
+        }, 
+        {
+            "Acronym": "GCFE", 
+            "Certification Name": "GIAC Certified Forensics Examiner", 
+            "Type": "Advanced", 
+            "Certification ID": "6777", 
+            "Certifying Organization": "Global Information Assurance Certification"
+        }, 
+        {
+            "Acronym": "CFVT", 
+            "Certification Name": "Certified Forensic Video Technician", 
+            "Type": "Core", 
+            "Certification ID": "5670", 
+            "Certifying Organization": "Law Enforcement and Emergency Services Video Association"
+        }, 
+        {
+            "Acronym": "CSC", 
+            "Certification Name": "Crime Scene Certification", 
+            "Type": "Core", 
+            "Certification ID": "3595", 
+            "Certifying Organization": "The International Association for Identification"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Forensic Artist Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "7733", 
+            "Certifying Organization": "International Association for Identification"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Tenprint Fingerprint Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "7737", 
+            "Certifying Organization": "International Association for Identification"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Diplomate of the American Board of Toxicology", 
+            "Type": "Advanced", 
+            "Certification ID": "5369", 
+            "Certifying Organization": "American Board of Toxicology, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Crime Scene Reconstructionist", 
+            "Type": "Core", 
+            "Certification ID": "7730", 
+            "Certifying Organization": "International Association for Identification"
+        }, 
+        {
+            "Acronym": "CFC", 
+            "Certification Name": "Certified Forensic Counselor", 
+            "Type": "Advanced", 
+            "Certification ID": "5426", 
+            "Certifying Organization": "National Association of Forensic Counselors"
+        }, 
+        {
+            "Acronym": "ABFDE", 
+            "Certification Name": "Diplomate of the American Board of Forensic Document Examiners (ABFDE)", 
+            "Type": "Advanced", 
+            "Certification ID": "7962", 
+            "Certifying Organization": "American Board of Forensic Document Examiners"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Bloodstain Pattern Examiner Certification", 
+            "Type": "Core", 
+            "Certification ID": "7727", 
+            "Certifying Organization": "International Association for Identification"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Crime Scene Investigator", 
+            "Type": "Core", 
+            "Certification ID": "7728", 
+            "Certifying Organization": "International Association for Identification"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Crime Scene Analyst", 
+            "Type": "Core", 
+            "Certification ID": "7729", 
+            "Certifying Organization": "International Association for Identification"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Senior Crime Scene Analyst", 
+            "Type": "Core", 
+            "Certification ID": "7731", 
+            "Certifying Organization": "International Association for Identification"
+        }, 
+        {
+            "Acronym": "FC", 
+            "Certification Name": "Footwear Certification", 
+            "Type": "Core", 
+            "Certification ID": "3596", 
+            "Certifying Organization": "The International Association for Identification"
+        }, 
+        {
+            "Acronym": "TPF", 
+            "Certification Name": "Ten Print Fingerprint Certification", 
+            "Type": "Core", 
+            "Certification ID": "3600", 
+            "Certifying Organization": "The International Association for Identification"
+        }, 
+        {
+            "Acronym": "CFCC", 
+            "Certification Name": "Certified Forensic Claims Consultant", 
+            "Type": "Advanced", 
+            "Certification ID": "5725", 
+            "Certifying Organization": "AACE International, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Forensic Photographer Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "7734", 
+            "Certifying Organization": "International Association for Identification"
+        }
+    ], 
+    "onet": "19409200"
+}

@@ -1,0 +1,82 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Occupational Therapy Assistant: Low Vision", 
+            "Type": "Specialty", 
+            "Certification ID": "6461", 
+            "Certifying Organization": "American Occupational Therapy Association, Inc."
+        }, 
+        {
+            "Acronym": "OTC", 
+            "Certification Name": "Orthopaedic Technologist  Certified", 
+            "Type": "Specialty", 
+            "Certification ID": "3649", 
+            "Certifying Organization": "National Board for Certification of Orthopaedic Technololgists"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Occupational Therapy Assistant: Feeding, Eating, and Swallowing", 
+            "Type": "Specialty", 
+            "Certification ID": "6460", 
+            "Certifying Organization": "American Occupational Therapy Association, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Functional Training Specialty Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "9108", 
+            "Certifying Organization": "American Council on Exercise"
+        }, 
+        {
+            "Acronym": "ATP", 
+            "Certification Name": "Assistive Technology Professional", 
+            "Type": "Specialty", 
+            "Certification ID": "6848", 
+            "Certifying Organization": "Rehabilitation Engineering and Assistive Technology Society of North America"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Occupational Therapy Assistant: Driving and Community Mobility", 
+            "Type": "Specialty", 
+            "Certification ID": "6458", 
+            "Certifying Organization": "American Occupational Therapy Association, Inc."
+        }, 
+        {
+            "Acronym": "COTA", 
+            "Certification Name": "Certified Occupational Therapy Assistant", 
+            "Type": "Core", 
+            "Certification ID": "0318", 
+            "Certifying Organization": "National Board for Certification in Occupational Therapy, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Occupational Therapy Assistant: Environmental Modification", 
+            "Type": "Specialty", 
+            "Certification ID": "6459", 
+            "Certifying Organization": "American Occupational Therapy Association, Inc."
+        }, 
+        {
+            "Acronym": "COMT", 
+            "Certification Name": "Certification in Orthopedic Manual Therapy", 
+            "Type": "Advanced", 
+            "Certification ID": "9529", 
+            "Certifying Organization": "International Academy of Orthopedic Medicine - US"
+        }, 
+        {
+            "Acronym": "OTR", 
+            "Certification Name": "Occupational Therapist Registered", 
+            "Type": "Core", 
+            "Certification ID": "0319", 
+            "Certifying Organization": "National Board for Certification in Occupational Therapy, Inc."
+        }, 
+        {
+            "Acronym": "SMS", 
+            "Certification Name": "Seating and Mobility Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "6849", 
+            "Certifying Organization": "Rehabilitation Engineering and Assistive Technology Society of North America"
+        }
+    ], 
+    "onet": "31201100"
+}

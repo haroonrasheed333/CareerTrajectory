@@ -1,0 +1,96 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CHL", 
+            "Certification Name": "Certification in Healthcare Leadership", 
+            "Type": "Specialty", 
+            "Certification ID": "1447", 
+            "Certifying Organization": "International Association of Healthcare Central Service Materiel Management"
+        }, 
+        {
+            "Acronym": "CFER", 
+            "Certification Name": "Certified Flexible Endoscope Reprocessor", 
+            "Type": "Core", 
+            "Certification ID": "3641", 
+            "Certifying Organization": "Certification Board for Sterile Processing and Distribution "
+        }, 
+        {
+            "Acronym": "TS-C", 
+            "Certification Name": "Tech in Surgery - Certified", 
+            "Type": "Core", 
+            "Certification ID": "6296", 
+            "Certifying Organization": "National Center for Competency Testing"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Instrument Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "9014", 
+            "Certifying Organization": "International Association for Healthcare Central Service Material Management"
+        }, 
+        {
+            "Acronym": "CSPDM", 
+            "Certification Name": "Certified Sterile Processing and Distribution Manager", 
+            "Type": "Specialty", 
+            "Certification ID": "1442", 
+            "Certifying Organization": "Certification Board for Sterile Processing and Distribution "
+        }, 
+        {
+            "Acronym": "CIS", 
+            "Certification Name": "Certified Instrumentation Specialist", 
+            "Type": "Core", 
+            "Certification ID": "1444", 
+            "Certifying Organization": "International Association of Healthcare Central Service Materiel Management"
+        }, 
+        {
+            "Acronym": "CSIP", 
+            "Certification Name": "Certified Surgical Instrument Processor", 
+            "Type": "Core", 
+            "Certification ID": "4222", 
+            "Certifying Organization": "Certification Board for Sterile Processing and Distribution "
+        }, 
+        {
+            "Acronym": "BMD", 
+            "Certification Name": "Biomedical Electronics Technician", 
+            "Type": "Specialty", 
+            "Certification ID": "0466", 
+            "Certifying Organization": "ETA International"
+        }, 
+        {
+            "Acronym": "CSPDT", 
+            "Certification Name": "Certified Sterile Processing and Distribution Technician", 
+            "Type": "Core", 
+            "Certification ID": "1440", 
+            "Certifying Organization": "Certification Board for Sterile Processing and Distribution "
+        }, 
+        {
+            "Acronym": "CAST", 
+            "Certification Name": "Certified Ambulatory Surgery Technician", 
+            "Type": "Core", 
+            "Certification ID": "5991", 
+            "Certifying Organization": "Certification Board for Sterile Processing and Distribution "
+        }, 
+        {
+            "Acronym": "CSPDS", 
+            "Certification Name": "Certified Sterile Processing and Distribution Supervisor", 
+            "Type": "Core", 
+            "Certification ID": "1441", 
+            "Certifying Organization": "Certification Board for Sterile Processing and Distribution "
+        }, 
+        {
+            "Acronym": "CRSCT", 
+            "Certification Name": "Certified Registered Central Service Technician", 
+            "Type": "Specialty", 
+            "Certification ID": "1446", 
+            "Certifying Organization": "International Association of Healthcare Central Service Materiel Management"
+        }, 
+        {
+            "Acronym": "CLRT", 
+            "Certification Name": "Certified Laser Repair Technician", 
+            "Type": "Specialty", 
+            "Certification ID": "5758", 
+            "Certifying Organization": "National Council on Laser Excellence"
+        }
+    ], 
+    "onet": "31909300"
+}

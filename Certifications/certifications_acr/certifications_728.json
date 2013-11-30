@@ -1,0 +1,19 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CW21", 
+            "Certification Name": "Certified Watchmaker of the 21st Century", 
+            "Type": "Core", 
+            "Certification ID": "9039", 
+            "Certifying Organization": "American Watchmakers-Clockmakers Institute"
+        }, 
+        {
+            "Acronym": "CMW21", 
+            "Certification Name": "Certified Master Watchmaker of the 21st Century", 
+            "Type": "Advanced", 
+            "Certification ID": "9040", 
+            "Certifying Organization": "American Watchmakers-Clockmakers Institute"
+        }
+    ], 
+    "onet": "49906400"
+}

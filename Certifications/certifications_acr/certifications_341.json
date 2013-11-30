@@ -1,0 +1,26 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Member, Academy of Health Information Professionals", 
+            "Type": "Advanced", 
+            "Certification ID": "2415", 
+            "Certifying Organization": "Medical Library Association"
+        }, 
+        {
+            "Acronym": "CHIS", 
+            "Certification Name": "Consumer Health Information Specialization", 
+            "Type": "Core", 
+            "Certification ID": "2416", 
+            "Certifying Organization": "Medical Library Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Apple Certified Trainer", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "1381", 
+            "Certifying Organization": "Apple Computer, Inc."
+        }
+    ], 
+    "onet": "25402100"
+}

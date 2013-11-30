@@ -1,0 +1,131 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CIFI", 
+            "Certification Name": "Certified Insurance Fraud Investigator", 
+            "Type": "Advanced", 
+            "Certification ID": "7668", 
+            "Certifying Organization": "International Association of Special Investigation Units"
+        }, 
+        {
+            "Acronym": "AIDM", 
+            "Certification Name": "Associate Insurance Data Manager", 
+            "Type": "Specialty", 
+            "Certification ID": "1543", 
+            "Certifying Organization": "Insurance Data Management Association"
+        }, 
+        {
+            "Acronym": "AES", 
+            "Certification Name": "Automated Examination Specialists", 
+            "Type": "Specialty", 
+            "Certification ID": "6262", 
+            "Certifying Organization": "Society of Financial Examiners"
+        }, 
+        {
+            "Acronym": "ANFI", 
+            "Certification Name": "Associate in National Flood Insurance", 
+            "Type": "Core", 
+            "Certification ID": "8549", 
+            "Certifying Organization": "The Institutes"
+        }, 
+        {
+            "Acronym": "SPPA", 
+            "Certification Name": "Senior Professional Public Adjuster", 
+            "Type": "Advanced", 
+            "Certification ID": "9084", 
+            "Certifying Organization": "The Institutes"
+        }, 
+        {
+            "Acronym": "AFE", 
+            "Certification Name": "Accredited Financial Examiner", 
+            "Type": "Core", 
+            "Certification ID": "6261", 
+            "Certifying Organization": "Society of Financial Examiners"
+        }, 
+        {
+            "Acronym": "CIE", 
+            "Certification Name": "Certified Insurance Examiner", 
+            "Type": "Advanced", 
+            "Certification ID": "2257", 
+            "Certifying Organization": "Insurance Regulatory Examiners Society"
+        }, 
+        {
+            "Acronym": "ACTAR,", 
+            "Certification Name": "Accredited Accident Reconstructionist", 
+            "Type": "Advanced", 
+            "Certification ID": "3592", 
+            "Certifying Organization": "The Accreditation Commission for Traffic Accident Reconstruction "
+        }, 
+        {
+            "Acronym": "SAMS,", 
+            "Certification Name": "Accredited Marine Surveyor", 
+            "Type": "Specialty", 
+            "Certification ID": "3588", 
+            "Certifying Organization": "Society of Accredited Marine Surveyors"
+        }, 
+        {
+            "Acronym": "ARC", 
+            "Certification Name": "Associate in Regulation and Compliance", 
+            "Type": "Core", 
+            "Certification ID": "3110", 
+            "Certifying Organization": "The Institutes"
+        }, 
+        {
+            "Acronym": "CFE", 
+            "Certification Name": "Certified Fraud Examiner", 
+            "Type": "Core", 
+            "Certification ID": "1245", 
+            "Certifying Organization": "Association of Certified Fraud Examiners"
+        }, 
+        {
+            "Acronym": "ALHC", 
+            "Certification Name": "Associate, Life and Health Claims", 
+            "Type": "Core", 
+            "Certification ID": "1105", 
+            "Certifying Organization": "International Claim Association"
+        }, 
+        {
+            "Acronym": "CFE", 
+            "Certification Name": "Certified Financial Examiner", 
+            "Type": "Advanced", 
+            "Certification ID": "6260", 
+            "Certifying Organization": "Society of Financial Examiners"
+        }, 
+        {
+            "Acronym": "CIDA", 
+            "Certification Name": "Certified Insurance Data Manager", 
+            "Type": "Specialty", 
+            "Certification ID": "1542", 
+            "Certifying Organization": "Insurance Data Management Association"
+        }, 
+        {
+            "Acronym": "FLHC", 
+            "Certification Name": "Fellow, Life and Health Claims", 
+            "Type": "Advanced", 
+            "Certification ID": "1106", 
+            "Certifying Organization": "International Claim Association"
+        }, 
+        {
+            "Acronym": "AIE", 
+            "Certification Name": "Accredited Insurance Examiner", 
+            "Type": "Core", 
+            "Certification ID": "2256", 
+            "Certifying Organization": "Insurance Regulatory Examiners Society"
+        }, 
+        {
+            "Acronym": "AIC", 
+            "Certification Name": "Associate in Claims", 
+            "Type": "Core", 
+            "Certification ID": "0470", 
+            "Certifying Organization": "The Institutes"
+        }, 
+        {
+            "Acronym": "CFI", 
+            "Certification Name": "Certified Forensic Interviewer", 
+            "Type": "Core", 
+            "Certification ID": "5337", 
+            "Certifying Organization": "Certified Forensic Interviewer"
+        }
+    ], 
+    "onet": "13103102"
+}

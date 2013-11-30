@@ -1,0 +1,144 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734595' xml:space='preserve'><contact><name><givenname>DeSeana</givenname> <surname>Mathis</surname></name>
+<address lat='28.0106' lon='82.5875' majorcity='TAMPA' state='FL'><street>6161 Memorial Hwy apt 1414</street>, <city>Tampa</city>, <state abbrev='FL'>FL</state>  <postalcode>33615</postalcode></address>
+<phone>(813) 770-7708</phone>
+<email>seana427@yahoo.com</email></contact>
+<skills>Skills Summary
+
+<skills>ICD-9, CPT, HCPCS
+Customer Service
+Training Skills
+Cash handling
+Microsoft Word, PowerPoint
+Organizational Skills
+Medical Billing Software (Medcin, Medisoft)
+Medical Terminology
+HIPAA
+10 Key</skills></skills>
+
+
+<education>Education
+<school id='5'><institution>Sanford-Brown Institute</institution>				<address><city>Tampa</city> <state abbrev='FL'>FL</state></address>					 <daterange><start days='733775' iso8601='2010-01-01'>2010</start> - <end days='734140' iso8601='2011-01-01'>2011</end></daterange>
+<courses>Medical Billing and Coding Specialist</courses></school>
+
+<school id='6'><institution>University of Phoenix</institution>				<address><city>Tampa</city>, <state abbrev='FL'>FL</state></address>					 <daterange><start days='732314' iso8601='2006-01-01'>2006</start> - <end days='733775' iso8601='2010-01-01'>2010</end></daterange>
+<degree level='16'>Bachelor's Degree</degree> in <major code='4201'>Health Care Administration</major></school></education>
+
+<experience end='present' start='729908'>Employment History
+
+<job id='1' start='734383'><employer>Meditech Medical Centers</employer>			<address><city>Brandon</city>, <state abbrev='FL'>FL</state></address>					<daterange><start days='734383' iso8601='2011-09-01'>09/2011</start></daterange>
+Medical Billing/Coding (Externship)
+<description>Register patient information into billing system (Athena Net)
+Scan/Fax records into system using barcode method</description></job>
+
+<job end='present' id='2' naics='62211002' naics2='62' pos='1' sic='806202' sic2='80' start='732100'><employer>St. Joseph's Hospital</employer>				<address><city>Tampa</city>, <state abbrev='FL'>FL</state></address>					<daterange><start days='732100' iso8601='2005-06-01'>06/2005</start> - <end days='present' iso8601='2012-03-31'>Present</end></daterange>
+<title>Food Service Representative</title>
+Patient/ Customer  Service
+<description>Accommodate patient needs and satisfaction.
+Suggest alternative food selections.
+Assist in diet office, take calls, assists with diet menu selections.
+Provide teamwork with employees and employers to achieve daily goals.
+Implement training to new members.
+Address patient/customer issues and needs.
+Participant of Team Member as a Customer (TMAC) Committee 
+(Quality Improvement).</description></job>
+
+<job end='732069' id='3' pos='2' sic='541105' sic2='54' start='730639'><employer>Publix Supermarket</employer>				<address><city>Tampa</city>, <state abbrev='FL'>FL</state></address>					<daterange><start days='730639' iso8601='2001-06-01'>06/2001</start> to <end days='732069' iso8601='2005-05-01'>05/2005</end></daterange>
+<title>Cashier</title>
+<description>Customer Service
+Maintain a balanced cash register.
+Provide satisfactory service to customers.
+Implement training for new recruits.
+Address customer needs and issues</description></job>
+
+<job end='730639' id='4' pos='3' sic='591205' sic2='59' start='729908'><employer>Winn-Dixie Marketplace</employer>			<address><city>Tampa</city>, <state abbrev='FL'>FL</state></address>					<daterange><start days='729908' iso8601='1999-06-01'>06/1999</start> - <end days='730639' iso8601='2001-06-01'>06/2001</end></daterange>
+<title>Office Cashier/Customer Service Assistant</title>
+<description>Maintained office cash balance
+Provide flexibility to perform various positions.
+Provide service and customer satisfaction.
+Answered phones
+Trained new employees
+Customer Service</description></job></experience>  
+
+
+
+
+
+
+
+
+
+</resume>
+
+<skillrollup version='1'>
+  <canonskill name='10 key'>
+    <variant>10 Key</variant>
+  </canonskill>
+  <canonskill end='730639' experience='1' expidrefs='4' idrefs='4' lastused='2001' name='balance' start='729908'>
+    <variant>balance</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='1' idrefs='1' name='billing systems' start='734383'>
+    <variant>billing system</variant>
+  </canonskill>
+  <canonskill name='cash handling'>
+    <variant>Cash handling</variant>
+  </canonskill>
+  <canonskill end='732069' experience='1' expidrefs='3' idrefs='3' lastused='2005' name='cashier' start='730639'>
+    <variant>cash register</variant>
+  </canonskill>
+  <canonskill name='cpt'>
+    <variant>CPT</variant>
+  </canonskill>
+  <canonskill end='730639' experience='1' expidrefs='4' idrefs='4' lastused='2001' name='customer satisfaction' start='729908'>
+    <variant>customer satisfaction</variant>
+  </canonskill>
+  <canonskill end='732069' experience='1' expidrefs='3,4' idrefs='3,4' lastused='2005' name='customer service' start='729908'>
+    <variant>Customer Service</variant>
+  </canonskill>
+  <canonskill name='customer service training'>
+    <variant>Customer Service
+Training</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='1' idrefs='1' name='fax' start='734383'>
+    <variant>Fax</variant>
+  </canonskill>
+  <canonskill name='icd - 9'>
+    <variant>ICD-9</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='5' idrefs='5' name='medical billing'>
+    <variant>Medical Billing</variant>
+  </canonskill>
+  <canonskill name='medical terminology'>
+    <variant>Medical Terminology</variant>
+  </canonskill>
+  <canonskill name='medisoft'>
+    <variant>Medisoft</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2,4' idrefs='2,4' lastused='2012' name='microsoft office' start='729908'>
+    <variant>office</variant>
+  </canonskill>
+  <canonskill name='microsoft powerpoint'>
+    <variant>PowerPoint</variant>
+  </canonskill>
+  <canonskill name='microsoft word'>
+    <variant>Microsoft Word</variant>
+  </canonskill>
+  <canonskill name='organizational skills'>
+    <variant>Organizational Skills</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='5' idrefs='5' name='programming'>
+    <variant>Coding</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='quality control' start='732100'>
+    <variant>Quality Improvement</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='teamwork' start='732100'>
+    <variant>teamwork</variant>
+  </canonskill>
+  <canonskill end='730639' experience='1' expidrefs='4' idrefs='4' lastused='2001' name='telephone skills' start='729908'>
+    <variant>phones</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

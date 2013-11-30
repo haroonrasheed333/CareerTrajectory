@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734593' xml:space='preserve'>                                           <contact><address lat='40.9384' lon='74.6703' majorcity='HOPATCONG' state='NJ'><street>13 Delaware Avenue</street>             
+<city>Hopatcong</city>, <state abbrev='NJ'>NJ</state> <postalcode>07843</postalcode></address>            
+<email>samanthacorujo@live.com</email>
+<name><givenname>Samantha</givenname> <surname>Corujo</surname></name>
+Phone <phone>973-398-2437</phone>
+Cellular <phone type='cell'>973-886-0452</phone></contact>
+
+<summary>Objective           <objective>To obtain a position that allows me to use my skills as a medical
+                    administrator to help the office run smoothly. I feel that I would be an asset
+                    to an office with my professional appearance and attitude.</objective>
+
+
+<summary>Administrative          Appointment scheduling, patient reception
+Skills                  Risk management, inventory &amp; supplies
+                        Foundational understanding of Insurance, CPT &amp; ICD 9 coding
+                        Bookkeeping, accounting, banking
+                        Billing &amp; collections</summary></summary>
+
+<skills>Computer Skills         Medical practice management software, Medisoft Advanced Version 16
+                        <skills>Microsoft Office 2010, Word, Excel, PowerPoint, Access, QuickBooks 2008
+
+Management Skills       Outstanding communication, organizational, and office etiquette skills
+                        Ability to achieve immediate and long-term goals and meet deadlines
+
+Communication           Maintain a strong working knowledge of medical terminology
+Skills                  Skilled in verbal and nonverbal communication
+                        Knowledgeable in cultural diversity
+                        Successful in communicating with difficult / noncompliant patients
+
+Leadership Skills       Strive to provide a positive and evolving role model in my profession
+                        Able to motivate and inspire others
+                        Problem-solving aptitude</skills></skills>
+
+<experience end='present' start='725739'>Experience          <job end='present' id='1' pos='1' sic='553114' sic2='55' start='733257'><daterange><start days='733257' iso8601='2008-08-01'>August 2008</start>-<end days='present' iso8601='2012-03-29'>Present</end></daterange>                <employer>Exoticustom, Inc</employer>.          <address><city>Hackettstown</city>, <state abbrev='NJ'>NJ</state></address>
+                    <title>Administrator</title>
+
+                        <description>Accounts Payable and Receivable
+                        Clerical, Mailings, Ordering, Customer Service, and Data Entry
+                        Maintaining the Showroom and Business Website</description></job>
+
+                    <job end='733775' id='2' naics='45211101' naics2='45' pos='2' sic='531102' sic2='53' start='733714'><daterange><start days='733714' iso8601='2009-11-01'>November 2009</start>-<end days='733775' iso8601='2010-01-01'>January 2010</end></daterange>        <employer>Target</employer>                         <address><city>Rockaway</city>, <state abbrev='NJ'>NJ</state></address>
+                    <title>Cashier
+
+                        Cashier</title>
+                        <description>Customer Relations
+                        Maintaining a Neat and Organized Store</description></job>
+
+                    <job end='728692' id='3' pos='3' start='728477'><daterange><start days='728477' iso8601='1995-07-01'>July 1995</start>-<end days='728692' iso8601='1996-02-01'>February 1996</end></daterange>           <employer>N.I.C.C.D.A</employer>.                 <address><city>Lincoln Park</city>, <state abbrev='NJ'>NJ</state></address>
+                    <title>Administrative Assistant</title>
+
+                        <description>Clerical Duties
+                        Girl Friday</description></job>
+                        <job end='728386' id='4' pos='4' sic='599502' sic2='59' start='727625'><title>Billing</title>
+                 <daterange><start days='727625' iso8601='1993-03-01'>March 1993</start>-<end days='728386' iso8601='1995-04-01'>April 1995</end></daterange>          <employer>Pearle Vision</employer>                  <address><city>Wayne</city>, <state abbrev='NJ'>NJ</state></address>
+                  Sales
+                  <description>Clerical Duties</description></job>
+                  <job end='727200' id='5' pos='5' sic='821103' sic2='82' start='725739'><title>Cashier</title>
+
+
+
+
+                 <daterange><start days='725739' iso8601='1988-01-01'>1988</start>-<end days='727200' iso8601='1992-01-01'>1992</end></daterange>   <employer>Indian Hills High School</employer>                         <address><city>Oakland</city>, <state abbrev='NJ'>NJ</state></address>
+                  <description>General Academic curriculum</description></job></experience>
+
+
+
+
+<professional><courses>Professional        Health Provider CPR/AED certification
+Affiliations &amp;      Health Provider First Aid certification
+                    Certified Medical Administrative Assistant (CMAA) through NHA (National
+Certifications
+                    Health career Association) Certificate#C6R4E5M3</courses></professional>
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='727200' experience='1' expidrefs='5' idrefs='5' lastused='1992' name='academic' start='725739'>
+    <variant>Academic</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='accounts payable' start='733257'>
+    <variant>Accounts Payable</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,3,4' idrefs='1,3,4' lastused='2012' name='clerical' start='727625'>
+    <variant>Clerical</variant>
+  </canonskill>
+  <canonskill end='733775' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='customer relations' start='733714'>
+    <variant>Customer Relations</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='customer service' start='733257'>
+    <variant>Customer Service</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='data entry' start='733257'>
+    <variant>Data Entry</variant>
+  </canonskill>
+  <canonskill name='leadership'>
+    <variant>Leadership Skills</variant>
+  </canonskill>
+  <canonskill name='management'>
+    <variant>Management Skills</variant>
+  </canonskill>
+  <canonskill name='medical terminology'>
+    <variant>medical terminology</variant>
+  </canonskill>
+  <canonskill name='medisoft'>
+    <variant>Medisoft</variant>
+  </canonskill>
+  <canonskill name='microsoft access'>
+    <variant>Access</variant>
+  </canonskill>
+  <canonskill name='microsoft excel'>
+    <variant>Excel</variant>
+  </canonskill>
+  <canonskill name='microsoft office'>
+    <variant>Microsoft Office</variant>
+    <variant>office</variant>
+  </canonskill>
+  <canonskill name='microsoft powerpoint'>
+    <variant>PowerPoint</variant>
+  </canonskill>
+  <canonskill name='microsoft word'>
+    <variant>Word</variant>
+  </canonskill>
+  <canonskill end='733775' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='neat' start='733714'>
+    <variant>Neat</variant>
+  </canonskill>
+  <canonskill name='organizational skills'>
+    <variant>organizational</variant>
+  </canonskill>
+  <canonskill name='problem solving'>
+    <variant>Problem-solving</variant>
+  </canonskill>
+  <canonskill name='quickbooks'>
+    <variant>QuickBooks</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='web site production' start='733257'>
+    <variant>Website</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

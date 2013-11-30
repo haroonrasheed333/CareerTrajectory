@@ -1,0 +1,157 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734595' xml:space='preserve'>                                       <contact><name><givenname>CHERYL</givenname> <surname>COLEY</surname></name>
+        <address lat='33.8691' lon='84.7686' majorcity='HIRAM' state='GA'><street>3295 Birch Haven Trace</street>, <city>Hiram</city>, <state abbrev='GA'>GA</state> <postalcode>30141</postalcode></address> <phone>(404) 216-8446</phone>          <email>cherylcoley65@gmail.com</email></contact>
+
+                                <summary><summary>Qualified Senior Account Manager
+
+Results-driven professional with extensive experience impacting organizational presence, profitability,
+and performance through execution of high impact service. Dedicated to delivering quality service and
+building long-lasting client relationships. Accomplished track record in leading and motivating diverse
+teams to achieve results. Drive the flawless execution of projects across all areas of the client
+partnership. Deliver exceptional results through business development, strategic market positioning
+and organizational planning. Successful in and motivated by working in fast-paced environments with
+high levels of change and innovation.</summary></summary>
+
+                                            <skills>Skill Summary
+    ·    <description>Strong Project Management Skills                    ·   Process Improvements
+    ·    Project Implementation                              ·   Creative Knowledge
+    ·    Skilled in Promotional Events                       ·   Critical Thinker and Problem Solver
+    ·    Strategic Planning                                  ·   Skilled in Microsoft Office
+    ·    Ability to Multi-task                               ·   Fundamental Knowledge of Print
+    ·    Detailed and Organized                                  Production</description></skills>
+
+
+                                       <experience end='present' start='729392'>Professional Experience
+
+<job end='present' id='1' pos='1' sic='874201' sic2='87' start='732314'><title>Senior Account Director</title> (Home Depot)|<employer>Integrated Merchandising Systems</employer>, <address><city>Atlanta</city>, <state abbrev='GA'>GA</state></address> <daterange><start days='732314' iso8601='2006-01-01'>2006</start>-<end days='present' iso8601='2012-03-31'>present</end></daterange>
+ <description>Manage the execution of in-store signage and collateral materials of all weekly sales promotions for 2050+
+The Home Depot U.S. stores (including Puerto Rico, Virgin Islands, &amp; Guam) from the initial creative
+concepts, sign kit components to in-store execution. Partner with internal and external stakeholders to
+drive the overall management of program logistics for promotional signage materials.
+
+
+         Supervise performance of direct reports to maximize profitability and client satisfaction
+         Work with business partners including merchants, credit and legal departments
+         Manage 6-10 projects concurrently from conception to production of weekly dated promotional
+         signage.
+          Oversee special projects, events and Quarterly Merchandise Planner Signage (200+ signs
+         quarterly)
+         Manage larger scale promotional events such as Holiday Gift Center, Spring, Summer, Black
+         Friday, and other specialty department events throughout the year from conception to production
+         Provide precise, consistent communication with client, operations, designers, printers, logistics,
+         finance and other agencies.
+         Perform Press Check on production files
+         Conduct weekly internal status meeting to monitor progression of projects.
+         Coordinate quality control with logistics on special projects or complex kit packing
+         Focus to keep projects within budget and provide client with cost saving alternatives</description></job>
+<job end='732314' id='2' pos='2' sic='399398' sic2='39' start='730122'><title>Project Manager</title> (Rite Aid)|<employer>Miller Zell Inc</employer>., <address><city>Atlanta</city>, <state abbrev='GA'>GA</state></address>, <daterange><start days='730122' iso8601='2000-01-01'>2000</start>-<end days='732314' iso8601='2006-01-01'>2006</end></daterange>
+<description>Managed graphic projects and quarterly promotions for conception to production for 3,600+ Rite Aid
+stores
+ 
+       Managed and produced multiple graphic projects
+       Developed, maintained and executed timelines.
+       Established and managed budgets.
+       Responsible for producing and coordinating seasonal programs 6 times per year.
+       Identified and resolve issues.
+       Frequent interaction with all levels of management, engineering, creative design, accounting and
+       logistic staff.
+       Created and maintained reports</description></job>
+
+<job end='730122' id='3' pos='3' sic='581208' sic2='58' start='729392'><title>Assistant Account Executive</title> (<employer>Hardee's</employer>)|<employer>Cadmus Point of Purchase</employer>| <address><city>Atlanta</city> <state abbrev='GA'>GA</state></address> <daterange><start days='729392' iso8601='1998-01-01'>1998</start>-<end days='730122' iso8601='2000-01-01'>2000</end></daterange>
+<description>Maintained the backend of the account and assisted Franchisee with special order material
+
+       Handled all special request menu board items for franchise stores with outside print vendors.
+       Prepared production pricing estimate requests for corporate and franchise stores.
+       Supported account manager in preparing jobs for production, provided problem resolution for
+       customer service team, processed credit requests, monitored re-ordered and managed inventory.
+       Created and oversaw coordination of shipping on all new material to stores with logistics.
+       Heavy interaction and follow-up with account manager, sales representatives, customer service,
+       logistics and accounting department.</description></job></experience>
+
+
+                                               <education>Education
+
+<school id='4'><institution>Accounting, Chattahoochee Technical Institute</institution>, <address><city>Marietta</city>, <state abbrev='GA'>GA</state></address> - <completiondate days='727200' iso8601='1992-01-01'>1992</completiondate>
+<major code='4504'>Information Processing</major>, <institution>Brannell Institute</institution>, <address><city>Atlanta</city>, <state abbrev='GA'>GA</state></address> - <completiondate days='726470' iso8601='1990-01-01'>1990</completiondate></school>
+<school id='5'><institution>American College for the Applied Arts</institution>, <address><city>Atlanta</city>, <state abbrev='GA'>GA</state></address> - <completiondate days='725374' iso8601='1987-01-01'>1987</completiondate></school></education>
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='732314' experience='1' expidrefs='2,3' idrefs='2,3' lastused='2006' name='accountancy' start='729392'>
+    <variant>accounting</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='budgeting' start='730122'>
+    <variant>budgets</variant>
+    <variant>budget</variant>
+  </canonskill>
+  <canonskill end='732314' experience='1' expidrefs='2' idrefs='2' lastused='2006' name='creative design' start='730122'>
+    <variant>creative design</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,3' idrefs='1,3' lastused='2012' name='credit' start='729392'>
+    <variant>credit</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='customer relations' start='732314'>
+    <variant>client</variant>
+  </canonskill>
+  <canonskill end='730122' experience='1' expidrefs='3' idrefs='3' lastused='2000' name='customer service' start='729392'>
+    <variant>customer service</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='finance' start='732314'>
+    <variant>finance</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='focus' start='732314'>
+    <variant>Focus</variant>
+  </canonskill>
+  <canonskill end='732314' experience='1' expidrefs='2' idrefs='2' lastused='2006' name='graphics software' start='730122'>
+    <variant>graphic</variant>
+  </canonskill>
+  <canonskill end='730122' experience='1' expidrefs='3' idrefs='3' lastused='2000' name='inventory management' start='729392'>
+    <variant>inventory</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='legal' start='732314'>
+    <variant>legal</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,3' idrefs='1,3' lastused='2012' name='logistics' start='729392'>
+    <variant>logistics</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='materials management' start='732314'>
+    <variant>materials</variant>
+  </canonskill>
+  <canonskill name='microsoft office'>
+    <variant>Microsoft Office</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='press releases' start='732314'>
+    <variant>Press</variant>
+  </canonskill>
+  <canonskill end='730122' experience='1' expidrefs='3' idrefs='3' lastused='2000' name='pricing' start='729392'>
+    <variant>pricing</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='printers' start='732314'>
+    <variant>printers</variant>
+  </canonskill>
+  <canonskill end='730122' experience='1' expidrefs='3' idrefs='3' lastused='2000' name='problem solving' start='729392'>
+    <variant>problem resolution</variant>
+    <variant>Problem Solver</variant>
+  </canonskill>
+  <canonskill end='732314' experience='1' expidrefs='2' idrefs='2' lastused='2006' name='production' start='730122'>
+    <variant>producing</variant>
+  </canonskill>
+  <canonskill name='project management'>
+    <variant>Project Management</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='quality control' start='732314'>
+    <variant>quality control</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,3' idrefs='1,3' lastused='2012' name='sales' start='729392'>
+    <variant>sales</variant>
+  </canonskill>
+  <canonskill end='730122' experience='1' expidrefs='3' idrefs='3' lastused='2000' name='shipping' start='729392'>
+    <variant>shipping</variant>
+  </canonskill>
+  <canonskill name='strategic planning'>
+    <variant>Strategic Planning</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

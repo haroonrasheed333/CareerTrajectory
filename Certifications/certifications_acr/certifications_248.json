@@ -1,0 +1,89 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "Diplomate", 
+            "Certification Name": "Certified Vocational Expert (Diplomate)", 
+            "Type": "Advanced", 
+            "Certification ID": "1415", 
+            "Certifying Organization": "American Board of Vocational Experts"
+        }, 
+        {
+            "Acronym": "Fellow", 
+            "Certification Name": "Certified Vocational Expert (Fellow)", 
+            "Type": "Advanced", 
+            "Certification ID": "1414", 
+            "Certifying Organization": "American Board of Vocational Experts"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification in Cognitive Therapy", 
+            "Type": "Core", 
+            "Certification ID": "8670", 
+            "Certifying Organization": "Academy of Cognitive Therapy"
+        }, 
+        {
+            "Acronym": "AEP", 
+            "Certification Name": "Associate Ergonomics Professional", 
+            "Type": "Core", 
+            "Certification ID": "1451", 
+            "Certifying Organization": "Board of Certification in Professional Ergonomics"
+        }, 
+        {
+            "Acronym": "AHFP", 
+            "Certification Name": "Associate Human Factors Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "1452", 
+            "Certifying Organization": "Board of Certification in Professional Ergonomics"
+        }, 
+        {
+            "Acronym": "CEA", 
+            "Certification Name": "Certified Ergonomics Associate", 
+            "Type": "Core", 
+            "Certification ID": "1453", 
+            "Certifying Organization": "Board of Certification in Professional Ergonomics"
+        }, 
+        {
+            "Acronym": "ASPPB,", 
+            "Certification Name": "Examination for Professional Practice in Psychology", 
+            "Type": "Advanced", 
+            "Certification ID": "3648", 
+            "Certifying Organization": "Association of State and Provincial Psychology Boards "
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Board Certified Specialist in Group Psychology", 
+            "Type": "Specialty", 
+            "Certification ID": "2126", 
+            "Certifying Organization": "American Board of Professional Psychology"
+        }, 
+        {
+            "Acronym": "MCP", 
+            "Certification Name": "Management Consultant Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "7927", 
+            "Certifying Organization": "American Academy of Financial Management"
+        }, 
+        {
+            "Acronym": "CEAP", 
+            "Certification Name": "Certified Employee Assistance Professional", 
+            "Type": "Core", 
+            "Certification ID": "1375", 
+            "Certifying Organization": "International Employee Assistance Professionals Association"
+        }, 
+        {
+            "Acronym": "ISPI", 
+            "Certification Name": "Certified Performance Technologist", 
+            "Type": "Advanced", 
+            "Certification ID": "3699", 
+            "Certifying Organization": "International Society of Performance Improvement "
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Board Certified Specialist in Organizational and Business Consulting", 
+            "Type": "Specialty", 
+            "Certification ID": "3526", 
+            "Certifying Organization": "American Board of Professional Psychology"
+        }
+    ], 
+    "onet": "19303200"
+}

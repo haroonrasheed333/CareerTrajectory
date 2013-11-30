@@ -1,0 +1,96 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "HDI", 
+            "Certification Name": "HDI Support Center Director", 
+            "Type": "Advanced", 
+            "Certification ID": "5488", 
+            "Certifying Organization": "HDI"
+        }, 
+        {
+            "Acronym": "CAPM", 
+            "Certification Name": "Certified Associate in Project Management", 
+            "Type": "Core", 
+            "Certification ID": "3674", 
+            "Certifying Organization": "Project Management Institute"
+        }, 
+        {
+            "Acronym": "CSM", 
+            "Certification Name": "Certified Service Manager", 
+            "Type": "Core", 
+            "Certification ID": "3680", 
+            "Certifying Organization": "ETA International"
+        }, 
+        {
+            "Acronym": "CPM", 
+            "Certification Name": "Certified Practice Manager", 
+            "Type": "Core", 
+            "Certification ID": "8464", 
+            "Certifying Organization": "Physician Office Managers Association of America"
+        }, 
+        {
+            "Acronym": "OPMP", 
+            "Certification Name": "Operations and Performance Management Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "5848", 
+            "Certifying Organization": "American Society of Heating, Refrigerating and Air-Conditioning Engineers"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "National Professional Certification in Sales", 
+            "Type": "Core", 
+            "Certification ID": "5264", 
+            "Certifying Organization": "National Retail Federation Foundation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Microsoft Office Specialist: Microsoft Office 2010", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "2715", 
+            "Certifying Organization": "Microsoft Corporation"
+        }, 
+        {
+            "Acronym": "CGTE", 
+            "Certification Name": "Certified Government Travel Executive", 
+            "Type": "Advanced", 
+            "Certification ID": "7999", 
+            "Certifying Organization": "Global Business Travel Association Academy"
+        }, 
+        {
+            "Acronym": "CMOM", 
+            "Certification Name": "Certified Medical Office Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "5439", 
+            "Certifying Organization": "Practice Management Institute"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Public Safety Telecommunicator Level II", 
+            "Type": "Advanced", 
+            "Certification ID": "0392", 
+            "Certifying Organization": "International Municipal Signal Association"
+        }, 
+        {
+            "Acronym": "CPPS", 
+            "Certification Name": "Certified Professional Property Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "1333", 
+            "Certifying Organization": "National Property Management Association, Inc."
+        }, 
+        {
+            "Acronym": "STS", 
+            "Certification Name": "Safety Trained Supervisor", 
+            "Type": "Advanced", 
+            "Certification ID": "5878", 
+            "Certifying Organization": "International Board for Certification of Safety Managers"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Linen Technician", 
+            "Type": "Core", 
+            "Certification ID": "4800", 
+            "Certifying Organization": "National Association of Institutional Linen Management"
+        }
+    ], 
+    "onet": "43101100"
+}

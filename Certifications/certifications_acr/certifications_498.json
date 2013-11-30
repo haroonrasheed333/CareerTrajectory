@@ -1,0 +1,47 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CFII", 
+            "Certification Name": "Certified Fire Investigation Instructor", 
+            "Type": "Advanced", 
+            "Certification ID": "7864", 
+            "Certifying Organization": "National Association of Fire Investigators"
+        }, 
+        {
+            "Acronym": "CVFI", 
+            "Certification Name": "Certified Vehicle Fire Investigator", 
+            "Type": "Specialty", 
+            "Certification ID": "7865", 
+            "Certifying Organization": "National Association of Fire Investigators"
+        }, 
+        {
+            "Acronym": "CFPS", 
+            "Certification Name": "Certified Fire Protection Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "1023", 
+            "Certifying Organization": "National Fire Protection Association"
+        }, 
+        {
+            "Acronym": "CFEI", 
+            "Certification Name": "Certified Fire and Explosion Investigator", 
+            "Type": "Core", 
+            "Certification ID": "5401", 
+            "Certifying Organization": "National Association of Fire Investigators"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Fire Inspector II", 
+            "Type": "Advanced", 
+            "Certification ID": "5177", 
+            "Certifying Organization": "International Code Council"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Fire Inspector I", 
+            "Type": "Core", 
+            "Certification ID": "5176", 
+            "Certifying Organization": "International Code Council"
+        }
+    ], 
+    "onet": "33202102"
+}

@@ -1,0 +1,47 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Massage Therapy Certification", 
+            "Type": "Core", 
+            "Certification ID": "5959", 
+            "Certifying Organization": "American Health Source"
+        }, 
+        {
+            "Acronym": "MES", 
+            "Certification Name": "Medical Exercise Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "1058", 
+            "Certifying Organization": "American Academy of Health, Fitness, & Rehabilitation Professionals"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Board Certification in Therapeutic Massage and Bodywork", 
+            "Type": "Core", 
+            "Certification ID": "0341", 
+            "Certifying Organization": "National Certification Board for Therapeutic Massage and Bodywork"
+        }, 
+        {
+            "Acronym": "Dipl.A.B.T.", 
+            "Certification Name": "Diplomate in Asian Bodywork Therapy", 
+            "Type": "Specialty", 
+            "Certification ID": "0340", 
+            "Certifying Organization": "National Certification Commission for Acupuncture and Oriental Medicine"
+        }, 
+        {
+            "Acronym": "CR", 
+            "Certification Name": "National Reflexology Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "2023", 
+            "Certifying Organization": "American Reflexology Certification Board"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Zero Balancing Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "2064", 
+            "Certifying Organization": "Zero Balancing Association"
+        }
+    ], 
+    "onet": "31901100"
+}

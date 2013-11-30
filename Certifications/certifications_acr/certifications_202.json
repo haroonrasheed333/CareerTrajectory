@@ -1,0 +1,103 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "ETT Certified Level III", 
+            "Type": "Advanced", 
+            "Certification ID": "8148", 
+            "Certifying Organization": "InterNational Electrical Testing Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Senior Corrosion Technologist", 
+            "Type": "Advanced", 
+            "Certification ID": "1149", 
+            "Certifying Organization": "NACE International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Traffic Signal Senior Bench Technician Level III", 
+            "Type": "Advanced", 
+            "Certification ID": "0399", 
+            "Certifying Organization": "International Municipal Signal Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Traffic Signal Technician Level I", 
+            "Type": "Core", 
+            "Certification ID": "0397", 
+            "Certifying Organization": "International Municipal Signal Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Roadway Lighting Technician Level I", 
+            "Type": "Core", 
+            "Certification ID": "0393", 
+            "Certifying Organization": "International Municipal Signal Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Traffic Signal Inspector Level I", 
+            "Type": "Advanced", 
+            "Certification ID": "8759", 
+            "Certifying Organization": "International Municipal Signal Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "ETT Senior Certified Level IV", 
+            "Type": "Advanced", 
+            "Certification ID": "8149", 
+            "Certifying Organization": "InterNational Electrical Testing Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Corrosion Technologist", 
+            "Type": "Advanced", 
+            "Certification ID": "1147", 
+            "Certifying Organization": "NACE International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Engineering Technologist", 
+            "Type": "Core", 
+            "Certification ID": "7846", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Traffic Signal Field Technician Level II", 
+            "Type": "Advanced", 
+            "Certification ID": "8756", 
+            "Certifying Organization": "International Municipal Signal Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Traffic Signal Construction Technician Level II", 
+            "Type": "Advanced", 
+            "Certification ID": "8754", 
+            "Certifying Organization": "International Municipal Signal Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Microprocessors in Traffic Signals Technician", 
+            "Type": "Core", 
+            "Certification ID": "8758", 
+            "Certifying Organization": "International Municipal Signal Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Associate Engineering Technologist", 
+            "Type": "Advanced", 
+            "Certification ID": "7847", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Traffic Signal Design/Engineering Technician Level II", 
+            "Type": "Advanced", 
+            "Certification ID": "8755", 
+            "Certifying Organization": "International Municipal Signal Association"
+        }
+    ], 
+    "onet": "17302902"
+}

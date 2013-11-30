@@ -1,0 +1,117 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "EFD", 
+            "Certification Name": "Emergency Fire Dispatcher Certification", 
+            "Type": "Core", 
+            "Certification ID": "9443", 
+            "Certifying Organization": "International Academies of Emergency Dispatch"
+        }, 
+        {
+            "Acronym": "EMD", 
+            "Certification Name": "Emergency Medical Dispatcher Certification", 
+            "Type": "Core", 
+            "Certification ID": "9442", 
+            "Certifying Organization": "International Academies of Emergency Dispatch"
+        }, 
+        {
+            "Acronym": "RPL", 
+            "Certification Name": "Registered Public-Safety Leader", 
+            "Type": "Core", 
+            "Certification ID": "9467", 
+            "Certifying Organization": "Association of Public-Safety Communications Officials"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Emergency Medical Dispatcher Instructor Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "9453", 
+            "Certifying Organization": "International Academies of Emergency Dispatch"
+        }, 
+        {
+            "Acronym": "ENP", 
+            "Certification Name": "Emergency Number Professional", 
+            "Type": "Core", 
+            "Certification ID": "5580", 
+            "Certifying Organization": "National Emergency Number Association"
+        }, 
+        {
+            "Acronym": "ETC", 
+            "Certification Name": "Emergency Telecommunicator Certification", 
+            "Type": "Core", 
+            "Certification ID": "9445", 
+            "Certifying Organization": "International Academies of Emergency Dispatch"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Emergency Fire Dispatcher Instructor Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "9454", 
+            "Certifying Organization": "International Academies of Emergency Dispatch"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Emergency Police Dispatcher Instructor Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "9455", 
+            "Certifying Organization": "International Academies of Emergency Dispatch"
+        }, 
+        {
+            "Acronym": "EFD", 
+            "Certification Name": "Emergency Fire Dispatch - Q Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "9450", 
+            "Certifying Organization": "International Academies of Emergency Dispatch"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Public Safety Telecommunicator Level I", 
+            "Type": "Core", 
+            "Certification ID": "0391", 
+            "Certifying Organization": "International Municipal Signal Association"
+        }, 
+        {
+            "Acronym": "EPD - Q", 
+            "Certification Name": "Emergency Police Dispatcher - Q Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "9451", 
+            "Certifying Organization": "International Academies of Emergency Dispatch"
+        }, 
+        {
+            "Acronym": "EMD-Q", 
+            "Certification Name": "Emergency Medical Dispatch - Q Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "9449", 
+            "Certifying Organization": "International Academies of Emergency Dispatch"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Public Safety Telecommunicator Level II", 
+            "Type": "Advanced", 
+            "Certification ID": "0392", 
+            "Certifying Organization": "International Municipal Signal Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Executive Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "9446", 
+            "Certifying Organization": "International Academies of Emergency Dispatch"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Emergency Telecommunicator Instructor Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "9456", 
+            "Certifying Organization": "International Academies of Emergency Dispatch"
+        }, 
+        {
+            "Acronym": "EPD", 
+            "Certification Name": "Emergency Police Dispatcher Certification", 
+            "Type": "Core", 
+            "Certification ID": "9444", 
+            "Certifying Organization": "International Academies of Emergency Dispatch"
+        }
+    ], 
+    "onet": "43503100"
+}

@@ -1,0 +1,26 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "GPPA", 
+            "Certification Name": "Graduate Personal Property Appraiser", 
+            "Type": "Advanced", 
+            "Certification ID": "1226", 
+            "Certifying Organization": "National Auctioneers Association"
+        }, 
+        {
+            "Acronym": "CPC", 
+            "Certification Name": "Certified Photographic Consultant", 
+            "Type": "Core", 
+            "Certification ID": "5669", 
+            "Certifying Organization": "Photo Marketing Association International"
+        }, 
+        {
+            "Acronym": "CAI", 
+            "Certification Name": "Certified Auctioneers Institute Auctioneer", 
+            "Type": "Core", 
+            "Certification ID": "1227", 
+            "Certifying Organization": "National Auctioneers Association"
+        }
+    ], 
+    "onet": "41909900"
+}

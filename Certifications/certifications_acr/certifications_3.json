@@ -1,0 +1,110 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "CompTIA Strata IT Fundamentals Certification", 
+            "Type": "Core", 
+            "Certification ID": "7373", 
+            "Certifying Organization": "Computing Technology Industry Association (CompTIA)"
+        }, 
+        {
+            "Acronym": "MIRM", 
+            "Certification Name": "Master in Residential Marketing", 
+            "Type": "Advanced", 
+            "Certification ID": "3797", 
+            "Certifying Organization": "National Association of Home Builders"
+        }, 
+        {
+            "Acronym": "CFMP", 
+            "Certification Name": "Certified Financial Marketing Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "3860", 
+            "Certifying Organization": "Institute of Certified Bankers"
+        }, 
+        {
+            "Acronym": "ACPM", 
+            "Certification Name": "Agile Certified Product Manager", 
+            "Type": "Core", 
+            "Certification ID": "9047", 
+            "Certifying Organization": "Association of International Product Marketing and Management"
+        }, 
+        {
+            "Acronym": "IROP", 
+            "Certification Name": "Independent Rental Owner Professional", 
+            "Type": "Core", 
+            "Certification ID": "8037", 
+            "Certifying Organization": "National Apartment Association"
+        }, 
+        {
+            "Acronym": "CIL", 
+            "Certification Name": "Certified Innovation Leader", 
+            "Type": "Advanced", 
+            "Certification ID": "9046", 
+            "Certifying Organization": "Association of International Product Marketing and Management"
+        }, 
+        {
+            "Acronym": "CSAM", 
+            "Certification Name": "Certified Strategic Account Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "9166", 
+            "Certifying Organization": "Strategic Account Management Association"
+        }, 
+        {
+            "Acronym": "CDME", 
+            "Certification Name": "Certified Destination Marketing Executive", 
+            "Type": "Advanced", 
+            "Certification ID": "8138", 
+            "Certifying Organization": "Destination Marketing Association International"
+        }, 
+        {
+            "Acronym": "PCM", 
+            "Certification Name": "Professional Certified Marketer", 
+            "Type": "Advanced", 
+            "Certification ID": "5587", 
+            "Certifying Organization": "American Marketing Association"
+        }, 
+        {
+            "Acronym": "CFEE", 
+            "Certification Name": "Certified Festival and Event Executive", 
+            "Type": "Advanced", 
+            "Certification ID": "8140", 
+            "Certifying Organization": "International Festivals & Events Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Recycling Systems - Technical Associate", 
+            "Type": "Core", 
+            "Certification ID": "1472", 
+            "Certifying Organization": "Solid Waste Association of North America"
+        }, 
+        {
+            "Acronym": "CMP", 
+            "Certification Name": "Certified New Home Marketing Professional", 
+            "Type": "Core", 
+            "Certification ID": "3796", 
+            "Certifying Organization": "National Association of Home Builders"
+        }, 
+        {
+            "Acronym": "CLARB", 
+            "Certification Name": "Certified Landscape Architect", 
+            "Type": "Advanced", 
+            "Certification ID": "9428", 
+            "Certifying Organization": "Council of Landscape Architectural Registration Boards"
+        }, 
+        {
+            "Acronym": "CMD", 
+            "Certification Name": "Certified Marketing Director", 
+            "Type": "Advanced", 
+            "Certification ID": "9392", 
+            "Certifying Organization": "International Council of Shopping Centers"
+        }, 
+        {
+            "Acronym": "CUCME", 
+            "Certification Name": "Credit Union Certified Marketing Executive", 
+            "Type": "Advanced", 
+            "Certification ID": "9234", 
+            "Certifying Organization": "Credit Union National Association"
+        }
+    ], 
+    "onet": "11201100"
+}

@@ -1,0 +1,26 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Highway Design - Level II", 
+            "Type": "Advanced", 
+            "Certification ID": "7822", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "LEED Green Associate", 
+            "Type": "Core", 
+            "Certification ID": "6025", 
+            "Certifying Organization": "Green Building Certification Institute"
+        }, 
+        {
+            "Acronym": "CPDB", 
+            "Certification Name": "Certified Professional Building Designer", 
+            "Type": "Advanced", 
+            "Certification ID": "0989", 
+            "Certifying Organization": "National Council of Building Design Certification"
+        }
+    ], 
+    "onet": "17301102"
+}

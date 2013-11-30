@@ -1,0 +1,61 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "DACBSP", 
+            "Certification Name": "Diplomate American Chiropractic Board of Sports Physicians", 
+            "Type": "Core", 
+            "Certification ID": "5952", 
+            "Certifying Organization": "American Chiropractic Board of Sports Physicians"
+        }, 
+        {
+            "Acronym": "ACNB,", 
+            "Certification Name": "Diplomate of the American Chiropractic Neurology Board", 
+            "Type": "Specialty", 
+            "Certification ID": "3635", 
+            "Certifying Organization": "American Chiropractic Neurology Board"
+        }, 
+        {
+            "Acronym": "MES", 
+            "Certification Name": "Medical Exercise Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "1058", 
+            "Certifying Organization": "American Academy of Health, Fitness, & Rehabilitation Professionals"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Animal Chiropractic Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "5977", 
+            "Certifying Organization": "American Veterinary Chiropractic Association"
+        }, 
+        {
+            "Acronym": "DACBR", 
+            "Certification Name": "Diplomate of the American Chiropractic Board of Radiology", 
+            "Type": "Specialty", 
+            "Certification ID": "1371", 
+            "Certifying Organization": "American Chiropractic Board of Radiology"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Post Rehab Conditioning Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "5097", 
+            "Certifying Organization": "American Academy of Health, Fitness, & Rehabilitation Professionals"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Orthopedic Exercise Specialty Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "9111", 
+            "Certifying Organization": "American Council on Exercise"
+        }, 
+        {
+            "Acronym": "CCSP", 
+            "Certification Name": "Certified Chiropractic Sports Physician", 
+            "Type": "Core", 
+            "Certification ID": "5951", 
+            "Certifying Organization": "American Chiropractic Board of Sports Physicians"
+        }
+    ], 
+    "onet": "29101100"
+}

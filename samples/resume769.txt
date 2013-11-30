@@ -1,0 +1,168 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734596' xml:space='preserve'><contact><name><givenname>XIAOXI</givenname> <surname>LIU</surname></name>
+<address lat='33.6485' lon='117.821' majorcity='IRVINE' state='CA'><street>6246 Adobe Circle</street>, <city>Irvine</city>, <state abbrev='CA'>CA</state>, <postalcode>92617</postalcode></address>
+Cell: <phone type='cell'>949-335-8209</phone>    <email>xiaoxil@uci.edu</email></contact>
+
+<summary>SUMMARY
+<summary>6 years research experience in materials modeling, materials testing plus instrument design.
+Strong focus on development of mechanical model and mechanical testing for biological materials, metal and polymers.
+Experienced in Scanning/Transmission Electron Microscope, failure analysis, finite element analysis, biomimetic design and materials preparation. 
+Highly proficient in statistical analysis and LabVIEW based instrumentation and modeling.</summary></summary> 
+
+<skills>Computer Skills: <skills>LabVIEW, MSC Marc, Solidworks, AutoCAD, MATLAB, Mathematica, Origin, Microsoft Office.</skills>
+Instrument Skills: <skills>TEM, SEM, ESEM, EDX, XRD, DSC, TGA, MTS test system.</skills></skills> 
+
+<education>EDUCATION
+<school id='4'><institution>University of California</institution>, <address><city>Irvine</city> Ph</address>.D in <major code='1403 1699'>Materials Science and Engineering</major> (<gpa max='4' value='3.9'>3.9</gpa> GPA), expected <completiondate>June, 2012</completiondate></school>. 
+<school id='5'><institution>University of California</institution>, <address><city>Irvine</city></address> <degree level='18' name='Master of Science'>MS</degree> in <major code='1403 1699'>Materials Science and Engineering</major> (<gpa max='4' value='3.7'>3.7</gpa> GPA), <completiondate days='733379' iso8601='2008-12-01'>December, 2008</completiondate></school>. 
+<school id='6'><institution>South China University of Technology</institution> <degree level='16' name='Bachelor of Science'>BS</degree> in <major code='1403 1699'>Materials Science and Engineering</major> (<gpa max='4' value='3.7'>3.7</gpa> GPA), <completiondate days='732830' iso8601='2007-06-01'>June, 2007</completiondate></school>.</education> 
+
+<experience end='present' start='732434'>RESEARCH EXPERIENCE
+<job end='present' id='1' pos='1' sic='822101' sic2='82' start='733288'><department>Department of Chemical Engineering and Materials Science</department> at <employer>University of California</employer>, <address><city>Irvine</city></address>                    
+<daterange><start days='733288' iso8601='2008-09-01'>Sept.2008</start> - <end days='present' iso8601='2012-04-01'>present</end></daterange>
+--<description>Experimental and computational mechanics of biological materials
+Developed predictive mechanical models in LabVIEW environment to investigate the functional characteristic of mineralized tissues in bending, providing a novel architecture for biomimetic design. 
+Validated predictive models by applying microscopy imaging techniques to nondestructively visualize and calculate the internal strain throughout specimen under bending.
+Addressed the core task of micro bending analysis for biological tissue by developing novel testing system using mechanical designing tools (Solidworks).
+Built and maintained a suite of LabVIEW Virtual instruments that control and acquire data from a series of complex biomechanical tests, including quasi-static compression test, stress relaxation test, four-point bending test and low speed impact (percussion) test.
+Evaluated non-linear mechanics of both soft and hard biological tissue by regression modeling experimental data with anisotropic constitutive models. 
+Designed and fabricated biomimetic materials from inspiration of structures of biological materials.
+
+--Development of laser assisted crack detection technology/ Metallurgical testing /Failure analysis
+Assisted Metro Laser, Inc. to create a laser fatigue crack detection technology based on sensing surface roughness from intensity of reflective laser light. 
+Designed and conducted fatigue tests with metals based on fully automated MTS testing system.
+Assisted with installation of portable Laser instruments for generating and collecting optical signal during fatigue tests. 
+Performed fatigue failure analysis using replica techniques and electron microscopes (SEM and TEM).
+Provided feedback to MetroLaser, Inc. for improvement of crack detection efficiency.
+
+--Finite element modeling for stress analysis
+Performed FEA using commercial software (MSC Marc) to predict the mechanical response of human teeth under impact loads.
+Analyzed how microcracks affect stress distribution within human teeth under dynamic loading using FEM. 
+
+--Engineering &amp; Research Leadership
+Trained and advised multiple undergraduate researchers in fields of mechanical testing and modeling.
+ Assisted with the setup and maintenance of research facility including automated MTS test system, Environmental SEM, Rockwell hardness tester, etc.</description></job>
+
+<job end='732830' id='2' pos='3' start='732434'><department>Department of Materials Science and Engineering</department> at <employer>South China University of Technology</employer>                        
+<daterange><start days='732434' iso8601='2006-05-01'>May.2006</start> - <end days='732830' iso8601='2007-06-01'>Jun. 2007</end></daterange>
+--<description>Preparation and characterization of biomaterials and nanoparticles
+Project 1:
+Prepared two-layer integrative hydrogels as bionic articular cartilage replacement materials.
+Determined the biocompatibility of prepared hydrogels as replacement materials by investigating water states using DSC and TGA.</description>
+Project 2:
+<description>Synthesized leucite powder as an addictive to strengthen dental porcelain.  
+Evaluated crystallization mechanism of leucite powder using a combination of techniques, ranging from chemical reaction monitoring to microstructure imaging.</description>
+Project 3:
+<description>Prepared and characterized  nano sized TiO2 particles from industrial titaniferous solutions.</description></job> 
+
+TEACHING EXPERIENCE
+<job end='734291' id='3' pos='2' sic='822101' sic2='82' start='733135'><department>Department of Chemical Engineering and Materials Science</department> at <employer>University of California</employer>, Irvine 
+<daterange><start days='733135' iso8601='2008-04-01'>Apr. 2008</start> - <end days='734291' iso8601='2011-06-01'>Jun. 2011</end></daterange>
+<description>Courses: Design Failure Investigation
+Prepared student research projects, set up experimental apparatus and provided experimental guidelines.
+Led discussion sessions and office hours to facilitate students' learning of complex materials and concepts.
+Developed presentations for groups of students with different majors.</description></job></experience> 
+
+<professional>PUBLICATIONS
+<publications>X. Liu, H. Youssefpour, A. P. Summers, M. N. Dean and J. C. Earthman, 2012. Stress relaxation behavior of tessellated skeleton from the Jaws of Blue Sharks. Submitted to Journal of Biomechanics.
+X. Liu, H. Youssefpour, A. P. Summers, M. N. Dean and J. C. Earthman, 2012. Instrumented percussion analysis of shark tessellated skeleton. In preparation.
+X. Liu, A. P. Summers, M. N. Dean and J. C. Earthman, 2010. Mechanics of a composite structural model of the shark's skeleton in bending: a novel architecture for biomimetic materials. Journal of Materials Science and Engineering C 30. 1077-1084.
+Y.Zhang, C. Qu, J. Wu, Ming. L, P. Rao, X. Liu, 2008. Synthesis of Leucite from Potash Feldspar, Journal of Wuhan University of Technology-Mater. Sci. Ed. 23 (4), 452-455.
+X. Liu, L.Zeng, P. Liu, H. Wang, 2006. Preparation of nanometer titanium dioxide by industrial titaniferous Solution, Foshan Ceramics 11.
+
+PRESENTATIONS
+X. Liu, H. Youssefpour, M. N. Dean , A. P. Summers &amp; J. C. Earthman,2011. Dynamic Mechanical Behavior of Shark Tessellated Skeleton.  The Minerals, Metals &amp; Materials Society Annual Meeting &amp; Exhibition (Symposium: Biological Materials Science; San Diego, CA).
+X. Liu, H. Youssefpour, M. N. Dean, A. P. Summers &amp; J. C. Earthman, 2011. Numerical Study of Shark Tessellated Skeleton in Bending. Chemical Engineering and Materials Science Seminars, UC Irvine.
+J. C. Earthman, B. D. Buckner, K. S. Chan, X. Liu, V. Markov, 2012. Leave-in-Place Laser Scanning for Fatigue Damage Monitoring and Prognosis. The Minerals, Metals &amp; Materials Society Annual Meeting &amp; Exhibition (From Macro to Nano, Understanding Mechanical Behavior across Length Scales: A Structural Materials Division Symposium in Honor of Robert Ritchie).</publications>
+
+AWARDS, HONORS &amp; ASSOCIATIONS
+<honors>Research Scholarship of Department of Chemical Engineering and Materials Science at UC Irvine, 2008 - 2011.
+Fellowship Award of Department of Chemical Engineering and Materials Science at UC Irvine, 2007 - 2008.
+First Class Student Scholarship of South China University of Technology, 2003 - 2005.
+Enterprise Scholarship of South China University of Technology, 2004 - 2005.</honors>
+<affiliations>Member of the American Society for Metals (ASM) and the Minerals, Metals &amp; Materials Society (TMS) .</affiliations></professional>
+
+
+
+
+
+
+
+
+
+</resume>
+
+<skillrollup version='1'>
+  <canonskill name='autocad'>
+    <variant>AutoCAD</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='design' start='733288'>
+    <variant>designing</variant>
+  </canonskill>
+  <canonskill end='732830' experience='1' expidrefs='2' idrefs='2' lastused='2007' name='dsc' start='732434'>
+    <variant>DSC</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='functional' start='733288'>
+    <variant>functional</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='imaging' start='732434'>
+    <variant>imaging</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='inspiration' start='733288'>
+    <variant>inspiration</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='labview' start='733288'>
+    <variant>LabVIEW</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='laser' start='733288'>
+    <variant>Laser</variant>
+    <variant>laser</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='leadership' start='733288'>
+    <variant>Leadership</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,3' idrefs='1,2,3' lastused='2012' name='materials management' start='732434'>
+    <variant>materials</variant>
+  </canonskill>
+  <canonskill name='mathematica'>
+    <variant>Mathematica</variant>
+  </canonskill>
+  <canonskill name='matlab'>
+    <variant>MATLAB</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='mechanical' start='733288'>
+    <variant>mechanical</variant>
+  </canonskill>
+  <canonskill end='734291' experience='1' expidrefs='3' idrefs='3' lastused='2011' name='microsoft office' start='733135'>
+    <variant>Microsoft Office</variant>
+    <variant>office</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='modeling' start='733288'>
+    <variant>modeling</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='msc' start='733288'>
+    <variant>MSC</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='mts' start='733288'>
+    <variant>MTS</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='novell' start='733288'>
+    <variant>novel</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='predict' start='733288'>
+    <variant>predict</variant>
+  </canonskill>
+  <canonskill end='734291' experience='1' expidrefs='3' idrefs='3' lastused='2011' name='presentation skills' start='733135'>
+    <variant>presentations</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,3' idrefs='1,3' lastused='2012' name='research' start='733135'>
+    <variant>Research</variant>
+    <variant>research</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='solidworks' start='733288'>
+    <variant>Solidworks</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

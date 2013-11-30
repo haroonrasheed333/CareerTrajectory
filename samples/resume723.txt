@@ -1,0 +1,369 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734596' xml:space='preserve'>Resume: Neeti Jain
+
+						
+<contact><name><givenname>Neeti</givenname> <surname>Jain</surname></name>
+<address lat='37.3067' lon='122' majorcity='SAN JOSE' state='CA'><street>558 Crimsonberry Way</street>, <city>San Jose</city>, <state abbrev='CA'>CA</state> <postalcode>95129</postalcode></address>
+<email>neetijn@gmail.com</email>  / Phone: <phone>(408) 996-1264</phone></contact>
+<summary>PROFILE
+<summary>16+ years of software development experience (at Cisco, Samsung, EMC, AOL/Netscape, IBM) in enterprise and consumer software. Full product lifecycle experience in design, development, testing and performance tuning. Extremely versatile developer with track record of quickly adapting to new technologies for successful product development. Strong team leadership and project management skills. Experience in agile development methodologies.</summary></summary>
+<skills>TECHNICAL SKILLS
+<skills>General object-oriented design, client server programming, HTTP programming, security, cross-platform programming, multithreaded, event driven network programming.
+Languages: C++, C, Core Java, Python, Twisted Python Framework
+Technologies: XML, SOAP, REST, WSDL, LDAP, Webkit, Mozilla, RDBMS, Kerberos, TCL, Shell Script, IBM DB2, Qt, ATOM, Agile
+Operating Systems: UNIX (Linux, Solaris), Windows 2003 Server, Windows 2000/NT, Maemo
+Packages:  Microsoft Active Directory, MS Visual Studio, Apache Tomcat, Apache Axis2, Purify, VMWare, Eclipse, Perforce, CVS, Mercurial, Subversion, Maven, Git,  JUnit, TestNG</skills></skills>
+<experience end='present' start='728296'>Professional History 
+<job end='present' id='1' pos='1' start='733775'><title>CISCO SYSTEMS                  Consultant Software Engineer</title>                  <daterange><start days='733775' iso8601='2010-01-01'>2010</start> - <end days='present' iso8601='2012-04-01'>Present</end></daterange>
+<employer>DIGITAL MEDIA SYSTEMS BUSINESS UNIT</employer> 
+<description>DIGITAL MEDIA PLAYER (DMP):  	Working on various projects in embedded systems team.
+
+Technologies: C++/C, networking, HTTP, Scripting, REST, Python, Twisted Python Framework, Webkit, Mozilla Firefox, SQLAlchemy, JavaScript,  subversion, libcurl, Qt
+Investigating next generation platforms based on Android, XMPP.
+Led the development of an embedded browser based on Webkit engine for next generation Cisco Digital Media Player. Cisco Digital Media Player is a highly reliable, IP-based digital media player that handles display and playback of web-content across a network of digital signs.
+Designed and developed a REST based video content management system using twisted python's event driven networking engine. Developed client and server for content upload, download, and various management functionalities including browsing, updating, and deleting video content for authenticated users. Also handled content management for multicast video streams. Supported HTTP, TCP, UDP, SSL/TLS, multicast protocols.
+Led the development of an embedded browser based on Firefox 3 distribution of Mozilla engine for next generation MIPS based Cisco Digital Media Player. 
+Enhanced management application software for Cisco Digital Media Players based on power pc, and x86 platforms. Performance tuning, including fixing memory leaks improving device uptime from 3 days to 22 days for a customer.</description></job> 
+<job end='733410' id='2' pos='2' start='733044'><title>SAMSUNG ELECTRONICS     Consultant Software Engineer</title>                 <daterange><start days='733044' iso8601='2008-01-01'>2008</start> - <end days='733410' iso8601='2009-01-01'>2009</end></daterange>
+<employer>WIRELESS TERMINAL LAB</employer> 
+<description>MOBILE BROWSER PROJECT (FENNEC):  	Design, enhance and optimize Mozilla/Firefox open source browser (Fennec) for Samsung mobile devices and applications. 
+
+Technologies: C++, HTML, JavaScript, Linux (Ubuntu), Linux (Maemo), Nokia810, Scratchbox, Mozilla Firefox, Mercurial, VirtualBox.
+Worked with Mozilla to develop and enhance interruptible reflow component achieving 16-23% performance improvement. Developed test framework in Mozilla browser code, performed interruptible reflow verification and reference test failure investigation. Developed design documents explaining internals of Interruptible reflow module and optimizations. 
+Measured and characterized performance of various modules of the browser on Maemo OS based Nokia Internet Tablet N810. Enhanced about:memory framework to view memory used by individual browser components. Contributed to mobile browser project planning.</description></job>
+<job end='733044' id='3' naics='51119911' naics2='51' pos='3' sic='573407' sic2='57' start='731583'><employer>EMC CORP</employer>                <title>Principal Software Engineer</title>                           <daterange><start days='731583' iso8601='2004-01-01'>2004</start> - <end days='733044' iso8601='2008-01-01'>2008</end></daterange></job>
+<job end='731583' id='4' pos='4' start='728661'><employer>INTEROPERABILITY SERVICES GROUP</employer> (RESOURCE MANAGEMENT SOFTWARE DIVISION) 
+
+WEBSERVICES: 	<description>Developed core web service components for interoperability services group.  
+
+Technologies: Java, Apache Tomcat, SOAP, WSDL, Apache Axis2, REST, ATOM, Restlet, ROME, XMLBeans, JSch SCP, TestNG, JUnit and Maven. Agile Development methodology used.
+Discovery Center project
+Developed WS-Transfer and WS-Enumeration DMTF specification for WS-Management to expose legacy applications via web services.
+Developed WS-Enumeration for CMDB data model for both stateless and stateful queries.
+Developed bulk transfer web service client to upload a file using scp and utilizing CMDB Bulk Load API to move the file to the CMDB for processing.
+View Services project
+Developed a MSA (MODEL SUPPLIER ADAPTER) by designing and implementing Restful Web Services (REST) for smarts domain manager. Used ATOM syndication format for resource representation in view services.
+WBEM/CIMOM/ECOM: 
+Designed and developed core components of Web-Based Enterprise Management (WBEM) standard of the Distributed Management Task Force (DMTF) including Service Location Protocol (SLP) and CIM Query Language (CQL) for SMI-S compliance. Ensured that SLP and CQL components passed SNIA-Interoperability Conformance Test Program (SNIA-CTP). 
+Technologies: C++, OpenSLP, CQL, WBEM, SNIA, Maven, Linux, Windows 2003/2000 Server.
+Designed and implemented service location protocol (SLP) service registration capabilities into Common Information Model Object Manager (CIMOM) for SMI-S compliance. As part of the design of the SLP registration provider with a service agent, identified design deficiencies in the ECOM provider framework and recommended corrections that were implemented by the ECOM backend team.
+Led development for CIM Query Language (CQL) support for indications in CIMOM. Collaborated with indications team to design interface between CQL engine and indications. Designed and implemented functionality to match CQL filters and generate indications. Implemented support for simple and complex queries including comparison operators, chain, property-scope, arrays, and alert indications.
+Enhanced ECOM product by refactoring code for core ECOM interfaces. Also, worked on metadata redesign and added ability to load Qualifier Definitions from Managed Object Format (MOF).
+Divisional Award (Resource Management Software Division): Silver divisional award recipient.
+
+COMMON ARCHITECTURE METHODS AND SPECIFICATIONS (CAMS)  	Developed core components for CAMS Common Sign-On (CSO) project.  CSO is a software toolkit made available to EMC product development organizations to accelerate implementation of authentication in EMC products and to assist in compliance with the EMC Product Security Policy. 
+
+Technologies: C++, Linux, Microsoft Active Directory and Windows 2003/2000 Server, LDAP, Kerberos, PAM
+Designed and developed CSO C/C++ SDK. The SDK provides authentication against local and external user repositories such as LDAP-compliant directory servers, including MS Active Directory and PAM. Delivered SDK packages for Windows, Linux and Solaris.
+Led development for Kerberos login authentication module for CSO v2. Implemented CSO with support for MIT Kerberos 5 and Windows Active Directory KDC.</description>
+
+<title>AOL TIME WARNER/NETSCAPE    Senior Software Engineer</title>        <daterange><start days='728661' iso8601='1996-01-01'>1996</start> - <end days='731583' iso8601='2004-01-01'>2004</end></daterange>
+<description>AOL WEB SERVICES AND PUBLISHING - PERSONALIZATION  	Developed various core components of AOL's personalized web services and 9.0 client. 
+Technologies:  Solaris, NPE server, AOL server, PSP (JSP), XML, TCL, JavaScript, HTML, LDAP, and ADP.
+For Extensible Personalization Platform (XPP - Framework to create distributed, and integrated  personalized content across AOL services), designed and implemented external parallel data fetch APIs to retrieve live content based on AOL Server/ADP pages. Actively involved in architecture and design of all aspects of XPP. This resulted in a generic platform to support any personalized content application.
+Led design and implementation of calendar module for MyAOL (personalized AOL homepage) website based on new platform XPP. Member of 4 person core team to generate initial modules, to be used as examples by rest of 16 person team to complete module migration based on new platform.
+Led cross-functional teams for Sports Channel Integration project to implement personalized sports ticker for sports channel page for AOL 9.0 client.
+Project Lead for implementation and enhancements for XML APIs for horoscope, news, weather, sports and stock modules for MyXML project generating personalized XML data. 
+For QuickView (Personalized Front Page View of AOL members for their daily features), designed and implemented customization and interaction/awareness between QuickView and MyAOL. Implemented horoscope, news modules and segmentation logic for QuickView and MyAOL. Both implementations completed on Solaris platform using PSP/Netscape Server Technology.
+NETSCAPE BROWSER DIVISION   	Developed and enhanced various core components of Netscape Browser on multiple platforms.  
+
+Technologies: C++, C, Java, Windows NT/2000, Unix/Linux, Shell Script, HTTP, HTML, JavaScript.
+Communicator 7.x, 6.x and 4.x Browsers
+Improved performance, startup time of browser and reduced footprint for XPCOM libraries (Cross Platform Component Object Model). Fixed memory leaks, solved XPCOM thread safety issues. Enhanced http, ftp protocol APIs of the networking library resulting in more modular code.
+Developed APIs for Image Library Cache and the interface between Image and Network libraries. Enhanced the Preferences component - used for storing and managing user preferences. 
+For Netscape Wallet, defined requirements to remove layout engine dependencies and implemented the API framework for notification from the Layout engine. Enhanced browser Cookies based on XPCOM technology using layout and network libraries.
+Architected the Platform for Internet Content Selection (PICS) (Parent Control Options) and its interaction with the browser and layout engine. Implemented parser, label notification embedded in Meta tags, root document, extraction ratings using XPCOM APIs. 
+For Smart Update - Automatic Download Component, implemented core APIs for Communicator to automatically locate, download, and install securely.
+For Netcaster - Content Push Technology, designed and implemented the Resource Data Framework (RDF) based channel definition architecture for efficient download, display of content and channel personalization. Designed and implemented the Java based Website Crawler Engine.
+Implemented Plug-in Configuration Tool and Windows GUI Interface/front end for Instant Messaging real time chat, file sharing and voice.</description></job>
+<job end='728661' id='5' naics='33411101' naics2='33' pos='5' sic='422506' sic2='42' start='728296'><employer>IBM</employer>, Santa Teresa Labs              <title>Senior Associate Programmer</title>     <daterange><start days='728296' iso8601='1995-01-01'>1995</start> - <end days='728661' iso8601='1996-01-01'>1996</end></daterange>
+<employer>Object Oriented Solutions</employer> &amp; Application Development Division 
+<description>Developed the GUI for &quot;Visual Age for Basic&quot; using Win32 API/Visual C++ development environment, for DB2 Database Stored Procedures and User Defined Functions.</description></job></experience>
+<education>EDUCATION 											  <school id='6'><institution>U.S.  Citizen</institution>
+
+<degree level='18' name='Master of Science'>MS</degree> <major code='1201'>Computer Engineering</major>	<institution>Santa Clara University</institution>, <address><state abbrev='CA'>CA</state></address></school>
+<school id='7'><degree level='18' name='Master of Science'>MS</degree> <major code='1001'>Chemical Engineering</major>	<institution>Osmania University</institution>, <address><country iso3='IND'>India</country></address></school></education>  
+
+	                                                                 Page 1 of 3
+
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='731583' experience='1' expidrefs='4' idrefs='4' lastused='2004' name='active directory' start='728661'>
+    <variant>Active Directory</variant>
+  </canonskill>
+  <canonskill end='731583' experience='1' expidrefs='4' idrefs='4' lastused='2004' name='adp' start='728661'>
+    <variant>ADP</variant>
+  </canonskill>
+  <canonskill end='731583' experience='1' expidrefs='4' idrefs='4' lastused='2004' name='agile' start='728661'>
+    <variant>Agile</variant>
+  </canonskill>
+  <canonskill end='731583' experience='1' expidrefs='4' idrefs='4' lastused='2004' name='america online' start='728661'>
+    <variant>AOL 9.0</variant>
+    <variant>AOL</variant>
+  </canonskill>
+  <canonskill end='731583' experience='1' expidrefs='4' idrefs='4' lastused='2004' name='apache webserver' start='728661'>
+    <variant>Apache</variant>
+  </canonskill>
+  <canonskill end='731583' experience='1' expidrefs='4,5' idrefs='4,5' lastused='2004' name='api' start='728296'>
+    <variant>API</variant>
+  </canonskill>
+  <canonskill end='728661' experience='1' expidrefs='5' idrefs='5' lastused='1996' name='basic' start='728296'>
+    <variant>Basic</variant>
+  </canonskill>
+  <canonskill end='731583' experience='1' expidrefs='4' idrefs='4' lastused='2004' name='browsers' start='728661'>
+    <variant>Browsers</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,4' idrefs='1,4' lastused='2012' name='c' start='728661'>
+    <variant>C</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,4' idrefs='1,2,4' lastused='2012' name='c + +' start='728661'>
+    <variant>C++</variant>
+  </canonskill>
+  <canonskill end='731583' experience='1' expidrefs='4' idrefs='4' lastused='2004' name='cim' start='728661'>
+    <variant>CIM</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='cisco' start='733775'>
+    <variant>Cisco</variant>
+  </canonskill>
+  <canonskill end='731583' experience='1' expidrefs='4' idrefs='4' lastused='2004' name='claris homepage' start='728661'>
+    <variant>homepage</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='client/server' start='733775'>
+    <variant>client and server</variant>
+    <variant>client server</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,4' idrefs='1,4' lastused='2012' name='content management' start='728661'>
+    <variant>content</variant>
+    <variant>content management</variant>
+    <variant>Content</variant>
+  </canonskill>
+  <canonskill end='731583' experience='1' expidrefs='4' idrefs='4' lastused='2004' name='customer relations' start='728661'>
+    <variant>client</variant>
+  </canonskill>
+  <canonskill name='cvs'>
+    <variant>CVS</variant>
+  </canonskill>
+  <canonskill end='728661' experience='1' expidrefs='5' idrefs='5' lastused='1996' name='database administration' start='728296'>
+    <variant>Database</variant>
+  </canonskill>
+  <canonskill end='731583' experience='1' expidrefs='4' idrefs='4' lastused='2004' name='design' start='728661'>
+    <variant>designing</variant>
+  </canonskill>
+  <canonskill end='731583' experience='1' expidrefs='4' idrefs='4' lastused='2004' name='development' start='728661'>
+    <variant>product development</variant>
+  </canonskill>
+  <canonskill name='eclipse'>
+    <variant>Eclipse</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='embedded systems' start='733775'>
+    <variant>embedded systems</variant>
+  </canonskill>
+  <canonskill end='731583' experience='1' expidrefs='4' idrefs='4' lastused='2004' name='features' start='728661'>
+    <variant>features</variant>
+  </canonskill>
+  <canonskill end='731583' experience='1' expidrefs='4' idrefs='4' lastused='2004' name='fetch' start='728661'>
+    <variant>fetch</variant>
+  </canonskill>
+  <canonskill end='731583' experience='1' expidrefs='4' idrefs='4' lastused='2004' name='frontpage' start='728661'>
+    <variant>Front Page</variant>
+  </canonskill>
+  <canonskill end='731583' experience='1' expidrefs='4' idrefs='4' lastused='2004' name='ftp' start='728661'>
+    <variant>ftp</variant>
+  </canonskill>
+  <canonskill end='731583' experience='1' expidrefs='4' idrefs='4' lastused='2004' name='functional' start='728661'>
+    <variant>functional</variant>
+  </canonskill>
+  <canonskill end='731583' experience='1' expidrefs='4,5' idrefs='4,5' lastused='2004' name='graphical user interface' start='728296'>
+    <variant>GUI</variant>
+  </canonskill>
+  <canonskill end='733410' experience='1' expidrefs='2,4' idrefs='2,4' lastused='2009' name='html' start='728661'>
+    <variant>HTML</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,4' idrefs='1,4' lastused='2012' name='http' start='728661'>
+    <variant>http</variant>
+    <variant>HTTP</variant>
+  </canonskill>
+  <canonskill name='ibm'>
+    <variant>IBM</variant>
+  </canonskill>
+  <canonskill end='728661' experience='1' expidrefs='5' idrefs='5' lastused='1996' name='ibm db/2' start='728296'>
+    <variant>DB2</variant>
+  </canonskill>
+  <canonskill end='728661' experience='1' expidrefs='5' idrefs='5' lastused='1996' name='ibm visualage' start='728296'>
+    <variant>Visual Age</variant>
+  </canonskill>
+  <canonskill end='731583' experience='1' expidrefs='4' idrefs='4' lastused='2004' name='imaging' start='728661'>
+    <variant>Image</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='ip' start='733775'>
+    <variant>IP</variant>
+  </canonskill>
+  <canonskill end='731583' experience='1' expidrefs='4' idrefs='4' lastused='2004' name='java' start='728661'>
+    <variant>Java</variant>
+  </canonskill>
+  <canonskill end='731583' experience='1' expidrefs='4' idrefs='4' lastused='2004' name='java server pages' start='728661'>
+    <variant>JSP</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,4' idrefs='1,2,4' lastused='2012' name='javascript' start='728661'>
+    <variant>JavaScript</variant>
+  </canonskill>
+  <canonskill name='languages'>
+    <variant>Languages</variant>
+  </canonskill>
+  <canonskill end='731583' experience='1' expidrefs='4' idrefs='4' lastused='2004' name='layout design' start='728661'>
+    <variant>Layout</variant>
+    <variant>layout</variant>
+  </canonskill>
+  <canonskill end='731583' experience='1' expidrefs='4' idrefs='4' lastused='2004' name='ldap' start='728661'>
+    <variant>LDAP</variant>
+  </canonskill>
+  <canonskill end='733410' experience='1' expidrefs='2,4' idrefs='2,4' lastused='2009' name='linux' start='728661'>
+    <variant>Linux</variant>
+  </canonskill>
+  <canonskill end='731583' experience='1' expidrefs='4' idrefs='4' lastused='2004' name='logic' start='728661'>
+    <variant>logic</variant>
+  </canonskill>
+  <canonskill end='731583' experience='1' expidrefs='4' idrefs='4' lastused='2004' name='management' start='728661'>
+    <variant>managing</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,4' idrefs='1,2,4' lastused='2012' name='memory' start='728661'>
+    <variant>memory</variant>
+  </canonskill>
+  <canonskill end='731583' experience='1' expidrefs='4' idrefs='4' lastused='2004' name='messaging' start='728661'>
+    <variant>Messaging</variant>
+  </canonskill>
+  <canonskill end='731583' experience='1' expidrefs='4,5' idrefs='4,5' lastused='2004' name='microsoft windows' start='728296'>
+    <variant>Win</variant>
+    <variant>Windows</variant>
+  </canonskill>
+  <canonskill end='731583' experience='1' expidrefs='4' idrefs='4' lastused='2004' name='microsoft windows 2000' start='728661'>
+    <variant>Windows 2000</variant>
+    <variant>2000</variant>
+  </canonskill>
+  <canonskill end='731583' experience='1' expidrefs='4' idrefs='4' lastused='2004' name='microsoft windows nt' start='728661'>
+    <variant>NT</variant>
+    <variant>Windows NT</variant>
+  </canonskill>
+  <canonskill end='731583' experience='1' expidrefs='4' idrefs='4' lastused='2004' name='migration' start='728661'>
+    <variant>migration</variant>
+  </canonskill>
+  <canonskill end='731583' experience='1' expidrefs='4' idrefs='4' lastused='2004' name='msa' start='728661'>
+    <variant>MSA</variant>
+  </canonskill>
+  <canonskill end='731583' experience='1' expidrefs='4' idrefs='4' lastused='2004' name='netscape' start='728661'>
+    <variant>Netscape</variant>
+    <variant>NETSCAPE</variant>
+  </canonskill>
+  <canonskill end='731583' experience='1' expidrefs='4' idrefs='4' lastused='2004' name='netscape communicator' start='728661'>
+    <variant>Communicator</variant>
+    <variant>Communicator 7.x</variant>
+  </canonskill>
+  <canonskill end='731583' experience='1' expidrefs='4' idrefs='4' lastused='2004' name='netscape enterprise server' start='728661'>
+    <variant>Enterprise</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,4' idrefs='1,4' lastused='2012' name='networking' start='728661'>
+    <variant>Network</variant>
+    <variant>network</variant>
+    <variant>networking</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='next' start='733775'>
+    <variant>next</variant>
+  </canonskill>
+  <canonskill name='object oriented design'>
+    <variant>object-oriented design</variant>
+  </canonskill>
+  <canonskill end='733410' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='operating systems' start='733044'>
+    <variant>Operating Systems</variant>
+    <variant>OS</variant>
+  </canonskill>
+  <canonskill end='731583' experience='1' expidrefs='4' idrefs='4' lastused='2004' name='page' start='728661'>
+    <variant>page</variant>
+  </canonskill>
+  <canonskill end='731583' experience='1' expidrefs='4' idrefs='4' lastused='2004' name='paint shop pro' start='728661'>
+    <variant>PSP</variant>
+  </canonskill>
+  <canonskill name='programming'>
+    <variant>programming</variant>
+  </canonskill>
+  <canonskill end='731583' experience='1' expidrefs='4' idrefs='4' lastused='2004' name='project management' start='728661'>
+    <variant>Project Lead</variant>
+  </canonskill>
+  <canonskill end='733410' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='project planning' start='733044'>
+    <variant>project planning</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='protocols' start='733775'>
+    <variant>protocols</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='python' start='733775'>
+    <variant>Python</variant>
+    <variant>python</variant>
+  </canonskill>
+  <canonskill name='rdbms'>
+    <variant>RDBMS</variant>
+  </canonskill>
+  <canonskill end='731583' experience='1' expidrefs='4' idrefs='4' lastused='2004' name='real time' start='728661'>
+    <variant>real time</variant>
+  </canonskill>
+  <canonskill end='731583' experience='1' expidrefs='4' idrefs='4' lastused='2004' name='safety' start='728661'>
+    <variant>safety</variant>
+  </canonskill>
+  <canonskill end='731583' experience='1' expidrefs='4' idrefs='4' lastused='2004' name='servers' start='728661'>
+    <variant>servers</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='shell scripting' start='733775'>
+    <variant>Scripting</variant>
+  </canonskill>
+  <canonskill end='731583' experience='1' expidrefs='4' idrefs='4' lastused='2004' name='shell scripts' start='728661'>
+    <variant>Shell Script</variant>
+  </canonskill>
+  <canonskill end='731583' experience='1' expidrefs='4' idrefs='4' lastused='2004' name='soap' start='728661'>
+    <variant>SOAP</variant>
+  </canonskill>
+  <canonskill end='731583' experience='1' expidrefs='4' idrefs='4' lastused='2004' name='solaris' start='728661'>
+    <variant>Solaris</variant>
+  </canonskill>
+  <canonskill end='731583' experience='1' expidrefs='4' idrefs='4' lastused='2004' name='specification' start='728661'>
+    <variant>specification</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='ssl' start='733775'>
+    <variant>SSL</variant>
+  </canonskill>
+  <canonskill end='731583' experience='1' expidrefs='4' idrefs='4' lastused='2004' name='tcl' start='728661'>
+    <variant>TCL</variant>
+  </canonskill>
+  <canonskill end='731583' experience='1' expidrefs='4' idrefs='4' lastused='2004' name='tomcat' start='728661'>
+    <variant>Tomcat</variant>
+  </canonskill>
+  <canonskill end='731583' experience='1' expidrefs='4' idrefs='4' lastused='2004' name='unix' start='728661'>
+    <variant>UNIX</variant>
+    <variant>Unix</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='video' start='733775'>
+    <variant>video</variant>
+  </canonskill>
+  <canonskill end='733410' experience='1' expidrefs='2,4' idrefs='2,4' lastused='2009' name='view' start='728661'>
+    <variant>View</variant>
+    <variant>view</variant>
+  </canonskill>
+  <canonskill end='728661' experience='1' expidrefs='5' idrefs='5' lastused='1996' name='visual c + +' start='728296'>
+    <variant>Visual C++</variant>
+  </canonskill>
+  <canonskill name='visual studio'>
+    <variant>MS Visual Studio</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,4' idrefs='1,4' lastused='2012' name='web site production' start='728661'>
+    <variant>Website</variant>
+    <variant>website</variant>
+    <variant>web-content</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='x86' start='733775'>
+    <variant>x86</variant>
+  </canonskill>
+  <canonskill end='731583' experience='1' expidrefs='4' idrefs='4' lastused='2004' name='xml' start='728661'>
+    <variant>XML</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

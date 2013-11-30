@@ -1,0 +1,264 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734596' xml:space='preserve'><contact><name><givenname>PARUL</givenname> <surname>BANSAL</surname></name>
+<address lat='37.3521' lon='121.958' majorcity='SANTA CLARA' state='CA'><street>470 Oak Grove Drive</street>, <city>Santa Clara</city>, <state abbrev='CA'>CA</state>-<postalcode>95054</postalcode></address>  408-<phone>332-4668</phone>  <email>p.bansal2003@yahoo.com</email></contact>
+
+
+<summary>Objective
+
+<objective>An experienced Software Engineer looking for full-time position to utilize my skills and expertise while making a significant contribution to the success of the company.</objective>
+
+Summary
+
+<summary>Excellent knowledge of various concepts: Object Oriented Programming, Database, Data Structures Algorithms, Operating System, TCP/IP protocols, Socket Programming &amp; web services (REST and SOAP/WSDL).
+Strong expertise in ETL/Analysis tools.
+Strong expertise in cloud computing, web development and network security.
+Self-driven and loves to work as part of team.
+Always ready to learn new technologies/products and act as a key resource with high productivity &amp; quality to deliver on schedule.
+Play beyond the roles and responsibilities.
+Skilled at progressing from problem statement to well defined solution using software development methodologies.</summary>  
+<personalstatements>Excellent verbal and written communication skills.</personalstatements></summary>
+
+
+<skills>Skills
+
+Languages                    <skills>C, C++, Java, Unix Shell (bash), JavaScript, jquery, Ajax, Php, HTML, Curl, BSD Sockets, ONC RPC, CSS, SQL.
+Operating Systems      Windows, Unix/Linux
+ETL/Analysis Tools 	Informatica 8x, Ab-Initio 2.14, Apache hadoop, SSAS and SSIS
+Databases                     Oracle, SqlServer, Netezza, MongoDB
+Softwares                      WireShark, Autosys, Unica, TOAD, WinSql, Putty, Visio, VisualSourceSafe(VSS), OpenSSL, Subversion, Cygwin.
+Certification		Informatica Certified Developer</skills></skills>
+
+
+<education>Education
+
+<school id='4'><degree level='18' name='Master of Science'>M.S Degree</degree> in <major code='1201'>Computer Engineering</major>, <institution>San Jose State University</institution>, <address><city>San Jose</city>, <state abbrev='CA'>CA.</state></address> 
+GPA around <gpa max='4' value='3.462'>3.462</gpa>. Expected to graduate <completiondate>August 2012</completiondate></school>. 
+
+<school id='5'><degree level='16' name='Bachelor of Science'>B.S degree</degree> in <major code='0402 1699'>Computer Science &amp; Engineering</major>, <institution>A.K.G. Engineering College UPTECH</institution>, <major>INDIA</major>. 
+GPA around <gpa max='4' value='3.3'>3.3</gpa>. <honors>Graduated in 2007</honors></school></education>.
+
+
+<experience end='present' start='732679'>Experience
+
+<job end='present' id='1' pos='1' sic='801101' sic2='80' start='734505'><title>Teaching Associate</title>
+<employer>San Jose State University</employer> 					             <daterange><start days='734505' iso8601='2012-01-01'>Jan 2012</start> - <end days='present' iso8601='2012-04-01'>Present</end></daterange>
+<description>Conduct lectures on network security (Kerberos, SSL etc).
+Grading lab and homework.
+Help students in problems related to Lab or Project.</description></job>
+
+
+
+
+Graduate Student
+<job end='present' id='2' pos='2' sic='801101' sic2='80' start='733987'><employer>San Jose State University</employer>						<daterange><start days='733987' iso8601='2010-08-01'>August 2010</start>- <end days='present' iso8601='2012-04-01'>Present</end></daterange>
+
+<description>Developing Federated Cloud Agent as Master's project to distribute the user data over several cloud storage pools based on factors such as cost, response time, turnaround time, service disruption frequency, tolerance for failure and expected service rate using [Java, Google Cloud Storage and Google Doc].
+Developed various cryptographic techniques using Java security packages like Key Management (ANSI X9.17), Private key encryption/decryption ciphers (Enigma Rotor Machine, Pohlig Hellman), Authentication Protocol (S-Key), E-Mail Security System-PGP (Pretty Good Privacy) using [Java].
+Developed a ssl secured chat system on yahoo domain to enable both intra-domain chat and inter-domain chat. Included features like-file sharing, voice texting, emoticons and custom profile page creation using [Php, Javascript, Jquery, AJAX, cURL, mySql].
+Developed a multithreaded client/server automatic backup system which takes replicates of all the files from client's folder and save it on multiple servers with version control and recover the latest in case of any failure using [C, BSD Sockets, ONC RPC] 
+Getting hands-on experience on various data analysis systems[Apache hadoop, SSAS]</description></job>
+
+<job end='733775' id='3' pos='3' sic='573401' sic2='57' start='732679'><title>Software Engineer</title>
+<employer>Infosys Technologies</employer> <address>Ltd, <country iso3='IND'>INDIA</country></address>					<daterange><start days='732679' iso8601='2007-01-01'>2007</start> - <end days='733775' iso8601='2010-01-01'>2010</end></daterange> (3 years)
+
+<description>As an Informatica certified developer, worked on various agile projects. 
+Worked as a team lead for FICO (Fairisaac) to enable ETL of BMS promotional data using Ab-Initio into Netezza ODS. This helped BMS make efficient sales and marketing decisions and in turn run effective future promotional campaigns[ Ab-Initio, Netezza, Oracle].
+Developed ODS for Healthways for analysis of data related to programs and services provided by Healthways to adult members[ Informatica, Sql Server, Oracle].
+Developed a &quot;proof of concept&quot; on real time ETL loading using Informatica PowerCenter Connect for Web Services as Provider/Consumer [Informatica, Sql Server</description>]
+<description>Involved in every phase of project starting from requirement analysis, designing, coding and successful testing.
+Provided process support, problem diagnosis and resolution as the process progressed through the various cycles of testing and user acceptance.
+Automated few of the manual processes that eventually helped in better performance by reducing the latency time in generation statistical reports. 
+Appreciated by clients for performance improvement in the BMS process.
+Actively contributed knowledge assets in Infosys Knowledge portal.</description></job></experience>
+
+<statements>Activities &amp; Interests
+
+<activities>Member of society of computer engineering at san jose state university, 2010-Present
+Member of graduate student council at san jose state university, 2010-Present
+Reading books, listening music, swimming, painting.</activities></statements>
+
+<references>References
+
+Professor Richard-  Sinn-richard.sinn@sjsu.edu
+Professor Christoph Schuba-  christoph.schuba@sjsu.edu
+Professor Xiao Su- xiao.su@sjsu.edu</references>
+
+
+
+
+
+
+
+
+
+
+
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='733775' experience='1' expidrefs='3' idrefs='3' lastused='2010' name='agile' start='732679'>
+    <variant>agile</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='apache webserver' start='733987'>
+    <variant>Apache</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='backup' start='733987'>
+    <variant>backup</variant>
+  </canonskill>
+  <canonskill name='bash'>
+    <variant>bash</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='bsd' start='733987'>
+    <variant>BSD</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='c' start='733987'>
+    <variant>C</variant>
+  </canonskill>
+  <canonskill name='c + +'>
+    <variant>C++</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='client/server' start='733987'>
+    <variant>client/server</variant>
+  </canonskill>
+  <canonskill end='733775' experience='1' expidrefs='3' idrefs='3' lastused='2010' name='concept development' start='732679'>
+    <variant>concept</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='cryptography' start='733987'>
+    <variant>encryption</variant>
+  </canonskill>
+  <canonskill name='css'>
+    <variant>CSS</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2,3' idrefs='2,3' lastused='2012' name='customer relations' start='732679'>
+    <variant>client</variant>
+    <variant>clients</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='cvs' start='733987'>
+    <variant>version control</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='data analysis' start='733987'>
+    <variant>data analysis</variant>
+  </canonskill>
+  <canonskill name='database administration'>
+    <variant>Databases</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='decryption' start='733987'>
+    <variant>decryption</variant>
+  </canonskill>
+  <canonskill end='733775' experience='1' expidrefs='3' idrefs='3' lastused='2010' name='design' start='732679'>
+    <variant>designing</variant>
+  </canonskill>
+  <canonskill end='733775' experience='1' expidrefs='3' idrefs='3' lastused='2010' name='diagnosis' start='732679'>
+    <variant>diagnosis</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='email' start='733987'>
+    <variant>E-Mail</variant>
+  </canonskill>
+  <canonskill end='733775' experience='1' expidrefs='3' idrefs='3' lastused='2010' name='etl' start='732679'>
+    <variant>ETL</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='features' start='733987'>
+    <variant>features</variant>
+  </canonskill>
+  <canonskill name='html'>
+    <variant>HTML</variant>
+  </canonskill>
+  <canonskill end='733775' experience='1' expidrefs='3' idrefs='3' lastused='2010' name='informatica' start='732679'>
+    <variant>Informatica 8</variant>
+    <variant>Informatica</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='java' start='733987'>
+    <variant>Java</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='javascript' start='733987'>
+    <variant>JavaScript</variant>
+    <variant>Javascript</variant>
+  </canonskill>
+  <canonskill name='languages'>
+    <variant>Languages</variant>
+  </canonskill>
+  <canonskill end='733775' experience='1' expidrefs='3' idrefs='3' lastused='2010' name='leadership' start='732679'>
+    <variant>team lead</variant>
+  </canonskill>
+  <canonskill name='linux'>
+    <variant>Linux</variant>
+  </canonskill>
+  <canonskill end='733775' experience='1' expidrefs='3' idrefs='3' lastused='2010' name='marketing' start='732679'>
+    <variant>marketing</variant>
+  </canonskill>
+  <canonskill name='microsoft windows'>
+    <variant>Windows</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='mysql' start='733987'>
+    <variant>mySql</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='network security' start='734505'>
+    <variant>network security</variant>
+  </canonskill>
+  <canonskill end='733775' experience='1' expidrefs='3' idrefs='3' lastused='2010' name='ods' start='732679'>
+    <variant>ODS</variant>
+  </canonskill>
+  <canonskill name='operating systems'>
+    <variant>Operating Systems</variant>
+  </canonskill>
+  <canonskill end='733775' experience='1' expidrefs='3' idrefs='3' lastused='2010' name='oracle' start='732679'>
+    <variant>Oracle</variant>
+  </canonskill>
+  <canonskill end='733775' experience='1' expidrefs='3' idrefs='3' lastused='2010' name='oracle developer 2000' start='732679'>
+    <variant>developer</variant>
+    <variant>Developer</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='page' start='733987'>
+    <variant>page</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='php' start='733987'>
+    <variant>Php</variant>
+  </canonskill>
+  <canonskill end='733775' experience='1' expidrefs='3' idrefs='3' lastused='2010' name='process engineering' start='732679'>
+    <variant>processes</variant>
+  </canonskill>
+  <canonskill end='733775' experience='1' expidrefs='3' idrefs='3' lastused='2010' name='programming' start='732679'>
+    <variant>coding</variant>
+  </canonskill>
+  <canonskill end='733775' experience='1' expidrefs='3' idrefs='3' lastused='2010' name='real time' start='732679'>
+    <variant>real time</variant>
+  </canonskill>
+  <canonskill end='733775' experience='1' expidrefs='3' idrefs='3' lastused='2010' name='requirements' start='732679'>
+    <variant>requirement</variant>
+  </canonskill>
+  <canonskill end='733775' experience='1' expidrefs='3' idrefs='3' lastused='2010' name='sales' start='732679'>
+    <variant>sales</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='servers' start='733987'>
+    <variant>servers</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='sockets' start='733987'>
+    <variant>Sockets</variant>
+  </canonskill>
+  <canonskill end='733775' experience='1' expidrefs='3' idrefs='3' lastused='2010' name='sql' start='732679'>
+    <variant>SQL</variant>
+    <variant>Sql Server</variant>
+  </canonskill>
+  <canonskill name='sqlserver'>
+    <variant>SqlServer</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='ssl' start='733987'>
+    <variant>SSL</variant>
+    <variant>ssl</variant>
+  </canonskill>
+  <canonskill name='toad'>
+    <variant>TOAD</variant>
+  </canonskill>
+  <canonskill name='unix'>
+    <variant>Unix</variant>
+  </canonskill>
+  <canonskill name='unix shell scripting'>
+    <variant>Unix Shell</variant>
+  </canonskill>
+  <canonskill name='visio'>
+    <variant>Visio</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

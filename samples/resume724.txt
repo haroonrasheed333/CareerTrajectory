@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734596' xml:space='preserve'><contact><name><givenname>ANDREA</givenname> <givenname>C</givenname>. <surname>HOROWITT</surname></name>
+                                                      <address lat='36.9908' lon='122.057' majorcity='SANTA CRUZ' state='CA'><street>139 Torrey Pine Terrace</street>
+                                                       <city>Santa Cruz</city>, <state abbrev='CA'>CA</state> <postalcode>95060</postalcode></address>
+                                                               <phone>(559) 970-7671</phone>
+                                                     <email>achorowitt@yahoo.com</email></contact>
+
+
+<education>Education:    <school id='6'><institution>University of California</institution>, <address><city>Santa Cruz</city></address> (<institution>Cowell College</institution>)
+              <address><city>Santa Cruz</city>, <state abbrev='CA'>California</state></address>; <degree level='16' name='Bachelor of Science'>B.S</degree>., <major code='0211'>Marine Biology</major>, <completiondate days='734140' iso8601='2011-01-01'>2011</completiondate></school>
+
+              <school id='7'><institution>Bullard High School</institution>
+              <address><city>Fresno</city>, <state abbrev='CA'>California</state></address>; <degree level='13' name='Diploma'>Diploma</degree>, <completiondate days='732679' iso8601='2007-01-01'>2007</completiondate></school></education>
+
+<experience end='present' start='733410'>Work
+Experience:   <job end='present' id='1' inferred-to='2' pos='1' sic='832222' sic2='83' start='734199'><employer>ICES ­ International Cultural Exchange Services</employer>
+               <daterange><start days='734199' iso8601='2011-03-01'>March 2011</start>- <end days='present' iso8601='2012-04-01'>Present</end></daterange>; <title>Area Representative</title>
+               <description>· Recruit, screen and interview prospective host families.
+               · Place exchange students.
+               · Provide ongoing support for students and families through
+                  monthly check-in.
+
+               Hay Market Restaurant, Willow Glen</description></job>
+              <job end='734413' id='2' inferred-from='1' pos='2' sic='832222' sic2='83' start='734321'><daterange><start days='734321' iso8601='2011-07-01'>July 2011</start>- <end days='734413' iso8601='2011-10-01'>October 2011</end></daterange>; <title>Assistant Prep Chef</title>
+              · Assisted chefs
+              · <description>Maintained strict preparation standards and applied safe
+                  food handling techniques</description></job>
+
+              <job end='733895' id='3' pos='4' sic='822101' sic2='82' start='733410'><employer>University of California</employer>, Santa Cruz
+              <daterange><start days='733410' iso8601='2009-01-01'>January 2009</start>-<end days='733895' iso8601='2010-05-01'>May 2010</end></daterange>; <description>Long Term Research Project
+              · Assisted with graduate research in examining
+                 specimens
+              · Utilized spreadsheet software in recording data</description></job>
+
+              <job id='4' sic='822101' sic2='82'><employer>University of California</employer>, Santa Cruz
+              <description>April, 2009; Single Research Project
+              · Assisted with graduate research in documenting
+                  predation and recorded data</description></job>
+
+              <job end='734199' id='5' pos='3' sic='822101' sic2='82' start='733561'><employer>University of California</employer>, Santa Cruz
+              <title>Custodial Assistant</title>, <daterange><start days='733561' iso8601='2009-06-01'>June 2009</start>- <end days='734199' iso8601='2011-03-01'>March 2011</end></daterange>; Full and <jobtype>Part
+              Time</jobtype>
+              · <description>Assisted head custodian
+              · Assessed apartment cleanliness and appropriated tasks
+                 efficiently and effectively
+
+Certifications: Crossfit Level 1</description></job></experience>
+<references>References: Available upon request</references>
+</resume>
+
+<skillrollup version='1'>
+  <canonskill experience='1' name='marketing'>
+    <variant>Market</variant>
+  </canonskill>
+  <canonskill experience='1' name='microsoft exchange'>
+    <variant>exchange</variant>
+  </canonskill>
+  <canonskill end='733895' experience='1' expidrefs='3' idrefs='3' lastused='2010' name='recording' start='733410'>
+    <variant>recording</variant>
+  </canonskill>
+  <canonskill end='733895' experience='1' expidrefs='3,4' idrefs='3,4' lastused='2010' name='research' start='733410'>
+    <variant>Research</variant>
+    <variant>research</variant>
+  </canonskill>
+  <canonskill end='733895' experience='1' expidrefs='3' idrefs='3' lastused='2010' name='spreadsheets' start='733410'>
+    <variant>spreadsheet</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

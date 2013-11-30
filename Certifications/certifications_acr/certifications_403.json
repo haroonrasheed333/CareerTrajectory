@@ -1,0 +1,180 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification of Radiation Oncology", 
+            "Type": "Specialty", 
+            "Certification ID": "6367", 
+            "Certifying Organization": "American Osteopathic College of Radiology"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Diplomate", 
+            "Type": "Advanced", 
+            "Certification ID": "8842", 
+            "Certifying Organization": "National Board of Medical Examiners"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification of Diagnostic Radiology", 
+            "Type": "Core", 
+            "Certification ID": "6366", 
+            "Certifying Organization": "American Osteopathic College of Radiology"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification of Added Qualifications for Pediatric Radiology", 
+            "Type": "Specialty", 
+            "Certification ID": "6363", 
+            "Certifying Organization": "American Osteopathic College of Radiology"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification of Added Qualification for Neuroradiology", 
+            "Type": "Specialty", 
+            "Certification ID": "6364", 
+            "Certifying Organization": "American Osteopathic College of Radiology"
+        }, 
+        {
+            "Acronym": "QMP", 
+            "Certification Name": "Qualified Medical Physicist", 
+            "Type": "Core", 
+            "Certification ID": "7913", 
+            "Certifying Organization": "American Association of Physicists in Medicine"
+        }, 
+        {
+            "Acronym": "CRA", 
+            "Certification Name": "Certified Radiology Administrator", 
+            "Type": "Advanced", 
+            "Certification ID": "3740", 
+            "Certifying Organization": "American Healthcare Radiology Administrators"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Neuroradiology", 
+            "Type": "Specialty", 
+            "Certification ID": "0255", 
+            "Certifying Organization": "American Board of Radiology"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Medical Physics", 
+            "Type": "Advanced", 
+            "Certification ID": "0258", 
+            "Certifying Organization": "American Board of Radiology"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Transthoracic 2-D and Doppler Echocardiography", 
+            "Type": "Specialty", 
+            "Certification ID": "8120", 
+            "Certifying Organization": "National Board of Echocardiography"
+        }, 
+        {
+            "Acronym": "ECNU", 
+            "Certification Name": "Endocrine Certification in Neck Ultrasound", 
+            "Type": "Specialty", 
+            "Certification ID": "6672", 
+            "Certifying Organization": "American Association of Clinical Endocrinologists"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Diagnostic Radiology", 
+            "Type": "Specialty", 
+            "Certification ID": "0257", 
+            "Certifying Organization": "American Board of Radiology"
+        }, 
+        {
+            "Acronym": "CoAP", 
+            "Certification Name": "Cardiac CT Certificate of Advanced Proficiency", 
+            "Type": "Specialty", 
+            "Certification ID": "9491", 
+            "Certifying Organization": "American College of Radiology"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Physician Executive", 
+            "Type": "Specialty", 
+            "Certification ID": "9526", 
+            "Certifying Organization": "Certifying Commission in Medical Management"
+        }, 
+        {
+            "Acronym": "DACBR", 
+            "Certification Name": "Diplomate of the American Chiropractic Board of Radiology", 
+            "Type": "Specialty", 
+            "Certification ID": "1371", 
+            "Certifying Organization": "American Chiropractic Board of Radiology"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Pediatric Radiology", 
+            "Type": "Specialty", 
+            "Certification ID": "0259", 
+            "Certifying Organization": "American Board of Radiology"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Radiation Oncology", 
+            "Type": "Specialty", 
+            "Certification ID": "0256", 
+            "Certifying Organization": "American Board of Radiology"
+        }, 
+        {
+            "Acronym": "CPHQ", 
+            "Certification Name": "Certified Professional in Healthcare Quality", 
+            "Type": "Core", 
+            "Certification ID": "9207", 
+            "Certifying Organization": "National Association for Healthcare Quality"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification in Diagnostic Radiology", 
+            "Type": "Core", 
+            "Certification ID": "2559", 
+            "Certifying Organization": "American Osteopathic College of Radiology"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Vascular and Interventional Radiology", 
+            "Type": "Specialty", 
+            "Certification ID": "0261", 
+            "Certifying Organization": "American Board of Radiology"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Radiation Oncology", 
+            "Type": "Core", 
+            "Certification ID": "6521", 
+            "Certifying Organization": "American Board of Physician Specialties"
+        }, 
+        {
+            "Acronym": "NI", 
+            "Certification Name": "Neuroimaging Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "8668", 
+            "Certifying Organization": "United Council for Neurologic Subspecialties"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Nuclear Radiology", 
+            "Type": "Specialty", 
+            "Certification ID": "0254", 
+            "Certifying Organization": "American Board of Radiology"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Diagnostic Radiology", 
+            "Type": "Core", 
+            "Certification ID": "6508", 
+            "Certifying Organization": "American Board of Physician Specialties"
+        }, 
+        {
+            "Acronym": "CRA", 
+            "Certification Name": "Certified Retinal Angiographer", 
+            "Type": "Specialty", 
+            "Certification ID": "2316", 
+            "Certifying Organization": "Ophthalmic Photographers' Society"
+        }
+    ], 
+    "onet": "29106910"
+}

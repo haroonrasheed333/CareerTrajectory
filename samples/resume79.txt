@@ -1,0 +1,252 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734583' xml:space='preserve'><contact><name><givenname>Marlyn</givenname> <givenname>Gruta</givenname> <surname>Alvarez</surname></name>
+Magnolia St. Sto. Rosario Silangan Pateros Metro Manila Philippines
+Mobile no. <phone type='cell'>+639328803845</phone>
+Email Address: <email>marlyn_alvarez05@yahoo.com</email></contact>
+
+<summary>CAREER OBJECTIVE
+<objective>To be with the company where I can broaden my knowledge in SAP, enhance my ABAP skills and be able to use them on different functional areas.</objective> 
+
+SUMMARY OF QUALIFICATIONS
+Marlyn (Apple) has four years ABAP Development experience in Implementation, Application Maintenance, Support and Upgrade projects. She has worked on different SAP modules such as FI, CO, SD and MM. Her past projects are primarily from Consumer Products, Banking, Public Sector, Transportation industries and Pharmaceutical Industry.
+
+Apple's strengths are in Report, Interface, Enhancements and Forms. In her previous upgrade and support projects, she handled tasks involving re-key, used SPAU for objects requiring modification, and had exposure in application of SAP OSS Notes. She is also well accustomed to software development life cycle best practices having for CMMi Level 5 accredited global solutions company for several projects.</summary>
+
+<professional>EXPERTISE
+Expertise
+<affiliations>Years of Expertise</affiliations>
+Relevant Technical Expertise
+<description>SAP ABAP
+
+
+04
+Relevant Project Expertise
+
+ABAP Skill used in Projects:
+Classical Report / ALV Report
+Dialog Programming
+Upload/Downloads 
+Program with Email functionality
+Batch Data Communication
+Function Modules
+User-Exits
+Smartforms
+Data dictionary
+Debbuging
+OSS Notes implementation
+LSMW
+Re-key Activities
+Web service
+
+Technical Design Creation
+
+
+Relevant industry Expertise
+Transportation
+Consumer Production
+Banking
+Public Sector
+Pharmaceutical Industry
+
+
+Trainings
+
+SAP ABAP Bootcamp
+SAP Workflow
+Intermediate Document (IDOC)
+Package Application Design</description></professional> 
+
+
+
+<experience end='present' start='732799'>RELEVANT PROJECT EXPERIENCE
+24/7 International
+<job end='present' id='1' pos='1' start='734444'><address lat='35.8862' lon='-90.1663' majorcity='MANILA' state='AR'><city>Manila</city>, <country iso3='PHL'>Philippines</country></address>
+<daterange><start days='734444' iso8601='2011-11-01'>Nov 2011</start> -<end days='present' iso8601='2012-03-19'>Present</end></daterange>
+<description>Project Type
+Implementation, Application Maintenance and support                          (Pharmaceutical Industry)</description>
+
+<title>Role
+Developer / Consultant</title>
+<description>Responsibilities
+
+Accomplished SMARTFORMs Enhancement/Change request based on the functional specification
+Completed the modifications for Reports based on the technical specifications
+Accomplished Basic LSMW task
+Responsible for Web service support for Principal Pending Approval project 
+Able to resolved/fixed issues raised</description></job>
+
+
+<job end='734444' id='2' naics='54161401' naics2='54' pos='2' start='734171'><employer>Accenture</employer>
+<address><city>Manila</city>, <country iso3='PHL'>Philippines</country></address>
+<daterange><start days='734171' iso8601='2011-02-01'>Feb 2011</start> -<end days='734444' iso8601='2011-11-01'>Nov 2011</end></daterange> 
+<description>Project Type
+Implementation, Application Maintenance and support  (SAP Program</description>)
+
+<title>Role
+Developer / Consultant</title>
+<description>Responsibilities
+
+Accomplish re-key task for the upgrade.
+Create technical Design based on the functional requirements.
+Develop ABAP programs based on the technical requirements.
+Perform Unit Testing of developments</description></job>
+
+
+
+<job end='734140' id='3' naics='54161401' naics2='54' pos='3' start='734140'><employer>Accenture</employer>
+<address><city>Manila</city>, <country iso3='PHL'>Philippines</country></address>
+<daterange><start days='734140' iso8601='2011-01-01'>Jan 2011</start> -<end days='734140' iso8601='2011-01-01'>Jan 2011</end></daterange> 
+<title>Project Type</title></job>
+<job id='4' sic='874825' sic2='87'><employer>Implementation</employer> (Garriges)
+
+<title>Role
+Developer / Consultant</title>
+<description>Responsibilities
+
+Develop FICO report compliant to project coding standards and following specifications on technical designs
+Perform Unit testing of developments</description></job>
+
+
+<job end='734140' id='5' naics='54161401' naics2='54' pos='4' start='733956'><employer>Accenture</employer>
+<address><city>Manila</city>, <country iso3='PHL'>Philippines</country></address>
+<daterange><start days='733956' iso8601='2010-07-01'>Jul 2010</start> -<end days='734140' iso8601='2011-01-01'>Jan 2011</end></daterange> 
+<title>Project Type</title></job>
+<job id='6' sic='737103' sic2='73'><employer>Upgrade</employer> (<employer>African Development Bank</employer>)
+
+<title>Role
+Developer / Consultant</title>
+Responsibilities
+
+<description>Handle re-key task
+Use SPAU for objects that need modification
+Application of SAP OSS Notes
+Develop FICO, SD, MM reports and forms based on technical design
+Perform Unit Testing of developments</description></job>
+
+<job end='733956' id='7' naics='54161401' naics2='54' pos='5' start='733744'><employer>Accenture</employer>
+<address><city>Manila</city>, <country iso3='PHL'>Philippines</country></address>
+<daterange><start days='733744' iso8601='2009-12-01'>Dec 2009</start> -<end days='733956' iso8601='2010-07-01'>Jul 2010</end></daterange> 
+<title>Project Type</title></job>
+<job id='8' sic='874825' sic2='87'><employer>Implementation</employer> (Loreal)
+
+<title>Role
+Developer / Consultant</title>
+Responsibilities
+
+<description>Handle FICO reports with upload/Download and email functionality based on the technical designs
+Enhance IDOC developments
+Perform Unit Testing and Unit Documentation</description></job>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<job end='733410' id='9' naics='54161401' naics2='54' pos='6' start='732922'><employer>Accenture</employer>
+<address><city>Manila</city>, <country iso3='PHL'>Philippines</country></address>
+<daterange><start days='732922' iso8601='2007-09-01'>Sep 2007</start> - <end days='733410' iso8601='2009-01-01'>Jan 2009</end></daterange> 
+<title>Project Type</title></job>
+<job id='10' sic='874825' sic2='87'><employer>Implementation</employer> (<employer>Shell SERP</employer>)
+
+<title>Role
+Developer / Consultant</title>
+<description>Responsibilities
+
+Develop FICO, MM and SD procedural/ ALV reports based on the technical specifications
+Create FICO, MM, SD Smartforms, Email functionality GUI Upload/download
+Perform Unit Testing and Unit Test Documentation
+Develop process and procedures for new developers
+Contribute Continuous Improvement initiatives with identification of reusable ABAP components, documentation of email functionality, conduct research on ABAP Unit test tool and knowledge transition to counterparts.</description></job>
+
+
+<job end='732860' id='11' naics='54161401' naics2='54' pos='7' start='732799'><employer>Accenture</employer>
+<address><city>Manila</city>, <country iso3='PHL'>Philippines</country></address>
+<daterange><start days='732799' iso8601='2007-05-01'>May 2007</start> - <end days='732860' iso8601='2007-07-01'>Jul 2007</end></daterange> 
+<title>Project Type</title></job>
+<job id='12' sic='874825' sic2='87'><employer>Implementation</employer> (<employer>Canadian National Railway</employer>)
+
+<title>Role
+Developer / Consultant</title>
+<description>Responsibilities
+
+Develop FICO classical/ALV reports based on the technical specifications
+Perform Unit Testing and Unit Test Documentation</description></job></experience>
+
+
+
+<education>EDUCATION
+
+<school id='13'><degree level='16' name='Bachelor of Science'>Bachelor of Science</degree> in <major code='1201'>Computer Engineering</major>, <institution>Rizal Technological University</institution>, <address><country iso3='PHL'>Philippines</country></address></school></education>
+
+
+Marlyn Gruta Alvarez                                                                                                      Page 1 of 4
+
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='734444' experience='1' expidrefs='2,10' idrefs='2,10' lastused='2011' name='abap' start='734171'>
+    <variant>ABAP</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='basic' start='734444'>
+    <variant>Basic</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='10' idrefs='10' name='continuous improvement'>
+    <variant>Continuous Improvement</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='8,10,12' idrefs='8,10,12' name='documentation'>
+    <variant>Documentation</variant>
+    <variant>documentation</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='8,10' idrefs='8,10' name='email'>
+    <variant>Email</variant>
+    <variant>email</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='6' idrefs='6' name='forms'>
+    <variant>forms</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='functional' start='734171'>
+    <variant>functional</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='10' idrefs='10' name='graphical user interface'>
+    <variant>GUI</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='6' idrefs='6' name='lotus notes'>
+    <variant>Notes</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='6' idrefs='6' name='oss'>
+    <variant>OSS</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='4' idrefs='4' name='programming'>
+    <variant>coding</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='10' idrefs='10' name='research'>
+    <variant>research</variant>
+  </canonskill>
+  <canonskill end='734444' experience='1' expidrefs='2,6' idrefs='2,6' lastused='2011' name='sap' start='734171'>
+    <variant>SAP</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='6,10' idrefs='6,10' name='sap sd'>
+    <variant>SD</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='specification' start='734444'>
+    <variant>specification</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='typing' start='734171'>
+    <variant>Type</variant>
+  </canonskill>
+  <canonskill end='734444' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='upgrades' start='734171'>
+    <variant>upgrade</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

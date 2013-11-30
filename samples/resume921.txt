@@ -1,0 +1,144 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734597' xml:space='preserve'><contact><name><givenname>Crystal</givenname> <givenname>M</givenname>. <surname>Creek</surname></name>
+<address lat='45.0082' lon='93.3393' majorcity='MINNEAPOLIS' state='MN'><street>4533 Vera Cruz Ave. North</street>, <city>Crystal</city>, <state abbrev='MN'>MN</state> <postalcode>55422</postalcode></address>							Main: <phone>(763)536-7722</phone>
+<email>CCREEK@MAIL2WEB.COM</email>									
+Cell: <phone type='cell'>(763)238-6255</phone></contact>	
+                                    
+<summary><objective>Customer Service Representative</objective>
+<summary>Am a highly qualified professional with extensive experience, in customer service, sales, and management. My leadership and knowledge has allowed me to supervise and train employees. Able to handle a fast paced environment while problem solving quickly, with accuracy and efficiency. Assisted with the implementation process of SAP, and is a quick study when it comes to all software systems.</summary></summary>
+<skills>Expertise &amp; Skills Include:
+<skills>SAP, Great Plains, CRM	Microsoft Office, Excel, Word	Training/ Auditing	
+
+Supervising	Pricing/Contracts	Detail Oriented</skills></skills>	
+
+
+<experience end='present' start='731308'>Professional Experience
+<job end='present' id='1' pos='1' start='734140'><title>Account Manager</title>										<daterange><start days='734140' iso8601='2011-01-01'>January 2011</start>- <end days='present' iso8601='2012-04-02'>Present</end></daterange>	
+<employer>SterilMed, Inc</employer>.	
+
+<description>Account manager for a local Medical reprocessing company, supporting up to 6 sales reps and 20 on-site technicians with day to day requests within my territory. My duties included, managing approved device lists, entering PO's, credits, returns, and other daily tasks. This included processing 20-30 phone calls and 100-200 emails a day.  In one day, I was able to obtain over $200K in extra revenue by selling excess inventory.  
+Results:
+
+Was on my own in a matter of days, when told most people take three months to learn the position.
+Was able to obtain PO's from customers that sales reps were not able to obtain. 
+Raised our revenue over $200k my selling excess available inventory in a couple of hours.</description></job>
+
+
+<job end='734140' id='2' pos='2' sic='8071' sic2='80' start='733561'><title>Customer Service Manager</title>							 		<daterange><start days='733561' iso8601='2009-06-01'>June 2009</start>- <end days='734140' iso8601='2011-01-01'>January 2011</end></daterange>
+<employer>R4 Vascular, Inc</employer>.
+
+<description>Successfully supported 20 direct sales reps, and up to 60 distributor reps without assistance. Responsibilities included providing customer and sales support, financial reports, assisting with accounts receivables and payables, credits and any other projects as necessary.  This included the setup of customers, pricing contracts, and managing inventory sales samples. Assisted quality and regulatory with pulling reports and providing any information they needed for traceability and FDA submissions.
+
+
+Results:
+
+Salvaged all products and components that could be saved, and then recycled them into sales samples to save costs.
+Performed internal audits to ensure policies and procedures were being met.
+Assisted with developing policies and procedures for all aspects of the business, including customer service, sales support, inventory and quality control.</description></job>
+
+
+<job end='733500' id='3' naics='42345028' naics2='42' pos='3' sic='504704' sic2='50' start='731308'><title>Customer Service Representative II</title>                                           						<daterange><start days='731308' iso8601='2003-04-01'>April 2003</start>- <end days='733500' iso8601='2009-04-01'>April 2009</end></daterange>
+<employer>St. Jude Medical</employer>
+
+<description>Managed and overseen all duties of the department, while the manager was out on medical leave. Was recognized by the president of the company and given an award for this responsibility. Managed new product launches, including trials and limited releases. On an average day I would process 75 inbound calls, and 100 orders. Trained all employees within our department, and maintained training records. 
+Results:
+Acted as supervisor and received an award from the president acknowledging my outstanding and excellent work performance.
+Assisted in the SAP implementation of the company and continued to be used as a resource.
+Became the trainer of the department to ensure that my knowledge and expertise were passed through to others.</description></job></experience>
+
+
+
+
+
+
+
+
+
+
+
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='734140' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='accounts receivable' start='733561'>
+    <variant>accounts receivables</variant>
+  </canonskill>
+  <canonskill name='auditing'>
+    <variant>Auditing</variant>
+  </canonskill>
+  <canonskill end='734140' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='contract management' start='733561'>
+    <variant>Contracts</variant>
+    <variant>contracts</variant>
+  </canonskill>
+  <canonskill name='crm'>
+    <variant>CRM</variant>
+  </canonskill>
+  <canonskill end='734140' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='customer service' start='733561'>
+    <variant>customer service</variant>
+  </canonskill>
+  <canonskill name='detail oriented'>
+    <variant>Detail Oriented</variant>
+  </canonskill>
+  <canonskill end='734140' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='direct marketing' start='733561'>
+    <variant>direct sales</variant>
+  </canonskill>
+  <canonskill end='734140' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='financial' start='733561'>
+    <variant>financial</variant>
+  </canonskill>
+  <canonskill name='great plains software'>
+    <variant>Great Plains</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='inventory management' start='733561'>
+    <variant>inventory</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='management' start='733561'>
+    <variant>managing</variant>
+  </canonskill>
+  <canonskill name='microsoft excel'>
+    <variant>Excel</variant>
+  </canonskill>
+  <canonskill name='microsoft office'>
+    <variant>Microsoft Office</variant>
+  </canonskill>
+  <canonskill name='microsoft word'>
+    <variant>Word</variant>
+  </canonskill>
+  <canonskill end='734140' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='payables' start='733561'>
+    <variant>payables</variant>
+  </canonskill>
+  <canonskill end='734140' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='policy analysis' start='733561'>
+    <variant>policies</variant>
+  </canonskill>
+  <canonskill end='734140' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='pricing' start='733561'>
+    <variant>Pricing</variant>
+    <variant>pricing</variant>
+  </canonskill>
+  <canonskill end='734140' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='quality' start='733561'>
+    <variant>quality</variant>
+  </canonskill>
+  <canonskill end='734140' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='quality control' start='733561'>
+    <variant>quality control</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='sales' start='733561'>
+    <variant>selling</variant>
+    <variant>sales</variant>
+  </canonskill>
+  <canonskill end='734140' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='sales support' start='733561'>
+    <variant>sales support</variant>
+  </canonskill>
+  <canonskill end='733500' experience='1' expidrefs='3' idrefs='3' lastused='2009' name='sap' start='731308'>
+    <variant>SAP</variant>
+  </canonskill>
+  <canonskill end='733500' experience='1' expidrefs='3' idrefs='3' lastused='2009' name='supervisory skills' start='731308'>
+    <variant>supervisor</variant>
+    <variant>Supervising</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='telephone skills' start='734140'>
+    <variant>phone</variant>
+  </canonskill>
+  <canonskill end='733500' experience='1' expidrefs='3' idrefs='3' lastused='2009' name='training' start='731308'>
+    <variant>trainer</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

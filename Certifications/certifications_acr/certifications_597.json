@@ -1,0 +1,243 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Automobile Service Consultant", 
+            "Type": "Core", 
+            "Certification ID": "8615", 
+            "Certifying Organization": "National Institute for Automotive Service Excellence"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Customer Service Representative Certification", 
+            "Type": "Core", 
+            "Certification ID": "9330", 
+            "Certifying Organization": "International Society of Certified Electronics Technicians"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "HDI Desktop Support Technician", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "5486", 
+            "Certifying Organization": "HDI"
+        }, 
+        {
+            "Acronym": "HDI", 
+            "Certification Name": "HDI Support Center Director", 
+            "Type": "Advanced", 
+            "Certification ID": "5488", 
+            "Certifying Organization": "HDI"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "ICMI Professional Certification", 
+            "Type": "Core", 
+            "Certification ID": "8776", 
+            "Certifying Organization": "International Customer Management Institute"
+        }, 
+        {
+            "Acronym": "ACSR", 
+            "Certification Name": "Accredited Customer Service Representative", 
+            "Type": "Core", 
+            "Certification ID": "8550", 
+            "Certifying Organization": "The Institutes"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Automobile Technician: Service Consultant", 
+            "Type": "Advanced", 
+            "Certification ID": "3685", 
+            "Certifying Organization": "National Institute for Automotive Service Excellence"
+        }, 
+        {
+            "Acronym": "CCSP", 
+            "Certification Name": "Certified Customer Service Professional", 
+            "Type": "Core", 
+            "Certification ID": "8953", 
+            "Certifying Organization": "International Customer Service Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Oracle Fusion Customer Relationship Management 11g Sales Certified Implementation Specialist", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8489", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "HDI", 
+            "Certification Name": "HDI Certified Customer Service Representative", 
+            "Type": "Core", 
+            "Certification ID": "5485", 
+            "Certifying Organization": "HDI"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Service Manager", 
+            "Type": "Core", 
+            "Certification ID": "3680", 
+            "Certifying Organization": "ETA International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "BMC Certified Operator: BMC BladeLogic Server Automation 8.1", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "5654", 
+            "Certifying Organization": "BMC Software, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Solution Designer - Sterling Order Management V9.2", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9313", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "CISR", 
+            "Certification Name": "Certified Insurance Service Representatives", 
+            "Type": "Core", 
+            "Certification ID": "3513", 
+            "Certifying Organization": "The National Alliance for Insurance Education and Research"
+        }, 
+        {
+            "Acronym": "HDI", 
+            "Certification Name": "HDI Desktop Support Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "7934", 
+            "Certifying Organization": "HDI"
+        }, 
+        {
+            "Acronym": "HDI", 
+            "Certification Name": "HDI Certified Support Center Team Lead", 
+            "Type": "Core", 
+            "Certification ID": "5487", 
+            "Certifying Organization": "HDI"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "National Professional Certification in Sales", 
+            "Type": "Core", 
+            "Certification ID": "5264", 
+            "Certifying Organization": "National Retail Federation Foundation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Microsoft Dynamics CRM 2011 Customization and Configuration", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7538", 
+            "Certifying Organization": "Microsoft Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Microsoft Dynamics CRM 2011 Applications", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7536", 
+            "Certifying Organization": "Microsoft Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Microsoft Dynamics CRM 4.0 Applications", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7537", 
+            "Certifying Organization": "Microsoft Corporation"
+        }, 
+        {
+            "Acronym": "PPCSM", 
+            "Certification Name": "Public Power Customer Service Manager", 
+            "Type": "Core", 
+            "Certification ID": "6195", 
+            "Certifying Organization": "American Public Power Association"
+        }, 
+        {
+            "Acronym": "CCSR", 
+            "Certification Name": "Certified Customer Service Representative", 
+            "Type": "Core", 
+            "Certification ID": "3863", 
+            "Certifying Organization": "Institute of Certified Bankers"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Customer Service Certification Level II", 
+            "Type": "Advanced", 
+            "Certification ID": "8954", 
+            "Certifying Organization": "International Customer Service Association"
+        }, 
+        {
+            "Acronym": "CSM", 
+            "Certification Name": "Certified Service Manager", 
+            "Type": "Core", 
+            "Certification ID": "0512", 
+            "Certifying Organization": "National Electronics Service Dealers Association, Inc."
+        }, 
+        {
+            "Acronym": "HDI", 
+            "Certification Name": "HDI Support Center Analyst", 
+            "Type": "Core", 
+            "Certification ID": "3429", 
+            "Certifying Organization": "HDI"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Oracle Certified Expert, Siebel Customer Relationship Management (CRM) 8 Business Analyst", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8467", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Consumer Specialist", 
+            "Type": "Core", 
+            "Certification ID": "6949", 
+            "Certifying Organization": "Professional Service Association"
+        }, 
+        {
+            "Acronym": "KCS", 
+            "Certification Name": "Knowledge Management Foundations: Knowledge-Centered Support Principles", 
+            "Type": "Advanced", 
+            "Certification ID": "5489", 
+            "Certifying Organization": "HDI"
+        }, 
+        {
+            "Acronym": "CSS", 
+            "Certification Name": "Certified Customer Service Specialist", 
+            "Type": "Core", 
+            "Certification ID": "0520", 
+            "Certifying Organization": "ETA International"
+        }, 
+        {
+            "Acronym": "HDI", 
+            "Certification Name": "HDI Support Center Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "1742", 
+            "Certifying Organization": "HDI"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Route Driver Certification", 
+            "Type": "Core", 
+            "Certification ID": "8593", 
+            "Certifying Organization": "National Automatic Merchandising Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Oracle CRM On Demand Certified Implementation Specialist", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8468", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "CAPS", 
+            "Certification Name": "Certified Aging-In-Place Specialist", 
+            "Type": "Core", 
+            "Certification ID": "3794", 
+            "Certifying Organization": "National Association of Home Builders"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "National Professional Certification in Customer Service", 
+            "Type": "Core", 
+            "Certification ID": "5263", 
+            "Certifying Organization": "National Retail Federation Foundation"
+        }
+    ], 
+    "onet": "43405100"
+}

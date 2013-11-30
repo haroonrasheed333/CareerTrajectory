@@ -1,0 +1,320 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CNE", 
+            "Certification Name": "Certified Nurse Educator", 
+            "Type": "Advanced", 
+            "Certification ID": "6094", 
+            "Certifying Organization": "National League for Nursing"
+        }, 
+        {
+            "Acronym": "CHE", 
+            "Certification Name": "Certified Hospitality Educator", 
+            "Type": "Advanced", 
+            "Certification ID": "3063", 
+            "Certifying Organization": "American Hotel and Lodging Association Educational Institute"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IPC-7721& IPC-7711 Rework, Repair, & Modification of Printed Boards & Electronic Assemblies", 
+            "Type": "Advanced", 
+            "Certification ID": "3481", 
+            "Certifying Organization": "Association Connecting Electronics Industries"
+        }, 
+        {
+            "Acronym": "CSSM", 
+            "Certification Name": "Construction Site Safety Master Instructor", 
+            "Type": "Advanced", 
+            "Certification ID": "9063", 
+            "Certifying Organization": "National Center for Construction Education and Research"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Master Trainer", 
+            "Type": "Advanced", 
+            "Certification ID": "9060", 
+            "Certifying Organization": "National Center for Construction Education and Research"
+        }, 
+        {
+            "Acronym": "CWE", 
+            "Certification Name": "Certified Welding Educator", 
+            "Type": "Core", 
+            "Certification ID": "0354", 
+            "Certifying Organization": "American Welding Society"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "OJT Senior Trainer", 
+            "Type": "Advanced", 
+            "Certification ID": "9070", 
+            "Certifying Organization": "National Institute for Metalworking Skills "
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Novell Academic Instructor", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "5152", 
+            "Certifying Organization": "Novell, Inc. - Education"
+        }, 
+        {
+            "Acronym": "CKE", 
+            "Certification Name": "Certified Kitchen Educator", 
+            "Type": "Core", 
+            "Certification ID": "5719", 
+            "Certifying Organization": "National Kitchen & Bath Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Fluid Power Accredited Instructor", 
+            "Type": "Advanced", 
+            "Certification ID": "2604", 
+            "Certifying Organization": "International Fluid Power Society"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Green Manufacturing Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "8980", 
+            "Certifying Organization": "Society for Manufacturing Engineers"
+        }, 
+        {
+            "Acronym": "ICP", 
+            "Certification Name": "Instructor Certification Program", 
+            "Type": "Advanced", 
+            "Certification ID": "7335", 
+            "Certifying Organization": "International Masonry Institute"
+        }, 
+        {
+            "Acronym": "CTT+", 
+            "Certification Name": "Certified Technical Trainer Certification", 
+            "Type": "Core", 
+            "Certification ID": "2484", 
+            "Certifying Organization": "Computing Technology Industry Association (CompTIA)"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IPC-A-600 Acceptability of Printed Circuit Boards", 
+            "Type": "Core", 
+            "Certification ID": "2873", 
+            "Certifying Organization": "Association Connecting Electronics Industries"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "National Board Certification - Adolescence and Young Adulthood/English Language Arts", 
+            "Type": "Specialty", 
+            "Certification ID": "1307", 
+            "Certifying Organization": "National Board for Professional Teaching Standards"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Emergency Medical Dispatcher Instructor Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "9453", 
+            "Certifying Organization": "International Academies of Emergency Dispatch"
+        }, 
+        {
+            "Acronym": "CCE", 
+            "Certification Name": "Certified Culinary Educator", 
+            "Type": "Specialty", 
+            "Certification ID": "1098", 
+            "Certifying Organization": "American Culinary Federation, Inc."
+        }, 
+        {
+            "Acronym": "CSSO", 
+            "Certification Name": "Construction Site Safety Orientation", 
+            "Type": "Core", 
+            "Certification ID": "9066", 
+            "Certifying Organization": "National Center for Construction Education and Research"
+        }, 
+        {
+            "Acronym": "APP", 
+            "Certification Name": "Apprentice", 
+            "Type": "Core", 
+            "Certification ID": "6837", 
+            "Certifying Organization": "ETA International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Emergency Fire Dispatcher Instructor Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "9454", 
+            "Certifying Organization": "International Academies of Emergency Dispatch"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Emergency Police Dispatcher Instructor Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "9455", 
+            "Certifying Organization": "International Academies of Emergency Dispatch"
+        }, 
+        {
+            "Acronym": "CHI", 
+            "Certification Name": "Certified Hospitality Instructor", 
+            "Type": "Advanced", 
+            "Certification ID": "8767", 
+            "Certifying Organization": "American Hotel and Lodging Association Educational Institute"
+        }, 
+        {
+            "Acronym": "CDT", 
+            "Certification Name": "Certified Driver Trainer", 
+            "Type": "Core", 
+            "Certification ID": "4003", 
+            "Certifying Organization": "North American Transportation Management Institute"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "NSPF Instructor", 
+            "Type": "Core", 
+            "Certification ID": "1349", 
+            "Certifying Organization": "National Swimming Pool Foundation"
+        }, 
+        {
+            "Acronym": "CTM", 
+            "Certification Name": "Certified Technology Manager", 
+            "Type": "Core", 
+            "Certification ID": "0859", 
+            "Certifying Organization": "Association of Technology, Management, and Applied Engineering"
+        }, 
+        {
+            "Acronym": "CPCT", 
+            "Certification Name": "Certified Professional Collector Trainer", 
+            "Type": "Advanced", 
+            "Certification ID": "9202", 
+            "Certifying Organization": "Drug & Alcohol Testing Industry Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IPC/WHMA-A-620 Requirements & Acceptance for Cable & Wire Harness Assemblies", 
+            "Type": "Advanced", 
+            "Certification ID": "3479", 
+            "Certifying Organization": "Association Connecting Electronics Industries"
+        }, 
+        {
+            "Acronym": "CBE", 
+            "Certification Name": "Certified Bathroom Educator", 
+            "Type": "Core", 
+            "Certification ID": "5720", 
+            "Certifying Organization": "National Kitchen & Bath Association"
+        }, 
+        {
+            "Acronym": "CMHE", 
+            "Certification Name": "Certified Master HVACR Educator", 
+            "Type": "Advanced", 
+            "Certification ID": "5519", 
+            "Certifying Organization": "HVAC Excellence "
+        }, 
+        {
+            "Acronym": "FIT", 
+            "Certification Name": "Flagger Instructor Training", 
+            "Type": "Core", 
+            "Certification ID": "7354", 
+            "Certifying Organization": "American Traffic Safety Services Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IPC J-STD-001 Requirements for Soldered Electrical & Electronic Assemblies", 
+            "Type": "Core", 
+            "Certification ID": "2872", 
+            "Certifying Organization": "Association Connecting Electronics Industries"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Craft Instructor", 
+            "Type": "Core", 
+            "Certification ID": "9061", 
+            "Certifying Organization": "National Center for Construction Education and Research"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Craft Instructor", 
+            "Type": "Advanced", 
+            "Certification ID": "9061", 
+            "Certifying Organization": "National Center for Construction Education and Research"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Master Craft/Technician Instructor", 
+            "Type": "Advanced", 
+            "Certification ID": "9062", 
+            "Certifying Organization": "National Center for Construction Education and Research"
+        }, 
+        {
+            "Acronym": "CFCS-HNFS", 
+            "Certification Name": "Certified in Hospitality, Nutrition, and Food Science", 
+            "Type": "Core", 
+            "Certification ID": "8151", 
+            "Certifying Organization": "American Association of Family and Consumer Sciences"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "OJT Trainer", 
+            "Type": "Core", 
+            "Certification ID": "9069", 
+            "Certifying Organization": "National Institute for Metalworking Skills "
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "OJT Training Coordinator", 
+            "Type": "Advanced", 
+            "Certification ID": "9071", 
+            "Certifying Organization": "National Institute for Metalworking Skills "
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Trainer", 
+            "Type": "Advanced", 
+            "Certification ID": "7330", 
+            "Certifying Organization": "Vinyl Siding Institute"
+        }, 
+        {
+            "Acronym": "CSST", 
+            "Certification Name": "Construction Site Safety Technician", 
+            "Type": "Advanced", 
+            "Certification ID": "9064", 
+            "Certifying Organization": "National Center for Construction Education and Research"
+        }, 
+        {
+            "Acronym": "GDTP", 
+            "Certification Name": "Geometric Dimensioning & Tolerancing Professional - Technologist", 
+            "Type": "Advanced", 
+            "Certification ID": "2153", 
+            "Certifying Organization": "American Society of Mechanical Engineers International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Emergency Telecommunicator Instructor Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "9456", 
+            "Certifying Organization": "International Academies of Emergency Dispatch"
+        }, 
+        {
+            "Acronym": "CSSS", 
+            "Certification Name": "Construction Site Safety Supervisor", 
+            "Type": "Advanced", 
+            "Certification ID": "9065", 
+            "Certifying Organization": "National Center for Construction Education and Research"
+        }, 
+        {
+            "Acronym": "CPTDI", 
+            "Certification Name": "Pupil Transportation Driver Instructor", 
+            "Type": "Advanced", 
+            "Certification ID": "2514", 
+            "Certifying Organization": "National Association for Pupil Transportation"
+        }, 
+        {
+            "Acronym": "CSTM", 
+            "Certification Name": "Certified Senior Technology Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "0860", 
+            "Certifying Organization": "Association of Technology, Management, and Applied Engineering"
+        }, 
+        {
+            "Acronym": "CFCS", 
+            "Certification Name": "Certified in Family and Consumer Sciences", 
+            "Type": "Advanced", 
+            "Certification ID": "1319", 
+            "Certifying Organization": "American Association of Family and Consumer Sciences"
+        }
+    ], 
+    "onet": "25119400"
+}

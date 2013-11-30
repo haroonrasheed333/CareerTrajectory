@@ -1,0 +1,191 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734594' xml:space='preserve'><contact><name><givenname>RAY</givenname> <surname>NIEVES</surname></name>
+<address lat='40.8494' lon='73.9362' majorcity='NEW YORK' state='NY'><street>875 West 181 Street - Apt 4K</street> - <city>New York</city>, <state abbrev='NY'>NY</state> <postalcode>10033</postalcode></address> - <phone>(646) 248-9247</phone> - <email>rnieves1000@gmail.com</email></contact>
+
+<summary>SUMMARY:
+
+<objective>Seasoned client support specialist and creative self-starter with outstanding technical and communication skills.</objective></summary>
+
+<skills>SKILLS:
+
+<skills>Superb interpersonal skills - able to diffuse difficult customer situations with tact and ease, resolve complex problems and build productive relationships with peers and clients.
+Outstanding written and spoken communication skills.
+Strong Windows and Macintosh hardware and software technical skills.</skills>
+Bilingual: <languages>Fluent in English and Spanish.</languages></skills> 
+
+<experience end='present' start='727656'>EXPERIENCE:
+
+<job end='present' id='1' naics='51521001' naics2='51' pos='1' sic='484101' sic2='48' start='734321'><employer>Time Warner Cable</employer> - <daterange><start days='734321' iso8601='2011-07-01'>July 2011</start> - <end days='present' iso8601='2012-03-30'>Present</end></daterange>
+<title>Customer Service and Sales Specialist</title>
+
+<description>Provide quality customer service to cable television, digital phone and Internet customers.
+Perform account activation, maintenance, billing, and problem solving.  
+Exceed defined sales objectives and goals while selling services and product features.
+Schedule service installations, upgrades, downgrades, maintaining accurate records of transactions for data capture and measurement.</description></job>
+
+<job end='734291' id='2' pos='2' start='728721'><employer>SNX</employer> - <daterange><start days='728721' iso8601='1996-03-01'>March 1996</start> - <end days='734291' iso8601='2011-06-01'>June 2011</end></daterange>
+<title>Technical Support Specialist / Help Desk</title>
+
+<description>Managed and resolved complex customer issues for SNX bar code software products via phone and email for Fortune 500 clients, including Barnes &amp; Noble, NASA, American Express, Walt Disney, Sega and more. 
+Responsible for retention of sales, with a proven track record of performance.
+Created technical support and tutorial documentation for all SNX software products.
+Partnered with senior-level personnel to troubleshoot issues and provide creative business solutions.
+Collaborated with Product and Engineering departments to ensure release readiness and customer based product development.
+Provided tier 1 Windows XP and Macintosh OS X help desk support. Installed and maintained desktops, network printers, Polycom video conference, A/V equipment, Telcom using Avaya phone system. Lotus Notes, Microsoft Office, and Adobe Creative Suite.</description></job>
+
+<job end='728721' id='3' naics='52421001' naics2='52' pos='3' sic='809907' sic2='80' start='727656'><employer>OXFORD HEALTH PLANS</employer> - <daterange><start days='727656' iso8601='1993-04-01'>April 1993</start> - <end days='728721' iso8601='1996-03-01'>March 1996</end></daterange>
+<title>Education and Outreach Associate</title>
+
+<description>Provided case management, health plan education and problem resolution for members transitioning from Medicaid to managed care.
+Awarded &quot;Best Communicator&quot; in Education and Outreach.
+Provided pre-natal and asthma case management for new and existing members.
+Assisted in training of education and outreach new hires.</description></job></experience>
+
+
+
+<education>Education: 
+<school id='4'><institution>University of the State of New York - G.E.D</institution>
+<courses>CompTIA A+ Certification 
+Notary Public, State of New York</courses></school></education>
+<statements>Volunteer: <activities>New York Cares, since 2002: Computer Tutor, Citizenship Tutor.</activities></statements>
+
+
+
+
+
+
+ 
+
+ 
+
+
+</resume>
+
+<skillrollup version='1'>
+  <canonskill education='1' eduidrefs='4' idrefs='4' name='a + certified'>
+    <variant>A+ Certification</variant>
+  </canonskill>
+  <canonskill end='734291' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='adobe' start='728721'>
+    <variant>Adobe</variant>
+  </canonskill>
+  <canonskill end='734291' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='avaya' start='728721'>
+    <variant>Avaya</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='billing' start='734321'>
+    <variant>billing</variant>
+  </canonskill>
+  <canonskill end='734291' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='business solutions' start='728721'>
+    <variant>business solutions</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='cabling' start='734321'>
+    <variant>cable</variant>
+  </canonskill>
+  <canonskill name='communication skills'>
+    <variant>communication skills</variant>
+    <variant>interpersonal skills</variant>
+  </canonskill>
+  <canonskill name='computer hardware'>
+    <variant>hardware</variant>
+  </canonskill>
+  <canonskill end='734291' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='customer relations' start='728721'>
+    <variant>clients</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='customer service' start='734321'>
+    <variant>customer service</variant>
+  </canonskill>
+  <canonskill end='734291' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='desktop pc' start='728721'>
+    <variant>desktops</variant>
+  </canonskill>
+  <canonskill end='734291' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='development' start='728721'>
+    <variant>product development</variant>
+  </canonskill>
+  <canonskill end='734291' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='documentation' start='728721'>
+    <variant>documentation</variant>
+  </canonskill>
+  <canonskill end='734291' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='email' start='728721'>
+    <variant>email</variant>
+  </canonskill>
+  <canonskill name='english'>
+    <variant>Fluent in English</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='features' start='734321'>
+    <variant>features</variant>
+  </canonskill>
+  <canonskill end='734291' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='help desk support' start='728721'>
+    <variant>help desk support</variant>
+  </canonskill>
+  <canonskill end='734291' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='lotus notes' start='728721'>
+    <variant>Lotus Notes</variant>
+  </canonskill>
+  <canonskill name='macintosh'>
+    <variant>Macintosh</variant>
+  </canonskill>
+  <canonskill end='734291' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='macintosh os' start='728721'>
+    <variant>Macintosh OS</variant>
+  </canonskill>
+  <canonskill end='734291' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='microsoft office' start='728721'>
+    <variant>Microsoft Office</variant>
+  </canonskill>
+  <canonskill name='microsoft windows'>
+    <variant>Windows</variant>
+  </canonskill>
+  <canonskill end='734291' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='microsoft windows xp' start='728721'>
+    <variant>Windows XP</variant>
+  </canonskill>
+  <canonskill end='728721' experience='1' expidrefs='3' idrefs='3' lastused='1996' name='netscape communicator' start='727656'>
+    <variant>Communicator</variant>
+  </canonskill>
+  <canonskill end='734291' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='network printers' start='728721'>
+    <variant>network printers</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='4' idrefs='4' name='notary public'>
+    <variant>Notary Public</variant>
+  </canonskill>
+  <canonskill end='734291' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='personnel' start='728721'>
+    <variant>personnel</variant>
+  </canonskill>
+  <canonskill end='734291' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='phone systems' start='728721'>
+    <variant>phone system</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,3' idrefs='1,3' lastused='2012' name='problem solving' start='727656'>
+    <variant>problem solving</variant>
+    <variant>problem resolution</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='quality' start='734321'>
+    <variant>quality</variant>
+  </canonskill>
+  <canonskill end='734291' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='quark xpress' start='728721'>
+    <variant>Express</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='sales' start='728721'>
+    <variant>selling</variant>
+    <variant>sales</variant>
+  </canonskill>
+  <canonskill name='spanish'>
+    <variant>Spanish</variant>
+  </canonskill>
+  <canonskill end='734291' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='technical support' start='728721'>
+    <variant>technical support</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='telephone skills' start='728721'>
+    <variant>phone</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='television' start='734321'>
+    <variant>television</variant>
+  </canonskill>
+  <canonskill end='734291' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='troubleshooting' start='728721'>
+    <variant>troubleshoot</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='upgrades' start='734321'>
+    <variant>upgrades</variant>
+  </canonskill>
+  <canonskill end='734291' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='video' start='728721'>
+    <variant>video</variant>
+  </canonskill>
+  <canonskill name='writing'>
+    <variant>written</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

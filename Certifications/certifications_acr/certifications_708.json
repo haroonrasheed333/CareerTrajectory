@@ -1,0 +1,110 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Parts Specialist - Automobile Parts Specialist  P2", 
+            "Type": "Specialty", 
+            "Certification ID": "7740", 
+            "Certifying Organization": "National Institute for Automotive Service Excellence"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Automobile Technician: Automatic Transmission/Transaxle", 
+            "Type": "Specialty", 
+            "Certification ID": "0027", 
+            "Certifying Organization": "National Institute for Automotive Service Excellence"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Automobile Technician: Manual Drive Train and Axles", 
+            "Type": "Specialty", 
+            "Certification ID": "0028", 
+            "Certifying Organization": "National Institute for Automotive Service Excellence"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Master Medium/Heavy Truck Specialist", 
+            "Type": "Advanced", 
+            "Certification ID": "5231", 
+            "Certifying Organization": "National Institute for Automotive Service Excellence"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Master Transit Bus Technician", 
+            "Type": "Advanced", 
+            "Certification ID": "5235", 
+            "Certifying Organization": "National Institute for Automotive Service Excellence"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Fluid Power Master Mechanic", 
+            "Type": "Advanced", 
+            "Certification ID": "2608", 
+            "Certifying Organization": "International Fluid Power Society"
+        }, 
+        {
+            "Acronym": "CFPMHM", 
+            "Certification Name": "Fluid Power Mobile Hydraulic Mechanic", 
+            "Type": "Advanced", 
+            "Certification ID": "0893", 
+            "Certifying Organization": "International Fluid Power Society"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Master Engine Machinist", 
+            "Type": "Advanced", 
+            "Certification ID": "0062", 
+            "Certifying Organization": "National Institute for Automotive Service Excellence"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Master Installation Technician", 
+            "Type": "Advanced", 
+            "Certification ID": "8788", 
+            "Certifying Organization": "Consumer Electronics Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Automobile Advanced Engine Performance Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "0043", 
+            "Certifying Organization": "National Institute for Automotive Service Excellence"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Medium/Heavy Truck Dealership Parts Specialist", 
+            "Type": "Advanced", 
+            "Certification ID": "5226", 
+            "Certifying Organization": "National Institute for Automotive Service Excellence"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Advanced Engine Performance Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "7738", 
+            "Certifying Organization": "National Institute for Automotive Service Excellence"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "School Bus Technician: Drive Train", 
+            "Type": "Specialty", 
+            "Certification ID": "5253", 
+            "Certifying Organization": "National Institute for Automotive Service Excellence"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Master Automobile/Light Truck Technician", 
+            "Type": "Advanced", 
+            "Certification ID": "5223", 
+            "Certifying Organization": "National Institute for Automotive Service Excellence"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Rebuilder Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "7336", 
+            "Certifying Organization": "Automotive Transmission Rebuilders Association"
+        }
+    ], 
+    "onet": "49302301"
+}

@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734596' xml:space='preserve'>                                          <contact><name><givenname>KEELAN</givenname> <givenname>ALISON</givenname> <surname>MURPHY</surname></name></contact>
+<education>Education
+<school id='8'><institution>Marquette University</institution>, <address lat='43.1243' lon='-87.9454' majorcity='MILWAUKEE' state='WI'><city>Milwaukee</city>, <state abbrev='WI'>WI</state></address>                                                                          <completiondate>May 2014</completiondate>
+<degree level='16'>Bachelor of Science Degree</degree> in <major code='4201'>Business Administration</major>
+Majors: <major code='4304 4501'>Marketing &amp; Information Technologies; Advertising</major>
+GPA: <gpa max='4' value='3.85'>3.85/4.00</gpa></school></education>
+
+<experience end='present' start='732891'>Professional Experience                                                                      <job end='present' id='1' pos='1' sic='731101' sic2='73' start='734474'><daterange><start days='734474' iso8601='2011-12-01'>December 2011</start> ­ <end days='present' iso8601='2012-04-01'>Present</end></daterange>
+<employer>Ellingsen Brady Advertising</employer>, <address><city>Milwaukee</city>, <state abbrev='WI'>WI</state></address>
+<title>Public Relations Intern</title>
+    <description>· Actively researched and compiled media lists using CisionPoint PR Software
+    · Wrote, edited, and proofed press releases, advisories, ad copy, etc.
+    · Pitched and tracked public relations placements
+    · Completed account support projects and general office duties</description></job>
+
+<job end='734352' id='2' pos='4' start='734291'><employer>EmpowerHR</employer>, <address><city>Arlington Heights</city>, <state abbrev='IL'>IL</state></address>                                                          <daterange><start days='734291' iso8601='2011-06-01'>June 2011</start> ­ <end days='734352' iso8601='2011-08-01'>August 2011</end></daterange>
+<title>Human Resources Intern</title>
+  <description>· Implemented HR Pyramid websites for over 30 clients and created personalized new hire binders for each
+      company
+  · Balanced multiple assignments, given various deadlines and differentiating procedures
+  · Shadowed HR consultants and studied each facet of the HR industry</description></job>
+
+Other Experience
+Harry's of Arlington, <job end='734352' id='3' pos='5' start='734260'><address><city>Arlington Heights</city>, <state abbrev='IL'>IL</state></address>                                                   <daterange><start days='734260' iso8601='2011-05-01'>May 2011</start> ­ <end days='734352' iso8601='2011-08-01'>August 2011</end></daterange>
+<title>Summer Server</title></job>
+<job end='734260' id='4' naics='61131009' naics2='61' pos='6' sic='822101' sic2='82' start='734140'><employer>Manresa for Faculty, Marquette University</employer>                                                    <daterange><start days='734140' iso8601='2011-01-01'>January 2011</start> ­ <end days='734260' iso8601='2011-05-01'>May 2011</end></daterange>
+<title>Office Assistant</title></job>
+<job end='733865' id='5' pos='7' start='732891'><employer>Little Village Playplace</employer>, <address><city>Arlington Heights</city>, <state abbrev='IL'>IL</state></address>                                             <daterange><start days='732891' iso8601='2007-08-01'>August 2007</start> ­ <end days='733865' iso8601='2010-04-01'>April 2010</end></daterange>
+<title>Playplace Supervisor</title></job>
+
+Activities
+<job end='present' id='6' pos='3' start='734140'><employer>Marquette Go-Getters Business Club</employer>                                                             <daterange><start days='734140' iso8601='2011-01-01'>January 2011</start> ­ <end days='present' iso8601='2012-04-01'>Present</end></daterange>
+<title>Executive Board Director of Communication</title>
+   · <description>Designed and implemented a new quarterly newsletter
+   · Managed all social media accounts including Twitter, Facebook, and LinkedIn
+   · Composed weekly emails to the 50 members describing upcoming speakers and events</description></job>
+
+<job end='present' id='7' pos='2' sic='581304' sic2='58' start='734352'><employer>MARDI GRAS Service Group</employer>                                                                        <daterange><start days='734352' iso8601='2011-08-01'>August 2011</start> ­ <end days='present' iso8601='2012-04-01'>Present</end></daterange>
+<description>Event Coordination Committee
+   · Organized on-campus fundraisers for service trips to New Orleans, LA
+
+Sigma Kappa Sorority                                                                       January 2011 ­ Present
+Public Relations Committee; Social Committee
+   · Created web-based and campus-wide displays to advertise for upcoming philanthropic and social events
+   · Developed brand management strategies for the promotion of the sorority</description></job></experience>
+
+<education><school id='9'><institution>W.M.U.R. Radio, Marquette University</institution>                                                          <daterange><start days='733987' iso8601='2010-08-01'>August 2010</start> ­ <end days='734260' iso8601='2011-05-01'>May 2011</end></daterange>
+<description>Weekly News Anchor
+   · Debated prominent issues while respecting the opinions of others
+   · Condensed large amounts of news material with clear and effective verbal delivery
+
+Service
+   · Week-long MARDI GRAS New Orleans Service Trips                         (January 2011, August 2011, January 2012)
+   · Hunger Clean-up                                                                                  April 2011, 2012
+   · Operation Blessing Tornado Relief</description>, <address><city>Joplin</city>, <state abbrev='MO'>MO</state></address>                                                          <completiondate days='734291' iso8601='2011-06-01'>June 2011</completiondate>
+
+<description>Honors
+  · State Champion, IHSA Copy Writing</description>
+  · College of Business Administration <honors>Dean's List
+  · Sigma Kappa Coat of Arms Award of Excellence in Scholarship
+  · Marquette Ignatius-Magis Scholarship</honors></school></education>
+
+<contact><email>Keelan.murphy@marquette.edu</email>                                                                         <address><street>1520 E. Campbell St.</street></address>
+Cell: <phone type='cell'>(847) 970-1243</phone>                                                                        <address><city>Arlington Heights</city>, <state abbrev='IL'>IL</state> <postalcode>60004</postalcode></address></contact>
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='advertising copywriting' start='734474'>
+    <variant>ad copy</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='7' idrefs='7' lastused='2012' name='brand management' start='734352'>
+    <variant>brand management</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='9' idrefs='9' name='copy writing'>
+    <variant>Copy Writing</variant>
+  </canonskill>
+  <canonskill end='734352' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='customer relations' start='734291'>
+    <variant>clients</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='9' idrefs='9' name='delivery'>
+    <variant>delivery</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='7' idrefs='7' lastused='2012' name='event management' start='734352'>
+    <variant>Event Coordination</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='general office duties' start='734474'>
+    <variant>general office duties</variant>
+  </canonskill>
+  <canonskill end='734352' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='human resources' start='734291'>
+    <variant>HR</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='6' idrefs='6' lastused='2012' name='newsletters' start='734140'>
+    <variant>newsletter</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='press releases' start='734474'>
+    <variant>press releases</variant>
+    <variant>PR</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='7' idrefs='7' lastused='2012' name='promotional materials' start='734352'>
+    <variant>promotion</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,7' idrefs='1,7' lastused='2012' name='public relations' start='734352'>
+    <variant>Public Relations</variant>
+    <variant>public relations</variant>
+  </canonskill>
+  <canonskill end='734352' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='pyramid' start='734291'>
+    <variant>Pyramid</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='7' idrefs='7' lastused='2012' name='sigma' start='734352'>
+    <variant>Sigma</variant>
+  </canonskill>
+  <canonskill end='734352' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='web site production' start='734291'>
+    <variant>websites</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

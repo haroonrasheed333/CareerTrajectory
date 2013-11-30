@@ -1,0 +1,26 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "Diplomate", 
+            "Certification Name": "Certified Vocational Expert (Diplomate)", 
+            "Type": "Advanced", 
+            "Certification ID": "1415", 
+            "Certifying Organization": "American Board of Vocational Experts"
+        }, 
+        {
+            "Acronym": "Fellow", 
+            "Certification Name": "Certified Vocational Expert (Fellow)", 
+            "Type": "Advanced", 
+            "Certification ID": "1414", 
+            "Certifying Organization": "American Board of Vocational Experts"
+        }, 
+        {
+            "Acronym": "BCAB", 
+            "Certification Name": "Board Certified Behavior Analyst", 
+            "Type": "Advanced", 
+            "Certification ID": "5983", 
+            "Certifying Organization": "Behavior Analyst Certification Board"
+        }
+    ], 
+    "onet": "19303900"
+}

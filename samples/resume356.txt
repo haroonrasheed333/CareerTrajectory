@@ -1,0 +1,215 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734593' xml:space='preserve'>                                             <contact><name><givenname>SAGAR</givenname> <surname>SHAH</surname></name>
+<address><street>2301 E St NW, A914</street></address>                                                                       <email>sagushah07@gmail.com</email>
+<address lat='38.9016' lon='77.0508' majorcity='WASHINGTON' state='DC'><city>Washington</city>, <state abbrev='DC'>DC</state> <postalcode>20037</postalcode></address>                                                                     <phone>(202) 247- 1070</phone></contact>
+
+<education>EDUCATION
+        <school id='8'><degree level='18'>Masters of Science</degree> in <major code='0402'>Computer Science</major>                                           <completiondate>May 2013</completiondate> (Expected)
+        <institution>The George Washington University</institution>, <address><state abbrev='WA'>Washington</state>, <state abbrev='DC'>DC</state></address></school>
+
+        <school id='9'><degree level='16'>Bachelors of Science</degree> in <major code='1699'>Information Technology</major>                                   <completiondate days='733500' iso8601='2009-04-01'>April 2009</completiondate>
+        <institution>University of Mumbai</institution>, <address><city>Mumbai</city>, <country iso3='IND'>India</country></address>
+
+<courses>COURSE WORK
+Computer Networks, Data Centers &amp; Cloud Computing, Design and Analysis of Algorithms, Computer Systems
+Architecture, Computer Security.</courses></school></education>
+
+<skills>TECHNICAL SKILLS
+Programming Languages                           : <skills>C, C++, Java</skills>
+Web Technologies                                : <skills>HTML, XML, CSS</skills>
+Databases                                       : <skills>MySQL, MS Access
+IDE                                             : Netbeans, Eclipse
+Cloud                                           : Amazon EC2, Amazon S3
+Operating Systems                               : Windows XP, 7, Linux(Ubuntu)</skills></skills>
+
+<experience end='present' start='733165'>PROFESSIONAL EXPERIENCE
+<job end='734321' id='1' pos='2' sic='653108' sic2='65' start='733987'><employer>Mavin Technologies</employer>, <address><city>Mumbai</city>, <country iso3='IND'>India</country></address>
+<daterange><start days='733987' iso8601='2010-08-01'>Aug 2010</start>- <end days='734321' iso8601='2011-07-01'>July 2011</end></daterange>
+Designation : <title>Software Developer</title>
+    <description>Creation of UI pages using Java Server Pages (JSP), JavaScript and HTML.
+    Enhancing the existing websites by addition of features.
+    Implementation of Server Side Servlets and required database connectivity using JDBC.</description></job>
+
+<job end='733956' id='2' pos='3' sic='781902' sic2='78' start='733530'><employer>Allied Digital Services Limited</employer>, <address><city>Mumbai</city>, <country iso3='IND'>India</country></address>
+<daterange><start days='733530' iso8601='2009-05-01'>May 2009</start>- <end days='733956' iso8601='2010-07-01'>July 2010</end></daterange>
+Designation : <title>Software Tester</title>
+     <description>Designing &amp; Maintaining Test cases.
+     Carried out Black ­ Box testing like UI testing, Integration testing, Negative value Testing.
+     Carried out White ­ Box testing like LCSAJ.
+     Load testing done via testing tool SiteBlaster viz. 3.0 for keeping track of some user statistics.</description></job>
+
+ACADEMIC PROJECTS
+<job id='3' naics='61131008' naics2='61' sic='822101' sic2='82'><employer>The George Washington University</employer>, Washington, DC
+
+<title>Improvising Xen Hypervisor</title> (Cloud Computing)                                              <daterange><start>May 2012</start></daterange>
+     <description>Even though Xen handles user instance data efficiently, if third party breaks into the system then user
+       data is easily accessible to hacker. If the user data is encrypted and stored then even if the hacker hacks
+       the system user data will be safe.
+     We are adding an encryption/decryption module in blktap2 part of Xen Hypervisor where user data will
+       be stored in encrypted form and it will be decrypted when user asks for it.
+eSignIn System                                                                            Dec 2011
+        The electronic class sign-in system resides on a single computer serving as a client- server system for
+        back-end SQLite database using java database connectivity (JDBC) drivers.
+        The system was developed to mark the attendance of the class electronically.</description></job>
+
+<job end='present' id='4' pos='1' start='734474'><title>Multi-Threaded Web Server</title>                                                   <daterange><start days='734474' iso8601='2011-12-01'>Dec 2011</start></daterange>
+    <description>Developed a multi threaded web server using Java, HTML to process multiple simultaneous service
+       requests in parallel.</description></job>
+
+<job id='5' start='733530'><employer>University of Mumbai</employer>, <address><city>Mumbai</city>, <country iso3='IND'>India</country></address>
+
+Tour Management Systems                                                            <daterange><start days='733530' iso8601='2009-05-01'>May 2009</start></daterange>
+    <description>Designed a web based database application using Visual Basic 6.0 as front-end and MS-Access as back-
+      end.
+    The system was designed to plan the travel plans and keep records of the customers.</description></job>
+
+Website on Cricket History                                                           <job id='6' start='733349'><daterange><start days='733349' iso8601='2008-11-01'>Nov 2008</start></daterange>
+    <description>Maintaining the records of historic moments in cricket. Publishing articles on players info, match results,
+       upcoming tournaments etc.
+    Live updates on score and day to day events.
+    Website was designed in HTML.</description></job>
+
+<job id='7' sic='753701' sic2='75' start='733165'><employer>Premier Automotive Services</employer>                                                            <daterange><start days='733165' iso8601='2008-05-01'>May 2008</start></daterange>
+    <description>Design and implemented data model for the PAS system using My SQL.
+    The product maintains records of the customers like name, address, vehicle, date etc. to keep a track of
+       basic care maintenance like tire rotations and oil changes, diagnosing complex problems etc.
+    Managing records of the previously used services.</description></job></experience>
+
+
+<summary>SUMMARY
+
+        <summary>Experience in analysis, design, development, integration and testing of applications using Java, C, and
+        C++ technologies
+        Experience working in Eclipse and Tomcat.
+        Extensive development experience in object oriented analysis, design and programming (OOA/OOD)
+        Fluent in the Windows and LINUX operating environments
+        Excellent communication skills and a demonstrated ability to handle multiple tasks as well as work
+        independently or in teams.</summary></summary>
+</resume>
+
+<skillrollup version='1'>
+  <canonskill experience='1' expidrefs='7' idrefs='7' name='basic' start='733165'>
+    <variant>basic</variant>
+  </canonskill>
+  <canonskill name='c'>
+    <variant>C</variant>
+  </canonskill>
+  <canonskill name='c + +'>
+    <variant>C++</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='3' idrefs='3' name='client/server'>
+    <variant>client- server</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='9' idrefs='9' name='computer networking'>
+    <variant>Computer Networks</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='3' idrefs='3' name='cryptography'>
+    <variant>encryption</variant>
+  </canonskill>
+  <canonskill name='css'>
+    <variant>CSS</variant>
+  </canonskill>
+  <canonskill end='734321' experience='1' expidrefs='1,3,5' idrefs='1,3,5' lastused='2011' name='database administration' start='733530'>
+    <variant>Databases</variant>
+    <variant>database</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='3' idrefs='3' name='dec'>
+    <variant>Dec</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='3' idrefs='3' name='decryption'>
+    <variant>decryption</variant>
+  </canonskill>
+  <canonskill end='733956' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='design' start='733530'>
+    <variant>Designing</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='3' idrefs='3' name='drivers'>
+    <variant>drivers</variant>
+  </canonskill>
+  <canonskill name='eclipse'>
+    <variant>Eclipse</variant>
+  </canonskill>
+  <canonskill end='734321' experience='1' expidrefs='1' idrefs='1' lastused='2011' name='features' start='733987'>
+    <variant>features</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,4,6' idrefs='1,4,6' lastused='2012' name='html' start='733349'>
+    <variant>HTML</variant>
+  </canonskill>
+  <canonskill name='ide'>
+    <variant>IDE</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='3,4' idrefs='3,4' lastused='2012' name='java' start='734474'>
+    <variant>Java</variant>
+    <variant>java</variant>
+  </canonskill>
+  <canonskill end='734321' experience='1' expidrefs='1' idrefs='1' lastused='2011' name='java server pages' start='733987'>
+    <variant>JSP</variant>
+    <variant>Java Server Pages</variant>
+  </canonskill>
+  <canonskill end='734321' experience='1' expidrefs='1' idrefs='1' lastused='2011' name='javascript' start='733987'>
+    <variant>JavaScript</variant>
+  </canonskill>
+  <canonskill end='734321' experience='1' expidrefs='1,3' idrefs='1,3' lastused='2011' name='jdbc' start='733987'>
+    <variant>JDBC</variant>
+  </canonskill>
+  <canonskill name='languages'>
+    <variant>Languages</variant>
+  </canonskill>
+  <canonskill name='linux'>
+    <variant>Linux</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='7' idrefs='7' name='management' start='733165'>
+    <variant>Managing</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='3' idrefs='3' name='mark'>
+    <variant>mark</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='5' idrefs='5' name='microsoft access' start='733530'>
+    <variant>MS-Access</variant>
+    <variant>MS Access</variant>
+  </canonskill>
+  <canonskill name='microsoft windows xp'>
+    <variant>Windows XP</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='7' idrefs='7' name='mysql' start='733165'>
+    <variant>MySQL</variant>
+    <variant>My SQL</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='7' idrefs='7' name='oil painting' start='733165'>
+    <variant>oil</variant>
+  </canonskill>
+  <canonskill name='operating systems'>
+    <variant>Operating Systems</variant>
+  </canonskill>
+  <canonskill name='programming'>
+    <variant>Programming</variant>
+  </canonskill>
+  <canonskill end='734321' experience='1' expidrefs='1' idrefs='1' lastused='2011' name='servlets' start='733987'>
+    <variant>Servlets</variant>
+  </canonskill>
+  <canonskill end='733956' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='statistics' start='733530'>
+    <variant>statistics</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='9' idrefs='9' name='system architecture'>
+    <variant>Systems
+Architecture</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='5' idrefs='5' name='visual basic 6.0' start='733530'>
+    <variant>Visual Basic 6.0</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='4' idrefs='4' lastused='2012' name='web servers' start='734474'>
+    <variant>web server</variant>
+  </canonskill>
+  <canonskill end='734321' experience='1' expidrefs='1,6' idrefs='1,6' lastused='2011' name='web site production' start='733349'>
+    <variant>Website</variant>
+    <variant>websites</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='6' idrefs='6' name='writing' start='733349'>
+    <variant>articles</variant>
+  </canonskill>
+  <canonskill name='xml'>
+    <variant>XML</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

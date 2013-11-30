@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734596' xml:space='preserve'><contact><name><givenname>Leah</givenname> <surname>Sangl</surname></name>
+<address><street>9138 Butternut St</street></address>. 						<email>ljsangl@yahoo.com</email>
+<address lat='45.1876' lon='93.2986' majorcity='MINNEAPOLIS' state='MN'><city>Coon Rapids</city>, <state abbrev='MN'>MN</state> <postalcode>55448</postalcode></address>						763-<phone>568-3194</phone></contact>
+
+<summary>Summary of Qualifications
+
+<summary>Over seven years financial services experience including working with various vendor and
+bank systems, customer service, technical support, system implementation and
+internal/external customer training.  Experience includes working in Item Processing area
+processing data and most currently as a Sr. Business Solutions Specialist working with all
+aspects of online banking with some experience in debit cards.  My background in internal
+and external support/training, and working with many levels of bank and vendor employees
+has provided me with a unique perspective to lead projects and/or teams involved with the
+development and implementation of software applications.  Superior communication and
+interpersonal skills with documented expertise in the following areas:
+
+Banking/Finance		Vendor Relations			Software Testing and Troubleshooting
+Technical Support and Training		Cash Management 		Customer Training
+Customer Service</summary></summary>				
+
+<skills>Technical Knowledge Base
+
+
+<skills>Microsoft Word/Excel/Access/Outlook/Outlook Express, Lotus Notes, Unisys, Jack Henry
+Silverlake, Enterprise Banker  (Cash Mgmt System - ACI), Community Net Express (Cash Mgmt -
+ S1/Postillion), Bill Pay (IPay Technologies and Check Free) and Positive Pay.</skills></skills>
+
+<experience end='present' start='725983'>Career Progression
+
+<job end='present' id='1' pos='1' sic='874201' sic2='87' start='733834'><employer>Benesyst, Inc</employer> - <address><city>Minneapolis</city>, <state abbrev='MN'>MN</state></address> 						<daterange><start days='733834' iso8601='2010-03-01'>March 2010</start> - <end days='present' iso8601='2012-04-01'>present</end></daterange>
+<title>Benny Card Analyst</title></job>
+
+
+<job end='733775' id='2' pos='2' sic='602101' sic2='60' start='731034'><employer>Panhandle State Bank/Intermountain Comm. Bancorp</employer> - <address><city>Sandpoint</city>, <state abbrev='ID'>ID</state></address>                 <daterange><start days='731034' iso8601='2002-07-01'>July
+2002</start> - <end days='733775' iso8601='2010-01-01'>January 2010</end></daterange>
+<title>Sr. Business Solutions Specialist</title></job> 
+
+<job end='731004' id='3' naics='45211101' naics2='45' pos='3' sic='531102' sic2='53' start='730608'><employer>Wal-Mart</employer>  -  <address><city>Sandpoint</city>, <state abbrev='ID'>ID</state></address>             				                                  <daterange><start days='730608' iso8601='2001-05-01'>May 2001</start> -
+<end days='731004' iso8601='2002-06-01'>June 2002</end></daterange>
+<title>CSR/Stock Clerk</title></job>
+
+<job end='730519' id='4' pos='4' sic='515302' sic2='51' start='729969'><employer>Cormac Systems &amp; Service</employer> -  <address><city>Billings</city>, <state abbrev='MT'>MT</state></address>             						
+	<title>Customer Service Representative</title>					     <daterange><start days='729969' iso8601='1999-08-01'>August 1999</start> - <end days='730519' iso8601='2001-02-01'>February 2001</end></daterange>
+*	<description>Responsible for the handling computer tech service requests from vendors.
+*	Responsible for locating new computer technicians across the United States.
+*	Maintaining technician database in Access.</description></job>
+
+<job end='729908' id='5' pos='5' sic='641112' sic2='64' start='729512'><employer>State Farm Insurance</employer> - <address><city>Greeley</city>, <state abbrev='CO'>CO</state></address>	         
+<title>Claims Service Assistant</title> - <employer>Subrogation</employer>	  			                   <daterange><start days='729512' iso8601='1998-05-01'>May 1998</start> - <end days='729908' iso8601='1999-06-01'>June 1999</end></daterange>
+*	<description>Responsible for ordering documents as requested for claims.
+*	Responsible for sending requested documents to other departments, attorneys, and
+collection agencies in timely manner.</description></job>
+
+<job end='729361' id='6' pos='6' sic='641112' sic2='64' start='728355'><employer>Prudential Insurance and Financial Services</employer> - <address><city>Minneapolis</city>, <state abbrev='MN'>MN</state></address>  	 
+<title>Premium Disbursement Customer Service Representative</title>		      <daterange><start days='728355' iso8601='1995-03-01'>March 1995</start> - <end days='729361' iso8601='1997-12-01'>December 1997</end></daterange> 
+*	<description>Responsible for handling several types of transactions on customers life insurance
+policies within SEC timeframes and life insurance guidelines.
+*	Knowledge of manual processing due to system limitations.
+*	Responsible for tracking requests sent to other departments to verify that all requests
+process within company timeframes.
+*	Involved in several projects to streamline procedures.
+*	Member of the Diversity Council.
+*	Responsible for answering Agent Support Line in call center.</description></job>
+
+<job end='728355' id='7' pos='7' sic='641112' sic2='64' start='725983'><employer>Western national Mutual Insurance</employer> - <address><city>Minneapolis</city>, <state abbrev='MN'>MN</state></address>  
+<title>Auto Endorsement Clerk</title>	<daterange><start days='725983' iso8601='1988-09-01'>September 1988</start> - <end days='728355' iso8601='1995-03-01'>March 1995</end></daterange> 
+*	<description>Responsible for processing customer requests for changes on auto insurance policies.
+*	Knowledge of manual auto rating system to provide accurate insurance quotes.
+*	Daily interaction with several insurance agents assisting with questions or requests.</description></job></experience>
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='729361' experience='1' expidrefs='6' idrefs='6' lastused='1997' name='adobe streamline' start='728355'>
+    <variant>streamline</variant>
+  </canonskill>
+  <canonskill end='729361' experience='1' expidrefs='6' idrefs='6' lastused='1997' name='call center' start='728355'>
+    <variant>call center</variant>
+  </canonskill>
+  <canonskill end='729361' experience='1' expidrefs='6' idrefs='6' lastused='1997' name='council' start='728355'>
+    <variant>Council</variant>
+  </canonskill>
+  <canonskill end='730519' experience='1' expidrefs='4' idrefs='4' lastused='2001' name='database administration' start='729969'>
+    <variant>database</variant>
+  </canonskill>
+  <canonskill end='729361' experience='1' expidrefs='6,7' idrefs='6,7' lastused='1997' name='insurance' start='725983'>
+    <variant>insurance</variant>
+  </canonskill>
+  <canonskill name='lotus notes'>
+    <variant>Lotus Notes</variant>
+  </canonskill>
+  <canonskill name='management'>
+    <variant>Mgmt</variant>
+  </canonskill>
+  <canonskill end='730519' experience='1' expidrefs='4' idrefs='4' lastused='2001' name='microsoft access' start='729969'>
+    <variant>Access</variant>
+  </canonskill>
+  <canonskill name='microsoft excel'>
+    <variant>Excel</variant>
+  </canonskill>
+  <canonskill name='microsoft outlook'>
+    <variant>Outlook</variant>
+  </canonskill>
+  <canonskill name='microsoft outlook express'>
+    <variant>Outlook Express</variant>
+  </canonskill>
+  <canonskill name='microsoft word'>
+    <variant>Microsoft Word</variant>
+  </canonskill>
+  <canonskill name='netscape enterprise server'>
+    <variant>Enterprise</variant>
+  </canonskill>
+  <canonskill end='729361' experience='1' expidrefs='6,7' idrefs='6,7' lastused='1997' name='policy analysis' start='725983'>
+    <variant>policies</variant>
+  </canonskill>
+  <canonskill name='quark xpress'>
+    <variant>Express</variant>
+  </canonskill>
+  <canonskill end='730519' experience='1' expidrefs='4' idrefs='4' lastused='2001' name='technician' start='729969'>
+    <variant>technician</variant>
+  </canonskill>
+  <canonskill name='unisys'>
+    <variant>Unisys</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

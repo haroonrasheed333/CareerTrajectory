@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734597' xml:space='preserve'><contact><name><givenname>Charlene</givenname> <givenname>M</givenname> <surname>Swanson</surname></name>                                   PG 1                                 
+                      <address lat='47.4982' lon='122.363' majorcity='SEATTLE' state='WA'><street>3740 SW 106th St.</street>
+<city>Seattle</city>, <state abbrev='WA'>WA</state> <postalcode>98146</postalcode></address>
+<phone>206-243-0114</phone>
+E-mail Home: <email>belmor332@yahoo.com</email>
+Work: <email>cmswanson@seattleschools.org</email></contact> 
+
+<experience end='present' start='722452'>Work Experience:
+<job end='present' id='1' inferred-to='2' pos='1' sic='804909' sic2='80' start='722452'><employer>Nutrition Services</employer> <title>Production Manager</title>
+<employer>Seattle Public Schools</employer>       <daterange><start days='722452' iso8601='1979-01-01'>1979</start> until-<end days='present' iso8601='2012-04-02'>present</end></daterange>
+
+<description>My duties include the following:
+Responsible for processing of Federal applications, maintaining official records and
+document preservation for audit purposes. 
+Ordering of supplies, inventory control and management of staff and student employees. 
+Implementation of district policies.
+Operation of the following software programs on a frequent basis: PCS, PeopleSoft, SAP,
+ESIS and Sub Finder. 
+On a daily basis I enter data, run cash reconciliation, use and maintain office equipment
+and supplies. 
+I'm responsible for banking, payroll, employee training and supervision of adults and
+student help. 
+I currently manage and offer instruction of nutrition education information, in addition
+to scheduling the needs of the program and community use of the facility. Work directly
+and assist our special education department with programs and IEP needs.</description></job>
+
+<job end='729392' id='2' inferred-from='1' pos='2' sic='804909' sic2='80' start='727200'><department>Seattle Parks Department</department> Summer Employment <daterange><start days='727200' iso8601='1992-01-01'>1992</start>-<end days='729392' iso8601='1998-01-01'>1998</end></daterange>
+
+<description>Worked with special needs behavior disordered students. Worked one on one, and in groups,
+in order to identify and target specific needs in order to reinforce positive behaviors.</description></job>  
+
+                                                                                         
+Page II</experience>
+
+
+
+<education>Education:
+<school id='3'><institution>Chief Sealth High</institution> <address><city>Seattle</city>, <state abbrev='WA'>WA</state></address> <degree level='13' name='Diploma'>Diploma</degree> <completiondate days='720261' iso8601='1973-01-01'>1973</completiondate> - <honors>With Honors</honors>
+Highline CC.  <degree level='14'>Associate of Arts Degree</degree>- With Honors -  <completiondate days='733469' iso8601='2009-03-01'>3/2009</completiondate></school>
+<school id='4'><institution>Central Washington University</institution> -<degree level='16' name='Bachelor of Science'>Bachelor of Science</degree> in <major>IDS</major> <honors>Magna Cum Laude</honors> <completiondate days='734302' iso8601='2011-06-12'>6/12/2011</completiondate>. 
+Two Minors, <minor code='2016 2102'>Psychology and Sociology</minor></school>.</education> 
+<skills>Languages - <languages>English, Spanish 1 Year College level, French 2 years High School</languages></skills> 
+
+ 
+<professional>Affiliations:
+<affiliations>Member of Alpha Kappa Delta - International Sociological Honor Society 
+Member of Phi Theta Kappa - International Honor Society of two year colleges. 
+Member of Phi Beta Psi - Non Academic sorority which raises funds for Cancer Research.
+President of Gamma Eta - Newly established Seattle chapter of Phi Beta Psi
+Secretary for Seattle School Veterans Association</affiliations></professional>
+</resume>
+
+<skillrollup version='1'>
+  <canonskill experience='1' name='banking'>
+    <variant>banking</variant>
+  </canonskill>
+  <canonskill name='english'>
+    <variant>English</variant>
+  </canonskill>
+  <canonskill name='french'>
+    <variant>French 2</variant>
+  </canonskill>
+  <canonskill experience='1' name='instruction'>
+    <variant>instruction</variant>
+  </canonskill>
+  <canonskill experience='1' name='inventory management'>
+    <variant>inventory control</variant>
+  </canonskill>
+  <canonskill name='languages'>
+    <variant>Languages</variant>
+  </canonskill>
+  <canonskill experience='1' name='office equipment'>
+    <variant>office equipment</variant>
+  </canonskill>
+  <canonskill experience='1' name='payroll processing'>
+    <variant>payroll</variant>
+  </canonskill>
+  <canonskill experience='1' name='peoplesoft'>
+    <variant>PeopleSoft</variant>
+  </canonskill>
+  <canonskill experience='1' name='policy analysis'>
+    <variant>policies</variant>
+  </canonskill>
+  <canonskill experience='1' name='sap'>
+    <variant>SAP</variant>
+  </canonskill>
+  <canonskill experience='1' name='scheduling'>
+    <variant>scheduling</variant>
+  </canonskill>
+  <canonskill name='spanish'>
+    <variant>Spanish 1</variant>
+  </canonskill>
+  <canonskill experience='1' name='supervisory skills'>
+    <variant>supervision</variant>
+  </canonskill>
+  <canonskill experience='1' name='training'>
+    <variant>employee training</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

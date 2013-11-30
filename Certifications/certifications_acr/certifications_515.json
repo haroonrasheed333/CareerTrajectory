@@ -1,0 +1,40 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "WSO-CSI", 
+            "Certification Name": "WSO - Certified Safety Instructor Basic Level", 
+            "Type": "Core", 
+            "Certification ID": "1006", 
+            "Certifying Organization": "World Safety Organization"
+        }, 
+        {
+            "Acronym": "WSO-CSI(SL", 
+            "Certification Name": "WSO - Certified Safety Instructor Senior Level", 
+            "Type": "Core", 
+            "Certification ID": "1007", 
+            "Certifying Organization": "World Safety Organization"
+        }, 
+        {
+            "Acronym": "WSO-CSI(ML", 
+            "Certification Name": "WSO - Certified Safety Instructor Master Level", 
+            "Type": "Core", 
+            "Certification ID": "1008", 
+            "Certifying Organization": "World Safety Organization"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Instructor Trainer Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "3139", 
+            "Certifying Organization": "American Canoe Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "First Responder", 
+            "Type": "Core", 
+            "Certification ID": "0290", 
+            "Certifying Organization": "National Registry of Emergency Medical Technicians"
+        }
+    ], 
+    "onet": "33909200"
+}

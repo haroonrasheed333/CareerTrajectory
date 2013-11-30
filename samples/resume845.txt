@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734597' xml:space='preserve'><contact><name><givenname>Susan</givenname> <surname>Sacher</surname></name>
+<address lat='35.9126' lon='79.0796' majorcity='CARRBORO' state='NC'><street>400 Hillsborough Rd</street>, <city>Carrboro</city>, <state abbrev='NC'>NC</state>  <postalcode>27510</postalcode></address>
+<email>sachersusan@gmail.com</email>
+<phone>(919) 675-1453</phone></contact>
+
+<summary>SUMMARY
+<personalstatements>excellent oral and written communication skills
+detail-oriented                
+organized
+diplomatic
+dependable
+goal-driven</personalstatements></summary>
+
+<experience end='present' start='728296'>PROFESSIONAL EXPERIENCE
+
+<job end='present' id='1' pos='1' start='733775'><employer>LIQUIDIA TECHNOLOGIES</employer>, <address><city>Research Triangle Park</city>, <state abbrev='NC'>NC</state></address>		<daterange><start days='733775' iso8601='2010-01-01'>2010</start>-<end days='present' iso8601='2012-04-02'>present</end></daterange>
+<title>Senior Administrator of Nanotech Startup</title></job>
+
+<job end='733775' id='2' pos='2' sic='504504' sic2='50' start='729392'><employer>HBO</employer> (<employer>HOME BOX OFFICE</employer>), <address><city>New York</city>, <state abbrev='NY'>NY</state></address>				<daterange><start days='729392' iso8601='1998-01-01'>1998</start>-<end days='733775' iso8601='2010-01-01'>2010</end></daterange>
+<title>Executive Assistant</title></job> to the Senior Vice President of HBO International
+
+<job end='733044' id='3' pos='3' sic='581208' sic2='58' start='731949'><employer>LUNA LOUNGE</employer>, <address><city>Brooklyn</city>, <state abbrev='NY'>NY</state></address>						<daterange><start days='731949' iso8601='2005-01-01'>2005</start>-<end days='733044' iso8601='2008-01-01'>2008</end></daterange>
+<title>Owner and Operator</title></job> of Live Music Venue
+
+<job end='729392' id='4' pos='4' sic='273101' sic2='27' start='728296'><employer>OXFORD UNIVERSITY PRESS</employer>, <address><city>New  York</city>, <state abbrev='NY'>NY</state></address>			<daterange><start days='728296' iso8601='1995-01-01'>1995</start>-<end days='729392' iso8601='1998-01-01'>1998</end></daterange>
+<title>Marketing and Editorial Assistant</title> at Non-Profit Publisher
+
+
+<description>SELECTED ACCOMPLISHMENTS
+
+ACCOUNTING
+Processed and approved expense reports, invoicing, and wire transfers
+Handled accounts payable, accounts receivable, purchase ordering and payroll
+Generated monthly balance sheets to reflect bar and box office revenue
+Developed budgets, recorded actuals, and prepared end-of-year statements
+
+
+EVENT PLANNING
+Coordinated registration, booth design, and hotel accommodations for six trade shows held annually
+Established budgets, acquired permits, talent, and security to host themed nights at 500 person capacity live music venue
+Arranged seasonal corporate parties selecting the event site, coordinating transportation, catering, decorations, and special speakers
+Designed promotional swag for executive thank yous and trade show gift bags</description></job>
+
+
+<job id='5'><title>HUMAN RESOURCES</title>
+<description>Hired and managed 25 employees including sound engineers, bartenders, and box office staff
+Chose support staff of designers, accounting and legal teams, marketing and publicity reps, and booking agents
+Functioned as Office Manager, Fire Warden, and First Responder in 15 floor building
+Trained colleagues on new office procedures, IT software, and records retention compliance
+
+
+ADMINISTRATIVE
+Managed legal documents and functioned as contract administrator
+Functioned as both personal assistant and administrative assistant to provide a seamless support structure
+Handled calendar, travel arrangements, and correspondence
+Generated reports and prepared research for ongoing projects</description></job></experience>
+
+<education>EDUCATION
+
+<school id='6'><degree level='16' name='Bachelor of Arts'>BA</degree>, <institution>English        University of North Carolina</institution> at <address><city>Chapel</city></address> <major>Hill</major>            <completiondate days='728661' iso8601='1996-01-01'>1996</completiondate></school></education>
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='729392' experience='1' expidrefs='4,5' idrefs='4,5' lastused='1998' name='accountancy' start='728296'>
+    <variant>ACCOUNTING</variant>
+    <variant>accounting</variant>
+  </canonskill>
+  <canonskill end='729392' experience='1' expidrefs='4' idrefs='4' lastused='1998' name='accounts payable' start='728296'>
+    <variant>accounts payable</variant>
+  </canonskill>
+  <canonskill end='729392' experience='1' expidrefs='4' idrefs='4' lastused='1998' name='accounts receivable' start='728296'>
+    <variant>accounts receivable</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='5' idrefs='5' name='administration'>
+    <variant>ADMINISTRATIVE</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='5' idrefs='5' name='administrative assistant'>
+    <variant>administrative assistant</variant>
+  </canonskill>
+  <canonskill end='729392' experience='1' expidrefs='4' idrefs='4' lastused='1998' name='balance sheet' start='728296'>
+    <variant>balance sheets</variant>
+  </canonskill>
+  <canonskill end='729392' experience='1' expidrefs='4' idrefs='4' lastused='1998' name='budgeting' start='728296'>
+    <variant>budgets</variant>
+  </canonskill>
+  <canonskill end='729392' experience='1' expidrefs='4' idrefs='4' lastused='1998' name='event management' start='728296'>
+    <variant>EVENT PLANNING</variant>
+  </canonskill>
+  <canonskill end='729392' experience='1' expidrefs='4' idrefs='4' lastused='1998' name='invoicing' start='728296'>
+    <variant>invoicing</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='5' idrefs='5' name='legal'>
+    <variant>legal</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='5' idrefs='5' name='marketing'>
+    <variant>marketing</variant>
+  </canonskill>
+  <canonskill end='729392' experience='1' expidrefs='4,5' idrefs='4,5' lastused='1998' name='microsoft office' start='728296'>
+    <variant>office</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='5' idrefs='5' name='office management'>
+    <variant>Office Manager</variant>
+  </canonskill>
+  <canonskill end='729392' experience='1' expidrefs='4' idrefs='4' lastused='1998' name='payroll processing' start='728296'>
+    <variant>payroll</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='5' idrefs='5' name='publicity'>
+    <variant>publicity</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='5' idrefs='5' name='research'>
+    <variant>research</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='5' idrefs='5' name='sound'>
+    <variant>sound</variant>
+  </canonskill>
+  <canonskill end='729392' experience='1' expidrefs='4' idrefs='4' lastused='1998' name='trade shows' start='728296'>
+    <variant>trade shows</variant>
+  </canonskill>
+  <canonskill end='729392' experience='1' expidrefs='4' idrefs='4' lastused='1998' name='transportation' start='728296'>
+    <variant>transportation</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='5' idrefs='5' name='travel arrangements'>
+    <variant>travel arrangements</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

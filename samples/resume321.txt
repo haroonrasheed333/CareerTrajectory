@@ -1,0 +1,332 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734593' xml:space='preserve'><contact><name><givenname>Amarjeet</givenname> <surname>Singh</surname></name>
+E - 304, Jasminium, Magarpatta, Hadapsar, PUNE, INDIA, PO-411013
+	E mail: <email>amarteotia@gmail.com</email>
+Mobile: <phone type='cell'>+91-9860340595</phone></contact>
+
+<summary>Professional Summary:
+
+<summary>Technical Lead with 6 years of experience in the IT industry, designing, developing and implementing n tier architecture in j2ee based applications.
+Experience in various web based applications using java, j2ee, jsp, servlet, struts, spring, hibernate, jdbc, JAX-WS web services, SOAP, html, css, javascript, xml, xslt, Websphere, Weblogic and Apache Tomcat.
+Extensive experience in analysis of project requirements through customer interaction, preparation of Functional Specifications, UML modeling, project design etc.
+Worked and managed teams in varied work culture environments, good International exposure in different countries like USA, Germany.
+Possess excellent communication and interpersonal skills.
+Working knowledge of various phases of SDLC (Software Development Life Cycle) and SCRUM methodology in Agile development environment.
+Onsite experience in Germany for developing, deploying and testing the application.
+Well versed in written and verbal communication in German Language with client.</summary></summary>
+
+<skills>Certifications
+<courses>Sun Certified Java Programmer SCJP 1.5 with 90 % score.
+IKM (International knowledge Measurement) proficiency with 80 percentile score.
+Finance Professional certification from Oracle.</courses>
+
+Technical Expertise:
+
+Languages		:	<skills>Java, j2ee	
+Databases &amp; tools	:	Oracle, DB2, MySQL, Pl-Sql developer, DBVisualizer
+ORMs			:	Hibernate
+Frameworks		:	Struts 1.x/2.0, Spring Framework.
+Web Technology	:	html, xml, xslt, css
+IDE			:	Eclipse, RAD, Netbeans
+Source Control		:	CVS, VSS, SVN, SAVI, starteam
+Application Servers	:	websphere, weblogic, tomcat, oracle 10g appserver
+Server Side		:	jsp, servlet, JAX-WS Web services.
+Reporting Tool		:	Jasper Reports, i-report
+Scripting		:	Javascript</skills></skills>
+
+<statements>Awards and Achievements:
+
+<honors>Recipient of 'WOW' Award at John Deere for excellence in the process improvement of the project.
+Acquired 'Pat On the back' award for out active participation in organization level initiative in John Deere.
+ I have taken initiative in document creation and management of the Projects documents for betterment of the project and audit purpose.</honors>
+<personal>Bagged 1st rank in school and Broken the record of highest percentage and it is still a record in my school.
+
+Strengths:
+
+Self motivated professional with ability to motivate the Team.
+Strong analytical and problem solving skills with excellent leadership qualities.
+Ability to walk the extra mile to achieve Targets/ Goals.
+'Out-Of-The-Box' &amp; Positive Thinker.</personal></statements>
+<experience end='present' start='732373'>Professional Experience - <job end='present' id='1' pos='1' sic='581208' sic2='58' start='734352'><jobtype>Full Time</jobtype>
+
+1) <employer>JOHN DEERE Technology Centre PUNE, INDIA</employer>
+<daterange><start days='734352' iso8601='2011-08-01'>Aug 2011</start> - <end days='present' iso8601='2012-03-29'>till date</end></daterange> 
+<title>Technical Lead</title> - <description>Java j2ee
+
+Project: Customer Knowledge Center
+CKC (Customer Knowledge Center) is an application used by various dealers of John Deere worldwide to manage the customer data. Various web services are available to different applications to fetch and process customer data into customer registry.
+ 
+Technologies: java, j2ee, EJPM (internal Deere Framework), JAX-WS Web services, DB2, WAS 6.1, WAS 7, JavaScript.
+
+Role and Responsibilities - Technical lead
+Leading a cross functional and multiple technology team at offshore.
+Handled the tasks of providing technical direction for developing, designing and integrating applications.
+Assigned the tasks of monitoring and reviewing the work of the development team. 
+Responsible for integration and testing of systems across multiple environments.
+Handled the tasks of hiring recourses and reviewing the performance.
+Responsible for managing technical resources within project schedule and budgets. 
+Facilitating regular meetings with business partners for requirement gathering.
+Doing impact analysis and providing technical design to team.
+Responsible for creating and executing development plans.
+Performed code reviews and mentored junior developers. 
+Perform functional analysis of requirements to determine estimates.
+Interaction with the onsite coordinator and client on daily basis.
+Release planning and taking care of deployment activities.
+Working on various quality metrics during the project development.
+Also organize and lead discussions/meetings with managers regarding implementation of the processes.
+Responsible for updating project manager regarding status of development efforts.
+Served as a liaison between project manager and development team.</description></job>
+
+2) <job end='734352' id='2' pos='2' start='733714'><employer>Accenture Services Pvt. Ltd</employer>. <address><city>PUNE</city>, <country iso3='IND'>INDIA</country></address>
+<daterange><start days='733714' iso8601='2009-11-01'>Nov 2009</start> - <end days='734352' iso8601='2011-08-01'>Aug 2011</end></daterange> 
+<title>Team Lead</title>
+
+Project: Service ABS
+
+<description>It was a web application used by an insurance firm for providing multiple types of insurances to the customers. This application is used by various agents of the insurance company. It maintains data of various policy holders and also having provisions of update the data pertaining to the customer whenever required. This application provides the functionality of searching customers on the basis of different criteria and displays the records of the policy and options for renewing or cancelling the policy.
+
+Technologies:  java, jsp, servlet, struts, spring, hibernate, jsf, DB2, weblogic, javascript, and css.
+
+Role and Responsibilities - Team lead
+
+Travelled onsite for requirement gathering and KT with the German Client.
+Leading a Team and responsible for timely delivery of deliverables.
+Ramping up the Team and organize KT sessions.
+Designing, development and maintenance of insurance web application.
+Interaction with the onsite coordinator and client on daily basis from offshore.
+Requirement clarification and converting them to technical requirements. 
+Coding of various modules and reviewing others' modules.
+Preparing deliverables and taking care of deployment activities.
+Status reporting of the project to the higher management
+
+3) Oracle Financial Services Software Limited PUNE, INDIA</description></job>
+<job end='733714' id='3' pos='3' start='732830'><daterange><start days='732830' iso8601='2007-06-01'>June 2007</start> - <end days='733714' iso8601='2009-11-01'>Nov 2009</end></daterange>
+<title>Senior Software Engineer</title>
+
+<description>Project: Oracle Flexcube Remit
+
+I was working on an application called Flexcube Remit which provides a solution to transfer money from any country to any country in the world.
+
+Technologies: java, jsp, servlet, struts, jdbc, xml, struts, oracle 10g,Tomcat, weblogic, Oracle 10g Appserver, css, javascript, JasperReports, i-report.
+
+Roles and Responsibilities- senior java developer
+
+Preparing prototype in the form of Web Pages with UI requirements.
+Understanding the new requirements and updating the Business Functionalities in the Development.
+Coding various modules and assisting in generation and sending module builds.
+Assist in the identification, logging of application's issues/defects.
+Interacting with the client and Highlight the issues that need more attention.
+Coding of modules involving the xml message parsing.
+Designing and Creation and modification of database matching the requirements.</description></job>
+
+4) CDAC R&amp;D, <job end='732830' id='4' pos='4' start='732373'><address><city>PUNE</city>, <country iso3='IND'>INDIA</country></address>
+<daterange><start days='732373' iso8601='2006-03-01'>March 2006</start> - <end days='732830' iso8601='2007-06-01'>June 2007</end></daterange>
+<title>Software Engineer</title>
+<description>Project: Airmod Application
+
+This application is used for entering various input parameters for AERMOD (Air Pollution Dispersion Model) used to calculate the pollution level generated by the several types of sources and to analyze effects in system. The parameters entered from the client side are processed on the server side with the help of servlet and the Input File (Specific format) for the model is generated by the servlet.
+
+Technologies: java, jsp, servlet, Oracle 10g, Tomcat, Netbeans.
+
+Roles and Responsibilities
+Converting functional requirements to technical requirements.
+Estimating the effort and time required for every module and coding and testing it.
+Preparing Design specifications for the modules.
+Coding of various modules and reviewing others' modules.
+Preparing deliverables and sending builds for deployment of application.</description></job></experience>
+
+ <education>Education:
+C-DAC (<school id='5'><degree level='17'>Post Graduate Diploma</degree> in Advanced computing) 
+<institution>CDAC Pune INDIA</institution> 
+<daterange><start days='731949' iso8601='2005-01-01'>2005</start> - <end days='732314' iso8601='2006-01-01'>2006</end></daterange>
+Degree Bachelor's - <degree level='16' name='Bachelor of Technology'>B.Tech</degree>. (<degree level='16'>Bachelor's of Technology</degree></school> in I.T.)
+<school id='6'><institution>U.P. Technical University</institution> <address><city>Lucknow</city> <state>INDIA.</state></address>
+<daterange><start days='730488' iso8601='2001-01-01'>2001</start> - <end days='731949' iso8601='2005-01-01'>2005</end></daterange></school></education>
+
+<skills>Languages:
+<languages>English, German, Hindi</languages></skills>
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='budgeting' start='734352'>
+    <variant>budgets</variant>
+  </canonskill>
+  <canonskill end='734352' experience='1' expidrefs='2,3' idrefs='2,3' lastused='2011' name='css' start='732830'>
+    <variant>css</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,3,4' idrefs='1,2,3,4' lastused='2012' name='customer relations' start='732373'>
+    <variant>Client</variant>
+    <variant>client</variant>
+  </canonskill>
+  <canonskill name='cvs'>
+    <variant>CVS</variant>
+  </canonskill>
+  <canonskill end='733714' experience='1' expidrefs='3' idrefs='3' lastused='2009' name='database administration' start='732830'>
+    <variant>Databases</variant>
+    <variant>database</variant>
+  </canonskill>
+  <canonskill end='734352' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='delivery' start='733714'>
+    <variant>delivery</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,3' idrefs='1,2,3' lastused='2012' name='design' start='732830'>
+    <variant>Designing</variant>
+    <variant>designing</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='directing' start='734352'>
+    <variant>direction</variant>
+  </canonskill>
+  <canonskill name='eclipse'>
+    <variant>Eclipse</variant>
+  </canonskill>
+  <canonskill name='english'>
+    <variant>English</variant>
+  </canonskill>
+  <canonskill end='732830' experience='1' expidrefs='4' idrefs='4' lastused='2007' name='estimating' start='732373'>
+    <variant>Estimating</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='fetch' start='734352'>
+    <variant>fetch</variant>
+  </canonskill>
+  <canonskill name='finance'>
+    <variant>Finance</variant>
+  </canonskill>
+  <canonskill end='734352' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='financial' start='733714'>
+    <variant>Financial</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,4' idrefs='1,4' lastused='2012' name='functional' start='732373'>
+    <variant>functional</variant>
+  </canonskill>
+  <canonskill end='734352' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='german' start='733714'>
+    <variant>German</variant>
+  </canonskill>
+  <canonskill name='hindi'>
+    <variant>Hindi</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='hiring' start='734352'>
+    <variant>hiring</variant>
+  </canonskill>
+  <canonskill name='html'>
+    <variant>html</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='ibm db/2' start='733714'>
+    <variant>DB2</variant>
+  </canonskill>
+  <canonskill name='ibm websphere'>
+    <variant>websphere</variant>
+  </canonskill>
+  <canonskill name='ide'>
+    <variant>IDE</variant>
+  </canonskill>
+  <canonskill end='734352' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='insurance' start='733714'>
+    <variant>insurance</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='j2ee' start='734352'>
+    <variant>j2ee</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,3,4' idrefs='1,2,3,4' lastused='2012' name='java' start='732373'>
+    <variant>Java</variant>
+    <variant>java</variant>
+  </canonskill>
+  <canonskill end='734352' experience='1' expidrefs='2,3,4' idrefs='2,3,4' lastused='2011' name='java server pages' start='732373'>
+    <variant>jsp</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,3' idrefs='1,2,3' lastused='2012' name='javascript' start='732830'>
+    <variant>JavaScript</variant>
+    <variant>Javascript</variant>
+    <variant>javascript</variant>
+  </canonskill>
+  <canonskill end='733714' experience='1' expidrefs='3' idrefs='3' lastused='2009' name='jdbc' start='732830'>
+    <variant>jdbc</variant>
+  </canonskill>
+  <canonskill name='languages'>
+    <variant>Languages</variant>
+  </canonskill>
+  <canonskill end='734352' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='leadership' start='733714'>
+    <variant>Team lead</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='management' start='734352'>
+    <variant>managing</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='meeting facilitation' start='734352'>
+    <variant>meetings</variant>
+  </canonskill>
+  <canonskill end='733714' experience='1' expidrefs='3' idrefs='3' lastused='2009' name='microsoft money' start='732830'>
+    <variant>money</variant>
+  </canonskill>
+  <canonskill name='mysql'>
+    <variant>MySQL</variant>
+  </canonskill>
+  <canonskill end='734352' experience='1' expidrefs='2,3,4' idrefs='2,3,4' lastused='2011' name='oracle' start='732373'>
+    <variant>Oracle</variant>
+    <variant>oracle</variant>
+  </canonskill>
+  <canonskill end='733714' experience='1' expidrefs='3' idrefs='3' lastused='2009' name='oracle developer 2000' start='732830'>
+    <variant>developer</variant>
+  </canonskill>
+  <canonskill name='oracle pl/sql'>
+    <variant>Pl-Sql</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='process engineering' start='734352'>
+    <variant>processes</variant>
+  </canonskill>
+  <canonskill end='734352' experience='1' expidrefs='2,3,4' idrefs='2,3,4' lastused='2011' name='programming' start='732373'>
+    <variant>Coding</variant>
+    <variant>coding</variant>
+    <variant>Programmer</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='project development' start='734352'>
+    <variant>project development</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='quality' start='734352'>
+    <variant>quality</variant>
+  </canonskill>
+  <canonskill name='rad'>
+    <variant>RAD</variant>
+  </canonskill>
+  <canonskill end='734352' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='reports' start='733714'>
+    <variant>reporting</variant>
+    <variant>Reporting</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='requirements' start='733714'>
+    <variant>Requirement</variant>
+    <variant>requirement</variant>
+  </canonskill>
+  <canonskill name='servers'>
+    <variant>Servers</variant>
+  </canonskill>
+  <canonskill end='734352' experience='1' expidrefs='2,3,4' idrefs='2,3,4' lastused='2011' name='servlets' start='732373'>
+    <variant>servlet</variant>
+  </canonskill>
+  <canonskill name='shell scripting'>
+    <variant>Scripting</variant>
+  </canonskill>
+  <canonskill end='734352' experience='1' expidrefs='2,3' idrefs='2,3' lastused='2011' name='struts' start='732830'>
+    <variant>Struts 1.x</variant>
+    <variant>struts</variant>
+  </canonskill>
+  <canonskill name='sun microsystems'>
+    <variant>Sun</variant>
+  </canonskill>
+  <canonskill end='733714' experience='1' expidrefs='3,4' idrefs='3,4' lastused='2009' name='tomcat' start='732373'>
+    <variant>Tomcat</variant>
+    <variant>tomcat</variant>
+  </canonskill>
+  <canonskill end='733714' experience='1' expidrefs='3' idrefs='3' lastused='2009' name='web site production' start='732830'>
+    <variant>Web Pages</variant>
+  </canonskill>
+  <canonskill name='web technology'>
+    <variant>Web Technology</variant>
+  </canonskill>
+  <canonskill end='734352' experience='1' expidrefs='2,3' idrefs='2,3' lastused='2011' name='weblogic' start='732830'>
+    <variant>weblogic</variant>
+  </canonskill>
+  <canonskill end='733714' experience='1' expidrefs='3' idrefs='3' lastused='2009' name='xml' start='732830'>
+    <variant>xml</variant>
+  </canonskill>
+  <canonskill name='xslt'>
+    <variant>xslt</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

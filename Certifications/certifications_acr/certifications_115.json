@@ -1,0 +1,54 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Nurse Executive", 
+            "Type": "Specialty", 
+            "Certification ID": "6129", 
+            "Certifying Organization": "American Nurses Credentialing Center"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Informatics Nursing", 
+            "Type": "Specialty", 
+            "Certification ID": "6127", 
+            "Certifying Organization": "American Nurses Credentialing Center"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Nursing Professional Development", 
+            "Type": "Specialty", 
+            "Certification ID": "6130", 
+            "Certifying Organization": "American Nurses Credentialing Center"
+        }, 
+        {
+            "Acronym": "COHN-CM", 
+            "Certification Name": "Certified Occupational Health Nurse - Case Management", 
+            "Type": "Specialty", 
+            "Certification ID": "2152", 
+            "Certifying Organization": "American Board for Occupational Health Nurses"
+        }, 
+        {
+            "Acronym": "QLI", 
+            "Certification Name": "Qualification in Laboratory Informatics", 
+            "Type": "Specialty", 
+            "Certification ID": "1819", 
+            "Certifying Organization": "American Society for Clinical Pathology"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "CompTIA Healthcare IT Technician Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "7376", 
+            "Certifying Organization": "Computing Technology Industry Association (CompTIA)"
+        }, 
+        {
+            "Acronym": "CDIP", 
+            "Certification Name": "Certified Documentation Improvement Practitioner", 
+            "Type": "Core", 
+            "Certification ID": "8042", 
+            "Certifying Organization": "American Health Information Management Association"
+        }
+    ], 
+    "onet": "15112101"
+}

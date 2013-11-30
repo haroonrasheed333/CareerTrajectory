@@ -1,0 +1,220 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734596' xml:space='preserve'>Phone: <contact><phone>319-400-9305</phone>                          <name><givenname>AMRUTA</givenname> <surname>HINGNE</surname></name>                  email:<email>amruta.hingne@gmail.com</email></contact>
+
+<skills>SOFTWARE TOOLS AND SKILLS
+
+Web / Content Management: <skills>HTML, CSS, Web 2.0, Javascript, XML, XSLT, XPath, PHP, J2EE, C#, SDL Tridion
+RDBMS Technologies: SQL Server, MySQL, MS Access, Oracle
+Tools: Adobe Dreamweaver, MS Visio, Adobe Photoshop, MS Office Suite, MS Visual Studio, ScrumWorks,
+SharePoint, ClearCase
+Operating System: Windows variants, UNIX
+Scripting Language: Perl, Python</skills></skills>
+
+<experience end='present' start='732587'>PROFESSIONAL EXPERIENCE
+
+<job end='present' id='1' naics='52311002' naics2='52' pos='1' sic='637102' sic2='63' start='734291'><title>BUSINESS SYSTEMS ANALYST</title> ­ WEB APPLICATIONS
+<employer>Fidelity Investments</employer>                                                                      <daterange><start days='734291' iso8601='2011-06-01'>June 2011</start> ­ <end days='present' iso8601='2012-04-01'>Present</end></daterange>
+ <description>Serve as a Lead Implementation Analyst for high visibility projects providing recommendations for improvement
+    and technical expertise alongside project lifecycle resulting in the delivery of projects on time
+ Elicit requirements from business to determine functional specifications leading to detailed system specifications
+ Perform Proof Of Concept(POC) on web design mock ups for proposed system to determine the architectural
+    solution and blueprinting strategy for NetBenefits.com and 401K benefit sites for various Fortune 500 companies
+ Create schemas, components, Template Building Blocks(TBB's), templates and pages using SDL Tridion
+    Dreamweaver Template language
+ Support production install and serve as point of contact for issue resolution in the capacity of a lead analyst
+ Conduct stand up meetings to manage communications between multiple teams to ensure project success
+ Utilize SharePoint to create and organize documents, information, lists and data
+ Develop user manuals and assist in training fellow employees to increase their knowledge of the system
+ Experience working in Agile (Scrum) project methodology</description></job>
+
+<job end='734291' id='2' naics='52311002' naics2='52' pos='2' sic='637102' sic2='63' start='733956'><title>FRONT END SOFTWARE ENGINEER</title>
+<employer>Fidelity Investments</employer>                                                                <daterange><start days='733956' iso8601='2010-07-01'>July 2010</start> ­ <end days='734291' iso8601='2011-06-01'>June 2011</end></daterange>
+ <description>Utilized HTML, CSS, and Javascript for developing static content
+ Proposed and implemented design solution that support Human Computer Interaction(HCI) principles
+ Served as the technical bridge between project analysts and application owners by engaging in daily code review
+    meetings
+ Implemented web measurement strategies, SEO best practices, and trends resulting in higher page views</description></job>
+
+<job id='3'><employer>SEARCH ENGINE OPTIMIZATION</employer> (<title>SEO) SPECIALIST (Intern)</title>
+<description>Web Full Circle                                                                   July 2009 ­ October 2009
+ Performed on-Site optimization for high search engine rankings
+ Generated a keyword list for client website
+ Performed off-site optimization by creating back links from sites with a high Google Page Rank</description></job>
+
+<job end='732769' id='4' pos='3' start='732587'><title>ASSOCIATE SOFTWARE ENGINEER</title>
+<employer>Patni Computer Systems</employer>                                                                <daterange><start days='732587' iso8601='2006-10-01'>October 2006</start> ­ <end days='732769' iso8601='2007-04-01'>April 2007</end></daterange>
+ <description>Collaborated as a member of Quality Assurance (QA) Team
+ Developed and executed test methodologies/strategies
+ Used UNIX as a platform for testing and maintaining servers</description></job></experience>
+
+<education>EDUCATION
+
+<school id='5'><degree level='18' name='Master of Science'>MASTER OF SCIENCE</degree> IN <major code='1699'>INFORMATION TECHNOLOGY</major>
+<institution>University of North Carolina</institution> at <address lat='44.3093' lon='-73.2387' majorcity='CHARLOTTE' state='VT'><city>Charlotte</city>, <country iso3='USA'>United States</country></address> (GPA: <gpa max='4' value='3.6'>3.6/4</gpa>) Graduated: <completiondate days='733895' iso8601='2010-05-01'>May 2010</completiondate></school>
+<school id='6'><degree level='16' name='Bachelor of Science'>BACHELOR OF SCIENCE</degree> IN <major code='1699'>INFORMATION TECHNOLOGY</major>
+<institution>University of Mumbai</institution>, <address><country iso3='IND'>India</country></address> (GPA: <gpa max='4' value='3.94'>3.94/4.0</gpa>) Graduated: <completiondate days='732465' iso8601='2006-06-01'>June 2006</completiondate>
+ACADEMIC PROJECTS (<description>Graduate Level)
+
+   ETrade application using MVC architecture with Servlets, JSP, JavaBeans and AJAX
+   Data mining project involving gathering and compiling data to make a thorough analysis and extract relevant
+   information
+   Researched on the use of IT in the healthcare integration process, its challenges and proposed possible
+   methodologies to tackle them
+   Performed a study of the legal and ethical issues in use of meta tags, images on websites</description></school></education>
+
+                                      <references>References available upon request</references>
+</resume>
+
+<skillrollup version='1'>
+  <canonskill name='adobe'>
+    <variant>Adobe</variant>
+  </canonskill>
+  <canonskill name='adobe photoshop'>
+    <variant>Adobe Photoshop</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='agile' start='734291'>
+    <variant>Agile</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='analysis' start='734291'>
+    <variant>Analyst</variant>
+    <variant>analyst</variant>
+  </canonskill>
+  <canonskill name='clearcase'>
+    <variant>ClearCase</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='com' start='734291'>
+    <variant>com</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='concept development' start='734291'>
+    <variant>Concept</variant>
+  </canonskill>
+  <canonskill end='734291' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='content management' start='733956'>
+    <variant>content</variant>
+    <variant>Content Management</variant>
+  </canonskill>
+  <canonskill end='734291' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='css' start='733956'>
+    <variant>CSS</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='3' idrefs='3' name='customer relations'>
+    <variant>client</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='6' idrefs='6' name='data mining'>
+    <variant>Data mining</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='delivery' start='734291'>
+    <variant>delivery</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='dreamweaver' start='734291'>
+    <variant>Dreamweaver</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='functional' start='734291'>
+    <variant>functional</variant>
+  </canonskill>
+  <canonskill end='734291' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='html' start='733956'>
+    <variant>HTML</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='6' idrefs='6' name='java server pages'>
+    <variant>JSP</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='6' idrefs='6' name='javabeans'>
+    <variant>JavaBeans</variant>
+  </canonskill>
+  <canonskill end='734291' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='javascript' start='733956'>
+    <variant>Javascript</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='6' idrefs='6' name='legal'>
+    <variant>legal</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='meeting facilitation' start='733956'>
+    <variant>meetings</variant>
+  </canonskill>
+  <canonskill name='microsoft access'>
+    <variant>MS Access</variant>
+  </canonskill>
+  <canonskill name='microsoft c #'>
+    <variant>C#</variant>
+  </canonskill>
+  <canonskill name='microsoft office'>
+    <variant>MS Office Suite</variant>
+  </canonskill>
+  <canonskill name='microsoft windows'>
+    <variant>Windows</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='6' idrefs='6' name='mvc'>
+    <variant>MVC</variant>
+  </canonskill>
+  <canonskill name='mysql'>
+    <variant>MySQL</variant>
+  </canonskill>
+  <canonskill name='operating systems'>
+    <variant>Operating System</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='3' idrefs='3' name='optimization'>
+    <variant>optimization</variant>
+  </canonskill>
+  <canonskill name='oracle'>
+    <variant>Oracle</variant>
+  </canonskill>
+  <canonskill end='734291' experience='1' expidrefs='2,3' idrefs='2,3' lastused='2011' name='page' start='733956'>
+    <variant>Page</variant>
+    <variant>page</variant>
+  </canonskill>
+  <canonskill name='perl'>
+    <variant>Perl</variant>
+  </canonskill>
+  <canonskill name='php'>
+    <variant>PHP</variant>
+  </canonskill>
+  <canonskill name='python'>
+    <variant>Python</variant>
+  </canonskill>
+  <canonskill end='732769' experience='1' expidrefs='4' idrefs='4' lastused='2007' name='quality control' start='732587'>
+    <variant>QA</variant>
+    <variant>Quality Assurance</variant>
+  </canonskill>
+  <canonskill name='rdbms'>
+    <variant>RDBMS</variant>
+  </canonskill>
+  <canonskill end='732769' experience='1' expidrefs='4' idrefs='4' lastused='2007' name='servers' start='732587'>
+    <variant>servers</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='6' idrefs='6' name='servlets'>
+    <variant>Servlets</variant>
+  </canonskill>
+  <canonskill name='sql'>
+    <variant>SQL Server</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='strategic' start='734291'>
+    <variant>strategy</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='technical writing' start='734291'>
+    <variant>user manuals</variant>
+  </canonskill>
+  <canonskill end='732769' experience='1' expidrefs='4' idrefs='4' lastused='2007' name='unix' start='732587'>
+    <variant>UNIX</variant>
+  </canonskill>
+  <canonskill name='unix shell scripting'>
+    <variant>UNIX
+Scripting</variant>
+  </canonskill>
+  <canonskill name='visio'>
+    <variant>Visio</variant>
+  </canonskill>
+  <canonskill name='visual studio'>
+    <variant>MS Visual Studio</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='6' end='734579' experience='1' expidrefs='1,3' idrefs='1,3,6' lastused='2012' name='web site production' start='734291'>
+    <variant>website</variant>
+    <variant>websites</variant>
+    <variant>web design</variant>
+  </canonskill>
+  <canonskill name='xml'>
+    <variant>XML</variant>
+  </canonskill>
+  <canonskill name='xslt'>
+    <variant>XSLT</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

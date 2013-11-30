@@ -1,0 +1,376 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CRS+BD", 
+            "Certification Name": "Certified Resume Specialist:Sales and Business Development", 
+            "Type": "Specialty", 
+            "Certification ID": "8996", 
+            "Certifying Organization": "Career Directors International"
+        }, 
+        {
+            "Acronym": "MCD", 
+            "Certification Name": "Master Career Director", 
+            "Type": "Advanced", 
+            "Certification ID": "9001", 
+            "Certifying Organization": "Career Directors International"
+        }, 
+        {
+            "Acronym": "CPLP", 
+            "Certification Name": "Certified Professional in Learning and Performance", 
+            "Type": "Core", 
+            "Certification ID": "4842", 
+            "Certifying Organization": "American Society for Training and Development"
+        }, 
+        {
+            "Acronym": "NCC", 
+            "Certification Name": "National Certified Counselor", 
+            "Type": "Advanced", 
+            "Certification ID": "0356", 
+            "Certifying Organization": "National Board for Certified Counselors"
+        }, 
+        {
+            "Acronym": "Diplomate", 
+            "Certification Name": "Certified Vocational Expert (Diplomate)", 
+            "Type": "Advanced", 
+            "Certification ID": "1415", 
+            "Certifying Organization": "American Board of Vocational Experts"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification in Cognitive Therapy", 
+            "Type": "Core", 
+            "Certification ID": "8670", 
+            "Certifying Organization": "Academy of Cognitive Therapy"
+        }, 
+        {
+            "Acronym": "CCAA", 
+            "Certification Name": "Certified Career Assessment Associate", 
+            "Type": "Core", 
+            "Certification ID": "5819", 
+            "Certifying Organization": "Commission on Rehabilitation Counselor Certification"
+        }, 
+        {
+            "Acronym": "CST", 
+            "Certification Name": "Sex Therapist Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "2096", 
+            "Certifying Organization": "American Association of Sexuality Educators, Counselors and Therapists"
+        }, 
+        {
+            "Acronym": "CRS+ES", 
+            "Certification Name": "Certified Resume Specialist: Engineering and Science", 
+            "Type": "Specialty", 
+            "Certification ID": "8990", 
+            "Certifying Organization": "Career Directors International"
+        }, 
+        {
+            "Acronym": "CRS+PR", 
+            "Certification Name": "Certified Resume Specialist:Public Relations and Marketing Communications", 
+            "Type": "Specialty", 
+            "Certification ID": "8995", 
+            "Certifying Organization": "Career Directors International"
+        }, 
+        {
+            "Acronym": "CRS+LL", 
+            "Certification Name": "Certified Resume Specialist: Legal/Law", 
+            "Type": "Specialty", 
+            "Certification ID": "8992", 
+            "Certifying Organization": "Career Directors International"
+        }, 
+        {
+            "Acronym": "CRS+IT", 
+            "Certification Name": "Certified Resume Specialist: Information Technology", 
+            "Type": "Specialty", 
+            "Certification ID": "8989", 
+            "Certifying Organization": "Career Directors International"
+        }, 
+        {
+            "Acronym": "CRS+E", 
+            "Certification Name": "Certified Resume Specialist: Education", 
+            "Type": "Specialty", 
+            "Certification ID": "8987", 
+            "Certifying Organization": "Career Directors International"
+        }, 
+        {
+            "Acronym": "CEDS", 
+            "Certification Name": "Certified Eating Disorders Specialist in Mental Health", 
+            "Type": "Advanced", 
+            "Certification ID": "2011", 
+            "Certifying Organization": "International Association of Eating Disorders Professionals"
+        }, 
+        {
+            "Acronym": "Fellow", 
+            "Certification Name": "Certified Vocational Expert (Fellow)", 
+            "Type": "Advanced", 
+            "Certification ID": "1414", 
+            "Certifying Organization": "American Board of Vocational Experts"
+        }, 
+        {
+            "Acronym": "CVE", 
+            "Certification Name": "Certified Vocational Evaluation Specialist", 
+            "Type": "Core", 
+            "Certification ID": "2092", 
+            "Certifying Organization": "Commission on Rehabilitation Counselor Certification"
+        }, 
+        {
+            "Acronym": "COP-GOV", 
+            "Certification Name": "Certified Outsourcing Professional- Outsourcing Governance", 
+            "Type": "Core", 
+            "Certification ID": "8673", 
+            "Certifying Organization": "International Association of Outsourcing Professionals"
+        }, 
+        {
+            "Acronym": "CEIC", 
+            "Certification Name": "Certified Employment Interview Consultant", 
+            "Type": "Core", 
+            "Certification ID": "9002", 
+            "Certifying Organization": "Career Directors International"
+        }, 
+        {
+            "Acronym": "MFCC/T", 
+            "Certification Name": "Master Federal Career Coach/Trainer", 
+            "Type": "Advanced", 
+            "Certification ID": "9005", 
+            "Certifying Organization": "Career Directors International"
+        }, 
+        {
+            "Acronym": "CRS+AC", 
+            "Certification Name": "Certified Resume Specialist: Administration and Clerical", 
+            "Type": "Specialty", 
+            "Certification ID": "8991", 
+            "Certifying Organization": "Career Directors International"
+        }, 
+        {
+            "Acronym": "GCDF", 
+            "Certification Name": "Global Career Development Facilitator", 
+            "Type": "Advanced", 
+            "Certification ID": "0368", 
+            "Certifying Organization": "Center for Credentialing & Education, Inc."
+        }, 
+        {
+            "Acronym": "NCRW", 
+            "Certification Name": "Nationally Certified Resume Writer", 
+            "Type": "Advanced", 
+            "Certification ID": "2071", 
+            "Certifying Organization": "National Resume Writers Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified EC-Council Instructor", 
+            "Type": "Advanced", 
+            "Certification ID": "6343", 
+            "Certifying Organization": "EC-Council"
+        }, 
+        {
+            "Acronym": "CSE", 
+            "Certification Name": "Sex Counselor Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "2095", 
+            "Certifying Organization": "American Association of Sexuality Educators, Counselors and Therapists"
+        }, 
+        {
+            "Acronym": "CRS+HM", 
+            "Certification Name": "Certified Resume Specialist: Healthcare and Medical", 
+            "Type": "Specialty", 
+            "Certification ID": "8986", 
+            "Certifying Organization": "Career Directors International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "National Board Certification - Early Childhood through Young Adulthood/School Counseling", 
+            "Type": "Specialty", 
+            "Certification ID": "4822", 
+            "Certifying Organization": "National Board for Professional Teaching Standards"
+        }, 
+        {
+            "Acronym": "CPRW", 
+            "Certification Name": "Certified Professional Resume Writer", 
+            "Type": "Core", 
+            "Certification ID": "2070", 
+            "Certifying Organization": "Professional Association of Resume Writers and Career Coaches"
+        }, 
+        {
+            "Acronym": "CWS", 
+            "Certification Name": "Certified Workforce Specialist", 
+            "Type": "Advanced", 
+            "Certification ID": "5632", 
+            "Certifying Organization": "International Association of Workforce Professionals"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Associate Certified Coach", 
+            "Type": "Core", 
+            "Certification ID": "4624", 
+            "Certifying Organization": "International Coach Federation"
+        }, 
+        {
+            "Acronym": "PCC", 
+            "Certification Name": "Professional Certified Coach", 
+            "Type": "Advanced", 
+            "Certification ID": "2089", 
+            "Certifying Organization": "International Coach Federation"
+        }, 
+        {
+            "Acronym": "CP - OJSRM", 
+            "Certification Name": "Certified Professional in Online Job Search and Reputation Management", 
+            "Type": "Core", 
+            "Certification ID": "9003", 
+            "Certifying Organization": "Career Directors International"
+        }, 
+        {
+            "Acronym": "MMRW", 
+            "Certification Name": "Master Military Resume Writer", 
+            "Type": "Specialty", 
+            "Certification ID": "9000", 
+            "Certifying Organization": "Career Directors International"
+        }, 
+        {
+            "Acronym": "CAS", 
+            "Certification Name": "Certified Addiction Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "2443", 
+            "Certifying Organization": "American Academy of Health Care Providers in the Addictive Disorders"
+        }, 
+        {
+            "Acronym": "PCM", 
+            "Certification Name": "Professional in Career Management", 
+            "Type": "Core", 
+            "Certification ID": "5839", 
+            "Certifying Organization": "TalentGuard"
+        }, 
+        {
+            "Acronym": "CRS+FS", 
+            "Certification Name": "Certified Resume Specialist: Financial Services", 
+            "Type": "Specialty", 
+            "Certification ID": "8985", 
+            "Certifying Organization": "Career Directors International"
+        }, 
+        {
+            "Acronym": "CRS+AF", 
+            "Certification Name": "Certified Resume Specialist: Accounting and Finance", 
+            "Type": "Specialty", 
+            "Certification ID": "8984", 
+            "Certifying Organization": "Career Directors International"
+        }, 
+        {
+            "Acronym": "CRS+PL", 
+            "Certification Name": "Certified Resume Specialist: Politics and Legislation", 
+            "Type": "Specialty", 
+            "Certification ID": "8999", 
+            "Certifying Organization": "Career Directors International"
+        }, 
+        {
+            "Acronym": "MFCC", 
+            "Certification Name": "Master Federal Career Coach", 
+            "Type": "Advanced", 
+            "Certification ID": "9004", 
+            "Certifying Organization": "Career Directors International"
+        }, 
+        {
+            "Acronym": "CRS+ES", 
+            "Certification Name": "Certified Resume Specialist: Emergency Services", 
+            "Type": "Specialty", 
+            "Certification ID": "8993", 
+            "Certifying Organization": "Career Directors International"
+        }, 
+        {
+            "Acronym": "NCSC", 
+            "Certification Name": "National Certified School Counselor", 
+            "Type": "Specialty", 
+            "Certification ID": "0358", 
+            "Certifying Organization": "National Board for Certified Counselors"
+        }, 
+        {
+            "Acronym": "COP-BD", 
+            "Certification Name": "Certified Outsourcing Professional- Business Development", 
+            "Type": "Core", 
+            "Certification ID": "8674", 
+            "Certifying Organization": "International Association of Outsourcing Professionals"
+        }, 
+        {
+            "Acronym": "COP-FP", 
+            "Certification Name": "Certified Outsourcing Specialist- Foundation Principles", 
+            "Type": "Core", 
+            "Certification ID": "8675", 
+            "Certifying Organization": "International Association of Outsourcing Professionals"
+        }, 
+        {
+            "Acronym": "CWPP", 
+            "Certification Name": "Certified Web Portfolio Practitioner", 
+            "Type": "Core", 
+            "Certification ID": "9006", 
+            "Certifying Organization": "Career Directors International"
+        }, 
+        {
+            "Acronym": "CRS+HR", 
+            "Certification Name": "Certified Resume Specialist:Training and Human Resources", 
+            "Type": "Specialty", 
+            "Certification ID": "8997", 
+            "Certifying Organization": "Career Directors International"
+        }, 
+        {
+            "Acronym": "CRS+TC", 
+            "Certification Name": "Certified Resume Specialist:Trades and Construction", 
+            "Type": "Specialty", 
+            "Certification ID": "8998", 
+            "Certifying Organization": "Career Directors International"
+        }, 
+        {
+            "Acronym": "CRS+NP", 
+            "Certification Name": "Certified Resume Specialist: Non-Profit", 
+            "Type": "Specialty", 
+            "Certification ID": "8994", 
+            "Certifying Organization": "Career Directors International"
+        }, 
+        {
+            "Acronym": "BCAB", 
+            "Certification Name": "Board Certified Behavior Analyst", 
+            "Type": "Advanced", 
+            "Certification ID": "5983", 
+            "Certifying Organization": "Behavior Analyst Certification Board"
+        }, 
+        {
+            "Acronym": "CMRW", 
+            "Certification Name": "Certified Master Resume Writer", 
+            "Type": "Advanced", 
+            "Certification ID": "8983", 
+            "Certifying Organization": "Career Directors International"
+        }, 
+        {
+            "Acronym": "CARW", 
+            "Certification Name": "Certified Advanced Resume Writer", 
+            "Type": "Advanced", 
+            "Certification ID": "8982", 
+            "Certifying Organization": "Career Directors International"
+        }, 
+        {
+            "Acronym": "CRS+HT", 
+            "Certification Name": "Certified Resume Specialist: Hospitality and Tourism", 
+            "Type": "Specialty", 
+            "Certification ID": "8988", 
+            "Certifying Organization": "Career Directors International"
+        }, 
+        {
+            "Acronym": "DCF", 
+            "Certification Name": "Distance Credential Facilitator", 
+            "Type": "Advanced", 
+            "Certification ID": "5436", 
+            "Certifying Organization": "Center for Credentialing & Education, Inc."
+        }, 
+        {
+            "Acronym": "DCC", 
+            "Certification Name": "Distance Credentialed Counselor", 
+            "Type": "Advanced", 
+            "Certification ID": "3817", 
+            "Certifying Organization": "Center for Credentialing & Education, Inc."
+        }, 
+        {
+            "Acronym": "CEIP", 
+            "Certification Name": "Certified Employment Interview Professional", 
+            "Type": "Core", 
+            "Certification ID": "2510", 
+            "Certifying Organization": "Professional Association of Resume Writers and Career Coaches"
+        }
+    ], 
+    "onet": "21101200"
+}

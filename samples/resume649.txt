@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734595' xml:space='preserve'><contact><name><givenname>ROBERTO</givenname> <surname>HEREDIA</surname></name>
+<address lat='25.8654' lon='80.2994' majorcity='HIALEAH' state='FL'><street>1950 W. 54th Street. Apt. 117</street>
+<city>Hialeah</city>, <state abbrev='FL'>Florida</state> <postalcode>33012</postalcode></address>
+<phone>(305)828-1246</phone></contact>
+
+<summary>OBJECTIVE:	<objective>To obtain a position within an organization that will allow me to use my knowledge and experience to the highest of my abilities to help grow the organization.</objective></summary>
+<education>EDUCATION:	
+<school id='6'><completiondate days='730182' iso8601='2000-03-01'>03/00</completiondate>	<institution>EBT</institution>
+<courses>Formal Technical course for Refrigeration and A/C repairs. Certificate of 
+        Completion.</courses></school>
+
+<school id='7'><daterange><start days='729178' iso8601='1997-06-01'>06/97</start>-<end days='729208' iso8601='1997-07-01'>7/97</end></daterange>	<institution>Sony Corporation of Panama</institution>, <degree>S.A</degree>.
+<courses>Sony Mini-Disc Seminar. Certificate of Completion.
+
+09/90-12/90	Audio Visual Caribbean by Sony, S.A.
+T.V. and Audio Seminar. Certificate of Completion
+08/82-11/82	Prevost Cinematographic of Italy.
+Cinematography Seminar</courses></school>
+<school id='8'><daterange><start days='716851' iso8601='1963-09-01'>09/63</start>-<end days='716942' iso8601='1963-12-01'>12/63</end></daterange>	<description>Tesla Cinematographic of Czechoslovakia
+Cinematography Seminar
+4/61-4/61	Dresden Cinematographic of Germany
+Cinematography Seminar</description>
+<daterange><start days='714020' iso8601='1955-12-01'>12/55</start>-<end days='714751' iso8601='1957-12-01'>12/57</end></daterange>	Technical Radio and <institution>Television Institute of Cuba</institution>
+<degree>Technical Degree</degree> in <major code='4505'>Audio and TV</major></school></education>
+
+<experience end='present' start='715543'>EXPERIENCE:
+<job end='present' id='1' pos='1' sic='554101' sic2='55' start='734171'><daterange><start days='734171' iso8601='2011-02-01'>02/11</start>- <end days='present' iso8601='2012-03-31'>Present</end></daterange>	<employer>R.H. Repair Services</employer>
+		<title>Business Owner</title>
+		<address><city>Miami</city>, <state abbrev='FL'>Florida</state></address></job>
+
+<job end='734109' id='2' pos='2' sic='8211' sic2='82' start='730519'><daterange><start days='730519' iso8601='2001-02-01'>02/01</start>-<end days='734109' iso8601='2010-12-01'>12/10</end></daterange>	<employer>Belen Catholic School</employer> 
+<address><city>Miami</city>, <state abbrev='FL'>Florida</state></address>
+
+		Position: 	<title>Head of Electrical Maintenance</title> 
+
+<description>Responsible for the up keeping and maintenance of all of electrical systems 
+	(exterior and interior) and repairs for all of the equipment in the school
+Responsible for the up keeping of all electrical systems of the school keeping them up to Miami Dade Code Standards via modifications or new installations.</description></job>
+
+<job end='730488' id='3' pos='3' sic='502316' sic2='50' start='730243'><daterange><start days='730243' iso8601='2000-05-01'>05/00</start>- <end days='730488' iso8601='2001-01-01'>01/01</end></daterange>	<employer>Tempo Lighting</employer>
+<address><city>Miami</city>, <state abbrev='FL'>Florida</state></address>
+
+Position:	<title>Head of Shipping and Receiving</title>
+
+<description>Responsible for all the raw materials coming in as well as all the finished products being shipped out to the customers.</description></job>
+
+<job end='730182' id='4' pos='4' sic='504304' sic2='50' start='729816'><daterange><start days='729816' iso8601='1999-03-01'>3/99</start>-<end days='730182' iso8601='2000-03-01'>03/00</end></daterange>	<employer>International Cinema Equipment Co. Inc</employer>. 
+<department>Technical/Support Department</department>
+<address><city>Miami</city>, <state abbrev='FL'>Florida</state></address>
+		
+Position:	 <title>Technician</title>:
+
+<description>Responsible for all repairs and rebuilding of projection equipment such as Simplex, Century and audio heads
+Repairing of electrical and electronics circuits
+Installation and final adjustment of equipment and machinery
+Rebuilding and alignment of movie platters
+Full rebuilding and adjustments of Christine consoles</description></job>
+
+<job end='729816' id='5' pos='5' start='715543'><daterange><start days='715543' iso8601='1960-02-01'>2/60</start>-<end days='729816' iso8601='1999-03-01'>3/99</end></daterange>	<employer>Instituto Cubano del Arte e Industria Cinematografica</employer> (<employer>ICAIC</employer>), <address><city>La Habana</city>, <country iso3='CUB'>Cuba</country></address>
+
+Position:	 <title>Head</title> of the Technical/Support Team
+
+<description>Responsible for all major events of the Cuban Institute of Art including both Expo 67 in Montreal (Canada) and Expo 86 in Vancouver (British Columbia)
+Responsible for all repair and rebuilding of projection equipment
+Repairing of electrical and electronic circuits
+Installation and final adjustment of equipment
+Responsible for the development of all technical projects (video, audio &amp; theaters) of all major events</description></job></experience>
+
+<skills>SKILLS:
+<languages>Read, write, and speak Spanish fluently</languages>
+Proficient in computer and computer programs : <skills>MS Office software
+Excellent presentation skills</skills>
+<description>Capable of organizing and coordinating projects from inception through completion
+Ability to plan and set priorities to meet objectives
+Certified Refrigeration and AC repairman.</description></skills>
+
+
+<references>REFERENCES:	Available upon request</references>		
+
+
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='729816' experience='1' expidrefs='5' idrefs='5' lastused='1999' name='art' start='715543'>
+    <variant>Art</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='7' end='730182' experience='1' expidrefs='4,5' idrefs='7,4,5' lastused='2000' name='audio' start='715543'>
+    <variant>Audio</variant>
+    <variant>audio</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='6' idrefs='6' name='c'>
+    <variant>C</variant>
+  </canonskill>
+  <canonskill end='730182' experience='1' expidrefs='4' idrefs='4' lastused='2000' name='electronics' start='729816'>
+    <variant>electronics</variant>
+  </canonskill>
+  <canonskill end='730182' experience='1' expidrefs='4' idrefs='4' lastused='2000' name='machinery' start='729816'>
+    <variant>machinery</variant>
+  </canonskill>
+  <canonskill end='730488' experience='1' expidrefs='3' idrefs='3' lastused='2001' name='materials management' start='730243'>
+    <variant>materials</variant>
+  </canonskill>
+  <canonskill name='microsoft office'>
+    <variant>MS Office</variant>
+  </canonskill>
+  <canonskill name='organizational skills'>
+    <variant>organizing</variant>
+  </canonskill>
+  <canonskill name='presentation skills'>
+    <variant>Excellent presentation skills</variant>
+  </canonskill>
+  <canonskill name='read'>
+    <variant>Read</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='6' end='734109' experience='1' expidrefs='2,4,5' idrefs='6,2,4,5' lastused='2010' name='repair' start='715543'>
+    <variant>repairs</variant>
+    <variant>Repairing</variant>
+  </canonskill>
+  <canonskill name='spanish'>
+    <variant>speak Spanish</variant>
+  </canonskill>
+  <canonskill end='729816' experience='1' expidrefs='5' idrefs='5' lastused='1999' name='video' start='715543'>
+    <variant>video</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

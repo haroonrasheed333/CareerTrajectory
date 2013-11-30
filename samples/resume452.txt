@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734594' xml:space='preserve'>SAMANTHA LANE LIVINGSTON
+<contact><address lat='32.5554' lon='83.6209' majorcity='BONAIRE' state='GA'><street>111 Sisson Drive</street>
+<city>Bonaire</city>, <state abbrev='GA'>GA</state> <postalcode>31005</postalcode></address>
+<phone>(478) 442 - 0843</phone></contact>
+
+
+<summary>CAREER OBJECTIVE
+
+<objective>Highly motivated, goal oriented individual with several years customer service experience. Seeking a challenging position to broaden my career.</objective></summary>
+
+<skills>SKILLS
+*Experienced in clerical customer service areas  and general office skills
+*Extensive knowledge of <skills>Microsoft software to include Microsoft Windows and Microsoft Office: Microsoft Word, Excel, and PowerPoint.  Proficient with Internet and Internet capabilities.
+*Interpersonal communication skills
+*Strong organizational skills
+*Strong attention to detail
+* Ability to multitask and stay organized</skills></skills> 
+
+<education>EDUCATION
+
+<school id='4'><institution>Houston County Career and Technology Center</institution>,  <daterange><start days='732710' iso8601='2007-02-01'>February 2007</start>- Obtained</daterange> <degree level='12'>High School Diploma</degree></school></education> 
+
+<experience end='present' start='732069'>EXPERIENCE
+
+<job end='present' id='1' pos='1' sic='581224' sic2='58' start='732345'><daterange><start days='732345' iso8601='2006-02-01'>February 2006</start> - <end days='present' iso8601='2012-03-30'>Present</end></daterange> 
+<title>Cashier, Server, and Trainer</title> - <employer>Sonny's Real Pit BBQ</employer> <address><city>Warner Robins</city>, <state abbrev='GA'>GA</state></address> (478) 929- 3333    
+*<description>Provide excellent customer service
+*Handle cash/credit cash register and server banking on aloha operating system terminal computers
+*Answer multi-line telephone
+*Train new employees</description></job>
+ 
+<job end='732314' id='2' naics='45112035' naics2='45' pos='2' sic='594517' sic2='59' start='732222'><daterange><start days='732222' iso8601='2005-10-01'>October 2005</start> - <end days='732314' iso8601='2006-01-01'>January 2006</end></daterange> 
+<title>Seasonal Cashier</title> - <employer>Toys R Us</employer> <address><city>Centerville</city>, <state abbrev='GA'>GA</state></address> (478) 953-1892
+*<description>Provided excellent customer service
+*Handled cash/credit cash register
+*Stocked shelves 
+*Answered multi-line telephone</description></job>
+
+<job end='732100' id='3' pos='3' start='732069'><daterange><start days='732069' iso8601='2005-05-01'>May</start> - <end days='732100' iso8601='2005-06-01'>June 2005</end></daterange>
+<title>Administrative Assistant</title> - <description>Dr. Alan G. Struth,  M.D, Internal Medicine, Warner Robins, GA
+*General administrative support such as data entry, filing, typing, and photocopying
+*Scheduled appointments for patients
+*Reminded patients of their appointments
+*Processed checks and credit card payments
+*Answered multi-line telephone
+
+HOBBIES
+
+Actively involved playing softball for twelve years, including two years with Tabor Middle School and every summer with the Warner Robins Recreation Department.  Also enjoy swimming and other outdoor activities.</description></job></experience>
+
+<references>REFERENCES
+
+Michael Weese
+WarnerRobins,Ga
+478-218-2100
+
+Terry Jones 
+Warner robins, Ga
+478-929-3333</references>
+
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='732100' experience='1' expidrefs='3' idrefs='3' lastused='2005' name='administrative support' start='732069'>
+    <variant>administrative support</variant>
+  </canonskill>
+  <canonskill name='attention to detail'>
+    <variant>attention to detail</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='banking' start='732345'>
+    <variant>banking</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='cashier' start='732222'>
+    <variant>cash register</variant>
+  </canonskill>
+  <canonskill name='clerical'>
+    <variant>clerical</variant>
+  </canonskill>
+  <canonskill name='communication skills'>
+    <variant>Interpersonal communication</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,3' idrefs='1,2,3' lastused='2012' name='credit' start='732069'>
+    <variant>credit</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='customer service' start='732222'>
+    <variant>excellent customer service</variant>
+    <variant>customer service</variant>
+  </canonskill>
+  <canonskill end='732100' experience='1' expidrefs='3' idrefs='3' lastused='2005' name='data entry' start='732069'>
+    <variant>data entry</variant>
+  </canonskill>
+  <canonskill end='732100' experience='1' expidrefs='3' idrefs='3' lastused='2005' name='file management' start='732069'>
+    <variant>filing</variant>
+  </canonskill>
+  <canonskill name='general office duties'>
+    <variant>general office</variant>
+  </canonskill>
+  <canonskill name='microsoft'>
+    <variant>Microsoft software</variant>
+  </canonskill>
+  <canonskill name='microsoft excel'>
+    <variant>Excel</variant>
+  </canonskill>
+  <canonskill name='microsoft office'>
+    <variant>Microsoft Office</variant>
+  </canonskill>
+  <canonskill name='microsoft powerpoint'>
+    <variant>PowerPoint</variant>
+  </canonskill>
+  <canonskill name='microsoft windows'>
+    <variant>Microsoft Windows</variant>
+  </canonskill>
+  <canonskill name='microsoft word'>
+    <variant>Microsoft Word</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,3' idrefs='1,2,3' lastused='2012' name='multi - line telephones' start='732069'>
+    <variant>multi-line telephone</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='operating systems' start='732345'>
+    <variant>operating system</variant>
+  </canonskill>
+  <canonskill name='organizational skills'>
+    <variant>Strong organizational skills</variant>
+  </canonskill>
+  <canonskill end='732100' experience='1' expidrefs='3' idrefs='3' lastused='2005' name='typing' start='732069'>
+    <variant>typing</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

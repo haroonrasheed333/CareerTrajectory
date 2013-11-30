@@ -1,0 +1,242 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734595' xml:space='preserve'><contact><name><givenname>Amit</givenname> <surname>Borkar</surname></name> Cell: <phone type='cell'>(301) 275-0632</phone> <email>amitab@gwmail.gwu.edu</email></contact>
+
+<summary>Career Accomplishments
+
+<summary>7 years of IT Experience in all phases of SDLC including fast paced iterative development.
+Masters in Computer Science and Masters in Computer Applications 
+Expertise in web development using Ruby on Rails, HTML5, jQuery and .net MVC
+Experience working with Twitter API's and SMS Aggregators including mBlox and Verisign.
+Strong cloud computing experience with VPS - Amazon, Rackspace, Engineyard and Heroku
+In-depth knowledge of multi tier application architecture using Object Oriented Programming.</summary></summary>
+<experience end='present' start='731096'><job end='present' id='1' pos='1' sic='272102' sic2='27' start='733561'><description>Skills - Ruby, C#, ASP.net, MVC, Nginx, MySQL, jQuery, haml.</description>
+
+<title>Software Developer</title> - <employer>The Phoenix Media Communications Group</employer> (DBA g8wave), <address lat='42.3079' lon='-71.0822' majorcity='BOSTON' state='MA'><city>Boston</city> <state abbrev='MA'>MA</state></address>	(<daterange><start days='733561' iso8601='2009-06-01'>June 09</start> - <end days='present' iso8601='2012-03-31'>present</end></daterange>)
+
+<description>Responsible for redesigning, developing and maintaining a mobile platform in Ruby on Rails, Nginx, thin/ mongrel/unicorn stack and MySQL, hosted on the Engineyard cloud. Our platform functions as a SaaS for clients who implement SMS mobile campaigns, Trivia, Coupon codes and Mobile Giving.
+Built an Art Request system to facilitate art flow in print media, essentially eliminating paperwork by about 70%.
+Developing client web and mobile sites using HTML5, CSS3, jQuery, Prototype and Ruby on Rails.
+Lead developer - deciding on technical and functional requirements in a fast paced environment.
+Maintaining sites hosted on Umbraco content management system and aspdotnetstorefront e-commerce platform. 
+Supporting clients implementing our REST web services on their existing platforms.</description></job> 
+
+<job end='733530' id='2' pos='2' start='733196'><title>Software Developer</title> - <employer>Thummit Inc</employer>, Washington DC 						(<daterange><start days='733196' iso8601='2008-06-01'>June 08</start> - <end days='733530' iso8601='2009-05-01'>May 09</end></daterange>)
+
+<description>Responsible for designing and implementing a Service Oriented Architecture (SOA) using .NET Remoting and Web Services with Microsoft SQL Server 2005 as the backend 
+Coordinate with the off shore team to discuss functional and technical requirements. 
+Designed, Developed, and implemented a solution to integrate the Application with Twitter and Short Message Service (SMS) on Mobile phones. 
+Coding Web Interfaces with ASP.net using Visual Studio 2005 and the Microsoft AJAX control toolkit.</description></job> 
+
+<job end='732891' id='3' pos='3' sic='382998' sic2='38' start='732557'><title>Programmer Analyst</title> - <employer>Mastek Ltd</employer>. (CMM Level 5)						(<daterange><start days='732557' iso8601='2006-09-01'>Sept 06</start> - <end days='732891' iso8601='2007-08-01'>Aug 07</end></daterange>)
+
+<description>Designing and Developing a Web based e-procurement solution for the Government of Bahrain. 
+Worked on Database design. Extensively wrote database procedures and functions. 
+Worked together on designing the Web frontend using ASP.net 2.0 with Visual Studio 2005. 
+Designed an innovative dynamic Audit Trail Component using PL/SQL to track data changes by System. 
+Member of the Research team for testing and implementing new and cutting edge tools and technologies.</description></job>
+
+<job end='732557' id='4' pos='4' start='732253'><title>Application Developer</title> - Government of <address><country iso3='IND'>India</country></address> 							(<daterange><start days='732253' iso8601='2005-11-01'>Nov 05</start> - <end days='732557' iso8601='2006-09-01'>Sep 06</end></daterange>)
+
+<description>Collaborated in designing, developing and implementing a standalone desktop Revenue Collection Management System for the State Department of Irrigation to help keep track of revenues generated. 
+Responsible for understanding clients' business needs and finalizing requirements before converting them to design. 
+Also responsible for coding, testing and implementing components using the .net framework and C# with Visual Studio 2003 which was later upgraded to Visual Studio 2005 
+Provided production support, post deployment and held training and information sessions for end users.</description></job>
+
+<job end='732130' id='5' pos='5' start='731918'><title>Technical Support Engineer</title> - Linksys a CISCO Company					(<daterange><start days='731918' iso8601='2004-12-01'>Dec 04</start> -<end days='732130' iso8601='2005-07-01'>July 05</end></daterange>)
+
+<description>Troubleshooting and configuring Routers and Gateways over Cable, DSL and ADSL Internet service providers. 
+Provided Support in building a home or business, wireless or wired network as per the customers need, using Routers, Gateways, Adapters, Video Cameras, Range Expanders, Print Servers, switches and hubs.</description></job>
+<job end='731277' id='6' pos='6' start='731096'><title>Software Tester</title> - <employer>Datapro Infoworld Ltd</employer> 							(<daterange><start days='731096' iso8601='2002-09-01'>Sep 02</start> - <end days='731277' iso8601='2003-03-01'>Mar 03</end></daterange>)
+
+<description>Testing of Web and Desktop applications. System testing, regression and integration testing. 
+Wrote unit test cases and did peer-to-peer testing. 
+Maintaining and deploying in-house web applications.</description></job></experience>
+
+<skills>Skill Set
+
+<skills>Technologies - .NET Framework, ASP.NET Webforms and MVC, SOA, Ruby on Rails
+Programming languages - C#, Visual Basic.net, Ruby
+Scripting and Markup Languages - JavaScript, VBScript, XML, HTML5, DHTML 
+Database - Oracle 8i/9i/10g, MS SQL Server 2000/2005, MS Access, MySQL 
+Version Control Systems - SVN, CVS, MS. Visual SourceSafe, GIT</skills></skills>
+
+
+<education>Education
+ 
+<school id='7'><degree level='18'>Masters</degree> in <major code='0402'>Computer Science</major> - <institution>George Washington University</institution> (GPA-<gpa max='4' value='3.6'>3.6</gpa>) 				<completiondate days='733379' iso8601='2008-12-01'>Dec 2008</completiondate></school>
+<school id='8'><degree level='18'>Masters</degree> in <major code='0405'>Computer Applications</major> - <institution>Pune University</institution> (GPA-<gpa max='4' value='3.5'>3.5</gpa>) 					<completiondate days='732465' iso8601='2006-06-01'>June 2006</completiondate></school></education>
+
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='733530' experience='1' expidrefs='2,3,4' idrefs='2,3,4' lastused='2009' name='.net' start='732253'>
+    <variant>ASP.net</variant>
+    <variant>.NET</variant>
+    <variant>.net</variant>
+    <variant>Visual Basic.net</variant>
+    <variant>ASP.net 2.0</variant>
+    <variant>ASP.NET</variant>
+  </canonskill>
+  <canonskill end='732130' experience='1' expidrefs='5' idrefs='5' lastused='2005' name='adsl' start='731918'>
+    <variant>ADSL</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='art' start='733561'>
+    <variant>Art</variant>
+    <variant>art</variant>
+  </canonskill>
+  <canonskill end='732130' experience='1' expidrefs='5' idrefs='5' lastused='2005' name='cabling' start='731918'>
+    <variant>Cable</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='content management' start='733561'>
+    <variant>content management</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='css' start='733561'>
+    <variant>CSS3</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,4' idrefs='1,4' lastused='2012' name='customer relations' start='732253'>
+    <variant>client</variant>
+    <variant>clients</variant>
+  </canonskill>
+  <canonskill name='cvs'>
+    <variant>Version Control</variant>
+    <variant>CVS</variant>
+  </canonskill>
+  <canonskill end='732891' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='database administration' start='732557'>
+    <variant>Database</variant>
+    <variant>database</variant>
+  </canonskill>
+  <canonskill end='732891' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='database design' start='732557'>
+    <variant>Database design</variant>
+  </canonskill>
+  <canonskill end='733530' experience='1' expidrefs='2,3,4' idrefs='2,3,4' lastused='2009' name='design' start='732253'>
+    <variant>Designing</variant>
+    <variant>designing</variant>
+  </canonskill>
+  <canonskill name='dhtml'>
+    <variant>DHTML</variant>
+  </canonskill>
+  <canonskill end='732130' experience='1' expidrefs='5' idrefs='5' lastused='2005' name='dsl' start='731918'>
+    <variant>DSL</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='e - commerce' start='733561'>
+    <variant>e-commerce</variant>
+  </canonskill>
+  <canonskill end='732891' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='edge' start='732557'>
+    <variant>edge</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='fast' start='733561'>
+    <variant>fast</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='functional' start='733196'>
+    <variant>functional</variant>
+  </canonskill>
+  <canonskill end='732130' experience='1' expidrefs='5' idrefs='5' lastused='2005' name='gateway' start='731918'>
+    <variant>Gateways</variant>
+  </canonskill>
+  <canonskill end='732891' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='government' start='732557'>
+    <variant>Government</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='html' start='733561'>
+    <variant>HTML5</variant>
+  </canonskill>
+  <canonskill end='732130' experience='1' expidrefs='5' idrefs='5' lastused='2005' name='hubs' start='731918'>
+    <variant>hubs</variant>
+  </canonskill>
+  <canonskill name='javascript'>
+    <variant>JavaScript</variant>
+  </canonskill>
+  <canonskill name='languages'>
+    <variant>Languages</variant>
+    <variant>languages</variant>
+  </canonskill>
+  <canonskill name='microsoft access'>
+    <variant>MS Access</variant>
+  </canonskill>
+  <canonskill end='732557' experience='1' expidrefs='4' idrefs='4' lastused='2006' name='microsoft c #' start='732253'>
+    <variant>C#</variant>
+  </canonskill>
+  <canonskill name='microsoft windows 2000'>
+    <variant>2000</variant>
+  </canonskill>
+  <canonskill experience='1' name='mvc'>
+    <variant>MVC</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='mysql' start='733561'>
+    <variant>MySQL</variant>
+  </canonskill>
+  <canonskill end='732130' experience='1' expidrefs='5' idrefs='5' lastused='2005' name='networking' start='731918'>
+    <variant>network</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='oracle developer 2000' start='733561'>
+    <variant>developer</variant>
+  </canonskill>
+  <canonskill end='732891' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='oracle pl/sql' start='732557'>
+    <variant>PL/SQL</variant>
+  </canonskill>
+  <canonskill name='oracle version 8'>
+    <variant>Oracle 8i</variant>
+  </canonskill>
+  <canonskill end='732130' experience='1' expidrefs='5' idrefs='5' lastused='2005' name='photography' start='731918'>
+    <variant>Cameras</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='print media' start='733561'>
+    <variant>print media</variant>
+  </canonskill>
+  <canonskill end='732130' experience='1' expidrefs='5' idrefs='5' lastused='2005' name='print servers' start='731918'>
+    <variant>Print Servers</variant>
+  </canonskill>
+  <canonskill end='732891' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='procurement' start='732557'>
+    <variant>procurement</variant>
+  </canonskill>
+  <canonskill end='733530' experience='1' expidrefs='2,4' idrefs='2,4' lastused='2009' name='programming' start='732253'>
+    <variant>Coding</variant>
+    <variant>coding</variant>
+    <variant>Programming</variant>
+  </canonskill>
+  <canonskill end='732891' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='research' start='732557'>
+    <variant>Research</variant>
+  </canonskill>
+  <canonskill end='732130' experience='1' expidrefs='5' idrefs='5' lastused='2005' name='routers' start='731918'>
+    <variant>Routers</variant>
+  </canonskill>
+  <canonskill name='shell scripting'>
+    <variant>Scripting</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='sms' start='733196'>
+    <variant>SMS</variant>
+  </canonskill>
+  <canonskill name='sourcesafe'>
+    <variant>Visual SourceSafe</variant>
+  </canonskill>
+  <canonskill end='733530' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='sql' start='733196'>
+    <variant>MS SQL Server</variant>
+    <variant>Microsoft SQL Server</variant>
+  </canonskill>
+  <canonskill end='732130' experience='1' expidrefs='5' idrefs='5' lastused='2005' name='switches' start='731918'>
+    <variant>switches</variant>
+  </canonskill>
+  <canonskill end='733530' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='telephone skills' start='733196'>
+    <variant>phones</variant>
+  </canonskill>
+  <canonskill end='732130' experience='1' expidrefs='5' idrefs='5' lastused='2005' name='troubleshooting' start='731918'>
+    <variant>Troubleshooting</variant>
+  </canonskill>
+  <canonskill name='vbscript'>
+    <variant>VBScript</variant>
+  </canonskill>
+  <canonskill end='732130' experience='1' expidrefs='5' idrefs='5' lastused='2005' name='video' start='731918'>
+    <variant>Video</variant>
+  </canonskill>
+  <canonskill end='733530' experience='1' expidrefs='2,3,4' idrefs='2,3,4' lastused='2009' name='visual studio' start='732253'>
+    <variant>Visual Studio</variant>
+  </canonskill>
+  <canonskill end='731277' experience='1' expidrefs='6' idrefs='6' lastused='2003' name='web application development' start='731096'>
+    <variant>web applications</variant>
+  </canonskill>
+  <canonskill name='xml'>
+    <variant>XML</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

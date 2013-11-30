@@ -1,0 +1,166 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CWcHP", 
+            "Certification Name": "Certified Workers Compensation Healthcare Provider", 
+            "Type": "Core", 
+            "Certification ID": "8949", 
+            "Certifying Organization": "International Sports Professionals Association"
+        }, 
+        {
+            "Acronym": "ECS", 
+            "Certification Name": "Clinical Electrophysiologic Certified Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "0426", 
+            "Certifying Organization": "American Board of Physical Therapy Specialties"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Senior Fitness Specialty Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "9113", 
+            "Certifying Organization": "American Council on Exercise"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Occupational Therapy: Physical Rehabilitation", 
+            "Type": "Specialty", 
+            "Certification ID": "6453", 
+            "Certifying Organization": "American Occupational Therapy Association, Inc."
+        }, 
+        {
+            "Acronym": "MES", 
+            "Certification Name": "Medical Exercise Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "1058", 
+            "Certifying Organization": "American Academy of Health, Fitness, & Rehabilitation Professionals"
+        }, 
+        {
+            "Acronym": "CWS", 
+            "Certification Name": "Certified Wound Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "5904", 
+            "Certifying Organization": "American Board of Wound Management"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Medical Exercise Program Director", 
+            "Type": "Advanced", 
+            "Certification ID": "5730", 
+            "Certifying Organization": "American Academy of Health, Fitness, & Rehabilitation Professionals"
+        }, 
+        {
+            "Acronym": "RKT", 
+            "Certification Name": "Registered Kinesiotherapy", 
+            "Type": "Core", 
+            "Certification ID": "6756", 
+            "Certifying Organization": "Council on Professional Standards for Kinesiotherapy"
+        }, 
+        {
+            "Acronym": "BCN", 
+            "Certification Name": "Board Certified in Neurofeedback", 
+            "Type": "Specialty", 
+            "Certification ID": "6711", 
+            "Certifying Organization": "Biofeedback Certification International Alliance"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Technician Certification in Biofeedback", 
+            "Type": "Specialty", 
+            "Certification ID": "6716", 
+            "Certifying Organization": "Biofeedback Certification International Alliance"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Conditioning Specialist Certification", 
+            "Type": "Core", 
+            "Certification ID": "2039", 
+            "Certifying Organization": "National Strength Professionals Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Post Rehab Conditioning Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "5097", 
+            "Certifying Organization": "American Academy of Health, Fitness, & Rehabilitation Professionals"
+        }, 
+        {
+            "Acronym": "CSCS", 
+            "Certification Name": "Certified Strength and Conditioning Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "1056", 
+            "Certifying Organization": "National Strength and Conditioning Association - Certification Commission"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Orthopedic Exercise Specialty Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "9111", 
+            "Certifying Organization": "American Council on Exercise"
+        }, 
+        {
+            "Acronym": "CHT", 
+            "Certification Name": "Certified Hand Therapist", 
+            "Type": "Specialty", 
+            "Certification ID": "2270", 
+            "Certifying Organization": "Hand Therapy Certification Commission, Inc."
+        }, 
+        {
+            "Acronym": "BCB", 
+            "Certification Name": "Board Certified in Biofeedback", 
+            "Type": "Specialty", 
+            "Certification ID": "2318", 
+            "Certifying Organization": "Biofeedback Certification International Alliance"
+        }, 
+        {
+            "Acronym": "SCS", 
+            "Certification Name": "Sports Certified Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "0431", 
+            "Certifying Organization": "American Board of Physical Therapy Specialties"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Technician Certification in Neurofeedback", 
+            "Type": "Specialty", 
+            "Certification ID": "6715", 
+            "Certifying Organization": "Biofeedback Certification International Alliance"
+        }, 
+        {
+            "Acronym": "COMT", 
+            "Certification Name": "Certification in Orthopedic Manual Therapy", 
+            "Type": "Advanced", 
+            "Certification ID": "9529", 
+            "Certifying Organization": "International Academy of Orthopedic Medicine - US"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Therapeutic Exercise Specialty Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "9112", 
+            "Certifying Organization": "American Council on Exercise"
+        }, 
+        {
+            "Acronym": "WCC", 
+            "Certification Name": "Wound Care Certifed", 
+            "Type": "Specialty", 
+            "Certification ID": "6051", 
+            "Certifying Organization": "National Alliance of Wound Care"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Women's Health Certified Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "6477", 
+            "Certifying Organization": "American Board of Physical Therapy Specialties"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Board Certified in Pelvic Muscle Dysfunction Biofeedback", 
+            "Type": "Specialty", 
+            "Certification ID": "4022", 
+            "Certifying Organization": "Biofeedback Certification International Alliance"
+        }
+    ], 
+    "onet": "29112300"
+}

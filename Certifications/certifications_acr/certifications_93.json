@@ -1,0 +1,327 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Oracle E-Business Suite 12 Financial Management Certified Implementation Specialist: Oracle General", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7088", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "FRM", 
+            "Certification Name": "Certified Financial Risk Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "2219", 
+            "Certifying Organization": "Global Association of Risk Professionals"
+        }, 
+        {
+            "Acronym": "ARM-P", 
+            "Certification Name": "Associate in Risk Management for Public Entities", 
+            "Type": "Core", 
+            "Certification ID": "3108", 
+            "Certifying Organization": "The Institutes"
+        }, 
+        {
+            "Acronym": "CFSA", 
+            "Certification Name": "Certified Financial Services Auditor", 
+            "Type": "Core", 
+            "Certification ID": "3739", 
+            "Certifying Organization": "Institute of Internal Auditors"
+        }, 
+        {
+            "Acronym": "CFS", 
+            "Certification Name": "Certified Fund Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "9021", 
+            "Certifying Organization": "Institute of Business & Finance"
+        }, 
+        {
+            "Acronym": "CPP", 
+            "Certification Name": "Certified Profitability Professional", 
+            "Type": "Core", 
+            "Certification ID": "9051", 
+            "Certifying Organization": "Association for Management Information in Financial Services"
+        }, 
+        {
+            "Acronym": "CDFA", 
+            "Certification Name": "Certified Divorce Financial Analyst", 
+            "Type": "Specialty", 
+            "Certification ID": "2269", 
+            "Certifying Organization": "Institute for Certified Divorce Financial Analysts"
+        }, 
+        {
+            "Acronym": "CTS", 
+            "Certification Name": "Certified Tax Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "9024", 
+            "Certifying Organization": "Institute of Business & Finance"
+        }, 
+        {
+            "Acronym": "CITA", 
+            "Certification Name": "Certified International Tax Analyst", 
+            "Type": "Advanced", 
+            "Certification ID": "7930", 
+            "Certifying Organization": "American Academy of Financial Management"
+        }, 
+        {
+            "Acronym": "GLEG", 
+            "Certification Name": "GIAC Legal Issues", 
+            "Type": "Core", 
+            "Certification ID": "6775", 
+            "Certifying Organization": "Global Information Assurance Certification"
+        }, 
+        {
+            "Acronym": "CIRA", 
+            "Certification Name": "Certified Insolvency and Restructuring Advisor", 
+            "Type": "Advanced", 
+            "Certification ID": "2199", 
+            "Certifying Organization": "Association of Insolvency and Restructuring Advisors"
+        }, 
+        {
+            "Acronym": "ARC", 
+            "Certification Name": "Associate in Regulation and Compliance", 
+            "Type": "Core", 
+            "Certification ID": "3110", 
+            "Certifying Organization": "The Institutes"
+        }, 
+        {
+            "Acronym": "RBA", 
+            "Certification Name": "Registered Business Analyst", 
+            "Type": "Advanced", 
+            "Certification ID": "7931", 
+            "Certifying Organization": "American Academy of Financial Management"
+        }, 
+        {
+            "Acronym": "CBA", 
+            "Certification Name": "Certified Bank Auditor", 
+            "Type": "Advanced", 
+            "Certification ID": "4478", 
+            "Certifying Organization": "BAI Center for Certification"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Hyperion Financial Management  11 Certified Implementation Specialist", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "6245", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "ATP", 
+            "Certification Name": "Accredited Tax Preparer", 
+            "Type": "Core", 
+            "Certification ID": "1329", 
+            "Certifying Organization": "Accreditation Council for Accountancy and Taxation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Oracle Fusion Financials 11g Accounts Receivable Certified Implementation Specialist", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8487", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "APA", 
+            "Certification Name": "Associate in Premium Auditing", 
+            "Type": "Core", 
+            "Certification ID": "0474", 
+            "Certifying Organization": "The Institutes"
+        }, 
+        {
+            "Acronym": "CTPA", 
+            "Certification Name": "Certified Treasury Professional Associate", 
+            "Type": "Core", 
+            "Certification ID": "9322", 
+            "Certifying Organization": "Association for Financial Professionals"
+        }, 
+        {
+            "Acronym": "APM", 
+            "Certification Name": "Associated Professional Member", 
+            "Type": "Core", 
+            "Certification ID": "1353", 
+            "Certifying Organization": "American Society of Pension Professionals  and Actuaries"
+        }, 
+        {
+            "Acronym": "CDBV", 
+            "Certification Name": "Certification in Distressed Business Valuation", 
+            "Type": "Advanced", 
+            "Certification ID": "5672", 
+            "Certifying Organization": "Association of Insolvency and Restructuring Advisors"
+        }, 
+        {
+            "Acronym": "CGAP", 
+            "Certification Name": "Certified Government Auditing Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "3738", 
+            "Certifying Organization": "Institute of Internal Auditors"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Hyperion Financial Management 9.3 Administrator Certified Expert", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "6247", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "AIAF", 
+            "Certification Name": "Associate in Insurance Accounting and Finance", 
+            "Type": "Core", 
+            "Certification ID": "9083", 
+            "Certifying Organization": "The Institutes"
+        }, 
+        {
+            "Acronym": "AMA", 
+            "Certification Name": "Accredited Management Accountant", 
+            "Type": "Advanced", 
+            "Certification ID": "7932", 
+            "Certifying Organization": "American Academy of Financial Management"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Oracle E-Business Suite R12 Financials Certified Expert Consultants Receivables", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7083", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "ARM", 
+            "Certification Name": "Associate in Risk Management", 
+            "Type": "Core", 
+            "Certification ID": "0472", 
+            "Certifying Organization": "The Institutes"
+        }, 
+        {
+            "Acronym": "PFS", 
+            "Certification Name": "Personal Financial Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "2264", 
+            "Certifying Organization": "American Institute of Certified Public Accountants"
+        }, 
+        {
+            "Acronym": "ABV", 
+            "Certification Name": "Accredited in Business Valuation", 
+            "Type": "Advanced", 
+            "Certification ID": "8792", 
+            "Certifying Organization": "American Institute of Certified Public Accountants"
+        }, 
+        {
+            "Acronym": "CRME", 
+            "Certification Name": "Certified Revenue Management Executive", 
+            "Type": "Advanced", 
+            "Certification ID": "8546", 
+            "Certifying Organization": "Hospitality Sales & Marketing Association International"
+        }, 
+        {
+            "Acronym": "CMA", 
+            "Certification Name": "Certified Management Accountant", 
+            "Type": "Core", 
+            "Certification ID": "0016", 
+            "Certifying Organization": "Institute of Management Accountants"
+        }, 
+        {
+            "Acronym": "FCPA", 
+            "Certification Name": "Forensic Certified Public Accountant", 
+            "Type": "Specialty", 
+            "Certification ID": "4496", 
+            "Certifying Organization": "Forensic CPA Society"
+        }, 
+        {
+            "Acronym": "CRM", 
+            "Certification Name": "Certified Risk Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "2168", 
+            "Certifying Organization": "The National Alliance for Insurance Education and Research"
+        }, 
+        {
+            "Acronym": "COS", 
+            "Certification Name": "Certified Outsourcing Specialist: Finance and Accounting", 
+            "Type": "Specialty", 
+            "Certification ID": "6489", 
+            "Certifying Organization": "International Association of Outsourcing Professionals"
+        }, 
+        {
+            "Acronym": "CHAE", 
+            "Certification Name": "Certified Hospitality Accountant Executive", 
+            "Type": "Advanced", 
+            "Certification ID": "1342", 
+            "Certifying Organization": "Hospitality Financial & Technology Professionals"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Oracle E-Business Suite R12 Financials Certified Expert Consultant, Receivables", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8480", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "CAPA", 
+            "Certification Name": "Certified Asset Protection Analyst", 
+            "Type": "Advanced", 
+            "Certification ID": "7925", 
+            "Certifying Organization": "American Academy of Financial Management"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Oracle E-Business Suite 12 Financial Management Certified Implementation Specialist: Oracle Payables", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7089", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Oracle E-Business Suite 12 Financial Management Certified Implementation Specialist: Receivables", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7090", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "CIS", 
+            "Certification Name": "Certified Income Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "9025", 
+            "Certifying Organization": "Institute of Business & Finance"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Management Accountant Certification", 
+            "Type": "Core", 
+            "Certification ID": "9494", 
+            "Certifying Organization": "Global Academy of Finance & Management"
+        }, 
+        {
+            "Acronym": "NACVA,", 
+            "Certification Name": "Certified Valuation Analyst", 
+            "Type": "Advanced", 
+            "Certification ID": "3582", 
+            "Certifying Organization": "National Association of Certified Valuation Analysts"
+        }, 
+        {
+            "Acronym": "AEP", 
+            "Certification Name": "Accredited Estate Planner", 
+            "Type": "Advanced", 
+            "Certification ID": "2267", 
+            "Certifying Organization": "National Association of Estate Planners & Councils"
+        }, 
+        {
+            "Acronym": "CPA", 
+            "Certification Name": "Certified Public Accountant", 
+            "Type": "Advanced", 
+            "Certification ID": "3852", 
+            "Certifying Organization": "American Institute of Certified Public Accountants"
+        }, 
+        {
+            "Acronym": "CTP", 
+            "Certification Name": "Certified Treasury Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "0080", 
+            "Certifying Organization": "Association for Financial Professionals"
+        }, 
+        {
+            "Acronym": "ABA", 
+            "Certification Name": "Accredited Business Accountant/Advisor", 
+            "Type": "Core", 
+            "Certification ID": "5902", 
+            "Certifying Organization": "Accreditation Council for Accountancy and Taxation"
+        }
+    ], 
+    "onet": "13201101"
+}

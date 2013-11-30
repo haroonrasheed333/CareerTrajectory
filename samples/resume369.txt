@@ -1,0 +1,233 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734593' xml:space='preserve'><contact><name><givenname>Sangeetha</givenname> <surname>Sugavanam</surname></name>
+					<address lat='42.422' lon='71.1569' majorcity='ARLINGTON' state='MA'><street>438 Massachusetts Avenue Apt. #126</street>
+					<city>Arlington</city>, <state abbrev='MA'>MA</state> <postalcode>02474</postalcode></address>
+					<email>sangeethasugavanam@gmail.com</email>
+					Phone: (617)-<phone>285-7620</phone></contact>
+
+<summary>Job Objective:
+<objective>To find a challenging position in the software industry</objective></summary>
+
+<education>Education:
+<school id='8'><degree level='18' name='Master of Science'>Master of Science</degree> in <major code='0402'>Computer Science</major>, <institution>University of Massachusetts</institution> at <address><city>Boston</city></address>,  <completiondate days='733165' iso8601='2008-05-01'>May 2008</completiondate>  
+Final GPA:  <gpa max='4' value='3.84'>3.84/4.0</gpa></school>
+<school id='9'><degree level='16' name='Bachelor of Arts'>Bachelor of Arts</degree> in <major code='0402'>Computer Science</major>, <institution>Boston University</institution>, <completiondate days='732069' iso8601='2005-05-01'>May 2005</completiondate></school></education>
+
+<skills>Technical Skills:
+<skills>Software Packages
+Databases, Visio, Microsoft Visual Studio 2003/2005, MATLAB, Stata/Excel(Statistical software packages)
+Operating Systems
+Windows, Linux, Unix, Ubuntu, Symbian
+Languages
+C/C++, C#, Perl, Java, Symbian C++, Qt, Bash, Perl, Ruby, PHP/MySQL
+Technologies
+XML, XSLT, Oracle 10.1, MySQL, Microsoft SQL Server 2000, JDBC, Apache Tomcat, ASP .NET(Microsoft .NET), SOAP, WSDL, Web Services, HTML, JavaScript, Coverity, HTML5, CSS3, WebKit, QtWebKit, Qt,  Crystal Reporting Services, ANT, DOM, Qt Mobile Web Runtime Platforms, Automation in Mobile Platforms, Various Code Coverage tools for Symbian and Linux, HTML5 Canvas Graphs(RGraphs), Mobile Software Development</skills></skills> 
+
+<experience end='present' start='731491'>Job Experience:
+<job end='present' id='1' naics='54161401' naics2='54' pos='1' start='733257'><title>Software Engineer</title>: Accenture(group in Nokia acquired by <employer>Accenture</employer>), <address><city>Burlington</city>, <state abbrev='MA'>MA</state></address> (<daterange><start days='733257' iso8601='2008-08-01'>Aug. 2008</start>- <end days='present' iso8601='2012-03-29'>current</end></daterange>)
+                 <description>Common Web Runtime Group for Symbian
+Developed additional features for browser/widget management with knowledge of World Wide Web Consortium for Widget Management (widget packaging, configuration, security, etc.) using Qt C++ and Symbian C++
+Used agile scrum methodology
+Worked on  releasing browser on recent Nokia hardware products such as: Nokia 5800 XPressMusic, N97, N8
+Created unit-tests using Qt C++ for the newly-created components of the browser 
+Created mapping of service providers from C++ to JavaScript for use by 3rd party developers 
+Fixed existing defects in source code in areas of performance, memory management, memory leaks, etc.  
+Analyzed  source code through various code analysis tools 
+Created and analyzed  existing/new automation frameworks for mobile platforms (both UI-based and non-UI based)
+Gained knowledge of webkit.org source code</description></job>
+
+<job end='733165' id='2' pos='2' start='732922'><title>Graduate Teaching Assistant</title> for Theory of Computation: <employer>University of Massachusetts at Boston</employer> <department>Computer Science Department</department> (<daterange><start days='732922' iso8601='2007-09-01'>Sept. 2007</start>-<end days='733165' iso8601='2008-05-01'>May 2008</end></daterange>)
+<description>Graded weekly home works
+Prepared weekly solutions for home works</description></job>
+
+<job end='732648' id='3' pos='4' sic='8231' sic2='82' start='732557'><title>Technical Support Specialist</title>: <employer>University of Massachusetts at Boston Healey Library Systems Group</employer> (<daterange><start days='732557' iso8601='2006-09-01'>Sept. 2006</start>-<end days='732648' iso8601='2006-12-01'>Dec. 2006</end></daterange></job>)
+
+<job end='732557' id='4' pos='5' start='732314'><title>Software Test Engineer</title>: eClinicalWorks, <address><city>Westborough</city>, <state abbrev='MA'>MA</state></address> (<daterange><start days='732314' iso8601='2006-01-01'>Jan. 2006</start>-<end days='732557' iso8601='2006-09-01'>Sept. 2006</end></daterange>)
+<description>Installed remotely, tested, and configured Electronic Medical Records software for both the server and client production systems for medical practices, hospitals, and pharmacies all across the United States
+Tested software functionality on wireless devices 
+Tested  software after new releases
+Tested compatibility of various hardware/software systems prior to installation of software</description></job>
+<job end='732130' id='5' pos='6' start='731857'><title>Student Consultant</title>: <employer>Boston University Office of Information  Technology</employer> <daterange><start days='731857' iso8601='2004-10-01'>Fall 2004</start>-<end days='732130' iso8601='2005-07-01'>Spring 2005</end></daterange></job>
+
+<job end='731765' id='6' pos='7' sic='8299' sic2='82' start='731491'><title>Computer Assistant</title>: <employer>Boston University College of Arts and Sciences Computing Services Group</employer> (<daterange><start days='731491' iso8601='2003-10-01'>Fall 2003</start>-<end days='731765' iso8601='2004-07-01'>Spring 2004</end></daterange></job>)
+
+Graduate Program (<job end='733044' id='7' pos='3' start='732314'><daterange><start days='732314' iso8601='2006-01-01'>2006</start>-<end days='733044' iso8601='2008-01-01'>2008</end></daterange>):
+<description>Projects
+Master's Project: Sound2Sight Research Project:  Conducted a research project which studied speech recognition systems with respect to the Carnegie Mellon University Language Modeling toolkit, with an aim to create a system to aid the hearing-impaired. This project primarily studied different aspects to improve the performance of an existing speech recognition system through the deployment of various language models, acoustic models, and configuration settings.  
+Publish/Subscribe Systems:  conducted a networking research project detailing the different types of publish/subscribe networks, December 2007</description></job></experience>
+
+<statements>Visa Status/Relocation Preferences:
+<personal><citizenship>US</citizenship> Citizen
+Willing to relocate</personal></statements>
+                                                                                           
+</resume>
+
+<skillrollup version='1'>
+  <canonskill name='.net'>
+    <variant>ASP .NET</variant>
+    <variant>Microsoft .NET</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='agile' start='733257'>
+    <variant>agile</variant>
+  </canonskill>
+  <canonskill name='ant'>
+    <variant>ANT</variant>
+  </canonskill>
+  <canonskill name='apache webserver'>
+    <variant>Apache</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='automation' start='733257'>
+    <variant>Automation</variant>
+    <variant>automation</variant>
+  </canonskill>
+  <canonskill name='bash'>
+    <variant>Bash</variant>
+  </canonskill>
+  <canonskill name='c'>
+    <variant>C</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='c + +' start='733257'>
+    <variant>C++</variant>
+  </canonskill>
+  <canonskill name='canvas'>
+    <variant>Canvas</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,4' idrefs='1,4' lastused='2012' name='computer hardware' start='732314'>
+    <variant>hardware</variant>
+  </canonskill>
+  <canonskill name='crystal'>
+    <variant>Crystal</variant>
+  </canonskill>
+  <canonskill name='css'>
+    <variant>CSS3</variant>
+  </canonskill>
+  <canonskill end='732557' experience='1' expidrefs='4' idrefs='4' lastused='2006' name='customer relations' start='732314'>
+    <variant>client</variant>
+  </canonskill>
+  <canonskill name='database administration'>
+    <variant>Databases</variant>
+  </canonskill>
+  <canonskill name='dom'>
+    <variant>DOM</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='features' start='733257'>
+    <variant>features</variant>
+  </canonskill>
+  <canonskill name='graphs'>
+    <variant>Graphs</variant>
+  </canonskill>
+  <canonskill name='html'>
+    <variant>HTML5</variant>
+    <variant>HTML</variant>
+  </canonskill>
+  <canonskill name='java'>
+    <variant>Java</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='javascript' start='733257'>
+    <variant>JavaScript</variant>
+  </canonskill>
+  <canonskill name='jdbc'>
+    <variant>JDBC</variant>
+  </canonskill>
+  <canonskill name='languages'>
+    <variant>Languages</variant>
+  </canonskill>
+  <canonskill name='linux'>
+    <variant>Linux</variant>
+  </canonskill>
+  <canonskill name='matlab'>
+    <variant>MATLAB</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='memory' start='733257'>
+    <variant>memory</variant>
+  </canonskill>
+  <canonskill name='microsoft c #'>
+    <variant>C#</variant>
+  </canonskill>
+  <canonskill name='microsoft excel'>
+    <variant>Excel</variant>
+  </canonskill>
+  <canonskill name='microsoft windows'>
+    <variant>Windows</variant>
+  </canonskill>
+  <canonskill name='microsoft windows 2000'>
+    <variant>2000</variant>
+  </canonskill>
+  <canonskill end='733165' experience='1' expidrefs='2' idrefs='2' lastused='2008' name='microsoft works' start='732922'>
+    <variant>works</variant>
+  </canonskill>
+  <canonskill end='733044' experience='1' expidrefs='7' idrefs='7' lastused='2008' name='modeling' start='732314'>
+    <variant>Modeling</variant>
+  </canonskill>
+  <canonskill name='mysql'>
+    <variant>MySQL</variant>
+  </canonskill>
+  <canonskill end='733044' experience='1' expidrefs='7' idrefs='7' lastused='2008' name='networking' start='732314'>
+    <variant>networking</variant>
+    <variant>networks</variant>
+  </canonskill>
+  <canonskill name='operating systems'>
+    <variant>Operating Systems</variant>
+  </canonskill>
+  <canonskill name='oracle'>
+    <variant>Oracle</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='packaging' start='733257'>
+    <variant>packaging</variant>
+  </canonskill>
+  <canonskill name='perl'>
+    <variant>Perl</variant>
+  </canonskill>
+  <canonskill name='php'>
+    <variant>PHP</variant>
+  </canonskill>
+  <canonskill name='reports'>
+    <variant>Reporting</variant>
+  </canonskill>
+  <canonskill end='733044' experience='1' expidrefs='7' idrefs='7' lastused='2008' name='research' start='732314'>
+    <variant>Research</variant>
+    <variant>research</variant>
+  </canonskill>
+  <canonskill name='soap'>
+    <variant>SOAP</variant>
+  </canonskill>
+  <canonskill name='software development'>
+    <variant>Software Development</variant>
+  </canonskill>
+  <canonskill end='733044' experience='1' expidrefs='7' idrefs='7' lastused='2008' name='sound' start='732314'>
+    <variant>Sound2</variant>
+  </canonskill>
+  <canonskill end='733044' experience='1' expidrefs='7' idrefs='7' lastused='2008' name='speechwriting' start='732314'>
+    <variant>speech</variant>
+  </canonskill>
+  <canonskill name='sql'>
+    <variant>Microsoft SQL Server</variant>
+  </canonskill>
+  <canonskill name='stata'>
+    <variant>Stata</variant>
+  </canonskill>
+  <canonskill name='tomcat'>
+    <variant>Tomcat</variant>
+  </canonskill>
+  <canonskill name='unix'>
+    <variant>Unix</variant>
+  </canonskill>
+  <canonskill name='visio'>
+    <variant>Visio</variant>
+  </canonskill>
+  <canonskill name='visual studio'>
+    <variant>Microsoft Visual Studio</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='www' start='733257'>
+    <variant>World Wide Web</variant>
+  </canonskill>
+  <canonskill name='xml'>
+    <variant>XML</variant>
+  </canonskill>
+  <canonskill name='xslt'>
+    <variant>XSLT</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

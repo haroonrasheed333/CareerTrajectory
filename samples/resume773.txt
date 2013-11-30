@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734597' xml:space='preserve'><contact><name><givenname>Monica</givenname> <surname>Gordon</surname></name>
+<address lat='39.2727' lon='-74.9772' majorcity='DORCHESTER' state='NJ'><street>Intake Coordinator at Arbour Hospital</street>
+<city>DORCHESTER</city>, <state abbrev='MA'>MA</state></address>
+<email>monicagordon55@yahoo.com</email> - <phone>857-544-8186</phone></contact>
+
+<summary><objective>A position in the healthcare or business industry which I can utilize my communicational
+and organizational skills with opportunity to advance.</objective></summary>
+
+
+
+<experience end='present' start='729543'>Work Experience
+
+
+<job end='present' id='1' pos='1' sic='806202' sic2='80' start='729543'><title>Intake Coordinator</title>
+<employer>Arbour Hospital</employer> - <address><city>Jamaica Plain</city>, <state abbrev='MA'>MA</state></address>
+<daterange><start days='729543' iso8601='1998-06-01'>June 1998</start> to <end days='present' iso8601='2012-04-02'>Present</end></daterange>
+
+<description>Obtain demographic, fiscal and clinical information: potential patients for all 6 inpatient and 21 Partial
+Hospitalization Programs within the Arbour Health System.
+· Determine appropriate facility/unit based on geography, patient preference, reimbursement source,
+bed availability, and other factors. Follow protocol for accepting patients. Present clinical information to
+nursing staff. Completes intakes consistently with high standards of quality completeness and accuracy.
+Provide excellent customer service. Direct calls to appropriate resources as needed. perform all variety of
+collateral tasks including greeting patients, signing patients in to Arbour Hospital, covering switchboard,
+reconciling census, clerical functions.</description></job>
+
+
+<job end='734199' id='2' naics='62211002' naics2='62' pos='2' sic='806202' sic2='80' start='733744'><title>Patient Access Coordinator</title>
+<employer>Carney Hospital</employer> - <address><city>DORCHESTER</city>, <state abbrev='MA'>MA</state></address>
+<daterange><start days='733744' iso8601='2009-12-01'>December 2009</start> to <end days='734199' iso8601='2011-03-01'>March 2011</end></daterange>
+
+· <description>Collects and verifies patient demographic, insurance eligibility, and financial information/responsibility
+and accurately documents in hospital computer system(s)
+· Responsible for consistent and accurate use and execution of department SOP's (established operating
+procedures) and supporting tools, software, websites
+· Identifies current and prior patient responsible balances, educates patients on their financial
+responsibilities, and collects same
+· Screens self pay patients, identifies potential solution(s), and facilitates solution application process
+(manual and/or electronic) or patient payment as appropriate
+· Interviews patients bedside as needed to facilitate timely and effective solutions (ED only)
+· Assists patients in establishing secured installments plans when applicable
+· Ensures all hospital and regulatory requirements are met (including, but not limited to, signatures,
+distributing patient rights, health care proxies, HIPAA requirements etc.)
+· Ensures completion of registration paperwork to facilitate efficient patient flow
+· Meets performance standards established by Patient Access leadership, including but not limited to:
+quality, collections, customer service, screening/solution rates, productivity)
+· Delivers exemplary customer service for patients in accordance with hospital expectations / guidelines
+· Works effectively with patient access peers and other hospital departments</description></job>
+
+
+<job id='3'><title>Central Intake Representative</title></job>
+
+
+                                                     1
+<job end='732465' id='4' pos='3' start='731796'><title>VNA OF BOSTON</title>
+<daterange><start days='731796' iso8601='2004-08-01'>August 2004</start> to <end days='732465' iso8601='2006-06-01'>June 2006</end></daterange>
+
+· <description>Coordinated faxed referrals
+· Answered inquiry calls from liaison nurses
+· Scheduled nursing appointments
+· Entered/updated patient information</description></job></experience>
+
+
+
+<education>Education
+
+
+Medical
+<school id='5'><institution>Boston Career Institute</institution> - <address><city>Boston</city>, <state abbrev='MA'>MA</state></address>
+<completiondate days='730853' iso8601='2002-01-01'>2002</completiondate>
+
+<description>Medical
+Bryman Institute</description></school>
+<completiondate days='730122' iso8601='2000-01-01'>2000</completiondate></education>
+
+
+
+
+                                               2
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='clerical' start='729543'>
+    <variant>clerical</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='customer service' start='729543'>
+    <variant>excellent customer service</variant>
+    <variant>customer service</variant>
+  </canonskill>
+  <canonskill end='734199' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='financial' start='733744'>
+    <variant>financial</variant>
+  </canonskill>
+  <canonskill end='734199' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='insurance' start='733744'>
+    <variant>insurance</variant>
+  </canonskill>
+  <canonskill end='734199' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='leadership' start='733744'>
+    <variant>leadership</variant>
+  </canonskill>
+  <canonskill end='734199' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='microsoft access' start='733744'>
+    <variant>Access</variant>
+    <variant>access</variant>
+  </canonskill>
+  <canonskill end='734199' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='microsoft works' start='733744'>
+    <variant>Works</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,4' idrefs='1,4' lastused='2012' name='nursing' start='729543'>
+    <variant>nursing</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='quality' start='729543'>
+    <variant>quality</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='reconciling' start='729543'>
+    <variant>reconciling</variant>
+  </canonskill>
+  <canonskill end='734199' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='sop' start='733744'>
+    <variant>SOP</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='switchboard operator' start='729543'>
+    <variant>switchboard</variant>
+  </canonskill>
+  <canonskill end='734199' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='web site production' start='733744'>
+    <variant>websites</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

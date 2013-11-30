@@ -1,0 +1,96 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "FenestrationMaster", 
+            "Type": "Advanced", 
+            "Certification ID": "9127", 
+            "Certifying Organization": "American Architectural Manufacturers Association"
+        }, 
+        {
+            "Acronym": "AHC", 
+            "Certification Name": "Architectural Hardware Consultants", 
+            "Type": "Advanced", 
+            "Certification ID": "8012", 
+            "Certifying Organization": "Door and Hardware Institute"
+        }, 
+        {
+            "Acronym": "CDC", 
+            "Certification Name": "Certified Door Consultants", 
+            "Type": "Advanced", 
+            "Certification ID": "8013", 
+            "Certifying Organization": "Door and Hardware Institute"
+        }, 
+        {
+            "Acronym": "AOC", 
+            "Certification Name": "Architectural Openings Consultants", 
+            "Type": "Advanced", 
+            "Certification ID": "8015", 
+            "Certifying Organization": "Door and Hardware Institute"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Installer and Sand & Finisher", 
+            "Type": "Core", 
+            "Certification ID": "9135", 
+            "Certifying Organization": "National Wood Flooring Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "InstallationMasters", 
+            "Type": "Advanced", 
+            "Certification ID": "9129", 
+            "Certifying Organization": "American Architectural Manufacturers Association"
+        }, 
+        {
+            "Acronym": "GMB", 
+            "Certification Name": "Graduate Master Builder", 
+            "Type": "Advanced", 
+            "Certification ID": "3791", 
+            "Certifying Organization": "National Association of Home Builders"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "FenestrationAssociate", 
+            "Type": "Core", 
+            "Certification ID": "9128", 
+            "Certifying Organization": "American Architectural Manufacturers Association"
+        }, 
+        {
+            "Acronym": "SSI", 
+            "Certification Name": "Substrate/Subfloor Inspector", 
+            "Type": "Core", 
+            "Certification ID": "2353", 
+            "Certifying Organization": "Institute of Inspection Cleaning and Restoration Certification"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "LEED Green Associate", 
+            "Type": "Core", 
+            "Certification ID": "6025", 
+            "Certifying Organization": "Green Building Certification Institute"
+        }, 
+        {
+            "Acronym": "NAHB, CGA", 
+            "Certification Name": "Certified Graduate Associate", 
+            "Type": "Core", 
+            "Certification ID": "3789", 
+            "Certifying Organization": "National Association of Home Builders"
+        }, 
+        {
+            "Acronym": "CLC", 
+            "Certification Name": "Certified Lead Carpenter", 
+            "Type": "Core", 
+            "Certification ID": "6068", 
+            "Certifying Organization": "National Association of the Remodeling Industry"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Fenestration Installation Technician", 
+            "Type": "Core", 
+            "Certification ID": "8661", 
+            "Certifying Organization": "CSA Standards"
+        }
+    ], 
+    "onet": "47203101"
+}

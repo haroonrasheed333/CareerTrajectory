@@ -1,0 +1,54 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Latent Fingerprint Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "3599", 
+            "Certifying Organization": "The International Association for Identification"
+        }, 
+        {
+            "Acronym": "CIPP", 
+            "Certification Name": "The Certified Information Privacy Professional", 
+            "Type": "Core", 
+            "Certification ID": "6336", 
+            "Certifying Organization": "International Association of Privacy Professionals"
+        }, 
+        {
+            "Acronym": "CIPP/G", 
+            "Certification Name": "The Certified Information Privacy Professional/Government", 
+            "Type": "Core", 
+            "Certification ID": "6337", 
+            "Certifying Organization": "International Association of Privacy Professionals"
+        }, 
+        {
+            "Acronym": "CSC", 
+            "Certification Name": "Crime Scene Certification", 
+            "Type": "Core", 
+            "Certification ID": "3595", 
+            "Certifying Organization": "The International Association for Identification"
+        }, 
+        {
+            "Acronym": "FA", 
+            "Certification Name": "Forensic Artist Certification", 
+            "Type": "Core", 
+            "Certification ID": "3598", 
+            "Certifying Organization": "The International Association for Identification"
+        }, 
+        {
+            "Acronym": "FC", 
+            "Certification Name": "Footwear Certification", 
+            "Type": "Core", 
+            "Certification ID": "3596", 
+            "Certifying Organization": "The International Association for Identification"
+        }, 
+        {
+            "Acronym": "TPF", 
+            "Certification Name": "Ten Print Fingerprint Certification", 
+            "Type": "Core", 
+            "Certification ID": "3600", 
+            "Certifying Organization": "The International Association for Identification"
+        }
+    ], 
+    "onet": "33302102"
+}

@@ -1,0 +1,19 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CHTP", 
+            "Certification Name": "Certified Hospitality Technology Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "1343", 
+            "Certifying Organization": "Hospitality Financial & Technology Professionals"
+        }, 
+        {
+            "Acronym": "CHT", 
+            "Certification Name": "Certified HospitalityTrainer", 
+            "Type": "Core", 
+            "Certification ID": "3316", 
+            "Certifying Organization": "American Hotel and Lodging Association Educational Institute"
+        }
+    ], 
+    "onet": "11907100"
+}

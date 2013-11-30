@@ -1,0 +1,152 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "SNS", 
+            "Certification Name": "School Nutrition Specialist", 
+            "Type": "Core", 
+            "Certification ID": "4871", 
+            "Certifying Organization": "School Nutrition Association"
+        }, 
+        {
+            "Acronym": "CSP", 
+            "Certification Name": "Certified Specialist in Pediatric Nutrition", 
+            "Type": "Specialty", 
+            "Certification ID": "6001", 
+            "Certifying Organization": "Commission on Dietetic Registration"
+        }, 
+        {
+            "Acronym": "CSPI", 
+            "Certification Name": "Certification for Specialists in Poison Information", 
+            "Type": "Specialty", 
+            "Certification ID": "7450", 
+            "Certifying Organization": "American Association of Poison Control Centers"
+        }, 
+        {
+            "Acronym": "DACBN", 
+            "Certification Name": "Diplomate of the American Clinical Board of Nutrition", 
+            "Type": "Core", 
+            "Certification ID": "5954", 
+            "Certifying Organization": "American Clinical Board of Nutrition"
+        }, 
+        {
+            "Acronym": "CCN", 
+            "Certification Name": "Certified Clinical Nutritionist", 
+            "Type": "Core", 
+            "Certification ID": "7983", 
+            "Certifying Organization": "Clinical Nutrition Certification Board"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Advanced Weight Management Instructor", 
+            "Type": "Advanced", 
+            "Certification ID": "4656", 
+            "Certifying Organization": "International Fitness Professional Association"
+        }, 
+        {
+            "Acronym": "RD", 
+            "Certification Name": "Registered Dietitian", 
+            "Type": "Core", 
+            "Certification ID": "6717", 
+            "Certifying Organization": "Commission on Dietetic Registration"
+        }, 
+        {
+            "Acronym": "CSSD", 
+            "Certification Name": "Certified Specialist in Sports Dietetics", 
+            "Type": "Specialty", 
+            "Certification ID": "6719", 
+            "Certifying Organization": "Commission on Dietetic Registration"
+        }, 
+        {
+            "Acronym": "CNSC", 
+            "Certification Name": "Certified Nutrition Support Clinician", 
+            "Type": "Advanced", 
+            "Certification ID": "2437", 
+            "Certifying Organization": "National Board of Nutrition Support Certification, Inc."
+        }, 
+        {
+            "Acronym": "CDE", 
+            "Certification Name": "Certified Diabetes Educator", 
+            "Type": "Specialty", 
+            "Certification ID": "2441", 
+            "Certifying Organization": "National Certification Board for Diabetes Educators"
+        }, 
+        {
+            "Acronym": "CNC", 
+            "Certification Name": "Nutrition/Wellness Consultant Certification", 
+            "Type": "Core", 
+            "Certification ID": "1068", 
+            "Certifying Organization": "American Fitness Professionals and Associates"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Advanced Sports Nutrition", 
+            "Type": "Advanced", 
+            "Certification ID": "4647", 
+            "Certifying Organization": "International Fitness Professional Association"
+        }, 
+        {
+            "Acronym": "CEDSN", 
+            "Certification Name": "Certified Eating Disorders Specialist in Nutrition", 
+            "Type": "Specialty", 
+            "Certification ID": "2682", 
+            "Certifying Organization": "International Association of Eating Disorders Professionals"
+        }, 
+        {
+            "Acronym": "IBCLC", 
+            "Certification Name": "International Board Certified Lactation Consultant", 
+            "Type": "Specialty", 
+            "Certification ID": "1193", 
+            "Certifying Organization": "International Board of Lactation Consultant Examiners"
+        }, 
+        {
+            "Acronym": "CSR", 
+            "Certification Name": "Certified Specialist in Renal Nutrition", 
+            "Type": "Specialty", 
+            "Certification ID": "6720", 
+            "Certifying Organization": "Commission on Dietetic Registration"
+        }, 
+        {
+            "Acronym": "CDM", 
+            "Certification Name": "Certified Dietary Manager-Certified Food Protection Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "1527", 
+            "Certifying Organization": "Association of Nutrition and Food Service Professionals"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Kid's Nutrition Specialist", 
+            "Type": "Core", 
+            "Certification ID": "8612", 
+            "Certifying Organization": "National Exercise and Sports Trainers Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Master Trainer Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "6818", 
+            "Certifying Organization": "International Sports Sciences Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Sports Nutrition Consultant Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "3908", 
+            "Certifying Organization": "American Fitness Professionals and Associates"
+        }, 
+        {
+            "Acronym": "CSO", 
+            "Certification Name": "Certified Specialist in Oncology Nutrition", 
+            "Type": "Specialty", 
+            "Certification ID": "6003", 
+            "Certifying Organization": "Commission on Dietetic Registration"
+        }, 
+        {
+            "Acronym": "CSG", 
+            "Certification Name": "Certified Specialist in Gerontological Nutrition", 
+            "Type": "Specialty", 
+            "Certification ID": "5999", 
+            "Certifying Organization": "Commission on Dietetic Registration"
+        }
+    ], 
+    "onet": "29103100"
+}

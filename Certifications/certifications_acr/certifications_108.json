@@ -1,0 +1,61 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Tax Certification", 
+            "Type": "Core", 
+            "Certification ID": "9401", 
+            "Certifying Organization": "National Bookkeepers Association"
+        }, 
+        {
+            "Acronym": "CTS", 
+            "Certification Name": "Certified Tax Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "9024", 
+            "Certifying Organization": "Institute of Business & Finance"
+        }, 
+        {
+            "Acronym": "CITA", 
+            "Certification Name": "Certified International Tax Analyst", 
+            "Type": "Advanced", 
+            "Certification ID": "7930", 
+            "Certifying Organization": "American Academy of Financial Management"
+        }, 
+        {
+            "Acronym": "ATP", 
+            "Certification Name": "Accredited Tax Preparer", 
+            "Type": "Core", 
+            "Certification ID": "1329", 
+            "Certifying Organization": "Accreditation Council for Accountancy and Taxation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "QuickBooks Certification", 
+            "Type": "Core", 
+            "Certification ID": "9400", 
+            "Certifying Organization": "National Bookkeepers Association"
+        }, 
+        {
+            "Acronym": "APM", 
+            "Certification Name": "Associated Professional Member", 
+            "Type": "Core", 
+            "Certification ID": "1353", 
+            "Certifying Organization": "American Society of Pension Professionals  and Actuaries"
+        }, 
+        {
+            "Acronym": "ATA", 
+            "Certification Name": "Accredited Tax Advisor", 
+            "Type": "Core", 
+            "Certification ID": "1330", 
+            "Certifying Organization": "Accreditation Council for Accountancy and Taxation"
+        }, 
+        {
+            "Acronym": "CTS", 
+            "Certification Name": "Certified Tax Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "8179", 
+            "Certifying Organization": "Institute of Certified Fund Specialists"
+        }
+    ], 
+    "onet": "13208200"
+}

@@ -1,0 +1,75 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CGPP", 
+            "Certification Name": "Certified Green Purchasing Professional", 
+            "Type": "Specialty", 
+            "Certification ID": "8659", 
+            "Certifying Organization": "American Purchasing Society"
+        }, 
+        {
+            "Acronym": "CCCA", 
+            "Certification Name": "Certified Construction Contract Administrator", 
+            "Type": "Advanced", 
+            "Certification ID": "1428", 
+            "Certifying Organization": "Construction Specifications Institute"
+        }, 
+        {
+            "Acronym": "CPP", 
+            "Certification Name": "Certified Purchasing Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "7651", 
+            "Certifying Organization": "American Purchasing Society"
+        }, 
+        {
+            "Acronym": "CEP", 
+            "Certification Name": "Certified Energy Procurement Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "1285", 
+            "Certifying Organization": "Association of Energy Engineers"
+        }, 
+        {
+            "Acronym": "CPPS", 
+            "Certification Name": "Certified Professional Property Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "1333", 
+            "Certifying Organization": "National Property Management Association, Inc."
+        }, 
+        {
+            "Acronym": "CPPM", 
+            "Certification Name": "Certified Professional Purchasing Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "7652", 
+            "Certifying Organization": "American Purchasing Society"
+        }, 
+        {
+            "Acronym": "CPPC", 
+            "Certification Name": "Certified Professional Purchasing Consultant", 
+            "Type": "Advanced", 
+            "Certification ID": "7653", 
+            "Certifying Organization": "American Purchasing Society"
+        }, 
+        {
+            "Acronym": "CPCP", 
+            "Certification Name": "Certified Purchasing Card Professional", 
+            "Type": "Core", 
+            "Certification ID": "6880", 
+            "Certifying Organization": "National Association of Purchasing Card Professionals"
+        }, 
+        {
+            "Acronym": "CPPB", 
+            "Certification Name": "Certified Professional Public Buyer", 
+            "Type": "Core", 
+            "Certification ID": "1438", 
+            "Certifying Organization": "Universal Public Purchasing Certification Council "
+        }, 
+        {
+            "Acronym": "CPPO", 
+            "Certification Name": "Certified Public Purchasing Officer", 
+            "Type": "Core", 
+            "Certification ID": "1439", 
+            "Certifying Organization": "Universal Public Purchasing Certification Council "
+        }
+    ], 
+    "onet": "13102300"
+}

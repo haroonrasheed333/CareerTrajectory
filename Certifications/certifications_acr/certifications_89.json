@@ -1,0 +1,187 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CPF", 
+            "Certification Name": "Certified Professional Forecaster", 
+            "Type": "Core", 
+            "Certification ID": "8932", 
+            "Certifying Organization": "Institute of Business Forecasting & Planning"
+        }, 
+        {
+            "Acronym": "ABCP", 
+            "Certification Name": "Associate Business Continuity Professional", 
+            "Type": "Core", 
+            "Certification ID": "6331", 
+            "Certifying Organization": "DRI International"
+        }, 
+        {
+            "Acronym": "CWDP", 
+            "Certification Name": "Certified Workforce Development Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "1108", 
+            "Certifying Organization": "National Association of Workforce Development Professionals"
+        }, 
+        {
+            "Acronym": "CGPP", 
+            "Certification Name": "Certified Green Purchasing Professional", 
+            "Type": "Specialty", 
+            "Certification ID": "8659", 
+            "Certifying Organization": "American Purchasing Society"
+        }, 
+        {
+            "Acronym": "CM&AA", 
+            "Certification Name": "Certified Merger and Acquisition Advisor", 
+            "Type": "Advanced", 
+            "Certification ID": "6259", 
+            "Certifying Organization": "Alliance of Merger and Acquisition Advisors"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "CBP Master Executive Computer Technology Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "8790", 
+            "Certifying Organization": "International Business Training Association"
+        }, 
+        {
+            "Acronym": "GISF", 
+            "Certification Name": "GIAC Information Security Fundamentals", 
+            "Type": "Core", 
+            "Certification ID": "4381", 
+            "Certifying Organization": "Global Information Assurance Certification"
+        }, 
+        {
+            "Acronym": "CPF-C", 
+            "Certification Name": "Certified Professional Forecaster - Candidate", 
+            "Type": "Core", 
+            "Certification ID": "8934", 
+            "Certifying Organization": "Institute of Business Forecasting & Planning"
+        }, 
+        {
+            "Acronym": "COP", 
+            "Certification Name": "Certified Outsourcing Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "6487", 
+            "Certifying Organization": "International Association of Outsourcing Professionals"
+        }, 
+        {
+            "Acronym": "CCBA", 
+            "Certification Name": "Certification of Competency in Business Analysis", 
+            "Type": "Core", 
+            "Certification ID": "8188", 
+            "Certifying Organization": "International Institute of Business Analysis"
+        }, 
+        {
+            "Acronym": "CBCV", 
+            "Certification Name": "Certified Business Continuity Vendor", 
+            "Type": "Core", 
+            "Certification ID": "6332", 
+            "Certifying Organization": "DRI International"
+        }, 
+        {
+            "Acronym": "CBCP", 
+            "Certification Name": "Certified Business Continuity Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "6333", 
+            "Certifying Organization": "DRI International"
+        }, 
+        {
+            "Acronym": "MBCP", 
+            "Certification Name": "Master Business Continuity Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "6334", 
+            "Certifying Organization": "DRI International"
+        }, 
+        {
+            "Acronym": "CDBV", 
+            "Certification Name": "Certification in Distressed Business Valuation", 
+            "Type": "Advanced", 
+            "Certification ID": "5672", 
+            "Certifying Organization": "Association of Insolvency and Restructuring Advisors"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "CBP Master Executive Business Management", 
+            "Type": "Advanced", 
+            "Certification ID": "8789", 
+            "Certifying Organization": "International Business Training Association"
+        }, 
+        {
+            "Acronym": "PME", 
+            "Certification Name": "Project Manager E-Business", 
+            "Type": "Core", 
+            "Certification ID": "2767", 
+            "Certifying Organization": "Institute of Certified E-Commerce Consultants "
+        }, 
+        {
+            "Acronym": "ERP", 
+            "Certification Name": "Energy Risk Professional", 
+            "Type": "Core", 
+            "Certification ID": "5868", 
+            "Certifying Organization": "Global Association of Risk Professionals"
+        }, 
+        {
+            "Acronym": "CCCM", 
+            "Certification Name": "Certified Commercial Contracts Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "1422", 
+            "Certifying Organization": "National Contract Management Association"
+        }, 
+        {
+            "Acronym": "ABV", 
+            "Certification Name": "Accredited in Business Valuation", 
+            "Type": "Advanced", 
+            "Certification ID": "8792", 
+            "Certifying Organization": "American Institute of Certified Public Accountants"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Oracle Unified Business Process Management Suite 11g Billing Certified Implementation Specialist", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8518", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "CMBE", 
+            "Certification Name": "Certified Money Service Business Examiner", 
+            "Type": "Core", 
+            "Certification ID": "8807", 
+            "Certifying Organization": "Conference of State Bank Supervisors"
+        }, 
+        {
+            "Acronym": "ACPF", 
+            "Certification Name": "Advanced Certified Professional Forecaster", 
+            "Type": "Advanced", 
+            "Certification ID": "8933", 
+            "Certifying Organization": "Institute of Business Forecasting & Planning"
+        }, 
+        {
+            "Acronym": "CSMBE", 
+            "Certification Name": "Certified Senior Money Service Business Examiner", 
+            "Type": "Advanced", 
+            "Certification ID": "8808", 
+            "Certifying Organization": "Conference of State Bank Supervisors"
+        }, 
+        {
+            "Acronym": "CFCP", 
+            "Certification Name": "Certified Functional Continuity Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "6335", 
+            "Certifying Organization": "DRI International"
+        }, 
+        {
+            "Acronym": "PME", 
+            "Certification Name": "Project Manager Ebusiness", 
+            "Type": "Advanced", 
+            "Certification ID": "7940", 
+            "Certifying Organization": "American Academy of Project Management"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Microsoft Certified Technology Specialist: BizTalk Server 2010", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7530", 
+            "Certifying Organization": "Microsoft Corporation"
+        }
+    ], 
+    "onet": "13119904"
+}

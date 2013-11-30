@@ -1,0 +1,26 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CSS", 
+            "Certification Name": "Certified Security Supervision & Management", 
+            "Type": "Advanced", 
+            "Certification ID": "2252", 
+            "Certifying Organization": "International Foundation for Protection Officers"
+        }, 
+        {
+            "Acronym": "CLSS", 
+            "Certification Name": "Certified Lodging Security Supervisor", 
+            "Type": "Core", 
+            "Certification ID": "2968", 
+            "Certifying Organization": "American Hotel and Lodging Association Educational Institute"
+        }, 
+        {
+            "Acronym": "STS", 
+            "Certification Name": "Safety Trained Supervisor", 
+            "Type": "Advanced", 
+            "Certification ID": "8103", 
+            "Certifying Organization": "Board of Certified Safety Professionals"
+        }
+    ], 
+    "onet": "33109900"
+}

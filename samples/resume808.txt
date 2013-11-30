@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734597' xml:space='preserve'>                                     <contact><name><givenname>REGINALD</givenname> <givenname>T</givenname>. <surname>SALVALEON</surname></name>
+                            <address lat='33.6927' lon='117.819' majorcity='IRVINE' state='CA'><city>Irvine</city>, <state abbrev='CA'>CA</state> <postalcode>92606</postalcode></address>  <email>rsalvaleon@gmail.com</email>  <phone>(949) 293-2987</phone></contact>
+
+<summary>OBJECTIVE
+  <objective>· A challenging Information Technology / Security related position that will utilize my existing education and skill,
+     which also provides continuing opportunities to develop my skills, experience, and knowledge bases.</objective>
+
+SUMMARY OF QUALIFICATIONS
+  · Certified CompTIA Security+ Certification                                                                      2010
+  · Certified CompTIA Network+ Certification                                                                      2010
+  · Currently providing full technical support for all executives and professional staff of a large global public
+    accounting firm. (Local office is located in Orange County California, along with satellite users in San Diego.)
+  · Very technically inclined with solid abilities to analyze and troubleshoot problems, develop technical solutions for
+    corrective actions, and communicate results in non-technical terms to end users.
+  · Capable of successfully balancing multiple projects, goals, and operational duties while maintaining priorities
+    with minimal supervision.</summary>
+
+<skills>COMPUTER SKILLS
+  · <courses>Microsoft Certified Technology Specialist: Windows 7, Configuration                                           2011
+  · Certified CompTIA A+ Professional IT Technician                                                               2008</courses>
+  <skills>· MS Windows platforms (XP, 2000, 2003 Server, Windows 7) and MS Office</skills>                                 <courses>2007 and 2003
+  · Certified Dell Hardware Repair Technician (Notebooks and Desktops)                                    2005 ­ 2008
+  · Certified Lenovo Hardware Repair Technician (Notebooks and Desktops)                                  2008 ­ Present</courses></skills>
+
+<education>EDUCATION
+     <school id='2'><degree level='18'>Master of Information System Management</degree>,                    <institution>Keller Graduate School of Management</institution>              <completiondate days='732679' iso8601='2007-01-01'>2007</completiondate>
+     Specialization: <major code='4504'>Information Security</major></school>
+     <school id='3'><degree level='16' name='Bachelor of Arts'>Bachelor of Arts</degree>, <major code='2299'>Social Science</major>,                           <institution>University of California</institution>, <address><city>Irvine</city></address>                 <completiondate days='731583' iso8601='2004-01-01'>2004</completiondate></school></education>
+
+<experience end='present' start='731949'>EXPERIENCE
+<job end='present' id='1' naics='54121101' naics2='54' pos='1' sic='872101' sic2='87' start='731949'><employer>Grant Thornton, LLP</employer> (<address><city>Irvine</city>, <state abbrev='CA'>CA</state></address>)                                      <daterange><start days='731949' iso8601='2005-01-01'>2005</start>­<end days='present' iso8601='2012-04-02'>Present</end></daterange>
+<title>Information Technology Support Specialist</title>
+<description>Primarily responsible for supporting the business practices of the firm by delivering reliable, high quality support,
+products, and services.
+    · Independently manage information technology needs of the office, accepting responsibility of decisions and
+        actions, while ensuring 100% completion of the tasks and full user base satisfaction.
+    · Install, maintain, troubleshoot and configure all information technology for 120+ users in Irvine.
+    · Concurrently provide assistance and support to 30+ users in our satellite office in San Diego.
+    · Supervise and maintain all office PC systems, software, configuration, updates, and security patches in
+        compliance with firm standards to minimize/eliminate potential down time experienced by the user community.
+    · Support the Connected Backup Data Software team in data retrieval for legal purposes or terminated users.
+    · Able to adapt to the changing business needs of the firm, understanding the scope of the job, while still effectively
+        accomplishing projects in a timely manner.
+    · Monitor, document, and respond to all support incidents in helpdesk ticket tracking systems.
+    · Act as liaison between local office and national office to disseminate information, policy changes, and implement
+        changes regarding IT.
+    · Currently a member of the Virtual Service Desk Team in support of core service desk operations, as a team
+        manages incidents and provides phone support to all users in any of the offices nationwide.
+    · Coordinate with engineering and communicate with Technology Support leadership any LAN, WAN or Server
+        issues that directly affect the efficiency and reliability of the local office network.
+    · Implement efficient and effective support methods which provide remote assistance to staff offsite and additional
+        satellite offices resulting in cost savings for the firm (travel, hiring additional IT staff, time, etc.).
+    · Prepare computers for new hires and conduct training on all aspects surrounding information technology.</description></job></experience>
+</resume>
+
+<skillrollup version='1'>
+  <canonskill name='a + certified'>
+    <variant>A+</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='backup' start='731949'>
+    <variant>Backup</variant>
+  </canonskill>
+  <canonskill name='computer hardware'>
+    <variant>Hardware Repair</variant>
+  </canonskill>
+  <canonskill name='dell computers'>
+    <variant>Dell</variant>
+  </canonskill>
+  <canonskill name='desktop pc'>
+    <variant>Desktops</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='help desk support' start='731949'>
+    <variant>phone support</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='hiring' start='731949'>
+    <variant>hiring</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='information technology' start='731949'>
+    <variant>information technology</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='lan' start='731949'>
+    <variant>LAN</variant>
+  </canonskill>
+  <canonskill name='laptop computers'>
+    <variant>Notebooks</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='leadership' start='731949'>
+    <variant>leadership</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='legal' start='731949'>
+    <variant>legal</variant>
+  </canonskill>
+  <canonskill name='microsoft certified professional'>
+    <variant>Microsoft Certified</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='microsoft office' start='731949'>
+    <variant>MS Office</variant>
+    <variant>office</variant>
+  </canonskill>
+  <canonskill name='microsoft windows'>
+    <variant>Windows 7</variant>
+    <variant>MS Windows</variant>
+  </canonskill>
+  <canonskill name='microsoft windows 2000'>
+    <variant>2000</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='networking' start='731949'>
+    <variant>network</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='pc systems' start='731949'>
+    <variant>PC systems</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='quality' start='731949'>
+    <variant>quality</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='san' start='731949'>
+    <variant>San</variant>
+  </canonskill>
+  <canonskill name='technician'>
+    <variant>Technician</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='troubleshooting' start='731949'>
+    <variant>troubleshoot</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='wan' start='731949'>
+    <variant>WAN</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

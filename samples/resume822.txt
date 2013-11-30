@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734597' xml:space='preserve'><contact><name><givenname>Wade</givenname> <surname>Little</surname></name>
+<address lat='32.3391' lon='86.2706' majorcity='MONTGOMERY' state='AL'><street>718 E. Edgemont Avenue</street>
+<city>Montgomery</city>, <state abbrev='AL'>AL</state> <postalcode>36111</postalcode></address>
+<phone>832.818.1643</phone>                                                                                  
+email:<email>prizmpromos@gmail.com</email></contact>
+
+<summary>Objective
+
+<objective>To pursue a career in management, while furthering my knowledge and skills of commercial design,
+marketing, and graphic communications.</objective></summary>
+
+<professional>Notable Achievements
+
+- <description>Have 9+ years of graphic design/printing experience. Skilled in Mac/PC platform with graphic design, digital printing, screen
+  printing, commercial press printing, advertising, prepress operations, color separation and adobe design software.
+- Operate self run design/printing business, supporting customers throughout the Southeast with graphic design, promotional
+  materials and print advertising. Customers include Booking/Promotions Managers, Radio Advertising, Digital Billboard
+  Advertising and Local Events.
+  Please visit prizmpromos.com for further information and artwork samples.
+- Have Management experience including employee hiring, training, scheduling and keeping business records. Professional in
+  customer service. Have relieved numerous awards for response and customer satisfaction with Ricoh Professional Services
+  (2009) and Baptist Health Systems (2011).</description></professional>
+
+<experience end='present' start='731949'>Employment History
+
+<job end='present' id='1' pos='1' start='733044'><daterange><start days='733044' iso8601='2008-01-01'>2008</start>/<end days='present' iso8601='2012-04-02'>Present</end></daterange>
+<employer>Ricoh Professional Services</employer>-<address><city>Montgomery</city>, <state abbrev='AL'>AL</state></address>                                          <title>Graphic Artist</title> (Baptist Health)
+<description>Create custom digital designs , supply 8+ Health Facilities with graphic design and printing.
+Duties include: working with Nursing Administration to create and typeset medical forms, proofreading, also maintain online
+document storage and ordering system. Create graphics and design for marketing materials, patient services, and other involved
+practices. Operate multiple digital printing machines including: 2 Ricoh Pro C-900 high volume color machines, Micropress printing
+software, Fiery and color matching, Digital Duplicators, binding, lamination, other finishing. Assist manager in daily operations of
+print shop: customer service, job scheduling and shipping.</description></job>
+
+<job end='733044' id='2' pos='2' sic='267598' sic2='26' start='732314'><daterange><start days='732314' iso8601='2006-01-01'>2006</start>/<end days='733044' iso8601='2008-01-01'>2008</end></daterange>
+<employer>Wells Printing</employer>-<address><city>Montgomery</city>, <state abbrev='AL'>AL</state></address>                                                     Design/Production
+<description>Responsibilities included platemaking for multiple automatic 6 color &amp; black and white presses. Create color conversions for
+process printing, proofreading, assist design department in pantone color matching and separation.</description></job>
+
+<job end='732314' id='3' pos='3' start='731949'><daterange><start days='731949' iso8601='2005-01-01'>2005</start>/<end days='732314' iso8601='2006-01-01'>2006</end></daterange>
+<employer>Monkey Bizness</employer>-<address><city>Houston</city>, <state abbrev='TX'>TX</state></address>                                                        <title>Manager</title>
+<description>Managed children's party facility, supervised 25 employees, also scheduling, hiring, training and customer relations. Created
+company procedure and training manuals, maintained online reservation and updates, placing orders, purchasing/receiving,
+POS system.</description></job></experience>
+
+<education>Education
+<school id='4'><degree level='14' name='Associate in Arts and Sciences'>AAS</degree>: <major code='2401 2405'>Commercial Art/Design</major>
+<institution>Bessemer State (Lawson State)</institution> <address><city>Bessemer</city>, <state abbrev='AL'>AL</state></address> <completiondate days='730853' iso8601='2002-01-01'>2002</completiondate>
+<description>Focused on design elements, advertising and printing.</description></school></education>
+
+
+<references>References and Samples available upon request</references>
+</resume>
+
+<skillrollup version='1'>
+  <canonskill education='1' eduidrefs='4' idrefs='4' name='advertising'>
+    <variant>advertising</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='color' start='732314'>
+    <variant>color</variant>
+  </canonskill>
+  <canonskill end='732314' experience='1' expidrefs='3' idrefs='3' lastused='2006' name='customer relations' start='731949'>
+    <variant>customer relations</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='customer service' start='733044'>
+    <variant>customer service</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='forms' start='733044'>
+    <variant>forms</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='graphic design' start='733044'>
+    <variant>graphic design</variant>
+    <variant>graphics and design</variant>
+  </canonskill>
+  <canonskill end='732314' experience='1' expidrefs='3' idrefs='3' lastused='2006' name='hiring' start='731949'>
+    <variant>hiring</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='marketing materials' start='733044'>
+    <variant>marketing materials</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='nursing' start='733044'>
+    <variant>Nursing</variant>
+  </canonskill>
+  <canonskill end='732314' experience='1' expidrefs='3' idrefs='3' lastused='2006' name='pos' start='731949'>
+    <variant>POS</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='print shop' start='733044'>
+    <variant>print shop</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='pro c' start='733044'>
+    <variant>Pro C</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='proofreading' start='732314'>
+    <variant>proofreading</variant>
+  </canonskill>
+  <canonskill end='732314' experience='1' expidrefs='3' idrefs='3' lastused='2006' name='purchasing' start='731949'>
+    <variant>purchasing</variant>
+  </canonskill>
+  <canonskill end='732314' experience='1' expidrefs='3' idrefs='3' lastused='2006' name='receiving' start='731949'>
+    <variant>receiving</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,3' idrefs='1,3' lastused='2012' name='scheduling' start='731949'>
+    <variant>scheduling</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='shipping' start='733044'>
+    <variant>shipping</variant>
+  </canonskill>
+  <canonskill end='732314' experience='1' expidrefs='3' idrefs='3' lastused='2006' name='training materials' start='731949'>
+    <variant>training manuals</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

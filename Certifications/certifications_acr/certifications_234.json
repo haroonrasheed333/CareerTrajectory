@@ -1,0 +1,54 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Materials Selection/Design Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "1148", 
+            "Certifying Organization": "NACE International"
+        }, 
+        {
+            "Acronym": "WSO-CHMS", 
+            "Certification Name": "WSO - Certified Hazardous Materials Supervisor", 
+            "Type": "Specialty", 
+            "Certification ID": "1011", 
+            "Certifying Organization": "World Safety Organization"
+        }, 
+        {
+            "Acronym": "CLS", 
+            "Certification Name": "Certified Lubrication Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "2107", 
+            "Certifying Organization": "Society of Tribologists and Lubrication Engineers"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Corrosion Specialist", 
+            "Type": "Advanced", 
+            "Certification ID": "1152", 
+            "Certifying Organization": "NACE International"
+        }, 
+        {
+            "Acronym": "RCA", 
+            "Certification Name": "Responsible Care Auditor", 
+            "Type": "Advanced", 
+            "Certification ID": "6263", 
+            "Certifying Organization": "Board of Environmental Health and Safety Auditor Certification"
+        }, 
+        {
+            "Acronym": "WSO-CHME", 
+            "Certification Name": "WSO - Certified Hazardous Materials Executive", 
+            "Type": "Specialty", 
+            "Certification ID": "1012", 
+            "Certifying Organization": "World Safety Organization"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Protective Coatings Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "1150", 
+            "Certifying Organization": "NACE International"
+        }
+    ], 
+    "onet": "19203200"
+}

@@ -1,0 +1,194 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "RMSK", 
+            "Certification Name": "Registered in Medical Sonography - Musculoskeletal", 
+            "Type": "Specialty", 
+            "Certification ID": "7618", 
+            "Certifying Organization": "American Registry of Diagnostic Medical Sonographers"
+        }, 
+        {
+            "Acronym": "RRA", 
+            "Certification Name": "Registered Radiologist Assistant", 
+            "Type": "Advanced", 
+            "Certification ID": "3940", 
+            "Certifying Organization": "American Registry of Radiologic Technologists"
+        }, 
+        {
+            "Acronym": "RDMS", 
+            "Certification Name": "Registered Diagnostic Medical Sonographer - Abdomen", 
+            "Type": "Specialty", 
+            "Certification ID": "1156", 
+            "Certifying Organization": "American Registry of Diagnostic Medical Sonographers"
+        }, 
+        {
+            "Acronym": "RDMS", 
+            "Certification Name": "Registered Diagnostic Medical Sonographer - Obstetrics and Gynecology", 
+            "Type": "Specialty", 
+            "Certification ID": "1157", 
+            "Certifying Organization": "American Registry of Diagnostic Medical Sonographers"
+        }, 
+        {
+            "Acronym": "RDMS", 
+            "Certification Name": "Registered Diagnostic Medical Sonographer - Neurosonology", 
+            "Type": "Specialty", 
+            "Certification ID": "1159", 
+            "Certifying Organization": "American Registry of Diagnostic Medical Sonographers"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Registered Diagnostic Cardiac Sonographer - Pediatric Echocardiography", 
+            "Type": "Specialty", 
+            "Certification ID": "1161", 
+            "Certifying Organization": "American Registry of Diagnostic Medical Sonographers"
+        }, 
+        {
+            "Acronym": "CDOS", 
+            "Certification Name": "Certified Diagnostic Ophthalmic Sonographer", 
+            "Type": "Specialty", 
+            "Certification ID": "6691", 
+            "Certifying Organization": "Joint Commission on Allied Health Personnel in Ophthalmology"
+        }, 
+        {
+            "Acronym": "RTCV", 
+            "Certification Name": "Registered Technologist - Cardiac-Interventional Radiography", 
+            "Type": "Specialty", 
+            "Certification ID": "2027", 
+            "Certifying Organization": "American Registry of Radiologic Technologists"
+        }, 
+        {
+            "Acronym": "RCCS", 
+            "Certification Name": "Registered Congenital Cardiac Sonographer", 
+            "Type": "Specialty", 
+            "Certification ID": "5914", 
+            "Certifying Organization": "Cardiovascular Credentialing International"
+        }, 
+        {
+            "Acronym": "RTCT", 
+            "Certification Name": "Registered Technologist - Computed Tomography", 
+            "Type": "Specialty", 
+            "Certification ID": "2029", 
+            "Certifying Organization": "American Registry of Radiologic Technologists"
+        }, 
+        {
+            "Acronym": "RTR", 
+            "Certification Name": "Registered Technologist - Radiography", 
+            "Type": "Core", 
+            "Certification ID": "6492", 
+            "Certifying Organization": "American Registry of Radiologic Technologists"
+        }, 
+        {
+            "Acronym": "RTM", 
+            "Certification Name": "Registered Technologist - Mammography", 
+            "Type": "Specialty", 
+            "Certification ID": "2028", 
+            "Certifying Organization": "American Registry of Radiologic Technologists"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Registered Vascular Technologist", 
+            "Type": "Specialty", 
+            "Certification ID": "3939", 
+            "Certifying Organization": "American Registry of Diagnostic Medical Sonographers"
+        }, 
+        {
+            "Acronym": "RTN", 
+            "Certification Name": "Registered Technologist - Nuclear Medicine Technology", 
+            "Type": "Specialty", 
+            "Certification ID": "2025", 
+            "Certifying Organization": "American Registry of Radiologic Technologists"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Registered Diagnostic Medical Sonographer - Fetal Echocardiography", 
+            "Type": "Specialty", 
+            "Certification ID": "3731", 
+            "Certifying Organization": "American Registry of Diagnostic Medical Sonographers"
+        }, 
+        {
+            "Acronym": "RPhS", 
+            "Certification Name": "Registered Phlebology Sonographer", 
+            "Type": "Specialty", 
+            "Certification ID": "5912", 
+            "Certifying Organization": "Cardiovascular Credentialing International"
+        }, 
+        {
+            "Acronym": "RTS", 
+            "Certification Name": "Registered Technologist - Sonography", 
+            "Type": "Core", 
+            "Certification ID": "2686", 
+            "Certifying Organization": "American Registry of Radiologic Technologists"
+        }, 
+        {
+            "Acronym": "RTBD", 
+            "Certification Name": "Registered Technologist - Bone Densitometry", 
+            "Type": "Specialty", 
+            "Certification ID": "2685", 
+            "Certifying Organization": "American Registry of Radiologic Technologists"
+        }, 
+        {
+            "Acronym": "RTBS", 
+            "Certification Name": "Registered Technologist - Breast Sonography", 
+            "Type": "Specialty", 
+            "Certification ID": "3749", 
+            "Certifying Organization": "American Registry of Radiologic Technologists"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Registered Diagnostic Medical Sonographer - Breast", 
+            "Type": "Specialty", 
+            "Certification ID": "3938", 
+            "Certifying Organization": "American Registry of Diagnostic Medical Sonographers"
+        }, 
+        {
+            "Acronym": "RTQM", 
+            "Certification Name": "Registered Technologist - Quality Management", 
+            "Type": "Specialty", 
+            "Certification ID": "2031", 
+            "Certifying Organization": "American Registry of Radiologic Technologists"
+        }, 
+        {
+            "Acronym": "RDCS", 
+            "Certification Name": "Registered Diagnostic Cardiac Sonographer - Adult Echocardiography", 
+            "Type": "Specialty", 
+            "Certification ID": "1164", 
+            "Certifying Organization": "American Registry of Diagnostic Medical Sonographers"
+        }, 
+        {
+            "Acronym": "RCS", 
+            "Certification Name": "Registered Cardiac Sonographer", 
+            "Type": "Specialty", 
+            "Certification ID": "1811", 
+            "Certifying Organization": "Cardiovascular Credentialing International"
+        }, 
+        {
+            "Acronym": "RTVI", 
+            "Certification Name": "Registered Technologist - Vascular-Interventional Radiography", 
+            "Type": "Specialty", 
+            "Certification ID": "3748", 
+            "Certifying Organization": "American Registry of Radiologic Technologists"
+        }, 
+        {
+            "Acronym": "RTT", 
+            "Certification Name": "Registered Technologist - Radiation Therapy", 
+            "Type": "Specialty", 
+            "Certification ID": "6939", 
+            "Certifying Organization": "American Registry of Radiologic Technologists"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Registered Diagnostic Cardiac Sonographer - Fetal Echocardiolgraphy", 
+            "Type": "Specialty", 
+            "Certification ID": "3732", 
+            "Certifying Organization": "American Registry of Diagnostic Medical Sonographers"
+        }, 
+        {
+            "Acronym": "RTVS", 
+            "Certification Name": "Registered Technologist - Vascular Sonography", 
+            "Type": "Specialty", 
+            "Certification ID": "2684", 
+            "Certifying Organization": "American Registry of Radiologic Technologists"
+        }
+    ], 
+    "onet": "29203200"
+}

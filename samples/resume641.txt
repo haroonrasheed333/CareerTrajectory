@@ -1,0 +1,185 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734595' xml:space='preserve'> <contact><name><givenname>Sanket</givenname> <surname>Korgaonkar</surname></name>
+ <address lat='29.5548' lon='95.0985' majorcity='HOUSTON' state='TX'><street>2001 Gemini St, # 1110</street>, <city>Houston</city>, <state abbrev='TX'>TX</state>- <postalcode>77058</postalcode></address>
+ <email>korgaonkar.sanket@gmail.com</email> 
+ <phone>(832) 729-6762</phone></contact>	 
+
+
+<summary>Career Objective
+<objective>Work as an entry level developer in a stimulating environment which gives me the opportunity to, enhance my knowledge and skills, be an asset to the company and contribute towards its growth and success</objective></summary>
+
+<education>Education
+Graduating from <school id='5'><institution>University of Houston</institution> - <address><city>Clear Lake</city>, <country iso3='USA'>US</country></address> with <degree level='18'>Master's Degree</degree> in <major code='0402'>Computer Science</major> in <completiondate>May 2012</completiondate>
+Undergraduate from <institution>University of Mumbai</institution>, <address><country iso3='IND'>India</country></address> with <degree level='16'>Bachelor's Degree</degree> in <major code='1699'>Information Technology</major> in <completiondate days='733591' iso8601='2009-07-01'>July 2009</completiondate></school></education>
+
+<skills>Related Coursework
+<skills>Web Application Development, Database Management Systems, Image Processing &amp; Pattern Recognition, Software Project Management, Software Design Pattern, Research Methods
+
+Technical Proficiency
+.Net Technologies: .Net Framework 4.0, ASP.Net using C#, ADO.Net
+Web Technologies: JavaScript, XML, HTML, CSS, AJAX, JQuery, Basic idea of Web Services   
+Developer Tools: Microsoft Visual Studio 2008/ 2010
+Other Languages:  C/C++
+Other Tools: Dreamweaver, Photoshop, Rational Rose, Microsoft Project, Mathematica</skills></skills>
+
+<experience end='present' start='734171'>Experience
+
+<job end='present' id='1' pos='1' start='734505'><employer>Tietronix Software Inc</employer>. <address><city>Houston</city>, <state abbrev='TX'>TX</state></address>                                                                                           <daterange><start days='734505' iso8601='2012-01-01'>Jan 2012</start> - <end days='present' iso8601='2012-03-31'>Present</end></daterange>  
+<description>Capstone group project  to work on company's corporate website
+Refining the website, building new websites and implementing Search Engine Optimization techniques
+Making presence of the company on social media for its services and running a successful Google ADWORDS campaign</description></job>
+
+Online Job Portal	                                                                                                               <job end='734352' id='2' pos='3' start='734352'><daterange><start days='734352' iso8601='2011-08-01'>Aug 2011</start> - <end days='734352' iso8601='2011-08-01'>Aug 2011</end></daterange>
+<description>Website developed in basic HTML and CSS using Visual Studio 2010 platform
+Basic prototype of job portal where user can view and apply to the job post and employer can post the job requirements</description></job> 
+
+<job end='734474' id='3' pos='2' start='734383'><employer>Online Ticket Booking System</employer>                                                                                                  <daterange><start days='734383' iso8601='2011-09-01'>Sept 2011</start> - <end days='734474' iso8601='2011-12-01'>Dec 2011</end></daterange>
+<description>Website developed in ASP.NET 4.0 in C# language using Visual Studio 2010 platform
+Field validation is conducted through JavaScript, used master pages for having similar look and feel among several pages, dynamic suggestions were provided through AJAX
+MS-SQL server 2008 used for database connection</description></job>
+
+Software Project Management                                                                                                  <job end='734260' id='4' pos='4' start='734171'><daterange><start days='734171' iso8601='2011-02-01'>Feb 2011</start> - <end days='734260' iso8601='2011-05-01'>May 2011</end></daterange>
+<description>Term project in Software Engineering to perform Requirement Analysis of a project; compute its costing and budgeting using COCOMO model 
+Performed requirements gathering while adhering to SDLC industry best practices
+Prepared documentation such as Business Case, Vision Case, WBS, Software Development Plan and Software Architecture Plan of the project, including use case models and charts in an effort to identify and realize the processes and flows involved in the system
+Analyzed business requirements for software applications from functional perspectives</description></job></experience>
+
+<references>References: Available upon request.</references> <statements><eligibility>Available Immediately, Authorized to work in United States,</eligibility> <relocation>willing to relocate and travel.</relocation></statements>
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='734474' experience='1' expidrefs='3' idrefs='3' lastused='2011' name='.net' start='734383'>
+    <variant>ASP.Net</variant>
+    <variant>.Net</variant>
+    <variant>ASP.NET 4.0</variant>
+  </canonskill>
+  <canonskill name='ado'>
+    <variant>ADO</variant>
+  </canonskill>
+  <canonskill name='adobe photoshop'>
+    <variant>Photoshop</variant>
+  </canonskill>
+  <canonskill end='734352' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='basic' start='734352'>
+    <variant>Basic</variant>
+  </canonskill>
+  <canonskill end='734260' experience='1' expidrefs='4' idrefs='4' lastused='2011' name='budgeting' start='734171'>
+    <variant>budgeting</variant>
+  </canonskill>
+  <canonskill end='734260' experience='1' expidrefs='4' idrefs='4' lastused='2011' name='business case' start='734171'>
+    <variant>Business Case</variant>
+  </canonskill>
+  <canonskill name='c'>
+    <variant>C</variant>
+  </canonskill>
+  <canonskill name='c + +'>
+    <variant>C++</variant>
+  </canonskill>
+  <canonskill end='734260' experience='1' expidrefs='4' idrefs='4' lastused='2011' name='charts' start='734171'>
+    <variant>charts</variant>
+  </canonskill>
+  <canonskill end='734352' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='css' start='734352'>
+    <variant>CSS</variant>
+  </canonskill>
+  <canonskill end='734474' experience='1' expidrefs='3' idrefs='3' lastused='2011' name='database administration' start='734383'>
+    <variant>Database Management</variant>
+    <variant>database</variant>
+  </canonskill>
+  <canonskill end='734260' experience='1' expidrefs='4' idrefs='4' lastused='2011' name='documentation' start='734171'>
+    <variant>documentation</variant>
+  </canonskill>
+  <canonskill name='dreamweaver'>
+    <variant>Dreamweaver</variant>
+  </canonskill>
+  <canonskill end='734260' experience='1' expidrefs='4' idrefs='4' lastused='2011' name='functional' start='734171'>
+    <variant>functional</variant>
+  </canonskill>
+  <canonskill end='734352' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='html' start='734352'>
+    <variant>basic HTML</variant>
+    <variant>HTML</variant>
+  </canonskill>
+  <canonskill name='image processing'>
+    <variant>Image Processing</variant>
+  </canonskill>
+  <canonskill end='734474' experience='1' expidrefs='3' idrefs='3' lastused='2011' name='javascript' start='734383'>
+    <variant>JavaScript</variant>
+  </canonskill>
+  <canonskill name='languages'>
+    <variant>Languages</variant>
+  </canonskill>
+  <canonskill name='mathematica'>
+    <variant>Mathematica</variant>
+  </canonskill>
+  <canonskill end='734474' experience='1' expidrefs='3' idrefs='3' lastused='2011' name='microsoft c #' start='734383'>
+    <variant>C#</variant>
+  </canonskill>
+  <canonskill name='microsoft project'>
+    <variant>Microsoft Project</variant>
+  </canonskill>
+  <canonskill name='oracle developer 2000'>
+    <variant>Developer</variant>
+  </canonskill>
+  <canonskill end='734260' experience='1' expidrefs='4' idrefs='4' lastused='2011' name='process engineering' start='734171'>
+    <variant>processes</variant>
+  </canonskill>
+  <canonskill name='project management'>
+    <variant>Project Management</variant>
+  </canonskill>
+  <canonskill name='rational rose'>
+    <variant>Rational Rose</variant>
+  </canonskill>
+  <canonskill end='734260' experience='1' expidrefs='4' idrefs='4' lastused='2011' name='requirements' start='734171'>
+    <variant>Requirement</variant>
+  </canonskill>
+  <canonskill end='734260' experience='1' expidrefs='4' idrefs='4' lastused='2011' name='requirements analysis' start='734171'>
+    <variant>requirements gathering</variant>
+  </canonskill>
+  <canonskill name='research'>
+    <variant>Research</variant>
+  </canonskill>
+  <canonskill end='734260' experience='1' expidrefs='4' idrefs='4' lastused='2011' name='sdlc' start='734171'>
+    <variant>SDLC</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='search engine optimization' start='734505'>
+    <variant>Search Engine Optimization</variant>
+  </canonskill>
+  <canonskill end='734260' experience='1' expidrefs='4' idrefs='4' lastused='2011' name='software architecture' start='734171'>
+    <variant>Software Architecture</variant>
+    <variant>Software Design</variant>
+  </canonskill>
+  <canonskill end='734260' experience='1' expidrefs='4' idrefs='4' lastused='2011' name='software development' start='734171'>
+    <variant>Software Development</variant>
+  </canonskill>
+  <canonskill end='734260' experience='1' expidrefs='4' idrefs='4' lastused='2011' name='software engineering' start='734171'>
+    <variant>Software Engineering</variant>
+  </canonskill>
+  <canonskill end='734474' experience='1' expidrefs='3' idrefs='3' lastused='2011' name='sql' start='734383'>
+    <variant>MS-SQL server</variant>
+  </canonskill>
+  <canonskill end='734474' experience='1' expidrefs='3' idrefs='3' lastused='2011' name='validation' start='734383'>
+    <variant>validation</variant>
+  </canonskill>
+  <canonskill end='734352' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='view' start='734352'>
+    <variant>view</variant>
+  </canonskill>
+  <canonskill end='734260' experience='1' expidrefs='4' idrefs='4' lastused='2011' name='vision' start='734171'>
+    <variant>Vision</variant>
+  </canonskill>
+  <canonskill end='734474' experience='1' expidrefs='2,3' idrefs='2,3' lastused='2011' name='visual studio' start='734352'>
+    <variant>Microsoft Visual Studio</variant>
+    <variant>Visual Studio</variant>
+  </canonskill>
+  <canonskill name='web application development'>
+    <variant>Web Application Development</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,3' idrefs='1,2,3' lastused='2012' name='web site production' start='734352'>
+    <variant>Website</variant>
+    <variant>website</variant>
+    <variant>websites</variant>
+  </canonskill>
+  <canonskill name='xml'>
+    <variant>XML</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

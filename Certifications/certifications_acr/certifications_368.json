@@ -1,0 +1,131 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CMI", 
+            "Certification Name": "Certified Medical Interpreter - Spanish", 
+            "Type": "Specialty", 
+            "Certification ID": "9148", 
+            "Certifying Organization": "National Board of Certification for Medical Interpreters"
+        }, 
+        {
+            "Acronym": "SC:L", 
+            "Certification Name": "Specialist Certificate: Legal", 
+            "Type": "Specialty", 
+            "Certification ID": "6106", 
+            "Certifying Organization": "Registry of Interpreters for the Deaf"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Professional Sign Language Certification", 
+            "Type": "Core", 
+            "Certification ID": "5806", 
+            "Certifying Organization": "American Sign Language Teachers Association"
+        }, 
+        {
+            "Acronym": "Ed:", 
+            "Certification Name": "Educational Certificate: K-12", 
+            "Type": "Advanced", 
+            "Certification ID": "8626", 
+            "Certifying Organization": "Registry of Interpreters for the Deaf"
+        }, 
+        {
+            "Acronym": "CDI", 
+            "Certification Name": "Certified Deaf Interpreter", 
+            "Type": "Specialty", 
+            "Certification ID": "6104", 
+            "Certifying Organization": "Registry of Interpreters for the Deaf"
+        }, 
+        {
+            "Acronym": "OTC", 
+            "Certification Name": "Oral Transliteration Certificate", 
+            "Type": "Core", 
+            "Certification ID": "6105", 
+            "Certifying Organization": "Registry of Interpreters for the Deaf"
+        }, 
+        {
+            "Acronym": "CMI", 
+            "Certification Name": "Certified Medical Interpreter", 
+            "Type": "Core", 
+            "Certification ID": "6037", 
+            "Certifying Organization": "The National Board of Certification for Medical Interpreters"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Associate Health Care Interpreter", 
+            "Type": "Advanced", 
+            "Certification ID": "7644", 
+            "Certifying Organization": "Certification Commission for Healthcare Interpreters"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Medical Interpreter - Mandarin", 
+            "Type": "Specialty", 
+            "Certification ID": "9150", 
+            "Certifying Organization": "National Board of Certification for Medical Interpreters"
+        }, 
+        {
+            "Acronym": "NIC", 
+            "Certification Name": "National Interpreter Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "6107", 
+            "Certifying Organization": "Registry of Interpreters for the Deaf"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Provisional Level Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "6791", 
+            "Certifying Organization": "American Sign Language Teachers Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Health Care Interpreters Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "7643", 
+            "Certifying Organization": "Certification Commission for Healthcare Interpreters"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Qualified Sign Language Certification", 
+            "Type": "Core", 
+            "Certification ID": "5805", 
+            "Certifying Organization": "American Sign Language Teachers Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Medical Interpreter - Russian", 
+            "Type": "Specialty", 
+            "Certification ID": "9149", 
+            "Certifying Organization": "National Board of Certification for Medical Interpreters"
+        }, 
+        {
+            "Acronym": "NJITC", 
+            "Certification Name": "National Judiciary Interpreter and Translator Certification", 
+            "Type": "Core", 
+            "Certification ID": "5338", 
+            "Certifying Organization": "National Association of Judiciary Interpreters and Translators"
+        }, 
+        {
+            "Acronym": "CIH", 
+            "Certification Name": "Certified Interpretive Host", 
+            "Type": "Core", 
+            "Certification ID": "4794", 
+            "Certifying Organization": "National Association for Interpretation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Translator", 
+            "Type": "Advanced", 
+            "Certification ID": "1323", 
+            "Certifying Organization": "American Translators Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Medical Interpreter - Cantonese", 
+            "Type": "Specialty", 
+            "Certification ID": "9151", 
+            "Certifying Organization": "National Board of Certification for Medical Interpreters"
+        }
+    ], 
+    "onet": "27309100"
+}

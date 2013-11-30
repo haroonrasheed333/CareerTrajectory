@@ -1,0 +1,54 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "RL", 
+            "Certification Name": "Registered Landman", 
+            "Type": "Core", 
+            "Certification ID": "8684", 
+            "Certifying Organization": "American Association of Professional Landmen"
+        }, 
+        {
+            "Acronym": "CFPC&C", 
+            "Certification Name": "Fluid Power Connector and Conductor", 
+            "Type": "Advanced", 
+            "Certification ID": "2605", 
+            "Certifying Organization": "International Fluid Power Society"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified CNG Fuel System Inspector", 
+            "Type": "Advanced", 
+            "Certification ID": "7669", 
+            "Certifying Organization": "CSA Standards"
+        }, 
+        {
+            "Acronym": "PEC", 
+            "Certification Name": "Petroleum Engineering Certification", 
+            "Type": "Core", 
+            "Certification ID": "6169", 
+            "Certifying Organization": "Society of Petroleum Engineers"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Petroleum Geophysicist", 
+            "Type": "Advanced", 
+            "Certification ID": "2088", 
+            "Certifying Organization": "American Association of Petroleum Geologists"
+        }, 
+        {
+            "Acronym": "RPL", 
+            "Certification Name": "Registered Professional Landman", 
+            "Type": "Advanced", 
+            "Certification ID": "8685", 
+            "Certifying Organization": "American Association of Professional Landmen"
+        }, 
+        {
+            "Acronym": "CEP", 
+            "Certification Name": "Certified Energy Procurement Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "1285", 
+            "Certifying Organization": "Association of Energy Engineers"
+        }
+    ], 
+    "onet": "17217100"
+}

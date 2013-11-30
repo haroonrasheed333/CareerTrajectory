@@ -1,0 +1,19 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CBM", 
+            "Certification Name": "Certified Broadcast Meteorologist", 
+            "Type": "Advanced", 
+            "Certification ID": "3920", 
+            "Certifying Organization": "American Meteorological Society"
+        }, 
+        {
+            "Acronym": "CFI", 
+            "Certification Name": "Certified Forensic Interviewer", 
+            "Type": "Core", 
+            "Certification ID": "5337", 
+            "Certifying Organization": "Certified Forensic Interviewer"
+        }
+    ], 
+    "onet": "27302200"
+}

@@ -1,0 +1,151 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734593' xml:space='preserve'><contact><name><givenname>Brandi</givenname> <surname>Bell</surname></name>		
+			Address: <address lat='33.8622' lon='84.4704' majorcity='ATLANTA' state='GA'><street>2383 Akers Mill Rd.</street>
+				<city>Atlanta</city>, <state abbrev='GA'>GA</state> <postalcode>30339</postalcode></address>
+			Phone:	*<phone type='cell'>(404) 337-8546</phone> cell
+			E-mail: <email>bbell30_7@hotmail.com</email></contact>
+
+
+	<education>Education	
+	<school id='6'><institution>Lincoln Culinary Institute</institution>
+<daterange><start days='733653' iso8601='2009-09-01'>09/2009</start>-<end days='734321' iso8601='2011-07-01'>07/2011</end></daterange> <courses>Advanced Culinary Arts Program</courses></school>
+
+	<school id='7'><institution>High Tech Institute</institution>
+<daterange><start days='731827' iso8601='2004-09-01'>09/2004</start>-<end days='732345' iso8601='2006-02-01'>02/2006</end></daterange> <degree level='14'>Associates Degree</degree> <major code='2405'>Graphic Design</major></school></education> 
+
+<experience end='present' start='730274'>Work Experience
+		<job end='present' id='1' pos='1' start='734230'><employer>Alorica/AT&amp;T</employer>
+		<daterange><start days='734230' iso8601='2011-04-01'>04/2011</start>-<end days='present' iso8601='2012-03-29'>Present</end></daterange>   <title>Call Center Customer Service Rep</title> <address><city>Kennesaw</city>, <state abbrev='GA'>GA</state></address>
+<description>Answer inbound calls from customers regarding bills, payments, troubleshooting etc. Sell rate plans, features and phones, review bill charges to customers, set expectations, set commitments to call customers back if needed to fully resolve customer's issues, provide excellent customer service.</description></job>
+
+<job end='734474' id='2' naics='45211101' naics2='45' pos='2' sic='531102' sic2='53' start='733120'><employer>Macy's</employer>			
+<daterange><start days='733120' iso8601='2008-03-17'>03/17/08</start>-<end days='734018' iso8601='2010-09-01'>09/2010</end></daterange> &amp; <daterange><start days='734230' iso8601='2011-04-01'>04/2011</start>-<end days='734474' iso8601='2011-12-01'>12/2011</end></daterange> <title>Selling Specialist</title>/signage &amp; markdown team   <address><city>Farmington</city>, <state abbrev='CT'>CT</state></address>
+<description>Provided outstanding customer service, greeted customers, cashiered, and took payments for customers credit card bills, maintained cleanliness of my department and fitting rooms, opened new credit accounts, retrieved clothing and accessories in customers desired size, located items at other Macy's locations if it wasn't on hand at our store, use scan LRT gun to scan and post pricing signs, and mark down merchandise.</description></job>  
+
+<job end='733013' id='3' pos='3' sic='581208' sic2='58' start='732283'><employer>Firehouse Subs</employer>
+<daterange><start days='732283' iso8601='2005-12-01'>12/2005</start>-<end days='733013' iso8601='2007-12-01'>12/2007</end></daterange>   <title>Shift Leader</title>   <address><city>Marietta</city>, <state abbrev='GA'>GA</state></address>
+<description>Supervised coworkers, closed or opened restaurant, counted cash register drawer and made out a deposit bag, maintained proper food and labor percentages, received, inspected, and put away supplies, food, and produce orders, prepared fresh food such as salads and items to be placed on sandwiches for the day, set up the work stations, maintained the cleanliness of the restaurant, built sandwiches for the customers, provided excellent customer service, cashiered and took phone, online, and fax orders.</description></job>
+
+<job end='731126' id='4' pos='5' sic='811103' sic2='81' start='731004'><employer>Weatherby &amp; Associates</employer>
+<daterange><start days='731004' iso8601='2002-06-01'>06/2002</start>-<end days='731126' iso8601='2002-10-01'>10/2002</end></daterange>     <employer>Receptionist</employer>   <address><city>Bloomfield</city>, <state abbrev='CT'>CT</state></address>
+<description>Greeted clients, answered phones, took and relayed messages, used time matters software, typed, edited, filed, and faxed documents, used postage machine, prepared investment, will, deed, real estate, etc. portfolios</description></job>
+
+<job end='731735' id='5' pos='4' sic='841201' sic2='84' start='730274'><employer>Connecticut Historical Society</employer>
+<daterange><start days='730274' iso8601='2000-06-01'>06/2000</start>-<end days='731735' iso8601='2004-06-01'>06/2004</end></daterange>    <title>Teen Intern</title>   <address><city>Hartford</city>, <state abbrev='CT'>CT</state></address>
+<description>Facilitated walking tours of the Amistad gallery at the CT Historical Society museum, micro managed the touring facility, instructed audience/ guest in arts and craft activities that coincided with the galleries at the museum, examined information pertaining to the galleries and their topics at CT Historical Society.</description></job></experience>
+
+	<skills>Languages	
+	<languages>Fundamental Spanish</languages>
+
+
+	Software Applications 	
+	<skills>Adobe: Photoshop CS, Illustrator CS, InDesign CS, Premiere Pro 1.5, After Effects 6.5
+Discreet: 3ds max 6
+Macromedia: Dreamweaver MX, Flash MX
+Microsoft Office Suite
+Intermediate Skills in PHP, and Flash Action Scripting
+Intermediate Experience with Mac Computers</skills></skills>
+
+
+
+<references>References upon Request</references>
+
+
+
+</resume>
+
+<skillrollup version='1'>
+  <canonskill name='adobe'>
+    <variant>Adobe</variant>
+  </canonskill>
+  <canonskill name='adobe aftereffects'>
+    <variant>After Effects 6.5</variant>
+  </canonskill>
+  <canonskill name='adobe photoshop'>
+    <variant>Photoshop</variant>
+  </canonskill>
+  <canonskill name='adobe premiere'>
+    <variant>Premiere</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='6' end='731735' experience='1' expidrefs='5' idrefs='6,5' lastused='2004' name='art' start='730274'>
+    <variant>Arts</variant>
+    <variant>arts</variant>
+  </canonskill>
+  <canonskill end='733013' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='cashier' start='732283'>
+    <variant>cash register</variant>
+  </canonskill>
+  <canonskill end='734474' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='credit' start='733120'>
+    <variant>credit</variant>
+  </canonskill>
+  <canonskill end='731126' experience='1' expidrefs='4' idrefs='4' lastused='2002' name='customer relations' start='731004'>
+    <variant>clients</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,3' idrefs='1,2,3' lastused='2012' name='customer service' start='732283'>
+    <variant>excellent customer service</variant>
+    <variant>customer service</variant>
+  </canonskill>
+  <canonskill name='dreamweaver'>
+    <variant>Dreamweaver</variant>
+  </canonskill>
+  <canonskill end='733013' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='fax' start='732283'>
+    <variant>fax</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='features' start='734230'>
+    <variant>features</variant>
+  </canonskill>
+  <canonskill name='flash'>
+    <variant>Flash</variant>
+  </canonskill>
+  <canonskill name='illustrator'>
+    <variant>Illustrator</variant>
+  </canonskill>
+  <canonskill name='indesign'>
+    <variant>InDesign</variant>
+  </canonskill>
+  <canonskill name='languages'>
+    <variant>Languages</variant>
+  </canonskill>
+  <canonskill name='macintosh'>
+    <variant>Mac</variant>
+  </canonskill>
+  <canonskill name='macromedia'>
+    <variant>Macromedia</variant>
+  </canonskill>
+  <canonskill end='734474' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='mark' start='733120'>
+    <variant>mark</variant>
+  </canonskill>
+  <canonskill name='max'>
+    <variant>max 6</variant>
+  </canonskill>
+  <canonskill name='microsoft office'>
+    <variant>Microsoft Office Suite</variant>
+  </canonskill>
+  <canonskill name='php'>
+    <variant>PHP</variant>
+  </canonskill>
+  <canonskill end='731126' experience='1' expidrefs='4' idrefs='4' lastused='2002' name='postage meter' start='731004'>
+    <variant>postage machine</variant>
+  </canonskill>
+  <canonskill end='734474' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='pricing' start='733120'>
+    <variant>pricing</variant>
+  </canonskill>
+  <canonskill end='731126' experience='1' expidrefs='4' idrefs='4' lastused='2002' name='real estate' start='731004'>
+    <variant>real estate</variant>
+  </canonskill>
+  <canonskill name='shell scripting'>
+    <variant>Scripting</variant>
+  </canonskill>
+  <canonskill name='spanish'>
+    <variant>Spanish</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,3,4' idrefs='1,3,4' lastused='2012' name='telephone skills' start='731004'>
+    <variant>phones</variant>
+    <variant>phone</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='troubleshooting' start='734230'>
+    <variant>troubleshooting</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

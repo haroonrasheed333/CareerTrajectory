@@ -1,0 +1,40 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "MDA", 
+            "Certification Name": "Master Decorative Artist", 
+            "Type": "Advanced", 
+            "Certification ID": "3763", 
+            "Certifying Organization": "Society of Decorative Painters"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Forensic Artist Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "7733", 
+            "Certifying Organization": "International Association for Identification"
+        }, 
+        {
+            "Acronym": "CDA,", 
+            "Certification Name": "Certified Decorative Artist", 
+            "Type": "Core", 
+            "Certification ID": "3762", 
+            "Certifying Organization": "Society of Decorative Painters"
+        }, 
+        {
+            "Acronym": "CMI", 
+            "Certification Name": "Certification of Medical Illustrators", 
+            "Type": "Core", 
+            "Certification ID": "5417", 
+            "Certifying Organization": "Association of Medical Illustrators"
+        }, 
+        {
+            "Acronym": "FA", 
+            "Certification Name": "Forensic Artist Certification", 
+            "Type": "Core", 
+            "Certification ID": "3598", 
+            "Certifying Organization": "The International Association for Identification"
+        }
+    ], 
+    "onet": "27101300"
+}

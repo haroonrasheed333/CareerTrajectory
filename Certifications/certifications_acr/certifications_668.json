@@ -1,0 +1,54 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CFPC&C", 
+            "Certification Name": "Fluid Power Connector and Conductor", 
+            "Type": "Advanced", 
+            "Certification ID": "2605", 
+            "Certifying Organization": "International Fluid Power Society"
+        }, 
+        {
+            "Acronym": "RPI", 
+            "Certification Name": "Residential Plumbing Inspector", 
+            "Type": "Core", 
+            "Certification ID": "3391", 
+            "Certifying Organization": "International Code Council"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Journeyman Pipefitter-Steamfitter", 
+            "Type": "Core", 
+            "Certification ID": "5635", 
+            "Certifying Organization": "National Inspection, Testing and Certification Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IAPMO Plumbing Inspector", 
+            "Type": "Core", 
+            "Certification ID": "6135", 
+            "Certifying Organization": "National Inspection, Testing and Certification Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IAPMO Plumbing Plans Examiner", 
+            "Type": "Core", 
+            "Certification ID": "6136", 
+            "Certifying Organization": "National Inspection, Testing and Certification Corporation"
+        }, 
+        {
+            "Acronym": "CPI", 
+            "Certification Name": "Commercial Plumbing Inspector", 
+            "Type": "Core", 
+            "Certification ID": "3395", 
+            "Certifying Organization": "International Code Council"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Journeyman Plumber", 
+            "Type": "Core", 
+            "Certification ID": "5634", 
+            "Certifying Organization": "National Inspection, Testing and Certification Corporation"
+        }
+    ], 
+    "onet": "47215200"
+}

@@ -1,0 +1,467 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "MCCM", 
+            "Certification Name": "Certified Member of Contract and Commercial Management", 
+            "Type": "Advanced", 
+            "Certification ID": "5796", 
+            "Certifying Organization": "International Association for Contract and Commercial Management"
+        }, 
+        {
+            "Acronym": "CGR", 
+            "Certification Name": "Certified Graduate Remodeler", 
+            "Type": "Advanced", 
+            "Certification ID": "3792", 
+            "Certifying Organization": "National Association of Home Builders"
+        }, 
+        {
+            "Acronym": "CRX", 
+            "Certification Name": "Certified Retail Property Executive", 
+            "Type": "Advanced", 
+            "Certification ID": "9393", 
+            "Certifying Organization": "International Council of Shopping Centers"
+        }, 
+        {
+            "Acronym": "CAS", 
+            "Certification Name": "Certified Apartment Supplier", 
+            "Type": "Core", 
+            "Certification ID": "2494", 
+            "Certifying Organization": "National Apartment Association"
+        }, 
+        {
+            "Acronym": "CLS", 
+            "Certification Name": "Certified Leasing Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "9390", 
+            "Certifying Organization": "International Council of Shopping Centers"
+        }, 
+        {
+            "Acronym": "CSO-HCV", 
+            "Certification Name": "Certified Specialist of Occupancy - Housing Choice Voucher", 
+            "Type": "Specialty", 
+            "Certification ID": "6058", 
+            "Certifying Organization": "National Association of Housing and Redevelopment Officials"
+        }, 
+        {
+            "Acronym": "RL", 
+            "Certification Name": "Registered Landman", 
+            "Type": "Core", 
+            "Certification ID": "8684", 
+            "Certifying Organization": "American Association of Professional Landmen"
+        }, 
+        {
+            "Acronym": "ACCM", 
+            "Certification Name": "Associate of Contract and Commercial Management", 
+            "Type": "Core", 
+            "Certification ID": "5794", 
+            "Certifying Organization": "International Association for Contract and Commercial Management"
+        }, 
+        {
+            "Acronym": "CMCA", 
+            "Certification Name": "Certified Manager of Community Associations", 
+            "Type": "Advanced", 
+            "Certification ID": "5504", 
+            "Certifying Organization": "National Board of Certification for Community Association Managers"
+        }, 
+        {
+            "Acronym": "CCM", 
+            "Certification Name": "Certified Club Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "7984", 
+            "Certifying Organization": "Club Managers Association of America"
+        }, 
+        {
+            "Acronym": "CMVO", 
+            "Certification Name": "Certified Manager of Voucher Operations", 
+            "Type": "Advanced", 
+            "Certification ID": "7447", 
+            "Certifying Organization": "National Association of Housing and Redevelopment Officials"
+        }, 
+        {
+            "Acronym": "NCC", 
+            "Certification Name": "NAHRO Commissioners Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "7449", 
+            "Certifying Organization": "National Association of Housing and Redevelopment Officials"
+        }, 
+        {
+            "Acronym": "CCIM", 
+            "Certification Name": "Certified Commercial Investment Member", 
+            "Type": "Advanced", 
+            "Certification ID": "8591", 
+            "Certifying Organization": "National Association of Realtors"
+        }, 
+        {
+            "Acronym": "CDP", 
+            "Certification Name": "Certified Development, Design & Construction Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "9389", 
+            "Certifying Organization": "International Council of Shopping Centers"
+        }, 
+        {
+            "Acronym": "CFE", 
+            "Certification Name": "Certified Facilities Executive", 
+            "Type": "Advanced", 
+            "Certification ID": "2037", 
+            "Certifying Organization": "International Association of Venue Managers"
+        }, 
+        {
+            "Acronym": "CSO-PH", 
+            "Certification Name": "Certified Specialist of Occupancy", 
+            "Type": "Specialty", 
+            "Certification ID": "7442", 
+            "Certifying Organization": "National Association of Housing and Redevelopment Officials"
+        }, 
+        {
+            "Acronym": "MCCM", 
+            "Certification Name": "Member of Contract and Commercial Management", 
+            "Type": "Core", 
+            "Certification ID": "5795", 
+            "Certifying Organization": "International Association for Contract and Commercial Management"
+        }, 
+        {
+            "Acronym": "CCIM", 
+            "Certification Name": "Certified Commercial Investment Member", 
+            "Type": "Advanced", 
+            "Certification ID": "1347", 
+            "Certifying Organization": "CCIM Institute"
+        }, 
+        {
+            "Acronym": "RHDFP", 
+            "Certification Name": "Rental Housing Development Finance Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "5336", 
+            "Certifying Organization": "The National Development Council"
+        }, 
+        {
+            "Acronym": "ACoM", 
+            "Certification Name": "Accredited Commercial Manager", 
+            "Type": "Core", 
+            "Certification ID": "8777", 
+            "Certifying Organization": "Institute of Real Estate Management"
+        }, 
+        {
+            "Acronym": "NAHMA, NAHP", 
+            "Certification Name": "National Affordable Housing Professional", 
+            "Type": "Core", 
+            "Certification ID": "3750", 
+            "Certifying Organization": "National Affordable Housing Management Association"
+        }, 
+        {
+            "Acronym": "CAM", 
+            "Certification Name": "Certified Apartment Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "2424", 
+            "Certifying Organization": "National Apartment Association"
+        }, 
+        {
+            "Acronym": "IROP", 
+            "Certification Name": "Independent Rental Owner Professional", 
+            "Type": "Core", 
+            "Certification ID": "8037", 
+            "Certifying Organization": "National Apartment Association"
+        }, 
+        {
+            "Acronym": "CEcD", 
+            "Certification Name": "Certified Economic Developer", 
+            "Type": "Advanced", 
+            "Certification ID": "1220", 
+            "Certifying Organization": "International Economic Development Council"
+        }, 
+        {
+            "Acronym": "CPPA", 
+            "Certification Name": "Certified Professional Property Administrator", 
+            "Type": "Advanced", 
+            "Certification ID": "1334", 
+            "Certifying Organization": "National Property Management Association, Inc."
+        }, 
+        {
+            "Acronym": "NALP", 
+            "Certification Name": "National Apartment Leasing Professional", 
+            "Type": "Core", 
+            "Certification ID": "2493", 
+            "Certifying Organization": "National Apartment Association"
+        }, 
+        {
+            "Acronym": "CSI-UPCS", 
+            "Certification Name": "Certified Specialist of Inspection Uniform Physical Condition Standards", 
+            "Type": "Specialty", 
+            "Certification ID": "7445", 
+            "Certifying Organization": "National Association of Housing and Redevelopment Officials"
+        }, 
+        {
+            "Acronym": "FHC", 
+            "Certification Name": "Fair Housing Compliance", 
+            "Type": "Core", 
+            "Certification ID": "4788", 
+            "Certifying Organization": "National Affordable Housing Management Association"
+        }, 
+        {
+            "Acronym": "CMMO", 
+            "Certification Name": "Certified Manager of Maintenance Operations", 
+            "Type": "Advanced", 
+            "Certification ID": "7448", 
+            "Certifying Organization": "National Association of Housing and Redevelopment Officials"
+        }, 
+        {
+            "Acronym": "CBSE", 
+            "Certification Name": "Certified Building Service Executive", 
+            "Type": "Advanced", 
+            "Certification ID": "9463", 
+            "Certifying Organization": "Building Service Contractors Association International"
+        }, 
+        {
+            "Acronym": "CMPO", 
+            "Certification Name": "Certified Manager of Property Operations", 
+            "Type": "Advanced", 
+            "Certification ID": "1890", 
+            "Certifying Organization": "National Association of Housing and Redevelopment Officials"
+        }, 
+        {
+            "Acronym": "SHCM", 
+            "Certification Name": "Specialist in Housing Credit Management", 
+            "Type": "Specialty", 
+            "Certification ID": "4789", 
+            "Certifying Organization": "National Affordable Housing Management Association"
+        }, 
+        {
+            "Acronym": "CAMT", 
+            "Certification Name": "Certified Apartment Maintenance Technician", 
+            "Type": "Core", 
+            "Certification ID": "2425", 
+            "Certifying Organization": "National Apartment Association"
+        }, 
+        {
+            "Acronym": "PPS", 
+            "Certification Name": "Personal Property Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "1339", 
+            "Certifying Organization": "International Association of Assessing Officers"
+        }, 
+        {
+            "Acronym": "CAM", 
+            "Certification Name": "Chartered Certified Asset Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "7916", 
+            "Certifying Organization": "American Academy of Financial Management"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Administrative Accredited Buyer's Representative", 
+            "Type": "Core", 
+            "Certification ID": "8035", 
+            "Certifying Organization": "Real Estate Buyer's Agent Council"
+        }, 
+        {
+            "Acronym": "RBSM", 
+            "Certification Name": "Registered Building Service Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "9464", 
+            "Certifying Organization": "Building Service Contractors Association International"
+        }, 
+        {
+            "Acronym": "CAE", 
+            "Certification Name": "Certified Association Executive", 
+            "Type": "Advanced", 
+            "Certification ID": "1551", 
+            "Certifying Organization": "American Society of Association Executives"
+        }, 
+        {
+            "Acronym": "HCCP", 
+            "Certification Name": "Housing Credit Certified Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "3798", 
+            "Certifying Organization": "National Association of Home Builders"
+        }, 
+        {
+            "Acronym": "NAHP", 
+            "Certification Name": "National Affordable Housing Professional -  Executive", 
+            "Type": "Advanced", 
+            "Certification ID": "3751", 
+            "Certifying Organization": "National Affordable Housing Management Association"
+        }, 
+        {
+            "Acronym": "CSSO-HCV", 
+            "Certification Name": "Certified Senior Specialist of Occupancy Housing Choice Voucher", 
+            "Type": "Specialty", 
+            "Certification ID": "7443", 
+            "Certifying Organization": "National Association of Housing and Redevelopment Officials"
+        }, 
+        {
+            "Acronym": "RPL", 
+            "Certification Name": "Registered Professional Landman", 
+            "Type": "Advanced", 
+            "Certification ID": "8685", 
+            "Certifying Organization": "American Association of Professional Landmen"
+        }, 
+        {
+            "Acronym": "CRB", 
+            "Certification Name": "Certified Real Estate Brokerage Manager", 
+            "Type": "Core", 
+            "Certification ID": "8775", 
+            "Certifying Organization": "Council of Real Estate Brokerage Managers"
+        }, 
+        {
+            "Acronym": "CFM", 
+            "Certification Name": "Certified Facility Manager", 
+            "Type": "Core", 
+            "Certification ID": "0087", 
+            "Certifying Organization": "International Facility Management Association"
+        }, 
+        {
+            "Acronym": "CCAP", 
+            "Certification Name": "Certified Community Action Professional", 
+            "Type": "Core", 
+            "Certification ID": "3867", 
+            "Certifying Organization": "Community Action Partnership"
+        }, 
+        {
+            "Acronym": "CPO", 
+            "Certification Name": "Certified Professional of Occupancy", 
+            "Type": "Core", 
+            "Certification ID": "4787", 
+            "Certifying Organization": "National Affordable Housing Management Association"
+        }, 
+        {
+            "Acronym": "ARM", 
+            "Certification Name": "Accredited Residential Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "7986", 
+            "Certifying Organization": "Institute of Real Estate Management"
+        }, 
+        {
+            "Acronym": "CRI", 
+            "Certification Name": "Chartered Realty Investor", 
+            "Type": "Core", 
+            "Certification ID": "5996", 
+            "Certifying Organization": "Chartered Realty Investors Society"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Sales Management", 
+            "Type": "Core", 
+            "Certification ID": "8022", 
+            "Certifying Organization": "Society of Industrial and Office Realtors"
+        }, 
+        {
+            "Acronym": "CPPM", 
+            "Certification Name": "Certified Professional Property Manager", 
+            "Type": "Core", 
+            "Certification ID": "1335", 
+            "Certifying Organization": "National Property Management Association, Inc."
+        }, 
+        {
+            "Acronym": "CGPM", 
+            "Certification Name": "Credential for Green Property Management", 
+            "Type": "Specialty", 
+            "Certification ID": "8038", 
+            "Certifying Organization": "National Apartment Association"
+        }, 
+        {
+            "Acronym": "CF", 
+            "Certification Name": "Consulting Fellow", 
+            "Type": "Advanced", 
+            "Certification ID": "3128", 
+            "Certifying Organization": "National Property Management Association, Inc."
+        }, 
+        {
+            "Acronym": "CEP", 
+            "Certification Name": "Certified Energy Procurement Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "1285", 
+            "Certifying Organization": "Association of Energy Engineers"
+        }, 
+        {
+            "Acronym": "CSSO-PH", 
+            "Certification Name": "Certified Senior Specialist of Occupancy Public Housing", 
+            "Type": "Specialty", 
+            "Certification ID": "1891", 
+            "Certifying Organization": "National Association of Housing and Redevelopment Officials"
+        }, 
+        {
+            "Acronym": "CS-PHM", 
+            "Certification Name": "Certified Specialist - Public Housing Manager", 
+            "Type": "Specialty", 
+            "Certification ID": "7446", 
+            "Certifying Organization": "National Association of Housing and Redevelopment Officials"
+        }, 
+        {
+            "Acronym": "ND", 
+            "Certification Name": "LEED AP Neighborhood Development", 
+            "Type": "Advanced", 
+            "Certification ID": "6274", 
+            "Certifying Organization": "Green Building Certification Institute"
+        }, 
+        {
+            "Acronym": "CPL", 
+            "Certification Name": "Certified Professional Landman", 
+            "Type": "Advanced", 
+            "Certification ID": "8686", 
+            "Certifying Organization": "American Association of Professional Landmen"
+        }, 
+        {
+            "Acronym": "HDFP", 
+            "Certification Name": "Housing Development Finance Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "5335", 
+            "Certifying Organization": "The National Development Council"
+        }, 
+        {
+            "Acronym": "ALC", 
+            "Certification Name": "Accredited Land Consultant", 
+            "Type": "Advanced", 
+            "Certification ID": "8036", 
+            "Certifying Organization": "Realtors Land Institute"
+        }, 
+        {
+            "Acronym": "CPM", 
+            "Certification Name": "Certified Property Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "7985", 
+            "Certifying Organization": "Institute of Real Estate Management"
+        }, 
+        {
+            "Acronym": "CSI", 
+            "Certification Name": "Certified Specialist of Inspection Housing Quality Standards", 
+            "Type": "Specialty", 
+            "Certification ID": "7444", 
+            "Certifying Organization": "National Association of Housing and Redevelopment Officials"
+        }, 
+        {
+            "Acronym": "ABR", 
+            "Certification Name": "Accredited Buyer's Representative", 
+            "Type": "Core", 
+            "Certification ID": "8034", 
+            "Certifying Organization": "Real Estate Buyer's Agent Council"
+        }, 
+        {
+            "Acronym": "CAPS", 
+            "Certification Name": "Certified Apartment Portfolio Supervisor", 
+            "Type": "Advanced", 
+            "Certification ID": "2423", 
+            "Certifying Organization": "National Apartment Association"
+        }, 
+        {
+            "Acronym": "CSM", 
+            "Certification Name": "Certified Shopping Center Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "9391", 
+            "Certifying Organization": "International Council of Shopping Centers"
+        }, 
+        {
+            "Acronym": "CME", 
+            "Certification Name": "Certified Management Executive", 
+            "Type": "Advanced", 
+            "Certification ID": "1892", 
+            "Certifying Organization": "National Association of Housing and Redevelopment Officials"
+        }, 
+        {
+            "Acronym": "HHS", 
+            "Certification Name": "Healthy Homes Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "7638", 
+            "Certifying Organization": "National Environmental Health Association"
+        }
+    ], 
+    "onet": "11914100"
+}

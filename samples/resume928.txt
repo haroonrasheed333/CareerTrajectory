@@ -1,0 +1,186 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734597' xml:space='preserve'><contact><name><givenname>Kesia</givenname> <givenname>Dawn</givenname> <surname>Joe</surname></name>
+                                                                  <address lat='38.7999' lon='77.5443' majorcity='MANASSAS' state='VA'><street>11002 Koman Circle Unit 203</street>, <city>MANASSAS</city>, <state abbrev='VA'>VA</state> <postalcode>20109</postalcode></address>
+                                                                           Home: <phone type='home'>2522279118</phone> - <email>kesia.joe@gmail.com</email></contact>
+
+<summary>Professional Overview
+
+Committed and motivated Administrative Assistant with exceptional customer-relation and decision-making skills.
+Strong work ethic, professional demeanor and great initiative.
+
+Summary of Skills
+
+   <summary>· Proficient in Microsoft Office applications (Word,      ·   Multi-tasking
+     Outlook, PowerPoint, Excel, Access)                     ·   Professional telephone etiquette
+   · Problem resolution                                      ·   Data entry
+   · Administrative support                                  ·   Filing and data archiving
+   · Schedule management                                     ·   Attention to detail
+   · Knowledgeable in MAS90 accounting software              ·   Able to work independently or as a team
+   · Organizational skills</summary></summary>
+
+
+
+
+<experience end='present' start='730639'>Work Experience
+
+<job end='present' id='1' sic='735937' sic2='73'><title>Accountant</title>
+<daterange><start>November 2012</start> to <end days='present' iso8601='2012-04-02'>Current</end></daterange>
+<employer>Specialty Tool &amp; Supply, Inc</employer>. ­ <address><city>Greenville</city>, <state abbrev='NC'>NC</state></address>
+   · <description>Responsible for all accounts payable
+   · Bookkeeping (posting transactions to the general ledger)
+   · Payroll for approximately 50 employees
+   · Payroll related tasks (garnishments, child support payments, federal, FICA, and state tax payments)
+   · Manage online payments of loan accounts (maintain records of principal and interest balances paid)
+   · Monthly bank reconciliation
+   · Invoice data entry
+   · Key in bank deposits and credit card payments received
+   · Assist with insurance benefits administration
+   · Provided solutions to increase efficiency in the process of paying vendors in order to keep accounts in good
+      standing
+   · Maintain all filing and employee record keeping</description></job>
+
+
+<job id='2' sic='735937' sic2='73' start='732587'><title>Administrative Assistant</title>
+<daterange><start days='732587' iso8601='2006-10-01'>October 2006</start> to <end>November 2012</end></daterange>
+<employer>Specialty Tool &amp; Supply, Inc</employer> ­ <address><city>Greenville</city>, <state abbrev='NC'>NC</state></address>
+   · <description>Maintained detailed administrative and procedural processes that reduced redundancy and improved
+      accuracy and efficiency to achieve organizational objectives
+   · Performed accounts receivable duties including invoicing, cash application, researching chargebacks,
+      discrepancies, issuing credit memos, reconciliations and responding to customer requests for
+      documentation.
+   · Composed and drafted all outgoing correspondence and reports for managers
+   · Performed regular telephone contact with customers to discuss status of their accounts to ensure account
+      resolution
+   · Provided monthly statements to all customers
+   · Answered a multiple phone line system
+   · Provided efficient customer service to clients
+   · Researched aging reports which were 90 days in arrears status
+   · Processed credit applications for new customers
+   · Prepared files and maintained records of new customers
+   · Assisted in all areas of administrative work including data entry, receptionist duties, file organization,
+     research and development
+   · Managed hundreds of accounts receivable accounts working directly with the Financial Management Office
+   · Oversaw office supply purchases.</description></job>
+
+
+<job end='731369' id='3' pos='1' sic='1611' sic2='16' start='730639'><title>Administrative Assistant</title>
+<daterange><start days='730639' iso8601='2001-06-01'>June 2001</start> to <end days='731369' iso8601='2003-06-01'>June 2003</end></daterange>
+<employer>Randolph Paving &amp; Sealcoating, Inc</employer>. ­ <address><city>Greenville</city>, <state abbrev='NC'>NC</state></address>
+   · <description>Maintained all office/customer files
+   · Scheduled estimates for jobs
+   · Provided administrative support to the business owner
+   · Kept thorough records of accounts payable
+   · Monthly bank reconciliation
+   · Increased sales by implementing a follow-up system after providing potential customers with job estimates
+   · Increased sales by providing our potential customer base with informational material regarding our services</description></job></experience>
+
+
+
+<education>Education
+
+<school id='4'><institution>Pitt Community College</institution>
+<address><city>Winterville</city>, <state abbrev='NC'>NC</state>, <country iso3='USA'>US</country></address>
+<description>Accounting
+     · Currently working towards associates degree in Accounting
+
+College of Micronesia 2006
+Palikir, Pohnpei, Federated States of Micronesia
+Political Science</description>
+<degree level='14' name='Associate of Arts'>Associate of Arts</degree></school></education>
+</resume>
+
+<skillrollup version='1'>
+  <canonskill education='1' eduidrefs='4' idrefs='4' name='accountancy'>
+    <variant>Accounting</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,3' idrefs='1,3' lastused='2012' name='accounts payable' start='730639'>
+    <variant>accounts payable</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='2' idrefs='2' name='accounts receivable' start='732587'>
+    <variant>accounts receivable</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='2' idrefs='2' name='administration' start='732587'>
+    <variant>administrative</variant>
+  </canonskill>
+  <canonskill end='731369' experience='1' expidrefs='3' idrefs='3' lastused='2003' name='administrative support' start='730639'>
+    <variant>administrative support</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,3' idrefs='1,3' lastused='2012' name='bank reconciliation' start='730639'>
+    <variant>bank reconciliation</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='benefits administration'>
+    <variant>benefits administration</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='bookkeeping'>
+    <variant>Bookkeeping</variant>
+  </canonskill>
+  <canonskill end='731369' experience='1' expidrefs='3' idrefs='3' lastused='2003' name='business owner' start='730639'>
+    <variant>business owner</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='credit' start='732587'>
+    <variant>credit</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='2' idrefs='2' name='customer relations' start='732587'>
+    <variant>clients</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='2' idrefs='2' name='customer service' start='732587'>
+    <variant>customer service</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='data entry' start='732587'>
+    <variant>data entry</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='2' idrefs='2' name='documentation' start='732587'>
+    <variant>documentation</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='file management'>
+    <variant>filing</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='2' idrefs='2' name='financial management' start='732587'>
+    <variant>Financial Management</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='general ledger'>
+    <variant>general ledger</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='insurance'>
+    <variant>insurance</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='2' idrefs='2' name='invoicing' start='732587'>
+    <variant>invoicing</variant>
+  </canonskill>
+  <canonskill end='731369' experience='1' expidrefs='2,3' idrefs='2,3' lastused='2003' name='microsoft office' start='730639'>
+    <variant>Office</variant>
+    <variant>office</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='2' idrefs='2' name='organizational skills' start='732587'>
+    <variant>organizational</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='payroll processing'>
+    <variant>Payroll</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='2' idrefs='2' name='process engineering' start='732587'>
+    <variant>processes</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='2' idrefs='2' name='receptionist' start='732587'>
+    <variant>receptionist</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='record keeping'>
+    <variant>record keeping</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='2' idrefs='2' name='research' start='732587'>
+    <variant>researching</variant>
+    <variant>research</variant>
+  </canonskill>
+  <canonskill end='731369' experience='1' expidrefs='3' idrefs='3' lastused='2003' name='sales' start='730639'>
+    <variant>sales</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='tax planning'>
+    <variant>tax</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='2' idrefs='2' name='telephone skills' start='732587'>
+    <variant>telephone</variant>
+    <variant>phone</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

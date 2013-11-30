@@ -1,0 +1,155 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734595' xml:space='preserve'><contact><name><givenname>Edwin</givenname> <givenname>M</givenname> <surname>Culver</surname></name>
+<phone>+1-203-214-1520</phone> (	<email>edwin.m.culver@snet.net</email>	<address><street>87 Ocean View Street</street></address>
+<phone type='home'>+1-203-468-1803</phone> (home)
+<address lat='41.2856' lon='72.8636' majorcity='EAST HAVEN' state='CT'><city>New Haven</city>, <state abbrev='CT'>Connecticut</state>  <postalcode>06512</postalcode></address></contact>	
+
+
+<summary>Objective	<objective>To bring my engineering and software development expertise into action to teach physics and mathematics at the high school level.</objective></summary>	
+
+<education>Education	<school id='12'><institution>Southern Connecticut State University</institution>:  <courses>Educational Certificate Program in Secondary Physics</courses>.  Completion: <completiondate days='734260' iso8601='2011-05-01'>May 2011</completiondate></school>. 
+<school id='13'><institution>University of Bridgeport</institution>:  <degree level='18' name='Master of Science'>MS</degree>, <major code='1502'>Mechanical Engineering</major></school>.
+<school id='14'><institution>University of Hartford</institution>:  <degree level='16' name='Bachelor of Science in Mechanical Engineering'>BSME</degree>, <major code='1502'>Mechanical Engineering</major></school>.	
+
+<school id='15'><institution>Student Teaching	Hamden High School</institution>, <address><city>Hamden</city>, <state abbrev='CT'>Connecticut</state>.</address>
+<description>Student teaching practicum for 11-12 grade physics students at a large (over 2 000 students) public high school.  	Mar</description> - <completiondate days='734260' iso8601='2011-05-01'>May 2011</completiondate></school></education>	
+
+
+<experience end='present' start='722087'>Experience: <job id='1'><employer>Teaching	
+Kelly Educational Services</employer>, <address><city>Hamden</city>, <state abbrev='CT'>Connecticut</state></address>
+<title>Substitute teacher</title>.  <description>Short-term coverage for teacher absences in kindergarten through twelfth grades</description></job>
+<job end='present' id='2' pos='1' sic='8211' sic2='82' start='733683'><daterange><start days='733683' iso8601='2009-10-01'>Oct 2009</start> - <end days='present' iso8601='2012-03-31'>present</end></daterange>
+
+<employer>Naugatuck Board of Education</employer>, <address><city>Naugatuck</city>, <state abbrev='CT'>Connecticut</state></address>
+<title>Substitute teacher</title></job>.  Long-term (one month) <job end='733653' id='3' pos='2' sic='821103' sic2='82' start='733622'><title>substitute teacher</title> for high-school physics at the beginning of the academic year.
+<daterange><start days='733622' iso8601='2009-08-01'>Aug</start> - <end days='733653' iso8601='2009-09-01'>Sept 2009</end></daterange>
+
+<employer>University of New Haven</employer>, <address><city>West Haven</city>, <state abbrev='CT'>Connecticut</state></address></job>
+<job id='4' sic='822298' sic2='82' start='728477'><title>Adjunct instructor</title> in physics.  <description>Taught one classroom section and two laboratory sections of freshman-level physics.</description>
+<daterange><start days='728477' iso8601='1995-07-01'>Spring 1995</start></daterange>
+
+<employer>Gateway Community College</employer>, <address><city>New Haven</city>, <state abbrev='CT'>Connecticut</state></address>
+<description>Master Tutor in Mathematics, Physics, and Chemistry.  Assisted individual students and small groups of students who were having difficulty with their community college coursework.</description></job>
+<job end='728477' id='5' pos='4' start='728204'><daterange><start days='728204' iso8601='1994-10-01'>Fall 1994</start> - <end days='728477' iso8601='1995-07-01'>Spring 1995</end></daterange>
+
+
+
+
+
+Experience: <title>Highlights	Programmer/Analyst</title>
+<description>Specialist in software for support of engineering activities, including Product Life-cycle Management (PLM) software, Catia IUA(Interactive User Application, a macro language from small, repetitive tasks) and FSD (Function Structure Definition, for adding interactive - GUI - and non-interactive functions), software for the aerodynamic analysis of aircraft propellers, helicopter rotors, thermodynamic analysis of gas turbine engines and reverse Brayton cycle air conditioning systems, and software for the analysis of medium to large (10 megabyte to over 100 megabyte) data sets from wind tunnel experiments.
+Expertise in software for the support of market research, including the statistical analysis of demographic, geographic, and psychographic data.
+Experience with all phases of software development life-cycle on z/OS, Unix (AIX, Solaris, Linux, FreeBSD), and Windows platforms, using SQL, Perl, Fortran, C/C++, JavaScript, Korn and Bourne shells, inter alia.</description></job>
+<job id='6'><title>Aerospace Engineer</title>
+<description>Developed and improved methods to analyze the aerodynamics of aircraft propellers and helicopter rotors, including the publication of User's Manual for UCAP:  Unified Counter-rotation Aero-acoustics Program, NASA Contractor Report 191064 (co-author with C J McColgan)
+Planned, oversaw, and documented structural tests of helicopter dynamic components.
+Planned, oversaw, and documented performance and certification tests of turbofan engines, including completion of an 150 hr certification test  of the ALF-502L in near-record time.</description></job>	
+
+<job id='7' sic='737104' sic2='73' start='728296'><title>Employment	PLM Progammer/Analyst</title> (<title>Consultant</title>):  <employer>The Computer Merchant, Ltd, Computer Staffing Associates</employer>, Robert Half:  <description>all for the client's (Computer Sciences Corporation) Norwich, Connecticut facility, Teksystems, at the client's facility in Hadley, Massachusetts.</description>  (<daterange><start days='728296' iso8601='1995-01-01'>1995</start>-<end>2000,2008</end></daterange></job>)
+<job end='732679' id='8' pos='3' start='730122'><title>Programmer/Analyst</title> (<jobtype>Permanent</jobtype>):  Scarborough Research, one of the leading market research companies in the United States, based in <address><city>New York</city> City</address> (<daterange><start days='730122' iso8601='2000-01-01'>2000</start>-<end days='732679' iso8601='2007-01-01'>2007</end></daterange></job>)
+<job end='727566' id='9' naics='33641302' naics2='33' pos='5' start='725739'><title>Analytical Engineer</title>:  <employer>Hamilton Sundstrand</employer>, <address><city>Windsor Locks</city>, <state abbrev='CT'>Connecticut</state></address> (<daterange><start days='725739' iso8601='1988-01-01'>1988</start>-<end days='727566' iso8601='1993-01-01'>1993</end></daterange></job>)
+Aerodynamicist:  <job end='725374' id='10' naics='33641107' naics2='33' pos='6' sic='559905' sic2='55' start='724278'><employer>Sikorsky Aircraft</employer>, <address><city>Stratford</city>, <state abbrev='CT'>Connecticut</state></address> (<daterange><start days='724278' iso8601='1984-01-01'>1984</start>-<end days='725374' iso8601='1987-01-01'>1987</end></daterange></job>)
+<job end='724278' id='11' pos='7' start='722087'><title>Test Engineer</title>:  <employer>Sikorsky Aircraft and AVCO</employer>-Lycoming Stratford Division;  the latter has since been absorbed by Honeywell. (Lycoming: <daterange><start days='722087' iso8601='1978-01-01'>1978</start>-<end days='723548' iso8601='1982-01-01'>1982</end></daterange>, Sikorsky <daterange><start days='723548' iso8601='1982-01-01'>1982</start>-<end days='724278' iso8601='1984-01-01'>1984</end></daterange>)	
+
+<description>Technologies	VSAERO, Catia, PLM, SQL, Oracle, Fortran, Unix, z/OS, Windows, Linux, FreeBSD</description></job></experience>	
+
+<professional><courses>Memberships	ACM (formerly Association for Computing Machinery)	
+
+Certification	Connecticut Educator Identification Number: 3228757004
+Initial Educator Certificate:  expiration July 28, 2014	
+
+Endorsements	Physics (032)</courses></professional>		
+
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='728477' experience='1' expidrefs='5' idrefs='5' lastused='1995' name='aix' start='728204'>
+    <variant>AIX</variant>
+  </canonskill>
+  <canonskill end='728477' experience='1' expidrefs='5,6' idrefs='5,6' lastused='1995' name='c' start='728204'>
+    <variant>C</variant>
+  </canonskill>
+  <canonskill end='728477' experience='1' expidrefs='5' idrefs='5' lastused='1995' name='c + +' start='728204'>
+    <variant>C++</variant>
+  </canonskill>
+  <canonskill end='728477' experience='1' expidrefs='5,11' idrefs='5,11' lastused='1995' name='catia' start='722087'>
+    <variant>Catia</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='7' idrefs='7' name='customer relations' start='728296'>
+    <variant>client</variant>
+  </canonskill>
+  <canonskill end='728477' experience='1' expidrefs='5,11' idrefs='5,11' lastused='1995' name='fortran' start='722087'>
+    <variant>Fortran</variant>
+  </canonskill>
+  <canonskill end='728477' experience='1' expidrefs='5,11' idrefs='5,11' lastused='1995' name='freebsd' start='722087'>
+    <variant>FreeBSD</variant>
+  </canonskill>
+  <canonskill end='728477' experience='1' expidrefs='5' idrefs='5' lastused='1995' name='graphical user interface' start='728204'>
+    <variant>GUI</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='6' idrefs='6' name='human resources'>
+    <variant>hr</variant>
+  </canonskill>
+  <canonskill end='728477' experience='1' expidrefs='5' idrefs='5' lastused='1995' name='javascript' start='728204'>
+    <variant>JavaScript</variant>
+  </canonskill>
+  <canonskill end='728477' experience='1' expidrefs='5,11' idrefs='5,11' lastused='1995' name='linux' start='722087'>
+    <variant>Linux</variant>
+  </canonskill>
+  <canonskill end='728477' experience='1' expidrefs='5' idrefs='5' lastused='1995' name='market research' start='728204'>
+    <variant>market research</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='4' idrefs='4' name='mathematics' start='728477'>
+    <variant>Mathematics</variant>
+  </canonskill>
+  <canonskill end='728477' experience='1' expidrefs='5,11' idrefs='5,11' lastused='1995' name='microsoft windows' start='722087'>
+    <variant>Windows</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='15' idrefs='15' name='microsoft windows 2000'>
+    <variant>2 000</variant>
+  </canonskill>
+  <canonskill end='728477' experience='1' expidrefs='5,11' idrefs='5,11' lastused='1995' name='operating systems' start='722087'>
+    <variant>OS</variant>
+  </canonskill>
+  <canonskill end='724278' experience='1' expidrefs='11' idrefs='11' lastused='1984' name='oracle' start='722087'>
+    <variant>Oracle</variant>
+  </canonskill>
+  <canonskill end='728477' experience='1' expidrefs='5' idrefs='5' lastused='1995' name='perl' start='728204'>
+    <variant>Perl</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='12,15' experience='1' expidrefs='4' idrefs='12,15,4' name='physics' start='728477'>
+    <variant>Physics</variant>
+    <variant>physics</variant>
+  </canonskill>
+  <canonskill end='728477' experience='1' expidrefs='5,11' idrefs='5,11' lastused='1995' name='plm' start='722087'>
+    <variant>PLM</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='6' idrefs='6' name='publicity'>
+    <variant>publication</variant>
+  </canonskill>
+  <canonskill end='728477' experience='1' expidrefs='5' idrefs='5' lastused='1995' name='software development' start='728204'>
+    <variant>software development</variant>
+  </canonskill>
+  <canonskill end='728477' experience='1' expidrefs='5' idrefs='5' lastused='1995' name='solaris' start='728204'>
+    <variant>Solaris</variant>
+  </canonskill>
+  <canonskill end='728477' experience='1' expidrefs='5,11' idrefs='5,11' lastused='1995' name='sql' start='722087'>
+    <variant>SQL</variant>
+  </canonskill>
+  <canonskill end='728477' experience='1' expidrefs='5' idrefs='5' lastused='1995' name='statistics' start='728204'>
+    <variant>statistical analysis</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='15' experience='1' expidrefs='1' idrefs='15,1' name='teaching'>
+    <variant>teacher</variant>
+    <variant>teaching</variant>
+  </canonskill>
+  <canonskill end='728477' experience='1' expidrefs='5,11' idrefs='5,11' lastused='1995' name='unix' start='722087'>
+    <variant>Unix</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='6' idrefs='6' name='writing'>
+    <variant>author</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

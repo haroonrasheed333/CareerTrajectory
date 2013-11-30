@@ -1,0 +1,182 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734597' xml:space='preserve'><contact><name><givenname>Pamela</givenname> <givenname>A</givenname>. <surname>Ratkus</surname></name>
+<address lat='37.2658' lon='76.7099' majorcity='WILLIAMSBURG' state='VA'><street>2905 Richard Pace South</street>, <city>Williamsburg</city>, <state abbrev='VA'>VA</state> <postalcode>23185</postalcode></address>
+<phone>(757) 345-9377</phone> , <email>pratkus1@cox.net</email></contact>
+<summary>Summary:
+		
+<summary>Results-oriented business professional with catering, event planning and administrative experience. Execeptional customer service, operational, and leadership skills. Effective in creating a postive and productive work environment.</summary></summary>
+<experience end='present' start='731461'>Experience
+
+<job end='present' id='1' pos='1' start='733714'><daterange><start days='733714' iso8601='2009-11-01'>11/2009</start>- <end days='present' iso8601='2012-04-02'>Present</end></daterange> 
+
+<employer>BOSH Global Services</employer>
+
+<address><city>Newport News</city>, <state abbrev='VA'>VA</state></address>
+<title>Receptionist / Administrative Assistant</title>
+<description>Handle all incoming phone calls to the corporate office. Provide superior client service. Execute all shipping via various shipping carriers. Provide administrative support to the Human Resources Department and the Office Manager. Assist the Office Manager with special projects and fundraisers. 
+Responsible for opening and closing of the office. Assist with the coordination and implementation of events. Maintain and create a professional and inviting office décor.
+Experience with Purchasing, Accounting, and maintaining financial reports. 
+Main point of contact for all off-site employees. Assist the CFO with projects.
+Implement policies and procedures for supply ordering and inventory.</description></job> 
+
+<job end='733530' id='2' pos='2' sic='864108' sic2='86' start='733349'><daterange><start days='733349' iso8601='2008-11-01'>11/2008</start> -<end days='733530' iso8601='2009-05-01'>5/2009</end></daterange>
+<employer>The Bull &amp; Bear Club</employer>
+<address><city>Richmond</city>, <state abbrev='VA'>VA</state></address> 
+<title>Administrative Assistant</title>
+<description>Handle all incoming calls to the club. Assist the Director of Administration with billings, club memberships, sales packets and other various projects.
+Create, write, and distribute the club newsletter and other marketing materials.
+Coordinate and collaborate with the sales and catering departments regarding club events.</description></job>
+
+<job end='732891' id='3' pos='3' start='732557'><daterange><start days='732557' iso8601='2006-09-01'>9/2006</start> - <end days='732891' iso8601='2007-08-01'>8/ 2007</end></daterange> 
+<employer>The Great Wolf Lodge</employer>
+<address><city>Williamsburg</city>, <state abbrev='VA'>VA</state></address>
+<title>Conference Sales Coordinator</title>
+<description>Assist the sales department with the booking and selling of future events.
+Implement and coordinate all in-house events including corporate meetings, family reunions, holiday functions, retreats etc.
+Assist the Director of Sales with special projects as needed.
+Create, prepare, document, and distribute all Banquet Order Events for the hotel. Point of contact for all functions and function space within the hotel.</description></job>
+
+<job end='732557' id='4' pos='4' sic='701101' sic2='70' start='732161'><daterange><start days='732161' iso8601='2005-08-01'>8/2005</start>- <end days='732557' iso8601='2006-09-01'>9/2006</end></daterange>
+<employer>The Williamsburg Hospitality House</employer>
+<address><city>Williamsburg</city>, <state abbrev='VA'>VA</state></address>
+<title>Executive Assistant</title> 
+<description>Assist the General Manager with the daily operations of the hotel, prepare monthly budget and sales reports, and execute manager's staff meeting and record minutes. 
+Handle and process all General Liability and Workmen's Compensation Insurance claims. Manage, prepare, and maintain all employee health insurance benefits, 401(k) plan, and life insurance benefits.
+Prepare, document and execute various operating contracts for the hotel.
+Process all new hire paperwork including payroll and tax forms.
+Administer employee review forms to all managers and maintain accurate personal data through      
+ADP software.</description></job>
+<job end='732100' id='5' pos='5' sic='874899' sic2='87' start='731461'><daterange><start days='731461' iso8601='2003-09-01'>9/2003</start> - <end days='732100' iso8601='2005-06-01'>6/2005</end></daterange>                                       <employer>Witt Mares, PLC</employer>.                         <address><city>Newport News</city>, <state abbrev='VA'>VA</state></address>
+<title>Learning &amp; Development Coordinator</title>
+<description>Developed and implemented a firm-wide Training and Learning Program with the assistance of various departments.
+Scheduled, conducted, and/or trained classroom, individual and outside training sessions.
+Handled all CPA license renewals and memberships.
+Maintained training manuals, CPE and training records.
+Performed all events planning for firm wide events.
+Carried out daily administrative duties and tasks for the Chief Operating Officer of the firm.
+Coordinated all travel arrangements for employee travel.
+Performed human resource duties including employee benefits, firm recruiting, and firm motivational programs.</description></job></experience>
+<education>Education
+<school id='6'><daterange><start days='724856' iso8601='1985-08-01'>8/1985</start> - <end days='726225' iso8601='1989-05-01'>5/1989</end></daterange> 
+<institution>University of New Hampshire</institution>
+<address><city>Durham</city>, <state abbrev='NH'>N.H.</state></address>
+<degree level='16' name='Bachelor of Science'>B.S. Degree</degree> in <major code='4201'>Business Administration</major></school></education>
+
+<references>References
+References are available on request.</references>
+
+
+
+
+
+
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='accountancy' start='733714'>
+    <variant>Accounting</variant>
+  </canonskill>
+  <canonskill end='732100' experience='1' expidrefs='5' idrefs='5' lastused='2005' name='administration' start='731461'>
+    <variant>administrative</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='administrative support' start='733714'>
+    <variant>administrative support</variant>
+  </canonskill>
+  <canonskill end='732557' experience='1' expidrefs='4' idrefs='4' lastused='2006' name='adp' start='732161'>
+    <variant>ADP</variant>
+  </canonskill>
+  <canonskill end='732557' experience='1' expidrefs='4,5' idrefs='4,5' lastused='2006' name='benefits administration' start='731461'>
+    <variant>benefits</variant>
+  </canonskill>
+  <canonskill end='733530' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='billing systems' start='733349'>
+    <variant>billings</variant>
+  </canonskill>
+  <canonskill end='732557' experience='1' expidrefs='4' idrefs='4' lastused='2006' name='budgeting' start='732161'>
+    <variant>budget</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='closing' start='733714'>
+    <variant>closing</variant>
+  </canonskill>
+  <canonskill end='732557' experience='1' expidrefs='4' idrefs='4' lastused='2006' name='contract management' start='732161'>
+    <variant>contracts</variant>
+  </canonskill>
+  <canonskill end='732100' experience='1' expidrefs='5' idrefs='5' lastused='2005' name='cpa' start='731461'>
+    <variant>CPA</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='customer relations' start='733714'>
+    <variant>client</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='financial' start='733714'>
+    <variant>financial</variant>
+  </canonskill>
+  <canonskill end='732557' experience='1' expidrefs='4' idrefs='4' lastused='2006' name='forms' start='732161'>
+    <variant>forms</variant>
+  </canonskill>
+  <canonskill end='732557' experience='1' expidrefs='4' idrefs='4' lastused='2006' name='general management' start='732161'>
+    <variant>General Manager</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,5' idrefs='1,5' lastused='2012' name='human resources' start='731461'>
+    <variant>human resource</variant>
+    <variant>Human Resources</variant>
+  </canonskill>
+  <canonskill end='732557' experience='1' expidrefs='4' idrefs='4' lastused='2006' name='insurance' start='732161'>
+    <variant>Insurance</variant>
+    <variant>insurance</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='inventory management' start='733714'>
+    <variant>inventory</variant>
+  </canonskill>
+  <canonskill end='733530' experience='1' expidrefs='2,3' idrefs='2,3' lastused='2009' name='macromedia director' start='732557'>
+    <variant>Director</variant>
+  </canonskill>
+  <canonskill end='733530' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='marketing materials' start='733349'>
+    <variant>marketing materials</variant>
+  </canonskill>
+  <canonskill end='732891' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='meeting facilitation' start='732557'>
+    <variant>meetings</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='microsoft office' start='733714'>
+    <variant>office</variant>
+  </canonskill>
+  <canonskill end='733530' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='newsletters' start='733349'>
+    <variant>newsletter</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='office management' start='733714'>
+    <variant>Office Manager</variant>
+  </canonskill>
+  <canonskill end='732557' experience='1' expidrefs='4' idrefs='4' lastused='2006' name='payroll processing' start='732161'>
+    <variant>payroll</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='policy analysis' start='733714'>
+    <variant>policies</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='purchasing' start='733714'>
+    <variant>Purchasing</variant>
+  </canonskill>
+  <canonskill end='732100' experience='1' expidrefs='5' idrefs='5' lastused='2005' name='recruiting' start='731461'>
+    <variant>recruiting</variant>
+  </canonskill>
+  <canonskill end='733530' experience='1' expidrefs='2,3,4' idrefs='2,3,4' lastused='2009' name='sales' start='732161'>
+    <variant>selling</variant>
+    <variant>Sales</variant>
+    <variant>sales</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='shipping' start='733714'>
+    <variant>shipping</variant>
+  </canonskill>
+  <canonskill end='732557' experience='1' expidrefs='4' idrefs='4' lastused='2006' name='tax planning' start='732161'>
+    <variant>tax</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='telephone skills' start='733714'>
+    <variant>phone</variant>
+  </canonskill>
+  <canonskill end='732100' experience='1' expidrefs='5' idrefs='5' lastused='2005' name='training materials' start='731461'>
+    <variant>training manuals</variant>
+  </canonskill>
+  <canonskill end='732100' experience='1' expidrefs='5' idrefs='5' lastused='2005' name='travel arrangements' start='731461'>
+    <variant>travel arrangements</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

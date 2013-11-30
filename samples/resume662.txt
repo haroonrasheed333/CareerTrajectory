@@ -1,0 +1,452 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734595' xml:space='preserve'><contact><name><givenname>SMEETA</givenname> <surname>NAIK</surname></name>							            
+Phone: <phone>510 516 7465</phone>
+Email: <email>12smita@gmail.com</email></contact>
+<summary>Professional Summary: 
+<summary>Total 6 years of IT experience in Web Designing, Web Application Development and Implementation in various domains like Finance, entertainment, e-Commerce mostly in the Front end web development.
+Conversant with all the phases of SDLC (Software development Life Cycle) with experience in Design, Development, Testing, Integration and Implementation of n-tier applications on a LAMP and WAMP platforms. 
+Having 3 years of extensive experience working in agile software development methodology.
+Highly motivated and result oriented professional with experience as a Senior Web Developer. Excellent Analytical skills to understand the business process and Functionality, Requirements and to translate them to system requirement specifications.
+Extensively Worked on HTML5, DHTML, XHTML, DOM, JavaScript, AJAX, XML, Jqgrid, CSS Image Sprites
+Knowledge of PSD Slicing
+Efficient in designing templates using CSS.
+Expertise in solving the issues regarding the Cross Browser compatibility for the web Application. 
+Thorough in unit testing and debugging using tools like Firebug, Pixel Perfect and IE developer's Tool.
+Expertise in creating and maintaining blogs
+Sound knowledge in SEO, making the websites SEO Friendly and ranking in search engines.
+Solid experience with Javascript RIA libraries such as jQuery, MooTools, Object Oriented JavaScript, JSON, jQuery plugins and knowledge of  ExtJS Framework. 
+Proficient in writing JavaScript's mainly for client side validation, dropdown menus, Image rollovers, and dynamic calendars.
+Working experience with MySQL which includes configuration, query optimization, writing Sub Queries, Expert in handling the administration of MySQL database using PHPMyAdmin.
+Experience in PHP web services using SOAP.
+Very well worse with the working knowledge of MVC code frame work 
+Knowledge of Database Design, Creation and Modification, working with Tables and Views and implementing user defined Functions and Stored Procedures for MySQL.
+Well versed with multiple version control tools like SVN, CVS, Source Control, and Sub-Versioning.
+Experience as developer in developing and managing the website in the Content Management System (CMS) WordPress 2.9.1 and Joomla 1.5.
+Expertise in analyzing scope of creating the website includes Resource management, Time management, Human resource management and quality of the site.
+Expertise in gathering Information from stakeholders and understanding business requirements, creating  web templates depending on business requirements.
+Experience with Linux Environment.
+Knowledge of Ruby on Rails web application framework.
+Mentored junior web developers in day to day tasks.</summary></summary>
+
+<skills>Skills: 
+<skills>Web Technologies, Scripting Language	HTML, CSS, JavaScript, DHTML, XML, Jquery, Jqgrid, AJAX, PHP, RoR	
+
+
+Languages	 
+C, C++, C#, Java, Visual Basic, ASP.Net, SAS,VBA	
+
+
+Databases	
+MySQL 5.0, SQL Server 2005.	
+
+
+IDE	
+Dreamweaver CS5, Eclipse 3.2.1, Visual Studio	
+
+
+Servers	
+Apache 2.0, Tomcat5.0	
+
+
+Operating Systems	
+Windows 2000/XP/95/NT Server, Red Hat Linux 9	
+
+
+Microsoft Tools	
+MS Word, Advanced MS Excel, MS PowerPoint, MS Project, Outlook, MSAccess, MSVisio	
+
+
+Version Control Systems	
+SVN, CVS	
+
+
+Content Management System	 
+Joomla , Word press</skills></skills>	
+
+
+<experience end='present' start='731583'>Professional Experience: 
+
+<job end='present' id='1' pos='1' start='733895'><employer>Fractal Analytics Mumbai India</employer>						             <daterange><start days='733895' iso8601='2010-05-01'>May '10</start> - <end days='present' iso8601='2012-03-31'>Till Date</end>'</daterange>
+<title>Software Engineer</title>
+
+<description>Fractal is a leading provider of advanced analytics that helps companies leverage data driven insights in making better decisions. 
+I was involved in development of in house project called task management application for internal users of the company. It performs the following tasks: employee login, displays assigned task and leave details. This application was developed with PHP to avail all the benefits of distributed technology. The compatibility of the application was tested and deployed on Apache Application Server.
+	
+Responsibilities:
+Created the user interface for automation using HTML, CSS and JAVASCRIPT.
+Involved in all phases of Software System Life Cycle - Analysis, systems specification, design, implementation, testing, and integration, support of application deployment.
+Dealt with specificities in authoring, staging of the site's web content management and personalization. 
+Worked with the design of the templates and skins in CSS
+Knowledge of Database Schema design and normalization in designing new databases for the expanding applications
+Knowledge  of Implemented Session Handlers to be persisted into the MySQL database tables
+Knowledge of Creating and using SQL Queries, Scripts and Stored Procedures for data validations.         
+Worked on maintaining company's internal site contents and designs.
+
+Environment: JavaScript, HTML4, CSS3, Photoshop, windows, Firebug, Firebug Lite, Mysql</description></job>
+			
+<job end='733865' id='2' pos='2' start='733410'><employer>Neoquant Solutions</employer>   <address><country iso3='IND'>India</country></address> 			                             			'<daterange><start days='733410' iso8601='2009-01-01'>Jan09</start> -   <end days='733865' iso8601='2010-04-01'>Apr10</end></daterange>'
+<title>Senior Web Developer</title>
+<description>I worked as a senior developer for major US based Information and entertainment Client. This project involved software development for doing file sharing. In this users could add mp3 files, images to dedicated file server using web frontend developed using flex and backend using PHP as server side scripting language. Mysql database was used as data store. All communications from the front end was xml based, PHP was extensively used to generate XML responses back to flex front end.
+
+Responsibilities:
+Created the user interface for automation using JQuery, Ajax, CSS, HTML DOM.
+Involved in all phases of Software System Life Cycle - Analysis, systems specification, design, implementation, testing, and integration, support of application deployment.
+Worked with teams in designing and developing server optimization techniques like SEO etc
+Worked with the design of the templates and skins in CSS. 
+Lead Team of designers and developers for development of 'PSDsTOHTML.COM' website. This is a service offered to Designers (customers) to place their orders online to convert PSD files into web pages.
+	Designed various websites in WORDPRESS 
+Worked on creating content management system for HCL digischool for teaching the students online using custom Java script functions for building interactive user Interface.
+Testing of websites for w3c validation and testing it in major browsers like Firefox, IE6, IE7, IE8, opera, Safari
+Used Firebug, Firebug Lite, IE Developer Toolbar for debugging and browser compatibility.
+Knowledge of the Database Schema design and normalization in designing new databases for the expanding applications
+Knowledge  of Implemented Session Handlers to be persisted into the MySQL database tables
+Worked extensively with the FILE upload features.
+Knowledge of Developed the Stored Procedures and Functions using SQL for database intensive operations.
+Dealt with specificities in security, authoring, staging of the site's web content management  and personalization
+Knowledge of Creating and using SQL Queries, Scripts and Stored Procedures for data validations.     
+Worked with teams in designing and developing server optimization techniques like caching, SEO etc
+
+
+Environment: HTML, XHTML, CSS, AJAX, XML, JavaScript, Windows, Apache Web Server, MS Visio.</description></job>
+
+<job end='733410' id='3' pos='3' start='733226'><employer>Idealake Software Technologies</employer> <address><country iso3='IND'>India</country></address>			                             	         '<daterange><start days='733226' iso8601='2008-07-01'>Jul08</start>-   <end days='733410' iso8601='2009-01-01'>Jan09</end></daterange>'
+<title>Developer</title>
+<description>Worked on various projects as follows:
+Task management system: was designed for the employees to login as soon as they enter the organization and to check their daily assigned tasks.
+Wealth Online: is a Financial Project which involved building of web portal based on Microsoft .Net server side scripting.
+Big Music and Video: was done for Reliance Big Entertainment. This project involved building of platform for masses to access innovative, cutting-edge content. Key content initiatives include production and strategic collaboration in areas such as gaming, movies, animation, music, broadcast, DTH and user-generated content, amongst others. Link to site, http://www.bigmusicvideo.co.in.
+Avendus: is an investment bank based in India with offices in Mumbai and Bangalore. This Project was aimed at Private Equity and debt raising and in strategic advisory.
+
+Responsibilities:
+Knowledge of Creating and using SQL Queries, Scripts and Stored Procedures for data validations.          
+Analyzed, Designed and developed Web based application as per the requirement.
+Component based design experience with an ability to identify objects and write classes.
+Considered the security issues concerned with REQUEST variables and worked with sessions.
+Developed the Stored Procedures and Functions for database intensive operations in SQL Server 2005.
+Worked on CSS and JavaScript validations.</description></job>
+
+D-link India		                                                                       		 '<job end='732434' id='4' pos='4' start='731583'><daterange><start days='731583' iso8601='2004-01-01'>Jan04</start>-<end days='732434' iso8601='2006-05-01'>May06</end></daterange>'
+<title>Trainee Engineer</title>
+Responsibilities:
+ <description>I worked directly with business team to gather detailed business requirements.
+
+Involved in all phases of the Software Development Life Cycle (SDLC).  
+Instrumental as a primary developer of HR applications.
+Designed UI using HTML, DHTML, CSS.
+Used MYSQL to access and analyze SQL queries, tables, views, indexes, packages, functions and stored procedures. 
+Configured and maintained web server software, including Apache, PHP and MYSQL
+Used MS Visio for UML to create Use Case Diagrams, Class Diagrams and Sequence diagrams in design phase.
+Performed Client-side validations using JavaScript
+Fixed bugs and provided support services for the application.
+Administered Apache Web Servers and MySQL databases.
+Designed web application on Linux Platform (Red Hat 9.0)</description></job></experience>
+                   
+<education>Education:
+<school id='5'><degree level='18' name='Master of Engineering'>Master of Engineering</degree>, <major code='1699'>Information Technology</major>					
+<institution>Padre Conceicao College of Engineering</institution>, <address><country iso3='IND'>India</country></address></school>,	
+
+<degree level='16' name='Bachelor of Engineering'>Bachelor of Engineering</degree>, <major code='1699'>Information Technology</major></education>				
+<statements><personal>Goa College of Engineering, India,
+
+Personal Memoranda:
+
+Date of Birth  		: 12th September 1983
+Sex   			: Female
+Marital Status	            : <maritalstatus>Married</maritalstatus></personal></statements>
+<skills>Languages Known   	: <languages>English, Hindi, Marathi &amp; Konkani</languages>
+<courses>Branch  		: Information Technology Engineering
+Qualification  		: M.E (I.T)
+Address		: 3509 Federal drive, Eagan MN-55122</courses></skills>
+Phone Number  	: <contact><phone>510-516-7465</phone></contact>
+
+<references>References: Available upon request.</references>
+
+Declaration:
+
+<statements><personal>I hereby declare that the information furnished above is true to the best of my knowledge.
+
+Date: 31 Mar 2012  							
+Place: Eagan MN								
+(Smeeta Sagun Naik)</personal></statements>
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='733410' experience='1' expidrefs='3' idrefs='3' lastused='2009' name='.net' start='733226'>
+    <variant>ASP.Net</variant>
+    <variant>Microsoft .Net</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='adobe photoshop' start='733895'>
+    <variant>Photoshop</variant>
+  </canonskill>
+  <canonskill end='733410' experience='1' expidrefs='3' idrefs='3' lastused='2009' name='animation' start='733226'>
+    <variant>animation</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,4' idrefs='1,2,4' lastused='2012' name='apache webserver' start='731583'>
+    <variant>Apache 2.0</variant>
+    <variant>Apache</variant>
+    <variant>Apache Web Server</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='automation' start='733410'>
+    <variant>automation</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='benefits administration' start='733895'>
+    <variant>benefits</variant>
+  </canonskill>
+  <canonskill end='733410' experience='1' expidrefs='3' idrefs='3' lastused='2009' name='broadcast' start='733226'>
+    <variant>broadcast</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='browsers' start='733410'>
+    <variant>browsers</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='c' start='733410'>
+    <variant>C</variant>
+    <variant>c</variant>
+  </canonskill>
+  <canonskill name='c + +'>
+    <variant>C++</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='com' start='733410'>
+    <variant>COM</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='2,3' idrefs='2,3' lastused='2010' name='content management' start='733226'>
+    <variant>content</variant>
+    <variant>Content Management</variant>
+    <variant>content management</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,3,4' idrefs='1,2,3,4' lastused='2012' name='css' start='731583'>
+    <variant>CSS</variant>
+    <variant>CSS3</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='2,4' idrefs='2,4' lastused='2010' name='customer relations' start='731583'>
+    <variant>Client</variant>
+  </canonskill>
+  <canonskill name='cvs'>
+    <variant>Version Control</variant>
+    <variant>CVS</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,3,4' idrefs='1,2,3,4' lastused='2012' name='database administration' start='731583'>
+    <variant>Databases</variant>
+    <variant>databases</variant>
+    <variant>Database</variant>
+    <variant>database</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='debugging' start='733410'>
+    <variant>debugging</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='design' start='733410'>
+    <variant>designing</variant>
+  </canonskill>
+  <canonskill end='732434' experience='1' expidrefs='4' idrefs='4' lastused='2006' name='dhtml' start='731583'>
+    <variant>DHTML</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='dom' start='733410'>
+    <variant>DOM</variant>
+  </canonskill>
+  <canonskill name='dreamweaver'>
+    <variant>Dreamweaver</variant>
+  </canonskill>
+  <canonskill name='eclipse'>
+    <variant>Eclipse 3.2.1</variant>
+  </canonskill>
+  <canonskill end='733410' experience='1' expidrefs='3' idrefs='3' lastused='2009' name='edge' start='733226'>
+    <variant>edge</variant>
+  </canonskill>
+  <canonskill name='english'>
+    <variant>English</variant>
+  </canonskill>
+  <canonskill end='733410' experience='1' expidrefs='3' idrefs='3' lastused='2009' name='equities' start='733226'>
+    <variant>Equity</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='features' start='733410'>
+    <variant>features</variant>
+  </canonskill>
+  <canonskill end='733410' experience='1' expidrefs='3' idrefs='3' lastused='2009' name='financial' start='733226'>
+    <variant>Financial</variant>
+  </canonskill>
+  <canonskill name='hindi'>
+    <variant>Hindi</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,4' idrefs='1,2,4' lastused='2012' name='html' start='731583'>
+    <variant>HTML4</variant>
+    <variant>HTML</variant>
+  </canonskill>
+  <canonskill end='733410' experience='1' expidrefs='3' idrefs='3' lastused='2009' name='http' start='733226'>
+    <variant>http</variant>
+  </canonskill>
+  <canonskill end='732434' experience='1' expidrefs='4' idrefs='4' lastused='2006' name='human resources' start='731583'>
+    <variant>HR</variant>
+  </canonskill>
+  <canonskill name='ide'>
+    <variant>IDE</variant>
+  </canonskill>
+  <canonskill name='information technology'>
+    <variant>Information Technology</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='internet explorer' start='733410'>
+    <variant>IE</variant>
+  </canonskill>
+  <canonskill name='java'>
+    <variant>Java</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,3,4' idrefs='1,2,3,4' lastused='2012' name='javascript' start='731583'>
+    <variant>JavaScript</variant>
+    <variant>Java script</variant>
+    <variant>JAVASCRIPT</variant>
+  </canonskill>
+  <canonskill name='languages'>
+    <variant>Languages</variant>
+  </canonskill>
+  <canonskill end='732434' experience='1' expidrefs='4' idrefs='4' lastused='2006' name='linux' start='731583'>
+    <variant>Linux</variant>
+  </canonskill>
+  <canonskill end='733410' experience='1' expidrefs='3,4' idrefs='3,4' lastused='2009' name='microsoft access' start='731583'>
+    <variant>access</variant>
+    <variant>MSAccess</variant>
+  </canonskill>
+  <canonskill name='microsoft c #'>
+    <variant>C#</variant>
+  </canonskill>
+  <canonskill name='microsoft excel'>
+    <variant>MS Excel</variant>
+  </canonskill>
+  <canonskill name='microsoft outlook'>
+    <variant>Outlook</variant>
+  </canonskill>
+  <canonskill name='microsoft powerpoint'>
+    <variant>MS PowerPoint</variant>
+  </canonskill>
+  <canonskill name='microsoft project'>
+    <variant>MS Project</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='microsoft windows' start='733410'>
+    <variant>Windows</variant>
+    <variant>windows</variant>
+  </canonskill>
+  <canonskill name='microsoft windows 2000'>
+    <variant>Windows 2000</variant>
+  </canonskill>
+  <canonskill name='microsoft windows nt'>
+    <variant>NT Server</variant>
+  </canonskill>
+  <canonskill name='microsoft word'>
+    <variant>Word</variant>
+    <variant>MS Word</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='mp3' start='733410'>
+    <variant>mp3</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,4' idrefs='1,2,4' lastused='2012' name='mysql' start='731583'>
+    <variant>MYSQL</variant>
+    <variant>MySQL</variant>
+    <variant>Mysql</variant>
+    <variant>MySQL 5.0</variant>
+  </canonskill>
+  <canonskill name='operating systems'>
+    <variant>Operating Systems</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='optimization' start='733410'>
+    <variant>optimization</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='2,4' idrefs='2,4' lastused='2010' name='oracle developer 2000' start='731583'>
+    <variant>developer</variant>
+    <variant>Developer</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,4' idrefs='1,2,4' lastused='2012' name='php' start='731583'>
+    <variant>PHP</variant>
+  </canonskill>
+  <canonskill name='press releases'>
+    <variant>press</variant>
+  </canonskill>
+  <canonskill end='732434' experience='1' expidrefs='4' idrefs='4' lastused='2006' name='red hat linux' start='731583'>
+    <variant>Red Hat Linux 9</variant>
+    <variant>Red Hat 9.0</variant>
+  </canonskill>
+  <canonskill end='733410' experience='1' expidrefs='3' idrefs='3' lastused='2009' name='requirements' start='733226'>
+    <variant>requirement</variant>
+  </canonskill>
+  <canonskill name='sas'>
+    <variant>SAS</variant>
+  </canonskill>
+  <canonskill end='732434' experience='1' expidrefs='4' idrefs='4' lastused='2006' name='sdlc' start='731583'>
+    <variant>SDLC</variant>
+  </canonskill>
+  <canonskill name='servers'>
+    <variant>Servers</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,3' idrefs='1,2,3' lastused='2012' name='shell scripting' start='733226'>
+    <variant>scripting</variant>
+    <variant>Scripts</variant>
+    <variant>Scripting</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='2,4' idrefs='2,4' lastused='2010' name='software development' start='731583'>
+    <variant>Software Development</variant>
+    <variant>software development</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='specification' start='733410'>
+    <variant>specification</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,3,4' idrefs='1,2,3,4' lastused='2012' name='sql' start='731583'>
+    <variant>SQL Server</variant>
+    <variant>SQL</variant>
+  </canonskill>
+  <canonskill end='733410' experience='1' expidrefs='3' idrefs='3' lastused='2009' name='strategic' start='733226'>
+    <variant>strategic</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,4' idrefs='1,2,4' lastused='2012' name='tables' start='731583'>
+    <variant>tables</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='teaching' start='733410'>
+    <variant>teaching</variant>
+  </canonskill>
+  <canonskill name='tomcat'>
+    <variant>Tomcat5.0</variant>
+  </canonskill>
+  <canonskill end='732434' experience='1' expidrefs='4' idrefs='4' lastused='2006' name='unified modeling language' start='731583'>
+    <variant>UML</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='user interface design' start='733410'>
+    <variant>user Interface</variant>
+    <variant>user interface</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='validation' start='733410'>
+    <variant>validation</variant>
+  </canonskill>
+  <canonskill name='vba'>
+    <variant>VBA</variant>
+  </canonskill>
+  <canonskill end='733410' experience='1' expidrefs='3' idrefs='3' lastused='2009' name='video' start='733226'>
+    <variant>Video</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='2,4' idrefs='2,4' lastused='2010' name='visio' start='731583'>
+    <variant>Visio</variant>
+  </canonskill>
+  <canonskill name='visual basic'>
+    <variant>Visual Basic</variant>
+  </canonskill>
+  <canonskill name='visual studio'>
+    <variant>Visual Studio</variant>
+  </canonskill>
+  <canonskill end='733410' experience='1' expidrefs='3' idrefs='3' lastused='2009' name='web portal' start='733226'>
+    <variant>web portal</variant>
+  </canonskill>
+  <canonskill end='732434' experience='1' expidrefs='4' idrefs='4' lastused='2006' name='web servers' start='731583'>
+    <variant>Web Servers</variant>
+    <variant>web server</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='web site production' start='733410'>
+    <variant>website</variant>
+    <variant>web content</variant>
+    <variant>websites</variant>
+    <variant>web pages</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='xhtml' start='733410'>
+    <variant>XHTML</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='xml' start='733410'>
+    <variant>XML</variant>
+    <variant>xml</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

@@ -1,0 +1,154 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734585' xml:space='preserve'><contact><name><givenname>RANDALL</givenname> <givenname>D</givenname>. <surname>WOODS</surname></name>
+<address lat='32.4439' lon='81.7818' majorcity='STATESBORO' state='GA'><street>6001 Chinaberry Ct</street>									
+<city>Statesboro</city>, <state abbrev='GA'>GA</state> <postalcode>30458</postalcode></address>	                                                                                                                    <email>snr742@nctv.com</email>
+Home: <phone type='home'>912.489.0750</phone></contact>
+							             		
+
+<education>EDUCATION:		<school id='8'><institution>Georgia  Southern University</institution>					            <address><city>Statesboro</city>, <state abbrev='GA'>GA</state></address>	
+<degree level='16' name='Bachelor of Business Administration'>BBA</degree> in <major code='4001'>Accounting</major></school></education>
+
+<experience end='present' start='720626'>EXPERIENCE:	              <job end='present' id='1' pos='1' sic='173101' sic2='17' start='733410'><daterange><start days='733410' iso8601='2009-01-01'>2009</start>-<end days='present' iso8601='2012-03-21'>Current</end></daterange>   <employer>Y-Delta, Inc</employer>.                                                                    <address><city>Statesboro</city>, <state abbrev='GA'>GA</state></address>
+                                        <title>Administrative Assistant</title></job>
+
+
+
+
+	                            <job end='732679' id='2' pos='2' sic='275202' sic2='27' start='730853'><daterange><start days='730853' iso8601='2002-01-01'>2002</start>-<end days='732679' iso8601='2007-01-01'>2007</end></daterange>	  <employer>Pro Line Printing, Inc</employer>.			                 <address><city>Pineville</city>, <state abbrev='NC'>NC</state></address>
+			<title>Division Controller</title>
+<description>Formulated new accounting procedures necessary to better accommodate flow of operational data in the company.
+Standardized certain aspects of accounting department to allow for a more consistent record-keeping and reporting process.
+Identified, developed and scheduled various managerial tools for comparative analysis of production costs.</description></job>
+     
+<job end='730488' id='3' pos='3' sic='173101' sic2='17' start='726470'><daterange><start days='726470' iso8601='1990-01-01'>1990</start>-<end days='730488' iso8601='2001-01-01'>2001</end></daterange>	<employer>Y-Delta, Inc</employer>.						<address><city>Statesboro</city>, <state abbrev='GA'>GA</state></address>	
+<title>Controller</title>
+<description>Evaluated, restructured and converted existing accounting system to one more closely representative of the company's operations.
+Directed the conversion of manual accounting system to mechanized networked configuration using the new account structure.
+Reviewed system requirements periodically and upgraded computer network to enhance   productivity.                                                                             		               
+Established cash management plan to better inform management and better utilize cash flow.
+Researched and launched SIMPLE IRA retirement plan for interested employees and subsequently converted to 401(k) plan.
+Upgraded and reinforced accounting reporting with migration to more sophisticated software package.</description></job>
+
+<job end='726470' id='4' pos='4' start='723913'><daterange><start days='723913' iso8601='1983-01-01'>1983</start>-<end days='726470' iso8601='1990-01-01'>1990</end></daterange>	<employer>Randall D. Woods</employer>, <address>Accountant			  <city>Statesboro</city>, <state abbrev='GA'>GA</state></address>	
+<title>Sole Practitioner</title>
+<description>Purchased small accounting practice from the estate of prior owner and established a rapport with and retained the majority of the existing clients.
+Hired and trained personnel to assist in monthly accounting write-up, tax preparation for individuals, corporations and partnerships and various other sundry projects.</description></job>
+
+<job end='723913' id='5' pos='5' sic='525104' sic2='52' start='720626'><daterange><start days='720626' iso8601='1974-01-01'>1974</start>-<end days='723913' iso8601='1983-01-01'>1983</end></daterange>	<employer>Dabbs, Deal &amp; Thigpen</employer>, <address>CPAs	                                            <city>Statesboro</city>, <state abbrev='GA'>GA</state></address>
+<title>Staff Accountant</title>
+					
+
+
+Randall  D. Woods  Resume-Page 2
+<employer>Addendum
+
+Y-Delta, Inc</employer>.
+<description>Initial duty assignments consisted of bid package preparation for Estimator/Project Managers in industrial/commercial
+construction company and Workers Compensation Claims Manager. The former included review and evaluation of bid
+job specifications and bid package presentation for open bidding. It also entailed the specific bid bond request for each
+job bid and the corresponding relationship with the company's bonding agent  and surety. Workers Compensation
+management  includes the immediate  medical attention of company employees based on the severity of each individual
+case. Injured employees are directed to appropriate treatment and monitored throughout their treatment in conjunction with out assigned adjustors. Future assignments in this position will involve safety, company drug program and sundry human resource functions not handled by other staff members.</description></job>
+
+<job id='6' sic='275202' sic2='27'><employer>Pro Line Printing, Inc</employer>.
+<description>Monitored  and  directed  one subordinate in day to day operations consisting of, but not limited to, cost recognition application in the Accounts Payable function and General Ledger  function, pro forma monthly adjustments  in anticipation of month-end close, special corporate and division sundry assignments and weekly evaluation and payment of vendor requests.</description></job>
+<job id='7'><employer>Y-Delta, Inc</employer>.
+<description>Maintained and monitored day to day accounting function with the assistance of  three  subordinates  consisting  of Accounts Receivable, Accounts Payable, Payroll,  General Ledger, various HR functions, Administrative functions  to assist management  and IT Management.
+Randall  D. Woods, Accountant
+Managed  a  small  accounting practice (150-200 clients) with one subordinate. Performed various accounting functions consisting of yearly individual, corporate and partnership returns, monthly write-up work, quarterly and yearly payroll tax returns, W-2's and  unaudited financial statements as required.
+
+Dabbs, Deal &amp; Thigpen, CPA's
+
+Performed various write-up assignments in connection with preparation of individual, corporate and partnership returns, quarterly and yearly payroll tax returns, W-2's and unaudited financial statements as required.  Audited   yearly, as team member, telephone  companies  and nursing homes. Prepared SBA (Small Business Administration) loans   for   various clients in varying  job sectors.</description></job></experience>
+
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='732679' experience='1' expidrefs='2,3,4,6' idrefs='2,3,4,6' lastused='2007' name='accountancy' start='723913'>
+    <variant>accounting</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='6' idrefs='6' name='accounting'>
+    <variant>Accountant</variant>
+  </canonskill>
+  <canonskill end='723913' experience='1' expidrefs='5,6' idrefs='5,6' lastused='1983' name='accounts payable' start='720626'>
+    <variant>Accounts Payable</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='6' idrefs='6' name='accounts receivable'>
+    <variant>Accounts Receivable</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='6' idrefs='6' name='administration'>
+    <variant>Administrative</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='6' idrefs='6' name='business administration'>
+    <variant>Business Administration</variant>
+  </canonskill>
+  <canonskill end='730488' experience='1' expidrefs='3' idrefs='3' lastused='2001' name='cash flow' start='726470'>
+    <variant>cash flow</variant>
+  </canonskill>
+  <canonskill end='730488' experience='1' expidrefs='3' idrefs='3' lastused='2001' name='cash management' start='726470'>
+    <variant>cash management</variant>
+  </canonskill>
+  <canonskill end='730488' experience='1' expidrefs='3' idrefs='3' lastused='2001' name='conversion' start='726470'>
+    <variant>conversion</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='6' idrefs='6' name='cpa'>
+    <variant>CPA</variant>
+  </canonskill>
+  <canonskill end='726470' experience='1' expidrefs='4,6' idrefs='4,6' lastused='1990' name='customer relations' start='723913'>
+    <variant>clients</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='6' idrefs='6' name='financial statements'>
+    <variant>financial statements</variant>
+  </canonskill>
+  <canonskill end='723913' experience='1' expidrefs='5,6' idrefs='5,6' lastused='1983' name='general ledger' start='720626'>
+    <variant>General Ledger</variant>
+  </canonskill>
+  <canonskill end='723913' experience='1' expidrefs='5,6' idrefs='5,6' lastused='1983' name='human resources' start='720626'>
+    <variant>human resource</variant>
+    <variant>HR</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='6' idrefs='6' name='it management'>
+    <variant>IT Management</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='2' idrefs='2' lastused='2007' name='management' start='730853'>
+    <variant>managerial</variant>
+  </canonskill>
+  <canonskill end='730488' experience='1' expidrefs='3' idrefs='3' lastused='2001' name='migration' start='726470'>
+    <variant>migration</variant>
+  </canonskill>
+  <canonskill end='730488' experience='1' expidrefs='3' idrefs='3' lastused='2001' name='networking' start='726470'>
+    <variant>network</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='6' idrefs='6' name='nursing'>
+    <variant>nursing</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='6' idrefs='6' name='payroll processing'>
+    <variant>Payroll</variant>
+    <variant>payroll</variant>
+  </canonskill>
+  <canonskill end='726470' experience='1' expidrefs='4' idrefs='4' lastused='1990' name='personnel' start='723913'>
+    <variant>personnel</variant>
+  </canonskill>
+  <canonskill end='726470' experience='1' expidrefs='4' idrefs='4' lastused='1990' name='rapport' start='723913'>
+    <variant>rapport</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='2' idrefs='2' lastused='2007' name='record keeping' start='730853'>
+    <variant>record-keeping</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='2,3' idrefs='2,3' lastused='2007' name='reports' start='726470'>
+    <variant>reporting</variant>
+  </canonskill>
+  <canonskill end='723913' experience='1' expidrefs='5' idrefs='5' lastused='1983' name='safety' start='720626'>
+    <variant>safety</variant>
+  </canonskill>
+  <canonskill end='726470' experience='1' expidrefs='4,6' idrefs='4,6' lastused='1990' name='tax planning' start='723913'>
+    <variant>tax preparation</variant>
+    <variant>tax</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='6' idrefs='6' name='telephone skills'>
+    <variant>telephone</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

@@ -1,0 +1,162 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734585' xml:space='preserve'> <contact><name><givenname>Sunita</givenname> <surname>Singh</surname></name>
+                                            <email>svo.3010@gmail.com</email>
+<address lat='40.2435' lon='-80.2163' majorcity='HOUSTON' state='PA'><street>10525, Kinghurst St</street>, <city>Houston</city>, <state abbrev='TX'>Texas</state></address>, Cell: <phone type='cell'>(480) 374 0999</phone></contact>
+
+
+<summary>Background        
+<summary>Analytical modeling and simulation of electric power systems, Power system control and planning, Research on wind power plant and smart grid initiatives.</summary></summary>
+      
+<education>EDUCATION  
+<school id='5'><degree level='21' name='Doctorate of Philosophy'>PhD</degree> in <major code='1203'>Electrical Engineering</major>					<daterange><start days='732679' iso8601='2007-01-01'>Jan 2007</start>- <end days='733591' iso8601='2009-07-01'>July 2009</end></daterange>
+<institution>Arizona State University</institution>, <address><city>Tempe</city>, <state abbrev='AZ'>Arizona</state></address>				GPA: <gpa max='4' value='3.95'>3.95/4.0</gpa></school>
+<school id='6'><degree level='18' name='Master of Technology'>Master of Technology</degree> in <major code='0401'>Integrated Power Systems</major>	             		<daterange><start days='729208' iso8601='1997-07-01'>July 1997</start> - <end days='729726' iso8601='1998-12-01'>Dec 1998</end></daterange>
+<institution>Visvesvaraya Regional College of Engineering</institution>, <address><city>Nagpur</city>, <country iso3='IND'>INDIA</country></address>         	GPA: <gpa max='10' value='8.2'>8.2/10</gpa></school>                 
+<school id='7'><degree level='16'>Bachelor of Engineering (Honors)</degree>, <major code='1203'>Electrical Engineering</major>	              	
+<degree>M.B.M</degree>. <institution>Engineering College</institution>, <address><city>Jodhpur</city>, <country iso3='IND'>INDIA</country></address>.	                                            GPA: <gpa max='10' value='7.5'>7.5/10</gpa></school></education>
+
+<experience end='present' start='731065'>WORK EXPERIENCE
+
+<job end='present' id='1' pos='1' start='733865'><employer>Vestas Technology R&amp;D Americas</employer>, <address><city>Houston</city>, <state abbrev='TX'>Texas</state></address>					        
+<daterange><start days='733865' iso8601='2010-04-01'>April 2010</start>-<end days='present' iso8601='2012-03-21'>present</end></daterange>
+<description>Contributed to HVDC connected wind power plant's study for fault ride through, control of active power,  reactive
+ power, frequency and voltage, using PSCAD tool
+Part of the team for the cost of energy analysis of a DC collection grid of a wind power plant in comparison to AC collection grid for variable collection grid voltages, AC and DC turbine topologies and cable types. 
+Part of the team for the virtual power plant's bidding and dispatch to participate in the energy and ancillary service market. Prepared market operation database of New England electricity market.
+Power plant production optimization including aerodynamic and collection grid losses</description></job>
+
+<job end='733834' id='2' pos='2' sic='999999' sic2='99' start='733622'><title>Power System Research Engineer</title>, <employer>Pacific Northwest National Laboratory</employer>, <address><city>Richland</city>, <state abbrev='WA'>Washington</state></address>
+<daterange><start days='733622' iso8601='2009-08-01'>August 2009</start>-<end days='733834' iso8601='2010-03-01'>March 2010</end></daterange>
+<description>Consolidation of balancing authorities in Washington State: Worked as a team member on the methodology development and performance metrics evaluation to test the feasibility of BAs' consolidation taking account of wind generation.
+Virtual Balancing Authority: Worked as a team member to determine generation margin requirements and transmission congestion evaluation in the case of extreme events of wind-forecast errors.
+Model Parameter estimation: Worked as a team member on the performance comparison of different types of Kalman filters for parameter estimation and calibration of power system models.</description></job> 
+
+<job end='733591' id='3' naics='61111007' naics2='61' pos='3' sic='822101' sic2='82' start='732679'><title>Research Associate</title>, <employer>Arizona State University</employer>, <address><city>Tempe</city>, <state abbrev='AZ'>Arizona</state></address>
+<daterange><start days='732679' iso8601='2007-01-01'>January 2007</start>-<end days='733591' iso8601='2009-07-01'>July 2009</end></daterange>
+<description>Evaluate and investigate the effect of sabotage on the transmission lines (part of the NSF project): Evaluation of a 230 kV double circuit tension section of the transmission line is investigated for the sag-tension
+With different combinations of tilt sensor measurements on tangent towers  
+Using mechanical state-estimation with tilt, tension, inclination angle of conductor with the horizontal and temperature sensor data, weather data and current measurements.
+Identify and eliminate the effect of inaccurate and failed sensors on the conductor sag using bad-data detection and identification method.</description></job>
+
+<job end='732495' id='4' pos='4' start='731065'><title>Associate Professor</title>, <employer>Poornima College of Engineering</employer>, <address><city>Jaipur</city>, <state>Rajasthan</state>, <country iso3='IND'>India</country></address>, (<daterange><start days='731065' iso8601='2002-08-01'>August 2002</start> - <end days='732495' iso8601='2006-07-01'>July 2006</end></daterange>)
+<description>Taught undergraduate engineering courses such as Power Electronics -I &amp; II, Control System Engineering, Electrical Drives and their Control, Electrical Machines, Electrical and Electronic Measurements. Taught laboratories for A. C. and D.C. Electrical machine s and Power Electronics, Instrumentation, Basic Electrical and Electronics Engineering and handled Laboratories for A.C. and D.C. Electrical machines, and Instrumentation. Measurements and Basic Electrical Engineering.
+ 
+RELEVANT COURSE WORK in PhD 
+Power engineering operation and planning 
+Power system dynamics 
+Power system stability
+Electrical power quality
+Power system transients
+Linear control theory 
+
+PROJECTS in PhD	
+Load modeling and simulation of Relays in time domain: Performed a detailed analysis of the stability of the 179 bus equivalent of the WECC system with the appropriate load model, Designed required relay settings for the islanding using DSA Power Tools.
+Transient analysis of a power system using EMTP: Modeled a three phase generator- transformer and load system using EMTP , Analyzed the transients in the model during opening and closing of the switching resistor and application of single phase fault, Calculated transient voltage peak for the current chopping problem
+
+MASTERS THESIS 
+Damping of sub synchronous oscillations in HV AC/DC Power System including dynamics of inverter control:
+Developed linearized model for the analysis of the sub-synchronous frequency oscillations due to series compensated A. C. system and HVDC control including inverter controls in AC/DC power system 
+Identified the parameters affecting those using models amenable to Eigen Value Analysis.
+Examined the role of inverter dynamics with different controllers including sub-synchronous damping controller (SSDC) to mitigate the torsional interaction.</description></job></experience>
+
+<professional>PATENTS AND PUBLICATIONS 
+<publications>Mohamed Y. Haj-Maharsi, and Sunita Singh, &quot;Assesment of an HVDC connected wind power plant, submitted panel paper, IEEE EnergyTech 2012 Conference, May 29-31, Ohio.
+Mohamed Haj Maharsi, Sunita Singh, Kent Hans Sobrink, Reactive power management for wind power plant internal grid, US patent 8,121,739, Year 2011.
+Mohamed Haj Maharsi, Sunita Singh, Kent Hans Sobrink, Dynamic adjustment of power plant output based on electrical grid characteristics, patent filed, Year 2011.
+G T Heydt, Sunita Malhara, Vijay Vittal et al, &quot;The characterization and impact of extreme forecast errors on power systems,&quot; Journal of Electric Power Components and Systems, Vol 39, issue 15, pp. 1685-1700, 2011.
+Sunita Malhara, and Vijay Vittal, &quot;Mechanical state estimation of overhead transmission lines using tilt sensors,&quot; IEEE Transactions on Power Systems, Vol 25, Issue 3, pp.-1282-1290, August 2010, 
+Sunita Malhara and Vijay Vittal, &quot;Monitoring sag and tension of a tilted transmission line using tilt sensors,&quot; Paper#09GM0303, IEEE-PES General Meeting, Calgary, Canada, July 26-30, 2009. 
+Sunita Malhara, &quot;Sensitivity of LR solutions to input parameters,&quot; Optimization strategies for Power System Operation and Control, Ch.10, Power System Engineering Research Center, Tempe, AZ, December 2007.
+Sunita Malhara, Dr. R .A. Gupta, Dr. Rajesh Kumar, &quot; Transient and Harmonic Analysis of Cage Induction Motor Drive fed from PWM Inverter&quot; , National Conference on Emerging Computational Techniques and Their Applications, Jodhpur, Rajasthan, India, October 22- 23, 2005.</publications></professional>
+
+
+<skills>COMPUTER SKILLS
+<skills>Programming Languages and software :   C, MATLAB-Simulink, Microsoft office Suite
+Power System Tools: Working knowledge of EMTP, DSA Tools (PSAT, TSAT, SSAT), PLS-CADD and SAPS, PSCAD, DIgSILENT PowerFactory.</skills></skills>
+
+<statements><activities>IEEE Power and Energy Society member and paper reviewer</activities></statements>
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='732495' experience='1' expidrefs='4' idrefs='4' lastused='2006' name='basic' start='731065'>
+    <variant>Basic</variant>
+  </canonskill>
+  <canonskill end='732495' experience='1' expidrefs='4' idrefs='4' lastused='2006' name='c' start='731065'>
+    <variant>C</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='cabling' start='733865'>
+    <variant>cable</variant>
+  </canonskill>
+  <canonskill end='733834' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='calibration' start='733622'>
+    <variant>calibration</variant>
+  </canonskill>
+  <canonskill end='732495' experience='1' expidrefs='4' idrefs='4' lastused='2006' name='closing' start='731065'>
+    <variant>closing</variant>
+  </canonskill>
+  <canonskill end='732495' experience='1' expidrefs='4' idrefs='4' lastused='2006' name='control' start='731065'>
+    <variant>controller</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='database administration' start='733865'>
+    <variant>database</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,4' idrefs='1,4' lastused='2012' name='dc' start='731065'>
+    <variant>DC</variant>
+  </canonskill>
+  <canonskill end='732495' experience='1' expidrefs='4' idrefs='4' lastused='2006' name='electrical engineering' start='731065'>
+    <variant>Electrical Engineering</variant>
+  </canonskill>
+  <canonskill end='732495' experience='1' expidrefs='4' idrefs='4' lastused='2006' name='electronics' start='731065'>
+    <variant>Electronics</variant>
+  </canonskill>
+  <canonskill name='languages'>
+    <variant>Languages</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='marketing' start='733865'>
+    <variant>market</variant>
+  </canonskill>
+  <canonskill name='matlab'>
+    <variant>MATLAB</variant>
+  </canonskill>
+  <canonskill end='733591' experience='1' expidrefs='3' idrefs='3' lastused='2009' name='mechanical' start='732679'>
+    <variant>mechanical</variant>
+  </canonskill>
+  <canonskill name='microsoft office'>
+    <variant>Microsoft office Suite</variant>
+  </canonskill>
+  <canonskill end='732495' experience='1' expidrefs='4' idrefs='4' lastused='2006' name='modeling' start='731065'>
+    <variant>modeling</variant>
+  </canonskill>
+  <canonskill end='733591' experience='1' expidrefs='3' idrefs='3' lastused='2009' name='national service frameworks' start='732679'>
+    <variant>NSF</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='optimization' start='733865'>
+    <variant>optimization</variant>
+  </canonskill>
+  <canonskill end='732495' experience='1' expidrefs='4' idrefs='4' lastused='2006' name='peak' start='731065'>
+    <variant>peak</variant>
+  </canonskill>
+  <canonskill end='732495' experience='1' expidrefs='4' idrefs='4' lastused='2006' name='phd' start='731065'>
+    <variant>PhD</variant>
+  </canonskill>
+  <canonskill end='732495' experience='1' expidrefs='4' idrefs='4' lastused='2006' name='power tools' start='731065'>
+    <variant>Power Tools</variant>
+  </canonskill>
+  <canonskill name='programming'>
+    <variant>Programming</variant>
+  </canonskill>
+  <canonskill end='732495' experience='1' expidrefs='4' idrefs='4' lastused='2006' name='quality' start='731065'>
+    <variant>quality</variant>
+  </canonskill>
+  <canonskill end='732495' experience='1' expidrefs='4' idrefs='4' lastused='2006' name='simulation' start='731065'>
+    <variant>simulation</variant>
+  </canonskill>
+  <canonskill end='732495' experience='1' expidrefs='4' idrefs='4' lastused='2006' name='systems engineering' start='731065'>
+    <variant>System Engineering</variant>
+  </canonskill>
+  <canonskill end='733834' experience='1' expidrefs='2,3' idrefs='2,3' lastused='2010' name='transmission' start='732679'>
+    <variant>transmission</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

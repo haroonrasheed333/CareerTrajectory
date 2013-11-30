@@ -1,0 +1,26 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CCS", 
+            "Certification Name": "Certified Customs Specialist", 
+            "Type": "Core", 
+            "Certification ID": "9117", 
+            "Certifying Organization": "The National Customs Brokers & Forwarders Association of America"
+        }, 
+        {
+            "Acronym": "CLP", 
+            "Certification Name": "Certified Logistic Professional", 
+            "Type": "Core", 
+            "Certification ID": "5778", 
+            "Certifying Organization": "International Warehouse Logistics Association"
+        }, 
+        {
+            "Acronym": "CES", 
+            "Certification Name": "Certified Export Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "9118", 
+            "Certifying Organization": "The National Customs Brokers & Forwarders Association of America"
+        }
+    ], 
+    "onet": "43507100"
+}

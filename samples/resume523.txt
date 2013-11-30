@@ -1,0 +1,313 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734594' xml:space='preserve'><contact><name><givenname>Addison</givenname> <givenname>Xiang</givenname> <surname>Wang</surname></name> | <phone>315-751-9860</phone> | <email>xwang52@syr.edu</email> | <address lat='43.0356' lon='76.1267' majorcity='SYRACUSE' state='NY'><street>220 Bassett St.</street>, <city>Syracuse</city>, <state abbrev='NY'>NY</state> <postalcode>13210</postalcode></address>
+
+
+Addison Xiang Wang | <phone>315-751-9860</phone> | <email>xwang52@syr.edu</email> | <address lat='43.0356' lon='76.1267' majorcity='SYRACUSE' state='NY'><street>220 Bassett St.</street>, <city>Syracuse</city>, <state abbrev='NY'>NY</state> <postalcode>13210</postalcode></address></contact>
+
+
+<skills>Skills and Competencies
+Network: <skills>TCP/IP, HSRP, NAT, IPv6, VLAN, IPSec, OSPF, EIGRP, RIP, VoIP, GRE, vSphere, ESXi
+Methodologies: Agile, SDLC, CMMI, CMM-IPD (Integrated Product Development) 
+Languages/IDE: Java/Python/C/Assembly/SQL/JavaScripts; Eclipse, WingIDE, Labwindows/CVI
+Testing tools: JMeter, SilkTest, IBM Rational Functional Tester</skills>
+Database: <skills>MySQL, Sybase, DB2, Microsoft SQL Server, Microsoft Access
+OS and Office: Windows, Linux, UNIX; MS Excel, PowerPoint, Visio
+Others: Bugzilla, SVN, JIRA, Request Tracker</skills>; <languages>Bilingual in English and Mandarin</languages></skills>
+
+<experience end='present' start='731765'>Experience
+<job end='present' id='1' naics='61131009' naics2='61' pos='1' sic='822101' sic2='82' start='733987'><title>Research/Teaching Assistant</title>, <employer>Syracuse University</employer> (<address><city>Syracuse</city>, <state abbrev='NY'>NY</state></address>), the iSchool, <daterange><start days='733987' iso8601='2010-08-01'>August 2010</start> - <end days='present' iso8601='2012-03-30'>Present</end></daterange>, <daterange><start days='734505' iso8601='2012-01-01'>2012</start></daterange>
+<description>Study DPI's impact on Internet governance, analyze and visualize crowd-sourced data
+[DPI site received one million hits (49,000 unique visitors) within two weeks] 
+Troubleshoot issues in Cisco packet tracer for undergraduates
+Developed applications on Android platform
+Developed Python scripts to retrieve data</description></job>
+
+Project Management <job end='734352' id='2' pos='2' start='734260'><title>Intern</title>, <employer>TeleNav</employer> (<address><city>Sunnyvale</city>, <state abbrev='CA'>CA</state></address>), <department>Engineering Dept.</department>, <daterange><start days='734260' iso8601='2011-05-01'>May 2011</start> - <end days='734352' iso8601='2011-08-01'>August 2011</end></daterange>                                    
+<description>Analyzed root causes for project delay, and streamlined organizational release process
+Documented function specifications, release forms, and test plans for 20+ components
+Trained project managers, functional managers, and engineers on advanced JIRA features
+Deployed and troubleshot 20+ web applications on 20+ Linux machines</description></job>
+
+<job end='733987' id='3' pos='3' start='733226'><title>Project Manager &amp; Software Engineer</title>, TeleNav (China), <department>R&amp;D Dept.</department>, <daterange><start days='733226' iso8601='2008-07-01'>July 2008</start> - <end days='733987' iso8601='2010-08-01'>August 2010</end></daterange>                                           
+<description>Managed five mobile application development projects simultaneously using Agile methodology
+Developed project management tools to track and predict project performance
+Maintained client-server in Java and browser server in JSP
+Developed load testing strategies and frameworks, and regression testing framework</description></job> 
+
+<job end='733104' id='4' pos='4' start='732679'><title>Automation Engineer</title> (Java), <address><city>Huawei</city> (<country iso3='CHN'>China</country></address>), <department>Wireless Operation &amp; Maintenance Dept.</department>, <daterange><start days='732679' iso8601='2007-01-01'>January 2007</start> - <end days='733104' iso8601='2008-03-01'>March 2008</end></daterange>                                                                                                                                                                   
+<description>Developed automatic testing tools for Element Management System using IBM Functional Tester
+[Product Modules: Fault/Performance/Configuration/Security/Accounting Management]
+Collected and traced automation requirements, designed and implemented tools, and supported  tool usage  
+Maintained Python-based simulated network elements</description></job>
+
+<job end='732526' id='5' pos='5' start='731765'><title>Lead Test Engineer</title>, <employer>Flextronics Technology</employer> (China), <department>Engineering Dept.</department>, <daterange><start days='731765' iso8601='2004-07-01'>July 2004</start> - <end days='732526' iso8601='2006-08-01'>August 2006</end></daterange>                                                                                                                                                                                                                              
+<description>Managed a team of eight engineers for in-circuit testing, function testing, and stress testing of electronics products
+Troubleshoot failures in test equipment related to Optic, DSn, T1, POTS, DSL, Ethernet, and others
+Set up experiments to isolate component level failures such as excessive PLL jitter and optical receiver overload
+Coordinated with clients on new product introductions, technical issue discussions, and project status reports</description></job></experience>
+
+<education>Education
+<school id='6'><degree level='18' name='Master of Science'>M.S</degree>. <major code='4201'>Telecommunication and Network Management</major>, <institution>Syracuse University</institution>, <completiondate>May 2012</completiondate>                                                                                      
+GPA: <gpa max='4' value='3.93'>3.93/4</gpa>, Research assistantship, Program Assistantship, Faculty Assistantship
+Relevant Coursework: <courses>Mobile Application Development (Android); Enterprise Network Management I, II, III; Emerging Wireless Technologies; Managing IT project; Advanced project management; Database Design and Management</courses></school>
+<school id='7'><degree level='16' name='Bachelor of Science'>B.S</degree>. <major code='1299 1699'>Electronic and Informational Science and Technology</major>, <institution>Nanjing University of Post &amp; Telecom</institution>, <address><country iso3='CHN'>China</country></address>, <completiondate days='731735' iso8601='2004-06-01'>June 2004</completiondate>
+GPA: <gpa max='4' value='3.4'>3.4/4</gpa>, No.<honors>1 in Class, National Fellowship, Motorola Scholarship, and others</honors>
+
+Certification
+<courses>Project Management Professional (PMP), License #1482464</courses>, <daterange><start days='734505' iso8601='2012-01-01'>January 2012</start> to <end>January 2015</end></daterange></school></education> 
+
+
+<experience>Recommendations for Xiang
+From Steve Sando, <title>Associate Director</title> Engineering, <description>TeleNav US, managed Xiang indirectly for Project Management Intern
+&quot;If you sum up your working experience with Xiang with a string of adjectives it would be: professional, complete, intelligent, trustworthy, attentive, and follow through. She would go above and beyond her duties and provide me with thorough analyses with recommendations. Compared to normal expectations from interns, she was over the top. I hope to work with her again.&quot;     
+From Jie Kang, Sr. Manager, Engineering, TeleNav US, managed Xiang directly for Project Management Intern
+Dear Sir or Madam:
+My name is Jie Kang. I held a Ph.D. from Stanford University and am currently working as the QA Manager at TeleNav, a global leader in location-based services. Xiang Wang worked under my supervision as a SDLC Project Management Intern this summer. 
+As an intern, Xiang was responsible for the weekly release of a family of critical components called CServers. For every release there were about 40 QA engineers involved testing hundreds of changes. Xiang managed the entire process, assigning changes to different QA, deploying the components, following up on test execution, communicating to developers to get issues resolved, and preparing release documentation. Incredible amount of work and thought went into the process, in which she demonstrated unusual sophistication in handling complexity at her age.
+Xiang is a relentless pursuer of process improvement. She frequently came to me with new ideas to streamline the release workflow and to reduce the work load of the QA team. For example, she convinced the entire cross-functional team to abandon the home-grown system and adopt the open source tool - JIRA to manage the release process. She also helped bring order to the chaotic process by defining product entrance criteria to QA, forcing the development team to improve the quality of the delivery and avoid waste of QA effort. As the result of her work, we were able to reduce test effort by 20% and consistently hit the release schedule. 
+Xiang is a quick learner. She had a solid grasp of technology, always asked the right questions, and got to know our backend system architecture within a short time. She is exceptionally reliable. Xiang had never missed any deadlines and was willing to work extra hours to get things done. The quality of work was amazing. Although deploying 40+ builds to 20+ servers on a weekly basis presents substantial chance for error, Xiang demonstrated exceptional focus and was able to navigate through the complexity with ease and zero error.
+Excellence is the word that I would like to use to sum up Xiang as an individual. I fully believe that her past excellence is a sure indicator of her future success, and I have no doubt that she will shine in your esteemed organization. I recommend her without reservation.
+Sincerely yours,
+Jie Kang</description>
+<title>Manager, QA Department</title></experience>
+TeleNav
+<contact><address lat='37.3761' lon='122.022' majorcity='SUNNYVALE' state='CA'><street>1130 Kifer Road</street>
+<city>Sunnyvale</city>, <state abbrev='CA'>CA</state> <postalcode>94086</postalcode>, <country iso3='USA'>USA</country></address>
+<phone>408-910-5415</phone>
+<email>jkang@telenav.com</email></contact>  
+
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='733104' experience='1' expidrefs='4' idrefs='4' lastused='2008' name='accountancy' start='732679'>
+    <variant>Accounting</variant>
+  </canonskill>
+  <canonskill experience='1' name='adobe streamline'>
+    <variant>streamline</variant>
+  </canonskill>
+  <canonskill end='733987' experience='1' expidrefs='3' idrefs='3' lastused='2010' name='agile' start='733226'>
+    <variant>Agile</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='6' end='733987' experience='1' expidrefs='3' idrefs='3,6' lastused='2010' name='application development' start='733226'>
+    <variant>Application Development</variant>
+    <variant>application development</variant>
+  </canonskill>
+  <canonskill name='assembly language'>
+    <variant>Assembly</variant>
+  </canonskill>
+  <canonskill end='733104' experience='1' expidrefs='4' idrefs='4' lastused='2008' name='automation' start='732679'>
+    <variant>automation</variant>
+  </canonskill>
+  <canonskill name='c'>
+    <variant>C</variant>
+  </canonskill>
+  <canonskill name='capability maturity model'>
+    <variant>CMM</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='cisco' start='733987'>
+    <variant>Cisco</variant>
+  </canonskill>
+  <canonskill end='733987' experience='1' expidrefs='3' idrefs='3' lastused='2010' name='client/server' start='733226'>
+    <variant>client-server</variant>
+  </canonskill>
+  <canonskill end='732526' experience='1' expidrefs='5' idrefs='5' lastused='2006' name='customer relations' start='731765'>
+    <variant>clients</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='6' idrefs='6' name='database administration'>
+    <variant>Database Design and Management</variant>
+    <variant>Database</variant>
+  </canonskill>
+  <canonskill experience='1' name='delivery'>
+    <variant>delivery</variant>
+  </canonskill>
+  <canonskill name='development'>
+    <variant>Product Development</variant>
+  </canonskill>
+  <canonskill experience='1' name='documentation'>
+    <variant>documentation</variant>
+  </canonskill>
+  <canonskill end='732526' experience='1' expidrefs='5' idrefs='5' lastused='2006' name='dsl' start='731765'>
+    <variant>DSL</variant>
+  </canonskill>
+  <canonskill name='eclipse'>
+    <variant>Eclipse</variant>
+  </canonskill>
+  <canonskill name='eigrp'>
+    <variant>EIGRP</variant>
+  </canonskill>
+  <canonskill end='732526' experience='1' expidrefs='5' idrefs='5' lastused='2006' name='electronics' start='731765'>
+    <variant>electronics</variant>
+  </canonskill>
+  <canonskill name='english'>
+    <variant>English</variant>
+  </canonskill>
+  <canonskill end='732526' experience='1' expidrefs='5' idrefs='5' lastused='2006' name='ethernet' start='731765'>
+    <variant>Ethernet</variant>
+  </canonskill>
+  <canonskill end='734352' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='features' start='734260'>
+    <variant>features</variant>
+  </canonskill>
+  <canonskill experience='1' name='focus'>
+    <variant>focus</variant>
+  </canonskill>
+  <canonskill end='734352' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='forms' start='734260'>
+    <variant>forms</variant>
+  </canonskill>
+  <canonskill end='734352' experience='1' expidrefs='2,4' idrefs='2,4' lastused='2011' name='functional' start='732679'>
+    <variant>Functional</variant>
+    <variant>functional</variant>
+  </canonskill>
+  <canonskill end='733104' experience='1' expidrefs='4' idrefs='4' lastused='2008' name='ibm' start='732679'>
+    <variant>IBM</variant>
+  </canonskill>
+  <canonskill name='ibm db/2'>
+    <variant>DB2</variant>
+  </canonskill>
+  <canonskill name='ide'>
+    <variant>IDE</variant>
+  </canonskill>
+  <canonskill end='733987' experience='1' expidrefs='3' idrefs='3' lastused='2010' name='java' start='733226'>
+    <variant>Java</variant>
+  </canonskill>
+  <canonskill end='733987' experience='1' expidrefs='3' idrefs='3' lastused='2010' name='java server pages' start='733226'>
+    <variant>JSP</variant>
+  </canonskill>
+  <canonskill name='javascript'>
+    <variant>JavaScripts</variant>
+  </canonskill>
+  <canonskill name='languages'>
+    <variant>Languages</variant>
+  </canonskill>
+  <canonskill end='734352' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='linux' start='734260'>
+    <variant>Linux</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='6' idrefs='6' name='management'>
+    <variant>Managing</variant>
+  </canonskill>
+  <canonskill name='mandarin'>
+    <variant>Mandarin</variant>
+  </canonskill>
+  <canonskill name='microsoft access'>
+    <variant>Microsoft Access</variant>
+  </canonskill>
+  <canonskill name='microsoft excel'>
+    <variant>MS Excel</variant>
+  </canonskill>
+  <canonskill name='microsoft office'>
+    <variant>Office</variant>
+  </canonskill>
+  <canonskill name='microsoft powerpoint'>
+    <variant>PowerPoint</variant>
+  </canonskill>
+  <canonskill name='microsoft windows'>
+    <variant>Windows</variant>
+  </canonskill>
+  <canonskill experience='1' name='microsoft word'>
+    <variant>word</variant>
+  </canonskill>
+  <canonskill name='mysql'>
+    <variant>MySQL</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='6' idrefs='6' name='netscape enterprise server'>
+    <variant>Enterprise</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='6' idrefs='6' name='network administration'>
+    <variant>Network Management I</variant>
+  </canonskill>
+  <canonskill end='733104' experience='1' expidrefs='4' idrefs='4' lastused='2008' name='networking' start='732679'>
+    <variant>Network</variant>
+    <variant>network</variant>
+  </canonskill>
+  <canonskill name='operating systems'>
+    <variant>OS</variant>
+  </canonskill>
+  <canonskill end='734352' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='organizational skills' start='734260'>
+    <variant>organizational</variant>
+  </canonskill>
+  <canonskill name='ospf'>
+    <variant>OSPF</variant>
+  </canonskill>
+  <canonskill end='733987' experience='1' expidrefs='3' idrefs='3' lastused='2010' name='predict' start='733226'>
+    <variant>predict</variant>
+  </canonskill>
+  <canonskill experience='1' name='process engineering'>
+    <variant>process improvement</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='6,7' end='733987' experience='1' expidrefs='3' idrefs='3,6,7' lastused='2010' name='project management' start='733226'>
+    <variant>Project Management</variant>
+    <variant>project management</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,4' idrefs='1,4' lastused='2012' name='python' start='732679'>
+    <variant>Python</variant>
+  </canonskill>
+  <canonskill experience='1' name='quality'>
+    <variant>quality</variant>
+  </canonskill>
+  <canonskill experience='1' name='quality control'>
+    <variant>QA</variant>
+  </canonskill>
+  <canonskill experience='1' name='quick learner'>
+    <variant>quick learner</variant>
+  </canonskill>
+  <canonskill name='rip'>
+    <variant>RIP</variant>
+  </canonskill>
+  <canonskill experience='1' name='sdlc'>
+    <variant>SDLC</variant>
+  </canonskill>
+  <canonskill experience='1' name='servers'>
+    <variant>servers</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='shell scripting' start='733987'>
+    <variant>scripts</variant>
+  </canonskill>
+  <canonskill name='sql'>
+    <variant>Microsoft SQL Server</variant>
+    <variant>SQL</variant>
+  </canonskill>
+  <canonskill experience='1' name='supervisory skills'>
+    <variant>supervision</variant>
+  </canonskill>
+  <canonskill name='sybase'>
+    <variant>Sybase</variant>
+  </canonskill>
+  <canonskill experience='1' name='system architecture'>
+    <variant>system architecture</variant>
+  </canonskill>
+  <canonskill end='732526' experience='1' expidrefs='5' idrefs='5' lastused='2006' name='t1' start='731765'>
+    <variant>T1</variant>
+  </canonskill>
+  <canonskill name='tcp/ip'>
+    <variant>TCP/IP</variant>
+  </canonskill>
+  <canonskill end='732526' experience='1' expidrefs='5' idrefs='5' lastused='2006' name='test equipment' start='731765'>
+    <variant>test equipment</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,5' idrefs='1,5' lastused='2012' name='troubleshooting' start='731765'>
+    <variant>Troubleshoot</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='unique' start='733987'>
+    <variant>unique</variant>
+  </canonskill>
+  <canonskill name='unix'>
+    <variant>UNIX</variant>
+  </canonskill>
+  <canonskill name='visio'>
+    <variant>Visio</variant>
+  </canonskill>
+  <canonskill name='voip'>
+    <variant>VoIP</variant>
+  </canonskill>
+  <canonskill experience='1' name='wang'>
+    <variant>Wang</variant>
+  </canonskill>
+  <canonskill end='734352' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='web application development' start='734260'>
+    <variant>web applications</variant>
+  </canonskill>
+  <canonskill experience='1' name='workflow analysis'>
+    <variant>workflow</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

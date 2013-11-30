@@ -1,0 +1,251 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734595' xml:space='preserve'><contact><name><givenname>WILLIAM</givenname> <givenname>J</givenname>. <surname>MOLONEY</surname></name> 		<phone>(914) 844-9243</phone>
+
+
+WILLIAM J. MOLONEY
+<address lat='41.133' lon='73.7855' majorcity='PLEASANTVILLE' state='NY'><street>210 Foshay Avenue</street> <city>Pleasantville</city>, <state abbrev='NY'>New York</state> <postalcode>10570</postalcode></address>
+<phone>(914) 844-9243</phone> - Email: <email>wmoloney210@gmail.com</email></contact>              
+
+<summary>IT SENIOR MANAGER 
+<summary>Senior-level IT manager with demonstrated success managing critical IT operations and technical projects in complex, demanding environments. Recognized leader combining strong management skills and knowledge in multiple IT areas to design and implement IT strategies that sustain fast-paced organizational growth, fulfill business objectives, and meet critical deadlines.  Consistently develop cost effective solutions that provide highly available infrastructure environments and efficient service desk activities.
+
+Core competencies include:
+
+IT Project Management	Host / Server - Systems Management	
+
+IT Infrastructure / WAN  Design &amp; Management	PC / Network Service Desk Management	
+
+Budgeting &amp; Cost Control	Data Center Operations - local and remote	
+
+Business-Driven IT Strategy Development	Procurement &amp; Contract Management	
+
+Vendor / Client Relationship Management	Staff Leadership &amp; Development</summary></summary>	
+
+
+                 
+<experience end='present' start='725739'>PROFESSIONAL EXPERIENCE
+
+<job end='present' id='1' pos='1' sic='8099' sic2='80' start='733044'><employer>COMPUTER SCIENCE CORPORATION AT THE NEW YORK BLOOD CENTER</employer>	<daterange><start days='733044' iso8601='2008-01-01'>2008</start> to <end days='present' iso8601='2012-03-31'>Present</end></daterange>
+<description>NYBC - Nation's largest, community-based, non-profit, independent blood center.</description>
+
+<title>IT Service Executive</title> 
+
+<description>Manage technical operations staff of 18 employees, including Server staff, Desktop / LAN staff, Network staff - data and VOIP communications. Managed local and remote IT staffs, and coordinated efforts with remote centralized helpdesk. Adhere to ITIL service standards in attaining documented SLA's and KPI's. Management of multiple datacenters with a virtual Wintel environment, backend SANS and IBM / HP host systems.</description>
+Senior Level Information Technology professional with experience in Infrastructure Management, Project Support, and Operations Management.    
+<description>Strong written and verbal communications, time management, organization and departmental operational skills.
+Provide vendor contract management and vendor selection.
+Control spending and provide budget planning and forecasting for a $2M budget.
+Provide coaching and mentoring to support staffs along with personal development planning.
+Review strategic goals and initiatives with staff and promote teambuilding.
+Manage multiple datacenters with over 200 servers including a large Exchange, VMware and Citrix environment.
+Strengths include incident and service request management. 
+Ensure the IT infrastructure is current with systems standards and the IT organization provides appropriate service to internal customers.
+Manage Desktop staff with a 1500+ user base, a combination of PC's and virtual desktop devices.
+Manage support staff in a Cisco based Network environment and MPLS WAN.</description></job> 
+ 
+
+
+
+
+<job end='733044' id='2' pos='2' sic='5169' sic2='51' start='725739'><employer>EMD CHEMICALS, INC</employer>. - <address><city>Hawthorne</city>, <state abbrev='NY'>New York</state></address> 	<daterange><start days='725739' iso8601='1988-01-01'>1988</start> to <end days='733044' iso8601='2008-01-01'>2008</end></daterange> 
+<description>Specialty chemical company and wholly-owned subsidiary of Merck KGaA, a global pharmaceutical and chemical company with 35,000 employees and $7 billion in annual sales. 
+
+North American - IT Director Technical Services / Infrastructure 
+Managed technical services and the corporate infrastructure for all sites in North America. Manage a staff of 17 technical employees. Support for 200+ Windows servers, multiple IBM iSeries systems, and 2000+ clients. Management of local and multiple site applications support including Regional Service Center for harmonized infrastructure services, including Notes Mail, SMTP mail, anti-virus, anti-spam, applications load balancing, service desk, global ADS, security services, SAP and desktop management. Managed a $3.0 million capital and operating budget for local and regional support centers, Manage disaster recovery solutions for multiple server and host systems. 
+
+Managed consolidation project of common infrastructure services for multiple North American data centers to an off-site hosting center, resulting in a savings of $800,000,00 yearly in personnel, equipment and software costs. Services included in this strategic solution were Internet access, Anti-virus/spam, VPN, firewall, proxy, SUS, Landesk, Websense, and web servers.  
+Recruited by the Global Client Management team to assist in the development of a worldwide strategy for client hardware and software standards and contracts - resulting in a savings of $1M annually.
+Managed the implementation of a host system disaster recovery solution for North America that also included, server business continuity, replication of critical platforms to a remote hosting center and regular testing of switchover procedures. 
+Key member of International Traffic Management IT team responsible for recommending alternatives to the corporate Frame / MPLS environment. This included a managed, tunneled VPN to VPN solution via broadband connections resulting in a cost savings of $500,000+.
+Managed North American migration from Novell NDS to ADS, integrated into a global ADS domain.
+Headed up technical team for migration from ISeries host systems to SAP/R3.
+Worked as part of an International IT Audit team to implement a corporate strategy for technical and security standards, company-wide IT policies, and standard operating procedures for all Merck KgaA companies worldwide.</description></job></experience> 
+
+
+
+
+
+
+<education>Education
+
+<school id='3'><institution>Cardinal Hayes High School</institution> - <address><city>Bronx</city>, <state abbrev='NY'>NY</state></address>
+<courses>Technical education courses - MS Certifications
+AMA management courses 
+ITIL Core Certification
+
+
+
+
+
+
+
+
+
+
+Continued.</courses></school></education>  
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='733044' experience='1' expidrefs='2' idrefs='2' lastused='2008' name='advertising' start='725739'>
+    <variant>ADS</variant>
+  </canonskill>
+  <canonskill end='733044' experience='1' expidrefs='2' idrefs='2' lastused='2008' name='anti virus' start='725739'>
+    <variant>Anti-virus</variant>
+    <variant>anti-virus</variant>
+  </canonskill>
+  <canonskill end='733044' experience='1' expidrefs='2' idrefs='2' lastused='2008' name='broadband' start='725739'>
+    <variant>broadband</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='budget planning' start='733044'>
+    <variant>budget planning</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='budgeting' start='725739'>
+    <variant>budget</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='cisco' start='733044'>
+    <variant>Cisco</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='citrix' start='733044'>
+    <variant>Citrix</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='coaching' start='733044'>
+    <variant>coaching</variant>
+  </canonskill>
+  <canonskill end='733044' experience='1' expidrefs='2' idrefs='2' lastused='2008' name='computer hardware' start='725739'>
+    <variant>hardware</variant>
+  </canonskill>
+  <canonskill end='733044' experience='1' expidrefs='2' idrefs='2' lastused='2008' name='contact management' start='725739'>
+    <variant>Client Management</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='contract management' start='725739'>
+    <variant>contract management</variant>
+    <variant>contracts</variant>
+  </canonskill>
+  <canonskill end='733044' experience='1' expidrefs='2' idrefs='2' lastused='2008' name='customer relations' start='725739'>
+    <variant>client</variant>
+    <variant>clients</variant>
+  </canonskill>
+  <canonskill end='733044' experience='1' expidrefs='2' idrefs='2' lastused='2008' name='disaster recovery planning' start='725739'>
+    <variant>disaster recovery</variant>
+  </canonskill>
+  <canonskill end='733044' experience='1' expidrefs='2' idrefs='2' lastused='2008' name='firewalls' start='725739'>
+    <variant>firewall</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='forecasting' start='733044'>
+    <variant>forecasting</variant>
+  </canonskill>
+  <canonskill end='733044' experience='1' expidrefs='2' idrefs='2' lastused='2008' name='framing' start='725739'>
+    <variant>Frame</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='hewlett packard' start='733044'>
+    <variant>HP</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='ibm' start='725739'>
+    <variant>IBM</variant>
+  </canonskill>
+  <canonskill end='733044' experience='1' expidrefs='2' idrefs='2' lastused='2008' name='internet software' start='725739'>
+    <variant>Internet access</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='3' end='734579' experience='1' expidrefs='1' idrefs='1,3' lastused='2012' name='itil' start='733044'>
+    <variant>ITIL</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='lan' start='733044'>
+    <variant>LAN</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='leadership' start='733044'>
+    <variant>teambuilding</variant>
+  </canonskill>
+  <canonskill end='733044' experience='1' expidrefs='2' idrefs='2' lastused='2008' name='lotus notes' start='725739'>
+    <variant>Notes</variant>
+  </canonskill>
+  <canonskill end='733044' experience='1' expidrefs='2' idrefs='2' lastused='2008' name='macromedia director' start='725739'>
+    <variant>Director</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='mentoring' start='733044'>
+    <variant>mentoring</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='microsoft exchange' start='733044'>
+    <variant>Exchange</variant>
+  </canonskill>
+  <canonskill end='733044' experience='1' expidrefs='2' idrefs='2' lastused='2008' name='microsoft mail' start='725739'>
+    <variant>Mail</variant>
+    <variant>mail</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='microsoft windows' start='725739'>
+    <variant>Wintel</variant>
+    <variant>Windows</variant>
+  </canonskill>
+  <canonskill end='733044' experience='1' expidrefs='2' idrefs='2' lastused='2008' name='microsoft windows 2000' start='725739'>
+    <variant>2000</variant>
+  </canonskill>
+  <canonskill end='733044' experience='1' expidrefs='2' idrefs='2' lastused='2008' name='migration' start='725739'>
+    <variant>migration</variant>
+  </canonskill>
+  <canonskill end='733044' experience='1' expidrefs='2' idrefs='2' lastused='2008' name='netware directory service' start='725739'>
+    <variant>NDS</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='networking' start='733044'>
+    <variant>Network</variant>
+  </canonskill>
+  <canonskill end='733044' experience='1' expidrefs='2' idrefs='2' lastused='2008' name='novell' start='725739'>
+    <variant>Novell</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='pc' start='733044'>
+    <variant>PC's</variant>
+  </canonskill>
+  <canonskill end='733044' experience='1' expidrefs='2' idrefs='2' lastused='2008' name='personnel' start='725739'>
+    <variant>personnel</variant>
+  </canonskill>
+  <canonskill end='733044' experience='1' expidrefs='2' idrefs='2' lastused='2008' name='policy analysis' start='725739'>
+    <variant>policies</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='profit' start='733044'>
+    <variant>profit</variant>
+  </canonskill>
+  <canonskill end='733044' experience='1' expidrefs='2' idrefs='2' lastused='2008' name='proxy server' start='725739'>
+    <variant>proxy</variant>
+  </canonskill>
+  <canonskill end='733044' experience='1' expidrefs='2' idrefs='2' lastused='2008' name='sales' start='725739'>
+    <variant>sales</variant>
+  </canonskill>
+  <canonskill end='733044' experience='1' expidrefs='2' idrefs='2' lastused='2008' name='sap' start='725739'>
+    <variant>SAP</variant>
+  </canonskill>
+  <canonskill end='733044' experience='1' expidrefs='2' idrefs='2' lastused='2008' name='sap r3' start='725739'>
+    <variant>SAP/R3</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='servers' start='725739'>
+    <variant>servers</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='sla' start='733044'>
+    <variant>SLA</variant>
+  </canonskill>
+  <canonskill end='733044' experience='1' expidrefs='2' idrefs='2' lastused='2008' name='smtp' start='725739'>
+    <variant>SMTP</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='strategic' start='725739'>
+    <variant>strategy</variant>
+    <variant>strategic</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='time management' start='733044'>
+    <variant>time management</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='voip' start='733044'>
+    <variant>VOIP</variant>
+  </canonskill>
+  <canonskill end='733044' experience='1' expidrefs='2' idrefs='2' lastused='2008' name='vpn' start='725739'>
+    <variant>VPN</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='wan' start='733044'>
+    <variant>WAN</variant>
+  </canonskill>
+  <canonskill end='733044' experience='1' expidrefs='2' idrefs='2' lastused='2008' name='web servers' start='725739'>
+    <variant>web servers</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='writing' start='733044'>
+    <variant>written</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

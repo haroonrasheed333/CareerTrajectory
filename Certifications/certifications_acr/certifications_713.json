@@ -1,0 +1,54 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Two Stroke Engine Certification Test", 
+            "Type": "Specialty", 
+            "Certification ID": "8191", 
+            "Certifying Organization": "Equipment & Engine Training Council"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Electrical Technician Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "8192", 
+            "Certifying Organization": "Equipment & Engine Training Council"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Driveline/Hydro Technician Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "8195", 
+            "Certifying Organization": "Equipment & Engine Training Council"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Compact Diesel Technician Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "8193", 
+            "Certifying Organization": "Equipment & Engine Training Council"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Four Stroke Engine Certification Test", 
+            "Type": "Specialty", 
+            "Certification ID": "8190", 
+            "Certifying Organization": "Equipment & Engine Training Council"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Generator Technician Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "8194", 
+            "Certifying Organization": "Equipment & Engine Training Council"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Reel Technology Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "8196", 
+            "Certifying Organization": "Equipment & Engine Training Council"
+        }
+    ], 
+    "onet": "49305300"
+}

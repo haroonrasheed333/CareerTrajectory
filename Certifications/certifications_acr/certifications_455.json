@@ -1,0 +1,40 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "ABO-NCLE,", 
+            "Certification Name": "The National Opticianry Competency Certification", 
+            "Type": "Core", 
+            "Certification ID": "3631", 
+            "Certifying Organization": "American Board of Opticianry  and the National Contact Lens Examiners"
+        }, 
+        {
+            "Acronym": "ABOC-AC", 
+            "Certification Name": "American Board of Opticianry Advanced Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "3633", 
+            "Certifying Organization": "American Board of Opticianry  and the National Contact Lens Examiners"
+        }, 
+        {
+            "Acronym": "ACMO", 
+            "Certification Name": "Advanced Competency in Medical Optometry", 
+            "Type": "Advanced", 
+            "Certification ID": "8679", 
+            "Certifying Organization": "National Board of Examiners in Optometry"
+        }, 
+        {
+            "Acronym": "NCLE-AC", 
+            "Certification Name": "National Contact Lens Examiners Advanced Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "3634", 
+            "Certifying Organization": "American Board of Opticianry  and the National Contact Lens Examiners"
+        }, 
+        {
+            "Acronym": "CLRE", 
+            "Certification Name": "Contact Lens Registry Certification", 
+            "Type": "Core", 
+            "Certification ID": "3632", 
+            "Certifying Organization": "American Board of Opticianry  and the National Contact Lens Examiners"
+        }
+    ], 
+    "onet": "29208100"
+}

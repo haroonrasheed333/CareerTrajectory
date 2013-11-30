@@ -1,0 +1,1104 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Medical-Surgical Nursing", 
+            "Type": "Specialty", 
+            "Certification ID": "6128", 
+            "Certifying Organization": "American Nurses Credentialing Center"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Pediatric Nursing", 
+            "Type": "Specialty", 
+            "Certification ID": "6132", 
+            "Certifying Organization": "American Nurses Credentialing Center"
+        }, 
+        {
+            "Acronym": "APNG", 
+            "Certification Name": "Advanced Practice Nurse in Genetics", 
+            "Type": "Advanced", 
+            "Certification ID": "2440", 
+            "Certifying Organization": "International Society of Nurses in Genetics"
+        }, 
+        {
+            "Acronym": "SD-CLTC", 
+            "Certification Name": "Staff Development Specialist in Long Term Care Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "6500", 
+            "Certifying Organization": "American Association of Long Term Care Nursing"
+        }, 
+        {
+            "Acronym": "CSPI", 
+            "Certification Name": "Certification for Specialists in Poison Information", 
+            "Type": "Specialty", 
+            "Certification ID": "7450", 
+            "Certifying Organization": "American Association of Poison Control Centers"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Weight Management Specialist Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "9106", 
+            "Certifying Organization": "American Council on Exercise"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Senior Fitness Specialty Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "9113", 
+            "Certifying Organization": "American Council on Exercise"
+        }, 
+        {
+            "Acronym": "CNL", 
+            "Certification Name": "Clinical Nurse Leader", 
+            "Type": "Core", 
+            "Certification ID": "5906", 
+            "Certifying Organization": "American Association of Colleges of Nursing."
+        }, 
+        {
+            "Acronym": "CCTN", 
+            "Certification Name": "Certified Clinical Transplant Nurse", 
+            "Type": "Specialty", 
+            "Certification ID": "7318", 
+            "Certifying Organization": "American Board for Transplant Certification"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Occupational Health Nurse - Safety Management", 
+            "Type": "Specialty", 
+            "Certification ID": "2622", 
+            "Certifying Organization": "American Board for Occupational Health Nurses"
+        }, 
+        {
+            "Acronym": "AOCNP", 
+            "Certification Name": "Certificate of Added Qualification in Radiation Oncology Nursing", 
+            "Type": "Specialty", 
+            "Certification ID": "2312", 
+            "Certifying Organization": "Oncology Nursing Certification Corporation"
+        }, 
+        {
+            "Acronym": "CCCN", 
+            "Certification Name": "Certified Continence Care Nurse", 
+            "Type": "Specialty", 
+            "Certification ID": "2428", 
+            "Certifying Organization": "Wound Ostomy Continence Nursing Certification Board"
+        }, 
+        {
+            "Acronym": "COCN", 
+            "Certification Name": "Certified Ostomy Care Nurse", 
+            "Type": "Specialty", 
+            "Certification ID": "2429", 
+            "Certifying Organization": "Wound Ostomy Continence Nursing Certification Board"
+        }, 
+        {
+            "Acronym": "DNC", 
+            "Certification Name": "Dermatology Nurse Certified", 
+            "Type": "Specialty", 
+            "Certification ID": "6484", 
+            "Certifying Organization": "Dermatology Nurses' Association"
+        }, 
+        {
+            "Acronym": "CENP", 
+            "Certification Name": "Certified in Executive Nursing Practice", 
+            "Type": "Advanced", 
+            "Certification ID": "8941", 
+            "Certifying Organization": "American Organization of Nurse Executives Credentialing Center"
+        }, 
+        {
+            "Acronym": "CARN-AP", 
+            "Certification Name": "Certified Addictions Registered Nurse - Advanced Practice", 
+            "Type": "Advanced", 
+            "Certification ID": "2446", 
+            "Certifying Organization": "International Nurses Society on Addictions"
+        }, 
+        {
+            "Acronym": "CNN-NP", 
+            "Certification Name": "Certified Nephrology Nurse - Nurse Practitioner", 
+            "Type": "Specialty", 
+            "Certification ID": "6095", 
+            "Certifying Organization": "Nephrology Nursing Certification Commission"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Clinical Nurse Specialist in Adult Psychiatric & Mental Health", 
+            "Type": "Specialty", 
+            "Certification ID": "6117", 
+            "Certifying Organization": "American Nurses Credentialing Center"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Nurse Executive", 
+            "Type": "Specialty", 
+            "Certification ID": "6129", 
+            "Certifying Organization": "American Nurses Credentialing Center"
+        }, 
+        {
+            "Acronym": "CHPCA", 
+            "Certification Name": "Certified Hospice and Palliative Care Administrator", 
+            "Type": "Specialty", 
+            "Certification ID": "6710", 
+            "Certifying Organization": "National Board for Certification of Hospice and Palliative Nurses"
+        }, 
+        {
+            "Acronym": "C", 
+            "Certification Name": "Certificate of Added Qualifications: Electronic Fetal Monitoring", 
+            "Type": "Specialty", 
+            "Certification ID": "0077", 
+            "Certifying Organization": "The National Certification Corporation"
+        }, 
+        {
+            "Acronym": "MES", 
+            "Certification Name": "Medical Exercise Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "1058", 
+            "Certifying Organization": "American Academy of Health, Fitness, & Rehabilitation Professionals"
+        }, 
+        {
+            "Acronym": "CPN", 
+            "Certification Name": "Certified Pediatric Nurse", 
+            "Type": "Specialty", 
+            "Certification ID": "0899", 
+            "Certifying Organization": "Pediatric Nursing Certification Board"
+        }, 
+        {
+            "Acronym": "CUNP", 
+            "Certification Name": "Certified Urologic Nurse Practitioner", 
+            "Type": "Specialty", 
+            "Certification ID": "2377", 
+            "Certifying Organization": "Certification Board for Urologic Nurses and Associates"
+        }, 
+        {
+            "Acronym": "CPHON", 
+            "Certification Name": "Certified Pediatric Hematology Oncology Nurse", 
+            "Type": "Specialty", 
+            "Certification ID": "6473", 
+            "Certifying Organization": "Oncology Nursing Certification Corporation"
+        }, 
+        {
+            "Acronym": "RN-CLTC", 
+            "Certification Name": "RN in Long Term Care Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "6502", 
+            "Certifying Organization": "American Association of Long Term Care Nursing"
+        }, 
+        {
+            "Acronym": "CFRN", 
+            "Certification Name": "Certified Flight Registered Nurse", 
+            "Type": "Specialty", 
+            "Certification ID": "2233", 
+            "Certifying Organization": "Board of Certification for Emergency Nursing"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Acute Care Nurse Practitioner", 
+            "Type": "Core", 
+            "Certification ID": "0498", 
+            "Certifying Organization": "American Nurses Credentialing Center"
+        }, 
+        {
+            "Acronym": "CCRN-E", 
+            "Certification Name": "Tele-ICU Acute/Critical Care Nursing (Adult)", 
+            "Type": "Specialty", 
+            "Certification ID": "6940", 
+            "Certifying Organization": "American Association of Critical-Care Nurses "
+        }, 
+        {
+            "Acronym": "ONC", 
+            "Certification Name": "Orthopaedic Nurse Certified", 
+            "Type": "Specialty", 
+            "Certification ID": "2237", 
+            "Certifying Organization": "National Association of Orthopaedic Nurses"
+        }, 
+        {
+            "Acronym": "OCN", 
+            "Certification Name": "Oncology Certified Nurse", 
+            "Type": "Specialty", 
+            "Certification ID": "2313", 
+            "Certifying Organization": "Oncology Nursing Certification Corporation"
+        }, 
+        {
+            "Acronym": "ACNPC", 
+            "Certification Name": "Acute Care Nurse Practitioner (Adult)", 
+            "Type": "Core", 
+            "Certification ID": "5694", 
+            "Certifying Organization": "American Association of Critical-Care Nurses "
+        }, 
+        {
+            "Acronym": "VA-BC", 
+            "Certification Name": "Vascular Access-Board Certified", 
+            "Type": "Core", 
+            "Certification ID": "9533", 
+            "Certifying Organization": "Vascular Access Certification Corporation"
+        }, 
+        {
+            "Acronym": "CWS", 
+            "Certification Name": "Certified Wound Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "5904", 
+            "Certifying Organization": "American Board of Wound Management"
+        }, 
+        {
+            "Acronym": "CBN", 
+            "Certification Name": "Certified Bariatric Nurse", 
+            "Type": "Specialty", 
+            "Certification ID": "5971", 
+            "Certifying Organization": "American Society for Metabolic and Bariatric Surgery"
+        }, 
+        {
+            "Acronym": "CMSRN", 
+            "Certification Name": "Certified Medical-Surgical Registered Nurse", 
+            "Type": "Specialty", 
+            "Certification ID": "6049", 
+            "Certifying Organization": "Academy of Medical-Surgical Nurses"
+        }, 
+        {
+            "Acronym": "CDN", 
+            "Certification Name": "Certified Dialysis Nurse", 
+            "Type": "Specialty", 
+            "Certification ID": "6096", 
+            "Certifying Organization": "Nephrology Nursing Certification Commission"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Pediatric Nurse Practitioner", 
+            "Type": "Specialty", 
+            "Certification ID": "6115", 
+            "Certifying Organization": "American Nurses Credentialing Center"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Clinical Nurse Specialist in Child/Adolescent Psychiatric & Mental Health", 
+            "Type": "Specialty", 
+            "Certification ID": "6118", 
+            "Certifying Organization": "American Nurses Credentialing Center"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Pain Management Nursing", 
+            "Type": "Specialty", 
+            "Certification ID": "6131", 
+            "Certifying Organization": "American Nurses Credentialing Center"
+        }, 
+        {
+            "Acronym": "RNC-MNN", 
+            "Certification Name": "Maternal Newborn Nursing", 
+            "Type": "Specialty", 
+            "Certification ID": "0076", 
+            "Certifying Organization": "The National Certification Corporation"
+        }, 
+        {
+            "Acronym": "SANE", 
+            "Certification Name": "Sexual Assault Nurse Examiner - Adult/Adolescent", 
+            "Type": "Specialty", 
+            "Certification ID": "6853", 
+            "Certifying Organization": "Forensic Nursing Certification Board"
+        }, 
+        {
+            "Acronym": "CHPPN", 
+            "Certification Name": "Certified Hospice and Palliative Pediatric Nurse", 
+            "Type": "Specialty", 
+            "Certification ID": "6707", 
+            "Certifying Organization": "National Board for Certification of Hospice and Palliative Nurses"
+        }, 
+        {
+            "Acronym": "CURN", 
+            "Certification Name": "Certified Urologic Registered Nurse", 
+            "Type": "Specialty", 
+            "Certification ID": "2376", 
+            "Certifying Organization": "Certification Board for Urologic Nurses and Associates"
+        }, 
+        {
+            "Acronym": "CHRNC", 
+            "Certification Name": "Certified Hyperbaric Registered Nurse Clinician", 
+            "Type": "Specialty", 
+            "Certification ID": "6495", 
+            "Certifying Organization": "National Board of Diving and Hyperbaric Medical Technology"
+        }, 
+        {
+            "Acronym": "CCNC-C", 
+            "Certification Name": "Culture Change Nurse Coordinator Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "6499", 
+            "Certifying Organization": "American Association of Long Term Care Nursing"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Assisted Living Nurse Specialty Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "6929", 
+            "Certifying Organization": "American Assisted Living Nurses Association"
+        }, 
+        {
+            "Acronym": "CIC", 
+            "Certification Name": "Infection Control Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "2290", 
+            "Certifying Organization": "Certification Board of Infection Control and Epidemiology, Inc."
+        }, 
+        {
+            "Acronym": "CWOCN", 
+            "Certification Name": "Certified Wound, Ostomy and Continence Nurse", 
+            "Type": "Specialty", 
+            "Certification ID": "2431", 
+            "Certifying Organization": "Wound Ostomy Continence Nursing Certification Board"
+        }, 
+        {
+            "Acronym": "CARN", 
+            "Certification Name": "Certified Addictions Registered Nurse", 
+            "Type": "Specialty", 
+            "Certification ID": "2445", 
+            "Certifying Organization": "International Nurses Society on Addictions"
+        }, 
+        {
+            "Acronym": "PCCN", 
+            "Certification Name": "Progressive Care Nursing (Adult)", 
+            "Type": "Specialty", 
+            "Certification ID": "3626", 
+            "Certifying Organization": "American Association of Critical-Care Nurses "
+        }, 
+        {
+            "Acronym": "CNSC", 
+            "Certification Name": "Certified Nutrition Support Clinician", 
+            "Type": "Advanced", 
+            "Certification ID": "2437", 
+            "Certifying Organization": "National Board of Nutrition Support Certification, Inc."
+        }, 
+        {
+            "Acronym": "CAC", 
+            "Certification Name": "Certified Alzheimer Caregiver", 
+            "Type": "Specialty", 
+            "Certification ID": "8681", 
+            "Certifying Organization": "National Certification Board for Alzheimer Care"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Family Nurse Practitioner", 
+            "Type": "Specialty", 
+            "Certification ID": "6112", 
+            "Certifying Organization": "American Nurses Credentialing Center"
+        }, 
+        {
+            "Acronym": "CRN", 
+            "Certification Name": "Certified Radiology Nurse", 
+            "Type": "Specialty", 
+            "Certification ID": "6468", 
+            "Certifying Organization": "Radiologic Nursing Certification Board"
+        }, 
+        {
+            "Acronym": "GDCN", 
+            "Certification Name": "Geriatric Diabetic Certified Nurse", 
+            "Type": "Specialty", 
+            "Certification ID": "9146", 
+            "Certifying Organization": "National Association of Directors of Nursing Administration in Long Term Care"
+        }, 
+        {
+            "Acronym": "CCN/M", 
+            "Certification Name": "Certified Corrections Nurse Manager", 
+            "Type": "Specialty", 
+            "Certification ID": "5293", 
+            "Certifying Organization": "American Correctional Association"
+        }, 
+        {
+            "Acronym": "CPEN", 
+            "Certification Name": "Certified Pediatric Emergency Nurse", 
+            "Type": "Specialty", 
+            "Certification ID": "5890", 
+            "Certifying Organization": "Pediatric Nursing Certification Board"
+        }, 
+        {
+            "Acronym": "RCES", 
+            "Certification Name": "Registered Cardiac Electrophysiology Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "5913", 
+            "Certifying Organization": "Cardiovascular Credentialing International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Clinical Nurse Specialist in Gerontology", 
+            "Type": "Specialty", 
+            "Certification ID": "6119", 
+            "Certifying Organization": "American Nurses Credentialing Center"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Nursing Professional Development", 
+            "Type": "Specialty", 
+            "Certification ID": "6130", 
+            "Certifying Organization": "American Nurses Credentialing Center"
+        }, 
+        {
+            "Acronym": "ACM", 
+            "Certification Name": "Accredited Case Manager", 
+            "Type": "Specialty", 
+            "Certification ID": "6955", 
+            "Certifying Organization": "American Case Management Association"
+        }, 
+        {
+            "Acronym": "BCN", 
+            "Certification Name": "Board Certified in Neurofeedback", 
+            "Type": "Specialty", 
+            "Certification ID": "6711", 
+            "Certifying Organization": "Biofeedback Certification International Alliance"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Technician Certification in Biofeedback", 
+            "Type": "Specialty", 
+            "Certification ID": "6716", 
+            "Certifying Organization": "Biofeedback Certification International Alliance"
+        }, 
+        {
+            "Acronym": "CMCN", 
+            "Certification Name": "Certified Managed Care Nurse", 
+            "Type": "Specialty", 
+            "Certification ID": "6755", 
+            "Certifying Organization": "American Board of Managed Care Nursing"
+        }, 
+        {
+            "Acronym": "CAPA", 
+            "Certification Name": "Certified Ambulatory Perianesthesia Nurse", 
+            "Type": "Specialty", 
+            "Certification ID": "6201", 
+            "Certifying Organization": "American Board of Perianesthesia Nursing Certification, Inc."
+        }, 
+        {
+            "Acronym": "CPAN", 
+            "Certification Name": "Certified Post Anesthesia Nurse", 
+            "Type": "Specialty", 
+            "Certification ID": "6200", 
+            "Certifying Organization": "American Board of Perianesthesia Nursing Certification, Inc."
+        }, 
+        {
+            "Acronym": "CRNFA", 
+            "Certification Name": "Certified Registered Nurse First Assistant", 
+            "Type": "Core", 
+            "Certification ID": "0661", 
+            "Certifying Organization": "Competency and Credentialing Institute"
+        }, 
+        {
+            "Acronym": "COHN-CM", 
+            "Certification Name": "Certified Occupational Health Nurse - Case Management", 
+            "Type": "Specialty", 
+            "Certification ID": "2152", 
+            "Certifying Organization": "American Board for Occupational Health Nurses"
+        }, 
+        {
+            "Acronym": "CWCN", 
+            "Certification Name": "Certified Wound Care Nurse", 
+            "Type": "Specialty", 
+            "Certification ID": "2430", 
+            "Certifying Organization": "Wound Ostomy Continence Nursing Certification Board"
+        }, 
+        {
+            "Acronym": "CDDN", 
+            "Certification Name": "Certified Developmental Disabilities Nurse", 
+            "Type": "Specialty", 
+            "Certification ID": "2439", 
+            "Certifying Organization": "Developmental Disabilities Nurses Association"
+        }, 
+        {
+            "Acronym": "CALN", 
+            "Certification Name": "Certification in Assisted Living Nursing", 
+            "Type": "Specialty", 
+            "Certification ID": "9145", 
+            "Certifying Organization": "National Association of Directors of Nursing Administration in Long Term Care"
+        }, 
+        {
+            "Acronym": "CEDSN", 
+            "Certification Name": "Certified Eating Disorders Specialist in Nutrition", 
+            "Type": "Specialty", 
+            "Certification ID": "2682", 
+            "Certifying Organization": "International Association of Eating Disorders Professionals"
+        }, 
+        {
+            "Acronym": "C-NPT", 
+            "Certification Name": "Certificate of Added Qualification in Neonatal Pediatric Transport", 
+            "Type": "Specialty", 
+            "Certification ID": "1194", 
+            "Certifying Organization": "The National Certification Corporation"
+        }, 
+        {
+            "Acronym": "CFCN", 
+            "Certification Name": "Certified Foot Care Nurse", 
+            "Type": "Specialty", 
+            "Certification ID": "4936", 
+            "Certifying Organization": "Wound Ostomy Continence Nursing Certification Board"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Post Rehab Conditioning Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "5097", 
+            "Certifying Organization": "American Academy of Health, Fitness, & Rehabilitation Professionals"
+        }, 
+        {
+            "Acronym": "CMAS", 
+            "Certification Name": "Certified Medical Audit Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "5910", 
+            "Certifying Organization": "American Association of Medical Audit Specialists"
+        }, 
+        {
+            "Acronym": "CTP", 
+            "Certification Name": "Certified Transplant Preservationist", 
+            "Type": "Specialty", 
+            "Certification ID": "5946", 
+            "Certifying Organization": "Organization for Transplant Professionals"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Clinical Nurse Specialist in Pediatrics", 
+            "Type": "Specialty", 
+            "Certification ID": "6120", 
+            "Certifying Organization": "American Nurses Credentialing Center"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Ambulatory Care Nursing", 
+            "Type": "Specialty", 
+            "Certification ID": "6122", 
+            "Certifying Organization": "American Nurses Credentialing Center"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Gerontological Nursing", 
+            "Type": "Specialty", 
+            "Certification ID": "6126", 
+            "Certifying Organization": "American Nurses Credentialing Center"
+        }, 
+        {
+            "Acronym": "IBCLC", 
+            "Certification Name": "International Board Certified Lactation Consultant", 
+            "Type": "Specialty", 
+            "Certification ID": "1193", 
+            "Certifying Organization": "International Board of Lactation Consultant Examiners"
+        }, 
+        {
+            "Acronym": "ONC", 
+            "Certification Name": "Orthopaedic Nurse - Certified", 
+            "Type": "Specialty", 
+            "Certification ID": "7862", 
+            "Certifying Organization": "Orthopaedic Nurses Certification Board"
+        }, 
+        {
+            "Acronym": "CMSRN", 
+            "Certification Name": "Certified Medical-Surgical Registered Nurse", 
+            "Type": "Specialty", 
+            "Certification ID": "9469", 
+            "Certifying Organization": "Medical Surgical Nursing Certification Board"
+        }, 
+        {
+            "Acronym": "MSCS", 
+            "Certification Name": "Multiple Sclerosis Certified Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "6875", 
+            "Certifying Organization": "The Consortium of Multiple Sclerosis Centers"
+        }, 
+        {
+            "Acronym": "PHCNS-BC", 
+            "Certification Name": "Public/Community Health Clinical Nurse Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "6730", 
+            "Certifying Organization": "American Nurses Credentialing Center"
+        }, 
+        {
+            "Acronym": "COHN", 
+            "Certification Name": "Certified Occupational Health Nurse", 
+            "Type": "Specialty", 
+            "Certification ID": "1031", 
+            "Certifying Organization": "American Board for Occupational Health Nurses"
+        }, 
+        {
+            "Acronym": "NCSN", 
+            "Certification Name": "Nationally Certified School Nurse", 
+            "Type": "Specialty", 
+            "Certification ID": "6478", 
+            "Certifying Organization": "National Board for Certification of School Nurses"
+        }, 
+        {
+            "Acronym": "CTRN", 
+            "Certification Name": "Certified Transport Registered Nurse", 
+            "Type": "Specialty", 
+            "Certification ID": "4023", 
+            "Certifying Organization": "Board of Certification for Emergency Nursing"
+        }, 
+        {
+            "Acronym": "CPEN", 
+            "Certification Name": "Certified Pediatric Emergency Nurse", 
+            "Type": "Specialty", 
+            "Certification ID": "5766", 
+            "Certifying Organization": "Board of Certification for Emergency Nursing"
+        }, 
+        {
+            "Acronym": "LCCE", 
+            "Certification Name": "Lamaze Certified Childbirth Educator", 
+            "Type": "Core", 
+            "Certification ID": "3645", 
+            "Certifying Organization": "Lamaze International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Adult Nurse Practitioner", 
+            "Type": "Core", 
+            "Certification ID": "6110", 
+            "Certifying Organization": "American Nurses Credentialing Center"
+        }, 
+        {
+            "Acronym": "CPNP-AC", 
+            "Certification Name": "Certified Pediatric Nurse Practitioner - Acute Care", 
+            "Type": "Specialty", 
+            "Certification ID": "6100", 
+            "Certifying Organization": "Pediatric Nursing Certification Board"
+        }, 
+        {
+            "Acronym": "ACCNS", 
+            "Certification Name": "Clinical Nurse Specialist; Wellness through Acute Care (Adult-Gerontology, Pediatric & Neonatal)", 
+            "Type": "Advanced", 
+            "Certification ID": "9468", 
+            "Certifying Organization": "American Association of Critical-Care Nurses "
+        }, 
+        {
+            "Acronym": "ACNPC-AG", 
+            "Certification Name": "Acute Care Nurse Practitioner (Adult-Gerontology)", 
+            "Type": "Specialty", 
+            "Certification ID": "8883", 
+            "Certifying Organization": "American Association of Critical-Care Nurses "
+        }, 
+        {
+            "Acronym": "CNRN", 
+            "Certification Name": "Certified Neuroscience Registered Nurse", 
+            "Type": "Specialty", 
+            "Certification ID": "2249", 
+            "Certifying Organization": "American Association of Neuroscience Nurses - American Board of Neuroscience Nursing"
+        }, 
+        {
+            "Acronym": "BCB", 
+            "Certification Name": "Board Certified in Biofeedback", 
+            "Type": "Specialty", 
+            "Certification ID": "2318", 
+            "Certifying Organization": "Biofeedback Certification International Alliance"
+        }, 
+        {
+            "Acronym": "ACRN", 
+            "Certification Name": "AIDS Certified Registered Nurse", 
+            "Type": "Specialty", 
+            "Certification ID": "2417", 
+            "Certifying Organization": "HIV/AIDS Nursing Certification Board"
+        }, 
+        {
+            "Acronym": "CAS", 
+            "Certification Name": "Certified Addiction Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "2443", 
+            "Certifying Organization": "American Academy of Health Care Providers in the Addictive Disorders"
+        }, 
+        {
+            "Acronym": "CORLN", 
+            "Certification Name": "Certified Nurse in Otorhinolaryngology and Head-Neck Nursing", 
+            "Type": "Specialty", 
+            "Certification ID": "2469", 
+            "Certifying Organization": "Society of Otorhinolaryngology and Head-Neck Nurses"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Registered Nurse Anesthetist", 
+            "Type": "Specialty", 
+            "Certification ID": "9531", 
+            "Certifying Organization": "National Board for Certification and Recertification for Nurse Anesthetists"
+        }, 
+        {
+            "Acronym": "CTN-A", 
+            "Certification Name": "Certified Transcultural Nursing - Advanced", 
+            "Type": "Advanced", 
+            "Certification ID": "6466", 
+            "Certifying Organization": "Transcultural Nursing Certification Commission"
+        }, 
+        {
+            "Acronym": "CNOR", 
+            "Certification Name": "CNOR Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "0660", 
+            "Certifying Organization": "Competency and Credentialing Institute"
+        }, 
+        {
+            "Acronym": "CSC", 
+            "Certification Name": "Cardiac Surgery (Adult)", 
+            "Type": "Specialty", 
+            "Certification ID": "5903", 
+            "Certifying Organization": "American Association of Critical-Care Nurses "
+        }, 
+        {
+            "Acronym": "CMC", 
+            "Certification Name": "Cardiac Medicine (Adult)", 
+            "Type": "Specialty", 
+            "Certification ID": "5693", 
+            "Certifying Organization": "American Association of Critical-Care Nurses "
+        }, 
+        {
+            "Acronym": "CBGNA,", 
+            "Certification Name": "Certified Gastroenterology Registered Nurse", 
+            "Type": "Specialty", 
+            "Certification ID": "3642", 
+            "Certifying Organization": "American Board of Certification for Gastroenterology Nurses"
+        }, 
+        {
+            "Acronym": "CHT", 
+            "Certification Name": "Certified Hyperbaric Technologist", 
+            "Type": "Specialty", 
+            "Certification ID": "5663", 
+            "Certifying Organization": "National Board of Diving and Hyperbaric Medical Technology"
+        }, 
+        {
+            "Acronym": "OCNS-C", 
+            "Certification Name": "Orthopaedic Clinical Nurse Specialist - Certified", 
+            "Type": "Specialty", 
+            "Certification ID": "6099", 
+            "Certifying Organization": "Orthopaedic Nurses Certification Board"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Case Management Nursing", 
+            "Type": "Specialty", 
+            "Certification ID": "6125", 
+            "Certifying Organization": "American Nurses Credentialing Center"
+        }, 
+        {
+            "Acronym": "CRNA", 
+            "Certification Name": "Certified Registered Nurse Anesthetist", 
+            "Type": "Advanced", 
+            "Certification ID": "6979", 
+            "Certifying Organization": "National Board on Certification and Recertification of Nurse Anesthetists"
+        }, 
+        {
+            "Acronym": "HNC", 
+            "Certification Name": "Certification in Holistic Nursing", 
+            "Type": "Specialty", 
+            "Certification ID": "2432", 
+            "Certifying Organization": "American Holistic Nurses' Certification Board"
+        }, 
+        {
+            "Acronym": "COHN-S", 
+            "Certification Name": "Certified Occupational Health Nurse - Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "1032", 
+            "Certifying Organization": "American Board for Occupational Health Nurses"
+        }, 
+        {
+            "Acronym": "CBCN", 
+            "Certification Name": "Certified Breast Care Nurse", 
+            "Type": "Specialty", 
+            "Certification ID": "6475", 
+            "Certifying Organization": "Oncology Nursing Certification Corporation"
+        }, 
+        {
+            "Acronym": "CEN", 
+            "Certification Name": "Certified Emergency Nurse", 
+            "Type": "Specialty", 
+            "Certification ID": "2234", 
+            "Certifying Organization": "Board of Certification for Emergency Nursing"
+        }, 
+        {
+            "Acronym": "CPHQ", 
+            "Certification Name": "Certified Professional in Healthcare Quality", 
+            "Type": "Core", 
+            "Certification ID": "9207", 
+            "Certifying Organization": "National Association for Healthcare Quality"
+        }, 
+        {
+            "Acronym": "CNLCP", 
+            "Certification Name": "Certified Nurse Life Care Planner", 
+            "Type": "Specialty", 
+            "Certification ID": "6883", 
+            "Certifying Organization": "Certified Nurse Life Care Planner Certification Board"
+        }, 
+        {
+            "Acronym": "CDON/LTC", 
+            "Certification Name": "Certified Director of Nursing in Long Term Care", 
+            "Type": "Specialty", 
+            "Certification ID": "9138", 
+            "Certifying Organization": "National Association of Directors of Nursing Administration in Long Term Care"
+        }, 
+        {
+            "Acronym": "CNN", 
+            "Certification Name": "Certified Nephrology Nurse", 
+            "Type": "Specialty", 
+            "Certification ID": "2413", 
+            "Certifying Organization": "Nephrology Nursing Certification Commission"
+        }, 
+        {
+            "Acronym": "CCN", 
+            "Certification Name": "Certified Corrections Nurse", 
+            "Type": "Specialty", 
+            "Certification ID": "5292", 
+            "Certifying Organization": "American Correctional Association"
+        }, 
+        {
+            "Acronym": "CRNI", 
+            "Certification Name": "Certified Registered Nurse Infusion", 
+            "Type": "Specialty", 
+            "Certification ID": "5695", 
+            "Certifying Organization": "Infusion Nurses Certification Corporation"
+        }, 
+        {
+            "Acronym": "CCTN", 
+            "Certification Name": "Certified Clinical Transplant Nurse", 
+            "Type": "Specialty", 
+            "Certification ID": "5945", 
+            "Certifying Organization": "Organization for Transplant Professionals"
+        }, 
+        {
+            "Acronym": "CRRN", 
+            "Certification Name": "Certified Rehabilitation Registered Nurse", 
+            "Type": "Specialty", 
+            "Certification ID": "2235", 
+            "Certifying Organization": "Association of Rehabilitation Nurses"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification for Foreign Nurses", 
+            "Type": "Specialty", 
+            "Certification ID": "6004", 
+            "Certifying Organization": "Commission on Graduates of Foreign Nursing Schools"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Sex Therapist Supervisor Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "7850", 
+            "Certifying Organization": "American Association of Sexuality Educators, Counselors and Therapists"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Technician Certification in Neurofeedback", 
+            "Type": "Specialty", 
+            "Certification ID": "6715", 
+            "Certifying Organization": "Biofeedback Certification International Alliance"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Advanced Public Health Nursing", 
+            "Type": "Specialty", 
+            "Certification ID": "0496", 
+            "Certifying Organization": "American Nurses Credentialing Center"
+        }, 
+        {
+            "Acronym": "CHN", 
+            "Certification Name": "Certified Hemodialysis Nurse", 
+            "Type": "Specialty", 
+            "Certification ID": "9504", 
+            "Certifying Organization": "Board of Nephrology Examiners Technology Nursing"
+        }, 
+        {
+            "Acronym": "CPDN", 
+            "Certification Name": "Certified Peritoneal Dialysis Nurse", 
+            "Type": "Specialty", 
+            "Certification ID": "9505", 
+            "Certifying Organization": "Board of Nephrology Examiners Technology Nursing"
+        }, 
+        {
+            "Acronym": "CCNS", 
+            "Certification Name": "Acute Care Clinical Nurse Specialist (Adult, Neonatal & Pediatric)", 
+            "Type": "Specialty", 
+            "Certification ID": "3865", 
+            "Certifying Organization": "American Association of Critical-Care Nurses "
+        }, 
+        {
+            "Acronym": "CCRN", 
+            "Certification Name": "Acute/Critical Care Nursing (Adult, Neonatal & Pediatric)", 
+            "Type": "Specialty", 
+            "Certification ID": "2239", 
+            "Certifying Organization": "American Association of Critical-Care Nurses "
+        }, 
+        {
+            "Acronym": "CPNP", 
+            "Certification Name": "Certified Pediatric Nurse Practitioner - Primary Care", 
+            "Type": "Core", 
+            "Certification ID": "0898", 
+            "Certifying Organization": "Pediatric Nursing Certification Board"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Psychiatric - Mental Health Nursing", 
+            "Type": "Core", 
+            "Certification ID": "6133", 
+            "Certifying Organization": "American Nurses Credentialing Center"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Nurse Executive, Advanced", 
+            "Type": "Advanced", 
+            "Certification ID": "6121", 
+            "Certifying Organization": "American Nurses Credentialing Center"
+        }, 
+        {
+            "Acronym": "AACRN", 
+            "Certification Name": "Advanced AIDS Certified Registered Nurse", 
+            "Type": "Advanced", 
+            "Certification ID": "6859", 
+            "Certifying Organization": "HIV/AIDS Nursing Certification Board"
+        }, 
+        {
+            "Acronym": "WCC", 
+            "Certification Name": "Wound Care Certifed", 
+            "Type": "Specialty", 
+            "Certification ID": "6051", 
+            "Certifying Organization": "National Alliance of Wound Care"
+        }, 
+        {
+            "Acronym": "RNC-", 
+            "Certification Name": "Low Risk Neonatal Nursing", 
+            "Type": "Specialty", 
+            "Certification ID": "0075", 
+            "Certifying Organization": "The National Certification Corporation"
+        }, 
+        {
+            "Acronym": "CWWS", 
+            "Certification Name": "Certified Worksite Wellness Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "9132", 
+            "Certifying Organization": "National Wellness Institute"
+        }, 
+        {
+            "Acronym": "SANE - P", 
+            "Certification Name": "Sexual Assault Nurse Examiner - Pediatric", 
+            "Type": "Specialty", 
+            "Certification ID": "6854", 
+            "Certifying Organization": "Forensic Nursing Certification Board"
+        }, 
+        {
+            "Acronym": "PMHS", 
+            "Certification Name": "Child & Adolescent Behavioral & Mental Health", 
+            "Type": "Specialty", 
+            "Certification ID": "6886", 
+            "Certifying Organization": "Pediatric Nursing Certification Board"
+        }, 
+        {
+            "Acronym": "CAEd", 
+            "Certification Name": "Certified Alzheimer Educator", 
+            "Type": "Specialty", 
+            "Certification ID": "8682", 
+            "Certifying Organization": "National Certification Board for Alzheimer Care"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Ophthalmic Registered Nurse", 
+            "Type": "Specialty", 
+            "Certification ID": "6467", 
+            "Certifying Organization": "National Certifying Board for Ophthalmic Registered  Nurses"
+        }, 
+        {
+            "Acronym": "CHRN", 
+            "Certification Name": "Certified Hyperbaric Registered Nurse", 
+            "Type": "Specialty", 
+            "Certification ID": "6493", 
+            "Certifying Organization": "National Board of Diving and Hyperbaric Medical Technology"
+        }, 
+        {
+            "Acronym": "WHNP- BC", 
+            "Certification Name": "Womens Health Care Nurse Practitioner", 
+            "Type": "Specialty", 
+            "Certification ID": "0018", 
+            "Certifying Organization": "The National Certification Corporation"
+        }, 
+        {
+            "Acronym": "RNC", 
+            "Certification Name": "Inpatient Obstetric Nursing", 
+            "Type": "Specialty", 
+            "Certification ID": "0073", 
+            "Certifying Organization": "The National Certification Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Birth Doula Certification", 
+            "Type": "Core", 
+            "Certification ID": "3570", 
+            "Certifying Organization": "Doulas of North America"
+        }, 
+        {
+            "Acronym": "CNML", 
+            "Certification Name": "Nurse Manager and Leader", 
+            "Type": "Core", 
+            "Certification ID": "5733", 
+            "Certifying Organization": "American Association of Critical-Care Nurses "
+        }, 
+        {
+            "Acronym": "CPSN", 
+            "Certification Name": "Certified Plastic Surgical Nurse", 
+            "Type": "Specialty", 
+            "Certification ID": "2442", 
+            "Certifying Organization": "American Society of Plastic Surgical Nurses"
+        }, 
+        {
+            "Acronym": "AOCNS", 
+            "Certification Name": "Advanced Oncology Certified Clinical Nurse Specialist", 
+            "Type": "Advanced", 
+            "Certification ID": "4850", 
+            "Certifying Organization": "Oncology Nursing Certification Corporation"
+        }, 
+        {
+            "Acronym": "ACHRN", 
+            "Certification Name": "Advanced Certified Hyperbaric Registered Nurse", 
+            "Type": "Advanced", 
+            "Certification ID": "6494", 
+            "Certifying Organization": "National Board of Diving and Hyperbaric Medical Technology"
+        }, 
+        {
+            "Acronym": "ACHPN", 
+            "Certification Name": "Advanced Certified Hospice and Palliative Nurse", 
+            "Type": "Advanced", 
+            "Certification ID": "6706", 
+            "Certifying Organization": "National Board for Certification of Hospice and Palliative Nurses"
+        }, 
+        {
+            "Acronym": "LNCC", 
+            "Certification Name": "Legal Nurse Consultant Certified", 
+            "Type": "Specialty", 
+            "Certification ID": "1210", 
+            "Certifying Organization": "American Association of Legal Nurse Consultants (Certification Board)"
+        }, 
+        {
+            "Acronym": "CHPN", 
+            "Certification Name": "Certified Hospice and Palliative Nurse", 
+            "Type": "Specialty", 
+            "Certification ID": "2110", 
+            "Certifying Organization": "National Board for Certification of Hospice and Palliative Nurses"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Board Certified in Pelvic Muscle Dysfunction Biofeedback", 
+            "Type": "Specialty", 
+            "Certification ID": "4022", 
+            "Certifying Organization": "Biofeedback Certification International Alliance"
+        }, 
+        {
+            "Acronym": "ONP-C", 
+            "Certification Name": "Orthopaedic Nurse Practitioner - Certified", 
+            "Type": "Specialty", 
+            "Certification ID": "6098", 
+            "Certifying Organization": "Orthopaedic Nurses Certification Board"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Clinical Nurse Specialist in Adult Health", 
+            "Type": "Specialty", 
+            "Certification ID": "6116", 
+            "Certifying Organization": "American Nurses Credentialing Center"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Cardiac Vascular Nursing", 
+            "Type": "Specialty", 
+            "Certification ID": "6124", 
+            "Certifying Organization": "American Nurses Credentialing Center"
+        }, 
+        {
+            "Acronym": "RNC-NIC", 
+            "Certification Name": "Neonatal Intensive Care Nursing", 
+            "Type": "Specialty", 
+            "Certification ID": "0074", 
+            "Certifying Organization": "The National Certification Corporation"
+        }
+    ], 
+    "onet": "29114100"
+}

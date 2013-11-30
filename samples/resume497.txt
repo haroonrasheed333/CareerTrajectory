@@ -1,0 +1,247 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734594' xml:space='preserve'><contact><name><givenname>Sergey</givenname> <surname>Belov</surname></name>	
+
+<phone>(774) 268-1047</phone> <email>Sbelov1@babson.edu</email>
+<address lat='42.2836' lon='-71.025' majorcity='QUINCY' state='MA'><street>788 Willard St, #510</street>, 
+<city>Quincy</city>, <state abbrev='MA'>MA</state></address>	
+
+
+
+</contact><summary>Summary
+
+<summary>Accomplished software sales professional with over 9 years of experience in information technology including 5 years of sales experience to healthcare and banking verticals. Superb leadership, interpersonal and analytical skills. Experienced in penetrating new markets and business development. Recognized for exceeding organization's sales quotas through relationship-building, negotiation, presentation and closing.</summary></summary> 
+
+
+__________________________________________________________________________________
+
+<experience end='present' start='730488'>Work Experience
+
+          <job end='present' id='1' pos='1' start='732679'><employer>Umbrella IT Solutions, Inc</employer>., <address><city>Boston</city>, <state abbrev='MA'>MA</state></address>                                                     <daterange><start days='732679' iso8601='2007-01-01'>2007</start> - <end days='present' iso8601='2012-03-30'>Present</end></daterange>
+          <title>Sales Consultant/Sales Engineer</title>
+
+<description>Markets and sells IT security, consulting, and hardware/software products to SMB (Small and Midsize Business) and enterprise markets in healthcare and banking.
+
+Generate opportunities through Implementation of various marketing tools such as telemarketing, networking, direct mail, email marketing, Search Engine Optimization(SEO) and social media
+Penetrate new and existing clients in local geographic region to offer new products and extend the adoption of additional products 
+Manage seven employees and help to achieve quarterly quota through goal setting, motivation and training
+Propose technical and business solutions in support of sales campaigns by preparing presentations and participating on client calls
+Present, negotiate, and close Service Level Agreements(SLA) and projects with executives
+Exceeded revenue goals set for the territory by introducing a new sales strategy, resulting in sales that were between 115%-158% over the targets set between 2009 and 2011 
+Partner with engineers and vendors on Stament of Work (SOW) and Request for Proposal (RFP) development
+Oversee full sales processes using such customer relationship
+management tools as Salesforce.com and Zoho</description></job>
+
+<job end='734505' id='2' pos='2' sic='573407' sic2='57' start='734140'><employer>GHA Technologies, Inc</employer>, <address><city>Scottsdale</city>, <state abbrev='AZ'>AZ</state></address>                                                         <daterange><start days='734140' iso8601='2011-01-01'>2011</start> - <end days='734505' iso8601='2012-01-01'>2012</end></daterange>
+<title>Hardware/Software Sales Manager</title>                                          
+               
+<description>Penetrated new territory through selling hardware and software solutions to enterprise and local government markets. 
+
+Demonstrated software products and closed sales with C-level executives, CIOs and IT Managers
+Participated in building RFPs with channel representatives 
+Formed strategic partnerships with software and IT companies
+Built relationships with prospective and existing customers which converted into new orders
+Called on prospective clients offering company solutions for a given vertical 
+Introduced new marketing strategies, rusulting in 2-3 appointments per week</description></job> 
+
+           <job end='731949' id='3' pos='3' start='730488'><employer>Satori Consulting</employer>, <address><city>Omsk</city>, <country iso3='RUS'>Russia</country></address>                                                                    <daterange><start days='730488' iso8601='2001-01-01'>2001</start> - <end days='731949' iso8601='2005-01-01'>2005</end></daterange>
+           <title>Software Engineer</title>  					                         
+
+<description>Maintained components of the core Business Process Management (BPM) product.
+
+Designed and develop software which is fit for the purpose described by the   technical requirements, resulting in meeting Project Manager's and customer expectations
+Debuged and maintained existing code base
+Provided end user training on software updates via phone and face-to-face meetings
+Participated in team meetings, proposing new ideas for product advancements to address customer needs
+Documented and followed development standards for all coding 
+Created unit tested code to ensure technical requirements were satisfied
+Took other responsibilities in key result areas as required or assigned, such as debugging SQL server querries, helping with web page design, resolving networking issues, etc.</description></job></experience>
+
+
+__________________________________________________________________________________
+
+<education>Education
+
+<school id='4'><institution>Babson College, F.W. Olin Graduate School of Business</institution>, <address><city>Wellesley</city>, <state abbrev='MA'>MA</state></address>
+Candidate for <degree level='18' name='Master of Business Administration'>Master of Business Administration</degree>, <completiondate>December 2013</completiondate></school>
+
+<school id='5'><institution>University of Massachusetts</institution>, <address><city>Boston</city>, <state abbrev='MA'>MA</state></address>
+<degree level='16' name='Bachelor of Arts'>Bachelor of Arts</degree> in <major code='0402'>Computer Science</major>, <completiondate days='733744' iso8601='2009-12-01'>December 2009</completiondate></school></education>
+
+<skills>Technical Skills
+
+<skills>CSS, HTML, JavaScript, Java, Scheme, C, C++, SQL Servers, TCP/IP, DNS, VPN, DHP
+
+Certifications
+
+Barracuda, Pre-Sales Engineer Certificate
+VMware, VSP</skills> 
+
+Languages
+
+<languages>Fluent in Russian and English</languages></skills>
+
+
+
+
+
+
+
+
+
+
+
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='banking' start='732679'>
+    <variant>banking</variant>
+  </canonskill>
+  <canonskill end='731949' experience='1' expidrefs='3' idrefs='3' lastused='2005' name='business process' start='730488'>
+    <variant>Business Process</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='business solutions' start='732679'>
+    <variant>business solutions</variant>
+  </canonskill>
+  <canonskill end='734505' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='c' start='734140'>
+    <variant>C</variant>
+  </canonskill>
+  <canonskill name='c + +'>
+    <variant>C++</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='com' start='732679'>
+    <variant>com</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='computer hardware' start='732679'>
+    <variant>hardware</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='consulting' start='732679'>
+    <variant>consulting</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='crm' start='732679'>
+    <variant>customer relationship
+management</variant>
+  </canonskill>
+  <canonskill name='css'>
+    <variant>CSS</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='customer relations' start='732679'>
+    <variant>client</variant>
+    <variant>clients</variant>
+  </canonskill>
+  <canonskill end='731949' experience='1' expidrefs='3' idrefs='3' lastused='2005' name='debugging' start='730488'>
+    <variant>debugging</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='direct mail' start='732679'>
+    <variant>direct mail</variant>
+  </canonskill>
+  <canonskill name='dns'>
+    <variant>DNS</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='email' start='732679'>
+    <variant>email</variant>
+  </canonskill>
+  <canonskill name='engineering'>
+    <variant>Engineer</variant>
+  </canonskill>
+  <canonskill name='english'>
+    <variant>English</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='goal setting' start='732679'>
+    <variant>goal setting</variant>
+  </canonskill>
+  <canonskill name='html'>
+    <variant>HTML</variant>
+  </canonskill>
+  <canonskill name='java'>
+    <variant>Java</variant>
+  </canonskill>
+  <canonskill name='javascript'>
+    <variant>JavaScript</variant>
+  </canonskill>
+  <canonskill name='languages'>
+    <variant>Languages</variant>
+  </canonskill>
+  <canonskill end='734505' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='local government' start='734140'>
+    <variant>local government</variant>
+  </canonskill>
+  <canonskill end='734505' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='market planning' start='734140'>
+    <variant>marketing strategies</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='marketing' start='732679'>
+    <variant>marketing</variant>
+  </canonskill>
+  <canonskill end='731949' experience='1' expidrefs='3' idrefs='3' lastused='2005' name='meeting facilitation' start='730488'>
+    <variant>meetings</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='netscape enterprise server' start='732679'>
+    <variant>enterprise</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,3' idrefs='1,3' lastused='2012' name='networking' start='730488'>
+    <variant>networking</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='presentation skills' start='732679'>
+    <variant>presentations</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='process engineering' start='732679'>
+    <variant>processes</variant>
+  </canonskill>
+  <canonskill end='731949' experience='1' expidrefs='3' idrefs='3' lastused='2005' name='programming' start='730488'>
+    <variant>coding</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='proposal writing' start='732679'>
+    <variant>Proposal</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='rfp' start='732679'>
+    <variant>RFP</variant>
+  </canonskill>
+  <canonskill name='russian'>
+    <variant>Russian</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='sales' start='732679'>
+    <variant>selling</variant>
+    <variant>Sales</variant>
+    <variant>sales</variant>
+  </canonskill>
+  <canonskill name='scheme'>
+    <variant>Scheme</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='search engine optimization' start='732679'>
+    <variant>Search Engine Optimization</variant>
+  </canonskill>
+  <canonskill name='servers'>
+    <variant>Servers</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='sla' start='732679'>
+    <variant>Service Level Agreements</variant>
+    <variant>SLA</variant>
+  </canonskill>
+  <canonskill end='731949' experience='1' expidrefs='3' idrefs='3' lastused='2005' name='sql' start='730488'>
+    <variant>SQL server</variant>
+    <variant>SQL</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='strategic' start='732679'>
+    <variant>strategy</variant>
+    <variant>strategic</variant>
+  </canonskill>
+  <canonskill name='tcp/ip'>
+    <variant>TCP/IP</variant>
+  </canonskill>
+  <canonskill end='731949' experience='1' expidrefs='3' idrefs='3' lastused='2005' name='technical training' start='730488'>
+    <variant>user training</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='telemarketing' start='732679'>
+    <variant>telemarketing</variant>
+  </canonskill>
+  <canonskill end='731949' experience='1' expidrefs='3' idrefs='3' lastused='2005' name='telephone skills' start='730488'>
+    <variant>phone</variant>
+  </canonskill>
+  <canonskill name='vpn'>
+    <variant>VPN</variant>
+  </canonskill>
+  <canonskill end='731949' experience='1' expidrefs='3' idrefs='3' lastused='2005' name='web site production' start='730488'>
+    <variant>web page design</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

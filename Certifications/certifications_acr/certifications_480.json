@@ -1,0 +1,54 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CMT", 
+            "Certification Name": "Certified Medical Transcriptionist", 
+            "Type": "Core", 
+            "Certification ID": "7855", 
+            "Certifying Organization": "Association for Healthcare Documentation Integrity"
+        }, 
+        {
+            "Acronym": "AHDI-F", 
+            "Certification Name": "Association for Healthcare Documentation Integrity Fellow", 
+            "Type": "Specialty", 
+            "Certification ID": "7856", 
+            "Certifying Organization": "Association for Healthcare Documentation Integrity"
+        }, 
+        {
+            "Acronym": "CMI", 
+            "Certification Name": "Certified Medical Interpreter", 
+            "Type": "Core", 
+            "Certification ID": "6037", 
+            "Certifying Organization": "The National Board of Certification for Medical Interpreters"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Registered Medical Assistant", 
+            "Type": "Core", 
+            "Certification ID": "8528", 
+            "Certifying Organization": "American Phlebotomy Association"
+        }, 
+        {
+            "Acronym": "CHIS", 
+            "Certification Name": "Consumer Health Information Specialization", 
+            "Type": "Core", 
+            "Certification ID": "2416", 
+            "Certifying Organization": "Medical Library Association"
+        }, 
+        {
+            "Acronym": "RMT", 
+            "Certification Name": "Registered Medical Transcriptionist", 
+            "Type": "Core", 
+            "Certification ID": "3884", 
+            "Certifying Organization": "Association for Healthcare Documentation Integrity"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Medical Administrative Specialist", 
+            "Type": "Core", 
+            "Certification ID": "3919", 
+            "Certifying Organization": "American Medical Technologists"
+        }
+    ], 
+    "onet": "31909400"
+}

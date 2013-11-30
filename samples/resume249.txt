@@ -1,0 +1,167 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734590' xml:space='preserve'><contact><name><givenname>David</givenname> <surname>Weeden</surname></name>
+<address lat='33.1693' lon='96.6902' majorcity='MCKINNEY' state='TX'><street>7801 Purple Martin Way</street>
+<city>McKinney</city>, <state abbrev='TX'>TX</state> <postalcode>75070</postalcode></address>
+(H) <phone type='home'>214-544-0266</phone> (C) <phone type='cell'>214-435-2789</phone>
+EMAIL:  <email>chuysfamily@comcast.net</email></contact>
+______________________________________________________________________________
+<summary>SUMMARY
+<objective>Experienced Process Engineering Technician with experience in Continuous Technology Improvement, Customer Service, Computer Installation and Support, Documentation, and Process Control.  A hands-on technician with the ability to work in teams or independently to resolve complex issues.  Key strengths included self starter, process development, project management, and building effective customer relationships.</objective> 
+ACCOMPLISHMENTS
+
+<summary>MCSE certification in 2000
+5 years with no lot disposition errors or wafer scrap incidents
+Continual metrology recipe improvements, resulting in decreased cycle time</summary></summary>
+
+<experience end='present' start='724278'>PROFESSIONAL EXERIENCE
+<job end='present' id='1' naics='33441302' naics2='33' pos='1' sic='737201' sic2='73' start='730122'><employer>TEXAS INSTRUMENTS</employer>, <address><city>Dallas</city>, <state abbrev='TX'>TX</state></address>					<daterange><start days='730122' iso8601='2000-01-01'>2000</start>-<end days='present' iso8601='2012-03-26'>Present</end></daterange>
+<title>Process Technician</title>
+<description>Branch One Technician covering Thermal, Implant, Surface Preparation, and Chemical Mechanical Planarization (CMP)
+Optimized metrology recipes for improved cycle time
+Demonstrated ability to troubleshoot tool fails and optimize process to ensure high yielding product with low cycle times
+Assisted in projects and tasks with engineering to facilitate tool release
+Monitored process and quality related statistic process control charts and acted on trends in order to improve quality product</description></job>
+<job end='730122' id='2' naics='54161303' naics2='54' pos='2' sic='999999' sic2='99' start='729027'><employer>SOFTWARE SPECTRUM</employer>, <address><city>Garland</city>, <state abbrev='TX'>TX</state></address>					<daterange><start days='729027' iso8601='1997-01-01'>1997</start>-<end days='730122' iso8601='2000-01-01'>2000</end></daterange>
+<title>Telephone Support Analyst</title>
+
+<description>Windows NT 4.0 Domains and Exchange 5.0 support, including policies, permissions, directory replication, name resolution, licensing, and administrative tools
+Technical support of Microsoft Office &amp; Lotus Suite, including but not limited to operation of program, functionality, basic usage instructions, error message diagnosis, installation, and multiple version compatibility 
+MCSE certification NT 4.0</description></job> 
+
+<job id='3' sic='573401' sic2='57' start='729027'><employer>MEDIC COMPUTER SYSTEMS</employer>, <address><city>Oklahoma City</city>, <state abbrev='OK'>OK</state></address>			        <daterange><start days='729027' iso8601='1997-01-01'>1997</start></daterange>
+<title>Field Service Technician</title>
+
+<description>Telephone and on-site support including trouble shooting hardware and software issues
+Managed installations including complete site installation and peripheral maintenance
+Installations included computer hardware and software, network, peripherals, and required cabling. 
+Maintained hardware including motherboards, internal and external modems, printers, monitors, hard drives, cabling and connectors</description></job>
+<job end='729027' id='4' pos='3' start='728661'><employer>Laboratory Corporation of American</employer>, <address><city>Dallas</city>, <state abbrev='TX'>TX</state></address>				<daterange><start days='728661' iso8601='1996-01-01'>1996</start>-<end days='729027' iso8601='1997-01-01'>1997</end></daterange>
+<title>Client Product Coordinator</title>
+<description>Troubleshooting hardware and software problems locally and on-site 
+Monitored dial-in and dial-out modem lines to determine transmission problems
+Extracting and repairing client patient database
+Present computer demonstrating to prospective clientele
+On-site installation and training</description></job>
+<job end='728661' id='5' pos='4' sic='602101' sic2='60' start='728296'><employer>Liberty Bank</employer>, <address><city>Tulsa</city>, <state abbrev='OK'>Ok</state></address>							<daterange><start days='728296' iso8601='1995-01-01'>1995</start>-<end days='728661' iso8601='1996-01-01'>1996</end></daterange>
+<title>Commercial Receiving Teller</title>
+
+<description>Received deposits and payments from commercial accounts
+Reconciled client accounts
+Researched client information and discrepancies</description></job>
+<job end='727931' id='6' naics='45112035' naics2='45' pos='5' sic='594517' sic2='59' start='724278'><employer>Toys R Us</employer>, <address><city>Tulsa</city>, <state abbrev='OK'>Ok</state></address>								<daterange><start days='724278' iso8601='1984-01-01'>1984</start>-<end days='727931' iso8601='1994-01-01'>1994</end></daterange>
+Department Head
+<description>Managed front end of store including cash balances in Customer Returns and cashier work stations
+Researched cash overages and shortages
+Maintained stock and front end issues including employees in Customer Service and cashier problems, and store promotions</description></job></experience>
+<education>EDUCATION
+
+<school id='7'><degree level='14' name='Associate of Science'>A.S</degree>., <major code='0202'>Biology</major>-<institution>Tulsa Community College</institution></school>
+<school id='8'><degree level='14' name='Associate of Science'>A.S</degree>., <major code='0301'>Chemistry</major>-<institution>Tulsa Community College</institution></school>
+<school id='9'><degree>BAAS</degree> (<degree level='16'>Bachelor's of Applied Arts &amp; Sciences</degree>) - <institution>Texas A&amp;M University</institution>-<courses>Commerce
+Graduate Certification in the Environmental Studies</courses> - <institution>Texas A&amp;M University</institution>-<degree>Commerce</degree></school> (currently pursuing)</education>
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='730122' experience='1' expidrefs='2' idrefs='2' lastused='2000' name='administration' start='729027'>
+    <variant>administrative</variant>
+  </canonskill>
+  <canonskill end='730122' experience='1' expidrefs='2' idrefs='2' lastused='2000' name='basic' start='729027'>
+    <variant>basic</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='3' idrefs='3' name='cabling' start='729027'>
+    <variant>cabling</variant>
+  </canonskill>
+  <canonskill end='727931' experience='1' expidrefs='6' idrefs='6' lastused='1994' name='cashier' start='724278'>
+    <variant>cashier</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='charts' start='730122'>
+    <variant>charts</variant>
+  </canonskill>
+  <canonskill end='729027' experience='1' expidrefs='3,4' idrefs='3,4' lastused='1997' name='computer hardware' start='728661'>
+    <variant>computer hardware</variant>
+    <variant>hardware</variant>
+  </canonskill>
+  <canonskill end='729027' experience='1' expidrefs='4,5' idrefs='4,5' lastused='1997' name='customer relations' start='728296'>
+    <variant>clientele</variant>
+    <variant>client</variant>
+  </canonskill>
+  <canonskill end='727931' experience='1' expidrefs='6' idrefs='6' lastused='1994' name='customer service' start='724278'>
+    <variant>Customer Service</variant>
+  </canonskill>
+  <canonskill end='729027' experience='1' expidrefs='4' idrefs='4' lastused='1997' name='database administration' start='728661'>
+    <variant>database</variant>
+  </canonskill>
+  <canonskill end='730122' experience='1' expidrefs='2' idrefs='2' lastused='2000' name='diagnosis' start='729027'>
+    <variant>diagnosis</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='3' idrefs='3' name='hard drives' start='729027'>
+    <variant>hard drives</variant>
+  </canonskill>
+  <canonskill end='730122' experience='1' expidrefs='2' idrefs='2' lastused='2000' name='lotus office suite' start='729027'>
+    <variant>Lotus Suite</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='mechanical' start='730122'>
+    <variant>Mechanical</variant>
+  </canonskill>
+  <canonskill end='730122' experience='1' expidrefs='2' idrefs='2' lastused='2000' name='microsoft certified systems engineer' start='729027'>
+    <variant>MCSE</variant>
+  </canonskill>
+  <canonskill end='730122' experience='1' expidrefs='2' idrefs='2' lastused='2000' name='microsoft exchange' start='729027'>
+    <variant>Exchange 5.0</variant>
+  </canonskill>
+  <canonskill end='730122' experience='1' expidrefs='2' idrefs='2' lastused='2000' name='microsoft office' start='729027'>
+    <variant>Microsoft Office</variant>
+  </canonskill>
+  <canonskill end='730122' experience='1' expidrefs='2' idrefs='2' lastused='2000' name='microsoft windows nt 4.0' start='729027'>
+    <variant>Windows NT 4.0</variant>
+    <variant>NT 4.0</variant>
+  </canonskill>
+  <canonskill end='729027' experience='1' expidrefs='3,4' idrefs='3,4' lastused='1997' name='modems' start='728661'>
+    <variant>modems</variant>
+    <variant>modem</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='3' idrefs='3' name='monitors' start='729027'>
+    <variant>monitors</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='3' idrefs='3' name='motherboards' start='729027'>
+    <variant>motherboards</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='3' idrefs='3' name='networking' start='729027'>
+    <variant>network</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='3' idrefs='3' name='peripherals' start='729027'>
+    <variant>peripherals</variant>
+  </canonskill>
+  <canonskill end='730122' experience='1' expidrefs='2' idrefs='2' lastused='2000' name='policy analysis' start='729027'>
+    <variant>policies</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='3' idrefs='3' name='printers' start='729027'>
+    <variant>printers</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='quality' start='730122'>
+    <variant>quality</variant>
+  </canonskill>
+  <canonskill end='729027' experience='1' expidrefs='4' idrefs='4' lastused='1997' name='repair' start='728661'>
+    <variant>repairing</variant>
+  </canonskill>
+  <canonskill end='730122' experience='1' expidrefs='2' idrefs='2' lastused='2000' name='technical support' start='729027'>
+    <variant>Technical support</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='technician' start='730122'>
+    <variant>Technician</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='3' idrefs='3' name='telephone skills' start='729027'>
+    <variant>Telephone</variant>
+  </canonskill>
+  <canonskill end='729027' experience='1' expidrefs='4' idrefs='4' lastused='1997' name='transmission' start='728661'>
+    <variant>transmission</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,3,4' idrefs='1,3,4' lastused='2012' name='troubleshooting' start='728661'>
+    <variant>troubleshoot</variant>
+    <variant>trouble shooting</variant>
+    <variant>Troubleshooting</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734593' xml:space='preserve'>                                  <contact><name><givenname>Jozef</givenname> <givenname>Edward</givenname> <surname>Shyman</surname></name>
+                                      <address lat='33.818' lon='118.223' majorcity='LONG BEACH' state='CA'><street>3439 Santa Fe Ave.</street>
+                                    <city>Long Beach</city>, <state abbrev='CA'>CA</state> <postalcode>90810</postalcode></address>
+                                        <phone>562-235-8652</phone>
+                                     <email>Jshyman88@aol.com</email></contact>
+
+
+<education>Education
+
+<school id='2'><institution>California State University</institution>, <address>Long Beach                                <city>Long Beach</city>, <state abbrev='CA'>CA</state></address>
+<degree level='16' name='Bachelor of Arts'>Bachelor of Arts</degree>, <major code='2102'>Sociology</major>, concentration in                          <completiondate days='734260' iso8601='2011-05-01'>May 2011</completiondate>
+       <description>Interaction and Group Relations</description></school>
+
+<school id='3'><institution>Lakewood High School</institution>                                                   <address><city>Lakewood</city>, <state abbrev='CA'>CA</state></address>
+<degree level='12'>High School Diploma</degree>                                                    <completiondate days='732465' iso8601='2006-06-01'>June 2006</completiondate></school></education>
+
+
+<experience end='present' start='734534'>Experience
+
+<job end='present' id='1' pos='1' start='734534'><employer>Juan Rodriguez Cabrillo High School</employer>                                    <address><city>Long Beach</city>, <state abbrev='CA'>CA</state></address>
+<title>V.I.P.S. Member</title> (Volunteers in Public Schools)                         <daterange><start days='734534' iso8601='2012-01-30'>01/30/12</start> - <end days='present' iso8601='2012-03-29'>present</end></daterange>
+
+
+   ·   <description>Work in LBUSD schools to help students with their classroom needs.
+   ·   Provide one on one tutoring.
+   ·   Work in special education classes.
+   ·   Assist in the school library.
+   ·   Assist teachers in the classroom.
+   ·   Help on campus in any needed capacity.
+   ·   Create new school programs for parents and students.
+   ·   Help with new school programs.</description></job></experience>
+
+
+<skills>Skills and Interests
+
+   ·   <description>Interested in the field of social work, especially with helping improve the lives of
+       troubled and underprivileged youth.
+   ·   Broad scope of subjects taken in university include, amongst others: Early &amp;
+       Contemporary Sociological Theory, Family Studies, Juvenile Delinquency, Social
+       Psychology, Quantitative Research Methods in Sociology, Elementary Statistics,
+       Introduction to Data Analysis, Culture &amp; Communication, Human Development, Ethics,
+       Principles of Sociology, Race-Class-Gender, Child Abuse and Prevention, Social Order
+       and Social Change, Medical Sociology, and Social Trends and Problems.
+   ·   Professional qualifications for a position in government service, community service,
+       municipal services, and a whole range of trainee managerial situations in the private
+       sector, especially where a background in sociology would be most advantageous.
+Jozef Edward Shyman, page 2
+  ·   Proficiency in mainstream software, including Microsoft Office.
+  ·   Research and advanced language skills.
+  ·   Excellent written and verbal communicative skills, reflected through high marks in
+      university subjects heavy in reading and writing.
+  ·   Knowledge of society, including immigrant groups.</description></skills>
+</resume>
+
+<skillrollup version='1'>
+  <canonskill name='data analysis'>
+    <variant>Data Analysis</variant>
+  </canonskill>
+  <canonskill name='government'>
+    <variant>government</variant>
+  </canonskill>
+  <canonskill name='management'>
+    <variant>managerial</variant>
+  </canonskill>
+  <canonskill name='microsoft office'>
+    <variant>Microsoft Office</variant>
+  </canonskill>
+  <canonskill name='page'>
+    <variant>page 2</variant>
+  </canonskill>
+  <canonskill name='psychology'>
+    <variant>Psychology</variant>
+  </canonskill>
+  <canonskill name='read'>
+    <variant>reading</variant>
+  </canonskill>
+  <canonskill name='research'>
+    <variant>Research</variant>
+  </canonskill>
+  <canonskill name='statistics'>
+    <variant>Statistics</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='tutoring' start='734534'>
+    <variant>tutoring</variant>
+  </canonskill>
+  <canonskill name='writing'>
+    <variant>Excellent written</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

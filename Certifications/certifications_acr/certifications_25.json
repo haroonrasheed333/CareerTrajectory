@@ -1,0 +1,299 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "MCD", 
+            "Certification Name": "Master Career Director", 
+            "Type": "Advanced", 
+            "Certification ID": "9001", 
+            "Certifying Organization": "Career Directors International"
+        }, 
+        {
+            "Acronym": "PRC", 
+            "Certification Name": "Physician Recruiting Consultants", 
+            "Type": "Advanced", 
+            "Certification ID": "7659", 
+            "Certifying Organization": "National Association of Personnel Services"
+        }, 
+        {
+            "Acronym": "CSCP", 
+            "Certification Name": "Certified Sales Compensation Professional", 
+            "Type": "Core", 
+            "Certification ID": "9030", 
+            "Certifying Organization": "WorldatWork"
+        }, 
+        {
+            "Acronym": "CWWS", 
+            "Certification Name": "Certified Worksite Wellness Specialist", 
+            "Type": "Core", 
+            "Certification ID": "8930", 
+            "Certifying Organization": "National Wellness Institute"
+        }, 
+        {
+            "Acronym": "CWDP", 
+            "Certification Name": "Certified Workforce Development Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "1108", 
+            "Certifying Organization": "National Association of Workforce Development Professionals"
+        }, 
+        {
+            "Acronym": "CMS", 
+            "Certification Name": "Compensation Management Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "8135", 
+            "Certifying Organization": "International Foundation of Employee Benefit Plans"
+        }, 
+        {
+            "Acronym": "GBA", 
+            "Certification Name": "Group Benefits Associate", 
+            "Type": "Specialty", 
+            "Certification ID": "8136", 
+            "Certifying Organization": "International Foundation of Employee Benefit Plans"
+        }, 
+        {
+            "Acronym": "SPHR", 
+            "Certification Name": "Senior Professional in Human Resources", 
+            "Type": "Advanced", 
+            "Certification ID": "0090", 
+            "Certifying Organization": "Human Resources Certification Institute"
+        }, 
+        {
+            "Acronym": "CLM", 
+            "Certification Name": "Certified Legal Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "1875", 
+            "Certifying Organization": "Association of Legal Administrators"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Global Remuneration Professional", 
+            "Type": "Core", 
+            "Certification ID": "9027", 
+            "Certifying Organization": "WorldatWork"
+        }, 
+        {
+            "Acronym": "COE", 
+            "Certification Name": "Certified Outsourcing Executive", 
+            "Type": "Advanced", 
+            "Certification ID": "6486", 
+            "Certifying Organization": "International Association of Outsourcing Professionals"
+        }, 
+        {
+            "Acronym": "SCRP", 
+            "Certification Name": "Certified Relocation Professional", 
+            "Type": "Core", 
+            "Certification ID": "1413", 
+            "Certifying Organization": "Employee Relocation Council"
+        }, 
+        {
+            "Acronym": "PHR", 
+            "Certification Name": "Professional in Human Resources", 
+            "Type": "Advanced", 
+            "Certification ID": "0089", 
+            "Certifying Organization": "Human Resources Certification Institute"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Oracle Fusion Human Capital Management 11g Talent Management Certified Implementation Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "8484", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "HRBP", 
+            "Certification Name": "Human Resources Business Professional", 
+            "Type": "Core", 
+            "Certification ID": "9315", 
+            "Certifying Organization": "Human Resources Certification Institute"
+        }, 
+        {
+            "Acronym": "CMF", 
+            "Certification Name": "Career Management Fellow", 
+            "Type": "Advanced", 
+            "Certification ID": "9247", 
+            "Certifying Organization": "Institute of Career Certification International"
+        }, 
+        {
+            "Acronym": "MFCC/T", 
+            "Certification Name": "Master Federal Career Coach/Trainer", 
+            "Type": "Advanced", 
+            "Certification ID": "9005", 
+            "Certifying Organization": "Career Directors International"
+        }, 
+        {
+            "Acronym": "GPHR", 
+            "Certification Name": "Global Professional in Human Resources", 
+            "Type": "Advanced", 
+            "Certification ID": "4497", 
+            "Certifying Organization": "Human Resources Certification Institute"
+        }, 
+        {
+            "Acronym": "IP", 
+            "Certification Name": "Incentive Professional", 
+            "Type": "Core", 
+            "Certification ID": "9034", 
+            "Certifying Organization": "Incentive Marketing Association"
+        }, 
+        {
+            "Acronym": "CPIM", 
+            "Certification Name": "Certified Professional of Incentive Management", 
+            "Type": "Advanced", 
+            "Certification ID": "9035", 
+            "Certifying Organization": "Incentive Marketing Association"
+        }, 
+        {
+            "Acronym": "IPMA-CP", 
+            "Certification Name": "Certified Professional - Human Resource", 
+            "Type": "Advanced", 
+            "Certification ID": "6175", 
+            "Certifying Organization": "International Public Management Association for Human Resources"
+        }, 
+        {
+            "Acronym": "IPMA-CS", 
+            "Certification Name": "Certified Specialist - Human Resources", 
+            "Type": "Specialty", 
+            "Certification ID": "6176", 
+            "Certifying Organization": "International Public Management Association for Human Resources"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Oracle E-Business Suite R12 Human Capital Management Certified Implementation Specialist", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7094", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "CPC", 
+            "Certification Name": "Certified Personnel Consultant", 
+            "Type": "Core", 
+            "Certification ID": "1406", 
+            "Certifying Organization": "National Association of Personnel Services"
+        }, 
+        {
+            "Acronym": "CBF", 
+            "Certification Name": "Certified Benefits Professional", 
+            "Type": "Core", 
+            "Certification ID": "9028", 
+            "Certifying Organization": "WorldatWork"
+        }, 
+        {
+            "Acronym": "C3E", 
+            "Certification Name": "Certified Cyber-Crime Expert", 
+            "Type": "Core", 
+            "Certification ID": "5319", 
+            "Certifying Organization": "E-Business Process Solutions"
+        }, 
+        {
+            "Acronym": "CWWPM", 
+            "Certification Name": "Certified Worksite Wellness Program Manager", 
+            "Type": "Core", 
+            "Certification ID": "8931", 
+            "Certifying Organization": "National Wellness Institute"
+        }, 
+        {
+            "Acronym": "CERS", 
+            "Certification Name": "Certified Employee Retention Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "8016", 
+            "Certifying Organization": "National Association of Personnel Services"
+        }, 
+        {
+            "Acronym": "CHRA", 
+            "Certification Name": "Certified Human Resource Analyst", 
+            "Type": "Core", 
+            "Certification ID": "9499", 
+            "Certifying Organization": "American Academy of Project Management"
+        }, 
+        {
+            "Acronym": "MFCC", 
+            "Certification Name": "Master Federal Career Coach", 
+            "Type": "Advanced", 
+            "Certification ID": "9004", 
+            "Certifying Organization": "Career Directors International"
+        }, 
+        {
+            "Acronym": "WLCP", 
+            "Certification Name": "Work-Life Certified Professional", 
+            "Type": "Core", 
+            "Certification ID": "9029", 
+            "Certifying Organization": "WorldatWork"
+        }, 
+        {
+            "Acronym": "HRIP", 
+            "Certification Name": "Human Resource Information Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "9010", 
+            "Certifying Organization": "International Association for Human Resource Information Management"
+        }, 
+        {
+            "Acronym": "CWWPM", 
+            "Certification Name": "Certified Worksite Wellness Program Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "9133", 
+            "Certifying Organization": "National Wellness Institute"
+        }, 
+        {
+            "Acronym": "CMP", 
+            "Certification Name": "Career Management Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "9246", 
+            "Certifying Organization": "Institute of Career Certification International"
+        }, 
+        {
+            "Acronym": "CCP", 
+            "Certification Name": "Certified Compensation Professional", 
+            "Type": "Core", 
+            "Certification ID": "9026", 
+            "Certifying Organization": "WorldatWork"
+        }, 
+        {
+            "Acronym": "CECP", 
+            "Certification Name": "Certified Executive Compensation Professional", 
+            "Type": "Core", 
+            "Certification ID": "9031", 
+            "Certifying Organization": "WorldatWork"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Oracle Fusion Human Capital Management 11g Human Resources Certified Implementation Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "8483", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "CEAP", 
+            "Certification Name": "Certified Employee Assistance Professional", 
+            "Type": "Core", 
+            "Certification ID": "1375", 
+            "Certifying Organization": "International Employee Assistance Professionals Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "PeopleSoft Enterprise Certified Expert 9 Human Capital Management, Human Resources Consultant", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7105", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "HRMP", 
+            "Certification Name": "Human Resources Management Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "9316", 
+            "Certifying Organization": "Human Resources Certification Institute"
+        }, 
+        {
+            "Acronym": "CWWS", 
+            "Certification Name": "Certified Worksite Wellness Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "9132", 
+            "Certifying Organization": "National Wellness Institute"
+        }, 
+        {
+            "Acronym": "CTS", 
+            "Certification Name": "Certified Temporary-Staffing Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "1407", 
+            "Certifying Organization": "National Association of Personnel Services"
+        }
+    ], 
+    "onet": "11312100"
+}

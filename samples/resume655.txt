@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734595' xml:space='preserve'><contact><name><givenname>LaVerne</givenname> <surname>Stennett</surname></name>
+<address><street>7917 SW 5th Street</street> <city>North Lauderdale</city>, <state abbrev='FL'>FL</state></address> <email>33068954-513-5418lsgemini76@aol.com</email></contact>
+<summary>OBJECTIVE
+<objective>To obtain employment with a growth oriented company utilizing my instructional design and newly acquired web design skills.</objective></summary>
+<education>EDUCATION
+<school id='4'><institution>American Intercontinental University</institution><daterange><start days='730853' iso8601='2002-01-01'>2002</start> - <end days='731583' iso8601='2004-01-01'>2004</end></daterange>
+<degree level='16' name='Bachelor of Business Administration'>BBA</degree>, <degree level='16' name='Bachelor of Business Administration'>Bachelor of Business Administration</degree>, <major code='4201'>Enterprise Management</major></school>
+<school id='5'><institution>Atlantic Technical Center</institution><daterange><start days='734140' iso8601='2011-01-01'>2011</start> -  <end days='734505' iso8601='2012-01-01'>2012</end></daterange>
+<courses>Certificate in Web Development Services</courses></school></education>
+
+<experience end='present' start='731583'>EXPERIENCE
+<job end='present' id='1' pos='1' sic='801101' sic2='80' start='734140'><title>Staff Development Manager</title><daterange><start days='734140' iso8601='2011-01-01'>2011</start>-Open</daterange>
+<employer>Pediatric Associates</employer> (<address lat='26.188' lon='80.2317' majorcity='FORT LAUDERDALE' state='FL'><city>Lauderdale Lakes</city>, <state abbrev='FL'>FL</state> <postalcode>33319</postalcode></address>)
+<description>Identifying learning and development needs within the organization through job analysis, regular consultation with business managers and directors. Designing and building training and development programs based on both the organization's and the individual's needs. Managing the delivery of training and development programs and, in a more senior role, devising a training strategy for the organization. Monitoring and reviewing the progress of trainees through questionnaires and discussions with managers. Staying current with developments in training by reading relevant journals, going to meetings and attending relevant courses.  Utilizing different e-learning techniques where relevant. Being involved in the creation and/or delivery of computer based training.</description></job>
+
+<job end='733775' id='2' naics='62199921' naics2='62' pos='2' sic='832259' sic2='83' start='732314'><title>E-Learning Specialist/ Instructional Designer</title><daterange><start days='732314' iso8601='2006-01-01'>2006</start> - <end days='733775' iso8601='2010-01-01'>2010</end></daterange> 
+<employer>United Health Group</employer> (<address lat='26.1621' lon='80.3067' majorcity='FORT LAUDERDALE' state='FL'><city>Sunrise</city>, <state abbrev='FL'>FL</state> <postalcode>33323</postalcode></address>)
+<description>Maintained and created e-learning projects for the Knowlagent r8 system. Converted Knowlagent courses via Articulate Presenter for reusable content. Built e-learning courses that were AICC and SCORM compliant. Created user guides and presentations.  Assisted with training class facilitation as needed. Applied instructional design theory to E-learning/WBT methodology to include learner interactivity, questioning techniques, and course assessments. Liaised with Vendors to ensure all system operations were functional and current. Conducted staff meetings pertaining to new policies and procedures. Planned and conducted 1 on 1training programs and conferences dealing with new procedures, instructional materials, and equipment.  Generated reports and discussed ways of improving ROI.</description></job>
+
+<job end='732314' id='3' pos='3' sic='753204' sic2='75' start='731583'><title>E-Learning Specialist</title>  <daterange><start days='731583' iso8601='2004-01-01'>2004</start> - <end days='732314' iso8601='2006-01-01'>2006</end></daterange>
+<employer>PRC</employer> (<address lat='26.2334' lon='80.1568' majorcity='POMPANO BEACH' state='FL'><city>Margate</city>, <state abbrev='FL'>FL</state> <postalcode>33069</postalcode></address>)
+<description>Designed and produced course projects from inception to completion via Knowlagent. Shadowed Subject Matter Experts (SME) to gain understanding and document business processes. Coordinated training class activities. Createdhard and soft copies of facilitator and participant materials. Acted as a liaison between trainers or subject matter experts and the software platform that they relied upon to reach their students. Attended and constructively contributed in staff meetings pertaining to ROI.  Provided technical support to students, faculty and staff achieving internal customer satisfaction.</description></job></experience>
+
+
+<summary>SKills
+Experience working with eLearning development and blended learning programs.
+Excellent consulting and relationship skills.
+Strong interpersonal skills and the ability to interface with all levels within the organization.
+Team oriented, motivated, organized and detailed with a background in writing and oral communication.
+Strong ability to learn new tasks quickl,  work independently or within a team.
+Successfully managed multiple projects.</summary>
+
+
+<skills>TOOLS
+<skills>Articulate Studio 9, Snagit 9, Snagit Editer 9, Knowlagent r8, MS Word, MS Excel, MS PowerPoint, MS Publisher, SharePoint, Go-To-Meeting, WebEx, LearnWell, U-Learn, WILD.
+Some experience with Adobe Photoshop, InDesign, Presenter, LiveCycle, Adobe X, Flash.</skills></skills>  
+</resume>
+
+<skillrollup version='1'>
+  <canonskill name='adobe'>
+    <variant>Adobe</variant>
+  </canonskill>
+  <canonskill name='adobe photoshop'>
+    <variant>Adobe Photoshop</variant>
+  </canonskill>
+  <canonskill end='733775' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='articulate' start='732314'>
+    <variant>Articulate</variant>
+  </canonskill>
+  <canonskill end='732314' experience='1' expidrefs='3' idrefs='3' lastused='2006' name='business process' start='731583'>
+    <variant>business processes</variant>
+  </canonskill>
+  <canonskill end='733775' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='conferences' start='732314'>
+    <variant>conferences</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='consulting' start='734140'>
+    <variant>consultation</variant>
+  </canonskill>
+  <canonskill end='733775' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='content management' start='732314'>
+    <variant>content</variant>
+  </canonskill>
+  <canonskill end='732314' experience='1' expidrefs='3' idrefs='3' lastused='2006' name='customer satisfaction' start='731583'>
+    <variant>customer satisfaction</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='delivery' start='734140'>
+    <variant>delivery</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='design' start='734140'>
+    <variant>Designing</variant>
+  </canonskill>
+  <canonskill name='flash'>
+    <variant>Flash</variant>
+  </canonskill>
+  <canonskill end='733775' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='functional' start='732314'>
+    <variant>functional</variant>
+  </canonskill>
+  <canonskill name='indesign'>
+    <variant>InDesign</variant>
+  </canonskill>
+  <canonskill end='733775' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='instructional design' start='732314'>
+    <variant>instructional design</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='job analysis' start='734140'>
+    <variant>job analysis</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='management' start='734140'>
+    <variant>Managing</variant>
+  </canonskill>
+  <canonskill end='733775' experience='1' expidrefs='2,3' idrefs='2,3' lastused='2010' name='materials management' start='731583'>
+    <variant>materials</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,3' idrefs='1,2,3' lastused='2012' name='meeting facilitation' start='731583'>
+    <variant>meetings</variant>
+  </canonskill>
+  <canonskill name='microsoft excel'>
+    <variant>MS Excel</variant>
+  </canonskill>
+  <canonskill name='microsoft powerpoint'>
+    <variant>MS PowerPoint</variant>
+  </canonskill>
+  <canonskill name='microsoft publisher'>
+    <variant>MS Publisher</variant>
+  </canonskill>
+  <canonskill name='microsoft word'>
+    <variant>MS Word</variant>
+  </canonskill>
+  <canonskill end='733775' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='policy analysis' start='732314'>
+    <variant>policies</variant>
+  </canonskill>
+  <canonskill end='733775' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='presentation skills' start='732314'>
+    <variant>Presenter</variant>
+    <variant>presentations</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='progress' start='734140'>
+    <variant>progress</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='read' start='734140'>
+    <variant>reading</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='strategic' start='734140'>
+    <variant>strategy</variant>
+  </canonskill>
+  <canonskill end='732314' experience='1' expidrefs='3' idrefs='3' lastused='2006' name='technical support' start='731583'>
+    <variant>technical support</variant>
+  </canonskill>
+  <canonskill end='733775' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='training programs' start='732314'>
+    <variant>training programs</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='5' idrefs='5' name='web site production'>
+    <variant>Web Development</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

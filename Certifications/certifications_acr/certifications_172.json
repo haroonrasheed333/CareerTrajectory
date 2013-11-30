@@ -1,0 +1,61 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CFPC&C", 
+            "Certification Name": "Fluid Power Connector and Conductor", 
+            "Type": "Advanced", 
+            "Certification ID": "2605", 
+            "Certifying Organization": "International Fluid Power Society"
+        }, 
+        {
+            "Acronym": "WSO-CSSD", 
+            "Certification Name": "WSO - Certified Safety & Security Director", 
+            "Type": "Advanced", 
+            "Certification ID": "0998", 
+            "Certifying Organization": "World Safety Organization"
+        }, 
+        {
+            "Acronym": "CPE", 
+            "Certification Name": "Certified Planning Engineer", 
+            "Type": "Advanced", 
+            "Certification ID": "7941", 
+            "Certifying Organization": "American Academy of Project Management"
+        }, 
+        {
+            "Acronym": "CMSP", 
+            "Certification Name": "Certified Mine Safety Professional", 
+            "Type": "Core", 
+            "Certification ID": "5390", 
+            "Certifying Organization": "International Society of Mine Safety Professionals"
+        }, 
+        {
+            "Acronym": "D.GE", 
+            "Certification Name": "Diplomate, Geotechnical Engineering", 
+            "Type": "Advanced", 
+            "Certification ID": "8768", 
+            "Certifying Organization": "Academy of Geo-Professionals"
+        }, 
+        {
+            "Acronym": "WSO-CSM", 
+            "Certification Name": "WSO - Certified Safety Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "0996", 
+            "Certifying Organization": "World Safety Organization"
+        }, 
+        {
+            "Acronym": "WSO-CSS", 
+            "Certification Name": "WSO - Certified Safety Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "0997", 
+            "Certifying Organization": "World Safety Organization"
+        }, 
+        {
+            "Acronym": "WSO-CGES", 
+            "Certification Name": "WSO - Certified Governmental Environmental Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "1004", 
+            "Certifying Organization": "World Safety Organization"
+        }
+    ], 
+    "onet": "17215100"
+}

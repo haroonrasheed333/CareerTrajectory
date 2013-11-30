@@ -1,0 +1,187 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734584' xml:space='preserve'><contact><name><givenname>Lynn</givenname> <surname>Young</surname></name>
+<address lat='38.2218' lon='85.6846' majorcity='LOUISVILLE' state='KY'><street>1815 Gardiner Lane</street>
+<city>Louisville</city>, <state abbrev='KY'>Kentucky</state> <postalcode>40205</postalcode></address>
+<email>Lynn.young@insightbb.com</email>
+<phone>(502) 452-2053</phone></contact>
+
+ <summary>Career 
+<summary>My goals are to provide administration coordination building efficiency into the processes that supports management using my interpersonal communication skills, technical skills and experience.  Also implementing and support ongoing administrative modernizing for the executives and supporting teams in the organization while continuously bringing up to date my skills in office processes, procedures and operations.</summary></summary>
+
+<skills>Skills and Training: 
+			
+<skills>Progressive experience in office administrative and operations 
+Successfully completed Microsoft Office Software training; 2010 &amp; Quick books
+Support of HR with collection, verification and processing of employee data to specific forms and requirements
+Experience in use of database management and queries
+Skilled in Desktop computer operating systems
+Experienced with use and maintenance of office equipment; postal machines, copiers, scanners, faxes and paging equipment</skills></skills>
+
+<experience end='present' start='728296'>Career Experience:	
+
+<job end='present' id='1' pos='1' sic='723106' sic2='72' start='734140'><employer>Talis Group</employer>, 									<daterange><start days='734140' iso8601='2011-01-01'>2011</start>-<end days='present' iso8601='2012-03-20'>current</end></daterange>
+<address lat='38.2386' lon='85.7266' majorcity='LOUISVILLE' state='KY'>720 Barret Avenue
+<city>Louisville</city>, <state abbrev='KY'>Kentucky</state> <postalcode>40204</postalcode></address>
+
+Administrative Support
+
+<description>Reception; answer incoming calls, address public inquiries, retrieve messages
+Coordinated follow-up communication with subscribers, vendors and clients regarding business relationships</description></job>
+
+<job end='734140' id='2' pos='2' start='732314'><employer>PMR Companies</employer>, <title>Executive Assistant</title>						<daterange><start days='732314' iso8601='2006-01-01'>2006</start> - <end days='734140' iso8601='2011-01-01'>2011</end></daterange>
+<address lat='38.2386' lon='85.7266' majorcity='LOUISVILLE' state='KY'>963-965 Baxter Avenue
+<city>Louisville</city>, <state abbrev='KY'>Kentucky</state> <postalcode>40204</postalcode></address>
+
+<description>Consult with President daily to review days agenda
+Coordinated daily office tasks as needed
+Set up / maintain files and binders of company information, including HR necessaries
+Support staff and other administrative departments with clerical duties as needed 
+Review and streamline office and administrative tasks for efficiency 
+Manage travel arrangements,  process expense reports and per diem's
+Maintain and conduct reviews for business licenses and insurance 
+Coordinate, facilitate and process correspondence; distribute incoming and outgoing
+mail, maintain office supplies, manage specialty request, and produce company newsletter  
+Facilitate communications between management and internal departments 
+Answer telephones, forward calls as needed and take messages
+Coordinate event planning</description></job>
+
+<job end='732314' id='3' pos='3' sic='8611' sic2='86' start='731583'><employer>Kentuckiana Minority Business Council / GLI</employer>, <title>Certification Assistant</title>	<daterange><start days='731583' iso8601='2004-01-01'>2004</start> - <end days='732314' iso8601='2006-01-01'>2006</end></daterange>	
+<address>614 W. Main St 
+<city>Louisville</city>, <state abbrev='KY'>Kentucky</state></address>
+(502) 625-0159
+
+<description>Conducted public information sessions detailing the benefits of membership
+Represented Council and promoted events in community forums
+Monitored, maintained and edited membership records via data entry, determining eligibility
+Invoiced, coded,  matched and forwarded for signature, accounts receivables
+Verified member demographics for accuracy and guidelines requirements</description></job>
+
+<job end='731218' id='4' pos='4' sic='9211' sic2='92' start='728296'><employer>Metro Government /Fiscal Court</employer>, <title>Admin Assistant / Office Manager</title> 	<daterange><start days='728296' iso8601='1995-01-01'>1995</start> to <end days='731218' iso8601='2003-01-01'>2003</end></daterange>
+<address>517 Court Place
+<city>Louisville</city>, <state abbrev='KY'>Kentucky</state></address>		
+(502) 574-8100
+  
+<description>Coordinated the itinerary for the office executives and departmental staff
+Created required documents for meetings and events
+Managed office supplies, equipment, vendors and suppliers
+Produced and responded to correspondence of the staff and delegated tasks as warranted
+Reviewed time sheets, verified time, and processed for signature and forwarded
+Secured confidential records and contracts	
+Processed office expenses for reimbursement payments and accounts receivables
+Forecasted and analyzed office accounts for the new fiscal year budget</description></job></experience> 
+
+<education>Education:	
+
+<school id='5'><institution>Sullivan University</institution>
+<address><city>Louisville</city>, <state abbrev='KY'>Kentucky</state></address>
+(502) 456-6505
+<degree level='14'>Associates degree</degree> in <major code='4201'>Business Management / Administration / Operations</major> 		<completiondate days='734109' iso8601='2010-12-01'>12/2010</completiondate>*
+Continuing for <degree level='16'>Bachelors</degree>									<completiondate>05/2012</completiondate>
+
+Certificates/Awards:
+
+<courses>1995 YMCA Adult Achiever of the year
+
+Microsoft Digital Literacy Certificate # 515995</courses></school></education>
+
+
+
+
+
+
+
+
+
+
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='732314' experience='1' expidrefs='3,4' idrefs='3,4' lastused='2006' name='accounts receivable' start='728296'>
+    <variant>accounts receivables</variant>
+  </canonskill>
+  <canonskill end='734140' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='administration' start='732314'>
+    <variant>administrative</variant>
+  </canonskill>
+  <canonskill end='734140' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='adobe streamline' start='732314'>
+    <variant>streamline</variant>
+  </canonskill>
+  <canonskill end='732314' experience='1' expidrefs='3' idrefs='3' lastused='2006' name='benefits administration' start='731583'>
+    <variant>benefits</variant>
+  </canonskill>
+  <canonskill end='731218' experience='1' expidrefs='4' idrefs='4' lastused='2003' name='budgeting' start='728296'>
+    <variant>budget</variant>
+  </canonskill>
+  <canonskill end='734140' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='clerical' start='732314'>
+    <variant>clerical</variant>
+  </canonskill>
+  <canonskill end='731218' experience='1' expidrefs='4' idrefs='4' lastused='2003' name='contract management' start='728296'>
+    <variant>contracts</variant>
+  </canonskill>
+  <canonskill end='732314' experience='1' expidrefs='3' idrefs='3' lastused='2006' name='council' start='731583'>
+    <variant>Council</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='customer relations' start='734140'>
+    <variant>clients</variant>
+  </canonskill>
+  <canonskill end='732314' experience='1' expidrefs='3' idrefs='3' lastused='2006' name='data entry' start='731583'>
+    <variant>data entry</variant>
+  </canonskill>
+  <canonskill name='database administration'>
+    <variant>database management</variant>
+  </canonskill>
+  <canonskill end='734140' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='event management' start='732314'>
+    <variant>event planning</variant>
+  </canonskill>
+  <canonskill name='fax'>
+    <variant>faxes</variant>
+  </canonskill>
+  <canonskill name='forms'>
+    <variant>forms</variant>
+  </canonskill>
+  <canonskill end='734140' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='human resources' start='732314'>
+    <variant>HR</variant>
+  </canonskill>
+  <canonskill end='734140' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='insurance' start='732314'>
+    <variant>insurance</variant>
+  </canonskill>
+  <canonskill end='731218' experience='1' expidrefs='4' idrefs='4' lastused='2003' name='meeting facilitation' start='728296'>
+    <variant>meetings</variant>
+  </canonskill>
+  <canonskill end='734140' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='microsoft mail' start='732314'>
+    <variant>mail</variant>
+  </canonskill>
+  <canonskill end='734140' experience='1' expidrefs='2,4' idrefs='2,4' lastused='2011' name='microsoft office' start='728296'>
+    <variant>Microsoft Office Software</variant>
+    <variant>office</variant>
+  </canonskill>
+  <canonskill end='734140' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='newsletters' start='732314'>
+    <variant>newsletter</variant>
+  </canonskill>
+  <canonskill name='office equipment'>
+    <variant>office equipment</variant>
+  </canonskill>
+  <canonskill name='operating systems'>
+    <variant>operating systems</variant>
+  </canonskill>
+  <canonskill name='photocopier'>
+    <variant>copiers</variant>
+  </canonskill>
+  <canonskill name='quickbooks'>
+    <variant>Quick books</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='receptionist' start='734140'>
+    <variant>Reception</variant>
+  </canonskill>
+  <canonskill name='scanners'>
+    <variant>scanners</variant>
+  </canonskill>
+  <canonskill end='734140' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='telephone skills' start='732314'>
+    <variant>telephones</variant>
+  </canonskill>
+  <canonskill end='734140' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='travel arrangements' start='732314'>
+    <variant>travel arrangements</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

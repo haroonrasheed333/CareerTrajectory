@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734594' xml:space='preserve'><contact><name><givenname>Philip</givenname> <givenname>M</givenname>. <surname>Tarnofsky</surname></name>
+<address lat='38.4936' lon='122.982' majorcity='GUERNEVILLE' state='CA'><street>P.O. Box 225</street>
+<city>Guerneville</city>, <state abbrev='CA'>CA</state>  <postalcode>95446</postalcode></address>
+<phone type='fax'>(707) 869-3934  (707) 869-3138</phone> fax
+<email>frecomp@ap.net</email></contact>
+
+
+<summary>OBJECTIVE:	<objective>Supervisory position in the field of Computer Service Technicians. Utilizing skills and experiences to install, setup (configure), maintain, troubleshoot and repair computers
+and computer related hardware.</objective></summary>
+
+<experience end='present' start='718069'>EMPLOYMENT:
+	<job end='present' id='1' pos='1' sic='737103' sic2='73' start='725374'><employer>Friendly Computer Service</employer>, <address><city>Guerneville</city>, <state abbrev='CA'>California</state></address> 	<daterange><start days='725374' iso8601='1987-01-01'>1987</start> - <end days='present' iso8601='2012-03-30'>Current</end></daterange>
+	<title>Owner</title>
+
+	<description>Computer service technician - primary duty is to diagnose problems
+involving either hardware or software (configuration) issues, ensuring computers systems are operating within optimal perimeters. In house
+and business services for computer systems, diagnosis and repair. Consult with business owners and individual's in designing computer system to meet their specific needs. Install software, set up preventive maintenance diagnostics, backup systems and system upgrades. Transfer and upgrade databases to new systems. Advise the customer on more efficient use of the system, tutoring.  Friendly Computer maintains a happy customer list of 175 individuals and business. Great, Customer Service is one of my infamous attributes. 
+
+	Well, versed in DOS, Windows 95 and 98 operating systems, knowledgeable in most Microsoft software applications, Internet setups, Web and graphic design, scanning and manipulation of photographs.</description></job> 
+
+	<job end='725374' id='2' pos='2' start='718069'><employer>Still Magic</employer>						<daterange><start days='718069' iso8601='1967-01-01'>1967</start> - <end days='725374' iso8601='1987-01-01'>1987</end></daterange>
+	<title>Professional Photographer</title>
+
+	<description>A stock photo library with over 80,000 photographic images.  Assisted in the design and production of advertising brochures, flyers, greeting cards, and puzzles.  Special effects, set design and construction phases for television commercials and motion picture projects.  Photographic shows include the projects underwritten by the Sierra Club:
+			Yukon Delta National Park - Alaska 
+			Mineral King National Park - Sierra Mountains
+	Displayed in both Houses of Congress, Washington D.C and traveled throughout the United States on the Freedom Train Exhibit for two years.
+
+	Proficient with numerous camera's and camera systems, all phases of the photographic industry. Owned and operated a professional color laboratory. Worked with creative art directors at Hallmark and Small World Greeting Card Company.</description></job></experience>
+ 
+<references>References Available Upon Request</references>
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='725374' experience='1' expidrefs='2' idrefs='2' lastused='1987' name='adobe photodeluxe' start='718069'>
+    <variant>photo</variant>
+  </canonskill>
+  <canonskill end='725374' experience='1' expidrefs='2' idrefs='2' lastused='1987' name='advertising' start='718069'>
+    <variant>advertising</variant>
+  </canonskill>
+  <canonskill end='725374' experience='1' expidrefs='2' idrefs='2' lastused='1987' name='art' start='718069'>
+    <variant>art</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='backup' start='725374'>
+    <variant>backup</variant>
+  </canonskill>
+  <canonskill end='725374' experience='1' expidrefs='2' idrefs='2' lastused='1987' name='brochure design' start='718069'>
+    <variant>brochures</variant>
+  </canonskill>
+  <canonskill end='725374' experience='1' expidrefs='2' idrefs='2' lastused='1987' name='c' start='718069'>
+    <variant>C</variant>
+  </canonskill>
+  <canonskill end='725374' experience='1' expidrefs='2' idrefs='2' lastused='1987' name='color' start='718069'>
+    <variant>color</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='computer hardware' start='725374'>
+    <variant>hardware</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='customer service' start='725374'>
+    <variant>Customer Service</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='database administration' start='725374'>
+    <variant>databases</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='design' start='725374'>
+    <variant>designing</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='diagnosis' start='725374'>
+    <variant>diagnosis</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='dos' start='725374'>
+    <variant>DOS</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='graphic design' start='725374'>
+    <variant>graphic design</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='microsoft' start='725374'>
+    <variant>Microsoft software</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='microsoft windows 95' start='725374'>
+    <variant>Windows 95</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='microsoft windows 98' start='725374'>
+    <variant>98</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='operating systems' start='725374'>
+    <variant>operating systems</variant>
+  </canonskill>
+  <canonskill end='725374' experience='1' expidrefs='2' idrefs='2' lastused='1987' name='photography' start='718069'>
+    <variant>camera</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='scanners' start='725374'>
+    <variant>scanning</variant>
+  </canonskill>
+  <canonskill end='725374' experience='1' expidrefs='2' idrefs='2' lastused='1987' name='set design' start='718069'>
+    <variant>set design</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='technician' start='725374'>
+    <variant>technician</variant>
+  </canonskill>
+  <canonskill end='725374' experience='1' expidrefs='2' idrefs='2' lastused='1987' name='television' start='718069'>
+    <variant>television</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='tutoring' start='725374'>
+    <variant>tutoring</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='upgrades' start='725374'>
+    <variant>upgrades</variant>
+    <variant>upgrade</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

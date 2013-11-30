@@ -1,0 +1,89 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CBCP", 
+            "Certification Name": "Certified Building Commissioning Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "4009", 
+            "Certifying Organization": "Association of Energy Engineers"
+        }, 
+        {
+            "Acronym": "BD+C", 
+            "Certification Name": "LEED AP  Building Design & Construction", 
+            "Type": "Advanced", 
+            "Certification ID": "6270", 
+            "Certifying Organization": "Green Building Certification Institute"
+        }, 
+        {
+            "Acronym": "AD", 
+            "Certification Name": "Architectural Apprentice Drafter", 
+            "Type": "Core", 
+            "Certification ID": "8043", 
+            "Certifying Organization": "American Design Drafting Association/American Digital Design Association"
+        }, 
+        {
+            "Acronym": "CD", 
+            "Certification Name": "Architectual Certified Drafter", 
+            "Type": "Core", 
+            "Certification ID": "6163", 
+            "Certifying Organization": "American Design Drafting Association/American Digital Design Association"
+        }, 
+        {
+            "Acronym": "CMKBD", 
+            "Certification Name": "Certified Master Kitchen & Bath Designer", 
+            "Type": "Advanced", 
+            "Certification ID": "2712", 
+            "Certifying Organization": "National Kitchen & Bath Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "LEED Green Associate", 
+            "Type": "Core", 
+            "Certification ID": "6025", 
+            "Certifying Organization": "Green Building Certification Institute"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Oracle IT Architecture Release 3 Certified Architecture Specialist", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8500", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Professional Autodesk Revit Architecture 2012", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9473", 
+            "Certifying Organization": "Autodesk, Inc."
+        }, 
+        {
+            "Acronym": "CPD", 
+            "Certification Name": "Certified in Plumbing Design", 
+            "Type": "Advanced", 
+            "Certification ID": "1225", 
+            "Certifying Organization": "American Society of Plumbing Engineers"
+        }, 
+        {
+            "Acronym": "CPDB", 
+            "Certification Name": "Certified Professional Building Designer", 
+            "Type": "Advanced", 
+            "Certification ID": "0989", 
+            "Certifying Organization": "National Council of Building Design Certification"
+        }, 
+        {
+            "Acronym": "BSCP", 
+            "Certification Name": "Building Security Certified Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "8774", 
+            "Certifying Organization": "Building Security Certification Program"
+        }, 
+        {
+            "Acronym": "DCDC", 
+            "Certification Name": "Data Center Design Consultant", 
+            "Type": "Core", 
+            "Certification ID": "8565", 
+            "Certifying Organization": "Building Industry Consulting Service International"
+        }
+    ], 
+    "onet": "17301101"
+}

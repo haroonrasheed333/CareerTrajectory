@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734593' xml:space='preserve'><contact><name><givenname>Nathan</givenname> <givenname>Edwards</givenname> <surname>Daniel</surname></name>
+<address lat='32.8369' lon='96.7951' majorcity='DALLAS' state='TX'><street>3445 Rosedale Ave.</street> <city>Dallas</city>, <state abbrev='TX'>Texas</state> <postalcode>75205</postalcode></address> 	  (912)-<phone>663-1440</phone>             <email>daniel.n.smu@gmail.com</email></contact>
+
+
+
+
+
+
+<summary>Objective: 	<objective>To gain Environmental Engineering experience.</objective></summary>
+
+<education>Education:		<school id='2'><institution>Southern Methodist University</institution>, <address><city>Dallas</city>, <state abbrev='TX'>Tx.</state></address>  			                      GPA: <gpa max='4' value='3.3'>3.3/4.0</gpa>
+		<major code='1103'>Environmental Engineering</major>
+		<degree level='16'>Bachelor of Science degree</degree> expected <completiondate>May 2012</completiondate>
+
+Related Courses: <courses>Aquatic Chemistry, Hazardous Waste Management, Fluid Mechanics, Air Pollution Control, Environmental Engineering Principles and Processes, Water Resources, Industrial Hygiene, Biological Waste Treatment, Contaminant Fate and Transport, Environmental Organic Chemistry.</courses></school></education>
+
+   <experience end='present' start='733500'>Skills:	<job end='present' id='1' pos='1' sic='557103' sic2='55' start='733500'><description>Experience with water quality testing. Includes EDTA titrations, alkalinity testing, TSS testing, turbidity, and VOC testing. Designing wastewater remediation systems for industrial practices. Work with AutoCAD, TANKS software, Water Resources Water Quality Software, WATER9 software, EPA's SCREEN3 model. 
+
+   Experience:                Shadow at HK Engineering Consulting                                                12/11-01/12 Savannah, Ga    
+Expansion of wastewater treatment facility in Richmond Hill, Ga.
+Marina development in Bahamas
+
+                                       Environmental Trip to Leanora, Western Australia		           05/011  Leanora, WA
+Taught Environmental principles to Aboriginal Australian children
+Effects of BHP Billiton on small Aboriginal Australian communities
+
+                         Sustainability Study in Singapore                                                                          02/11 Singapore
+Reviewed NEWater treatment facilities
+Met with members of Singapore's national water agency, PUB
+Conducted research paper involving juxtaposition of Vietnam's industrial pollution problems and Singapore's water remediation and sustainability
+
+                         Infrastructure Research Study in Vietnam    		        01-02/11 Ho Chi Minh, Vietnam
+Met with members of Vina Capital Corporation
+Discussed problems regarding Vietnam's infrastructure
+Discussed groundwater contamination as well as effects of Agent Orange
+as a result of poor industrial practices.</description>
+
+                                      <title>Team Leader</title> for Coastal Ecology Day Camp                        <daterange><start>06/06, 06/2007</start>-<end days='732860' iso8601='2007-07-01'>07/07</end></daterange> <employer>Savannah, Ga</employer>.
+<description>Served as guide/teacher of the surrounding coastal areas of Savannah Georgia
+Taught ecology within Sapelo Island and within the surrounding area of Darien, Ga. 
+Interactions and affiliations with DNR
+
+Activities                    Member of the Kappa Sigma Fraternity</description>		                                             <daterange><start days='733500' iso8601='2009-04-01'>04/09</start> - <end days='present' iso8601='2012-03-29'>Present</end></daterange>
+	            <employer>Active Musician</employer>
+	            Community Service:
+<employer>Clontarf Aboriginal College</employer>, <description>Food Bank Australia, Curtin Volunteers
+Second Harvest Food Bank, Inner City Night Shelter</description></job></experience>
+
+<references>References: 		Available upon request</references>
+
+
+
+
+
+
+
+</resume>
+
+<skillrollup version='1'>
+  <canonskill experience='1' name='assets recovery'>
+    <variant>agency</variant>
+  </canonskill>
+  <canonskill experience='1' name='autocad'>
+    <variant>AutoCAD</variant>
+  </canonskill>
+  <canonskill experience='1' name='commission for health improvement'>
+    <variant>Chi</variant>
+  </canonskill>
+  <canonskill experience='1' name='consulting'>
+    <variant>Consulting</variant>
+  </canonskill>
+  <canonskill experience='1' name='design'>
+    <variant>Designing</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='2' idrefs='2' name='process engineering'>
+    <variant>Processes</variant>
+  </canonskill>
+  <canonskill experience='1' name='quality'>
+    <variant>Quality</variant>
+    <variant>quality</variant>
+  </canonskill>
+  <canonskill experience='1' name='research'>
+    <variant>Research</variant>
+    <variant>research</variant>
+  </canonskill>
+  <canonskill experience='1' name='shadow'>
+    <variant>Shadow</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='sigma' start='733500'>
+    <variant>Sigma</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='teaching' start='733500'>
+    <variant>teacher</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

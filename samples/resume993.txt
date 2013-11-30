@@ -1,0 +1,175 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734598' xml:space='preserve'><contact><name><givenname>Rebecca</givenname> <surname>Jensen</surname></name>
+<phone>(650) 787-6500</phone>    <email>rj6500@gmail.com</email></contact>
+
+<summary>Objective
+
+<objective>Executive Administrator</objective> 
+
+Summary
+
+<summary>I am an administrative professional with experience at Resource Interactive, Stanford University, Neiman Marcus, Nordstrom, and internationally respected apparel and marketing firms abroad. I have outstanding interpersonal and computer expertise; with my can-do attitude, I increase productivity, both quantitatively and qualitatively, by utilizing my diverse skills and experiences at the highest level.</summary></summary>
+
+<skills>Specialties
+
+* <skills>Superior proficiency in verbal and written communication
+* Excellent organizational, time management and problem solving skills
+* Detail oriented with exceptional follow through
+* Positive can-do attitude
+* Outstanding computer skills (MAC and PC: Microsoft Office 2011 (Word, Excel, PowerPoint,
+  Outlook, Access), Adobe Acrobat 9, Photoshop, Filemaker Pro, Oracle, Proprietary based software)</skills></skills> 
+
+<experience end='present' start='730122'>Experience
+
+<job end='present' id='1' pos='1' sic='736103' sic2='73' start='732891'><title>Executive Assistant | Contractor</title> at <employer>Robert Half International</employer> | Office Team   <daterange><start days='732891' iso8601='2007-08-01'>August 2007</start> - <end days='present' iso8601='2012-04-03'>Present</end></daterange></job>
+
+<job end='734505' id='2' pos='2' start='733956'><title>Executive Assistant | Office Manager</title> at <employer>Resource Interactive</employer>   <daterange><start days='733956' iso8601='2010-07-01'>July 2010</start> - <end days='734505' iso8601='2012-01-01'>January 2012</end></daterange>
+<description>Provided administrative support to the Executive Director; fielded various communications and correspondence, managed schedules, activities, meetings and appointments, expense reports, assisted with presentation development and coordinated travel arrangements. Handled all office operations: asset procurement, allocation, management, and organized events for corporate and client visits.</description></job>
+
+<job end='733044' id='3' pos='3' sic='801101' sic2='80' start='732679'><title>Executive Assistant</title> at <employer>Stanford University</employer>   <daterange><start days='732679' iso8601='2007-01-01'>2007</start> - <end days='733044' iso8601='2008-01-01'>2008</end></daterange> 
+<description>Supported the Vice President of Hospital Development, overseeing fundraising efforts for the new hospital and capital campaign for Stanford Hospitals and Clinics.
+
+DSA - Armani Collezioni | Fine Apparel at Neiman Marcus   2007
+Managed and drove Armani Collezioni retail sales and operations for the Palo Alto door in excess of 1.5 million annually as a joint employee of both the Neiman Marcus Group and Giorgio Armani USA.</description></job>
+
+<job end='732679' id='4' pos='4' sic='239902' sic2='23' start='731218'><employer>DSA - Armani Collezioni | Collectors at Nordstrom</employer>    <daterange><start days='731218' iso8601='2003-01-01'>2003</start> - <end days='732679' iso8601='2007-01-01'>2007</end></daterange>
+<description>Managed 75% of Collectors department inventory and sales. Increased volume of the Armani
+Collezioni business by 8.7% in 2005 and 11.6% in 2006, going on to become the retailer's second
+highest volume door by 2007.</description></job>
+
+<job end='731218' id='5' pos='5' sic='508305' sic2='50' start='730122'><title>Executive Assistant</title> at <employer>M.G.S. Co</employer>, <address lat='44.64' lon='-71.1502' majorcity='MILAN' state='NH'><city>Milan</city>, <country iso3='ITA'>Italy</country></address>   <daterange><start days='730122' iso8601='2000-01-01'>2000</start> - <end days='731218' iso8601='2003-01-01'>2003</end></daterange> 
+<description>Facilitated Principal on corporate development, brand identity, RFP preparation, advertising, media
+relations, trend forecasting, e-commerce, and retail expansion.
+
+Professional Model: Print|Runway|Fitting at Elite: Milano, Paris, London, Hamburg   1988 - 2000 
+Clients included: Giorgio Armani, Prada, Jil Sander, Karl Lagerfeld, Moschino, Fendi, and Jean Paul Gaultier.
+
+Recommendations
+
+&quot;Rebecca worked with our team for over a year and was excellent in every way. She has great initiative and does so many extra things that are needed without ever being asked. She is also willing to do anything that needs to get done; simple or complex, she always figures out a way to make it happen. I would hire her again in a minute.&quot;
+Kathi Fox, Vice President / Director - Palo Alto Tech Team:  Resource Interactive
+http://www.linkedin.com/in/rj6500</description></job></experience>
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='734505' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='administrative support' start='733956'>
+    <variant>administrative support</variant>
+  </canonskill>
+  <canonskill name='adobe acrobat'>
+    <variant>Adobe Acrobat 9</variant>
+  </canonskill>
+  <canonskill name='adobe photoshop'>
+    <variant>Photoshop</variant>
+  </canonskill>
+  <canonskill end='731218' experience='1' expidrefs='5' idrefs='5' lastused='2003' name='advertising' start='730122'>
+    <variant>advertising</variant>
+  </canonskill>
+  <canonskill end='731218' experience='1' expidrefs='5' idrefs='5' lastused='2003' name='brand management' start='730122'>
+    <variant>brand identity</variant>
+  </canonskill>
+  <canonskill end='731218' experience='1' expidrefs='5' idrefs='5' lastused='2003' name='com' start='730122'>
+    <variant>com</variant>
+  </canonskill>
+  <canonskill end='734505' experience='1' expidrefs='2,5' idrefs='2,5' lastused='2012' name='customer relations' start='730122'>
+    <variant>client</variant>
+    <variant>Clients</variant>
+  </canonskill>
+  <canonskill name='detail oriented'>
+    <variant>Detail oriented</variant>
+  </canonskill>
+  <canonskill end='731218' experience='1' expidrefs='5' idrefs='5' lastused='2003' name='e - commerce' start='730122'>
+    <variant>e-commerce</variant>
+  </canonskill>
+  <canonskill name='filemaker pro'>
+    <variant>Filemaker Pro</variant>
+  </canonskill>
+  <canonskill end='731218' experience='1' expidrefs='5' idrefs='5' lastused='2003' name='forecasting' start='730122'>
+    <variant>forecasting</variant>
+  </canonskill>
+  <canonskill end='733044' experience='1' expidrefs='3' idrefs='3' lastused='2008' name='fundraising' start='732679'>
+    <variant>fundraising</variant>
+  </canonskill>
+  <canonskill end='731218' experience='1' expidrefs='5' idrefs='5' lastused='2003' name='http' start='730122'>
+    <variant>http</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='4' idrefs='4' lastused='2007' name='inventory management' start='731218'>
+    <variant>inventory</variant>
+  </canonskill>
+  <canonskill name='macintosh'>
+    <variant>MAC</variant>
+  </canonskill>
+  <canonskill end='734505' experience='1' expidrefs='2,5' idrefs='2,5' lastused='2012' name='macromedia director' start='730122'>
+    <variant>Director</variant>
+  </canonskill>
+  <canonskill end='731218' experience='1' expidrefs='5' idrefs='5' lastused='2003' name='media relations' start='730122'>
+    <variant>media
+relations</variant>
+  </canonskill>
+  <canonskill end='734505' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='meeting facilitation' start='733956'>
+    <variant>meetings</variant>
+  </canonskill>
+  <canonskill name='microsoft access'>
+    <variant>Access</variant>
+  </canonskill>
+  <canonskill name='microsoft excel'>
+    <variant>Excel</variant>
+  </canonskill>
+  <canonskill end='734505' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='microsoft office' start='733956'>
+    <variant>Microsoft Office</variant>
+    <variant>office</variant>
+  </canonskill>
+  <canonskill name='microsoft outlook'>
+    <variant>Outlook</variant>
+  </canonskill>
+  <canonskill name='microsoft powerpoint'>
+    <variant>PowerPoint</variant>
+  </canonskill>
+  <canonskill end='731218' experience='1' expidrefs='5' idrefs='5' lastused='2003' name='microsoft windows 2000' start='730122'>
+    <variant>2000</variant>
+  </canonskill>
+  <canonskill name='microsoft word'>
+    <variant>Word</variant>
+  </canonskill>
+  <canonskill name='oracle'>
+    <variant>Oracle</variant>
+  </canonskill>
+  <canonskill name='organizational skills'>
+    <variant>organizational</variant>
+  </canonskill>
+  <canonskill end='734505' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='presentation design' start='733956'>
+    <variant>presentation development</variant>
+  </canonskill>
+  <canonskill name='problem solving'>
+    <variant>problem solving skills</variant>
+  </canonskill>
+  <canonskill end='734505' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='procurement' start='733956'>
+    <variant>procurement</variant>
+  </canonskill>
+  <canonskill end='731218' experience='1' expidrefs='5' idrefs='5' lastused='2003' name='retail' start='730122'>
+    <variant>retail</variant>
+  </canonskill>
+  <canonskill end='733044' experience='1' expidrefs='3' idrefs='3' lastused='2008' name='retail sales' start='732679'>
+    <variant>retail sales</variant>
+  </canonskill>
+  <canonskill end='731218' experience='1' expidrefs='5' idrefs='5' lastused='2003' name='rfp' start='730122'>
+    <variant>RFP</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='4' idrefs='4' lastused='2007' name='sales' start='731218'>
+    <variant>sales</variant>
+  </canonskill>
+  <canonskill name='time management'>
+    <variant>time management</variant>
+  </canonskill>
+  <canonskill end='734505' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='travel arrangements' start='733956'>
+    <variant>travel arrangements</variant>
+  </canonskill>
+  <canonskill end='731218' experience='1' expidrefs='5' idrefs='5' lastused='2003' name='trend' start='730122'>
+    <variant>trend</variant>
+  </canonskill>
+  <canonskill name='writing'>
+    <variant>written communication</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

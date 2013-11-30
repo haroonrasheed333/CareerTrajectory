@@ -1,0 +1,19 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "EVT", 
+            "Certification Name": "Electric Vehicle Technician", 
+            "Type": "Advanced", 
+            "Certification ID": "7629", 
+            "Certifying Organization": "ETA International"
+        }, 
+        {
+            "Acronym": "FG", 
+            "Certification Name": "Fuel Gas Inspector", 
+            "Type": "Advanced", 
+            "Certification ID": "6907", 
+            "Certifying Organization": "International Code Council"
+        }
+    ], 
+    "onet": "17214101"
+}

@@ -1,0 +1,310 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734594' xml:space='preserve'>                                               <contact><name><givenname>Pradnya</givenname>.<givenname>D</givenname>.<surname>Kakodkar</surname></name>
+ 			             <address lat='39.2203' lon='86.4582' majorcity='BLOOMINGTON' state='IN'><street>2620 E Eastgate Lane, Apt I</street>, <city>Bloomington</city>, <state abbrev='IN'>Indiana</state>-<postalcode>47408</postalcode></address>
+                                                                             <email>pkakodka@indiana.edu</email> ~<phone>224-676-8865</phone></contact>
+
+_____________________________________________________________________________________________
+<summary>Objective:
+<objective>To help the organization in achieving its goals by applying all the skills and knowledge I have acquired in various aspects of software development</objective></summary> 
+________________________________________________________________________________________________________
+<education>Education:
+<school id='4'><institution>Indiana University</institution>, <address><city>Bloomington</city>, <state abbrev='IN'>IN</state></address>					                            	 <completiondate>May 2012</completiondate>
+ <degree level='18' name='Master of Science'>Master of Science</degree> in <major code='0402'>Computer Science</major>
+GPA:<gpa max='4' value='3.5'>3.5/4.0</gpa></school>
+
+<school id='5'><institution>Mumbai University</institution>, <address><city>Mumbai</city>, <country iso3='IND'>India</country></address>					                             		<completiondate days='733196' iso8601='2008-06-01'>June 2008</completiondate></school>	
+<school id='6'><institution>Fr. Conceicao Rodrigues College of Engineering</institution>, <address><country iso3='IND'>India</country></address> 
+<degree level='16' name='Bachelor of Engineering'>Bachelor of Engineering</degree> in <major code='1201'>Computer Engineering</major>
+GPA: <gpa max='4' value='3.6'>3.6/4.0</gpa></school></education>
+
+_____________________________________________________________________________________________
+<experience end='present' start='733653'>Professional Experience:
+<job end='present' id='1' naics='61131009' naics2='61' pos='1' sic='581212' sic2='58' start='734383'><employer>Indiana Prevention Resource Center, Indiana University</employer>,Bloomington                     <daterange><start days='734383' iso8601='2011-09-01'>Sept 2011</start> to <end days='present' iso8601='2012-03-30'>Present</end></daterange>
+Position: <title>Web Developer</title>
+Roles &amp; Responsibilities:
+<description>Perform  analysis, design, programming, documentation, and troubleshooting for the Indiana Prevention resource Center website(http://www.drugs.indiana.edu/)
+Develop database-driven Web interfaces for rapid, real-time information sharing
+Develop external Web portals allowing users to input and retrieve accurate information
+Design and implement user-driven templates, databases and interfaces for ease of use
+Host  applications using IIS 7.0 on Windows Server 2003
+Perform complete testing of Web applications-unit and system, engaging users as necessary.
+Skills Used: Asp.Net, C#, Javascript, Html5,JQuery,Web services,SQL server 2008,Linq,Ajax,Css</description></job>
+
+<job end='734352' id='2' pos='2' sic='873125' sic2='87' start='733775'><employer>CYMER Inc</employer>, <address>SanDiego,<state abbrev='CA'>California</state></address>        					             <daterange><start days='734260' iso8601='2011-05-01'>May 2011</start> to <end days='734352' iso8601='2011-08-01'>August 2011</end></daterange>
+Position: <title>Analyst Programmer</title>
+Roles &amp; Responsibilities:
+<description>Enhance an existing dashboard system for custom applications developed by the engineers in the Tactical Operations Center(TACOPS) on cymer source to cover tools that are not currently supported by the dashboard.
+Develop an administrative section to allow key people to define various report generation parameters.
+Transform large custom XML files into a format that can be loaded into the PostgreSQL database used by the Cymer Online Software  using Linq with C#
+Optimized and Simplified Existing code and received accolades for the efficiency of work.
+Skills Used: Asp.Net, C#, Linq, Ajax, Sql Server 2008,Javascript,Css,Html 
+
+Office of Research Administration,Indiana University,Bloomington                     Oct</description> <daterange><start days='733775' iso8601='2010-01-01'>2010</start> to <end days='734199' iso8601='2011-03-01'>March 2011</end></daterange>
+Position: <title>Systems  Analyst</title>
+Roles &amp; Responsibilities:
+<description>Developing and maintaining web applications for the Office of Research Administration at Indiana University
+Designing new pages and adding new functionality based on the requirements.
+Involved in code optimization and tuning of the websites.
+Minimized large scale code duplications for operations like database handling by using ADO.Net API in Spring.Net
+Used Testing tools like selenium, Nunit to ensure the correctness of the  functionality in the application
+Skills Used:Asp.Net,C#,Javascript,Linq,Web services, Spring.Net,Sql server 2008,Linq,Ajax,Css,Html
+Testing Tools: Selenium, Nunit</description></job>
+
+<job end='733956' id='3' naics='54151109' naics2='54' pos='3' sic='573401' sic2='57' start='733653'><employer>Syntel Ltd</employer>, <address><city>Mumbai</city>, <country iso3='IND'>India</country></address>							              <daterange><start days='733653' iso8601='2009-09-01'>Sept 2009</start>-<end days='733956' iso8601='2010-07-01'>July 2010</end></daterange>
+Position: <title>Analyst Programmer</title>                                                                                        
+Client: <employer>Moodys Investor Services</employer>
+Role &amp; Responsibilities: <description>For this my role  of a Programmer was:
+Added new features and enhanced a web based  n-tier application for  the corporate,public and structured 
+finance groups of Moodys Investor Service.
+Designed the layout of the site and developed an internal application for  the organization
+Involved in Code Optimization, Unit Testing and Debugging of the application.
+Was responsible for providing project specific training to new team members
+Skills Used:Asp.Net,C#,Javascript,Linq,Web services,Sql server 2008,Ajax,Xslt,Css,Html
+
+Academic Projects: 
+
+Designed and Developed a gameMaker which is capable of making 5 games.The gameMaker has been developed using Design Patterns such as Model View Controller,Composite,Observer and Command in Java.
+Developed a web based application which can be used to create and play online games and also allow users to save different versions of the games.Developed using Jquery,HTML5,Ajax,Spring,Hibernate,Apache Derby.
+Developed a Search Engine using C#,LINQ and SQL for Health care Data collected from the MedLine Plus website.
+Developed an  application that extracts data from various web services using WSDL, SOAP in ASP.NET.
+Computation of word count using Hadoop MapReduce algorithm on multiple nodes, in Java.
+Parallelization of the Page Rank Algorithm using MPI. Designed a resource monitoring system containing a message broker, a monitoring daemon and UI with JFreeCharts in Java.
+Implemented the sequential and parallel versions of Matrix Multiplication using C# and DryadLINQ 
+Designed and Developed a Recipe Storage and Search website using PHP,MySql,Jquery,Javascript Link
+Developed a packet sniffer and a port scanner in C. 
+Implemented a Mobile Based Railway Ticketing Application using Java,J2ME and MySql</description></job></experience>
+
+
+<skills>Technical Skills: 
+
+Programming languages :  	<skills>C#, Java C, C++</skills>
+
+ Web Technologies : 		<skills>ASP.NET(4.0,3.5,2.0 &amp; 1.1), VB.net (3.5,2.0 1.1),ADO.NET,Web Services,REST                
+                                                           API,LINQ,AJAX,MVC,WCF,WPF,Spring.Net,JavaScript,JQuery, HTML5,J2EE,CSS,
+                                                           XML,XSLT,XPATH,XQUERY,PHP    
+                                       
+Operating Systems:              Windows 98, 2000, XP &amp; Windows Vista, Linux, Unix
+
+Databases:                           SQL Server 2008,  MySql ,MS Access
+
+Tools &amp; Utilities:                   Microsoft Visual Studio,Eclipse,Tortoise SVN,JIRA,Bamboo,Dreamweaver,Ms Office
+
+Testing Tools:                       Selenium, NUnit</skills>
+
+
+
+Professional Certifications:
+<courses>MCTS(Microsoft Certified Technology Specialist)</courses></skills>
+
+
+
+
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='734579' experience='1' expidrefs='1,2,3' idrefs='1,2,3' lastused='2012' name='.net' start='733653'>
+    <variant>Asp.Net</variant>
+    <variant>VB.net</variant>
+    <variant>.NET</variant>
+    <variant>.Net</variant>
+    <variant>ASP.NET</variant>
+  </canonskill>
+  <canonskill end='733956' experience='1' expidrefs='3' idrefs='3' lastused='2010' name='academic' start='733653'>
+    <variant>Academic</variant>
+  </canonskill>
+  <canonskill end='734352' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='administration' start='733775'>
+    <variant>administrative</variant>
+  </canonskill>
+  <canonskill end='734352' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='ado' start='733775'>
+    <variant>ADO</variant>
+  </canonskill>
+  <canonskill end='733956' experience='1' expidrefs='3' idrefs='3' lastused='2010' name='apache webserver' start='733653'>
+    <variant>Apache</variant>
+  </canonskill>
+  <canonskill end='734352' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='api' start='733775'>
+    <variant>API</variant>
+  </canonskill>
+  <canonskill end='733956' experience='1' expidrefs='3' idrefs='3' lastused='2010' name='c' start='733653'>
+    <variant>C</variant>
+  </canonskill>
+  <canonskill name='c + +'>
+    <variant>C++</variant>
+  </canonskill>
+  <canonskill end='733956' experience='1' expidrefs='3' idrefs='3' lastused='2010' name='control' start='733653'>
+    <variant>Controller</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,3' idrefs='1,2,3' lastused='2012' name='css' start='733653'>
+    <variant>CSS</variant>
+    <variant>Css</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='database administration' start='733775'>
+    <variant>Databases</variant>
+    <variant>databases</variant>
+    <variant>database</variant>
+  </canonskill>
+  <canonskill end='733956' experience='1' expidrefs='3' idrefs='3' lastused='2010' name='debugging' start='733653'>
+    <variant>Debugging</variant>
+  </canonskill>
+  <canonskill end='734352' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='design' start='733775'>
+    <variant>Designing</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='documentation' start='734383'>
+    <variant>documentation</variant>
+  </canonskill>
+  <canonskill name='dreamweaver'>
+    <variant>Dreamweaver</variant>
+  </canonskill>
+  <canonskill name='eclipse'>
+    <variant>Eclipse</variant>
+  </canonskill>
+  <canonskill end='733956' experience='1' expidrefs='3' idrefs='3' lastused='2010' name='features' start='733653'>
+    <variant>features</variant>
+  </canonskill>
+  <canonskill end='733956' experience='1' expidrefs='3' idrefs='3' lastused='2010' name='finance' start='733653'>
+    <variant>finance</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,3' idrefs='1,2,3' lastused='2012' name='html' start='733653'>
+    <variant>HTML5</variant>
+    <variant>Html5</variant>
+    <variant>Html</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='http' start='734383'>
+    <variant>http</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='iis' start='734383'>
+    <variant>IIS 7.0</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='information architecture' start='734383'>
+    <variant>information
+Design</variant>
+  </canonskill>
+  <canonskill end='733956' experience='1' expidrefs='3' idrefs='3' lastused='2010' name='java' start='733653'>
+    <variant>Java</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,3' idrefs='1,2,3' lastused='2012' name='javascript' start='733653'>
+    <variant>JavaScript</variant>
+    <variant>Javascript</variant>
+  </canonskill>
+  <canonskill name='languages'>
+    <variant>languages</variant>
+  </canonskill>
+  <canonskill end='733956' experience='1' expidrefs='3' idrefs='3' lastused='2010' name='layout design' start='733653'>
+    <variant>layout</variant>
+  </canonskill>
+  <canonskill name='linux'>
+    <variant>Linux</variant>
+  </canonskill>
+  <canonskill name='microsoft access'>
+    <variant>MS Access</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,3' idrefs='1,2,3' lastused='2012' name='microsoft c #' start='733653'>
+    <variant>C#</variant>
+  </canonskill>
+  <canonskill name='microsoft certified professional'>
+    <variant>Microsoft Certified</variant>
+  </canonskill>
+  <canonskill end='734352' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='microsoft office' start='733775'>
+    <variant>Ms Office</variant>
+    <variant>Office</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='microsoft windows' start='734383'>
+    <variant>Windows</variant>
+  </canonskill>
+  <canonskill name='microsoft windows 2000'>
+    <variant>2000</variant>
+  </canonskill>
+  <canonskill name='microsoft windows 98'>
+    <variant>Windows 98</variant>
+  </canonskill>
+  <canonskill end='733956' experience='1' expidrefs='3' idrefs='3' lastused='2010' name='microsoft word' start='733653'>
+    <variant>word</variant>
+  </canonskill>
+  <canonskill name='mvc'>
+    <variant>MVC</variant>
+  </canonskill>
+  <canonskill end='733956' experience='1' expidrefs='3' idrefs='3' lastused='2010' name='mysql' start='733653'>
+    <variant>MySql</variant>
+  </canonskill>
+  <canonskill end='734352' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='oct' start='733775'>
+    <variant>Oct</variant>
+  </canonskill>
+  <canonskill name='operating systems'>
+    <variant>Operating Systems</variant>
+  </canonskill>
+  <canonskill end='734352' experience='1' expidrefs='2,3' idrefs='2,3' lastused='2011' name='optimization' start='733653'>
+    <variant>Optimization</variant>
+    <variant>optimization</variant>
+  </canonskill>
+  <canonskill end='733956' experience='1' expidrefs='3' idrefs='3' lastused='2010' name='page' start='733653'>
+    <variant>Page</variant>
+  </canonskill>
+  <canonskill end='733956' experience='1' expidrefs='3' idrefs='3' lastused='2010' name='php' start='733653'>
+    <variant>PHP</variant>
+  </canonskill>
+  <canonskill end='734352' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='postgresql' start='733775'>
+    <variant>PostgreSQL</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,3' idrefs='1,3' lastused='2012' name='programming' start='733653'>
+    <variant>Programmer</variant>
+    <variant>Programming</variant>
+    <variant>programming</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='real time' start='734383'>
+    <variant>real-time</variant>
+  </canonskill>
+  <canonskill end='734352' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='research' start='733775'>
+    <variant>Research</variant>
+  </canonskill>
+  <canonskill end='733956' experience='1' expidrefs='3' idrefs='3' lastused='2010' name='scanners' start='733653'>
+    <variant>scanner</variant>
+  </canonskill>
+  <canonskill end='733956' experience='1' expidrefs='3' idrefs='3' lastused='2010' name='soap' start='733653'>
+    <variant>SOAP</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,3' idrefs='1,2,3' lastused='2012' name='sql' start='733653'>
+    <variant>Sql server</variant>
+    <variant>SQL Server</variant>
+    <variant>SQL server</variant>
+    <variant>SQL</variant>
+    <variant>Sql Server</variant>
+  </canonskill>
+  <canonskill end='733956' experience='1' expidrefs='3' idrefs='3' lastused='2010' name='structured methods' start='733653'>
+    <variant>structured</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='troubleshooting' start='734383'>
+    <variant>troubleshooting</variant>
+  </canonskill>
+  <canonskill name='unix'>
+    <variant>Unix</variant>
+  </canonskill>
+  <canonskill name='utilities'>
+    <variant>Utilities</variant>
+  </canonskill>
+  <canonskill end='733956' experience='1' expidrefs='3' idrefs='3' lastused='2010' name='view' start='733653'>
+    <variant>View</variant>
+  </canonskill>
+  <canonskill name='vista'>
+    <variant>Vista</variant>
+  </canonskill>
+  <canonskill name='visual studio'>
+    <variant>Microsoft Visual Studio</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='web application development' start='733775'>
+    <variant>Web applications</variant>
+    <variant>web applications</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,3' idrefs='1,2,3' lastused='2012' name='web site production' start='733653'>
+    <variant>website</variant>
+    <variant>websites</variant>
+  </canonskill>
+  <canonskill end='734352' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='xml' start='733775'>
+    <variant>XML</variant>
+  </canonskill>
+  <canonskill end='733956' experience='1' expidrefs='3' idrefs='3' lastused='2010' name='xslt' start='733653'>
+    <variant>XSLT</variant>
+    <variant>Xslt</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

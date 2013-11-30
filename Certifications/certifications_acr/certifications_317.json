@@ -1,0 +1,19 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CP-T", 
+            "Certification Name": "Certified Teacher of Parliamentary Procedure", 
+            "Type": "Core", 
+            "Certification ID": "3855", 
+            "Certifying Organization": "American Institute of Parliamentarians"
+        }, 
+        {
+            "Acronym": "CFCS", 
+            "Certification Name": "Certified in Family and Consumer Sciences", 
+            "Type": "Advanced", 
+            "Certification ID": "1319", 
+            "Certifying Organization": "American Association of Family and Consumer Sciences"
+        }
+    ], 
+    "onet": "25112200"
+}

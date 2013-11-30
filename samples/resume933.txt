@@ -1,0 +1,669 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734597' xml:space='preserve'><contact><name><givenname>Hari</givenname> <surname>Yalamanchili</surname></name></contact>
+
+<summary>PROFILE
+   
+ 	 <summary>Software engineer with 12 years of experience, mostly at the senior level. Delivered customized solutions to the clients based on the infrastructure &amp; resources available. Successful in leading several large projects to on-time &amp; on-budget delivery. Expert in industry best practices to develop scalable, maintainable and high performance applications. A creator of win-win situations to develop positive energy &amp; culture in teams.</summary></summary> 
+
+<skills>PROFESSIONAL SKILLS 
+<skills>App/Web Servers:	Web Sphere 6.1/7.0, Web Logic 7.1/8.1/9.0, Glassfish 9.0, IPlanner, IIS, Apache Tomcat, ATG Dynamo, Liferay
+Databases:		Oracle 10g/9i/8.x, MySQL Database, UDB, Mainframe DB2, SQL Server, Sybase
+Dist Object Mgt:	Enterprise Java Beans (EJB 3.0, 2.0), RMI, CORBA, DCOM, and RPC
+EAI:                               Webmethods, TIBCO, Vitria   
+Frameworks:	JSF, Struts 1&amp; 2, Caching, Spring, Sitemesh, Fast4j, Data access, UI,   Messaging, JMX, JGroups, Hibernate, iBatis, Quartz, GWT, Microsoft .Net 4.0
+GUI &amp; DW tools:	Developer 2000, Designer 2000, Crystal Reports 7, Visual Mining NetCharts, Informatica, Cognos 
+Development tools:     VAJ 4.0,  Jbuilder 9, Intellij, Netbeans, JDeveloper, Eclipse, BEA ,  BIRT, Visual studio, WebLogicWorkshop7.1, IBM RAD7.0, Eclipse, Intellij, TOAD, JUnit, TestNG, JMock, EasyMock, Ant, Maven, Bugzilla, Hudson, Cruise Control, ,XPlanner. 
+Java Technologies:       Java SE(Swing, JDBC, JNI, JPA, JNDI, RMI, JMX], J2EE [ Servlets, JSP, EJB , JMS,  , Java Mail API, ,  JAXP, JAXB, JAX-RPC, JAX-WS, JAX-RS], MQ Series , Netscape LDAP API , 
+Languages: 	JAVA, C, C#, C++, Perl, Python, Groovy, Pascal, Cobol, Ruby, VB, VC++, Shell scripting, PLSQL, VB, PRO* C, Pascal, SQL, Lisp
+Web &amp; XML:	XML (DTD &amp; XML Schema), XSL, XSL-T, XSL-FO, SAX, DOM, JAXB, JiBX, WS-* based Web Services (SOAP, WS-Security, WSDL, UDDI, MTOM), XHTML, HTML, DHTML,  CSS, Java Script, AJAX, JQuery, ExtJS, Flex, YUI, Dojo, DWR
+Methodologies:             Waterfall, Agile, XP, Scrum, TDD, Lean, Unified process.
+OAAD tools:		Rational Rose, Rational XDE, VISIO, Star UML, Enterprise Architect, Argo UML 
+Operating Systems:	Windows NT/CE, UNIX (HP, Solaris), IBM AIX 5/1.2, Linux (Ubuntu, Red hat) Mainframe Z/OS.</skills>                   
+Profiling Tools:             <skills>JProbe, TPTP, Load Runner, Visual VM   
+Protocols:		HTTP, HTTPS, SOAP, TCP/IP, TL1
+Version Control:	Rational Clear Case, CVS, PVCS, SVN, VSS, Changeman, Git, Mercurial, CA.</skills></skills>                               
+
+<experience end='present' start='733561'>PROFESSIONAL EXPERIENCE 
+
+<job end='present' id='1' naics='52421001' naics2='52' pos='1' sic='801101' sic2='80' start='733561'><employer>Blue care Network</employer>  (<address lat='42.0674' lon='-73.2896' majorcity='SOUTHFIELD' state='MA'><city>Southfield</city>, <state abbrev='MI'>MI</state></address>)     	         	                                            <daterange><start days='733561' iso8601='2009-06-01'>June 2009</start> to <end days='present' iso8601='2012-04-02'>present</end></daterange>
+<title>Senior Software Engineer</title>[<jobtype>Contract</jobtype> position]
+
+       <description>Architected, designed &amp; developed several web applications for pharmacy, rating, benefit, claims, provider &amp; membership areas. 
+
+Accomplishments
+Introduced several web frameworks &amp; services to help the company establish web &amp; real time transaction processing infrastructure. 
+Designed &amp; developed a web service to access accumulators.
+Created high performance multi threaded batch jobs.
+Created generic web based table maintenance tool.
+Developed testing frameworks with mocked data to decrease regression testing time.
+Created generic framework for development &amp; monitoring of daily batch jobs.
+Designed &amp; developed web interface to load member rates to facets in bulk.
+Designed &amp; developed SSL digital signature mechanism for exchanging data with vendors.
+Designed and developed web 2.0 pharmacy product maintenance web application.
+Aided in the creation of TCP/IP resource adapter for real time transactions with Medco.
+Analyzed all internet web applications for security threats using Fortify.
+Developed Sybase stored procedures &amp; korn shell scripts.</description></job></experience>
+
+<skills><skills>Environment:, Java, JSF,  Struts, Spring, Hibernate, HTML 4.x, Servlet, JSP, JAX-WS, Tomcat 6.0, JBoss 6.0, JavaScript, Ant, Oracle 10g, PL/SQL, JQuery, Sybase,  Sql server, Java, Vitria, UNIX, XML, PVCS, CA, Star UML, Rational Rose, RAD, Sybase, Sql Advantage, C, Visual C++, Vitria Businessware 5.0, Facets (Trizeto), MQ Series, MFC, Windows NT/2000/XP/UNIX, Microsoft Visio, Rational Rose Websphere 7.0, Putty, WS_FTP, XML spy, Dreamweaver, PVCS, Visual studio, AIX, Jmeter, JProbe, Webtrends.</skills></skills>
+
+<experience end='733561' start='729877'><job end='733561' id='2' naics='54161303' naics2='54' pos='2' start='733104'><employer>BI Worldwide</employer> (<address><city>Minneapolis</city>, <state abbrev='MN'>MN</state></address>)      	         	                                                      <daterange><start days='733104' iso8601='2008-03-01'>Mar' 2008</start> to <end days='733561' iso8601='2009-06-01'>June 2009</end></daterange>
+<title>Senior Java Programmer</title>
+                          
+<description>Developed Ecommerce websites to track employee performance &amp; ROI on promotional programs. 
+
+Accomplishments 
+Developed several Ecommerce single sign-on web applications in J2EE using spring and Hibernate. 
+Analytical reports are generated using Jasper to track the program progress and to measure ROI.
+JMS and web services are used heavily for better performance and seamless integration with third party travel, hotel &amp; credit card companies. 
+Ajax &amp; JQuery are used in tandem to provide rich UI experience to user.
+Developed key word search utility using Lucene.
+Ported applications from Weblogic to Glassfish application server.
+Developed custom tags for pagination and to format data.
+Made application SSL enabled using struts secure plug-in. 
+Converted JMS resources to JGroups for communication between components in a clustered environment.
+Google analytical engine is used for analyzing the traffic to application.
+
+   Environment:    J2EE, Struts , Hibernate 3.1, Spring 2.5, JSP, JSF, Servlets, XML, AJAX, JavaScript, Adobe Flash, Web Logic 8.1, MQSeries, JMS, Oracle10g, Oracle 9i, WindowsNT, SOA, Web Services, JGroups, PL/SQL, TOAD, DBVisualizer, CVS, JAAS, Junit, JQuery,  JProbe, Jmap, Jhat, VisualVM, EJB 3.0, JDK 1.6, Microsoft Visio, EJB 3.0, Agile Methodology, XPlanner, Quartz, Jamon, OSCache.</description></job>
+
+<job end='733075' id='3' naics='48423013' naics2='48' pos='3' sic='421304' sic2='42' start='731857'><employer>J.B Hunt Transport Services Inc</employer>. (<address><city>Lowell</city>, <state abbrev='AR'>AR</state></address>)      	         	                        <daterange><start days='731857' iso8601='2004-10-01'>Oct' 2004</start> to <end days='733075' iso8601='2008-02-01'>Feb'2008</end></daterange>
+<title>Programming Specialist</title>
+           
+ <description>Designed &amp; Development various applications in Operations, Maintenance, HR, Marketing and Safety business areas. 
+
+Accomplishments 
+Involved in design and development of a distributed disconnected handheld application in C#. The application helped reduce our holding costs and stock-outs &amp; moved the company very close to JIT inventory system.
+Developed repair order and invoicing application using .NET platform for industrial engineers.
+Used BIRT exclusively to generate inventory turn around, driver turn around and safety compliance reports.
+Customized Maximo business components &amp; developed common business components using EJB. 
+Written processes to migrate data between Mainframe and Oracle using MQ Series.
+Worked with xml data binding frameworks like Castor, JiBX and JAXB.
+Implemented Invoice portal for all invoicing information.  
+
+Environment: J2EE, Struts, JSP, Servlets, XML, AJAX, JavaScript, Spring, Hibernate, Fast 4j, Web Logic 8.1, MQ Series, Vitria, MAXIMO, DB2, Oracle 8i, Windows NT, Visual Studio 2005, C#, Windows CE, SQL Server 2005, Change man DS, CVS, SVN, Microsoft .NET, Web Services, Intermec 760 &amp; 761, Filenet, Microsoft SQL Mobile Studio, SOTI Controller, Active Sync, Syclo, BEA Workshop, BEA Portal, PerfomaSure, MSProject, Omniture.</description></job>
+
+
+<job end='731857' id='4' naics='54171001' naics2='54' pos='4' sic='599904' sic2='59' start='731765'><employer>Lucent Technologies</employer> (<address><city>Murray Hill</city>, <state abbrev='NJ'>NJ</state></address>)      	                                                          <daterange><start days='731765' iso8601='2004-07-01'>Jul' 2004</start> to <end days='731857' iso8601='2004-10-01'>Oct 2004</end></daterange>
+<title>Senior Java Developer</title> [<jobtype>Contract</jobtype> position]
+
+               <description>Enhanced marketing portal of Lucent using Enterprise Content Management System. 
+
+Accomplishments 
+Created modules to publish new content using RMI processes.
+Developed UI components to display content from Velocity and Freemarker templates. 
+Created interfaces to interact with Documentum to store templates. 
+Created Printer friendly web pages.
+
+Environment: J2EE, Struts, JSP, Servlets, XML, SAX, Java-RMI, Documentum 5.x, JavaScript, Oracle 9i, Eclipse, TOAD, PVCS, Web sphere 4.0, Windows 2000, SUN and Linux .</description></job>
+
+
+<job end='731735' id='5' pos='5' start='731369'><employer>GE Corporate</employer> (<address><city>Shelton</city>, <state abbrev='CT'>CT</state></address>)      	         	                                                                     <daterange><start days='731369' iso8601='2003-06-01'>Jun' 2003</start> to <end days='731735' iso8601='2004-06-01'>Jun' 2004</end></daterange>
+<title>Senior Software Developer</title> [<jobtype>Contract</jobtype> position]
+        
+ <description>Designed and developed a web based employee management portal called EStart/EExit. The project was previously maintained in Lotus domino.  
+
+Accomplishments 
+Lead an offshore team of 10 people. 
+Designed the application with clear interfaces between modules using rational rose
+Designed Database using Erwin following Object Oriented conventions. 
+Coded stored procedures in PL/SQL for viewing data from warehouse.
+Created scripts for data migration from Lotus domino to oracle.
+Created search functionality using Endeca API.
+Generated weekly report of data in Excel using POI API provided by Jakarta.
+	
+Environment: J2EE, Struts, JSP, Servlets, XML, JavaScript, LDAP, Oracle 9i, UML, Eclipse, TOAD, Ant, Visual source safe, Web sphere 5.0, IBM Rational Rose, Endeca, Crystal Reports, Erwin,  and Unix.</description></job>
+
+<job end='731338' id='6' naics='62199921' naics2='62' pos='6' sic='832259' sic2='83' start='730973'><employer>United Health Care</employer> (<address><city>Dallas</city>, <state abbrev='TX'>TX</state></address>)      	         	                                                  <daterange><start days='730973' iso8601='2002-05-01'>May' 2002</start> to <end days='731338' iso8601='2003-05-01'>May 2003</end></daterange>
+<title>Programmer</title> [<jobtype>Contract</jobtype> position]
+
+                  <description>Re-designed and developed agent contracting system using J2EE architecture and Struts framework.
+
+Accomplishments 
+Did reverse engineering and documented the functionality of the system and all performance issues in the high-level architecture document.
+Re-designed the application with J2EE architecture and using existing Frameworks.
+Enhanced the caching framework to make it more generic in caching the reference data.
+Improved the mechanism of tracing and logging by logging the business events and exceptions to different files and provided facility so that specific business errors are logged to a database.
+
+Environment: J2EE, Struts, JSP, Servlets, EJB, XML, JavaScript, Visual Age for Java, WSAD, Frameworks, Sybase, Oracle, UML, RUP, Rational Rose, Dream Weaver 4, Ant, PVCS, Web sphere 4.0, JProbe, Unix.</description></job>
+
+<job end='730669' id='7' pos='7' start='729877'><employer>HCL Info systems</employer> (<address><country iso3='IND'>India</country></address>)      	         	                                                                <daterange><start days='729877' iso8601='1999-05-01'>May 1999</start> to <end days='730669' iso8601='2001-07-01'>Jul' 2001</end></daterange>
+<title>Programmer [Intern</title>]
+
+       <description>Developed an easy and powerful web based project management tool to track projects &amp; client related information.
+
+Accomplishments:
+Created Servlets to store the data into the database and to generate reports.
+Normalized database tables and wrote queries for data manipulation and insertion.
+Developed the Front-end using HTML and Applets. 
+
+Environment: Java, AWT, HTML, Java Script, MS-SQL Server, Apache Web Server, Oracle 7.X</description></job></experience>
+
+<education>EDUCATION:
+<school id='8'><degree level='16'>Bachelors</degree> in <major code='0402 1699'>Computer Science &amp; Engineering</major>   :   <institution>Jawaharlal Nehru University</institution>, <address><country iso3='IND'>India</country></address></school> 
+<school id='9'><degree level='18'>Masters</degree> in <major code='0402 1699'>Computer Science &amp; Engineering</major>      :   <institution>University of Texas</institution> at <address><city>Arlington</city>, <state abbrev='TX'>TX.</state></address>
+Executive <degree level='18' name='Master of Business Administration'>MBA</degree>                                            	    :   <institution>Sam Walton College of Business, AR</institution></school>.</education>
+
+<skills>CERTIFICATIONS:
+
+<courses>Sun Certified Enterprise Architect 5. 
+Oracle certified professional - Java SE 6 programmer.
+Oracle Certified Expert - Java EE 6 Web Services Developer.</courses></skills>
+
+
+
+
+
+
+
+
+
+
+
+
+
+               <contact><email>yalamanchili.hari@gmail.com</email>
+                               <phone>479-387-7593</phone></contact>
+
+
+
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='733075' experience='1' expidrefs='3' idrefs='3' lastused='2008' name='.net' start='731857'>
+    <variant>Microsoft .NET</variant>
+    <variant>.NET</variant>
+    <variant>Microsoft .Net 4.0</variant>
+  </canonskill>
+  <canonskill end='733561' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='adobe' start='733104'>
+    <variant>Adobe</variant>
+  </canonskill>
+  <canonskill end='733561' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='agile' start='733104'>
+    <variant>Agile</variant>
+  </canonskill>
+  <canonskill name='aix'>
+    <variant>IBM AIX 5</variant>
+    <variant>AIX</variant>
+  </canonskill>
+  <canonskill end='731735' experience='1' expidrefs='5,6' idrefs='5,6' lastused='2004' name='ant' start='730973'>
+    <variant>Ant</variant>
+  </canonskill>
+  <canonskill end='730669' experience='1' expidrefs='7' idrefs='7' lastused='2001' name='apache webserver' start='729877'>
+    <variant>Apache</variant>
+    <variant>Apache Web Server</variant>
+  </canonskill>
+  <canonskill end='731735' experience='1' expidrefs='5' idrefs='5' lastused='2004' name='api' start='731369'>
+    <variant>API</variant>
+  </canonskill>
+  <canonskill end='730669' experience='1' expidrefs='7' idrefs='7' lastused='2001' name='applets' start='729877'>
+    <variant>Applets</variant>
+  </canonskill>
+  <canonskill name='architecture'>
+    <variant>Architect</variant>
+    <variant>Architect 5</variant>
+  </canonskill>
+  <canonskill name='atg dynamo'>
+    <variant>ATG Dynamo</variant>
+  </canonskill>
+  <canonskill name='c'>
+    <variant>C</variant>
+  </canonskill>
+  <canonskill name='c + +'>
+    <variant>C++</variant>
+  </canonskill>
+  <canonskill name='cobol'>
+    <variant>Cobol</variant>
+  </canonskill>
+  <canonskill name='cognos impromptu'>
+    <variant>Cognos</variant>
+  </canonskill>
+  <canonskill name='computer associates packages'>
+    <variant>CA</variant>
+  </canonskill>
+  <canonskill end='731857' experience='1' expidrefs='4' idrefs='4' lastused='2004' name='content management' start='731765'>
+    <variant>content</variant>
+    <variant>Content Management</variant>
+  </canonskill>
+  <canonskill end='733075' experience='1' expidrefs='3' idrefs='3' lastused='2008' name='control' start='731857'>
+    <variant>Controller</variant>
+  </canonskill>
+  <canonskill name='corba'>
+    <variant>CORBA</variant>
+  </canonskill>
+  <canonskill end='733561' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='credit' start='733104'>
+    <variant>credit</variant>
+  </canonskill>
+  <canonskill end='731735' experience='1' expidrefs='5' idrefs='5' lastused='2004' name='crystal reports' start='731369'>
+    <variant>Crystal Reports 7</variant>
+    <variant>Crystal Reports</variant>
+  </canonskill>
+  <canonskill name='css'>
+    <variant>CSS</variant>
+  </canonskill>
+  <canonskill end='730669' experience='1' expidrefs='7' idrefs='7' lastused='2001' name='customer relations' start='729877'>
+    <variant>client</variant>
+  </canonskill>
+  <canonskill end='733561' experience='1' expidrefs='2,3' idrefs='2,3' lastused='2009' name='cvs' start='731857'>
+    <variant>Version Control</variant>
+    <variant>CVS</variant>
+  </canonskill>
+  <canonskill end='731735' experience='1' expidrefs='5' idrefs='5' lastused='2004' name='data migration' start='731369'>
+    <variant>data migration</variant>
+  </canonskill>
+  <canonskill end='731735' experience='1' expidrefs='5,6,7' idrefs='5,6,7' lastused='2004' name='database administration' start='729877'>
+    <variant>Databases</variant>
+    <variant>Database</variant>
+    <variant>database</variant>
+  </canonskill>
+  <canonskill name='dcom'>
+    <variant>DCOM</variant>
+  </canonskill>
+  <canonskill name='dhtml'>
+    <variant>DHTML</variant>
+  </canonskill>
+  <canonskill end='731857' experience='1' expidrefs='4' idrefs='4' lastused='2004' name='documentum' start='731765'>
+    <variant>Documentum</variant>
+    <variant>Documentum 5.x</variant>
+  </canonskill>
+  <canonskill name='dom'>
+    <variant>DOM</variant>
+  </canonskill>
+  <canonskill end='731338' experience='1' expidrefs='6' idrefs='6' lastused='2003' name='dreamweaver' start='730973'>
+    <variant>Dreamweaver</variant>
+    <variant>Dream Weaver 4</variant>
+  </canonskill>
+  <canonskill end='733561' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='e - commerce' start='733104'>
+    <variant>Ecommerce</variant>
+  </canonskill>
+  <canonskill name='eai'>
+    <variant>EAI</variant>
+  </canonskill>
+  <canonskill end='731857' experience='1' expidrefs='4,5' idrefs='4,5' lastused='2004' name='eclipse' start='731369'>
+    <variant>Eclipse</variant>
+  </canonskill>
+  <canonskill end='733561' experience='1' expidrefs='2,3,6' idrefs='2,3,6' lastused='2009' name='enterprise java beans' start='730973'>
+    <variant>Enterprise Java Beans</variant>
+    <variant>EJB 3.0</variant>
+    <variant>EJB</variant>
+  </canonskill>
+  <canonskill end='731735' experience='1' expidrefs='5' idrefs='5' lastused='2004' name='erwin' start='731369'>
+    <variant>Erwin</variant>
+  </canonskill>
+  <canonskill end='733075' experience='1' expidrefs='3' idrefs='3' lastused='2008' name='fast' start='731857'>
+    <variant>Fast4</variant>
+    <variant>Fast 4</variant>
+  </canonskill>
+  <canonskill end='733075' experience='1' expidrefs='3' idrefs='3' lastused='2008' name='filenet' start='731857'>
+    <variant>Filenet</variant>
+  </canonskill>
+  <canonskill end='733561' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='flash' start='733104'>
+    <variant>Flash</variant>
+  </canonskill>
+  <canonskill name='graphical user interface'>
+    <variant>GUI</variant>
+  </canonskill>
+  <canonskill name='hewlett packard'>
+    <variant>HP</variant>
+  </canonskill>
+  <canonskill end='730669' experience='1' expidrefs='7' idrefs='7' lastused='2001' name='html' start='729877'>
+    <variant>HTML 4</variant>
+    <variant>HTML</variant>
+  </canonskill>
+  <canonskill name='http'>
+    <variant>HTTP</variant>
+  </canonskill>
+  <canonskill end='733075' experience='1' expidrefs='3' idrefs='3' lastused='2008' name='human resources' start='731857'>
+    <variant>HR</variant>
+  </canonskill>
+  <canonskill end='731735' experience='1' expidrefs='5' idrefs='5' lastused='2004' name='ibm' start='731369'>
+    <variant>IBM</variant>
+  </canonskill>
+  <canonskill end='733075' experience='1' expidrefs='3' idrefs='3' lastused='2008' name='ibm db/2' start='731857'>
+    <variant>DB2</variant>
+  </canonskill>
+  <canonskill end='731338' experience='1' expidrefs='6' idrefs='6' lastused='2003' name='ibm visualalge for java' start='730973'>
+    <variant>Visual Age for Java</variant>
+  </canonskill>
+  <canonskill end='731857' experience='1' expidrefs='4,5,6' idrefs='4,5,6' lastused='2004' name='ibm websphere' start='730973'>
+    <variant>Web sphere 4.0</variant>
+    <variant>Web sphere 5.0</variant>
+    <variant>Web Sphere 6.1</variant>
+    <variant>Websphere 7.0</variant>
+  </canonskill>
+  <canonskill name='iis'>
+    <variant>IIS</variant>
+  </canonskill>
+  <canonskill name='informatica'>
+    <variant>Informatica</variant>
+  </canonskill>
+  <canonskill end='733075' experience='1' expidrefs='3' idrefs='3' lastused='2008' name='inventory management' start='731857'>
+    <variant>inventory</variant>
+  </canonskill>
+  <canonskill end='733075' experience='1' expidrefs='3' idrefs='3' lastused='2008' name='invoicing' start='731857'>
+    <variant>invoicing</variant>
+  </canonskill>
+  <canonskill end='731857' experience='1' expidrefs='4,7' idrefs='4,7' lastused='2004' name='java' start='729877'>
+    <variant>Java</variant>
+    <variant>JAVA</variant>
+  </canonskill>
+  <canonskill end='733561' experience='1' expidrefs='2,3,4,5,6' idrefs='2,3,4,5,6' lastused='2009' name='java server pages' start='730973'>
+    <variant>JSP</variant>
+  </canonskill>
+  <canonskill end='733561' experience='1' expidrefs='2,3,4,5,6,7' idrefs='2,3,4,5,6,7' lastused='2009' name='javascript' start='729877'>
+    <variant>JavaScript</variant>
+    <variant>Java Script</variant>
+  </canonskill>
+  <canonskill name='jboss'>
+    <variant>JBoss 6.0</variant>
+  </canonskill>
+  <canonskill name='jbuilder'>
+    <variant>Jbuilder 9</variant>
+  </canonskill>
+  <canonskill name='jdbc'>
+    <variant>JDBC</variant>
+  </canonskill>
+  <canonskill end='733561' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='jms' start='733104'>
+    <variant>JMS</variant>
+  </canonskill>
+  <canonskill name='jndi'>
+    <variant>JNDI</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='ksh' start='733561'>
+    <variant>korn shell</variant>
+  </canonskill>
+  <canonskill name='languages'>
+    <variant>Languages</variant>
+  </canonskill>
+  <canonskill end='731735' experience='1' expidrefs='5' idrefs='5' lastused='2004' name='ldap' start='731369'>
+    <variant>LDAP</variant>
+  </canonskill>
+  <canonskill end='731857' experience='1' expidrefs='4' idrefs='4' lastused='2004' name='linux' start='731765'>
+    <variant>Linux</variant>
+  </canonskill>
+  <canonskill name='lisp'>
+    <variant>Lisp</variant>
+  </canonskill>
+  <canonskill name='load runner'>
+    <variant>Load Runner</variant>
+  </canonskill>
+  <canonskill end='731735' experience='1' expidrefs='5' idrefs='5' lastused='2004' name='lotus domino' start='731369'>
+    <variant>Lotus domino</variant>
+  </canonskill>
+  <canonskill end='733075' experience='1' expidrefs='3' idrefs='3' lastused='2008' name='mainframe' start='731857'>
+    <variant>Mainframe</variant>
+  </canonskill>
+  <canonskill end='731735' experience='1' expidrefs='5' idrefs='5' lastused='2004' name='management' start='731369'>
+    <variant>employee management</variant>
+  </canonskill>
+  <canonskill end='733075' experience='1' expidrefs='3,4' idrefs='3,4' lastused='2008' name='marketing' start='731765'>
+    <variant>marketing</variant>
+    <variant>Marketing</variant>
+  </canonskill>
+  <canonskill name='messaging'>
+    <variant>Messaging</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='microsoft access' start='733561'>
+    <variant>access</variant>
+  </canonskill>
+  <canonskill end='733075' experience='1' expidrefs='3' idrefs='3' lastused='2008' name='microsoft c #' start='731857'>
+    <variant>C#</variant>
+  </canonskill>
+  <canonskill end='731735' experience='1' expidrefs='5' idrefs='5' lastused='2004' name='microsoft excel' start='731369'>
+    <variant>Excel</variant>
+  </canonskill>
+  <canonskill name='microsoft foundation classes'>
+    <variant>MFC</variant>
+  </canonskill>
+  <canonskill name='microsoft mail'>
+    <variant>Mail</variant>
+  </canonskill>
+  <canonskill end='733075' experience='1' expidrefs='3' idrefs='3' lastused='2008' name='microsoft project' start='731857'>
+    <variant>MSProject</variant>
+  </canonskill>
+  <canonskill end='733561' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='microsoft visio' start='733104'>
+    <variant>Microsoft Visio</variant>
+  </canonskill>
+  <canonskill end='731857' experience='1' expidrefs='4' idrefs='4' lastused='2004' name='microsoft windows 2000' start='731765'>
+    <variant>Windows 2000</variant>
+    <variant>2000</variant>
+  </canonskill>
+  <canonskill end='733561' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='microsoft windows 3.1' start='733104'>
+    <variant>3.1</variant>
+  </canonskill>
+  <canonskill end='733561' experience='1' expidrefs='2,3' idrefs='2,3' lastused='2009' name='microsoft windows nt' start='731857'>
+    <variant>WindowsNT</variant>
+    <variant>Windows NT</variant>
+  </canonskill>
+  <canonskill end='733561' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='microsoft word' start='733104'>
+    <variant>word</variant>
+  </canonskill>
+  <canonskill end='733561' experience='1' expidrefs='2,3' idrefs='2,3' lastused='2009' name='mq series' start='731857'>
+    <variant>MQ Series</variant>
+    <variant>MQSeries</variant>
+  </canonskill>
+  <canonskill name='mysql'>
+    <variant>MySQL</variant>
+  </canonskill>
+  <canonskill name='netscape'>
+    <variant>Netscape</variant>
+  </canonskill>
+  <canonskill end='731857' experience='1' expidrefs='4' idrefs='4' lastused='2004' name='netscape enterprise server' start='731765'>
+    <variant>Enterprise</variant>
+  </canonskill>
+  <canonskill end='731735' experience='1' expidrefs='5' idrefs='5' lastused='2004' name='object oriented design' start='731369'>
+    <variant>Object Oriented</variant>
+  </canonskill>
+  <canonskill name='operating systems'>
+    <variant>Operating Systems</variant>
+    <variant>OS</variant>
+  </canonskill>
+  <canonskill end='733561' experience='1' expidrefs='2,3,4,5,6' idrefs='2,3,4,5,6' lastused='2009' name='oracle' start='730973'>
+    <variant>Oracle 9</variant>
+    <variant>Oracle</variant>
+    <variant>oracle</variant>
+  </canonskill>
+  <canonskill end='730669' experience='1' expidrefs='7' idrefs='7' lastused='2001' name='oracle 7.x' start='729877'>
+    <variant>Oracle 7.X</variant>
+  </canonskill>
+  <canonskill name='oracle designer 2000'>
+    <variant>Designer 2000</variant>
+  </canonskill>
+  <canonskill name='oracle developer 2000'>
+    <variant>Developer 2000</variant>
+    <variant>Developer</variant>
+  </canonskill>
+  <canonskill end='733561' experience='1' expidrefs='2,5' idrefs='2,5' lastused='2009' name='oracle pl/sql' start='731369'>
+    <variant>PLSQL</variant>
+    <variant>PL/SQL</variant>
+  </canonskill>
+  <canonskill end='733075' experience='1' expidrefs='3' idrefs='3' lastused='2008' name='oracle version 8' start='731857'>
+    <variant>Oracle 8i</variant>
+  </canonskill>
+  <canonskill name='pascal'>
+    <variant>Pascal</variant>
+  </canonskill>
+  <canonskill name='perl'>
+    <variant>Perl</variant>
+  </canonskill>
+  <canonskill end='731857' experience='1' expidrefs='4' idrefs='4' lastused='2004' name='printers' start='731765'>
+    <variant>Printer</variant>
+  </canonskill>
+  <canonskill end='733075' experience='1' expidrefs='3,4' idrefs='3,4' lastused='2008' name='process engineering' start='731765'>
+    <variant>processes</variant>
+  </canonskill>
+  <canonskill name='programming'>
+    <variant>programmer</variant>
+  </canonskill>
+  <canonskill end='733561' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='progress' start='733104'>
+    <variant>progress</variant>
+  </canonskill>
+  <canonskill end='730669' experience='1' expidrefs='7' idrefs='7' lastused='2001' name='project management' start='729877'>
+    <variant>project management</variant>
+  </canonskill>
+  <canonskill name='protocols'>
+    <variant>Protocols</variant>
+  </canonskill>
+  <canonskill end='731857' experience='1' expidrefs='4,6' idrefs='4,6' lastused='2004' name='pvcs' start='730973'>
+    <variant>PVCS</variant>
+  </canonskill>
+  <canonskill name='python'>
+    <variant>Python</variant>
+  </canonskill>
+  <canonskill name='rad'>
+    <variant>RAD</variant>
+    <variant>RAD7.0</variant>
+  </canonskill>
+  <canonskill end='731735' experience='1' expidrefs='5,6' idrefs='5,6' lastused='2004' name='rational rose' start='730973'>
+    <variant>Rational Rose</variant>
+    <variant>rational rose</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='real time' start='733561'>
+    <variant>real time</variant>
+  </canonskill>
+  <canonskill name='red hat linux'>
+    <variant>Red hat</variant>
+  </canonskill>
+  <canonskill end='731857' experience='1' expidrefs='4' idrefs='4' lastused='2004' name='rmi' start='731765'>
+    <variant>RMI</variant>
+  </canonskill>
+  <canonskill end='731338' experience='1' expidrefs='6' idrefs='6' lastused='2003' name='rup' start='730973'>
+    <variant>RUP</variant>
+  </canonskill>
+  <canonskill end='733075' experience='1' expidrefs='3' idrefs='3' lastused='2008' name='safety' start='731857'>
+    <variant>Safety</variant>
+    <variant>safety</variant>
+  </canonskill>
+  <canonskill end='733561' experience='1' expidrefs='2,3,4,5,6,7' idrefs='2,3,4,5,6,7' lastused='2009' name='servlets' start='729877'>
+    <variant>Servlet</variant>
+    <variant>Servlets</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,5' idrefs='1,5' lastused='2012' name='shell scripting' start='731369'>
+    <variant>scripts</variant>
+    <variant>Shell scripting</variant>
+  </canonskill>
+  <canonskill name='soap'>
+    <variant>SOAP</variant>
+  </canonskill>
+  <canonskill name='solaris'>
+    <variant>Solaris</variant>
+  </canonskill>
+  <canonskill end='731735' experience='1' expidrefs='5' idrefs='5' lastused='2004' name='sourcesafe' start='731369'>
+    <variant>Visual source safe</variant>
+  </canonskill>
+  <canonskill end='733075' experience='1' expidrefs='3,7' idrefs='3,7' lastused='2008' name='sql' start='729877'>
+    <variant>Sql server</variant>
+    <variant>Sql</variant>
+    <variant>Microsoft SQL</variant>
+    <variant>MS-SQL Server</variant>
+    <variant>SQL Server</variant>
+    <variant>SQL</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='ssl' start='733104'>
+    <variant>SSL</variant>
+  </canonskill>
+  <canonskill end='733561' experience='1' expidrefs='2,3,4,5,6' idrefs='2,3,4,5,6' lastused='2009' name='struts' start='730973'>
+    <variant>Struts 1</variant>
+    <variant>Struts</variant>
+    <variant>struts</variant>
+  </canonskill>
+  <canonskill end='731857' experience='1' expidrefs='4' idrefs='4' lastused='2004' name='sun microsystems' start='731765'>
+    <variant>SUN</variant>
+    <variant>Sun</variant>
+  </canonskill>
+  <canonskill name='swing'>
+    <variant>Swing</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,6' idrefs='1,6' lastused='2012' name='sybase' start='730973'>
+    <variant>Sybase</variant>
+  </canonskill>
+  <canonskill end='730669' experience='1' expidrefs='7' idrefs='7' lastused='2001' name='tables' start='729877'>
+    <variant>tables</variant>
+  </canonskill>
+  <canonskill end='733561' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='tandem' start='733104'>
+    <variant>tandem</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='tcp/ip' start='733561'>
+    <variant>TCP/IP</variant>
+  </canonskill>
+  <canonskill name='tibco'>
+    <variant>TIBCO</variant>
+  </canonskill>
+  <canonskill end='733561' experience='1' expidrefs='2,4,5' idrefs='2,4,5' lastused='2009' name='toad' start='731369'>
+    <variant>TOAD</variant>
+  </canonskill>
+  <canonskill name='tomcat'>
+    <variant>Tomcat 6.0</variant>
+    <variant>Tomcat</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='transaction processing' start='733561'>
+    <variant>transaction processing</variant>
+  </canonskill>
+  <canonskill name='udb'>
+    <variant>UDB</variant>
+  </canonskill>
+  <canonskill end='731735' experience='1' expidrefs='5,6' idrefs='5,6' lastused='2004' name='unified modeling language' start='730973'>
+    <variant>UML</variant>
+  </canonskill>
+  <canonskill end='731735' experience='1' expidrefs='5,6' idrefs='5,6' lastused='2004' name='unix' start='730973'>
+    <variant>UNIX</variant>
+    <variant>Unix</variant>
+  </canonskill>
+  <canonskill name='visio'>
+    <variant>VISIO</variant>
+  </canonskill>
+  <canonskill name='visual basic'>
+    <variant>VB</variant>
+  </canonskill>
+  <canonskill name='visual c + +'>
+    <variant>Visual C++</variant>
+    <variant>VC++</variant>
+  </canonskill>
+  <canonskill end='733075' experience='1' expidrefs='3' idrefs='3' lastused='2008' name='visual studio' start='731857'>
+    <variant>Visual Studio</variant>
+    <variant>Visual studio</variant>
+  </canonskill>
+  <canonskill name='vm'>
+    <variant>VM</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='web application development' start='733104'>
+    <variant>web applications</variant>
+  </canonskill>
+  <canonskill name='web servers'>
+    <variant>Web Servers</variant>
+  </canonskill>
+  <canonskill end='733561' experience='1' expidrefs='2,4' idrefs='2,4' lastused='2009' name='web site production' start='731765'>
+    <variant>websites</variant>
+    <variant>web pages</variant>
+  </canonskill>
+  <canonskill end='733561' experience='1' expidrefs='2,3' idrefs='2,3' lastused='2009' name='weblogic' start='731857'>
+    <variant>Web Logic 7.1</variant>
+    <variant>Web Logic 8.1</variant>
+    <variant>Weblogic</variant>
+  </canonskill>
+  <canonskill name='webtrends'>
+    <variant>Webtrends</variant>
+  </canonskill>
+  <canonskill end='733075' experience='1' expidrefs='3' idrefs='3' lastused='2008' name='windows ce' start='731857'>
+    <variant>Windows CE</variant>
+  </canonskill>
+  <canonskill end='733075' experience='1' expidrefs='3' idrefs='3' lastused='2008' name='writing' start='731857'>
+    <variant>Written</variant>
+  </canonskill>
+  <canonskill name='ws _ ftp'>
+    <variant>WS_FTP</variant>
+  </canonskill>
+  <canonskill name='xhtml'>
+    <variant>XHTML</variant>
+  </canonskill>
+  <canonskill end='733561' experience='1' expidrefs='2,3,4,5,6' idrefs='2,3,4,5,6' lastused='2009' name='xml' start='730973'>
+    <variant>XML</variant>
+    <variant>xml</variant>
+  </canonskill>
+  <canonskill name='xsl'>
+    <variant>XSL</variant>
+  </canonskill>
+  <canonskill name='xslt'>
+    <variant>XSL-T</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

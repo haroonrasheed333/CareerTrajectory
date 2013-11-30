@@ -1,0 +1,47 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CCBSO", 
+            "Certification Name": "Certified Community Bank Security Officer", 
+            "Type": "Core", 
+            "Certification ID": "9241", 
+            "Certifying Organization": "Independent Community Bankers of America"
+        }, 
+        {
+            "Acronym": "CLSO", 
+            "Certification Name": "Certified Lodging Security Officer", 
+            "Type": "Core", 
+            "Certification ID": "2974", 
+            "Certifying Organization": "American Hotel and Lodging Association Educational Institute"
+        }, 
+        {
+            "Acronym": "LPQ", 
+            "Certification Name": "Loss Prevention Qualified", 
+            "Type": "Core", 
+            "Certification ID": "8945", 
+            "Certifying Organization": "Loss Prevention Foundation"
+        }, 
+        {
+            "Acronym": "CPP", 
+            "Certification Name": "Certified Protection Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "1477", 
+            "Certifying Organization": "ASIS"
+        }, 
+        {
+            "Acronym": "CPO", 
+            "Certification Name": "Certified Protection Officer", 
+            "Type": "Core", 
+            "Certification ID": "2251", 
+            "Certifying Organization": "International Foundation for Protection Officers"
+        }, 
+        {
+            "Acronym": "CCSP", 
+            "Certification Name": "Certified Cargo Security Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "4007", 
+            "Certifying Organization": "North American Transportation Management Institute"
+        }
+    ], 
+    "onet": "33903200"
+}

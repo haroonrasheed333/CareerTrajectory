@@ -1,269 +1,286 @@
 <?xml version='1.0' encoding='iso-8859-1'?>
 <ResDoc>
-<resume canonversion='2' dateversion='2' present='734579' xml:space='preserve'><contact><name><givenname>Robin</givenname> <surname>Joy</surname></name>
-<address lat='37.7438' lon='122.44' majorcity='SAN FRANCISCO' state='CA'><street>1411 Noe Street</street>, <city>San Francisco</city>, <state abbrev='CA'>CA</state>  <postalcode>94131</postalcode></address>  415-<phone>613-5444</phone>  <email>robinjoy99@yahoo.com</email></contact>
+<resume canonversion='2' dateversion='2' present='734579' xml:space='preserve'><contact><name><givenname>ANDREW</givenname> <surname>YEH</surname></name>
+Address: <address lat='37.4169' lon='122.129' majorcity='PALO ALTO' state='CA'><street>551 Colorado Ave</street>, <city>Palo Alto</city>, <state abbrev='CA'>CA</state> <postalcode>94306</postalcode></address> * Phone: <phone>650-450-3059</phone> * Email: <email>ayeh@stanfordalumni.org</email></contact>
 
+<summary>PROFILE	<summary>Extensive experience developing highly scalable web applications from back end to front end with a penchant for building fast, simple, and intuitive interfaces.</summary></summary>
 
-<summary>PROFILE
+<experience end='present' start='732008'>EXPERIENCE
+<job end='present' id='1' pos='1' start='734140'><daterange><start days='734140' iso8601='2011-01-01'>01/11</start> - <end days='present' iso8601='2012-03-15'>Present</end></daterange>	<title>Product Manager</title>, <employer>Simply Hired</employer>, <address><city>Mountain View</city>, <state abbrev='CA'>CA</state></address>
+<description>Driving development of Simply Hired's next generation self-service Advertising System, providing both design and technical specifications.
+Leading product development of the company's internal data tools.
+Led product improvements over various pieces of the company's core Advertising platform, including enhancements to click fraud detection, auction algorithm, credit card processing, data processing, and system monitoring.  Successfully retired the company's Sponsored Links product to meet company reprioritization.
+Steered development of the company's automated ROI based SEM bidding system.
+Provided technical, data, and analytic support to Finance, Sales, Publisher, Small Business, and Metrics teams.  Provided product insight, technical information, and data analysis as part of the company's budget utilization research efforts.
+Acted as company liaison for yearly audit of Simply Hired's Advertising System.</description></job>
 
-<summary>Dynamic marketing executive with over 14 years experience delivering positive results for top-tier consumer packaged goods and leading-edge technology companies.  Strengths include clear strategic thinking, excellent creative judgment, outstanding program execution and strong leadership of marketing teams.</summary></summary>
+<job end='734109' id='2' pos='3' start='732860'><daterange><start days='732860' iso8601='2007-07-01'>07/07</start> - <end days='734109' iso8601='2010-12-01'>12/10</end></daterange>	<title>Lead Software Engineer</title>, <employer>Simply Hired</employer>, <address><city>Mountain View</city>, <state abbrev='CA'>CA</state></address>
+<description>Led software development of Simply Hired's Advertising System.  Improved performance of many of key processes to increase load capacity of the system.  Drove development of new UI.  Led porting of back end processes and API functionality from PHP to Python.  Manage day to day operations of web hosts, cron hosts, and databases.
+Led development of high performance, distributed metric system for aggregating and measuring configurable sets of data points using Python and MySQL.
+Helped implement Simply Hired's Facebook Connect feature: extending the Javascript libraries to cache and retrieve user data, and developed API failover mechanisms.
+Worked on various sections of the Simply Hired site using PHP, MySQL, HTML, CSS, and JS, including the job permalink, job trends, salary, local portal, and company pages.</description></job>
 
+<job end='present' id='3' pos='2' start='732557'><daterange><start days='732557' iso8601='2006-09-01'>09/06</start> - <end days='present' iso8601='2012-03-15'>Present</end></daterange>	<title>Founder</title>, <description>Twiigs.com, http://www.twiigs.com/
+Co-founded Twiigs.com with a friend.  Did much of the product design and was also the sole software engineer.  Launched in April 2007.
+Developed an online polling site from scratch using LAMP (Linux, Apache, MySQL, PHP) technologies.
+Used AJAX to make voting and commenting more efficient and dynamic.  Graceful degradation allows voting and commenting to still work with Javascript disabled.
+Created a Javascript widget to allow users to add polls to their own websites and blogs.  The widget lets readers of those sites to view the poll, vote, and survey the results without ever leaving the user's site.  It also inherits the formatting and styling of the html element it is placed in, to automatically blend in to the user's site.
+Created an OpenSocial polling application for the Glam Developer Network.
+The Twiigs polling widget has been used by prominent sites such as washingtonpost.com, evite.com, gofugyourself.com, and britneyspears.com.</description></job>
 
-<experience end='present' start='725739'>EXPERIENCE
+<job end='732830' id='4' pos='4' sic='737415' sic2='73' start='732008'><daterange><start days='732008' iso8601='2005-03-01'>03/05</start> - <end days='732830' iso8601='2007-06-01'>06/07</end></daterange>	Technical <employer>Yahoo</employer>!, Yahoo!, <address><city>Santa Clara</city>, <state abbrev='CA'>CA</state></address>
+<description>Developed Fraud Moderation system for Yahoo! Auctions, consisting of fraud detection engine and moderation tool for customer care.
+Migrated various Auction pages to PHP and updated the registration page to include identity validation.
+Developed account verification tool to support the new identity validation system.
+Implemented search engine optimizations for Auctions site to increase page ranking.
+Helped migrate Yahoo! Real Estate property to PHP.
+Work on development of the Real Estate redesign, including the homepage, research and finance sections, and integration with Yahoo! Answers.
+Managed and developed content programming of Yahoo! Real Estate for inclusion on Yahoo! Front Page.</description></job></experience>
+<statements>Awards: <honors>2007 Webby Award Winner, Real Estate Category, People's Voice Award - Yahoo! Real Estate.</honors></statements>
 
-<job end='present' id='1' naics='51121001' naics2='51' pos='1' sic='573401' sic2='57' start='731614'><employer>Intuit</employer>	<address><city>Mountain View</city>, <state abbrev='CA'>CA</state></address>
-<title>Group Business Manager</title>, <daterange><start days='731614' iso8601='2004-02-01'>Feb. 2004</start> - <end days='present' iso8601='2012-03-15'>present</end></daterange>
-<description>Responsible for $200 million QuickBooks Payroll business with over 850,000 subscribers - the leading payroll service for small businesses.  Focused on acquiring new customers, expanding relationship with existing subscribers and retention.  Lead team of 15.  Report to General Manager who reports to CEO.
-*  Grew QuickBooks Payroll revenue by 20% in FY'05, $2 million above plan.
-*  Developed and launched QuickBooks Enhanced Payroll Plus, a payroll and software subscription, generating over 100K subscribers within six months and first-year sales of ~$60 million.  
-*  Opened two new distribution channels for QuickBooks Payroll - retail and online.
-*  Optimized phone center performance, more than doubling sales through the phone channel. 
-*  Oversaw over 100 direct marketing campaigns to acquire, retain and expand customer relationships.
-*  Named Intuit Outstanding Marketer in 2005.</description></job>
+<experience end='732008' start='729938'><job end='732008' id='5' pos='5' sic='381201' sic2='38' start='731004'><daterange><start days='731004' iso8601='2002-06-01'>06/02</start> - <end days='732008' iso8601='2005-03-01'>03/05</end></daterange>	<title>Research Engineer</title>, <employer>Optimal Synthesis</employer>, <address><city>Palo Alto</city>, <state abbrev='CA'>CA</state></address>
+<description>Developed air traffic simulation and automation tools to test feasibility of automated air traffic management.  Collected data and created analytical software.  Assisted in published reports of research results.
+Project SOAR: Extended automated air traffic control simulation, including flight-planning tool, aircraft simulation tool, and air traffic control GUI.  Completely redesigned GUI using OpenGL and C++, implemented simultaneous route generation algorithm for traffic efficiency using C++.
+Project FARGO: Created flight deck interface for high precision taxi control.  Architected the software design.  Developed the graphics engine using OpenGL and C++.
+Awards: 2006 NASA Group Achievement Award, System Level Integrated Concept Development Team - Project SOAR.</description></job>
 
-<job end='731218' id='2' pos='2' start='730488'><employer>Digeo</employer>, formerly <employer>Moxi Digital</employer>	<address><city>Palo Alto</city>, <state abbrev='CA'>CA</state></address>
-<title>Director of Marketing</title>, <daterange><start days='730488' iso8601='2001-01-01'>2001</start> - <end days='731218' iso8601='2003-01-01'>2003</end></daterange>
-<description>Built marketing function at prominent start-up.  Led marketing strategy from product genesis to launch of  Moxi Media Center, an integrated digital video recorder and cable set-top box.  Funded by Paul Allen's  Vulcan Ventures.  Reported to Chief Operating Officer.
-*  Awarded Best of Show at 2002 Consumer Electronics Show.  Launch generated over 150 stories            in print, radio, TV and online.  Time wrote: &quot;Moxi is a set-top box that's got it all.&quot;
-*  Created entirely new brand - Moxi - from naming and trademarks to positioning and visual identity.
-*  Conducted usability tests, focus groups and pricing research to refine product and positioning.
-*  Developed trial plan and user documents.  Directed feedback collection and communication.
-*  Oversaw design, architecture and content of Moxi and Digeo websites, as well as corporate Intranet.
-*  Managed tradeshows and events, working with strategic partners EchoStar, Charter and Motorola.
-*  Produced infomercial, product demos and presentations to support sales to cable operators.
+<job end='730488' id='6' pos='7' start='730274'><daterange><start days='730274' iso8601='2000-06-01'>06/00</start> - <end days='730488' iso8601='2001-01-01'>01/01</end></daterange>	<title>Software Engineer</title>, <employer>Perfect.com</employer>, <address><city>Palo Alto</city>, <state abbrev='CA'>CA</state></address>
+<description>Helped develop the Exchange Application, a multi-dimensional B2B engine.  Individually designed bidding and offering modules.  Worked at both database and user interface levels using Java, WebObjects, and Oracle.</description></job>
 
-AltaVista Company, purchased by Overture in 2003, Yahoo purchased Overture later in 2003</description>	<address><city>Palo Alto</city>, <state abbrev='CA'>CA</state></address></job>
-<job end='730488' id='3' pos='3' start='729757'><title>Director</title>, Marketing and Advertising, <daterange><start days='729757' iso8601='1999-01-01'>1999</start> - <end days='730488' iso8601='2001-01-01'>2001</end></daterange>
-<description>Developed brand strategy, advertising and promotions for top 10 Internet company.  Managed team of 9    and $100 million marketing budget.  Grew U.S. unique users by 86% in 12 months to 19 million.
-* Created $40 million TV, print and radio ad campaign.  Led agency review and selection process.  Awarded Cannes Golden Lion, Kelly Award and Adweek's Best Spots of the 1990s.  
-* Oversaw online ad planning, buying and optimization.  Generated 6.3 million users in six-week campaign with 50 creative units running on over 30 sites and networks.   
-* Developed online promotions to obtain registered AltaVista members.  Acquired 300,000 new   members in two months at cost of $9/member. 
-* Managed global brand identity.  Worked with agency to create new logo and collateral.   
-* Supervised tradeshows, sales materials and advertising for enterprise software group.
-* Managed distribution deals and affiliate program to maximize cost-effective traffic.</description></job>
+<job end='730000' id='7' pos='8' start='729938'><daterange><start days='729938' iso8601='1999-07-01'>07/99</start> - <end days='730000' iso8601='1999-09-01'>09/99</end></daterange>	<title>Software Developer</title>, <employer>RealitySoft</employer>, <address><city>Palo Alto</city>, <state abbrev='CA'>CA</state></address>
+<description>Developed online property management system using PHP and MySQL.  Administered Apache and MySQL servers on Windows systems.</description></job> 
 
+OTHER PROJECTS  
+<job end='731004' id='8' pos='6' sic='801101' sic2='80' start='730943'><daterange><start days='730943' iso8601='2002-04-01'>04/02</start> - <end days='731004' iso8601='2002-06-01'>06/02</end></daterange>	<employer>YadaYada, Stanford University</employer>
+<description>Designed and developed application allowing users to phone their computers to retrieve voicemail, email, appointments, contacts, and web information.
+Wrote design documentation and implemented speech recognition using Microsoft's SAPI and data retrieval from Outlook via COM.</description></job>
 
-
-<job end='729757' id='4' pos='4' sic='543104' sic2='54' start='728661'><employer>Odwalla, Inc</employer>., purchased by <employer>Coca-Cola</employer> in 2001	<address><city>Half Moon Bay</city>, <state abbrev='CA'>CA</state></address>
-<title>Director of Marketing</title>, <daterange><start days='728661' iso8601='1996-01-01'>1996</start> - <end days='729757' iso8601='1999-01-01'>1999</end></daterange>
-<description>Led team of 12 in brand management, creative services, regional marketing and market research for          $60 million food and beverage business.  Managed $3 million budget.  Reported to CEO.
-* Developed and executed communications strategy during 1996 product recall.  Built sales back from $300K to $1.5 million/week.  Awarded PR Society's Silver Anvil for crisis management. 
-* Oversaw new product development.  Launched five new beverages in two years contributing over $6 million annually.  Expanded into food bar category with creation of Odwalla Bars.   Grew seasonal products program from 5% to 14% of sales.
-* Created Odwalla's first radio, print and outdoor advertising. 
-* Managed regional marketing team to establish local presence through event marketing, in-store tastings and community initiatives.  Reduced sampling costs by 80%.
-* Planned entry into Midwest and Mid-Atlantic markets.  Gained 250,000 consumers in 6 months.
-* Produced consumer and trade promotions, including coupons, direct mail and point-of-sale.  Increased sales by 150% during promotions.</description></job>
-
-<job end='728661' id='5' naics='32518802' naics2='32' pos='5' sic='284203' sic2='28' start='728296'><employer>The Clorox Company</employer>	<address><city>Oakland</city>, <state abbrev='CA'>CA</state></address>
-<title>Customer Marketing Manager</title>, <daterange><start days='728296' iso8601='1995-01-01'>1995</start> - <end days='728661' iso8601='1996-01-01'>1996</end></daterange>
-<description>Developed trade marketing strategies for $200 million Hidden Valley salad dressing business.  Served as liaison to 17 Region Sales Managers, making sales calls and customizing account plans. 
-* Designed category management program to grow $1.7 billion salad dressing category:
-Created assortment model to simplify buyers' decisions in cluttered category of over 3000 items
-Trained Clorox sales management and broker sales force on program strategies and tactics
-* Led $2 million defensive initiative to combat major competitive launch, successfully maintaining market share through aggressive merchandising and promotions.</description></job>
-
-<job end='728296' id='6' pos='6' start='727931'><title>Associate Marketing Manager</title>, <daterange><start days='727931' iso8601='1994-01-01'>1994</start> - <end days='728296' iso8601='1995-01-01'>1995</end></daterange>
-<description>Created marketing programs and new products to grow Hidden Valley salad dressing business.  Managed $72 million budget.  
-* Opened new distribution channel through creation of co-branded salad kits: negotiated contract with Fresh Express, analyzed costs, set pricing, designed packaging.
-* Launched two new flavors: conducted market research including concept screens and in-home use tests, created print advertising and promotion plan.</description></job>
-
-<job end='726835' id='7' pos='7' sic='874201' sic2='87' start='725739'><employer>Mercer Management Consulting</employer>, formerly <employer>Strategic Planning Associates</employer>	Washington, DC
-<title>Research Analyst</title>, <daterange><start days='725739' iso8601='1988-01-01'>1988</start> - <end days='726835' iso8601='1991-01-01'>1991</end></daterange>
-<description>Analyzed complex business issues and developed strategies, focused on marketing, strategy and operations.
-* Created business plan for transportation provider's expansion into logistic services.
-* Developed strategy to expand customer base and increase sales for national trucking company.
-* Established pricing strategy for fast-food chain based on regional competitive environments.
-* Performed financial and market analysis of European publishing firm's acquisition targets.</description></job></experience>
+<job end='729969' id='9' pos='9' start='729938'><daterange><start days='729938' iso8601='1999-07-01'>07/99</start> - <end days='729969' iso8601='1999-08-01'>08/99</end></daterange>	<employer>Topple.net</employer>, (<description>no longer accessible)
+Co-developed an online POP email client using Perl.</description></job></experience>
 
 <education>EDUCATION
+<school id='10'><daterange><start days='729635' iso8601='1998-09-01'>09/98</start> - <end days='731004' iso8601='2002-06-01'>06/02</end></daterange>	<institution>Stanford University</institution>, <address><city>Stanford</city>, <state abbrev='CA'>CA</state></address>
+		<degree level='16' name='Bachelor of Science'>B.S</degree>. in <major code='0402'>Computer Science</major>, <completiondate days='731004' iso8601='2002-06-01'>June 2002</completiondate>
+		Major Coursework: <description>Assembly, Algorithms, Artificial Intelligence, Databases, Graphics, Human-Computer Interaction, Internet Technologies, Operating Systems
+		Other Coursework: Economics, Finance, Math, Statistics, Technology Entrepreneurship</description></school>
 
-<school id='8'><institution>Stanford Graduate School of Business</institution>	<address><city>Stanford</city>, <state abbrev='CA'>CA</state></address>
-<degree level='18'>Master of Business Administration degree</degree>, <completiondate days='727931' iso8601='1994-01-01'>1994</completiondate>
-<description>Selected to attend Japanese management program sponsored by Nippon Life Insurance	Tokyo, Japan</description></school>
-
-<school id='9'><institution>University of Melbourne</institution>	<address><city>Melbourne</city>, <country iso3='AUS'>Australia</country></address>
-<degree level='18'>Master of Arts degree</degree> <honors>with Honors, Women's Studies, 1992
-Awarded Rotary Foundation Scholarship</honors>
-<description>Taught American Foreign Policy to undergraduates</description></school>
-
-<school id='10'><institution>Dartmouth College</institution>	<address><city>Hanover</city>, <state abbrev='NH'>NH</state></address>
-<degree level='16'>Bachelor of Arts degree</degree>, <honors>cum laude</honors>, Government major, <completiondate days='725739' iso8601='1988-01-01'>1988</completiondate></school>
-<school id='11'><institution>London School of Economics</institution>, <completiondate days='725282' iso8601='1986-10-01'>Fall 1986</completiondate>	<address><city>London</city>, <country iso3='GBR'>England</country></address>
-<degree>L'Université de Toulouse</degree>, <completiondate days='725009' iso8601='1986-01-01'>Winter 1986</completiondate>	<address><city>Toulouse</city>, <country iso3='FRA'>France</country></address></school></education>
+<school id='11'><daterange><start days='728174' iso8601='1994-09-01'>09/94</start> - <end days='729543' iso8601='1998-06-01'>06/98</end></daterange>	<institution>Vintage High School</institution>, <address><city>Napa</city>, <state abbrev='CA'>CA</state></address>
+		<courses>Class Salutatorian, National Merit Finalist</courses></school></education>
 </resume>
 
 <skillrollup version='1'>
-  <canonskill end='730488' experience='1' expidrefs='3,4' idrefs='3,4' lastused='2001' name='advertising' start='728661'>
-    <variant>ad</variant>
-    <variant>advertising</variant>
+  <canonskill end='734569' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='advertising' start='732860'>
+    <variant>Advertising</variant>
   </canonskill>
-  <canonskill end='729757' experience='1' expidrefs='4' idrefs='4' lastused='1999' name='anvil' start='728661'>
-    <variant>Anvil</variant>
+  <canonskill end='734569' experience='1' expidrefs='3,7' idrefs='3,7' lastused='2012' name='apache webserver' start='729938'>
+    <variant>Apache</variant>
   </canonskill>
-  <canonskill end='730488' experience='1' expidrefs='3' idrefs='3' lastused='2001' name='assets recovery' start='729757'>
-    <variant>agency</variant>
+  <canonskill end='734109' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='api' start='732860'>
+    <variant>API</variant>
   </canonskill>
-  <canonskill end='730488' experience='1' expidrefs='3,4' idrefs='3,4' lastused='2001' name='brand management' start='728661'>
-    <variant>brand strategy</variant>
-    <variant>brand identity</variant>
-    <variant>brand management</variant>
+  <canonskill education='1' eduidrefs='10' idrefs='10' name='artificial intelligence'>
+    <variant>Artificial Intelligence</variant>
   </canonskill>
-  <canonskill end='730488' experience='1' expidrefs='3,4,6' idrefs='3,4,6' lastused='2001' name='budgeting' start='727931'>
+  <canonskill education='1' eduidrefs='10' idrefs='10' name='assembly language'>
+    <variant>Assembly</variant>
+  </canonskill>
+  <canonskill end='732008' experience='1' expidrefs='5' idrefs='5' lastused='2005' name='automation tools' start='731004'>
+    <variant>automation tools</variant>
+  </canonskill>
+  <canonskill end='730488' experience='1' expidrefs='6' idrefs='6' lastused='2001' name='b2b' start='730274'>
+    <variant>B2B</variant>
+  </canonskill>
+  <canonskill end='734569' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='budgeting' start='734140'>
     <variant>budget</variant>
   </canonskill>
-  <canonskill end='726835' experience='1' expidrefs='7' idrefs='7' lastused='1991' name='business plans' start='725739'>
-    <variant>business plan</variant>
+  <canonskill end='732008' experience='1' expidrefs='5' idrefs='5' lastused='2005' name='c + +' start='731004'>
+    <variant>C++</variant>
   </canonskill>
-  <canonskill end='731218' experience='1' expidrefs='2' idrefs='2' lastused='2003' name='cabling' start='730488'>
-    <variant>cable</variant>
+  <canonskill end='732830' experience='1' expidrefs='4' idrefs='4' lastused='2007' name='claris homepage' start='732008'>
+    <variant>homepage</variant>
   </canonskill>
-  <canonskill end='728661' experience='1' expidrefs='5,7' idrefs='5,7' lastused='1996' name='competitive' start='725739'>
-    <variant>competitive</variant>
+  <canonskill end='734569' experience='1' expidrefs='3,8' idrefs='3,8' lastused='2012' name='com' start='730943'>
+    <variant>COM</variant>
+    <variant>com</variant>
   </canonskill>
-  <canonskill end='728296' experience='1' expidrefs='6' idrefs='6' lastused='1995' name='concept development' start='727931'>
-    <variant>concept</variant>
+  <canonskill end='732008' experience='1' expidrefs='5' idrefs='5' lastused='2005' name='concept development' start='731004'>
+    <variant>Concept Development</variant>
   </canonskill>
-  <canonskill end='731218' experience='1' expidrefs='2' idrefs='2' lastused='2003' name='consumer electronics' start='730488'>
-    <variant>Consumer Electronics</variant>
-  </canonskill>
-  <canonskill end='731218' experience='1' expidrefs='2' idrefs='2' lastused='2003' name='content management' start='730488'>
+  <canonskill end='732830' experience='1' expidrefs='4' idrefs='4' lastused='2007' name='content management' start='732008'>
     <variant>content</variant>
   </canonskill>
-  <canonskill end='729757' experience='1' expidrefs='4' idrefs='4' lastused='1999' name='crisis management' start='728661'>
-    <variant>crisis management</variant>
+  <canonskill end='734569' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='credit' start='734140'>
+    <variant>credit</variant>
   </canonskill>
-  <canonskill end='731218' experience='1' expidrefs='2' idrefs='2' lastused='2003' name='digital video' start='730488'>
-    <variant>digital video</variant>
+  <canonskill end='734109' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='css' start='732860'>
+    <variant>CSS</variant>
   </canonskill>
-  <canonskill end='729757' experience='1' expidrefs='4' idrefs='4' lastused='1999' name='direct mail' start='728661'>
-    <variant>direct mail</variant>
+  <canonskill end='729969' experience='1' expidrefs='9' idrefs='9' lastused='1999' name='customer relations' start='729938'>
+    <variant>client</variant>
   </canonskill>
-  <canonskill end='734569' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='direct marketing' start='731614'>
-    <variant>direct marketing</variant>
+  <canonskill end='732830' experience='1' expidrefs='4' idrefs='4' lastused='2007' name='customer support' start='732008'>
+    <variant>customer care</variant>
   </canonskill>
-  <canonskill end='726835' experience='1' expidrefs='7' idrefs='7' lastused='1991' name='fast' start='725739'>
-    <variant>fast</variant>
+  <canonskill end='734569' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='data analysis' start='734140'>
+    <variant>data analysis</variant>
   </canonskill>
-  <canonskill end='726835' experience='1' expidrefs='7' idrefs='7' lastused='1991' name='financial' start='725739'>
-    <variant>financial</variant>
+  <canonskill end='734569' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='data processing' start='734140'>
+    <variant>data processing</variant>
   </canonskill>
-  <canonskill end='731218' experience='1' expidrefs='2' idrefs='2' lastused='2003' name='focus' start='730488'>
-    <variant>focus</variant>
+  <canonskill education='1' eduidrefs='10' end='734109' experience='1' expidrefs='2,6' idrefs='2,6,10' lastused='2010' name='database administration' start='730274'>
+    <variant>Databases</variant>
+    <variant>databases</variant>
+    <variant>database</variant>
   </canonskill>
-  <canonskill end='734569' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='general management' start='731614'>
-    <variant>General Manager</variant>
+  <canonskill end='734569' experience='1' expidrefs='3' idrefs='3' lastused='2012' name='design' start='732557'>
+    <variant>product design</variant>
   </canonskill>
-  <canonskill education='1' eduidrefs='8' idrefs='8' name='insurance'>
-    <variant>Insurance</variant>
+  <canonskill end='734569' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='development' start='734140'>
+    <variant>product development</variant>
   </canonskill>
-  <canonskill education='1' eduidrefs='8' idrefs='8' name='japanese'>
-    <variant>Japanese</variant>
+  <canonskill end='731004' experience='1' expidrefs='8' idrefs='8' lastused='2002' name='documentation' start='730943'>
+    <variant>documentation</variant>
   </canonskill>
-  <canonskill end='730488' experience='1' expidrefs='3' idrefs='3' lastused='2001' name='logo design' start='729757'>
-    <variant>logo</variant>
+  <canonskill end='734569' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='driving' start='734140'>
+    <variant>Driving</variant>
   </canonskill>
-  <canonskill end='726835' experience='1' expidrefs='7' idrefs='7' lastused='1991' name='market analysis' start='725739'>
-    <variant>market analysis</variant>
+  <canonskill education='1' eduidrefs='10' idrefs='10' name='economics'>
+    <variant>Economics</variant>
   </canonskill>
-  <canonskill end='731218' experience='1' expidrefs='2,5' idrefs='2,5' lastused='2003' name='market planning' start='728296'>
-    <variant>marketing strategies</variant>
-    <variant>marketing strategy</variant>
+  <canonskill end='731004' experience='1' expidrefs='8,9' idrefs='8,9' lastused='2002' name='email' start='729938'>
+    <variant>email</variant>
   </canonskill>
-  <canonskill end='729757' experience='1' expidrefs='4,6' idrefs='4,6' lastused='1999' name='market research' start='727931'>
-    <variant>market research</variant>
+  <canonskill end='734569' experience='1' expidrefs='3' idrefs='3' lastused='2012' name='engineering' start='732557'>
+    <variant>engineer</variant>
   </canonskill>
-  <canonskill end='731218' experience='1' expidrefs='2,3,4,5,6,7' idrefs='2,3,4,5,6,7' lastused='2003' name='marketing' start='725739'>
-    <variant>marketing</variant>
-    <variant>market</variant>
+  <canonskill education='1' eduidrefs='10' end='734569' experience='1' expidrefs='1,4' idrefs='1,4,10' lastused='2012' name='finance' start='732008'>
+    <variant>Finance</variant>
+    <variant>finance</variant>
   </canonskill>
-  <canonskill end='730488' experience='1' expidrefs='3' idrefs='3' lastused='2001' name='materials management' start='729757'>
-    <variant>materials</variant>
+  <canonskill end='732830' experience='1' expidrefs='4' idrefs='4' lastused='2007' name='frontpage' start='732008'>
+    <variant>Front Page</variant>
   </canonskill>
-  <canonskill end='728661' experience='1' expidrefs='5' idrefs='5' lastused='1996' name='merchandising' start='728296'>
-    <variant>merchandising</variant>
+  <canonskill education='1' eduidrefs='10' end='732008' experience='1' expidrefs='5' idrefs='5,10' lastused='2005' name='graphical user interface' start='731004'>
+    <variant>Graphics</variant>
+    <variant>graphics</variant>
+    <variant>GUI</variant>
   </canonskill>
-  <canonskill end='731218' experience='1' expidrefs='2' idrefs='2' lastused='2003' name='motorola hardware' start='730488'>
-    <variant>Motorola</variant>
+  <canonskill end='734569' experience='1' expidrefs='2,3' idrefs='2,3' lastused='2012' name='html' start='732557'>
+    <variant>HTML</variant>
+    <variant>html</variant>
   </canonskill>
-  <canonskill end='730488' experience='1' expidrefs='3' idrefs='3' lastused='2001' name='netscape enterprise server' start='729757'>
-    <variant>enterprise</variant>
+  <canonskill end='734569' experience='1' expidrefs='3' idrefs='3' lastused='2012' name='http' start='732557'>
+    <variant>http</variant>
   </canonskill>
-  <canonskill end='730488' experience='1' expidrefs='3' idrefs='3' lastused='2001' name='networking' start='729757'>
-    <variant>networks</variant>
+  <canonskill education='1' eduidrefs='10' idrefs='10' name='internet technologies'>
+    <variant>Internet Technologies</variant>
   </canonskill>
-  <canonskill end='729757' experience='1' expidrefs='4' idrefs='4' lastused='1999' name='new product development' start='728661'>
-    <variant>new product development</variant>
+  <canonskill end='730488' experience='1' expidrefs='6' idrefs='6' lastused='2001' name='java' start='730274'>
+    <variant>Java</variant>
   </canonskill>
-  <canonskill end='730488' experience='1' expidrefs='3' idrefs='3' lastused='2001' name='optimization' start='729757'>
-    <variant>optimization</variant>
+  <canonskill end='734569' experience='1' expidrefs='2,3' idrefs='2,3' lastused='2012' name='javascript' start='732557'>
+    <variant>Javascript</variant>
   </canonskill>
-  <canonskill end='728296' experience='1' expidrefs='6' idrefs='6' lastused='1995' name='packaging' start='727931'>
-    <variant>packaging</variant>
+  <canonskill end='734569' experience='1' expidrefs='3' idrefs='3' lastused='2012' name='linux' start='732557'>
+    <variant>Linux</variant>
   </canonskill>
-  <canonskill end='734569' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='payroll processing' start='731614'>
-    <variant>Payroll</variant>
-    <variant>payroll</variant>
+  <canonskill education='1' eduidrefs='10' idrefs='10' name='math'>
+    <variant>Math</variant>
   </canonskill>
-  <canonskill end='731218' experience='1' expidrefs='2' idrefs='2' lastused='2003' name='positioning' start='730488'>
-    <variant>positioning</variant>
+  <canonskill end='730488' experience='1' expidrefs='6' idrefs='6' lastused='2001' name='microsoft exchange' start='730274'>
+    <variant>Exchange</variant>
   </canonskill>
-  <canonskill end='731218' experience='1' expidrefs='2' idrefs='2' lastused='2003' name='presentation skills' start='730488'>
-    <variant>presentations</variant>
+  <canonskill end='731004' experience='1' expidrefs='8' idrefs='8' lastused='2002' name='microsoft outlook' start='730943'>
+    <variant>Outlook</variant>
   </canonskill>
-  <canonskill end='729757' experience='1' expidrefs='4' idrefs='4' lastused='1999' name='press releases' start='728661'>
-    <variant>PR</variant>
+  <canonskill end='734569' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='microsoft publisher' start='734140'>
+    <variant>Publisher</variant>
   </canonskill>
-  <canonskill end='731218' experience='1' expidrefs='2,6,7' idrefs='2,6,7' lastused='2003' name='pricing' start='725739'>
-    <variant>pricing</variant>
+  <canonskill end='730000' experience='1' expidrefs='7' idrefs='7' lastused='1999' name='microsoft windows' start='729938'>
+    <variant>Windows</variant>
   </canonskill>
-  <canonskill end='728296' experience='1' expidrefs='6' idrefs='6' lastused='1995' name='print advertising' start='727931'>
-    <variant>print advertising</variant>
+  <canonskill end='734569' experience='1' expidrefs='2,3,7' idrefs='2,3,7' lastused='2012' name='mysql' start='729938'>
+    <variant>MySQL</variant>
   </canonskill>
-  <canonskill end='728296' experience='1' expidrefs='6' idrefs='6' lastused='1995' name='promotional materials' start='727931'>
-    <variant>promotion</variant>
+  <canonskill end='734569' experience='1' expidrefs='3' idrefs='3' lastused='2012' name='networking' start='732557'>
+    <variant>Network</variant>
   </canonskill>
-  <canonskill end='728296' experience='1' expidrefs='6' idrefs='6' lastused='1995' name='quark xpress' start='727931'>
-    <variant>Express</variant>
+  <canonskill end='734569' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='next' start='734140'>
+    <variant>next</variant>
   </canonskill>
-  <canonskill end='734569' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='quickbooks' start='731614'>
-    <variant>QuickBooks</variant>
+  <canonskill end='732008' experience='1' expidrefs='5' idrefs='5' lastused='2005' name='opengl' start='731004'>
+    <variant>OpenGL</variant>
   </canonskill>
-  <canonskill end='731218' experience='1' expidrefs='2,3,4' idrefs='2,3,4' lastused='2003' name='radio' start='728661'>
-    <variant>radio</variant>
+  <canonskill education='1' eduidrefs='10' idrefs='10' name='operating systems'>
+    <variant>Operating Systems</variant>
   </canonskill>
-  <canonskill end='731218' experience='1' expidrefs='2' idrefs='2' lastused='2003' name='research' start='730488'>
+  <canonskill end='730488' experience='1' expidrefs='6' idrefs='6' lastused='2001' name='oracle' start='730274'>
+    <variant>Oracle</variant>
+  </canonskill>
+  <canonskill end='734569' experience='1' expidrefs='3' idrefs='3' lastused='2012' name='oracle developer 2000' start='732557'>
+    <variant>Developer</variant>
+  </canonskill>
+  <canonskill end='732830' experience='1' expidrefs='4' idrefs='4' lastused='2007' name='page' start='732008'>
+    <variant>page</variant>
+  </canonskill>
+  <canonskill end='729969' experience='1' expidrefs='9' idrefs='9' lastused='1999' name='perl' start='729938'>
+    <variant>Perl</variant>
+  </canonskill>
+  <canonskill end='734569' experience='1' expidrefs='2,3,4,7' idrefs='2,3,4,7' lastused='2012' name='php' start='729938'>
+    <variant>PHP</variant>
+  </canonskill>
+  <canonskill end='734109' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='process engineering' start='732860'>
+    <variant>processes</variant>
+  </canonskill>
+  <canonskill end='732830' experience='1' expidrefs='4' idrefs='4' lastused='2007' name='programming' start='732008'>
+    <variant>programming</variant>
+  </canonskill>
+  <canonskill end='730000' experience='1' expidrefs='7' idrefs='7' lastused='1999' name='property management' start='729938'>
+    <variant>property management</variant>
+  </canonskill>
+  <canonskill end='734109' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='python' start='732860'>
+    <variant>Python</variant>
+  </canonskill>
+  <canonskill end='732830' experience='1' expidrefs='4' idrefs='4' lastused='2007' name='real estate' start='732008'>
+    <variant>Real Estate</variant>
+  </canonskill>
+  <canonskill end='734569' experience='1' expidrefs='1,4,5' idrefs='1,4,5' lastused='2012' name='research' start='731004'>
     <variant>research</variant>
   </canonskill>
-  <canonskill end='734569' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='retail' start='731614'>
-    <variant>retail</variant>
-  </canonskill>
-  <canonskill end='734569' experience='1' expidrefs='1,2,3,4,5,7' idrefs='1,2,3,4,5,7' lastused='2012' name='sales' start='725739'>
+  <canonskill end='734569' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='sales' start='734140'>
     <variant>Sales</variant>
-    <variant>sales</variant>
   </canonskill>
-  <canonskill end='728661' experience='1' expidrefs='5' idrefs='5' lastused='1996' name='sales management' start='728296'>
-    <variant>sales management</variant>
+  <canonskill end='730000' experience='1' expidrefs='7' idrefs='7' lastused='1999' name='servers' start='729938'>
+    <variant>servers</variant>
   </canonskill>
-  <canonskill end='731218' experience='1' expidrefs='2' idrefs='2' lastused='2003' name='stories' start='730488'>
-    <variant>stories</variant>
+  <canonskill end='732008' experience='1' expidrefs='5' idrefs='5' lastused='2005' name='simulation' start='731004'>
+    <variant>simulation</variant>
   </canonskill>
-  <canonskill end='731218' experience='1' expidrefs='2,4,7' idrefs='2,4,7' lastused='2003' name='strategic' start='725739'>
-    <variant>strategy</variant>
-    <variant>strategic</variant>
+  <canonskill end='732008' experience='1' expidrefs='5' idrefs='5' lastused='2005' name='software architecture' start='731004'>
+    <variant>software design</variant>
   </canonskill>
-  <canonskill end='734569' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='telephone skills' start='731614'>
+  <canonskill end='734109' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='software development' start='732860'>
+    <variant>software development</variant>
+  </canonskill>
+  <canonskill end='731004' experience='1' expidrefs='8' idrefs='8' lastused='2002' name='speechwriting' start='730943'>
+    <variant>speech</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='10' idrefs='10' name='statistics'>
+    <variant>Statistics</variant>
+  </canonskill>
+  <canonskill end='731004' experience='1' expidrefs='8' idrefs='8' lastused='2002' name='telephone skills' start='730943'>
     <variant>phone</variant>
   </canonskill>
-  <canonskill end='731218' experience='1' expidrefs='2,3' idrefs='2,3' lastused='2003' name='television' start='729757'>
-    <variant>TV</variant>
+  <canonskill end='730488' experience='1' expidrefs='6' idrefs='6' lastused='2001' name='user interface design' start='730274'>
+    <variant>user interface</variant>
   </canonskill>
-  <canonskill end='726835' experience='1' expidrefs='7' idrefs='7' lastused='1991' name='transportation' start='725739'>
-    <variant>transportation</variant>
+  <canonskill end='732830' experience='1' expidrefs='4' idrefs='4' lastused='2007' name='validation' start='732008'>
+    <variant>validation</variant>
   </canonskill>
-  <canonskill end='730488' experience='1' expidrefs='3' idrefs='3' lastused='2001' name='unique' start='729757'>
-    <variant>unique</variant>
+  <canonskill end='734569' experience='1' expidrefs='3' idrefs='3' lastused='2012' name='view' start='732557'>
+    <variant>view</variant>
   </canonskill>
-  <canonskill end='731218' experience='1' expidrefs='2' idrefs='2' lastused='2003' name='web site production' start='730488'>
+  <canonskill end='734569' experience='1' expidrefs='3' idrefs='3' lastused='2012' name='web site production' start='732557'>
     <variant>websites</variant>
   </canonskill>
 </skillrollup>

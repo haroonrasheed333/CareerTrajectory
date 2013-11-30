@@ -1,0 +1,110 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "ALC", 
+            "Certification Name": "Accredited Land Consultant", 
+            "Type": "Core", 
+            "Certification ID": "8590", 
+            "Certifying Organization": "National Association of Realtors"
+        }, 
+        {
+            "Acronym": "CM&AA", 
+            "Certification Name": "Certified Merger and Acquisition Advisor", 
+            "Type": "Advanced", 
+            "Certification ID": "6259", 
+            "Certifying Organization": "Alliance of Merger and Acquisition Advisors"
+        }, 
+        {
+            "Acronym": "ARA", 
+            "Certification Name": "Accredited Rural Appraiser", 
+            "Type": "Core", 
+            "Certification ID": "0451", 
+            "Certifying Organization": "American Society of Farm Managers and Rural Appraisers"
+        }, 
+        {
+            "Acronym": "MAI", 
+            "Certification Name": "MAI Designation", 
+            "Type": "Advanced", 
+            "Certification ID": "9192", 
+            "Certifying Organization": "Appraisal Institute"
+        }, 
+        {
+            "Acronym": "RAA", 
+            "Certification Name": "Residential Accredited Appraiser", 
+            "Type": "Core", 
+            "Certification ID": "0323", 
+            "Certifying Organization": "National Association of Realtors"
+        }, 
+        {
+            "Acronym": "CMAR", 
+            "Certification Name": "Certified Mortgage Appraisal Reviewer", 
+            "Type": "Core", 
+            "Certification ID": "6162", 
+            "Certifying Organization": "National Association of Independent Fee Appraisers"
+        }, 
+        {
+            "Acronym": "SRA", 
+            "Certification Name": "SRA Designation", 
+            "Type": "Core", 
+            "Certification ID": "9193", 
+            "Certifying Organization": "Appraisal Institute"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Estate and Trust Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "9023", 
+            "Certifying Organization": "Institute of Business & Finance"
+        }, 
+        {
+            "Acronym": "RPRA", 
+            "Certification Name": "Real Property Review Appraiser", 
+            "Type": "Advanced", 
+            "Certification ID": "9326", 
+            "Certifying Organization": "American Society of Farm Managers and Rural Appraisers"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Estate Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "3695", 
+            "Certifying Organization": "National Auctioneers Association"
+        }, 
+        {
+            "Acronym": "CRI", 
+            "Certification Name": "Certified Real Estate Inspector", 
+            "Type": "Core", 
+            "Certification ID": "6192", 
+            "Certifying Organization": "National Association of Home Inspectors, Inc."
+        }, 
+        {
+            "Acronym": "GAA", 
+            "Certification Name": "General Accredited Appraiser", 
+            "Type": "Core", 
+            "Certification ID": "0324", 
+            "Certifying Organization": "National Association of Realtors"
+        }, 
+        {
+            "Acronym": "RPRA", 
+            "Certification Name": "RPRA for ARAs, MAIs and ASAs in Real Property", 
+            "Type": "Advanced", 
+            "Certification ID": "0452", 
+            "Certifying Organization": "American Society of Farm Managers and Rural Appraisers"
+        }, 
+        {
+            "Acronym": "HCCP", 
+            "Certification Name": "Housing Credit Certified Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "3798", 
+            "Certifying Organization": "National Association of Home Builders"
+        }, 
+        {
+            "Acronym": "CAE", 
+            "Certification Name": "Certified Assessment Evaluator", 
+            "Type": "Advanced", 
+            "Certification ID": "1336", 
+            "Certifying Organization": "International Association of Assessing Officers"
+        }
+    ], 
+    "onet": "13202100"
+}

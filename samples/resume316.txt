@@ -1,0 +1,583 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734593' xml:space='preserve'>                               <contact><name><givenname>CYNTHIA</givenname> <givenname>A</givenname>. <surname>GARFOLD</surname></name>
+                                <address lat='40.445' lon='79.9138' majorcity='PITTSBURGH' state='PA'><street>438 Hershey Road</street>
+                              <city>PITTSBURGH</city>, <state abbrev='PA'>PA</state> <postalcode>15235</postalcode></address>
+                                  <phone>412-915-5534</phone></contact>
+
+
+<experience end='present' start='725739'>PROFESSIONAL EXPERIENCE
+
+<job end='present' id='1' pos='1' start='734079'><employer>Pennsylvania Emergency Management Agency</employer>
+      <title>Commonwealth ACS Officer</title> <daterange><start days='734079' iso8601='2010-11-01'>November 2010</start> ­ <end days='present' iso8601='2012-03-29'>present</end></daterange>
+      <description>Utilize emergency communication skills to aid the RACES/ACS program in
+      the event of an emergency or disaster within the state. Responsible for
+      implementing standard operating procedures and other policies as
+      necessary across the state in regards to emergency communications.
+      Utilize GIS software for emergency management.</description></job>
+
+<job end='present' id='2' pos='2' start='730122'><employer>Western Pennsylvania Search and Rescue Development Center</employer> <address><city>Pittsburgh</city>, <state abbrev='PA'>PA</state></address>
+      <title>Executive Director</title> <daterange><start days='730122' iso8601='2000-01-01'>2000</start>-<end days='present' iso8601='2012-03-29'>present</end></daterange>
+      <description>Provided emergency service personnel with technology to serve the special
+      needs population with rapid response times. Developed the Disaster
+      Recovery/COOP plan in accordance with NIMS and the revised National
+      Response Framework with emphasis on a virtual office and instant
+      communications. Implemented the Special Population Planner, a state-of-the-
+      art GIS program that allows a visual depiction of emergencies and
+      disasters and create an emergency response plan for the special need
+      population. Developed a training curriculum for law enforcement, EMS, and
+      Fire/Rescue, registered with the PA Dept of Health, that teaches
+      first responders how to locate, approach and bring the person with
+      special needs to safety. Created public outreach programs focusing on
+      disaster planning for families and communities and acquired training for
+      members to become a Community Emergency Response Team. Ensure that all
+      emergency responders meet the criteria, such as NIMS training, for
+      answering disaster calls as set by FEMA, PEMA and other agencies.
+      Developed a Search and Rescue K9 training program that focuses on
+      training for the special need population that wanders away and becomes
+      lost. Provided Western Pennsylvania with an electronic tracking program
+      that utilizes Radio Direction Finding to locate missing persons with
+      special needs. Train and mentor first responders in emergency
+      communication techniques for their certification. Research new
+      technologies that can be used to enhance emergency or disaster response
+      time and communicate critical information when it is needed.</description></job>
+
+<job end='734140' id='3' pos='3' sic='651303' sic2='65' start='731583'><employer>McKinney Properties, Inc</employer>                            <address><city>Wilkinsburg</city>, <state abbrev='PA'>PA</state></address>
+      <title>Director</title> of Information Technology <daterange><start days='731583' iso8601='2004-01-01'>2004</start>-<end days='734140' iso8601='2011-01-01'>2011</end></daterange>
+      <description>Responsible for Corporate Office and 15 remote sites. Windows 2003
+      Server and Exchange. SQL Server 2000 and 2005 experience. Responsible
+      for telecommunications including VOIP, Blackberry, remote access and VPN
+      access of users. Outlook RDC over Http configurations for remote users.
+      Manage software and hardware deployment and PC repairs. Manage Network
+      Security and develop policies and procedures for IT issues such as
+      disaster recovery and internet use. Duties included daily operational
+      issues such as break/fix and network administration</description></job>
+
+The PC &amp; LAN Help Desk <job end='731583' id='4' pos='4' start='729027'><address><city>Pittsburgh</city>, <state abbrev='PA'>PA</state></address>
+      <title>Network Engineer</title> <daterange><start days='729027' iso8601='1997-01-01'>1997</start>-<end days='731583' iso8601='2004-01-01'>2004</end></daterange>
+      <description>Responsible for design, installation and management of Novell and
+      Windows NT networks. Extensive knowledge with Cisco and Extreme
+      Switches. Served as project manager on critical projects dealing with
+      security and forensic technology. Duties included systems analysis,
+      application integration, network design and engineering. Installed and
+      configured Cisco products for Firewalls and VPN's. Performed security
+      analysis and developed security policies and procedures.</description></job>
+<job end='730488' id='5' pos='5' sic='8211' sic2='82' start='729027'><employer>Franklin Regional School District</employer>                    <address><city>Murrysville</city>, <state abbrev='PA'>PA</state></address>
+      <title>Network Engineer</title> <daterange><start days='729027' iso8601='1997-01-01'>1997</start>-<end days='730488' iso8601='2001-01-01'>2001</end></daterange>
+      <description>Responsible for design, installation and management of Novell and
+      Windows NT networks. Extensive knowledge with Cisco and Extreme
+      Switches. Served as project manager on critical projects. Duties
+      included systems analysis, application integration, network design and
+      engineering. Installed and configured Cisco products for Firewalls and
+      VPN's. Performed security analysis and developed security policies and
+      procedures.</description></job>
+
+<job end='729027' id='6' naics='61131009' naics2='61' pos='6' sic='801101' sic2='80' start='728661'><employer>University of Pittsburgh Medical Center</employer>        <address><city>Pittsburgh</city>, <state abbrev='PA'>PA</state></address>
+      <title>Consultant</title> <daterange><start days='728661' iso8601='1996-01-01'>1996</start>-<end days='729027' iso8601='1997-01-01'>1997</end></daterange>
+      <description>Project leader for the installation of Windows NT Server and Desktops
+      for Orthopedic Division. Responsible for conversion from Novell 3.12 to
+      Windows NT 4.0. Created standard desktop requirements.
+      Also responsible for installing and configuring desktops for new medical
+      sites.
+      Responsibilities also included end-user support for multi-platform
+      sites. Support included Windows 3.1, OS/2 Warp 4, Windows for
+      Workgroups, Windows 95 and Windows NT desktop 3.51 and 4.0
+      Provided terminal emulation using LAN Workplace, PCTCP, ONNET, Smarterm,
+      and Attachmate for mainframe connectivity.</description></job>
+
+<job id='7' sic='602101' sic2='60' start='728661'><employer>Mellon Bank</employer>             <address lat='40.4451' lon='79.9785' majorcity='PITTSBURGH' state='PA'><city>Pittsburgh</city>, <state abbrev='PA'>PA</state> <postalcode>15219</postalcode></address>
+      <title>Consultant</title> <daterange><start days='728661' iso8601='1996-01-01'>1996</start></daterange>
+      <description>Project leader for the installation of Windows NT desktops for the
+      Equity Trading Desk. Project involved setting up the NT workstations for
+      connectivity to a Novell 3.12 server for resources such as printing,
+      Msmail, and internet services while running applications from their
+      local drive that accessed Stock Market services. The project was
+      designed to allow for no down time during critical trading hours.
+      LAN Administrator for Novell 3.12 servers and Windows 3.1 and N/T
+      desktops. Responsible for maintaining and upgrading file servers -
+      hardware and software. Responsible for documenting all facets of network
+      structures. Troubleshoot network problems for LAN and mainframe
+      connectivity up to and including end-user problems.</description></job>
+
+<job id='8' sic='152103' sic2='15' start='728661'><employer>PNC Corp</employer>.               <address lat='40.4451' lon='79.9785' majorcity='PITTSBURGH' state='PA'><city>Pittsburgh</city>, <state abbrev='PA'>PA</state> <postalcode>15219</postalcode></address>
+      <title>Consultant</title> <daterange><start days='728661' iso8601='1996-01-01'>1996</start></daterange>
+      <description>LAN Administrator for OS/2 clients and LanServer 4.0 Network.
+      Responsible for adding users, setting up print queues, setting limits
+      for users home directories and creating batch programs using REXX
+      programming language.
+      Other administrator duties as needed.</description></job>
+
+<job id='9' sic='506330' sic2='50' start='728661'><employer>Westinghouse Corp</employer>.      <address lat='40.4476' lon='79.9909' majorcity='PITTSBURGH' state='PA'><city>Pittsburgh</city>, <state abbrev='PA'>PA</state> <postalcode>15222</postalcode></address>
+      <title>Consultant</title> <daterange><start days='728661' iso8601='1996-01-01'>1996</start></daterange>
+      <description>Support for relocation of network file servers and users from Energy
+      Center to Headquarters. Duties included defining client data profiles
+      and developing network strategies to move users and equipment in a
+      timely and efficient manner with minimum disruption of service.</description></job>
+<job id='10' sic='333498' sic2='33' start='728296'><employer>Aluminum Company of America Corp</employer>.(<employer>ALCOA</employer>)    <address lat='40.4451' lon='79.9785' majorcity='PITTSBURGH' state='PA'><city>Pittsburgh</city>, <state abbrev='PA'>PA</state> <postalcode>15219</postalcode></address>
+      <title>Consultant</title> <daterange><start days='728296' iso8601='1995-01-01'>1995</start></daterange>
+      <description>Solely responsible for installing and configuring a 25-node
+      LAN for ALCOA Foundation and updating NetWare from 3.11 to
+      3.12. Installed the newest drivers for system and also installed the
+      newest NLM's for NetWare. Migrated the data and bindery information
+      using the Migrate utility.
+      Also responsible for Network Administration for the other
+      networks that are installed in ALCOA. This includes installing new
+      users and monitoring file and directory rights, setting up groups and
+      monitoring trustees.
+      Also responsible for setting up print servers and installing
+      Jet Direct boards.
+      Responsible for installing CC:Mail on local and remote users computers.
+      Helped in troubleshooting corrupt post offices and performed automatic
+      updates.</description></job>
+
+<job id='11' naics='32518102' naics2='32' sic='999999' sic2='99' start='728296'><employer>PPG Industries</employer>     <address lat='40.4425' lon='80.0048' majorcity='PITTSBURGH' state='PA'><city>Pittsburgh</city>, <state abbrev='PA'>PA</state> <postalcode>15272</postalcode></address>
+      <title>Consultant</title> <daterange><start days='728296' iso8601='1995-01-01'>1995</start></daterange>
+      <description>Duties included support for Novell network and Microsoft Office
+      products. Currently PPG is using Ethernet connectivity and IPXODI
+      and TCP/IP. Responsibilities include troubleshooting hardware, software
+      LAN and WAN problems as they arise. Talk end-user through recommended
+      fixes and where applicable provide person-to-person support.
+      Microsoft Office Suite, Windows 3.11, Novell 3.12 &amp; 4.x.
+      Network support includes adding and maintaining users, creating login
+      scripts, maintaining security, configuring printers and other related
+      LAN administration duties. We are currently upgrading to NetWare 4.12
+      and administration duties are being done through 4.12 utilities.
+      Configured laptops for users that access the network remotely.
+      Installed and configured Ethernet PCMCIA cards and related software for
+      national and international communications.
+      Maintained network mail system for local and remote users.
+      Support users with access to Internet. Instruct them on the use of WEB
+      Browser and FTP sites along with suggesting Usenet groups that deal
+      with their interests.</description></job>
+
+<job end='728296' id='12' pos='7' start='727931'><employer>CENTER FOR ORGAN RECOVERY AND EDUCATION</employer>        <address><city>Pittsburgh</city>, <state abbrev='PA'>PA</state></address>
+      <title>Information Systems Manager</title> <daterange><start days='727931' iso8601='1994-01-01'>1994</start>-<end days='728296' iso8601='1995-01-01'>1995</end></daterange>
+      <description>Duties include installing and administering Novell Network. This
+      includes adding, deleting, and maintaining user accounts. Maintaining
+      security for users, groups, and individual files and directories.
+      Configuring server and workstation shell with appropriate software.
+      Creating and maintain a print server along with configuring each
+      printer assigned to the print server. Installing and configuring NIC
+      card for file server and workstations. Installed and maintained a back-
+      up procedure for the file server. Also responsible for upgrading
+      software from 3.11 to 3.12. Workstations run on DOS and OS/2 .
+      Responsible for updating and maintaining their organ procurement system
+      which is written in Paradox ObjectPAL 4.5.
+      Developed training manuals and classes for end users with various
+      expertise levels in the use of word processing and spreadsheet programs
+      as well as certain programming procedures.</description></job>
+
+<job end='727931' id='13' pos='8' sic='912102' sic2='91' start='726470'><employer>COMMONWEALTH OF PENNSYLVANIA, DEPT. OF TRANSPORTATION</employer>   <address><city>Pittsburgh</city>, <state abbrev='PA'>PA</state></address>
+      <title>Computer Systems Analyst II</title> <daterange><start days='726470' iso8601='1990-01-01'>1990</start> - <end days='727931' iso8601='1994-01-01'>1994</end></daterange>
+      <description>Duties include setting up PC's on construction sites to account for the
+      expenditure of public funds. Troubleshoot problems in the CDS software
+      Dbase IV).
+      Analyze office procedures to determine automated feasibility.
+      Design automated systems for procedures currently being done manually.
+     Analyze construction schedules for cash flow purposes and payments to
+     the contractors.
+     Installed and maintained 3270 emulation software to provide a gateway
+     to the IBM mainframe for networking purposes. Installed and
+     configured workstations and printers for local area network.(OS/2 -
+     Lanserver 3.x and Novell 3.12)
+     Maintained and configured 3270 controllers being used as a gateway to
+     IBM mainframe.
+     Created and maintained user accounts on network. Created and maintained
+     groups and individual security measures for directories and files.
+     maintained printer and queues for direct or remote printing.
+     Installed and configured workstations to access network resources
+     including but not limited to actual wiring of the workstation site.
+     Programming for microcomputers and provides expertise and guidance for
+     others writing microcomputer programs.
+     Design training manuals and user manuals for in-house software
+     packages.
+     Coordinate the integration of software systems within the district
+     office.
+     Set up training seminars for use of WordPerfect, CDS, DOS and other
+     software packages.
+     Used SAS/ISPF programming to Query Reports in RMDS and JCL to run on-
+     line or Batch. Used DB2/QMF/SQL for adhoc reports dealing with payroll,
+     contract status, etc.</description></job>
+
+<job end='726470' id='14' pos='9' sic='573407' sic2='57' start='725739'><employer>SELECTIVE SOFTWARE INC</employer>.    <address><city>North Hills</city>, <state abbrev='PA'>PA</state></address>
+      <title>Consultant</title> <daterange><start days='725739' iso8601='1988-01-01'>1988</start> - <end days='726470' iso8601='1990-01-01'>1990</end></daterange>
+      <description>Duties included setting up Novell networks and trouble shooting
+      hardware problems as they arise. This included but is not limited to
+      creating and maintaining users, maintain security and regulating access
+      to directories and files. Creating groups for streamlining of network
+      administration. Creating and configuring print queues for network
+      users.</description></job></experience>
+
+
+<education>EDUCATION
+
+     <school id='15'><degree level='16' name='Bachelor of Science in Business Administration'>B.S.B.A</degree>. <major code='0402 4102'>Computer Information Science and Finance</major> (<completiondate days='726835' iso8601='1991-01-01'>1991</completiondate>)
+     <institution>Robert Morris College</institution>, <address><city>Pittsburgh</city> <state abbrev='PA'>PA</state></address>
+
+     <courses>Community Emergency Response Team Trainer</courses></school>
+     <school id='16'><institution>Allegheny County Fire Academy</institution> (<completiondate days='731583' iso8601='2004-01-01'>2004</completiondate>)
+
+     <courses>Amateur Radio Operator ( Extra License) (2005)
+     Certified Search and Rescue Specialist
+     PA DCNR (2001)</courses></school></education>
+
+     <skills><description>ICS 100, 200, 300, 700 and 800 courses
+     (FEMA)</description></skills>
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='approach' start='730122'>
+    <variant>approach</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='art' start='730122'>
+    <variant>art</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='as set' start='730122'>
+    <variant>as set</variant>
+  </canonskill>
+  <canonskill end='727931' experience='1' expidrefs='13' idrefs='13' lastused='1994' name='cash flow' start='726470'>
+    <variant>cash flow</variant>
+  </canonskill>
+  <canonskill end='731583' experience='1' expidrefs='4,5' idrefs='4,5' lastused='2004' name='cisco' start='729027'>
+    <variant>Cisco</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='communication skills' start='734079'>
+    <variant>communication skills</variant>
+  </canonskill>
+  <canonskill end='734140' experience='1' expidrefs='3,7,11,14' idrefs='3,7,11,14' lastused='2011' name='computer hardware' start='725739'>
+    <variant>hardware</variant>
+  </canonskill>
+  <canonskill end='729027' experience='1' expidrefs='6' idrefs='6' lastused='1997' name='conversion' start='728661'>
+    <variant>conversion</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='8,9' idrefs='8,9' name='customer relations' start='728661'>
+    <variant>client</variant>
+    <variant>clients</variant>
+  </canonskill>
+  <canonskill end='727931' experience='1' expidrefs='13' idrefs='13' lastused='1994' name='dbase iv' start='726470'>
+    <variant>Dbase IV</variant>
+  </canonskill>
+  <canonskill end='729027' experience='1' expidrefs='6,7' idrefs='6,7' lastused='1997' name='desktop pc' start='728661'>
+    <variant>Desktops</variant>
+    <variant>desktops</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='directing' start='730122'>
+    <variant>Direction</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='disaster planning' start='730122'>
+    <variant>disaster planning</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2,3' idrefs='2,3' lastused='2012' name='disaster recovery planning' start='730122'>
+    <variant>disaster recovery</variant>
+    <variant>Disaster
+      Recovery</variant>
+  </canonskill>
+  <canonskill end='728296' experience='1' expidrefs='12,13' idrefs='12,13' lastused='1995' name='dos' start='726470'>
+    <variant>DOS</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='10' idrefs='10' name='drivers' start='728296'>
+    <variant>drivers</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='7' idrefs='7' name='equities' start='728661'>
+    <variant>Equity</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='11' idrefs='11' name='ethernet' start='728296'>
+    <variant>Ethernet</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='7,9' idrefs='7,9' name='file servers' start='728661'>
+    <variant>file servers</variant>
+  </canonskill>
+  <canonskill end='731583' experience='1' expidrefs='4,5' idrefs='4,5' lastused='2004' name='firewalls' start='729027'>
+    <variant>Firewalls</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='11' idrefs='11' name='ftp' start='728296'>
+    <variant>FTP</variant>
+  </canonskill>
+  <canonskill end='727931' experience='1' expidrefs='13' idrefs='13' lastused='1994' name='funds' start='726470'>
+    <variant>funds</variant>
+  </canonskill>
+  <canonskill end='727931' experience='1' expidrefs='13' idrefs='13' lastused='1994' name='gateway' start='726470'>
+    <variant>gateway</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='gis' start='730122'>
+    <variant>GIS</variant>
+  </canonskill>
+  <canonskill end='734140' experience='1' expidrefs='3' idrefs='3' lastused='2011' name='http' start='731583'>
+    <variant>Http</variant>
+  </canonskill>
+  <canonskill end='727931' experience='1' expidrefs='13' idrefs='13' lastused='1994' name='ibm db/2' start='726470'>
+    <variant>DB2</variant>
+  </canonskill>
+  <canonskill end='727931' experience='1' expidrefs='13' idrefs='13' lastused='1994' name='ibm mainframe' start='726470'>
+    <variant>IBM mainframe</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='7' idrefs='7' name='internet services' start='728661'>
+    <variant>internet services</variant>
+  </canonskill>
+  <canonskill end='727931' experience='1' expidrefs='13' idrefs='13' lastused='1994' name='ispf' start='726470'>
+    <variant>ISPF</variant>
+  </canonskill>
+  <canonskill end='727931' experience='1' expidrefs='13' idrefs='13' lastused='1994' name='jcl' start='726470'>
+    <variant>JCL</variant>
+  </canonskill>
+  <canonskill end='729027' experience='1' expidrefs='6,7,8,10,11,13' idrefs='6,7,8,10,11,13' lastused='1997' name='lan' start='726470'>
+    <variant>local area network</variant>
+    <variant>LAN</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='11' idrefs='11' name='lan administration' start='728296'>
+    <variant>LAN administration</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='11' idrefs='11' name='laptop computers' start='728296'>
+    <variant>laptops</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='law enforcement' start='730122'>
+    <variant>law enforcement</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='10' idrefs='10' name='lotus cc : mail' start='728296'>
+    <variant>CC:Mail</variant>
+  </canonskill>
+  <canonskill end='729027' experience='1' expidrefs='6,7' idrefs='6,7' lastused='1997' name='mainframe' start='728661'>
+    <variant>mainframe</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='7' idrefs='7' name='marketing' start='728661'>
+    <variant>Market</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='mentoring' start='730122'>
+    <variant>mentor</variant>
+  </canonskill>
+  <canonskill end='727931' experience='1' expidrefs='13' idrefs='13' lastused='1994' name='microcomputers' start='726470'>
+    <variant>microcomputers</variant>
+  </canonskill>
+  <canonskill end='734140' experience='1' expidrefs='3,11,13,14' idrefs='3,11,13,14' lastused='2011' name='microsoft access' start='725739'>
+    <variant>access</variant>
+  </canonskill>
+  <canonskill end='734140' experience='1' expidrefs='3' idrefs='3' lastused='2011' name='microsoft exchange' start='731583'>
+    <variant>Exchange</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='7,11' idrefs='7,11' name='microsoft mail' start='728296'>
+    <variant>Msmail</variant>
+    <variant>mail</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2,3,11,13' idrefs='2,3,11,13' lastused='2012' name='microsoft office' start='726470'>
+    <variant>Microsoft Office Suite</variant>
+    <variant>Office</variant>
+    <variant>Microsoft Office
+      products</variant>
+    <variant>office</variant>
+  </canonskill>
+  <canonskill end='734140' experience='1' expidrefs='3' idrefs='3' lastused='2011' name='microsoft outlook' start='731583'>
+    <variant>Outlook</variant>
+  </canonskill>
+  <canonskill end='734140' experience='1' expidrefs='3' idrefs='3' lastused='2011' name='microsoft windows' start='731583'>
+    <variant>Windows</variant>
+  </canonskill>
+  <canonskill end='729027' experience='1' expidrefs='6,7' idrefs='6,7' lastused='1997' name='microsoft windows 3.1' start='728661'>
+    <variant>Windows 3.1</variant>
+  </canonskill>
+  <canonskill end='728296' experience='1' expidrefs='10,11,12' idrefs='10,11,12' lastused='1995' name='microsoft windows 3.11' start='727931'>
+    <variant>Windows 3.11</variant>
+    <variant>3.11</variant>
+  </canonskill>
+  <canonskill end='727931' experience='1' expidrefs='13' idrefs='13' lastused='1994' name='microsoft windows 3.x' start='726470'>
+    <variant>3.x</variant>
+  </canonskill>
+  <canonskill end='729027' experience='1' expidrefs='6' idrefs='6' lastused='1997' name='microsoft windows 95' start='728661'>
+    <variant>Windows 95</variant>
+  </canonskill>
+  <canonskill end='731583' experience='1' expidrefs='4,5,6,7' idrefs='4,5,6,7' lastused='2004' name='microsoft windows nt' start='728661'>
+    <variant>Windows NT Server</variant>
+    <variant>NT</variant>
+    <variant>Windows NT</variant>
+  </canonskill>
+  <canonskill end='729027' experience='1' expidrefs='6' idrefs='6' lastused='1997' name='microsoft windows nt 4.0' start='728661'>
+    <variant>Windows NT 4.0</variant>
+  </canonskill>
+  <canonskill end='734140' experience='1' expidrefs='3,10,14' idrefs='3,10,14' lastused='2011' name='network administration' start='725739'>
+    <variant>Network Administration</variant>
+    <variant>network administration</variant>
+    <variant>network
+      administration</variant>
+  </canonskill>
+  <canonskill end='731583' experience='1' expidrefs='4,5' idrefs='4,5' lastused='2004' name='network engineering' start='729027'>
+    <variant>network design and engineering</variant>
+    <variant>network design and
+      engineering</variant>
+  </canonskill>
+  <canonskill end='734140' experience='1' expidrefs='3' idrefs='3' lastused='2011' name='network security' start='731583'>
+    <variant>Network
+      Security</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='11' idrefs='11' name='network support' start='728296'>
+    <variant>Network support</variant>
+  </canonskill>
+  <canonskill end='731583' experience='1' expidrefs='4,5,7,8,9,10,11,13,14' idrefs='4,5,7,8,9,10,11,13,14' lastused='2004' name='networking' start='725739'>
+    <variant>Network</variant>
+    <variant>network</variant>
+    <variant>networking</variant>
+    <variant>networks</variant>
+  </canonskill>
+  <canonskill end='728296' experience='1' expidrefs='12' idrefs='12' lastused='1995' name='nics' start='727931'>
+    <variant>NIC</variant>
+  </canonskill>
+  <canonskill end='731583' experience='1' expidrefs='4,5' idrefs='4,5' lastused='2004' name='novell' start='729027'>
+    <variant>Novell</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='10,11' idrefs='10,11' name='novell netware' start='728296'>
+    <variant>NetWare 4.12</variant>
+    <variant>NetWare</variant>
+  </canonskill>
+  <canonskill end='729027' experience='1' expidrefs='6,7,11,13' idrefs='6,7,11,13' lastused='1997' name='novell netware 3.12' start='726470'>
+    <variant>Novell 3.12</variant>
+  </canonskill>
+  <canonskill end='728296' experience='1' expidrefs='11,12,14' idrefs='11,12,14' lastused='1995' name='novell network' start='725739'>
+    <variant>Novell networks</variant>
+    <variant>Novell Network</variant>
+    <variant>Novell network</variant>
+  </canonskill>
+  <canonskill end='728296' experience='1' expidrefs='12' idrefs='12' lastused='1995' name='objectpal' start='727931'>
+    <variant>ObjectPAL 4.5</variant>
+  </canonskill>
+  <canonskill end='729027' experience='1' expidrefs='6,8,12,13' idrefs='6,8,12,13' lastused='1997' name='os/2' start='726470'>
+    <variant>OS/2</variant>
+    <variant>OS/2 Warp 4</variant>
+  </canonskill>
+  <canonskill end='728296' experience='1' expidrefs='12' idrefs='12' lastused='1995' name='paradox' start='727931'>
+    <variant>Paradox</variant>
+  </canonskill>
+  <canonskill end='727931' experience='1' expidrefs='13' idrefs='13' lastused='1994' name='payroll processing' start='726470'>
+    <variant>payroll</variant>
+  </canonskill>
+  <canonskill end='727931' experience='1' expidrefs='13' idrefs='13' lastused='1994' name='pc' start='726470'>
+    <variant>PC's</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='personnel' start='730122'>
+    <variant>personnel</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,3,4,5' idrefs='1,3,4,5' lastused='2012' name='policy analysis' start='729027'>
+    <variant>policies</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='10' idrefs='10' name='print servers' start='728296'>
+    <variant>print servers</variant>
+  </canonskill>
+  <canonskill end='728296' experience='1' expidrefs='11,12,13' idrefs='11,12,13' lastused='1995' name='printers' start='726470'>
+    <variant>printer</variant>
+    <variant>printers</variant>
+  </canonskill>
+  <canonskill end='728296' experience='1' expidrefs='12' idrefs='12' lastused='1995' name='procurement' start='727931'>
+    <variant>procurement</variant>
+  </canonskill>
+  <canonskill end='728296' experience='1' expidrefs='8,12,13' idrefs='8,12,13' lastused='1995' name='programming' start='726470'>
+    <variant>Programming</variant>
+    <variant>programming</variant>
+  </canonskill>
+  <canonskill end='729027' experience='1' expidrefs='6,7' idrefs='6,7' lastused='1997' name='project management' start='728661'>
+    <variant>Project leader</variant>
+  </canonskill>
+  <canonskill end='727931' experience='1' expidrefs='13' idrefs='13' lastused='1994' name='qmf' start='726470'>
+    <variant>QMF</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='16' end='734579' experience='1' expidrefs='2' idrefs='2,16' lastused='2012' name='radio' start='730122'>
+    <variant>Radio</variant>
+  </canonskill>
+  <canonskill end='734140' experience='1' expidrefs='3' idrefs='3' lastused='2011' name='repair' start='731583'>
+    <variant>repairs</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='research' start='730122'>
+    <variant>Research</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='8' idrefs='8' name='rexx' start='728661'>
+    <variant>REXX</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='safety' start='730122'>
+    <variant>safety</variant>
+  </canonskill>
+  <canonskill end='727931' experience='1' expidrefs='13' idrefs='13' lastused='1994' name='sas' start='726470'>
+    <variant>SAS</variant>
+  </canonskill>
+  <canonskill end='731583' experience='1' expidrefs='4,5' idrefs='4,5' lastused='2004' name='security analysis' start='729027'>
+    <variant>security analysis</variant>
+    <variant>security
+      analysis</variant>
+  </canonskill>
+  <canonskill end='727931' experience='1' expidrefs='13' idrefs='13' lastused='1994' name='seminars' start='726470'>
+    <variant>seminars</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='7' idrefs='7' name='servers' start='728661'>
+    <variant>servers</variant>
+  </canonskill>
+  <canonskill end='728296' experience='1' expidrefs='11,12' idrefs='11,12' lastused='1995' name='shell scripting' start='727931'>
+    <variant>shell</variant>
+    <variant>scripts</variant>
+  </canonskill>
+  <canonskill end='728296' experience='1' expidrefs='12' idrefs='12' lastused='1995' name='spreadsheets' start='727931'>
+    <variant>spreadsheet</variant>
+  </canonskill>
+  <canonskill end='727931' experience='1' expidrefs='13' idrefs='13' lastused='1994' name='sql' start='726470'>
+    <variant>SQL</variant>
+  </canonskill>
+  <canonskill end='734140' experience='1' expidrefs='3' idrefs='3' lastused='2011' name='sql server 2000' start='731583'>
+    <variant>SQL Server 2000</variant>
+  </canonskill>
+  <canonskill end='731583' experience='1' expidrefs='4,5' idrefs='4,5' lastused='2004' name='switches' start='729027'>
+    <variant>Switches</variant>
+  </canonskill>
+  <canonskill end='731583' experience='1' expidrefs='4,5' idrefs='4,5' lastused='2004' name='systems analysis' start='729027'>
+    <variant>systems analysis</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='11' idrefs='11' name='tcp/ip' start='728296'>
+    <variant>TCP/IP</variant>
+  </canonskill>
+  <canonskill end='729027' experience='1' expidrefs='6' idrefs='6' lastused='1997' name='technical support' start='728661'>
+    <variant>user support</variant>
+  </canonskill>
+  <canonskill end='727931' experience='1' expidrefs='13' idrefs='13' lastused='1994' name='technical writing' start='726470'>
+    <variant>user manuals</variant>
+  </canonskill>
+  <canonskill end='734140' experience='1' expidrefs='3' idrefs='3' lastused='2011' name='telecommunications' start='731583'>
+    <variant>telecommunications</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='15' idrefs='15' name='training'>
+    <variant>Trainer</variant>
+  </canonskill>
+  <canonskill end='728296' experience='1' expidrefs='12,13' idrefs='12,13' lastused='1995' name='training materials' start='726470'>
+    <variant>training manuals</variant>
+  </canonskill>
+  <canonskill end='727931' experience='1' expidrefs='7,10,11,13,14' idrefs='7,10,11,13,14' lastused='1994' name='troubleshooting' start='725739'>
+    <variant>Troubleshoot</variant>
+    <variant>trouble shooting</variant>
+    <variant>troubleshooting</variant>
+  </canonskill>
+  <canonskill end='728296' experience='1' expidrefs='7,11,12' idrefs='7,11,12' lastused='1995' name='upgrades' start='727931'>
+    <variant>upgrading</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='11' idrefs='11' name='utilities' start='728296'>
+    <variant>utilities</variant>
+  </canonskill>
+  <canonskill end='734140' experience='1' expidrefs='3' idrefs='3' lastused='2011' name='voip' start='731583'>
+    <variant>VOIP</variant>
+  </canonskill>
+  <canonskill end='734140' experience='1' expidrefs='3,4,5' idrefs='3,4,5' lastused='2011' name='vpn' start='729027'>
+    <variant>VPN</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='11' idrefs='11' name='wan' start='728296'>
+    <variant>WAN</variant>
+  </canonskill>
+  <canonskill end='729027' experience='1' expidrefs='6' idrefs='6' lastused='1997' name='windows for workgroups' start='728661'>
+    <variant>Windows for
+      Workgroups</variant>
+  </canonskill>
+  <canonskill end='727931' experience='1' expidrefs='13' idrefs='13' lastused='1994' name='wiring' start='726470'>
+    <variant>wiring</variant>
+  </canonskill>
+  <canonskill end='728296' experience='1' expidrefs='12' idrefs='12' lastused='1995' name='word processing' start='727931'>
+    <variant>word processing</variant>
+  </canonskill>
+  <canonskill end='727931' experience='1' expidrefs='13' idrefs='13' lastused='1994' name='wordperfect' start='726470'>
+    <variant>WordPerfect</variant>
+  </canonskill>
+  <canonskill end='728296' experience='1' expidrefs='12' idrefs='12' lastused='1995' name='writing' start='727931'>
+    <variant>written</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

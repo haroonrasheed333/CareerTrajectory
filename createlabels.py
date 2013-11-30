@@ -22,6 +22,7 @@ class ResumeCorpus():
         
         self.source_dir = source_dir
         self.files = self.getFiles(self.source_dir)
+        self.readFiles(self.files, self.source_dir)
         
     def getFiles(self, source_dir):
         files = [ f for (dirpath, dirnames, filenames) in os.walk(source_dir) for f in filenames if f[-4:] == '.txt' ]
@@ -35,8 +36,8 @@ class ResumeCorpus():
     
         labels = open ('labels.txt', 'w')
         for fname in files:
-            data = open(fname).read()
-            xml = etree.parse(fname)
+            #data = open(source_dir + '/' + fname).read()
+            xml = etree.parse(source_dir + '/' + fname)
             current_employer = xml.xpath('//job[@end = "present"]/employer/text()')
             print current_employer
         
@@ -52,13 +53,14 @@ class ResumeCorpus():
                 text_data.replace(current_job_title[0], '')
             #print text_data
         
-            f = open('%s' %fname +'_plaintext.txt', 'w')
+            f = open('samples_text/' + '%s' %fname[:-4] +'_plaintext.txt', 'w')
             f.write(text_data)
             f.close()
-            labels.writelines(fname + "\t" + current_job_title)
+            if current_job_title:
+                labels.writelines(fname[:-4] +'_plaintext.txt' + "\t" + current_job_title[0] + "\n")
         return
 
 
 if __name__ == "__main__":
-    traintest_corpus = ResumeCorpus('/Users/divyakarthikeyan/') #4256
+    traintest_corpus = ResumeCorpus('samples') #4256
 

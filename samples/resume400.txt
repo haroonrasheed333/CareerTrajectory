@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734593' xml:space='preserve'><contact><name><givenname>Brandon</givenname> <givenname>Lee</givenname> <surname>Penley</surname></name>
+<email>blpenley1@gmail.com</email>
+<address lat='35.7075' lon='81.1448' majorcity='CLAREMONT' state='NC'><street>3734 Davie Street</street>
+<city>Claremont</city> <state abbrev='NC'>NC</state>, <postalcode>28610</postalcode></address>
+<phone>(828) 320-7234</phone></contact>
+
+<summary>OBJECTIVE:  <objective>Seeking position at your organization where I can pursue my interests in management and where my strong leadership, organization, commitment to customer service, and communication skills will help me make contributions.</objective>
+
+Summary of Qualifications
+<summary>Proven leadership with excellent people skills.
+Results oriented while maintaining flexibility.
+Effective communicator and excellent team player.
+Ability to deal directly with individuals in a changing environment.
+Possess a thirty hour OSHA safety qualification card.
+Possess the skills to manage several tasks efficiently.</summary></summary>
+<skills>Proficient use in various software - <skills>Word, Excel, PowerPoint, Chief Architect, Microsoft Project, etc.</skills></skills>
+
+<education>EDUCATION
+<school id='3'><institution>Western Carolina University</institution>						<address><city>Cullowhee</city>, <state abbrev='NC'>NC</state></address>
+<degree level='16' name='Bachelor of Science'>Bachelor of Science</degree> 							<completiondate days='733987' iso8601='2010-08-01'>August 2010</completiondate>
+Major in <major code='4201'>Construction Management</major>
+Minor in <minor code='4201'>Business Administration</minor>
+Minor in <minor>Land Development</minor></school>
+<school id='4'><institution>Catawba Valley Community College</institution>					<address><city>Hickory</city>, <state abbrev='NC'>NC</state></address>
+<degree level='14'>Associates Degree</degree> in <major>Liberal Studies</major>					<completiondate days='732799' iso8601='2007-05-01'>May 2007</completiondate></school></education>
+	
+<experience end='present' start='731583'>WORK EXPERIENCE
+<job end='present' id='1' naics='45111055' naics2='45' pos='2' sic='594113' sic2='59' start='731583'><employer>Dick's Sporting Goods</employer>							<address><city>Hickory</city>, <state abbrev='NC'>NC</state></address>
+<title>Sales Associate</title>								<daterange><start days='731583' iso8601='2004-01-01'>2004</start>-<end days='present' iso8601='2012-03-29'>Present</end></daterange>
+<description>Effectively sold golf merchandise for high volume sporting goods store
+Provided superior service to customers with specific needs
+Assisted other departments during peak hours by multi-tasking to provide both assistance in golf department and other departments</description></job>
+<job end='present' id='2' pos='1' sic='301198' sic2='30' start='734140'><employer>Snider Tire Incorporated</employer>                                                                      <address><city>Charlotte</city>, <state abbrev='NC'>NC</state></address>
+Mount and Dismount Area                                                                   <daterange><start days='734140' iso8601='2011-01-01'>2011</start>-<end days='present' iso8601='2012-03-29'>Present</end></daterange>
+<description>Effectively mounted and dismounted tires for high volume truck tire store
+Assisted other areas of tire business during peak hours to provide shop assistance, road call assistance, and tire mounts and dismounts</description></job></experience>
+
+<references>References Available Upon Request</references>
+
+<statements>Social Activities
+<activities>Masons, Scottish Rite, York Rite, Shrine, Board of Directors for Oxford Fire Department</activities></statements>
+</resume>
+
+<skillrollup version='1'>
+  <canonskill name='architecture'>
+    <variant>Architect</variant>
+  </canonskill>
+  <canonskill name='microsoft excel'>
+    <variant>Excel</variant>
+  </canonskill>
+  <canonskill name='microsoft powerpoint'>
+    <variant>PowerPoint</variant>
+  </canonskill>
+  <canonskill name='microsoft project'>
+    <variant>Microsoft Project</variant>
+  </canonskill>
+  <canonskill name='microsoft word'>
+    <variant>Word</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='multi - tasking' start='731583'>
+    <variant>multi-tasking</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='peak' start='731583'>
+    <variant>peak</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

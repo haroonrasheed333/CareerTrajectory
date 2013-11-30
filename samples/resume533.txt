@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734594' xml:space='preserve'>                                                     <contact><name><givenname>GLENN</givenname> <surname>HOLLIDAY</surname></name>
+                                        &quot;
+
+Glenn Holliday
+Phone: <phone>717-405-0048</phone>
+
+E-mail: <email>gholl33@gmail.com</email>
+
+<address lat='40.0459' lon='76.3542' majorcity='LANCASTER' state='PA'><street>917 Columbia Avenue, Unit 117</street>
+
+<city>Lancaster</city>, <state abbrev='PA'>PA</state> <postalcode>17603</postalcode></address></contact>
+
+
+<summary>Objective
+
+<objective>I am seeking an opportunity to make a positive contribution to an organization where my
+knowledge and skills will benefit customers and others. I am best suited to working in a
+nurturing environment, where I can use my technical know how to solve problems, learn,
+and grow as a member of a team. I enjoy working with people, assisting them with the
+knowledge I have of the product(s) that I represent.</objective></summary> 
+
+<education>Education
+
+<school id='2'><institution>Graduate of Lancaster Christian High School</institution>, <completiondate days='731735' iso8601='2004-06-01'>June 2004</completiondate>
+<courses>Pennsylvania College of Art &amp; Design Adult Studies Courses in Adobe Photoshop, Adobe
+Illustrator and InDesign</courses></school></education>
+
+<experience end='present' start='732161'>Work Experience
+
+<job end='present' id='1' pos='1' start='732161'><daterange><start days='732161' iso8601='2005-08-01'>August 2005</start> to <end days='present' iso8601='2012-03-30'>Present</end></daterange>, <employer>IPA Publishing Services</employer>, <address><city>Lancaster</city> <state abbrev='PA'>PA</state></address>
+<description>Graphic Page Layout and Design, execute magazine page layout and prepare pages for
+print and or web posting. 
+Position text and graphic elements and create PDF's to meet printers requirements.</description></job></experience> 
+<skills><skills>Experienced working with Adobe In Design CS2 through CS5,
+  Quark Express 2 through 8,
+  Adobe Photoshop and Illustrator,
+  Microsoft Office,
+  Mac OS Tiger, Mac OS Leopard, Mac OS Snow Leopard, Mac OS Lion,
+  Microsoft Windows XP, Vista, Windows 7,
+  Microsoft Windows Server 2000,
+  Act by Sage customer service database management
+General I.T. support, including coordinating repair and replacement requests. 
+Customer service experience managing incoming calls and assisting customers with their
+orders.</skills></skills> 
+
+<references>References
+
+Nan Lamade, President &amp; Owner, IPA Publishing Services (717) 481-8500
+Don Landis (717) 808-1892
+Steve Adams (717) 314-2558</references>
+</resume>
+
+<skillrollup version='1'>
+  <canonskill name='adobe'>
+    <variant>Adobe</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='2' idrefs='2' name='adobe photoshop'>
+    <variant>Adobe Photoshop</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='2' idrefs='2' name='art'>
+    <variant>Art</variant>
+  </canonskill>
+  <canonskill name='customer service'>
+    <variant>Customer service experience</variant>
+    <variant>customer service</variant>
+  </canonskill>
+  <canonskill name='database administration'>
+    <variant>database management</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='graphics software' start='732161'>
+    <variant>Graphic</variant>
+    <variant>graphic</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='2' idrefs='2' name='illustrator'>
+    <variant>Adobe
+Illustrator</variant>
+    <variant>Illustrator</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='2' idrefs='2' name='indesign'>
+    <variant>InDesign</variant>
+    <variant>In Design</variant>
+  </canonskill>
+  <canonskill name='macintosh os'>
+    <variant>Mac OS</variant>
+  </canonskill>
+  <canonskill name='management'>
+    <variant>managing</variant>
+  </canonskill>
+  <canonskill name='microsoft office'>
+    <variant>Microsoft Office</variant>
+  </canonskill>
+  <canonskill name='microsoft windows'>
+    <variant>Windows 7</variant>
+    <variant>Microsoft Windows</variant>
+  </canonskill>
+  <canonskill name='microsoft windows 2000'>
+    <variant>2000</variant>
+  </canonskill>
+  <canonskill name='microsoft windows xp'>
+    <variant>Microsoft Windows XP</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='page layout' start='732161'>
+    <variant>Page Layout</variant>
+    <variant>page layout</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='pdf' start='732161'>
+    <variant>PDF</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='printers' start='732161'>
+    <variant>printers</variant>
+  </canonskill>
+  <canonskill name='quark xpress'>
+    <variant>Quark Express 2</variant>
+  </canonskill>
+  <canonskill name='sage'>
+    <variant>Sage</variant>
+  </canonskill>
+  <canonskill name='vista'>
+    <variant>Vista</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

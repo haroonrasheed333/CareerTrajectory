@@ -1,0 +1,476 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734597' xml:space='preserve'>                                                            <contact><name><givenname>James</givenname> &quot;<nickname>Marcus</nickname>&quot; <surname>Patman</surname></name>
+                                                                                               <address lat='45.4815' lon='122.64' majorcity='PORTLAND' state='OR'><street>PO Box 42550</street>
+                                                                                         <city>Portland</city>, <state abbrev='OR'>OR</state> <postalcode>97242</postalcode></address>
+                                                                                              T <phone>503 4676566</phone>
+                                                                                         <email>mpatman@usa.com</email></contact>
+
+<summary>PROFILE
+<summary>Solution oriented Linux / Unix Network Systems Engineer with extensive, corporate IT experience
+spanning over 15 years. My experience includes systems support, networking, end user &amp; engineering
+support, managing personnel, budgeting &amp; procurement, proof of concept studies &amp; server consolidation.
+My experience spans many platforms including Unix, Linux, BSD, OSX. and Windows. I strive to provide
+the highest level of internal and external customer service and, solutions that deliver results. I am seeking
+a challenging position in a great team environment working with new cutting edge technologies.</summary></summary>
+
+<experience end='present' start='728661'>EXPERIENCE
+
+<job end='present' id='1' pos='1' start='732314'><title>Sr. Linux / BSD Systems Administrator</title>, <employer>Submitnet, Inc</employer>, <address><city>Portland</city>, <state abbrev='OR'>OR</state></address> -- <daterange><start days='732314' iso8601='2006-01-01'>2006</start>-<end days='present' iso8601='2012-04-02'>Present</end></daterange>
+
+· <description>Responsible for ensuring 99.99% production up times, backups and on-going maintenance of 50+ co-
+  located production machines running Apache &amp; MySQL Server on FreeBSD and Ubuntu Linux. Daily
+  technical support to development engineers and end users. On Call 24/7 for all issues.
+
+· Migrated from LVS Heartbeat to F5 6400 LTM HA pair for greater stability and functionality.
+
+· Migrated From F5 LTM to Citrix Netscaler in 2012 to allow for Cloud Connectivity.
+
+· Virtualized Web Farms and Development Stage Environments using Vmware ESXi, Sun Virtualbox &amp;
+  Citrix XenServer.
+
+· Rolled out network and systems monitoring using BigSister, Nagios, Cacti and MRTG.
+
+· Upgraded network infrastructure with PowerConnect switches to provide fault-tolerance and remote
+  administration capability. Replaced Cisco 7200 series router with a ASR1000 pair for fault tolerance.
+
+· Shell Scripting to automate processes as needed. (RAID status, Database Backups, Monitoring, ,etc)
+
+· Provided rolling Remote Upgrades, Patches, Connectivity, Daily break/fix, Desktop &amp; Developer
+  Support, Staging Environments &amp; Server Consolidation.
+
+
+
+Linux / Unix / Windows System Administrator, DMSP, Dallas, Texas -- 2000-2005
+
+· Provide Unix &amp; SAN administration. Responsible for around 100 Sun servers running Solaris and 30
+  Linux servers running Redhat Linux Advanced Server &amp; Enterprise Server. Provided secondary sup-
+  port to an additional 250+ Windows servers running NT, W2K, W3K.
+
+
+· Researched and implemented a SAN infrastructure, which consisted of HDS 9900 disk arrays and Bro-
+  cade Fibre channel switches configured in a full fabric using LUN based security.
+
+
+· Engineered a mass mailing solution using Rehat Linux, LVS and Power MTA for sending 1.5 million
+  outgoing emails per month using available free software with a estimated 30K savings to the client.
+
+
+· Developed custom monitoring scripts for Big Brother to monitor PowerMTA, Oracle, and other custom
+  applications.</description></job>
+<job end='730122' id='2' pos='2' sic='737904' sic2='73' start='728661'><title>Network Systems Engineer</title>, <employer>Interphase Corporation</employer>, <address><city>Dallas</city>, <state abbrev='TX'>Texas</state></address> -- <daterange><start days='728661' iso8601='1996-01-01'>1996</start>-<end days='730122' iso8601='2000-01-01'>2000</end></daterange>
+
+<description>Responsible for administration of Solaris/NT based network consisting of 300 workstations in a routed
+TCP/IP network. Administered the engineering development lab, which consisted of 250 development
+workstations and servers of various platforms including IBM, SGI, HP, NCR, and Apple. Provided DNS and
+all external network communications. Daily duties included troubleshooting network problems and usage,
+new user and profile setups, DNS changes, monitor daily network activity resolved any network communi-
+cation problems. Additionally provide any support for both end users and engineering.
+
+
+· Led team in Y2k compliance upgrade of hardware and software for both desktops and servers.
+
+· Redesigned and implemented a NT network to achieve a better fit within the companies basic overall
+  structure and to achieve interoperability with the existing Solaris infrastructure.
+
+
+· Optimized network layout to improve performance and allow for future growth.
+
+· Installed Network Appliance Filer solution to replace samba file servers and provide SMB network sup-
+  port.
+
+
+· Rolled out of Exchange 5.5 server to allow for calendar sharing, HTTP access and offline mail capabili-
+  ties.
+
+
+· Provided remote access across the external internet using Cisco Systems VPN.
+
+· Researched and recommended future hardware purchases and rollouts.</description></job></experience>
+
+
+
+
+<skills>Skills
+
+<skills>Operating Systems:
+· Unix/ Solaris / AIX / Digital Unix/ IRIX
+
+· Windows XP / 2000/2003 / Server / Small Business Server
+
+· FreeBSD / Ubuntu Redhat Debian Linux / Mac OSX / DOS / IOS
+
+· VMWare ESXi / Virtualbox / Citrix XenServer
+
+Networking:
+· TCP/IP / DNS / POP3 / DHCP / WINS / SMB / FTP / SSH / RSYNC / SNMP / HSRP / SMTP
+
+· Cisco Routers (7200/ ASR1001) /Cisco Catalyst / Dell PowerConnect / F5 6400 / Brocade Fibre
+  Channel / NetScaler 7500
+
+· Sendmail / Microsoft Exchange / Qmail / Active Directory
+
+· CAT5/6 Cabling
+Skills (Continued)
+Databases:
+· MS-SQL / PosgresSQL / MYSQL / Oracle / Pervasive SQL.
+
+Storage/Volume Managment:
+· Veritas Volume Manager / Hitachi Dynamic Link manager / Dell StorageVault / NAS / LVM
+
+Security:
+·RSA Security Ace server / Cisco Secure ACS / PGP / Packet Filtering / Firewalls / NMAP / IPTables
+
+Backup:
+
+· Legato Networker / Veritas Backup Exec / Netbackup / System Recovery
+
+Monitoring:
+· HP Openview / Big Sister / MRTG / Nagios / Cacti
+
+Programming/Scripting/Version Control:
+· BASH / AWK / SED / HTML / Git / Subversion
+
+Web Publishing:
+· Apache / IIS / Wordpress / Redmine / LAMP
+
+Remote Access:
+· Terminal Services / VNC / Cisco VPN / OpenVPN / SonicWall VPN
+
+Server &amp; Workstation Hardware:
+· Dell Power Edge, Sun Sparc Workstations &amp; Servers, HP, DEC Compaq, IBM, Apple.
+
+Other:
+·Project Management / Poof Of Concept Testing / Equipment Procurement / SEO / Social Networking
+
+·System Repair &amp; Upgrades / Web Page Construction / Troubleshooting / Customer Service
+
+·Avaya IP Office</skills></skills>
+
+
+<references>References
+Available Upon Request</references>
+</resume>
+
+<skillrollup version='1'>
+  <canonskill name='active directory'>
+    <variant>Active Directory</variant>
+  </canonskill>
+  <canonskill name='aix'>
+    <variant>AIX</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='apache webserver' start='732314'>
+    <variant>Apache</variant>
+  </canonskill>
+  <canonskill end='730122' experience='1' expidrefs='2' idrefs='2' lastused='2000' name='apple' start='728661'>
+    <variant>Apple</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='automate' start='732314'>
+    <variant>automate</variant>
+  </canonskill>
+  <canonskill name='avaya'>
+    <variant>Avaya</variant>
+  </canonskill>
+  <canonskill name='awk'>
+    <variant>AWK</variant>
+  </canonskill>
+  <canonskill name='backup'>
+    <variant>Backup</variant>
+  </canonskill>
+  <canonskill name='bash'>
+    <variant>BASH</variant>
+  </canonskill>
+  <canonskill end='730122' experience='1' expidrefs='2' idrefs='2' lastused='2000' name='basic' start='728661'>
+    <variant>basic</variant>
+  </canonskill>
+  <canonskill name='cabling'>
+    <variant>Cabling</variant>
+  </canonskill>
+  <canonskill name='cat5'>
+    <variant>CAT5</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='cisco' start='728661'>
+    <variant>Cisco</variant>
+  </canonskill>
+  <canonskill name='cisco routers'>
+    <variant>Cisco Routers</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='citrix' start='732314'>
+    <variant>Citrix</variant>
+  </canonskill>
+  <canonskill name='compaq'>
+    <variant>Compaq</variant>
+  </canonskill>
+  <canonskill end='730122' experience='1' expidrefs='2' idrefs='2' lastused='2000' name='computer hardware' start='728661'>
+    <variant>Hardware</variant>
+    <variant>hardware</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='computer networking' start='732314'>
+    <variant>network and systems</variant>
+  </canonskill>
+  <canonskill name='concept development'>
+    <variant>Concept</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='customer relations' start='732314'>
+    <variant>client</variant>
+  </canonskill>
+  <canonskill name='customer service'>
+    <variant>Customer Service</variant>
+  </canonskill>
+  <canonskill name='cvs'>
+    <variant>Version Control</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='database administration' start='732314'>
+    <variant>Databases</variant>
+    <variant>Database</variant>
+  </canonskill>
+  <canonskill name='dec'>
+    <variant>DEC</variant>
+  </canonskill>
+  <canonskill name='dell computers'>
+    <variant>Dell</variant>
+  </canonskill>
+  <canonskill end='730122' experience='1' expidrefs='2' idrefs='2' lastused='2000' name='desktop pc' start='728661'>
+    <variant>desktops</variant>
+  </canonskill>
+  <canonskill name='dhcp'>
+    <variant>DHCP</variant>
+  </canonskill>
+  <canonskill name='digital unix'>
+    <variant>Digital Unix</variant>
+  </canonskill>
+  <canonskill end='730122' experience='1' expidrefs='2' idrefs='2' lastused='2000' name='dns' start='728661'>
+    <variant>DNS</variant>
+  </canonskill>
+  <canonskill name='dos'>
+    <variant>DOS</variant>
+  </canonskill>
+  <canonskill name='edge'>
+    <variant>Edge</variant>
+  </canonskill>
+  <canonskill end='730122' experience='1' expidrefs='2' idrefs='2' lastused='2000' name='file servers' start='728661'>
+    <variant>file servers</variant>
+  </canonskill>
+  <canonskill name='firewalls'>
+    <variant>Firewalls</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='freebsd' start='732314'>
+    <variant>FreeBSD</variant>
+  </canonskill>
+  <canonskill name='ftp'>
+    <variant>FTP</variant>
+  </canonskill>
+  <canonskill end='730122' experience='1' expidrefs='2' idrefs='2' lastused='2000' name='hewlett packard' start='728661'>
+    <variant>HP</variant>
+  </canonskill>
+  <canonskill name='hp openview'>
+    <variant>HP Openview</variant>
+  </canonskill>
+  <canonskill name='html'>
+    <variant>HTML</variant>
+  </canonskill>
+  <canonskill end='730122' experience='1' expidrefs='2' idrefs='2' lastused='2000' name='http' start='728661'>
+    <variant>HTTP</variant>
+  </canonskill>
+  <canonskill end='730122' experience='1' expidrefs='2' idrefs='2' lastused='2000' name='ibm' start='728661'>
+    <variant>IBM</variant>
+  </canonskill>
+  <canonskill name='iis'>
+    <variant>IIS</variant>
+  </canonskill>
+  <canonskill name='ip'>
+    <variant>IP</variant>
+  </canonskill>
+  <canonskill name='irix'>
+    <variant>IRIX</variant>
+  </canonskill>
+  <canonskill end='730122' experience='1' expidrefs='2' idrefs='2' lastused='2000' name='layout design' start='728661'>
+    <variant>layout</variant>
+  </canonskill>
+  <canonskill name='legato'>
+    <variant>Legato</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='linux' start='732314'>
+    <variant>Linux</variant>
+  </canonskill>
+  <canonskill name='macintosh'>
+    <variant>Mac</variant>
+  </canonskill>
+  <canonskill name='management'>
+    <variant>Managment</variant>
+  </canonskill>
+  <canonskill end='730122' experience='1' expidrefs='2' idrefs='2' lastused='2000' name='microsoft access' start='728661'>
+    <variant>Access</variant>
+    <variant>access</variant>
+  </canonskill>
+  <canonskill name='microsoft exchange'>
+    <variant>Microsoft Exchange</variant>
+  </canonskill>
+  <canonskill end='730122' experience='1' expidrefs='2' idrefs='2' lastused='2000' name='microsoft exchange 5.5' start='728661'>
+    <variant>Exchange 5.5</variant>
+  </canonskill>
+  <canonskill end='730122' experience='1' expidrefs='2' idrefs='2' lastused='2000' name='microsoft mail' start='728661'>
+    <variant>mail</variant>
+  </canonskill>
+  <canonskill name='microsoft office'>
+    <variant>Office</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='microsoft windows' start='732314'>
+    <variant>Windows</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='microsoft windows 2000' start='732314'>
+    <variant>W2K</variant>
+    <variant>2000</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='microsoft windows nt' start='728661'>
+    <variant>NT</variant>
+  </canonskill>
+  <canonskill name='microsoft windows xp'>
+    <variant>Windows XP</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='mysql' start='732314'>
+    <variant>MYSQL</variant>
+    <variant>MySQL</variant>
+  </canonskill>
+  <canonskill name='nas'>
+    <variant>NAS</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='netscape enterprise server' start='732314'>
+    <variant>Enterprise</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='networking' start='728661'>
+    <variant>Network</variant>
+    <variant>network</variant>
+    <variant>Networking</variant>
+  </canonskill>
+  <canonskill name='operating systems'>
+    <variant>Operating Systems</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='oracle' start='732314'>
+    <variant>Oracle</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='oracle developer 2000' start='732314'>
+    <variant>Developer</variant>
+  </canonskill>
+  <canonskill name='pop3'>
+    <variant>POP3</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='process engineering' start='732314'>
+    <variant>processes</variant>
+  </canonskill>
+  <canonskill name='procurement'>
+    <variant>Procurement</variant>
+  </canonskill>
+  <canonskill name='programming'>
+    <variant>Programming</variant>
+  </canonskill>
+  <canonskill name='project management'>
+    <variant>Project Management</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='raid' start='732314'>
+    <variant>RAID</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='red hat linux' start='732314'>
+    <variant>Redhat Linux</variant>
+    <variant>Redhat</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='routers' start='732314'>
+    <variant>router</variant>
+  </canonskill>
+  <canonskill end='730122' experience='1' expidrefs='2' idrefs='2' lastused='2000' name='samba' start='728661'>
+    <variant>samba</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='san' start='732314'>
+    <variant>SAN</variant>
+  </canonskill>
+  <canonskill name='sed'>
+    <variant>SED</variant>
+  </canonskill>
+  <canonskill name='sendmail'>
+    <variant>Sendmail</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='server consolidation' start='732314'>
+    <variant>Server Consolidation</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='servers' start='728661'>
+    <variant>Servers</variant>
+    <variant>servers</variant>
+  </canonskill>
+  <canonskill end='730122' experience='1' expidrefs='2' idrefs='2' lastused='2000' name='sgi' start='728661'>
+    <variant>SGI</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='shell scripting' start='732314'>
+    <variant>scripts</variant>
+    <variant>Shell Scripting</variant>
+    <variant>Scripting</variant>
+  </canonskill>
+  <canonskill name='smtp'>
+    <variant>SMTP</variant>
+  </canonskill>
+  <canonskill name='snmp'>
+    <variant>SNMP</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='solaris' start='728661'>
+    <variant>Solaris</variant>
+  </canonskill>
+  <canonskill name='sql'>
+    <variant>MS-SQL</variant>
+    <variant>SQL</variant>
+  </canonskill>
+  <canonskill name='ssh'>
+    <variant>SSH</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='sun microsystems' start='732314'>
+    <variant>Sun</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='sun servers' start='732314'>
+    <variant>Sun servers</variant>
+  </canonskill>
+  <canonskill name='sun sparcstation'>
+    <variant>Sun Sparc</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='switches' start='732314'>
+    <variant>switches</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='system administration' start='732314'>
+    <variant>System Administrator</variant>
+  </canonskill>
+  <canonskill end='730122' experience='1' expidrefs='2' idrefs='2' lastused='2000' name='tcp/ip' start='728661'>
+    <variant>TCP/IP</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='technical support' start='732314'>
+    <variant>technical support</variant>
+  </canonskill>
+  <canonskill end='730122' experience='1' expidrefs='2' idrefs='2' lastused='2000' name='troubleshooting' start='728661'>
+    <variant>Troubleshooting</variant>
+    <variant>troubleshooting</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='unix' start='732314'>
+    <variant>Unix</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='upgrades' start='728661'>
+    <variant>Upgrades</variant>
+    <variant>upgrade</variant>
+  </canonskill>
+  <canonskill name='veritas backup'>
+    <variant>Veritas Backup</variant>
+  </canonskill>
+  <canonskill name='veritas netbackup'>
+    <variant>Netbackup</variant>
+  </canonskill>
+  <canonskill name='veritas volume manager'>
+    <variant>Veritas Volume Manager</variant>
+  </canonskill>
+  <canonskill end='730122' experience='1' expidrefs='2' idrefs='2' lastused='2000' name='vpn' start='728661'>
+    <variant>VPN</variant>
+  </canonskill>
+  <canonskill name='web site production'>
+    <variant>Web Publishing</variant>
+    <variant>Web Page</variant>
+  </canonskill>
+  <canonskill end='730122' experience='1' expidrefs='2' idrefs='2' lastused='2000' name='year 2000' start='728661'>
+    <variant>Y2k</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

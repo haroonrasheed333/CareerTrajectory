@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734597' xml:space='preserve'><contact><name><honorific>Mr</honorific>. <givenname>Ashley</givenname> <givenname>S</givenname>. <surname>Wagner</surname></name>
+<address lat='33.4993' lon='111.984' majorcity='PHOENIX' state='AZ'><street>5418 E. Wonderview Rd.</street>
+<city>Phoenix</city>, <state abbrev='AZ'>Arizona</state> <postalcode>85018</postalcode></address>
+<phone>(602) 840-8272</phone>
+<email>a.wagner2@cox.net</email></contact>
+
+______________________________________________________________________________
+
+<education>EDUCATION
+
+<school id='3'><institution>Arizona State University</institution>
+<degree level='16' name='Bachelor of Science'>Bachelor of Science</degree>, <major code='0301'>Chemistry</major>, <completiondate days='727931' iso8601='1994-01-01'>1994</completiondate></school>	
+<degree level='16' name='Bachelor of Science'>Bachelor of Science</degree>, <major code='0504'>Geology</major>, <completiondate days='727931' iso8601='1994-01-01'>1994</completiondate></education>
+
+<summary>QUALIFICATIONS
+
+<summary>Chemistry, Electronics and Materials
+Knowledgeable in the physical sciences, electronics and materials,
+Studies and reading on analytical techniques, including MS-ICP, GC, AA, and others. 
+Capable of performing most analytical tests including titrations, extractions, pH and viscosity tests, GC, IR, and UV/VIS and others.
+Recent reading on semiconductor manufacturing processes, ion implant, diffusion, sol-gel techniques, process controls, and PLC's.
+A thorough understanding of sensor technology and its interface in control systems.
+	
+Computers
+Computer literate in Mac and Windows operating systems.
+Knowledgeable in the setup of system hardware, networks and peripherals.
+Ability to quickly learn most any software packages.
+
+Machining, Electrical, and Mechanical
+Experienced in the operation and repair of systems on panel controls, automated equipment, automobiles and air conditioning.
+Familiar with single and three phase electrical systems.
+Familiar and experienced with all phases of mechanical operation and repair, including welding, engines, gears, transmissions, and electronic engine controls. 
+Knowledgeable with pumps, vacuum systems, valves, and associated equipment.
+Educated in metalworking trades covering mills, lathes, and grinders. Worked with micrometers, calipers, and dimensional tolerances.
+
+Geotechnical and Environmental
+Nuclear density gauge measurements, seismic monitoring, groundwater testing, analysis, and remediation, in situ bacterial degradation, volatile extraction and separation, catalytic and internal combustion, ion exchange and molecular separation.
+Operational efficiency with backhoes and other related equipment.</summary></summary>	
+
+
+
+
+
+
+
+
+
+<experience end='present' start='729027'>EXPERIENCE
+
+<job end='present' id='1' pos='1' start='729392'><daterange><start days='729392' iso8601='1998-01-01'>1998</start>-<end days='present' iso8601='2012-04-02'>present</end></daterange>
+<jobtype>Self-employed</jobtype>
+<address><city>Phoenix</city> <state abbrev='AZ'>AZ</state></address>
+<title>Tradesman</title>
+<description>Automotive repair, home remodeling and HVAC
+ Studied electronics, computers, semiconductor fabrication, programming in C++ and assembly languages.    
+Designed a digital interface between a 40-pulse AC output to a 2-pulse DC input for automotive applications.</description></job>
+
+<job end='729392' id='2' pos='2' start='729027'><daterange><start days='729027' iso8601='1997-01-01'>1997</start>-<end days='729392' iso8601='1998-01-01'>1998</end></daterange>
+<title>Environmental Technician</title>, Kleinfelder
+<address><city>Phoenix</city> <state abbrev='AZ'>AZ</state></address>
+<description>Collected soil, groundwater, and vapor samples from contaminated sites around Arizona.
+Successfully diagnosed and restarted inoperable well controls.</description></job></experience>
+
+
+                                                                                                                      
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='assembly language' start='729392'>
+    <variant>assembly</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='automotive' start='729392'>
+    <variant>Automotive</variant>
+    <variant>automotive</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='c + +' start='729392'>
+    <variant>C++</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='dc' start='729392'>
+    <variant>DC</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='electronics' start='729392'>
+    <variant>electronics</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='hvac' start='729392'>
+    <variant>HVAC</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='languages' start='729392'>
+    <variant>languages</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='programming' start='729392'>
+    <variant>programming</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

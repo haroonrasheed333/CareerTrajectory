@@ -1,0 +1,156 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734595' xml:space='preserve'><contact><name><givenname>ANOOP</givenname> <givenname>THOMAS</givenname> <surname>JOY</surname></name>
+<address lat='29.6037' lon='82.3987' majorcity='GAINESVILLE' state='FL'><street>3009 SW Archer Road, Apt D-12</street>, <city>Gainesville</city>, <state abbrev='FL'>FL</state>-<postalcode>32608</postalcode></address> * <email>anoop.joy@live.com</email> * <phone>(352) 870-0980</phone></contact>
+<summary>OBJECTIVE: 
+<objective>To give a good start to my software career by joining eminent and highly professional software company and contribute to the success of the company by outstanding performances and thereby advancing my career.</objective></summary>
+<education>EDUCATION:
+<school id='4'><degree level='18' name='Master of Science'>Master of Science</degree> in <major code='1603'>Biomedical Engineering</major> 							     <completiondate>May 2012</completiondate>
+Minor in <minor code='0402'>Computer Science</minor>		  		          GPA:  <gpa max='4' value='3.7'>3.7/4.0</gpa>	       <institution>University of Florida</institution>, <address><city>Gainesville</city></address></school>.     
+<school id='5'><degree level='16' name='Bachelor of Engineering'>Bachelor of Engineering</degree> in <major code='1603'>Biomedical Engineering</major>	          GPA:  <gpa max='4' value='4'>4.0/4.0</gpa>	    	                                  <completiondate days='733895' iso8601='2010-05-01'>May 2010</completiondate>
+ <institution>University of Mumbai</institution>, <address><country iso3='IND'>India</country>.</address>
+<description>KNOWLEDGE: 
+Analysis of Algorithms, Database Management Systems, Embedded System, Data Structure and Programming, Cloud Computing, Signal Processing, Image Processing, Computer Architecture, Microcontrollers.</description></school></education>
+<experience end='present' start='734079'>EXPERIENCE:
+<job end='present' id='1' pos='2' start='734079'><title>Research Assistant</title> in Electrical Bioimpedance Lab, under Dr. Rosalind Sadlier.	           <daterange><start days='734505' iso8601='2012-01-01'>January 2012</start> - <end days='present' iso8601='2012-03-31'>Present</end></daterange>
+<description>Currently working on the project MREIT assisting with the MATLAB and C++ MEX code interface, data manipulation and accuracy analysis.
+Research Assistant in Nuclear Medicine Imaging lab, under Dr. David Gilland.</description>	 <daterange><start days='734079' iso8601='2010-11-01'>November 2010</start> - <end days='734230' iso8601='2011-04-01'>April 2011</end></daterange>
+<description>Assisted in calibrating mobile PET and the SPECT.  Analysed data obtained for accuracy using MATLAB.
+Various toolboxes like Signal processing and Image processing used.</description></job></experience>
+<skills>TECHNICAL PROFICIENCY: 
+Programming Languages
+: <skills>C, C++, MATLAB
+Scripting Languages
+: Python, HTML, CSS, PHP, Django.
+Databases
+: SQL, Oracle, MySQL, PL/SQL.
+Tools
+: Eclipse, Simulink, LABVIEW, Kiel, PSpice, Eagle.
+Operating Systems
+: Linux, Windows.</skills></skills>
+<experience end='present' start='734352'>PROJECTS:
+<job end='present' id='2' pos='1' start='734352'><title>Data manipulation</title> in Python 						              		              <daterange><start days='734565' iso8601='2012-03-01'>March 2012</start> - <end days='present' iso8601='2012-03-31'>Present</end></daterange>
+<description>Implementing a Python script that will parse a packed array of single-precision 'floats' encoded in base64, increment it, and then output the array and some related statistics, serialized in JSON format.
+Implementation of a file-based database using C++ 							  March 2012
+Implemented a file-based database with command-line interface for the Linux platform, allowing three commands 'insert', 'find', 'delete', using C++. 
+Built a GNU makefile to implement the code and test.sh - shell script that verifies the executable.
+Hire-n-expert (Database project)</description> 						            <daterange><start days='734352' iso8601='2011-08-01'>August 2011</start> - <end days='734474' iso8601='2011-12-01'>December 2011</end></daterange>
+<description>Design, developed and implemented a yellow pages kind of web service to hire a technician, a worker or a freelancer in a very systematic and trustworthy manner (from user point of view).
+Used Oracle for database and Django (a python based framework) was used for web development and HTML and CSS for designing the web pages.
+Bitmask based code Compression and Decompression (Embedded systems) 		       	        November 2011
+Implementation of bitmask-based compression and decompression functions using C language.
+The working prototype took any 32-bit binary file, compressed it to produce compressed data and then decompress the compressed data to generate the original input and also calculated the compression ratio.
+Petri net simulator (Embedded Systems</description></job>)   							       <job id='3' start='734383'><daterange><start days='734383' iso8601='2011-09-01'>September 2011</start></daterange>
+<description>Created simulator in C capable of loading an initial state of a Petri net and generate the step-by-step simulations for a user defined number of stages.</description></job></experience>
+<education>ACADEMIC ACHIEVEMENT:
+<school id='6'><description>Received the College of Engineering Achievement Award of a 50% tuition waiver</description> at the <institution>University of Florida</institution>.
+<degree>J.R.D</degree>. <honors>Tata Trust scholarship for academic achievement in Engineering undergraduate. 
+Rank Certificate holder in the 2nd and 3rd year of Bachelor of Engineering in a class of 60 students.</honors></school></education>
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='734579' experience='1' expidrefs='2,3' idrefs='2,3' lastused='2012' name='c' start='734352'>
+    <variant>C</variant>
+    <variant>C language</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='c + +' start='734079'>
+    <variant>C++</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='css' start='734352'>
+    <variant>CSS</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='5' end='734579' experience='1' expidrefs='2' idrefs='5,2' lastused='2012' name='database administration' start='734352'>
+    <variant>Database Management</variant>
+    <variant>Databases</variant>
+    <variant>Database</variant>
+    <variant>database</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='design' start='734352'>
+    <variant>designing</variant>
+  </canonskill>
+  <canonskill name='eclipse'>
+    <variant>Eclipse</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='embedded systems' start='734352'>
+    <variant>Embedded Systems</variant>
+    <variant>Embedded systems</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='html' start='734352'>
+    <variant>HTML</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='5' end='734579' experience='1' expidrefs='1' idrefs='5,1' lastused='2012' name='image processing' start='734079'>
+    <variant>Image processing</variant>
+    <variant>Image Processing</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='imaging' start='734079'>
+    <variant>Imaging</variant>
+  </canonskill>
+  <canonskill name='labview'>
+    <variant>LABVIEW</variant>
+  </canonskill>
+  <canonskill name='languages'>
+    <variant>Languages</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='linux' start='734352'>
+    <variant>Linux</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='matlab' start='734079'>
+    <variant>MATLAB</variant>
+  </canonskill>
+  <canonskill name='microsoft windows'>
+    <variant>Windows</variant>
+  </canonskill>
+  <canonskill name='mysql'>
+    <variant>MySQL</variant>
+  </canonskill>
+  <canonskill name='operating systems'>
+    <variant>Operating Systems</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='oracle' start='734352'>
+    <variant>Oracle</variant>
+  </canonskill>
+  <canonskill name='oracle pl/sql'>
+    <variant>PL/SQL</variant>
+  </canonskill>
+  <canonskill name='php'>
+    <variant>PHP</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='5' idrefs='5' name='programming'>
+    <variant>Programming</variant>
+  </canonskill>
+  <canonskill name='pspice'>
+    <variant>PSpice</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='python' start='734352'>
+    <variant>Python</variant>
+    <variant>python</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='research' start='734079'>
+    <variant>Research</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='shell scripting' start='734352'>
+    <variant>script</variant>
+    <variant>Scripting</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='shell scripts' start='734352'>
+    <variant>shell script</variant>
+  </canonskill>
+  <canonskill name='sql'>
+    <variant>SQL</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='statistics' start='734352'>
+    <variant>statistics</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='technician' start='734352'>
+    <variant>technician</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='view' start='734352'>
+    <variant>view</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='web site production' start='734352'>
+    <variant>web development</variant>
+    <variant>web pages</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

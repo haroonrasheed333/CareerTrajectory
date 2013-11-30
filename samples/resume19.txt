@@ -1,0 +1,189 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734580' xml:space='preserve'><contact><name><givenname>Cynthia</givenname> <givenname>G</givenname>. <surname>Bell</surname></name>
+
+
+
+
+
+
+<phone>949-892-0527</phone>	<email>CynthiaGBell@yahoo.com</email></contact>	
+
+
+
+<summary>SUMMARY
+<summary>Risk Management Professional experienced in library maintenance, system review, research problem resolution, documentation, record keeping managing, assuring conformance, optimization, coordination, and applying automation. Well practiced at managing maintenance windows and adhering to timelines.
+
+Logical, analytical and effective in problem solving. Quick to grasp concepts and eager to learn. Adept in the interpretation and implementation of instructions. Enjoy challenge, work well under pressure, and am prompt to respond with the appropriate action in emergencies. Adaptable, willing to experiment, responsible and dependable.
+
+Well versed in directing concurrent activities of varying complexity; such as problem area analysis, appropriate preventative/corrective action, prioritization, escalation and interfacing with users of data processing. Able to identify, track and pursue problem trends to resolution. 
+
+Extensive technical experience in Operations and Disaster Recovery/High Availability with a broad range of technologies for Mainframe and Open Systems Infrastructure. Ability to effectively and persuasively communicate with stakeholders at all levels.  Thrive upon creating order, creatively solving problems, and strategizing for the organization.  Proven track record of successful project planning, implementation and management for technology projects spanning multiple years and engaging cross-functional teams.  Outstanding written and oral communication, leadership skills, problem solving and negotiation. Hands on experience with electronic Shadowing, Mirroring, Remote Transaction Journaling, EMC SRDF replication or similar technology.</summary>   
+
+AREAS OF EXPERTISE
+<summary>Management:					
+Process Management/ITIL
+Strategic Planning
+Project Management
+Team Building /Staff Management
+Budget Creation and Management
+Technology Assessment
+Customer Service 
+End-User Training
+
+Technical Skills
+IBM 2094 (CMOS technology utilizing Parallel Sysplex DB2 Data sharing) (with batch, real time, teleprocessing services, networking capabilities utilizing z/OS,  JES2, SMS, CICS, TSO, ISPF, SRDF Recovery, INFO/MGT, NETMAN, DOCUTEXT/JOBSCAN, APC DOC, CA-7, CA-7/RPT, CA-11, CA-UNICENTER, OPC/A, OPC/E, JOBTRAC, RMDS, DISPATCH, CA-VIEW, CA-DELIVER, DB2 and ORACLE Databases, CLIENT SERVER, ENDEVOR, LIBRARIAN, REMEDY and CHANGEMAN)  Skilled in the use of JCL, IBM system utilities, and job ABEND resolution. MS-PROJECT, MS-WORD, MS-EXCEL, MS-POWER POINT,  VISIO and SharePoint.</summary></summary>
+
+<experience end='present' start='729392'>Professional Experience
+<job end='present' id='1' pos='1' start='733410'><daterange><start days='733410' iso8601='2009-01-01'>2009</start> - <end days='present' iso8601='2012-03-16'>Present</end></daterange> 
+<title>Senior Project Manager</title>, Disaster Recovery
+<title>KAISER PERMANENTE</title>
+
+<description>Provided a recovery strategy for over 500 applications.  Worked directly with the application owner, their technical staff and program managers in developing their disaster recovery plans. Assured the continuation of member services by guiding the development, execution and testing of each DR Plan. Minimized the interruption of business, computer and network services infrastructures due to catastrophic events.
+Led the organization, planning and execution of the scheduled DR Testing.
+Was responsible for the collection of DR applications, deploying applications into the DR environment and conducting regularly scheduled DR Testing.
+Served as a primary DR coordinator and point of contact for DR Testing Teams. 
+Evaluated DR test results &amp; reported findings to management or DR Steering Committee
+ Maintained log of problems encountered to help refine the program in the future.
+Updated DR Handbook via Change Management procedures when infrastructure, operations or organization changes in Computer Center impacted the DR environment.
+ Met with DR team members at regular intervals for updates on issues potentially impacting the ability of the program or environment.
+Provided oversight and coordination assistance for Applications, DR Technology team members and Vendors.
+Very familiar with technical safeguards and best practices controls for Personal Health Information (PHI) using Sarbanes-Oxley (SOX) and  Health Insurance Portability and Accountability Act (HIPAA) standards.</description></job>
+
+<job end='733410' id='2' pos='2' start='729392'><daterange><start days='729392' iso8601='1998-01-01'>1998</start> - <end days='733410' iso8601='2009-01-01'>2009</end></daterange>
+<title>Senior Production Support Analyst</title> 
+KAISER PERMANENTE
+
+<description>Responsible for continuous availability of all online &amp; batch programs, thru appropriate set-up of batch processing processes; application code deployment &amp; Sysout Archival management, along with the identification/recording/resolution of any problem associated with this activity. 
+Supported activities using JCL, JOBTRAC (running &gt; 800,000 jobs a month in Production), TSO/ISPF, MVS/JES2 commands, CICS, DB2, CA-11, CA-DELIVER, CA-VIEW and REMEDY.
+Interfaced with a multitude of clients, Applications and System technical support groups and vendors. 
+Ensured timely problem restoration and quick solutions through prompt escalation of problems. 
+Continuously worked with the clients and vendors to support client needs.
+Maintained an awareness of constant changes occurring in the network, systems and application areas.
+Translated business requirements into technical specifications for support groups to enhance existing diagnostic tools, or create new tools.
+Developed and implemented solutions that would mitigate future occurrences of a problem. 
+Skilled at identification, analysis and resolution of potential problems before they are visible to the client. 
+Ensured proper setup, execution and completion of jobs, including trouble shooting and resolution of failures.
+Assisted in the creation of production libraries and processes to support applications. 
+Used production tools to trouble shoot and resolve client request/problems.
+Assisted with initial problem identifications.
+Used automated systems to record information and resolve problems.</description></job></experience>
+
+<education>EDUCATION                                                                 
+<school id='3'><degree level='14'>Associate of Applied Business</degree> in <major code='0401'>Computer Programming</major>
+<institution>TRUMBULL BUSINESS COLLEGE, INC</institution>. 
+<address lat='41.2358' lon='80.7613' majorcity='WARREN' state='OH'><city>Warren</city>, <state abbrev='OH'>OH</state> <postalcode>44484</postalcode></address>
+
+Completed FEMA courses: <description>IS-100.HC Introduction to the Incident Command System for Healthcare/Hospitals, IS-200.A ICS for Single Resources and Initial Action Incidents, IS-700.A NIMS An Introduction and IS-800.B National Response Framework, An Introduction.</description></school></education>
+
+
+
+
+
+
+
+
+
+
+<skills>Technical:
+<skills>Operational Troubleshooting
+Disaster Recovery/Business Continuity
+High Availability
+Infrastructure Mainframe
+Infrastructure Open Systems (Wintel,Unix)
+Hardware/Software Evaluation and Implementation
+System Design, configuration and Implementation</skills></skills>
+
+
+
+
+
+
+
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='733410' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='ca11' start='729392'>
+    <variant>CA-11</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='change management' start='733410'>
+    <variant>Change Management</variant>
+  </canonskill>
+  <canonskill end='733410' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='cics' start='729392'>
+    <variant>CICS</variant>
+  </canonskill>
+  <canonskill end='733410' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='computer associates packages' start='729392'>
+    <variant>CA</variant>
+  </canonskill>
+  <canonskill name='computer hardware'>
+    <variant>Hardware</variant>
+  </canonskill>
+  <canonskill end='733410' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='customer relations' start='729392'>
+    <variant>client</variant>
+    <variant>clients</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='disaster recovery planning' start='733410'>
+    <variant>Disaster Recovery</variant>
+    <variant>disaster recovery</variant>
+  </canonskill>
+  <canonskill end='733410' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='ibm db/2' start='729392'>
+    <variant>DB2</variant>
+  </canonskill>
+  <canonskill end='733410' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='ibm mvs' start='729392'>
+    <variant>MVS</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='insurance' start='733410'>
+    <variant>Insurance</variant>
+  </canonskill>
+  <canonskill end='733410' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='jcl' start='729392'>
+    <variant>JCL</variant>
+  </canonskill>
+  <canonskill end='733410' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='jes 2' start='729392'>
+    <variant>JES2</variant>
+  </canonskill>
+  <canonskill name='mainframe'>
+    <variant>Mainframe</variant>
+  </canonskill>
+  <canonskill name='microsoft windows'>
+    <variant>Wintel</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='networking' start='729392'>
+    <variant>network</variant>
+  </canonskill>
+  <canonskill end='733410' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='process engineering' start='729392'>
+    <variant>processes</variant>
+  </canonskill>
+  <canonskill end='733410' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='quick' start='729392'>
+    <variant>quick</variant>
+  </canonskill>
+  <canonskill end='733410' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='recording' start='729392'>
+    <variant>recording</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='sarbanesoxley' start='733410'>
+    <variant>Sarbanes-Oxley</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='strategic' start='733410'>
+    <variant>strategy</variant>
+  </canonskill>
+  <canonskill name='system architecture'>
+    <variant>System Design</variant>
+  </canonskill>
+  <canonskill end='733410' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='technical support' start='729392'>
+    <variant>technical support</variant>
+  </canonskill>
+  <canonskill end='733410' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='troubleshooting' start='729392'>
+    <variant>trouble shooting</variant>
+    <variant>Troubleshooting</variant>
+  </canonskill>
+  <canonskill end='733410' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='tso ispf' start='729392'>
+    <variant>TSO/ISPF</variant>
+  </canonskill>
+  <canonskill name='unix'>
+    <variant>Unix</variant>
+  </canonskill>
+  <canonskill end='733410' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='view' start='729392'>
+    <variant>VIEW</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734586' xml:space='preserve'><contact><name><givenname>Joshua</givenname> <givenname>J</givenname>. <surname>Stringam</surname></name>
+<address lat='45.648' lon='111.204' majorcity='BOZEMAN' state='MT'><street>2555 West College Street, #33</street> <city>Bozeman</city> <state abbrev='MT'>MT</state>, <postalcode>59718</postalcode></address>
+<phone>406-600-4820</phone>
+<email>joshua.stringam@gmail.com</email></contact>
+<education>EDUCATION
+<school id='4'><degree level='16' name='Bachelor of Science'>Bachelor of Science</degree> in <major code='1699'>Chemical and Biological Engineering</major> (Dual Degree), <institution>Montana State University</institution>,     To be received: May 5th, <completiondate days='734505' iso8601='2012-01-01'>2012</completiondate>                                                                                                Overall GPA: <gpa max='4' value='3.78'>3.78</gpa></school></education>    
+<skills>Work Skills
+Computer Skills:  
+Proficient with <skills>Microsoft Word, Excel, Power Point, and Mathcad  
+Experience with Aspen Hysis (Chemical process simulation software), Comsol (Transport Simulation Software) and Matlab
+Laboratory Skills: 
+Experience with Ion Chromatography and HPLC Equipment
+Program and operate spectrophotometers, plate readers, etc
+Handles hazardous materials on a daily basis</skills></skills>
+<experience end='present' start='731949'>WORK HISTORY
+<job end='present' id='1' pos='1' start='733987'><title>Undergraduate Researcher</title>, <employer>MSU Center</employer> for Biofilm Engineering (<daterange><start days='733987' iso8601='2010-08-01'>August 2010</start>- <end>May 2012</end></daterange>)
+<description>Problem Solving skills- Designed and executed experiments, built bioreactors and adapted chemical assays to solve open ended problems
+Reliability- Successfully conducted multiple month long bio-mineralization experiments
+Communication Skills- Works with a multiple disciplinary team including people with different degrees and educational backgrounds
+Leadership- Managed a team of coworkers, wrote schedules and experimental protocols
+Self motivated- Wrote proposals and obtained funding in the undergraduate scholars program</description></job>
+<job end='733987' id='2' pos='2' start='733591'><title>Personal Care Assistant</title>, Consumer Direct Personal Care (<daterange><start days='733591' iso8601='2009-07-01'>July 2009</start>- <end days='733987' iso8601='2010-08-01'>August 2010</end></daterange>)
+<description>Compassion- Assisted the handicapped with transportation, dressing and feeding.
+Going the extra mile- Assisted with physical therapy</description></job>
+<job end='733410' id='3' pos='3' start='731949'><title>Meat Wrapper/Grocery Clerk/Dishwasher</title> (<daterange><start days='731949' iso8601='2005-01-01'>2005</start>-<end days='733410' iso8601='2009-01-01'>2009</end></daterange>) <description>Various positions in the Grocery and Food Service Industry
+Customer Service- Interacted with customers and anticipated their needs
+Safety- Became familiar with food safety as well as occupational safety protocols
+Mechanically inclined- Disassembled, cleaned and reassembled meat processing equipment</description></job></experience>
+<statements>HONORS/AWARDS/ACHEIVMENTS
+<activities>FE Exam
+USP Grants
+National SMART grant
+MSU Dean's Honor Role
+MSU President's Honor Role
+Mott Souders scholarship
+LR Durkee scholarship    
+2011
+2010 - 2012
+2009 - 2011
+Spring 2007- Present
+Fall 2007
+2008 -2010
+2008- 09 and 2011- 12
+Passed the FE Exam
+Research Funding
+Academic Merit
+GPA in excess of 3.5
+4.0 GPA
+Outstanding Character and Citizenship
+Outstanding Character and Citizenship</activities></statements>
+<professional>ACTIVITIES
+<affiliations>Officer in the American Institute of Chemical Engineers (AICHE) MSU branch                 2010
+Answered phones for the MDA (Muscular Dystrophy Association) telethon                    2010</affiliations>
+<description>Tutored for Bozeman High School                                                                                             2012
+Attended TBP Engineering Futures Seminars;  &quot;Group Process Module&quot; and &quot;Analytical Problem Solving&quot;</description></professional>
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='communication skills' start='733987'>
+    <variant>Communication Skills</variant>
+  </canonskill>
+  <canonskill end='733410' experience='1' expidrefs='3' idrefs='3' lastused='2009' name='customer service' start='731949'>
+    <variant>Customer Service</variant>
+  </canonskill>
+  <canonskill name='hplc'>
+    <variant>HPLC</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='leadership' start='733987'>
+    <variant>Leadership</variant>
+  </canonskill>
+  <canonskill name='materials management'>
+    <variant>materials</variant>
+  </canonskill>
+  <canonskill name='mathcad'>
+    <variant>Mathcad</variant>
+  </canonskill>
+  <canonskill name='matlab'>
+    <variant>Matlab</variant>
+  </canonskill>
+  <canonskill name='microsoft excel'>
+    <variant>Excel</variant>
+  </canonskill>
+  <canonskill name='microsoft powerpoint'>
+    <variant>Power Point</variant>
+  </canonskill>
+  <canonskill name='microsoft word'>
+    <variant>Microsoft Word</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='microsoft works' start='733987'>
+    <variant>Works</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='problem solving' start='733987'>
+    <variant>Problem Solving skills</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='proposal writing' start='733987'>
+    <variant>proposals</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,3' idrefs='1,3' lastused='2012' name='protocols' start='731949'>
+    <variant>protocols</variant>
+  </canonskill>
+  <canonskill end='733410' experience='1' expidrefs='3' idrefs='3' lastused='2009' name='safety' start='731949'>
+    <variant>Safety</variant>
+    <variant>safety</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='self motivated' start='733987'>
+    <variant>Self motivated</variant>
+  </canonskill>
+  <canonskill name='simulation'>
+    <variant>Simulation</variant>
+    <variant>simulation</variant>
+  </canonskill>
+  <canonskill end='733987' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='transportation' start='733591'>
+    <variant>transportation</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

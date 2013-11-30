@@ -1,0 +1,194 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "ALC", 
+            "Certification Name": "Accredited Land Consultant", 
+            "Type": "Core", 
+            "Certification ID": "8590", 
+            "Certifying Organization": "National Association of Realtors"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Industrial Transaction Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "8019", 
+            "Certifying Organization": "Society of Industrial and Office Realtors"
+        }, 
+        {
+            "Acronym": "CIPS", 
+            "Certification Name": "Certified International Property Specialist", 
+            "Type": "Core", 
+            "Certification ID": "8232", 
+            "Certifying Organization": "National Association of Realtors"
+        }, 
+        {
+            "Acronym": "SCRP", 
+            "Certification Name": "Certified Relocation Professional", 
+            "Type": "Core", 
+            "Certification ID": "1413", 
+            "Certifying Organization": "Employee Relocation Council"
+        }, 
+        {
+            "Acronym": "Dual", 
+            "Certification Name": "Industrial & Office (Dual) -  Transaction Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "8021", 
+            "Certifying Organization": "Society of Industrial and Office Realtors"
+        }, 
+        {
+            "Acronym": "MAI", 
+            "Certification Name": "MAI Designation", 
+            "Type": "Advanced", 
+            "Certification ID": "9192", 
+            "Certifying Organization": "Appraisal Institute"
+        }, 
+        {
+            "Acronym": "MIRM", 
+            "Certification Name": "Master in Residential Marketing", 
+            "Type": "Advanced", 
+            "Certification ID": "3797", 
+            "Certifying Organization": "National Association of Home Builders"
+        }, 
+        {
+            "Acronym": "CCIM", 
+            "Certification Name": "Certified Commercial Investment Member", 
+            "Type": "Advanced", 
+            "Certification ID": "1347", 
+            "Certifying Organization": "CCIM Institute"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Executive Management", 
+            "Type": "Advanced", 
+            "Certification ID": "8023", 
+            "Certifying Organization": "Society of Industrial and Office Realtors"
+        }, 
+        {
+            "Acronym": "CSP", 
+            "Certification Name": "Certified New Home Sales Professional", 
+            "Type": "Core", 
+            "Certification ID": "3793", 
+            "Certifying Organization": "National Association of Home Builders"
+        }, 
+        {
+            "Acronym": "SRA", 
+            "Certification Name": "SRA Designation", 
+            "Type": "Core", 
+            "Certification ID": "9193", 
+            "Certifying Organization": "Appraisal Institute"
+        }, 
+        {
+            "Acronym": "MCSP", 
+            "Certification Name": "Master Certified New Home Sales Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "3795", 
+            "Certifying Organization": "National Association of Home Builders"
+        }, 
+        {
+            "Acronym": "CMS", 
+            "Certification Name": "Commercial Certified Mortgage Servicer", 
+            "Type": "Core", 
+            "Certification ID": "4777", 
+            "Certifying Organization": "Mortgage Bankers Association of America"
+        }, 
+        {
+            "Acronym": "CRI", 
+            "Certification Name": "Certified Real Estate Inspector", 
+            "Type": "Core", 
+            "Certification ID": "6192", 
+            "Certifying Organization": "National Association of Home Inspectors, Inc."
+        }, 
+        {
+            "Acronym": "GREEN", 
+            "Certification Name": "NAR's Green Designation", 
+            "Type": "Core", 
+            "Certification ID": "8635", 
+            "Certifying Organization": "National Association of Realtors"
+        }, 
+        {
+            "Acronym": "CRS", 
+            "Certification Name": "Certified Residential Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "9198", 
+            "Certifying Organization": "Council of Residential Specialists"
+        }, 
+        {
+            "Acronym": "GMS", 
+            "Certification Name": "Global Mobility Specialist", 
+            "Type": "Core", 
+            "Certification ID": "1412", 
+            "Certifying Organization": "Employee Relocation Council"
+        }, 
+        {
+            "Acronym": "CMP", 
+            "Certification Name": "Certified New Home Marketing Professional", 
+            "Type": "Core", 
+            "Certification ID": "3796", 
+            "Certifying Organization": "National Association of Home Builders"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Administrative Accredited Buyer's Representative", 
+            "Type": "Core", 
+            "Certification ID": "8035", 
+            "Certifying Organization": "Real Estate Buyer's Agent Council"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Advisory Services", 
+            "Type": "Specialty", 
+            "Certification ID": "8024", 
+            "Certifying Organization": "Society of Industrial and Office Realtors"
+        }, 
+        {
+            "Acronym": "CRB", 
+            "Certification Name": "Certified Real Estate Brokerage Manager", 
+            "Type": "Core", 
+            "Certification ID": "8775", 
+            "Certifying Organization": "Council of Real Estate Brokerage Managers"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Sales Management", 
+            "Type": "Core", 
+            "Certification ID": "8022", 
+            "Certifying Organization": "Society of Industrial and Office Realtors"
+        }, 
+        {
+            "Acronym": "CEP", 
+            "Certification Name": "Certified Energy Procurement Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "1285", 
+            "Certifying Organization": "Association of Energy Engineers"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Office Transactions Specialist", 
+            "Type": "Advanced", 
+            "Certification ID": "8020", 
+            "Certifying Organization": "Society of Industrial and Office Realtors"
+        }, 
+        {
+            "Acronym": "ALC", 
+            "Certification Name": "Accredited Land Consultant", 
+            "Type": "Advanced", 
+            "Certification ID": "8036", 
+            "Certifying Organization": "Realtors Land Institute"
+        }, 
+        {
+            "Acronym": "ABR", 
+            "Certification Name": "Accredited Buyer's Representative", 
+            "Type": "Core", 
+            "Certification ID": "8034", 
+            "Certifying Organization": "Real Estate Buyer's Agent Council"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Housing Counselor", 
+            "Type": "Core", 
+            "Certification ID": "3997", 
+            "Certifying Organization": "Association for Financial Counseling and Planning Education"
+        }
+    ], 
+    "onet": "41902100"
+}

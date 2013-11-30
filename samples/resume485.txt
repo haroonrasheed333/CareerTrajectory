@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734594' xml:space='preserve'><contact><name><givenname>Lute</givenname> <surname>Yang</surname></name>
+Current Address: <address lat='42.0565' lon='87.6997' majorcity='EVANSTON' state='IL'><street>1630 Chicago Avenue, Apt 612</street> 
+<city>Evanston</city>, <state abbrev='IL'>IL</state> <postalcode>60201</postalcode></address>
+E-Mail: <email>luteyang2013@u.northwestern.edu</email>
+ Phone: <phone>224-548-6708</phone></contact> 
+
+<education>Education 
+<school id='4'><institution>Northwestern University</institution>				          				           Anticipated, <completiondate>June 2013</completiondate>
+<degree level='16' name='Bachelor of Science'>Bachelor of Science</degree>, <major code='1603'>Biomedical Engineering</major>
+Concentration: <major>Biomedical Signals and Images</major>
+Relevant Coursework: <description>Signals Analysis, Biomedical Systems Analysis, Probabilistic Systems and Random Signals, Linear Algebra, Systems Dynamics, Differential Equations, Calculus, Physics, Materials Science, Organic Chemistry, Statistics, Macroeconomics, Engineering Design and Communications, Systems Physiology, Developmental Psychology</description> 
+GPA: <gpa max='4' value='3'>3.0/4.0</gpa></school></education>
+	
+			 
+<experience end='present' start='733653'>Work Experience
+<job end='present' id='1' pos='1' sic='8071' sic2='80' start='734171'><title>Research Assistant</title>, <employer>High Throughput Analysis Laboratory</employer>			   	         <daterange><start days='734171' iso8601='2011-02-01'>February 2011</start> - <end days='present' iso8601='2012-03-30'>Present</end></daterange>
+<description>Conducted experiments analyzing the three-dimensional structures of proteins for the Center for Structural Genomics of Infectious Diseases
+Performed assays searching for the biological targets of Parkinson's disease
+Managed 5 high school students during their summer internship in the lab
+Operated state-of-the-art liquid handling and plate detection equipment</description></job>
+<job end='734140' id='2' pos='3' start='733653'><title>Research Assistant</title>, <employer>Project on Children's Thinking</employer>			         <daterange><start days='733653' iso8601='2009-09-01'>September 2009</start> - <end days='734140' iso8601='2011-01-01'>January 2011</end></daterange>
+<description>Performed data analysis and coding on spatial recognition studies 
+Assisted PhD students in conducting experiments and managing research projects</description></job>
+
+Leadership Experience
+<job end='734291' id='3' pos='2' sic='9111' sic2='91' start='733653'><title>Treasurer</title>, <employer>Lindgren Hall</employer>				  <daterange><start days='734018' iso8601='2010-09-01'>September 2010</start> - <end days='734291' iso8601='2011-06-01'>June 2011</end></daterange>
+<description>Elected by peers to manage finances and plan social activities for the dormitory 
+Planned events to facilitate interaction between residents
+Improved residential life through weekly meetings with executive board and Area Coordinator 
+Mentor, Asian American Students Association</description>				  <daterange><start days='734018' iso8601='2010-09-01'>September 2010</start> - <end days='734291' iso8601='2011-06-01'>June 2011</end></daterange>
+<description>Advised 2 freshmen about general college issues and helped them transition into college
+Arranged monthly meetings with mentees to track their progress
+Faculty Committee, Slivka Hall</description>			    <daterange><start days='733653' iso8601='2009-09-01'>September 2009</start> - <end days='733744' iso8601='2009-12-01'>December 2009</end></daterange>
+<description>Facilitated relationship between faculty fellows and students of the dormitory
+Planned receptions for students and faculty</description></job></experience>
+<skills>Skills/Activities
+Languages other than <languages>English: Mandarin Chinese</languages>
+Proficient in: <skills>MATLAB, Minitab Statistical Software, MS Word, MS PowerPoint, MS Excel, AutoCAD</skills></skills>
+<statements>Activities: <activities>Northwestern Philharmonia, Alternative Student Breaks, Biomedical Engineering Society, McCormick Student Advisory Board, Asian American Students Association
+
+2</activities></statements>
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='art' start='734171'>
+    <variant>art</variant>
+  </canonskill>
+  <canonskill name='autocad'>
+    <variant>AutoCAD</variant>
+  </canonskill>
+  <canonskill end='734140' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='data analysis' start='733653'>
+    <variant>data analysis</variant>
+  </canonskill>
+  <canonskill name='english'>
+    <variant>English</variant>
+  </canonskill>
+  <canonskill name='languages'>
+    <variant>Languages</variant>
+  </canonskill>
+  <canonskill end='734140' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='management' start='733653'>
+    <variant>managing</variant>
+  </canonskill>
+  <canonskill name='mandarin'>
+    <variant>Mandarin Chinese</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='4' idrefs='4' name='materials management'>
+    <variant>Materials</variant>
+  </canonskill>
+  <canonskill name='matlab'>
+    <variant>MATLAB</variant>
+  </canonskill>
+  <canonskill end='734291' experience='1' expidrefs='3' idrefs='3' lastused='2011' name='meeting facilitation' start='733653'>
+    <variant>meetings</variant>
+  </canonskill>
+  <canonskill end='734291' experience='1' expidrefs='3' idrefs='3' lastused='2011' name='mentoring' start='733653'>
+    <variant>Mentor</variant>
+  </canonskill>
+  <canonskill name='microsoft excel'>
+    <variant>MS Excel</variant>
+  </canonskill>
+  <canonskill name='microsoft powerpoint'>
+    <variant>MS PowerPoint</variant>
+  </canonskill>
+  <canonskill name='microsoft word'>
+    <variant>MS Word</variant>
+  </canonskill>
+  <canonskill name='minitab'>
+    <variant>Minitab</variant>
+  </canonskill>
+  <canonskill end='734140' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='phd' start='733653'>
+    <variant>PhD</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='4' idrefs='4' name='physics'>
+    <variant>Physics</variant>
+  </canonskill>
+  <canonskill end='734140' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='programming' start='733653'>
+    <variant>coding</variant>
+  </canonskill>
+  <canonskill end='734291' experience='1' expidrefs='3' idrefs='3' lastused='2011' name='progress' start='733653'>
+    <variant>progress</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='4' idrefs='4' name='psychology'>
+    <variant>Psychology</variant>
+  </canonskill>
+  <canonskill end='734140' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='research' start='733653'>
+    <variant>research</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='4' idrefs='4' name='statistics'>
+    <variant>Statistics</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='4' idrefs='4' name='systems analysis'>
+    <variant>Systems Analysis</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

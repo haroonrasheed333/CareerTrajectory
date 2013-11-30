@@ -1,0 +1,184 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734595' xml:space='preserve'><summary><summary>Accomplished sales and marketing professional with diverse experience in products and solutions for telecommunications, optical, semiconductor and networking industries in Fortune 500 and start up environments. Experienced in driving all sales related activities with proven track record of technical expertise. Managed a wide range of product portfolio geared towards strategic accounts and direct customers. 
+
+Taking ownership of the business and managing all commercial and technical activities worldwide to achieve corporate goals and objectives
+Identifying and evaluating markets for new and existing products, in addition to development and marketing partnership opportunities
+Defining and implementing the go-to-market strategy including product positioning, key benefits, and target customers 
+Building, developing and training sales channels to comprehend and translate customer requirements to profitable product lines and to broaden the customer base 
+Developing and executing customer engagement strategy from initial product discussions to proposal development and deployment 
+Managing the entire product line life cycle from strategic planning to tactical activities 
+Interfacing effectively with functional teams and leading teams to execute marketing strategy to accomplish timely product development and win customer designs
+Building and enhancing customer relationships to provide competitive advantage and to grow the revenue and market share
+Developing and presenting proposals and business plans to all levels of management and securing their buy-in
+
+SKILLS AND SPECIALITIES
+
+Global Travel 
+P &amp; L Management
+Conference Papers 
+Customer Negotiations 
+Engineering to Executive Relationships
+Excellent Oral and Written Communications</summary></summary>
+
+<experience end='present' start='727200'>PROFESSIONAL EXPERIENCE
+
+<job end='present' id='1' pos='1' start='733044'><employer>Oclaro Inc</employer>. (Merger of Bookham and Avanex)
+<title>Area Sales Manager / Business Development Manager</title> 	<daterange><start days='733044' iso8601='2008-01-01'>2008</start> - <end days='present' iso8601='2012-03-31'>Present</end></daterange>
+
+<description>Responsible for sales management and business development activities of optical modules and subsystems with integrated software control. Strategic accounts include Alcatel Lucent, Cisco, Ciena, Juniper Networks and Opnext amongst others
+
+Developed the territory and achieved dominant supplier position at several optical network equipment manufacturers resulting in increased revenue 
+Led cross functional teams and negotiated Master Purchase Agreement with guaranteed share of yearly business
+Defined and developed customer engagement strategy and coordinated application engineering activities
+
+Lightconnect (Acquired by Neophotonics)</description></job>
+<job end='733044' id='2' pos='2' start='730488'><title>Senior Sales and Marketing  Manager</title> 		<daterange><start days='730488' iso8601='2001-01-01'>2001</start>- <end days='733044' iso8601='2008-01-01'>2008</end></daterange> 
+
+<description>Responsible for business development and sales of optical devices and systems for monitoring, conditioning and testing for a broad range of applications in semiconductor, biotech, research and communications. Grew the business from less than $1 Million to more than $14 Million with major design wins at customers worldwide
+
+Promoted the company in North America, Asia Pacific &amp; Japan leading to design wins and expanded customer base (Alcatel-Lucent, Ciena, Cisco, GE, Hitachi, Huawei, Fujitsu, NSN, Research labs)
+Managed a network of sales representatives and provided product / application training resulting in increased competency and effectiveness 
+Drove the preparation, on time delivery and acceptance of several successful RFI/RFQ proposals resulting in enhanced business 
+Prepared and presented technical papers at national and international conferences resulting in enhanced exposure and creating new opportunities 
+Supervised customer service personnel and increased customer satisfaction levels</description></job>
+
+<job end='730488' id='3' pos='3' start='729392'><employer>Lara Networks</employer> (Acquired by Cypress Semiconductor)
+<title>Sales &amp; Marketing Manager</title> <daterange><start days='729392' iso8601='1998-01-01'>1998</start> - <end days='730488' iso8601='2001-01-01'>2001</end></daterange> 
+
+<description>Responsible for sales and marketing of silicon-based Network Search Engines and DSPs targeting OEM customers. Strategic accounts included Cisco &amp; Juniper Networks
+
+Developed and implemented marketing strategy to promote product line
+Drove sales development activities to target networking applications resulting in several design wins 
+Prepared proposals which resulted in sales of more than $3M and over 7 design wins.</description></job> 
+
+<job end='729392' id='4' naics='33441902' naics2='33' pos='4' sic='367401' sic2='36' start='727200'><employer>Hitachi America Ltd</employer> 
+<title>Marketing Manager</title> <daterange><start days='727200' iso8601='1992-01-01'>1992</start> - <end days='729392' iso8601='1998-01-01'>1998</end></daterange> 
+
+<description>Promoted entire product line to including EEPROM, Flash Memory and Microcontrollers to customers in North America to position the company as a major player. Strategic accounts included HP, Sun, Apple &amp; IBM 
+
+Managed $45 million business unit in North America with full budget responsibility 
+Managed two Product Engineers and supervised one Customer Service Representative 
+Achieved the second highest revenue generating design win worldwide (IBM) and won top management recognition 
+Received Distinguished Performance Award for major design win at Sun Microsystems</description> 
+
+OTHER PROFESSIONAL EXPERIENCES 
+
+<description>Sales Manager for Test and Measuring Instruments at Agilent / Hewlett Packard</description></job></experience>
+
+<education>EDUCATION &amp; PROFESSIONAL DEVELOPMENT 
+
+<school id='5'><degree level='18' name='Master of Business Administration'>MBA</degree>, <major code='4304'>Marketing</major>, <institution>University of Alabama</institution></school> 
+<school id='6'><degree level='16' name='Bachelor of Science'>BS</degree>, <major code='1203'>Electrical Engineering</major>, <institution>University of Kerala</institution> 
+<courses>Internetworking with TCP/IP, University of California, Berkeley
+Customer Centered Selling, Wilson Learning
+Leadership &amp; Team Building, Institute for Executive Development
+Working Effectively with Japanese, Hitachi Training Center</courses></school></education>
+
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='729392' experience='1' expidrefs='4' idrefs='4' lastused='1998' name='apple' start='727200'>
+    <variant>Apple</variant>
+  </canonskill>
+  <canonskill end='729392' experience='1' expidrefs='4' idrefs='4' lastused='1998' name='budgeting' start='727200'>
+    <variant>budget</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='business development' start='730488'>
+    <variant>business development</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,3' idrefs='1,2,3' lastused='2012' name='cisco' start='729392'>
+    <variant>Cisco</variant>
+  </canonskill>
+  <canonskill end='733044' experience='1' expidrefs='2' idrefs='2' lastused='2008' name='conferences' start='730488'>
+    <variant>conferences</variant>
+  </canonskill>
+  <canonskill end='733044' experience='1' expidrefs='2' idrefs='2' lastused='2008' name='customer satisfaction' start='730488'>
+    <variant>customer satisfaction</variant>
+  </canonskill>
+  <canonskill end='733044' experience='1' expidrefs='2,4' idrefs='2,4' lastused='2008' name='customer service' start='727200'>
+    <variant>Customer Service</variant>
+    <variant>customer service</variant>
+  </canonskill>
+  <canonskill end='733044' experience='1' expidrefs='2' idrefs='2' lastused='2008' name='delivery' start='730488'>
+    <variant>delivery</variant>
+  </canonskill>
+  <canonskill end='729392' experience='1' expidrefs='4' idrefs='4' lastused='1998' name='flash' start='727200'>
+    <variant>Flash</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='functional' start='733044'>
+    <variant>functional</variant>
+  </canonskill>
+  <canonskill end='729392' experience='1' expidrefs='4' idrefs='4' lastused='1998' name='hewlett packard' start='727200'>
+    <variant>Hewlett Packard</variant>
+    <variant>HP</variant>
+  </canonskill>
+  <canonskill end='729392' experience='1' expidrefs='4' idrefs='4' lastused='1998' name='ibm' start='727200'>
+    <variant>IBM</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='6' idrefs='6' name='japanese'>
+    <variant>Japanese</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='6' idrefs='6' name='leadership'>
+    <variant>Team Building</variant>
+    <variant>Leadership</variant>
+  </canonskill>
+  <canonskill end='730488' experience='1' expidrefs='3' idrefs='3' lastused='2001' name='market planning' start='729392'>
+    <variant>marketing strategy</variant>
+  </canonskill>
+  <canonskill end='730488' experience='1' expidrefs='3' idrefs='3' lastused='2001' name='marketing' start='729392'>
+    <variant>marketing</variant>
+  </canonskill>
+  <canonskill end='729392' experience='1' expidrefs='4' idrefs='4' lastused='1998' name='memory' start='727200'>
+    <variant>Memory</variant>
+  </canonskill>
+  <canonskill end='729392' experience='1' expidrefs='4' idrefs='4' lastused='1998' name='microsoft windows' start='727200'>
+    <variant>win</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,3' idrefs='1,2,3' lastused='2012' name='networking' start='729392'>
+    <variant>Network</variant>
+    <variant>network</variant>
+    <variant>networking</variant>
+    <variant>Networks</variant>
+  </canonskill>
+  <canonskill end='730488' experience='1' expidrefs='3' idrefs='3' lastused='2001' name='online research' start='729392'>
+    <variant>Search Engines</variant>
+  </canonskill>
+  <canonskill end='733044' experience='1' expidrefs='2' idrefs='2' lastused='2008' name='personnel' start='730488'>
+    <variant>personnel</variant>
+  </canonskill>
+  <canonskill end='733044' experience='1' expidrefs='2,3' idrefs='2,3' lastused='2008' name='proposal writing' start='729392'>
+    <variant>proposals</variant>
+  </canonskill>
+  <canonskill end='733044' experience='1' expidrefs='2' idrefs='2' lastused='2008' name='research' start='730488'>
+    <variant>Research</variant>
+    <variant>research</variant>
+  </canonskill>
+  <canonskill end='733044' experience='1' expidrefs='2' idrefs='2' lastused='2008' name='rfi' start='730488'>
+    <variant>RFI</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='6' end='733044' experience='1' expidrefs='2,3' idrefs='2,3,6' lastused='2008' name='sales' start='729392'>
+    <variant>Selling</variant>
+    <variant>sales</variant>
+  </canonskill>
+  <canonskill end='730488' experience='1' expidrefs='3' idrefs='3' lastused='2001' name='sales development' start='729392'>
+    <variant>sales development</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,4' idrefs='1,4' lastused='2012' name='sales management' start='727200'>
+    <variant>sales management</variant>
+    <variant>Sales Manager</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,3,4' idrefs='1,3,4' lastused='2012' name='strategic' start='727200'>
+    <variant>strategy</variant>
+    <variant>Strategic</variant>
+  </canonskill>
+  <canonskill end='729392' experience='1' expidrefs='4' idrefs='4' lastused='1998' name='sun microsystems' start='727200'>
+    <variant>Sun</variant>
+    <variant>Sun Microsystems</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='6' idrefs='6' name='tcp/ip'>
+    <variant>TCP/IP</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

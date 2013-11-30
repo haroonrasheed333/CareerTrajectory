@@ -1,0 +1,103 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CIPS", 
+            "Certification Name": "Certified International Property Specialist", 
+            "Type": "Core", 
+            "Certification ID": "8232", 
+            "Certifying Organization": "National Association of Realtors"
+        }, 
+        {
+            "Acronym": "ARA", 
+            "Certification Name": "Accredited Rural Appraiser", 
+            "Type": "Core", 
+            "Certification ID": "0451", 
+            "Certifying Organization": "American Society of Farm Managers and Rural Appraisers"
+        }, 
+        {
+            "Acronym": "MAI", 
+            "Certification Name": "MAI Designation", 
+            "Type": "Advanced", 
+            "Certification ID": "9192", 
+            "Certifying Organization": "Appraisal Institute"
+        }, 
+        {
+            "Acronym": "CCIM", 
+            "Certification Name": "Certified Commercial Investment Member", 
+            "Type": "Advanced", 
+            "Certification ID": "1347", 
+            "Certifying Organization": "CCIM Institute"
+        }, 
+        {
+            "Acronym": "RAA", 
+            "Certification Name": "Residential Accredited Appraiser", 
+            "Type": "Core", 
+            "Certification ID": "0323", 
+            "Certifying Organization": "National Association of Realtors"
+        }, 
+        {
+            "Acronym": "CAR", 
+            "Certification Name": "Certified Appraisal Reviewer", 
+            "Type": "Core", 
+            "Certification ID": "6161", 
+            "Certifying Organization": "National Association of Independent Fee Appraisers"
+        }, 
+        {
+            "Acronym": "SRA", 
+            "Certification Name": "SRA Designation", 
+            "Type": "Core", 
+            "Certification ID": "9193", 
+            "Certifying Organization": "Appraisal Institute"
+        }, 
+        {
+            "Acronym": "RPRA", 
+            "Certification Name": "Real Property Review Appraiser", 
+            "Type": "Advanced", 
+            "Certification ID": "9326", 
+            "Certifying Organization": "American Society of Farm Managers and Rural Appraisers"
+        }, 
+        {
+            "Acronym": "CDBV", 
+            "Certification Name": "Certification in Distressed Business Valuation", 
+            "Type": "Advanced", 
+            "Certification ID": "5672", 
+            "Certifying Organization": "Association of Insolvency and Restructuring Advisors"
+        }, 
+        {
+            "Acronym": "GAA", 
+            "Certification Name": "General Accredited Appraiser", 
+            "Type": "Core", 
+            "Certification ID": "0324", 
+            "Certifying Organization": "National Association of Realtors"
+        }, 
+        {
+            "Acronym": "RPRA", 
+            "Certification Name": "RPRA for ARAs, MAIs and ASAs in Real Property", 
+            "Type": "Advanced", 
+            "Certification ID": "0452", 
+            "Certifying Organization": "American Society of Farm Managers and Rural Appraisers"
+        }, 
+        {
+            "Acronym": "HCCP", 
+            "Certification Name": "Housing Credit Certified Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "3798", 
+            "Certifying Organization": "National Association of Home Builders"
+        }, 
+        {
+            "Acronym": "CAE", 
+            "Certification Name": "Certified Assessment Evaluator", 
+            "Type": "Advanced", 
+            "Certification ID": "1336", 
+            "Certifying Organization": "International Association of Assessing Officers"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "National Insulation Energy Appraiser", 
+            "Type": "Core", 
+            "Certification ID": "7016", 
+            "Certifying Organization": "National Inspection, Testing and Certification Corporation"
+        }
+    ], 
+    "onet": "13202102"
+}

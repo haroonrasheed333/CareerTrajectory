@@ -1,0 +1,33 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CPAg", 
+            "Certification Name": "Certified Professional Agronomist", 
+            "Type": "Core", 
+            "Certification ID": "1964", 
+            "Certifying Organization": "American Society of Agronomy - ARCPACS"
+        }, 
+        {
+            "Acronym": "CPSC", 
+            "Certification Name": "Certified Professional Soil Scientist/Classifier", 
+            "Type": "Advanced", 
+            "Certification ID": "1966", 
+            "Certifying Organization": "Soil Science Society of America"
+        }, 
+        {
+            "Acronym": "CCA", 
+            "Certification Name": "Certified Crop Advisor", 
+            "Type": "Core", 
+            "Certification ID": "1963", 
+            "Certifying Organization": "American Society of Agronomy - ARCPACS"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "National Board Certification - Adolescence and Young Adulthood/Science", 
+            "Type": "Specialty", 
+            "Certification ID": "1305", 
+            "Certifying Organization": "National Board for Professional Teaching Standards"
+        }
+    ], 
+    "onet": "25104100"
+}

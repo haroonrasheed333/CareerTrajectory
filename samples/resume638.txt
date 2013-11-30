@@ -1,0 +1,312 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734595' xml:space='preserve'><contact><name><givenname>NIDHI</givenname> <surname>NAHAR</surname></name>
+* <address lat='33.8185' lon='84.361' majorcity='ATLANTA' state='GA'><street>4105 Pine Heights Drive NE</street> <city>Atlanta</city> <state abbrev='GA'>GA</state> <postalcode>30324</postalcode></address>*  <phone>404-433-7740</phone>* E-mail: <email>nidhi.nahar@gmail.com</email></contact>
+* <statements>Employment Authorization: <eligibility>Authorized to work for any employer (Permanent Resident)
+
+1</eligibility></statements>
+
+
+<education>EDUCATION
+<school id='6'><degree level='18' name='Master of Science'>Master of Science</degree> in <major code='1203'>Electrical Engineering</major>, <institution>Old Dominion University</institution>, <address><city>Norfolk</city>, <state abbrev='VA'>VA</state></address>             (<daterange><start days='732161' iso8601='2005-08-01'>08/05</start>- <end days='732799' iso8601='2007-05-01'>05/07</end></daterange>)  
+Relevant Coursework: <description>Semiconductor Process Technology, Solid State Electronics, Analog VLSI, Bio-electrics, Engineering Systems Modeling, Pulsed Power, Statistical Analysis and Simulation.</description>
+GPA: <gpa max='4' value='3.72'>3.72/4.0</gpa></school>
+
+<school id='7'><degree level='16' name='Bachelor of Engineering'>Bachelor of Engineering</degree> in <major code='1299 0499'>Electronics &amp; Communication</major>, <institution>University of Rajasthan</institution>, <address><country iso3='IND'>India</country></address>             (<completiondate days='732130' iso8601='2005-07-01'>07/05</completiondate>)
+Relevant Coursework: <description>Digital Electronics, Applied Electronics, Digital Design, Power Electronics, Digital Signal Processing, Signals and Systems, IC Technology, Industrial Electronics, Control Systems, Theory and Application of Integrated Circuits, VLSI Design, Wireless Networks, Digital and Analog Communication, Database Management Systems, Computer System Architecture, Microprocessor Architecture, Database Algorithms.
+Aggregate Percentage: 77% (Honors)</description></school></education>
+
+<experience end='present' start='732161'>WORK EXPERIENCE    
+<job end='733987' id='1' pos='2' sic='8111' sic2='81' start='733410'><employer>Lakshmikumaran and Sridharan Attorneys</employer>, <address><city>New Delhi</city>, <country iso3='IND'>India</country></address>      
+<title>Patent Analyst</title>, Registered Patent Agent in <address><country iso3='IND'>India</country></address>                                  (<daterange><start days='733410' iso8601='2009-01-01'>01/09</start>- <end days='733987' iso8601='2010-08-01'>08/10</end></daterange></job>)
+<job end='present' id='2' pos='1' start='734018'><title>Senior Associate</title>, Registered Patent Agent in <address><country iso3='IND'>India</country></address>                              (<daterange><start days='734018' iso8601='2010-09-01'>09/10</start>- <end days='present' iso8601='2012-03-31'>Present</end></daterange>)
+
+<description>Drafted and mentored patent applications pertaining to electrical engineering, mechanical engineering, and computer science according to US and Indian Patent Office requirements. 
+Conducted prior-art searches and inventor interviews for understanding the invention.
+Conducted training sessions on topics related to electrical engineering.
+Developed the website of a sister company and etched out marketing strategies as a member of the Marketing and Communication Team.
+Assisted in organizing the internal patent database and in structuring the drafting process.
+Attended a 12-week claim drafting course by Prof. Ann M. McCrackin of Franklin Pierce Law Center, NH. 
+Single handedly managed a leading semiconductor company's patent activities handled by our firm; tasks included managing the cases handled by our firm, communicating with the foreign attorneys to ensure smooth functioning, suggesting options for PCT.
+Won Business Excellence Award in 2009 and in 2010. 
+Planned, organized and conducted a three-week IP training workshop.
+Worked on patent invalidation cases; tasks included searching for prior art for novelty and obviousness, preparing claim charts, preparing revocation or post-grant opposition reports. 
+Worked on a patent infringement case, which provided a platform to familiarize with preparation of claim charts mapping the product features with the patent claims, and notices. 
+Utilized multiple databases for searching patent and non-patent literature, examples of databases include USPTO Pair, Google Patents, Espacenet, Micropat, Thompson, Delphion, IEEE, Science Direct, Google Books, etc. 
+Familiar with preparation of claim charts, written opinions, claim construction, and other facets of patents.
+Currently studying for the USPTO Patent Bar Exam
+Familiar with 
+Janice Mueller, Introduction to Patent Law; and
+Landis on Mechanics of Patent Claim Drafting</description></job>
+<job end='733196' id='3' naics='32541206' naics2='32' pos='3' sic='865101' sic2='86' start='732922'><employer>Pfizer Inc</employer>., <address><city>Groton</city>, <state abbrev='CT'>CT</state></address>       (<daterange><start days='732922' iso8601='2007-09-01'>09/07</start>- <end days='733196' iso8601='2008-06-01'>06/08</end></daterange>)
+<title>System Analyst</title>, <description>Document Management Framework 
+
+Performed technical tasks within a work-stream such as analysis, troubleshooting, installation and optimization to resolve the document management requirements in addition to providing observations and recommendations to enhance document management within Pfizer using EMC's Documentum and related tools( DA, DAB, Content Server, etc.).
+Installation of content servers 5.3 SP3 and 5.3 SP6 in a Unix environment.  
+Worked on the rendering aspects of the project and configured third party software Adlib on various systems to meet Pfizer's requirements. This involved creation of rendering design documents for a high availability and failover document management framework and setting up the infrastructure as per the architecture documents in US and Europe in development, test, training and production environments. 
+Created on-boarding plans and identified processes to host new and existing validated and non-validated Pfizer applications into the document management framework.
+Provided support for troubleshooting rendering related issues and created a transitional support plan for the different levels of support groups. 
+Drafted installation qualification scripts for docbase creation, content server installation, and rendering in a qualified and validated environment.</description></job>
+
+<job end='732648' id='4' naics='61131009' naics2='61' pos='5' sic='822101' sic2='82' start='732314'><employer>Old Dominion University</employer>, <address><city>Norfolk</city>, <state abbrev='VA'>VA</state></address>         (<daterange><start days='732314' iso8601='2006-01-01'>01/06</start>- <end days='732648' iso8601='2006-12-01'>12/06</end></daterange>)
+<title>Graduate Teaching Assistant</title> (<department>Department of Electrical Engineering</department>) 
+
+<description>Conducted the Fundamental Circuits Laboratory that required the knowledge and strong understanding of electrical circuits, microprocessors, and computer programming.  
+Structured experiments on basic circuit theories and prepared comprehensive web manuals using MikTeX.
+Conducted interactive recitations with detailed power point presentations to give an insight into the experiments.
+Conducted laboratory sessions for students and helped them build effective circuits by interfacing the circuits with the microprocessors using C language.
+Evaluated students' performance on a weekly basis by conducting quizzes and tests.</description></job>
+
+<job end='732799' id='5' naics='61131009' naics2='61' pos='4' sic='822101' sic2='82' start='732161'><employer>Old Dominion University</employer>, <address><city>Norfolk</city>, <state abbrev='VA'>VA</state></address>         (<daterange><start days='732161' iso8601='2005-08-01'>08/05</start>- <end days='732799' iso8601='2007-05-01'>05/07</end></daterange>)
+<title>Graduate Research Assistant</title> (<department>Department of Electrical Engineering</department>) 
+
+<description>Thesis Title: Simulation and modeling of propagation of nerve impulse and its blockage by external electrical stimulation. 
+Objective: To analyze ways to block nerve impulse propagation, which could aid in incapacitation, or stimulate functional neuromuscular activity for muscular therapy, or possibly act as a localized, electrical pain reliever.
+
+Performed model representation and numerical simulation of an axon with multiple segments to explain many important features of propagation of nerve impulse, such as voltage gating of ion channels and the generation of action potentials.
+Extracted useful parameters such as the action potential velocity as a function of diameter, and made suitable comparisons with reports in the literature for model validation.
+Analyzed and successfully demonstrated the possibilities for blocking action potential propagation through external electrical means such as DC and AC excitation.
+Obtained current and frequency thresholds for the blocking stimulation on an unmyelinated nerve fiber.
+All of the research work was performed using Matlab 7.1, Cadence, and Orcad.
+Suggested potential studies and modeling efforts relevant to the nerve impulse conduction and its blockage like triggering of electroporation under high field conditions.</description></job></experience> 
+                                                        
+<skills>COMPUTER SKILLS
+<skills>Design Tools: OrCAD, MiKTeX, P-Spice, PROTEL, CADENCE, AUTO CAD, Protel, MS Visio
+Programming and Modeling Tools:  C, C++, MATLAB 7.1, Java,  Active HDL 5.1, UML 2.0, Visual Paradigm, EMC Documentum, Oracle 10g, Adlib Version 2.0, 20-Sim, MS Front Page
+Others: MS Office (MS Word, MS Excel, MS Power Point), Inprotech IP Management Software,   Delphion, Micropat</skills></skills>
+
+<professional>EXTRACURRICULAR ACTIVITIES 
+
+<description>Assisted Mano Vikas Mandir, Ajmer with activities like teaching the disabled children and promoting inclusive education - (Aug 2009 - Nov 2009)
+Individually researched on the following topics as part of the masters' curriculum - 
+Relationship between membrane excitability and single ion channel open-close kinetics - The objective was to understand the stochastic behavior of channels and then incorporate this aspect for external voltage pulses of various shapes and for &quot;N&quot; number of nodes. To simulate the kinetics of open-close process, a random number generator and the probability distribution functions of open- and closed- channel lifetimes was used. Initial conditions of each particle are obtained from the model. A series of iterations was performed wherein each particle state is examined. MATLAB was used to perform these experiments.
+Electrotherapy for wound healing - The objective was to discuss various modalities of electrotherapy, which are currently being used and determine how each of them works towards wound healing.
+Micro-Electro-Mechanical Systems -- The objective was to understand MEMS fabrication processes and two traditional methods for forming MEMS devices, bulk and surface micromachining. 
+Moore's law: The origin and economic implications - The objective was to describe the origin, nature, and implications of &quot;Moore's Law&quot;. It begins with a historical overview of the major developments in semiconductor industry that led up to Gordon Moore's</description> <publications>1965 observation and then discusses about the implications and finally the future of Moore's law. 
+Applications of Pulsed Power in Bioelectrics -- The objective was to discuss ways to produce nanosecond duration pulsed electric fields that will in turn; allow the examination of the effects of ultra short duration, high intensity electric fields on living cells. Pulsed power technology is also the enabling technology for Bioelectrics. 
+Mechatronic Domain Modeling with Bond Graphs - Bond graph modeling technology finds application in analysis of dynamic systems in different domains. By writing the source equations and then applying the bond graph modeling rules, any kind of system can be developed using bond graphs. The final product is a comprehensive graphical representation of model whose parameters can be varied according to the system in question. By understanding the behavior of electrical and mechanical systems using tools like 20-Sim, more complex electro-mechanical systems were modeled. 
+Presented a paper on &quot;Simulation of Direct Field Oriented High Speed Induction Motor&quot; at IT-BHU, India certified by IEE (2004) 
+Presented a paper on &quot;Seraphim motors - A renewed technology for high speed transportation&quot; at NIT Hamirpur (HP), India  (2004)</publications>
+<description>Achieved 97% in behavioral abilities in all India IT aptitude test conducted by NIIT, India (2003)
+Received the prestigious Gargi award by the state board for exemplary performance in High School (1999)</description></professional>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='art' start='734018'>
+    <variant>art</variant>
+  </canonskill>
+  <canonskill name='autocad'>
+    <variant>AUTO CAD</variant>
+  </canonskill>
+  <canonskill end='732648' experience='1' expidrefs='4' idrefs='4' lastused='2006' name='basic' start='732314'>
+    <variant>basic</variant>
+  </canonskill>
+  <canonskill end='732648' experience='1' expidrefs='4' idrefs='4' lastused='2006' name='c' start='732314'>
+    <variant>C</variant>
+    <variant>C language</variant>
+  </canonskill>
+  <canonskill name='c + +'>
+    <variant>C++</variant>
+  </canonskill>
+  <canonskill end='732799' experience='1' expidrefs='5' idrefs='5' lastused='2007' name='cadence' start='732161'>
+    <variant>CADENCE</variant>
+    <variant>Cadence</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='charts' start='734018'>
+    <variant>charts</variant>
+  </canonskill>
+  <canonskill end='733196' experience='1' expidrefs='3' idrefs='3' lastused='2008' name='content management' start='732922'>
+    <variant>content</variant>
+    <variant>Content</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='7' end='734579' experience='1' expidrefs='2' idrefs='7,2' lastused='2012' name='database administration' start='734018'>
+    <variant>Database Management</variant>
+    <variant>databases</variant>
+    <variant>Database</variant>
+    <variant>database</variant>
+  </canonskill>
+  <canonskill end='732799' experience='1' expidrefs='5' idrefs='5' lastused='2007' name='dc' start='732161'>
+    <variant>DC</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='7' idrefs='7' name='digital design'>
+    <variant>Digital Design</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='7' idrefs='7' name='digital electronics'>
+    <variant>Digital Electronics</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='7' idrefs='7' name='digital signal processing'>
+    <variant>Digital Signal Processing</variant>
+  </canonskill>
+  <canonskill end='733196' experience='1' expidrefs='3' idrefs='3' lastused='2008' name='document management' start='732922'>
+    <variant>Document Management</variant>
+    <variant>document management</variant>
+  </canonskill>
+  <canonskill end='733196' experience='1' expidrefs='3' idrefs='3' lastused='2008' name='documentum' start='732922'>
+    <variant>Documentum</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='drafting' start='734018'>
+    <variant>Drafting</variant>
+    <variant>drafting</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='electrical engineering' start='734018'>
+    <variant>electrical engineering</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='6,7' idrefs='6,7' name='electronics'>
+    <variant>Electronics</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2,5' idrefs='2,5' lastused='2012' name='features' start='732161'>
+    <variant>features</variant>
+  </canonskill>
+  <canonskill name='frontpage'>
+    <variant>MS Front Page</variant>
+  </canonskill>
+  <canonskill end='732799' experience='1' expidrefs='5' idrefs='5' lastused='2007' name='functional' start='732161'>
+    <variant>functional</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='ip' start='734018'>
+    <variant>IP</variant>
+  </canonskill>
+  <canonskill name='java'>
+    <variant>Java</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='legal' start='734018'>
+    <variant>Law</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='management' start='734018'>
+    <variant>managing</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='market planning' start='734018'>
+    <variant>marketing strategies</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='marketing' start='734018'>
+    <variant>Marketing</variant>
+  </canonskill>
+  <canonskill end='732799' experience='1' expidrefs='5' idrefs='5' lastused='2007' name='matlab' start='732161'>
+    <variant>MATLAB 7.1</variant>
+    <variant>Matlab 7.1</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='mechanical engineering' start='734018'>
+    <variant>mechanical engineering</variant>
+  </canonskill>
+  <canonskill end='732648' experience='1' expidrefs='4' idrefs='4' lastused='2006' name='microprocessors' start='732314'>
+    <variant>microprocessors</variant>
+  </canonskill>
+  <canonskill name='microsoft excel'>
+    <variant>MS Excel</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='microsoft office' start='734018'>
+    <variant>MS Office</variant>
+    <variant>Office</variant>
+  </canonskill>
+  <canonskill end='732648' experience='1' expidrefs='4' idrefs='4' lastused='2006' name='microsoft powerpoint' start='732314'>
+    <variant>MS Power Point</variant>
+    <variant>power point</variant>
+  </canonskill>
+  <canonskill name='microsoft word'>
+    <variant>MS Word</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='6' end='732799' experience='1' expidrefs='5' idrefs='6,5' lastused='2007' name='modeling' start='732161'>
+    <variant>Modeling</variant>
+    <variant>modeling</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='7' idrefs='7' name='networking'>
+    <variant>Networks</variant>
+  </canonskill>
+  <canonskill end='733196' experience='1' expidrefs='3' idrefs='3' lastused='2008' name='optimization' start='732922'>
+    <variant>optimization</variant>
+  </canonskill>
+  <canonskill name='oracle'>
+    <variant>Oracle</variant>
+  </canonskill>
+  <canonskill end='732799' experience='1' expidrefs='5' idrefs='5' lastused='2007' name='orcad' start='732161'>
+    <variant>OrCAD</variant>
+    <variant>Orcad</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='organizational skills' start='734018'>
+    <variant>organizing</variant>
+  </canonskill>
+  <canonskill end='732648' experience='1' expidrefs='4' idrefs='4' lastused='2006' name='presentation skills' start='732314'>
+    <variant>presentations</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='primary care trust' start='734018'>
+    <variant>PCT</variant>
+  </canonskill>
+  <canonskill end='733196' experience='1' expidrefs='3' idrefs='3' lastused='2008' name='process engineering' start='732922'>
+    <variant>processes</variant>
+  </canonskill>
+  <canonskill end='732648' experience='1' expidrefs='4' idrefs='4' lastused='2006' name='programming' start='732314'>
+    <variant>computer programming</variant>
+    <variant>Programming</variant>
+  </canonskill>
+  <canonskill name='protel'>
+    <variant>PROTEL</variant>
+    <variant>Protel</variant>
+  </canonskill>
+  <canonskill name='pspice'>
+    <variant>P-Spice</variant>
+  </canonskill>
+  <canonskill end='733196' experience='1' expidrefs='3' idrefs='3' lastused='2008' name='rendering' start='732922'>
+    <variant>rendering</variant>
+  </canonskill>
+  <canonskill end='732799' experience='1' expidrefs='5' idrefs='5' lastused='2007' name='research' start='732161'>
+    <variant>research</variant>
+  </canonskill>
+  <canonskill end='733196' experience='1' expidrefs='3' idrefs='3' lastused='2008' name='servers' start='732922'>
+    <variant>servers 5.3</variant>
+  </canonskill>
+  <canonskill end='733196' experience='1' expidrefs='3' idrefs='3' lastused='2008' name='shell scripting' start='732922'>
+    <variant>scripts</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='6' end='732799' experience='1' expidrefs='5' idrefs='6,5' lastused='2007' name='simulation' start='732161'>
+    <variant>Simulation</variant>
+    <variant>simulation</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='6' idrefs='6' name='statistics'>
+    <variant>Statistical Analysis</variant>
+  </canonskill>
+  <canonskill end='732648' experience='1' expidrefs='4' idrefs='4' lastused='2006' name='structured methods' start='732314'>
+    <variant>Structured</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='7' idrefs='7' name='system architecture'>
+    <variant>System Architecture</variant>
+  </canonskill>
+  <canonskill end='733196' experience='1' expidrefs='3' idrefs='3' lastused='2008' name='troubleshooting' start='732922'>
+    <variant>troubleshooting</variant>
+  </canonskill>
+  <canonskill name='unified modeling language'>
+    <variant>UML 2.0</variant>
+  </canonskill>
+  <canonskill end='733196' experience='1' expidrefs='3' idrefs='3' lastused='2008' name='unix' start='732922'>
+    <variant>Unix</variant>
+  </canonskill>
+  <canonskill end='732799' experience='1' expidrefs='5' idrefs='5' lastused='2007' name='validation' start='732161'>
+    <variant>validation</variant>
+  </canonskill>
+  <canonskill name='visio'>
+    <variant>Visio</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='6,7' idrefs='6,7' name='vlsi'>
+    <variant>VLSI</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='web site production' start='734018'>
+    <variant>website</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='writing' start='734018'>
+    <variant>written</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

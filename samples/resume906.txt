@@ -1,0 +1,175 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734597' xml:space='preserve'><contact><name><givenname>Meeli</givenname> <givenname>Loite</givenname> <surname>Sonn</surname></name>
+<address lat='34.0736' lon='118.145' majorcity='ALHAMBRA' state='CA'><street>1201 West Mission Rd</street>, <city>Alhambra</city>, <state abbrev='CA'>CA</state> <postalcode>91803</postalcode></address> *Home: <phone type='home'>626.417.6733</phone> *Email: <email>msonnikas@gmail.com</email></contact>
+<summary><summary>Medical Front Office **Medical Coding **Medical Records 
+PROFILE 
+Medical Education - Medical Coding, Advanced Medical Terminology 
+HIPAA - Regulations knowledgeable, ethics and professionalism 
+Dependability - Reliable, responsible, resourceful, and fulfill obligations 
+Initiative - Unwavering willingness to take on responsibilities and challenges 
+Customer Service - Project professional company image when working under pressure</summary></summary> 
+<skills>Technical Skills- Internet Savvy, knowledge in <skills>Microsoft Word, Typing Speed: 55 wpm</skills></skills>
+
+<education>EDUCATION 
+<school id='5'><courses>Medical Coding and Advanced Medical Terminology Certificates</courses>
+<institution>Allied Business Schools, Inc ~ Laguna</institution> <address><city>Hills</city>, <state abbrev='CA'>CA</state></address> 
+<degree level='18' name='Master of Arts'>Master of Arts</degree>, <major code='4'>Education</major>, <major code='2405'>Instructional Design</major></school> 
+<school id='6'><institution>American Intel Continental University</institution>, <address><state abbrev='IL'>IL</state></address>
+<degree level='18' name='Master of Science'>Master of Science</degree>, <major code='0202'>Biology</major></school>
+<school id='7'><institution>Tartu University</institution>, <address>Europe</address></school></education>
+  
+                                    <skills>SKILLS SUMMARY 
+     <skills>Medical Coding Training: 
+
+Coding for Reimbursements 
+ICD-9 (Diagnostic) and CPT (Procedural) 
+How to Accurately Complete Claim Forms 
+Principles for Evaluation and Management 
+Putting together CPT-4, ICD-9-CM, &amp; DRG 
+V Codes and E Codes and ICD-9-CM Tables 
+HCPCS Codes &amp; Hospital Diagnostic Coding
+ 
+       Computer skills
+
+Microsoft Word 
+Microsoft Excel 
+Internet Explorer 
+Data Entry Experience, Fast and Proficient 
+
+       Customer Service 
+
+Multi-lingual Estonian/Finnish/English 
+Medical Care Giver Experience 
+Managerial Experience 
+Professional and Reliable 
+
+
+
+Advanced Medical Terminology: 
+
+Basic Word Structure 
+Analyze and Spell Medical Terms 
+Prefixes, Suffixes, and Root Words 
+Pathology, and Radiology Dictation 
+Divide Terms into Component parts 
+List the Divisions of the Spinal Column 
+Recall Body Systems and their Functions</skills></skills> 
+
+
+
+
+       
+ <experience end='present' start='730122'>EMPLOYMENT HISTORY 
+<job end='733775' id='1' pos='2' sic='8051' sic2='80' start='733410'><employer>Pasadena Mansion Senior Healthcare Facility</employer>, <address><city>Pasadena</city>, <state abbrev='CA'>CA</state></address> 
+<title>Care giver</title>, <daterange><start days='733410' iso8601='2009-01-01'>2009</start> to <end days='733775' iso8601='2010-01-01'>2010</end></daterange>
+<description>Taking care of patients every day bases, performed tests
+Performed analysis, injections, vital signs, and visual exams
+Recorded patient' medical history, vital statistics and information
+Performing special projects and miscellaneous duties as needed and requested</description></job>
+
+<job end='present' id='2' pos='1' sic='472402' sic2='47' start='732679'><employer>AmEe</employer> - <address><city>Alhambra</city>, <state abbrev='CA'>CA</state></address> 
+<daterange>Translator, <start days='732679' iso8601='2007-01-01'>2007</start> to <end days='present' iso8601='2012-04-02'>Present</end></daterange> (<jobtype>part time</jobtype>) 
+Translated the books of biology, anatomy, history as a <title>project manager</title> 
+<description>Responsible for supervising all phases of assigned projects, including management  quality, costs and schedule</description></job> 
+
+      <job end='733044' id='3' pos='3' start='730122'><employer>Gustav Adolf College</employer>, Europe
+      <title>Biology Teacher</title>, <daterange><start days='730122' iso8601='2000-01-01'>2000</start> to <end days='733044' iso8601='2008-01-01'>2008</end></daterange>
+
+<description>Teach biology, anatomy and physiology, ecology, genetics, microbiology and associated laboratory sections 
+Demonstrated service to an institution of higher learning 
+Experienced using instructional technology to deliver courses online</description></job>
+
+<job end='732314' id='4' pos='4' sic='822101' sic2='82' start='731949'><employer>Community College of Southern</employer> Nevada, LV 
+<title>General Biology Lector</title>, <daterange><start days='731949' iso8601='2005-01-01'>2005</start> to <end days='732314' iso8601='2006-01-01'>2006</end></daterange>
+
+<description>Instructed genetics to adult students 
+Prepared lab equipments for next class
+Demonstrated lab tests to students, explained assignments
+
+
+
+                                                             American Academy of Professional Coders</description></job></experience>
+
+
+
+
+
+
+
+
+
+</resume>
+
+<skillrollup version='1'>
+  <canonskill name='basic'>
+    <variant>Basic</variant>
+  </canonskill>
+  <canonskill name='cpt'>
+    <variant>CPT</variant>
+  </canonskill>
+  <canonskill name='customer service'>
+    <variant>Customer Service</variant>
+  </canonskill>
+  <canonskill name='data entry'>
+    <variant>Data Entry</variant>
+  </canonskill>
+  <canonskill name='dictation'>
+    <variant>Dictation</variant>
+  </canonskill>
+  <canonskill name='english'>
+    <variant>English</variant>
+  </canonskill>
+  <canonskill name='fast'>
+    <variant>Fast</variant>
+  </canonskill>
+  <canonskill name='forms'>
+    <variant>Forms</variant>
+  </canonskill>
+  <canonskill name='icd - 9'>
+    <variant>ICD-9</variant>
+  </canonskill>
+  <canonskill name='internet explorer'>
+    <variant>Internet Explorer</variant>
+  </canonskill>
+  <canonskill name='internet software'>
+    <variant>Internet Savvy</variant>
+  </canonskill>
+  <canonskill name='management'>
+    <variant>Managerial</variant>
+  </canonskill>
+  <canonskill education='1' name='medical terminology'>
+    <variant>Medical Terminology</variant>
+  </canonskill>
+  <canonskill name='microsoft excel'>
+    <variant>Microsoft Excel</variant>
+  </canonskill>
+  <canonskill name='microsoft word'>
+    <variant>Word</variant>
+    <variant>Microsoft Word</variant>
+  </canonskill>
+  <canonskill end='732314' experience='1' expidrefs='4' idrefs='4' lastused='2006' name='next' start='731949'>
+    <variant>next</variant>
+  </canonskill>
+  <canonskill education='1' name='programming'>
+    <variant>Coding</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='quality' start='732679'>
+    <variant>quality</variant>
+  </canonskill>
+  <canonskill end='733775' experience='1' expidrefs='1' idrefs='1' lastused='2010' name='statistics' start='733410'>
+    <variant>statistics</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='supervisory skills' start='732679'>
+    <variant>supervising</variant>
+  </canonskill>
+  <canonskill name='tables'>
+    <variant>Tables</variant>
+  </canonskill>
+  <canonskill name='typing'>
+    <variant>Typing Speed</variant>
+    <variant>55 wpm</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

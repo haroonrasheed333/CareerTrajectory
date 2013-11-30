@@ -1,0 +1,208 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "QLO", 
+            "Certification Name": "International Qualification in Laboratory Operations", 
+            "Type": "Core", 
+            "Certification ID": "6705", 
+            "Certifying Organization": "American Society for Clinical Pathology"
+        }, 
+        {
+            "Acronym": "ELD", 
+            "Certification Name": "Embryology Laboratory Director", 
+            "Type": "Specialty", 
+            "Certification ID": "3326", 
+            "Certifying Organization": "American Board of Bioanalysis"
+        }, 
+        {
+            "Acronym": "POCT", 
+            "Certification Name": "Point-of-Care Technician", 
+            "Type": "Core", 
+            "Certification ID": "2449", 
+            "Certifying Organization": "American Society of Phlebotomy Technicians"
+        }, 
+        {
+            "Acronym": "QCYM", 
+            "Certification Name": "Qualification in Cytometry", 
+            "Type": "Specialty", 
+            "Certification ID": "1817", 
+            "Certifying Organization": "American Society for Clinical Pathology"
+        }, 
+        {
+            "Acronym": "CPC", 
+            "Certification Name": "Certified Procurement Coordinators", 
+            "Type": "Specialty", 
+            "Certification ID": "5943", 
+            "Certifying Organization": "Organization for Transplant Professionals"
+        }, 
+        {
+            "Acronym": "ASCP)", 
+            "Certification Name": "Medical Laboratory Technician", 
+            "Type": "Core", 
+            "Certification ID": "1814", 
+            "Certifying Organization": "American Society for Clinical Pathology"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Medical Lab Assistant", 
+            "Type": "Core", 
+            "Certification ID": "6693", 
+            "Certifying Organization": "American Medical Technologists"
+        }, 
+        {
+            "Acronym": "ASCP)", 
+            "Certification Name": "Specialist in Laboratory Safety", 
+            "Type": "Specialty", 
+            "Certification ID": "1836", 
+            "Certifying Organization": "American Society for Clinical Pathology"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Medical Laboratory Assistant", 
+            "Type": "Core", 
+            "Certification ID": "8533", 
+            "Certifying Organization": "American Phlebotomy Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Clinical Research Assistant", 
+            "Type": "Core", 
+            "Certification ID": "8529", 
+            "Certifying Organization": "American Phlebotomy Association"
+        }, 
+        {
+            "Acronym": "CCHT", 
+            "Certification Name": "Certified Clinical Hemodialysis Technician", 
+            "Type": "Specialty", 
+            "Certification ID": "5668", 
+            "Certifying Organization": "Nephrology Nursing Certification Commission"
+        }, 
+        {
+            "Acronym": "CCTC", 
+            "Certification Name": "Certified Clinical Transplant Coordinators", 
+            "Type": "Specialty", 
+            "Certification ID": "5944", 
+            "Certifying Organization": "Organization for Transplant Professionals"
+        }, 
+        {
+            "Acronym": "MLS", 
+            "Certification Name": "Medical Laboratory Scientist", 
+            "Type": "Core", 
+            "Certification ID": "6314", 
+            "Certifying Organization": "American Society for Clinical Pathology"
+        }, 
+        {
+            "Acronym": "MLT", 
+            "Certification Name": "International Medical Laboratory Technician", 
+            "Type": "Core", 
+            "Certification ID": "6701", 
+            "Certifying Organization": "American Society for Clinical Pathology"
+        }, 
+        {
+            "Acronym": "MLT", 
+            "Certification Name": "Medical Lab Technician", 
+            "Type": "Core", 
+            "Certification ID": "0457", 
+            "Certifying Organization": "American Medical Technologists"
+        }, 
+        {
+            "Acronym": "QLI", 
+            "Certification Name": "Qualification in Laboratory Informatics", 
+            "Type": "Specialty", 
+            "Certification ID": "1819", 
+            "Certifying Organization": "American Society for Clinical Pathology"
+        }, 
+        {
+            "Acronym": "CPCT", 
+            "Certification Name": "Certified Professional Collector Trainer", 
+            "Type": "Advanced", 
+            "Certification ID": "9202", 
+            "Certifying Organization": "Drug & Alcohol Testing Industry Association"
+        }, 
+        {
+            "Acronym": "R-CPCT", 
+            "Certification Name": "Regional Certified Professional Collector Trainers", 
+            "Type": "Advanced", 
+            "Certification ID": "9205", 
+            "Certifying Organization": "Drug & Alcohol Testing Industry Association"
+        }, 
+        {
+            "Acronym": "MT", 
+            "Certification Name": "International Medical Technologist", 
+            "Type": "Core", 
+            "Certification ID": "6703", 
+            "Certifying Organization": "American Society for Clinical Pathology"
+        }, 
+        {
+            "Acronym": "CHT", 
+            "Certification Name": "Certified Hemodialysis Technologist/Technician", 
+            "Type": "Core", 
+            "Certification ID": "9492", 
+            "Certifying Organization": "Board of Nephrology Examiners Technology Nursing"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Pathologist Assistant", 
+            "Type": "Core", 
+            "Certification ID": "3973", 
+            "Certifying Organization": "American Society for Clinical Pathology"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Biomedical Nephrology Technology", 
+            "Type": "Specialty", 
+            "Certification ID": "5581", 
+            "Certifying Organization": "National Nephrology Certification Organization"
+        }, 
+        {
+            "Acronym": "POLT", 
+            "Certification Name": "Physician Office Laboratory Technician", 
+            "Type": "Core", 
+            "Certification ID": "7871", 
+            "Certifying Organization": "American Association of Bioanalysts"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Paramedical Insurance Examiner", 
+            "Type": "Specialty", 
+            "Certification ID": "2452", 
+            "Certifying Organization": "American Society of Phlebotomy Technicians"
+        }, 
+        {
+            "Acronym": "NCT", 
+            "Certification Name": "Nuclear Cardiology Technologist", 
+            "Type": "Specialty", 
+            "Certification ID": "5578", 
+            "Certifying Organization": "Nuclear Medicine Technology Certification Board"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Clinical Nephrology Technologist", 
+            "Type": "Specialty", 
+            "Certification ID": "5582", 
+            "Certifying Organization": "National Nephrology Certification Organization"
+        }, 
+        {
+            "Acronym": "MLT", 
+            "Certification Name": "Medical Laboratory Technician", 
+            "Type": "Core", 
+            "Certification ID": "7869", 
+            "Certifying Organization": "American Association of Bioanalysts"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Professional Collector", 
+            "Type": "Core", 
+            "Certification ID": "9201", 
+            "Certifying Organization": "Drug & Alcohol Testing Industry Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Drug Collection Specialist", 
+            "Type": "Core", 
+            "Certification ID": "2451", 
+            "Certifying Organization": "American Society of Phlebotomy Technicians"
+        }
+    ], 
+    "onet": "29201200"
+}

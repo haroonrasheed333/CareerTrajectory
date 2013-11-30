@@ -1,0 +1,237 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734596' xml:space='preserve'><contact><name><givenname>William</givenname> <givenname>F</givenname>. <surname>Gilreath</surname></name>
+<address lat='30.5837' lon='89.6759' majorcity='PICAYUNE' state='MS'><street>1702 Provost Circle</street>
+<city>Picayune</city>, <state abbrev='MS'>MS</state> <postalcode>39466-2830</postalcode></address>
+<phone>(601) 798-0343</phone>
+<email>will@williamgilreath.com</email> (preferred contact)</contact>
+
+<summary>OBJECTIVE: <objective>A challenging permanent position as a software developer.</objective></summary> 
+
+<experience end='present' start='729908'>EXPERIENCE:  
+
+<job end='present' id='1' pos='1' start='732648'><title>Software Developer</title> (<jobtype>independent</jobtype>) 				    <daterange><start days='732648' iso8601='2006-12-01'>Dec 2006</start> - <end days='present' iso8601='2012-04-01'>present</end></daterange>
+
+<description>Developed a general-purpose object-oriented programming language Mynx.
+Authored the programming language manual for Mynx a 222-page PDF document.
+Implemented the Mynx compiler using a new parsing algorithm of bounded-context sentence.
+Developed the binar sort, a general-purpose linear time sorting algorithm.</description></job>
+
+<job end='732618' id='2' pos='2' start='732465'><title>Software Engineer/Developer</title>                           	<daterange><start days='732465' iso8601='2006-06-01'>Jun 2006</start> - <end days='732618' iso8601='2006-11-01'>Nov 2006</end></daterange>
+<description>Planning Systems Inc., Stennis Space Center, MS
+
+Administration of information database on MySQL database of sensor/buoy data on Linux server system.
+Developed and maintained Java application library for database management utilizing JDBC database driver.
+Wrote data population application with Java and shell scripts to import and export raw data from the database system.
+Assisted in improvement and verification of documentation presented on the intranet used by other scientists and software developers.
+Consulted in the development of a XML-based message software service project implemented in Java.</description></job>
+
+Technical Author (<job end='731249' id='3' pos='3' start='730912'><jobtype>independent</jobtype>)       			    	<daterange><start days='730912' iso8601='2002-03-01'>Mar 2002</start> - <end days='731249' iso8601='2003-02-01'>Feb 2003</end></daterange>
+<title>Springer-Verlag</title>
+
+<description>Lead author on computer architecture book, with Dr. Phillip A. Laplante, &quot;Computer Architecture: A Minimalist Perspective,&quot; published March 2003, ISBN 1-4020-7416-6. Book website: http://www.caamp.info.
+Researched the technical material relating to computer architecture and engineering for the text.
+Created tables, diagrams, and visual aides for book chapters illustrating concepts and principles relating to computer architecture.
+Developed chapter questions and exercises as means to assess level of understanding and comprehension of material.
+Created example programs in C programming language, assembly language to demonstrate computer architecture principles.</description></job>
+
+<job end='731004' id='4' naics='31161103' naics2='31' pos='4' sic='514201' sic2='51' start='730884'><title>Java Developer/Consultant</title>                                 <daterange><start days='730884' iso8601='2002-02-01'>Feb 2002</start> - <end days='731004' iso8601='2002-06-01'>Jun 2002</end></daterange>
+<employer>J.R. Simplot</employer>, <address><city>Boise</city>, <state abbrev='ID'>ID</state></address>
+
+<description>Mentored software engineers by hands-on training with Java and the object-oriented paradigm.
+Rewrote and translated existing code to Java for several in house applications.
+Developed in conjunction with other developers a Java applet for interactive data visualization.
+Authored reference documentation for training and education with Java and the object-oriented paradigm using UML.</description></job>
+
+<job end='730884' id='5' pos='5' start='730547'><title>Software/Firmware Engineer</title> 	                            <daterange><start days='730547' iso8601='2001-03-01'>Mar 2001</start> - <end days='730884' iso8601='2002-02-01'>Feb 2002</end></daterange>
+<employer>Hewlett-Packard/Adecco Technical</employer>, <address><city>Boise</city>, <state abbrev='ID'>ID</state></address>
+              
+<description>Build, install, administer, and maintain Apache web server for internal web tools and utilities.
+Build printer firmware and debug failed builds on a distributed build system using C++.
+Investigate and assist in debugging scripts, utilities, and tools in C/C++, UNIX shell, Perl script, and JavaScript.
+Worked and developed embedded C source as part of printer firmware package.
+Assisted in development of HTML forms, web pages, CGI scripts, JavaScript for internal web tools.
+Maintenance, testing of software documentation and development tools in C/C++ in UNIX.</description></job>
+
+<job end='730427' id='6' pos='6' start='729908'><title>Software Engineer</title>			             	       <daterange><start days='729908' iso8601='1999-06-01'>Jun 1999</start> - <end days='730427' iso8601='2000-11-01'>Nov 2000</end></daterange></job>
+<job id='7' naics='33441302' naics2='33' sic='367401' sic2='36'><employer>Micron Technology, Inc</employer>., <title>Boise ID</title>
+
+<description>Developer for manufacturing data communication system and internal middleware library using TCP/IP and UDP protocols in C++ for Unix/Windows.
+Developed and assisted in database development on Oracle, Sybase in PL/SQL and Transact SQL.
+Code maintenance, revision and support for existing legacy software in C/C++ on Windows, UNIX systems.
+Assisted in assessing and planning requirements for application programming interfaces relating to SOAP and XML based software.
+Developed regression test suites for software applications and utilities in C++ using distributed middleware messaging.
+Instructor for introductory class in XML and XML application library in C++. 
+Developed, debugged, documented, and maintained XML parser in C++ 
+Maintain and update C++ server software running on Windows NT platform as service.</description></job></experience>
+
+<education>EDUCATION:	  
+
+<school id='8'><degree level='16'>Bachelors of Science</degree> in <major code='0402'>Computer Science</major> 
+<institution>Mississippi State University</institution>, <address><city>Starkville</city>, <state abbrev='MS'>MS.</state></address></school></education>
+
+<references>REFERENCES: 
+
+	Available upon request.</references>	  	  
+
+
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='730884' experience='1' expidrefs='5' idrefs='5' lastused='2002' name='apache webserver' start='730547'>
+    <variant>Apache web server</variant>
+  </canonskill>
+  <canonskill end='731249' experience='1' expidrefs='3' idrefs='3' lastused='2003' name='assembly language' start='730912'>
+    <variant>assembly language</variant>
+  </canonskill>
+  <canonskill end='731249' experience='1' expidrefs='3' idrefs='3' lastused='2003' name='books' start='730912'>
+    <variant>book</variant>
+    <variant>Book</variant>
+  </canonskill>
+  <canonskill end='731249' experience='1' expidrefs='3,5,7' idrefs='3,5,7' lastused='2003' name='c' start='730547'>
+    <variant>C</variant>
+    <variant>C programming</variant>
+  </canonskill>
+  <canonskill end='730884' experience='1' expidrefs='5,7' idrefs='5,7' lastused='2002' name='c + +' start='730547'>
+    <variant>C++</variant>
+  </canonskill>
+  <canonskill end='730884' experience='1' expidrefs='5' idrefs='5' lastused='2002' name='cgi' start='730547'>
+    <variant>CGI scripts</variant>
+  </canonskill>
+  <canonskill end='732618' experience='1' expidrefs='2' idrefs='2' lastused='2006' name='database administration' start='732465'>
+    <variant>database management</variant>
+    <variant>database</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='7' idrefs='7' name='database development'>
+    <variant>database development</variant>
+  </canonskill>
+  <canonskill end='730884' experience='1' expidrefs='5' idrefs='5' lastused='2002' name='debugging' start='730547'>
+    <variant>debugging</variant>
+  </canonskill>
+  <canonskill end='732618' experience='1' expidrefs='2,4' idrefs='2,4' lastused='2006' name='documentation' start='730884'>
+    <variant>documentation</variant>
+  </canonskill>
+  <canonskill end='730884' experience='1' expidrefs='5' idrefs='5' lastused='2002' name='embedded c' start='730547'>
+    <variant>embedded C</variant>
+  </canonskill>
+  <canonskill end='730884' experience='1' expidrefs='5' idrefs='5' lastused='2002' name='forms' start='730547'>
+    <variant>forms</variant>
+  </canonskill>
+  <canonskill end='730884' experience='1' expidrefs='5' idrefs='5' lastused='2002' name='html' start='730547'>
+    <variant>HTML</variant>
+  </canonskill>
+  <canonskill end='731249' experience='1' expidrefs='3' idrefs='3' lastused='2003' name='http' start='730912'>
+    <variant>http</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='7' idrefs='7' name='instruction'>
+    <variant>Instructor</variant>
+  </canonskill>
+  <canonskill end='732618' experience='1' expidrefs='2,4' idrefs='2,4' lastused='2006' name='java' start='730884'>
+    <variant>Java</variant>
+  </canonskill>
+  <canonskill end='730884' experience='1' expidrefs='5' idrefs='5' lastused='2002' name='javascript' start='730547'>
+    <variant>JavaScript</variant>
+  </canonskill>
+  <canonskill end='732618' experience='1' expidrefs='2' idrefs='2' lastused='2006' name='jdbc' start='732465'>
+    <variant>JDBC</variant>
+  </canonskill>
+  <canonskill end='732618' experience='1' expidrefs='2' idrefs='2' lastused='2006' name='linux' start='732465'>
+    <variant>Linux</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='7' idrefs='7' name='messaging'>
+    <variant>messaging</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='7' idrefs='7' name='microsoft windows'>
+    <variant>Windows</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='7' idrefs='7' name='microsoft windows nt'>
+    <variant>Windows NT</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='7' idrefs='7' name='middleware'>
+    <variant>middleware</variant>
+  </canonskill>
+  <canonskill end='732618' experience='1' expidrefs='2' idrefs='2' lastused='2006' name='mysql' start='732465'>
+    <variant>MySQL</variant>
+  </canonskill>
+  <canonskill end='731004' experience='1' expidrefs='4' idrefs='4' lastused='2002' name='object oriented design' start='730884'>
+    <variant>object-oriented</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='object oriented programming' start='732648'>
+    <variant>object-oriented programming</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='7' idrefs='7' name='oracle'>
+    <variant>Oracle</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='7' idrefs='7' name='oracle developer 2000'>
+    <variant>Developer</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='7' idrefs='7' name='oracle pl/sql'>
+    <variant>PL/SQL</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='page' start='732648'>
+    <variant>page</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='pdf' start='732648'>
+    <variant>PDF</variant>
+  </canonskill>
+  <canonskill end='730884' experience='1' expidrefs='5' idrefs='5' lastused='2002' name='perl' start='730547'>
+    <variant>Perl</variant>
+  </canonskill>
+  <canonskill end='730884' experience='1' expidrefs='5' idrefs='5' lastused='2002' name='printers' start='730547'>
+    <variant>printer</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,7' idrefs='1,7' lastused='2012' name='programming' start='732648'>
+    <variant>programming</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='7' idrefs='7' name='protocols'>
+    <variant>protocols</variant>
+  </canonskill>
+  <canonskill end='732618' experience='1' expidrefs='2,5' idrefs='2,5' lastused='2006' name='shell scripting' start='730547'>
+    <variant>scripts</variant>
+    <variant>script</variant>
+    <variant>shell scripts</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='7' idrefs='7' name='soap'>
+    <variant>SOAP</variant>
+  </canonskill>
+  <canonskill end='730884' experience='1' expidrefs='5' idrefs='5' lastused='2002' name='software documentation' start='730547'>
+    <variant>software documentation</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='7' idrefs='7' name='sybase'>
+    <variant>Sybase</variant>
+  </canonskill>
+  <canonskill end='731249' experience='1' expidrefs='3' idrefs='3' lastused='2003' name='tables' start='730912'>
+    <variant>tables</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='7' idrefs='7' name='tcp/ip'>
+    <variant>TCP/IP</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='7' idrefs='7' name='transact sql'>
+    <variant>Transact SQL</variant>
+  </canonskill>
+  <canonskill end='731004' experience='1' expidrefs='4' idrefs='4' lastused='2002' name='unified modeling language' start='730884'>
+    <variant>UML</variant>
+  </canonskill>
+  <canonskill end='730884' experience='1' expidrefs='5,7' idrefs='5,7' lastused='2002' name='unix' start='730547'>
+    <variant>UNIX</variant>
+    <variant>Unix</variant>
+  </canonskill>
+  <canonskill end='730884' experience='1' expidrefs='5' idrefs='5' lastused='2002' name='unix shell scripting' start='730547'>
+    <variant>UNIX shell</variant>
+  </canonskill>
+  <canonskill end='730884' experience='1' expidrefs='5,7' idrefs='5,7' lastused='2002' name='utilities' start='730547'>
+    <variant>utilities</variant>
+  </canonskill>
+  <canonskill end='731249' experience='1' expidrefs='3,5' idrefs='3,5' lastused='2003' name='web site production' start='730547'>
+    <variant>website</variant>
+    <variant>web pages</variant>
+  </canonskill>
+  <canonskill end='731249' experience='1' expidrefs='3' idrefs='3' lastused='2003' name='writing' start='730912'>
+    <variant>author</variant>
+  </canonskill>
+  <canonskill end='732618' experience='1' expidrefs='2,7' idrefs='2,7' lastused='2006' name='xml' start='732465'>
+    <variant>XML</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

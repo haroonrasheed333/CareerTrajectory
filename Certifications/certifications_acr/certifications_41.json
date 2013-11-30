@@ -1,0 +1,117 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "ACM", 
+            "Certification Name": "Accredited Cruise Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "8011", 
+            "Certifying Organization": "Cruise Lines International Association"
+        }, 
+        {
+            "Acronym": "CAS", 
+            "Certification Name": "Certified Apartment Supplier", 
+            "Type": "Core", 
+            "Certification ID": "2494", 
+            "Certifying Organization": "National Apartment Association"
+        }, 
+        {
+            "Acronym": "CHA", 
+            "Certification Name": "Certified Hotel Administrator", 
+            "Type": "Advanced", 
+            "Certification ID": "0107", 
+            "Certifying Organization": "American Hotel and Lodging Association Educational Institute"
+        }, 
+        {
+            "Acronym": "CHSE", 
+            "Certification Name": "Certified Hospitality Sales Executive", 
+            "Type": "Advanced", 
+            "Certification ID": "8545", 
+            "Certifying Organization": "Hospitality Sales & Marketing Association International"
+        }, 
+        {
+            "Acronym": "CHTP", 
+            "Certification Name": "Certified Hospitality Technology Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "1343", 
+            "Certifying Organization": "Hospitality Financial & Technology Professionals"
+        }, 
+        {
+            "Acronym": "CHSP", 
+            "Certification Name": "Certified Hospitality Sales Professional", 
+            "Type": "Core", 
+            "Certification ID": "0316", 
+            "Certifying Organization": "American Hotel and Lodging Association Educational Institute"
+        }, 
+        {
+            "Acronym": "CHHE", 
+            "Certification Name": "Certified Hospitality Housekeeping Executive", 
+            "Type": "Core", 
+            "Certification ID": "0106", 
+            "Certifying Organization": "American Hotel and Lodging Association Educational Institute"
+        }, 
+        {
+            "Acronym": "CPO", 
+            "Certification Name": "Certified Park Operator", 
+            "Type": "Core", 
+            "Certification ID": "2309", 
+            "Certifying Organization": "National Association of RV Parks and Campgrounds"
+        }, 
+        {
+            "Acronym": "CHI", 
+            "Certification Name": "Certified Hospitality Instructor", 
+            "Type": "Advanced", 
+            "Certification ID": "8767", 
+            "Certifying Organization": "American Hotel and Lodging Association Educational Institute"
+        }, 
+        {
+            "Acronym": "CRDE", 
+            "Certification Name": "Certified Rooms Division Executive", 
+            "Type": "Advanced", 
+            "Certification ID": "0109", 
+            "Certifying Organization": "American Hotel and Lodging Association Educational Institute"
+        }, 
+        {
+            "Acronym": "CHT", 
+            "Certification Name": "Certified HospitalityTrainer", 
+            "Type": "Core", 
+            "Certification ID": "3316", 
+            "Certifying Organization": "American Hotel and Lodging Association Educational Institute"
+        }, 
+        {
+            "Acronym": "CHAM", 
+            "Certification Name": "Certified Hotel Asset Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "8769", 
+            "Certifying Organization": "Hospitality Asset Managers Association"
+        }, 
+        {
+            "Acronym": "CHS", 
+            "Certification Name": "Certified Hospitality Supervisor", 
+            "Type": "Advanced", 
+            "Certification ID": "0347", 
+            "Certifying Organization": "American Hotel and Lodging Association Educational Institute"
+        }, 
+        {
+            "Acronym": "CRME", 
+            "Certification Name": "Certified Revenue Management Executive", 
+            "Type": "Advanced", 
+            "Certification ID": "8546", 
+            "Certifying Organization": "Hospitality Sales & Marketing Association International"
+        }, 
+        {
+            "Acronym": "CFM", 
+            "Certification Name": "Certified Facility Manager", 
+            "Type": "Core", 
+            "Certification ID": "0087", 
+            "Certifying Organization": "International Facility Management Association"
+        }, 
+        {
+            "Acronym": "CLSD", 
+            "Certification Name": "Certified Lodging Security Director", 
+            "Type": "Core", 
+            "Certification ID": "2975", 
+            "Certifying Organization": "American Hotel and Lodging Association Educational Institute"
+        }
+    ], 
+    "onet": "11908100"
+}

@@ -1,0 +1,191 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734594' xml:space='preserve'><contact><name><givenname>Nandakumar</givenname> <surname>Iyer</surname></name>
+<address lat='42.2852' lon='71.7223' majorcity='SHREWSBURY' state='MA'><street>15 Quail Hollow Drive</street>
+<city>Shrewsbury</city>, <state abbrev='MA'>MA</state> <postalcode>01545</postalcode></address>
+(508)-<phone>244-2964</phone>
+<email>nandakumar.iyer@gmail.com</email></contact>
+
+
+<summary>Objective
+<objective>Entry-level Mechanical Engineer seeking position that will utilize technical knowledge, analytical thinking, and problem-solving skills.</objective></summary>  
+<education>Education
+<school id='4'><institution>Worcester Polytechnic Institute</institution>, <address><city>Worcester</city>, <state abbrev='MA'>MA</state></address>
+<degree level='16' name='Bachelor of Science'>Bachelor of Science</degree> with Distinction in <major code='1502'>Mechanical Engineering</major>, <completiondate days='734048' iso8601='2010-10-01'>October 2010</completiondate>
+GPA: <gpa max='4' value='3.36'>3.36/4.0</gpa>
+Related Projects
+<courses>Automotive Materials Processing &amp; Design: Senior Design Course</courses>, Mar.-<completiondate days='733895' iso8601='2010-05-01'>May, 2010</completiondate>
+<description>Completed stress analysis on the rocker panel of a Honda Civic passenger car in order to determine required material type &amp; characteristics that would result in 10-15% reduction in weight while maintaining strict safety and handling standards.
+Computer Aided Manufacturing: Senior Course, Mar.</description>-<completiondate days='733895' iso8601='2010-05-01'>May, 2010</completiondate></school></education>
+<experience end='present' start='731034'><description>Worked with three other teammates to design and manufacture a keychain bottle opener.  Used PRO/E to model bottle opener and ESPRIT CAM software to both specify machining/finishing processes and generate NC code.  Used a Haas CNC mill in order to produce part.
+Thermodynamic Application &amp; Design: Senior Design Course, Jan.-Mar., 2010
+Designed solar-powered steam turbine power plant that could be implemented in regions with high solar flux (such as New Mexico).  Integrated principles of thermodynamics, fluid dynamics, and heat transfer in order to design thermodynamic cycle, solar collector, and condenser.  Considered economics and viability of solar powered plant for real world applications.
+Study of Gas Emboli Behavior in Simulated Microvasculature: Major Qualifying Project</description>, <daterange><start days='733653' iso8601='2009-09-01'>Sept. 2009</start> - <end days='733834' iso8601='2010-03-01'>Mar. 2010</end></daterange>
+<description>Investigated behavior of gas embolisms in collaboration with two teammates by using a bench top vasculature model filled with 60% glycerol-water solution (to closely simulate properties of human blood) and injecting bubbles of a controlled size using a micro pump.  It was determined that low Reynolds numbers accompanied by increasing bubble radius, reduced bubble velocity and low Bond numbers increased bubble buoyancy.
+
+Additional Projects
+Stock Market Simulation &amp; Analysis: Interactive Qualifying Project, May-Jul., 2010
+Conducted 7-week stock market simulation using the online simulator, &quot;Investopedia&quot;, in order to understand how the market behaves and operates.  Independently studied various techniques for investment and applied them to the simulation accordingly.  
+The Indispensability of the Gothic Setting: Sufficiency Project, May-Jul., 2010
+Read the works of several prominent authors including Bram Stoker, Sir Arthur Conan Doyle, Patrick McGrath, and Stephen King.  Analyzed the importance of the Gothic setting in Dracula and The Hound of the Baskervilles, resulting in a comprehensive and interpretative portfolio of writings.</description>
+Experience
+<job end='present' id='1' pos='1' sic='8099' sic2='80' start='731034'><title>Technology Consultant</title> (<daterange><start days='731034' iso8601='2002-07-01'>Jul., 2002</start>-<end days='present' iso8601='2012-03-30'>Present</end></daterange>)
+<employer>Spring Bank Pharmaceuticals, Inc</employer>., <address><city>Milford</city>, <state abbrev='MA'>MA</state></address>
+<description>Assembled several computers to run experimentation equipment, performed hardware/software repairs, and continue to perform ongoing hardware/software maintenance/repairs as needed.</description></job>
+<job end='734536' id='2' pos='2' start='734444'><title>Sales Consultant</title> (<daterange><start days='734444' iso8601='2011-11-01'>Nov. 2011</start> - <end days='734536' iso8601='2012-02-01'>Feb. 2012</end></daterange>)
+<employer>Sentry West Lincoln Mazda</employer>, <address><city>Shrewsbury</city>, <state abbrev='MA'>MA</state></address>
+<description>Assisted customers in purchasing or leasing a vehicle that was appropriate for their needs and budget.  Demonstrated and explained a variety of vehicle features and technologies to customers, while showcasing how the features/technologies met their needs.</description></job>
+<job end='733165' id='3' pos='3' sic='822101' sic2='82' start='733044'><title>Workshop Leader</title> (<daterange><start days='733044' iso8601='2008-01-01'>Jan</start>.-<end days='733165' iso8601='2008-05-01'>May, 2008</end></daterange>)
+<employer>University of Rochester</employer>, <department>Computer Science Department</department>, <address><city>Rochester</city>, <state abbrev='NY'>NY</state></address>
+<description>Administered weekly workshops with group of students in order to reinforce classroom material (web design &amp; implementation).  Graded exams and projects while providing feedback to enhance students' understanding of the material.</description></job></experience>
+<skills>Skills
+Automotive: <skills>Extensive hands-on experience with automotive repairs and maintenance.  Familiar with engine, transmission, brake, and suspension systems (self-taught skill).
+Operating Systems: Windows 95/98/ME/2000/XP/Vista/7, Mac OS X
+Software: Microsoft Office, MathCAD, Mathematica, Autodesk Inventor, Pro/E, LabVIEW, ESPRIT (CAM), ANSYS, Adobe Acrobat, Adobe Photoshop
+Programming Languages: HTML, Javascript
+Laboratory Skills: Soldering, oscilloscope measurements, digital multimeter measurements, basic circuit prototyping (breadboarding)</skills>
+Languages: <languages>English (fluent), Tamil (fluent), French (intermediate), German (basic)</languages></skills>
+</resume>
+
+<skillrollup version='1'>
+  <canonskill name='adobe acrobat'>
+    <variant>Adobe Acrobat</variant>
+  </canonskill>
+  <canonskill name='adobe photoshop'>
+    <variant>Adobe Photoshop</variant>
+  </canonskill>
+  <canonskill name='ansys'>
+    <variant>ANSYS</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='4' idrefs='4' name='automotive'>
+    <variant>Automotive</variant>
+    <variant>automotive</variant>
+  </canonskill>
+  <canonskill name='basic'>
+    <variant>basic</variant>
+  </canonskill>
+  <canonskill end='734536' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='budgeting' start='734444'>
+    <variant>budget</variant>
+  </canonskill>
+  <canonskill experience='1' name='cnc'>
+    <variant>CNC</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='computer hardware' start='731034'>
+    <variant>hardware</variant>
+  </canonskill>
+  <canonskill name='digital multimeter'>
+    <variant>digital multimeter</variant>
+  </canonskill>
+  <canonskill experience='1' name='economics'>
+    <variant>economics</variant>
+  </canonskill>
+  <canonskill name='english'>
+    <variant>English</variant>
+  </canonskill>
+  <canonskill end='734536' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='features' start='734444'>
+    <variant>features</variant>
+  </canonskill>
+  <canonskill name='french'>
+    <variant>French</variant>
+  </canonskill>
+  <canonskill name='german'>
+    <variant>German</variant>
+  </canonskill>
+  <canonskill name='html'>
+    <variant>HTML</variant>
+  </canonskill>
+  <canonskill name='javascript'>
+    <variant>Javascript</variant>
+  </canonskill>
+  <canonskill name='labview'>
+    <variant>LabVIEW</variant>
+  </canonskill>
+  <canonskill name='languages'>
+    <variant>Languages</variant>
+  </canonskill>
+  <canonskill name='macintosh os'>
+    <variant>Mac OS</variant>
+  </canonskill>
+  <canonskill experience='1' name='marketing'>
+    <variant>Market</variant>
+    <variant>market</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='4' idrefs='4' name='materials management'>
+    <variant>Materials</variant>
+  </canonskill>
+  <canonskill name='mathcad'>
+    <variant>MathCAD</variant>
+  </canonskill>
+  <canonskill name='mathematica'>
+    <variant>Mathematica</variant>
+  </canonskill>
+  <canonskill name='microsoft office'>
+    <variant>Microsoft Office</variant>
+  </canonskill>
+  <canonskill name='microsoft windows 2000'>
+    <variant>2000</variant>
+  </canonskill>
+  <canonskill name='microsoft windows 95'>
+    <variant>Windows 95</variant>
+  </canonskill>
+  <canonskill name='microsoft windows 98'>
+    <variant>98</variant>
+  </canonskill>
+  <canonskill experience='1' name='microsoft works'>
+    <variant>works</variant>
+  </canonskill>
+  <canonskill experience='1' name='mill'>
+    <variant>mill</variant>
+  </canonskill>
+  <canonskill name='operating systems'>
+    <variant>Operating Systems</variant>
+  </canonskill>
+  <canonskill name='oscilloscope'>
+    <variant>oscilloscope</variant>
+  </canonskill>
+  <canonskill experience='1' name='process engineering'>
+    <variant>processes</variant>
+  </canonskill>
+  <canonskill name='programming'>
+    <variant>Programming</variant>
+  </canonskill>
+  <canonskill name='prototyping'>
+    <variant>prototyping</variant>
+  </canonskill>
+  <canonskill end='734536' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='purchasing' start='734444'>
+    <variant>purchasing</variant>
+  </canonskill>
+  <canonskill experience='1' name='read'>
+    <variant>Read</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='repair' start='731034'>
+    <variant>repairs</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='4' idrefs='4' name='safety'>
+    <variant>safety</variant>
+  </canonskill>
+  <canonskill experience='1' name='simulation'>
+    <variant>Simulation</variant>
+    <variant>simulation</variant>
+  </canonskill>
+  <canonskill name='soldering'>
+    <variant>Soldering</variant>
+  </canonskill>
+  <canonskill name='transmission'>
+    <variant>transmission</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='4' idrefs='4' name='typing'>
+    <variant>type</variant>
+  </canonskill>
+  <canonskill name='vista'>
+    <variant>Vista</variant>
+  </canonskill>
+  <canonskill end='733165' experience='1' expidrefs='3' idrefs='3' lastused='2008' name='web site production' start='733044'>
+    <variant>web design</variant>
+  </canonskill>
+  <canonskill end='733165' experience='1' expidrefs='3' idrefs='3' lastused='2008' name='workshops' start='733044'>
+    <variant>workshops</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

@@ -1,0 +1,160 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734597' xml:space='preserve'><contact><name><givenname>Akilah</givenname> <givenname>K</givenname>. <surname>Hawkins</surname></name>
+<address lat='41.4445' lon='87.5926' majorcity='CRETE' state='IL'><street>2208 Anne Lane</street>; <city>Crete</city>, <state abbrev='IL'>IL</state>  <postalcode>60417</postalcode></address>
+<phone>(708) 351-7291</phone>
+<email>AkilahHawkins@hotmail.com</email></contact>
+
+<summary>Career Profile      
+<objective>Energetic and results-oriented</objective></summary> 
+
+<education>Education    
+<school id='7'><institution>Roosevelt University</institution>: <address><city>Chicago</city>, <state abbrev='IL'>IL</state></address>                                                                                                        <completiondate days='733013' iso8601='2007-12-01'>December 2007</completiondate>
+<degree level='16' name='Bachelor of Science'>Bachelor of Science</degree>: <major code='4201'>Business Administration - Finance</major></school></education>
+
+<experience end='present' start='729757'><job end='733044' id='1' pos='2' start='732679'><jobtype>Contract</jobtype> Assignment
+Scanwell Logistics: <address><city>Elk Grove Village</city>, <state abbrev='IL'>IL</state></address>                                                                                              <daterange><start days='732679' iso8601='2007-01-01'>2007</start> - <end days='733044' iso8601='2008-01-01'>2008</end></daterange>
+<title>Project Manager</title>
+<description>Coordinated with overseas colleagues, vendors, and clients to ensure project implementation
+Created and executed project work plans and revised as appropriate to meet changing needs and requirements 
+Managed day-to-day operational aspects of a project and scope
+Reviewed deliverables prepared by team before passing to client
+Ensured timely and accurate invoicing, and monitored receivables for project</description></job>
+
+Work Experience
+<job end='present' id='2' pos='1' sic='7231' sic2='72' start='733775'><employer>Posh Nail Studio</employer>: <address><city>Crete</city>, <state abbrev='IL'>IL</state></address>                                                                                                                   <daterange><start days='733775' iso8601='2010-01-01'>2010</start>-<end days='present' iso8601='2012-04-02'>Present</end></daterange>
+<title>Owner</title>
+<description>Overseeing management and salon duties along with daily operations of the business
+Performing primary tasks related to bookkeeping, inventory, marketing, advertising and payroll
+Responsible for hiring, firing, training and motivating employees
+Consistently researching the beauty industry and market to stay ahead of changes</description></job>
+ 
+<job end='732679' id='3' pos='3' sic='702102' sic2='70' start='732314'><employer>Roosevelt University</employer>: <address><city>Chicago</city>, <state abbrev='IL'>IL</state></address>                                                                                                          <daterange><start days='732314' iso8601='2006-01-01'>2006</start> - <end days='732679' iso8601='2007-01-01'>2007</end></daterange>
+<title>Computer Laboratory Manager</title>
+<description>Effectively managed computer facilities to ensure daily operations were performed efficiently
+Developed policies and procedures to ensure efficient lab operations and quality service</description></job>
+
+<job end='731949' id='4' pos='4' sic='822101' sic2='82' start='731583'><employer>Chicago State University</employer>: <address><city>Chicago</city>, <state abbrev='IL'>IL</state></address>	                                                                                                  <daterange><start days='731583' iso8601='2004-01-01'>2004</start> - <end days='731949' iso8601='2005-01-01'>2005</end></daterange>
+<title>Technical Coordinator</title>								                                                    
+<description>Managed several computer laboratories for the College of Education
+Assisted faculty and staff users regarding the use of supported software applications and hardware
+Scheduled ongoing classes in computer laboratories</description></job>
+					
+<job end='731583' id='5' pos='5' start='731218'><employer>Archibald Candy Corporation</employer> (<employer>Fannie May</employer>): <address><city>Chicago</city>, <state abbrev='IL'>IL</state></address>                                                                 <daterange><start days='731218' iso8601='2003-01-01'>2003</start> - <end days='731583' iso8601='2004-01-01'>2004</end></daterange>
+<description>Accounts Receivable	               
+Coordinated Accounts Receivable and preparation of financial and operations reports
+Reconciled overdue accounts and analyzed customers credit status</description></job>
+
+<job end='730853' id='6' pos='6' sic='822101' sic2='82' start='729757'><employer>Chicago State University</employer>: <address><city>Chicago</city>, <state abbrev='IL'>IL</state></address>                                                                                                  <daterange><start days='729757' iso8601='1999-01-01'>1999</start> - <end days='730853' iso8601='2002-01-01'>2002</end></daterange>
+<title>Administrative Assistant</title> 	         
+<description>Analyzed unit operating practices such as record keeping systems, forms control, personnel requirements, creating new systems or revising established procedures
+Used various software applications such as spreadsheets, relational databases, statistical packages, and graphics packages to assemble, manipulate and/or format data and reports
+Typed correspondence, faxed and filed documents</description></job></experience>
+	         
+<skills>Additional Skills
+<skills>Microsoft Office (Word, Excel, Access, PowerPoint, and Project) 
+Macromedia Fireworks MX, Dreamweaver MX, Macromedia Flash MX
+Intuit QuickBooks Pro</skills></skills>
+
+	         
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='731583' experience='1' expidrefs='5' idrefs='5' lastused='2004' name='accounts receivable' start='731218'>
+    <variant>Accounts Receivable</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='advertising' start='733775'>
+    <variant>advertising</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='bookkeeping' start='733775'>
+    <variant>bookkeeping</variant>
+  </canonskill>
+  <canonskill end='731949' experience='1' expidrefs='4' idrefs='4' lastused='2005' name='computer hardware' start='731583'>
+    <variant>hardware</variant>
+  </canonskill>
+  <canonskill end='731583' experience='1' expidrefs='5' idrefs='5' lastused='2004' name='credit' start='731218'>
+    <variant>credit</variant>
+  </canonskill>
+  <canonskill end='733044' experience='1' expidrefs='1' idrefs='1' lastused='2008' name='customer relations' start='732679'>
+    <variant>client</variant>
+    <variant>clients</variant>
+  </canonskill>
+  <canonskill name='dreamweaver'>
+    <variant>Dreamweaver</variant>
+  </canonskill>
+  <canonskill end='731583' experience='1' expidrefs='5' idrefs='5' lastused='2004' name='financial' start='731218'>
+    <variant>financial</variant>
+  </canonskill>
+  <canonskill name='fireworks'>
+    <variant>Macromedia Fireworks</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='firing' start='733775'>
+    <variant>firing</variant>
+  </canonskill>
+  <canonskill name='flash'>
+    <variant>Macromedia Flash</variant>
+  </canonskill>
+  <canonskill end='730853' experience='1' expidrefs='6' idrefs='6' lastused='2002' name='forms' start='729757'>
+    <variant>forms</variant>
+  </canonskill>
+  <canonskill end='730853' experience='1' expidrefs='6' idrefs='6' lastused='2002' name='graphical user interface' start='729757'>
+    <variant>graphics</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='hiring' start='733775'>
+    <variant>hiring</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='inventory management' start='733775'>
+    <variant>inventory</variant>
+  </canonskill>
+  <canonskill end='733044' experience='1' expidrefs='1' idrefs='1' lastused='2008' name='invoicing' start='732679'>
+    <variant>invoicing</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='marketing' start='733775'>
+    <variant>marketing</variant>
+    <variant>market</variant>
+  </canonskill>
+  <canonskill name='microsoft access'>
+    <variant>Access</variant>
+  </canonskill>
+  <canonskill name='microsoft excel'>
+    <variant>Excel</variant>
+  </canonskill>
+  <canonskill name='microsoft office'>
+    <variant>Microsoft Office</variant>
+  </canonskill>
+  <canonskill name='microsoft powerpoint'>
+    <variant>PowerPoint</variant>
+  </canonskill>
+  <canonskill name='microsoft word'>
+    <variant>Word</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='payroll processing' start='733775'>
+    <variant>payroll</variant>
+  </canonskill>
+  <canonskill end='730853' experience='1' expidrefs='6' idrefs='6' lastused='2002' name='personnel' start='729757'>
+    <variant>personnel</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='policy analysis' start='732314'>
+    <variant>policies</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='quality' start='732314'>
+    <variant>quality</variant>
+  </canonskill>
+  <canonskill name='quickbooks'>
+    <variant>QuickBooks Pro</variant>
+  </canonskill>
+  <canonskill end='730853' experience='1' expidrefs='6' idrefs='6' lastused='2002' name='record keeping' start='729757'>
+    <variant>record keeping</variant>
+  </canonskill>
+  <canonskill end='730853' experience='1' expidrefs='6' idrefs='6' lastused='2002' name='relational databases' start='729757'>
+    <variant>relational databases</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='research' start='733775'>
+    <variant>researching</variant>
+  </canonskill>
+  <canonskill end='730853' experience='1' expidrefs='6' idrefs='6' lastused='2002' name='spreadsheets' start='729757'>
+    <variant>spreadsheets</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

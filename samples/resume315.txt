@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734593' xml:space='preserve'><contact><name><givenname>Alexandra</givenname> (<nickname>Ali</nickname>) <surname>Victoria</surname></name> Major
+<address lat='38.4425' lon='78.8731' majorcity='HARRISONBURG' state='VA'><street>325 South Liberty</street>, <city>Harrisonburg</city>, <state abbrev='VA'>VA</state>  <postalcode>22801</postalcode></address>                 <phone>(804) 349-4206</phone>                           <email>majorav@jmu.edu</email></contact>
+________
+
+<summary>Personal Statement                                                                                                                                          
+<objective>Third year college student with business and people skills seeking summer internship in human resource, communication or operations area.</objective></summary>
+
+<education>Education
+
+<school id='6'><institution>James Madison University</institution>
+Pursuing <degree level='16'>Bachelors of Science</degree> in <major code='0499'>Organizational Communication Studies</major> with a <major code='4201 4202'>Business Administration concentration and Human Resource Development</major> minor
+<honors>Dean's List, Honor Leadership Society</honors>, Cumulative GPA: <gpa max='4' value='3.2'>3.2</gpa>
+<description>Relevant Coursework: Financial and Managerial Accounting, Micro and Macro Economics, Business Interpersonal Skills, Business Statistics, Computer Information Systems, Business Law, Organizational Communications 
+Currently enrolled in: Introduction to Human Resource Development, Leadership in Organizational 
+Settings, Presentational Speaking</description></school></education>
+
+<experience end='present' start='732314'>Work Experience
+
+<job end='present' id='1' pos='1' start='734230'><title>Training Assistant</title>, <employer>CSS Consulting Inc</employer>.                                                                                               <daterange><start days='734230' iso8601='2011-04-01'>Summer 2011</start></daterange>
+<description>Provide administrative support before and during seminars</description></job>
+			
+<job end='733987' id='2' pos='2' start='733926'><title>Camp Counselor</title>, Henrico County		                                                                      <daterange><start days='733926' iso8601='2010-06-01'>June 2010</start>-<end days='733987' iso8601='2010-08-01'>August 2010</end></daterange>
+<description>Member of 5 person team responsible for 60 children (grades k-4)
+Organized and led daily planned activities
+Received &quot;Outstanding&quot; evaluation for performance and leadership</description></job> 
+
+<job end='733410' id='3' pos='3' start='732314'><title>Counter Sales and Cashier</title>, <employer>Squeeze Fresh Smoothies                                                        August</employer> <daterange><start days='732314' iso8601='2006-01-01'>2006</start>-<end days='733410' iso8601='2009-01-01'>2009</end></daterange>
+<description>Work after school and summers
+Played active role in launching this new company
+ Developed marketing strategies involving schools and community</description></job> 
+
+Leadership Experience
+
+<job id='4' sic='864107' sic2='86'><employer>Alpha Sigma Alpha Sorority</employer>, Beta Epsilon Chapter, <address><city>Harrisonburg</city>, <state abbrev='VA'>VA</state></address>    
+<title>Secretary</title>
+<description>Managed daily communication between the executive board and 160 chapter members
+Mediated conflict between members and the executive board regarding chapter policies</description></job>
+
+<job id='5' sic='832218' sic2='83'><employer>Big Brothers Big Sisters</employer>, <address><city>Harrisonburg</city>, <state abbrev='VA'>VA</state></address>
+<title>Project Coordinator</title>
+<description>Event Planner for Bike for Kids' Sake Fundraiser
+Contributions: booked site, solicited donations, planned children activities, secured live band, recruited volunteers, and designed advertising materials
+Raised over $6000</description></job></experience>
+	
+<professional>Skills/Professional Affiliations
+<description>SharePoint:  collaborative shareware simplifying electronic information sharing
+Prezi:  cloud based presentation software-a mix between a white board and power point slides using a zoomable canvas
+Member of ASTD and SHRM</description></professional>
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='administrative support' start='734230'>
+    <variant>administrative support</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='5' idrefs='5' name='advertising'>
+    <variant>advertising</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='6' idrefs='6' name='business law'>
+    <variant>Business Law</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='6' idrefs='6' name='communication skills'>
+    <variant>Interpersonal Skills</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='6' idrefs='6' name='economics'>
+    <variant>Economics</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='5' idrefs='5' name='event management'>
+    <variant>Event Planner</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='6' idrefs='6' name='financial'>
+    <variant>Financial</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='6' idrefs='6' name='human resources'>
+    <variant>Human Resource</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='6' idrefs='6' name='information systems'>
+    <variant>Information Systems</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='6' end='733987' experience='1' expidrefs='2' idrefs='6,2' lastused='2010' name='leadership' start='733926'>
+    <variant>Leadership</variant>
+    <variant>leadership</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='6' idrefs='6' name='managerial accounting'>
+    <variant>Managerial Accounting</variant>
+  </canonskill>
+  <canonskill end='733410' experience='1' expidrefs='3' idrefs='3' lastused='2009' name='market planning' start='732314'>
+    <variant>marketing strategies</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='5' idrefs='5' name='materials management'>
+    <variant>materials</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='6' idrefs='6' name='organizational skills'>
+    <variant>Organizational</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='4' idrefs='4' name='policy analysis'>
+    <variant>policies</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='6' idrefs='6' name='public speaking'>
+    <variant>Speaking</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='seminars' start='734230'>
+    <variant>seminars</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='6' idrefs='6' name='statistics'>
+    <variant>Statistics</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

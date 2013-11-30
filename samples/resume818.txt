@@ -1,0 +1,195 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734597' xml:space='preserve'><contact><name><givenname>Mary</givenname> <givenname>Ann</givenname> <surname>Pitts</surname></name>
+<address><street>3673 Field Lark</street></address>  									<email>Marypitts10@gmail.com</email> 
+<address lat='35.05' lon='90.0686' majorcity='MEMPHIS' state='TN'><city>Memphis</city>, <state abbrev='TN'>TN</state> <postalcode>38109</postalcode></address>    									<phone>(901) 336-0330</phone></contact>
+
+<summary>Profile
+<summary>IT Professional with over three years of experience in the computer industry as a WAN and LAN technical specialist, data communications analyst and support representative. My background includes user support, systems installation, repair, maintenance troubleshooting and problem resolution, and installation of structured wiring systems. I have excellent written and oral customer service skills and work well under tight deadlines.</summary></summary>
+
+<skills>Skills                                Installation, Configuration and Troubleshooting
+<skills>Network
+TCP/IP, IPX/SPX					Remote Access
+Routers							VPN Remote Access
+Domain Registration					WAN/LAN technical specialist
+Hardware
+Dell 6300 Series 6015, 8560, 6400			Kronos Time Clock
+PC Hardware				                 	Honeywell Scanner
+Dell Latitude, Inspiron					RF Gun
+Xerox Printer                                                                  Laptop Dell, Novell Thinkpad
+Zebra Printer                                                                 	Ncomputer, L300, Neowear
+Software
+Remedy Help Desk					Windows XP, Vista and 7
+Windows 2000 Pro and Server                                       	Hyperion Essbase
+Clarify CRM              					SAP
+AS 400							Microsoft Office, 2003, 2007 &amp; 2010
+IBM Mainframe                                                               	Oracle
+
+               Job Responsibilities
+Enterprise System Purchasing				End User Support
+Network Support &amp; Security				Office Relocation
+User Help Documentation				System Documentation
+IS Planning, Design and Implementation			Excellent Oral, Written &amp; Interpersonal Skills
+Data entry/typing skills</skills></skills>
+
+<education>Certifications						      Education
+<school id='4'><degree>MCITP</degree>, <completiondate days='733775' iso8601='2010-01-01'>2010</completiondate>						       <institution>University of Phoenix</institution>, <address><city>Memphis</city>, <state abbrev='TN'>TN</state></address> (<completiondate>2013</completiondate>)
+National Career Readiness Certificate, <address><city>Memphis</city>, <state abbrev='TN'>TN</state></address> (<completiondate days='733775' iso8601='2010-01-01'>2010</completiondate>)   <degree level='16' name='Bachelor of Science'>B.S</degree>., <degree level='16' name='Bachelor of Science'>Bachelor of Science</degree> <major code='1699'>Information Technology</major>
+A+ Certification (<completiondate>Fall 2012</completiondate>)				        Minor: <minor code='9407'>Software Engineering</minor>                   GPA: <gpa max='4' value='3'>3.0</gpa></school>
+<school id='5'><institution>Lab Four Career Institute</institution>, <address><city>Memphis</city>, <state abbrev='TN'>TN</state></address>
+<courses>Enterprise Support Technical (2010)</courses></school></education>
+
+<experience end='present' start='733865'>Job History
+<job end='734565' id='1' pos='2' sic='7363' sic2='73' start='734321'><title>Computer Technician</title>
+<employer>Native Staffing @ Nike</employer>, <address><city>Memphis</city>, <state abbrev='TN'>TN</state></address>                                                                        <daterange><start days='734321' iso8601='2011-07-01'>July 2011</start>- <end days='734565' iso8601='2012-03-01'>March2012</end></daterange>
+<description>Provided Technical Support for entire organization
+Fixed and reinstalled software
+Configured and installed IBM servers</description></job>
+
+<job end='734565' id='2' pos='3' sic='7363' sic2='73' start='734321'><title>Computer Technician</title>
+<employer>Native Staffing @ Horseshoe</employer>, <address><city>Memphis</city>, <state abbrev='TN'>TN</state></address>                                                              <daterange><start days='734321' iso8601='2011-07-01'>July 2011</start>-<end days='734565' iso8601='2012-03-01'>March 2012</end></daterange>
+<description>Refurbished laptops, desk stations, and various computer components
+Managed security and troubleshooting
+Restructured and improved desktop configuration</description></job>
+
+<job end='present' id='3' pos='1' start='733865'><title>Enterprise Support Technician</title>
+<employer>Mary's Solutions</employer>, <address><city>Memphis</city>, <state abbrev='TN'>TN</state></address>                                                                                 <daterange><start days='733865' iso8601='2010-04-01'>April 2010</start>- <end days='present' iso8601='2012-04-02'>Present</end></daterange>
+<description>Repaired and upgraded hardware and software PC systems
+Developed and trained users in proper operating procedures of hardware and software</description></job></experience>
+</resume>
+
+<skillrollup version='1'>
+  <canonskill name='as/400'>
+    <variant>AS 400</variant>
+  </canonskill>
+  <canonskill name='clarify'>
+    <variant>Clarify</variant>
+  </canonskill>
+  <canonskill name='communication skills'>
+    <variant>Excellent Oral</variant>
+    <variant>Interpersonal Skills</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='3' idrefs='3' lastused='2012' name='computer hardware' start='733865'>
+    <variant>Hardware</variant>
+    <variant>hardware</variant>
+  </canonskill>
+  <canonskill name='crm'>
+    <variant>CRM</variant>
+  </canonskill>
+  <canonskill name='data entry'>
+    <variant>Data entry</variant>
+  </canonskill>
+  <canonskill name='dell computers'>
+    <variant>Dell</variant>
+  </canonskill>
+  <canonskill name='documentation'>
+    <variant>Documentation</variant>
+  </canonskill>
+  <canonskill name='essbase'>
+    <variant>Essbase</variant>
+  </canonskill>
+  <canonskill name='help desk support'>
+    <variant>Help Desk</variant>
+  </canonskill>
+  <canonskill name='hyperion'>
+    <variant>Hyperion</variant>
+  </canonskill>
+  <canonskill name='ibm mainframe'>
+    <variant>IBM Mainframe</variant>
+  </canonskill>
+  <canonskill end='734565' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='ibm servers' start='734321'>
+    <variant>IBM servers</variant>
+  </canonskill>
+  <canonskill name='ipx/spx'>
+    <variant>IPX/SPX</variant>
+  </canonskill>
+  <canonskill name='kronos'>
+    <variant>Kronos</variant>
+  </canonskill>
+  <canonskill name='lan'>
+    <variant>LAN</variant>
+  </canonskill>
+  <canonskill end='734565' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='laptop computers' start='734321'>
+    <variant>laptops</variant>
+  </canonskill>
+  <canonskill name='microsoft access'>
+    <variant>Access</variant>
+  </canonskill>
+  <canonskill name='microsoft office'>
+    <variant>Microsoft Office</variant>
+    <variant>Office</variant>
+  </canonskill>
+  <canonskill name='microsoft windows xp'>
+    <variant>Windows XP</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='5' idrefs='5' name='netscape enterprise server'>
+    <variant>Enterprise</variant>
+  </canonskill>
+  <canonskill name='network security'>
+    <variant>Network Support &amp; Security</variant>
+  </canonskill>
+  <canonskill name='networking'>
+    <variant>Network</variant>
+  </canonskill>
+  <canonskill name='novell'>
+    <variant>Novell</variant>
+  </canonskill>
+  <canonskill name='oracle'>
+    <variant>Oracle</variant>
+  </canonskill>
+  <canonskill name='pc hardware'>
+    <variant>PC Hardware</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='3' idrefs='3' lastused='2012' name='pc systems' start='733865'>
+    <variant>PC systems</variant>
+  </canonskill>
+  <canonskill name='printers'>
+    <variant>Printer</variant>
+  </canonskill>
+  <canonskill name='purchasing'>
+    <variant>Purchasing</variant>
+  </canonskill>
+  <canonskill name='routers'>
+    <variant>Routers</variant>
+  </canonskill>
+  <canonskill name='sap'>
+    <variant>SAP</variant>
+  </canonskill>
+  <canonskill name='scanners'>
+    <variant>Scanner</variant>
+  </canonskill>
+  <canonskill name='system documentation'>
+    <variant>System Documentation</variant>
+  </canonskill>
+  <canonskill name='tcp/ip'>
+    <variant>TCP/IP</variant>
+  </canonskill>
+  <canonskill end='734565' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='technical support' start='734321'>
+    <variant>User Support</variant>
+    <variant>Technical Support</variant>
+  </canonskill>
+  <canonskill end='734565' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='troubleshooting' start='734321'>
+    <variant>Troubleshooting</variant>
+    <variant>troubleshooting</variant>
+  </canonskill>
+  <canonskill name='typing'>
+    <variant>typing skills</variant>
+  </canonskill>
+  <canonskill name='vista'>
+    <variant>Vista</variant>
+  </canonskill>
+  <canonskill name='vpn'>
+    <variant>VPN</variant>
+  </canonskill>
+  <canonskill name='wan'>
+    <variant>WAN</variant>
+  </canonskill>
+  <canonskill name='windows 2000 professional'>
+    <variant>Windows 2000 Pro</variant>
+  </canonskill>
+  <canonskill name='writing'>
+    <variant>Written</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

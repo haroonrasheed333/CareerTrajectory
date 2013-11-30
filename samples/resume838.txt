@@ -1,0 +1,235 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734597' xml:space='preserve'><contact><name><givenname>RICK</givenname> <givenname>B</givenname>. <surname>SMITH</surname></name>	Direct Line <phone>(949) 375-5086</phone>  
+	<email>rbsdeveloper@yahoo.com</email> - <address><city>Orange County</city>, <state abbrev='CA'>CA</state></address>
+
+</contact><summary>SUMMARY
+
+C# Software Developer/Programmer with extensive experience in performing all phases of a formal Software Development Life Cycle (SDLC) process.</summary>  
+
+<skills>TECHNICAL SKILLS
+Programming Languages: 
+<skills>C#, SQL, HTML, XML, CSS, Javascript, and previous experience in Visual Basic, and Java
+
+.NET Skill Set:
+.NET Framework 4.0 and Common Type System, ASP.NET, Silverlight, AJAX, XAML, WCF, LINQ, .NET Class Libraries, Web Services
+
+Databases: 
+MS SQL Server 2008, 2005, 2000, 7.0, 6.5, and 6.0; MS Access 2010, 2000, 97, and 2.0; dBase V, IV, III+, and III; Btrieve; and Lotus Approach Millennium Edition.
+
+Software: 
+Visual Studio 2010, 6.0, and 97; Visual Basic for Applications (VBA); MS Office 2010, XP, 2000, 97, and 2.0; MS Visio; and Crystal Reports.
+
+.Net Master's Program	10/2011-12/2011</skills></skills>
+<contact><name><givenname>SetFocus</givenname>, <surname>LLC</surname></name> - <website>www.setfocus.com</website></contact> 
+
+<summary><summary>The SetFocus .Net Master's Program is an intensive, hands-on, project oriented program where participants add knowledge of and valuable experience putting the .Net skill set to use in a simulated work environment.
+Developed solutions for diverse programming scenarios in C#, employing object-oriented programming concepts: encapsulation, inheritance, polymorphism, and abstraction.</summary></summary>  
+<experience end='present' start='729816'><job end='present' id='1' pos='1' start='733775'><description>Used C# and LINQ to define and implement secure middle-tier components using connected and disconnected environment strategies.  Components consumed by web applications and windows applications utilizing SQL Server to perform logical business transactions.  
+Created and deployed XML Web Services using ASP.NET and Windows Communication Foundation (WCF).  Consumed Web Services from ASP.NET web applications. 
+Created business components in C# using .NET Class Library assemblies while migrating and implementing in a multi-tier environment suitable for XML Web Services and WCF Services to address application infrastructure issues associated with building scalable enterprise level applications used by clients. 
+Developed ASP.NET n-tiered &quot;Public Library Management System&quot; application leveraging the same secure middle tier data access components.  Non-public web pages secured using ASP.NET forms security models.</description> 
+
+PROFESSIONAL EXPERIENCE
+
+<jobtype>Independent</jobtype> <title>Contractor</title>	<daterange><start days='733775' iso8601='2010-01-01'>01/2010</start> - <end days='present' iso8601='2012-04-02'>Present</end></daterange>
+<employer>E-Manage Telco</employer>, <address lat='40.5884' lon='-73.656' majorcity='LONG BEACH' state='NY'><city>Long Beach</city>, <state abbrev='CA'>CA</state></address> 
+
+<description>Converted dBase files and programs created in Lotus Approach files into Microsoft Access databases and files.
+ 
+Eliminated all data import mismatch errors by properly identifying the correct matching fields; reduced data corruption increasing data accuracy by 75%.
+Increased Microsoft Access application reliability reducing setup problems by 95% by creating external table refresh routine to run on startup.
+Reduced data transposition issues, technical support requirements, and down time by 35% by designing and coding Microsoft Access application migrated from legacy &quot;Lotus Approach&quot;.
+By eliminating all data import mismatch errors and increasing software installation reliability user confidence increased and Microsoft Access was accepted as an upgrade product.</description></job> 
+
+
+<job end='733956' id='2' naics='62151106' naics2='62' pos='2' sic='807101' sic2='80' start='731096'><title>Programmer Analyst</title>	<daterange><start days='731096' iso8601='2002-09-01'>09/2002</start> - <end days='733956' iso8601='2010-07-01'>07/2010</end></daterange>
+<employer>Quest Diagnostics</employer>, <address><city>San Juan Capistrano</city>, <state abbrev='CA'>CA</state></address> 
+
+<description>Developed system of programs that acquired data from medical instruments that facilitated the user to review, edit, and post results to a laboratory information system (LIS).
+ 
+Eliminated all accession mismatch errors in test samples by a newly designed and coded Dynex DSX Plate Reader Interface; reduced test result turn-around time in laboratory by 75%.   
+Enhanced and tested Stago STA-R Interface with traceability matrix; increased test result accuracy by 99%.  
+Coded and tested new Serial Olympus Interface with traceability matrix; reduced software support by 90%.
+Reduced cross training of developers by 50% by writing programmers guide and reusable SQL coding scripts for True Reflex Reporting.
+Cultivated relationships between lab super user and PC Support Group; reduced Dynex DSX Interface support by 90%.</description></job>
+
+<job end='730761' id='3' naics='56133001' naics2='56' pos='3' start='729816'><title>Programmer</title>	<daterange><start days='729816' iso8601='1999-03-01'>03/1999</start> - <end days='730761' iso8601='2001-10-01'>10/2001</end></daterange>
+<employer>Spherion</employer>, <address><city>Irvine</city>, <state abbrev='CA'>CA</state></address>
+
+<description>Developed Dealer Communication Software (DCS) for American Honda Motor Corporation to be distributed to their dealerships.
+
+Designed and created Access Multiple Databases Upgrade Utility; reduced database repair turn-around time to dealerships by 75%.  
+Created Communications Test utility; automated entire communications testing process.
+Redesigned and setup network in testing lab; reduced multiple platform bugs by 30%.
+Wrote new developer orientation guide; reduced training time by 35%.
+Cultivated relationships with PC Support staff and solicited their help in improving the testing lab; increased efficiency of testing software in the test lab by 75%.</description></job></experience>
+<education>EDUCATION
+<school id='4'><degree level='16' name='Bachelor of Science'>Bachelor of Science</degree> in <major code='0402'>Computer Science</major>, <institution>Coleman University</institution>, <address><city>San Diego</city>, <state abbrev='CA'>CA</state></address></school>	
+
+<school id='5'><degree level='16' name='Bachelor of Arts'>Bachelor of Arts</degree> in <major code='2102'>Sociology</major>,  <institution>Vanguard University Of Southern California</institution>, <address><city>Costa Mesa</city>, <state abbrev='CA'>CA</state></address>	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<description>Rick B. Smith resume    - 1 | Page</description></school></education>
+</resume>
+
+<skillrollup version='1'>
+  <canonskill experience='1' name='.net'>
+    <variant>.NET</variant>
+    <variant>.Net</variant>
+    <variant>ASP.NET</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='approach' start='733775'>
+    <variant>Lotus Approach</variant>
+  </canonskill>
+  <canonskill name='btrieve'>
+    <variant>Btrieve</variant>
+  </canonskill>
+  <canonskill name='crystal reports'>
+    <variant>Crystal Reports</variant>
+  </canonskill>
+  <canonskill name='css'>
+    <variant>CSS</variant>
+  </canonskill>
+  <canonskill experience='1' name='customer relations'>
+    <variant>clients</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,3' idrefs='1,3' lastused='2012' name='database administration' start='729816'>
+    <variant>Databases</variant>
+    <variant>databases</variant>
+    <variant>database</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='dbase' start='733775'>
+    <variant>dBase</variant>
+    <variant>dBase V</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='design' start='733775'>
+    <variant>designing</variant>
+  </canonskill>
+  <canonskill end='733956' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='editing' start='731096'>
+    <variant>edit</variant>
+  </canonskill>
+  <canonskill experience='1' name='forms'>
+    <variant>forms</variant>
+  </canonskill>
+  <canonskill name='html'>
+    <variant>HTML</variant>
+  </canonskill>
+  <canonskill name='java'>
+    <variant>Java</variant>
+  </canonskill>
+  <canonskill name='javascript'>
+    <variant>Javascript</variant>
+  </canonskill>
+  <canonskill name='languages'>
+    <variant>Languages</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,3' idrefs='1,3' lastused='2012' name='microsoft access' start='729816'>
+    <variant>Access</variant>
+    <variant>access</variant>
+    <variant>Microsoft Access</variant>
+    <variant>MS Access</variant>
+  </canonskill>
+  <canonskill experience='1' name='microsoft c #'>
+    <variant>C#</variant>
+  </canonskill>
+  <canonskill name='microsoft office'>
+    <variant>MS Office</variant>
+  </canonskill>
+  <canonskill name='microsoft office 98'>
+    <variant>97</variant>
+  </canonskill>
+  <canonskill experience='1' name='microsoft windows'>
+    <variant>Windows</variant>
+    <variant>windows applications</variant>
+  </canonskill>
+  <canonskill name='microsoft windows 2000'>
+    <variant>2000</variant>
+  </canonskill>
+  <canonskill name='millennium'>
+    <variant>Millennium</variant>
+  </canonskill>
+  <canonskill experience='1' name='netscape enterprise server'>
+    <variant>enterprise</variant>
+  </canonskill>
+  <canonskill end='730761' experience='1' expidrefs='3' idrefs='3' lastused='2001' name='networking' start='729816'>
+    <variant>network</variant>
+  </canonskill>
+  <canonskill end='730761' experience='1' expidrefs='3' idrefs='3' lastused='2001' name='oracle developer 2000' start='729816'>
+    <variant>developer</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='5' idrefs='5' name='page'>
+    <variant>Page</variant>
+  </canonskill>
+  <canonskill end='733956' experience='1' expidrefs='2,3' idrefs='2,3' lastused='2010' name='pc support' start='729816'>
+    <variant>PC Support</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='programming' start='731096'>
+    <variant>coding</variant>
+    <variant>Programming</variant>
+  </canonskill>
+  <canonskill end='733956' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='reports' start='731096'>
+    <variant>Reporting</variant>
+  </canonskill>
+  <canonskill end='733956' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='shell scripting' start='731096'>
+    <variant>scripts</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='software installation' start='733775'>
+    <variant>software installation</variant>
+  </canonskill>
+  <canonskill end='733956' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='sql' start='731096'>
+    <variant>MS SQL Server</variant>
+    <variant>SQL Server</variant>
+    <variant>SQL</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='technical support' start='731096'>
+    <variant>technical support</variant>
+    <variant>software support</variant>
+  </canonskill>
+  <canonskill name='typing'>
+    <variant>Type</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,3' idrefs='1,3' lastused='2012' name='upgrades' start='729816'>
+    <variant>Upgrade</variant>
+    <variant>upgrade</variant>
+  </canonskill>
+  <canonskill name='vba'>
+    <variant>VBA</variant>
+  </canonskill>
+  <canonskill name='visio'>
+    <variant>Visio</variant>
+  </canonskill>
+  <canonskill name='visual basic'>
+    <variant>Visual Basic</variant>
+    <variant>Visual Basic for Applications</variant>
+  </canonskill>
+  <canonskill name='visual studio'>
+    <variant>Visual Studio</variant>
+  </canonskill>
+  <canonskill experience='1' name='web application development'>
+    <variant>web applications</variant>
+  </canonskill>
+  <canonskill experience='1' name='web site production'>
+    <variant>web pages</variant>
+  </canonskill>
+  <canonskill experience='1' name='xml'>
+    <variant>XML</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

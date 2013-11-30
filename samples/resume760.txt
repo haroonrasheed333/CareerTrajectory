@@ -1,0 +1,160 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734596' xml:space='preserve'> <contact><name><givenname>Brandon</givenname> <surname>Bassett</surname></name>
+<address lat='40.6628' lon='78.7822' majorcity='NORTHERN CAMBRIA' state='PA'><street>203 Alverda Road</street>
+<city>Northern Cambria</city>, <state abbrev='PA'>PA</state> <postalcode>15714</postalcode></address>
+Phone: (724)-<phone>541-2889</phone>
+Email: <email>Brandon.j.bassett@gmail.com</email></contact>
+<summary>OBJECTIVE	
+
+
+
+<objective>To obtain a challenging position where I can apply my economics background and job experience to the benefit of my employer.</objective></summary>	
+
+<experience end='present' start='730853'>EXPERIENCE	
+
+
+
+2011(<job end='present' id='1' sic='518101' sic2='51'><daterange><start>January</start>)-<end days='present' iso8601='2012-04-01'>present</end></daterange>   <employer>Holiday Beverage</employer>
+<address>Indiana, <state abbrev='PA'>PA</state></address>
+<description>Ensure accuracy of incoming/outgoing orders
+Create daily inventory reports and make adjustments in computer terminal
+Produce sales reports and update history files on a daily basis
+Guarantee customer satisfaction by providing product details and specifications
+Coordinate logistics for product deliveries
+Take and receive wholesale orders/payments</description></job>
+
+<job end='734140' id='2' pos='1' start='733410'><daterange><start days='733410' iso8601='2009-01-01'>2009</start> (<end>April</end>) - <end days='734140' iso8601='2011-01-01'>2011</end></daterange>(<employer>December</employer>)       <employer>Pepsi Bottling Group</employer>       <address><city>Johnstown</city>, <state abbrev='PA'>PA</state></address> 
+<description>Ensure production lines run smoothly, meet schedule requirements and quality/efficiency goals 
+Troubleshoot and diagnose line malfunctions quickly and efficiently
+Report hour to hour line efficiencies and specific downtime descriptions
+Guarantee package/product quality by using quality control evaluation techniques and equipment
+Communicate operating information and concerns to interacting personnel/proceeding shifts
+Accurately complete all production paperwork data and report to management
+Participate in team meetings to evaluate and investigate ways to improve team performance/safety
+Perform line start-ups, flavor/package changeovers and shutdowns
+Build loads according to customer bills and loading templates
+Train and certify operators on production positions and associated paperwork / computer entry</description></job>
+
+<job end='733044' id='3' naics='61131009' naics2='61' pos='3' start='731583'><daterange><start days='731583' iso8601='2004-01-01'>2004</start>-<end days='733044' iso8601='2008-01-01'>2008</end></daterange>	<employer>Indiana University of Pennsylvania</employer> (<employer>IUP</employer>)	<address>Indiana, <state abbrev='PA'>PA</state></address>
+<description>Economics Major - Accomplishments
+Determine profit maximization/cost minimization prices and wages for firms
+Determine profit/loss for quarters of various companies
+Verify short- and long-run equilibrium prices for purely competitive markets
+Develop pricing strategies for various market types
+Execute regression formulas for companies
+Conclude demand/supply market forces</description></job>
+
+<job end='733410' id='4' pos='2' start='730853'><daterange><start days='730853' iso8601='2002-01-01'>2002</start>-<end days='733410' iso8601='2009-01-01'>2009</end></daterange>	<employer>Rogel Ice Company</employer>	<address><city>Northern Cambria</city>, <state abbrev='PA'>PA</state></address>
+<title>Records/Floor Manager</title>
+<description>Collect and process customer orders ensuring daily and weekly sales records are accurate 
+Examine customer ordering trends to accurately predict supply replenishment for future quarters
+Foster sound, amicable business relationships with customers by understanding and satisfying their needs and goals
+Rework truck routes to improve operational efficiency - recent adjustments led to a 20 percent savings in total fuel costs
+Train new workers and ensure efficient day-to-day operations of my team</description></job></experience>	
+
+
+
+
+
+
+
+<education>EDUCATION	
+
+
+
+<school id='5'><daterange><start days='731583' iso8601='2004-01-01'>2004</start>-<end days='733044' iso8601='2008-01-01'>2008</end></daterange>	<institution>Indiana University of Pennsylvania</institution>	<address>Indiana, <state abbrev='PA'>PA</state></address>
+<degree level='16' name='Bachelor of Arts'>Bachelor of Arts</degree> - <major code='1801'>Economics</major> 
+<honors>Magna cum laude</honors> <gpa max='4' value='3.5'>3.5</gpa></school> GPA</education>	
+
+<skills>SKILLS	
+
+
+
+<skills>Economic regression analysis
+Limedep (Economic software)
+Microsoft Office
+Certified Forklift operator</skills></skills>	
+
+<statements>HONORS	
+
+
+
+<honors>IUP Dean's List 2004-2008 (Each semester)
+Michael Whais Positive Outlook Award 2004</honors></statements> 	 	
+
+
+
+
+
+
+
+
+
+
+
+
+	
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='733044' experience='1' expidrefs='3' idrefs='3' lastused='2008' name='competitive' start='731583'>
+    <variant>competitive</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='customer satisfaction'>
+    <variant>customer satisfaction</variant>
+  </canonskill>
+  <canonskill end='733044' experience='1' expidrefs='3' idrefs='3' lastused='2008' name='economics' start='731583'>
+    <variant>Economics</variant>
+  </canonskill>
+  <canonskill name='forklift operator'>
+    <variant>Forklift operator</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='inventory management'>
+    <variant>inventory</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='logistics'>
+    <variant>logistics</variant>
+  </canonskill>
+  <canonskill end='733044' experience='1' expidrefs='3' idrefs='3' lastused='2008' name='marketing' start='731583'>
+    <variant>market</variant>
+  </canonskill>
+  <canonskill end='734140' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='meeting facilitation' start='733410'>
+    <variant>meetings</variant>
+  </canonskill>
+  <canonskill name='microsoft office'>
+    <variant>Microsoft Office</variant>
+  </canonskill>
+  <canonskill end='734140' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='personnel' start='733410'>
+    <variant>personnel</variant>
+  </canonskill>
+  <canonskill end='733410' experience='1' expidrefs='4' idrefs='4' lastused='2009' name='predict' start='730853'>
+    <variant>predict</variant>
+  </canonskill>
+  <canonskill end='733044' experience='1' expidrefs='3' idrefs='3' lastused='2008' name='pricing' start='731583'>
+    <variant>pricing</variant>
+  </canonskill>
+  <canonskill end='733044' experience='1' expidrefs='3' idrefs='3' lastused='2008' name='profit' start='731583'>
+    <variant>profit</variant>
+  </canonskill>
+  <canonskill end='734140' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='quality' start='733410'>
+    <variant>quality</variant>
+  </canonskill>
+  <canonskill end='734140' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='quality control' start='733410'>
+    <variant>quality control</variant>
+  </canonskill>
+  <canonskill end='734140' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='safety' start='733410'>
+    <variant>safety</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,4' idrefs='1,4' lastused='2012' name='sales' start='730853'>
+    <variant>sales</variant>
+  </canonskill>
+  <canonskill end='733410' experience='1' expidrefs='4' idrefs='4' lastused='2009' name='sound' start='730853'>
+    <variant>sound</variant>
+  </canonskill>
+  <canonskill end='734140' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='troubleshooting' start='733410'>
+    <variant>Troubleshoot</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

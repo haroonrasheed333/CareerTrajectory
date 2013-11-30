@@ -1,0 +1,369 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734594' xml:space='preserve'><contact><name><givenname>JEFFREY</givenname> <givenname>BRIAN</givenname> <surname>CURRIER</surname></name>
+<address lat='29.7352' lon='95.4164' majorcity='HOUSTON' state='TX'><street>2315 Bartlett</street>
+<city>HOUSTON</city>, <state abbrev='TX'>TEXAS</state> <postalcode>77098</postalcode></address>
+PH: <phone>713-503-9833</phone>
+EMAIL: <email>jcurrier@gmail.com</email></contact>
+
+
+<summary>Objective	<objective>An opportunity to use my technical experience and people skills to positively impact my employer and fellow employees.</objective>	
+
+Professional Profile	Proven experience in Information Technology and customer service.  Highly organized, self-motivated, creative, visionary problem solver with attention to detail, a spirit for learning and excellent communications skills; a team player who is focused and driven.</summary>	
+
+<experience end='present' start='728661'>Employment
+<job end='present' id='1' pos='1' sic='871111' sic2='87' start='733561'><daterange><start days='733561' iso8601='2009-06-01'>June 2009</start> - <end days='present' iso8601='2012-03-30'>Present</end></daterange>	<employer>Audubon Engineering, Inc</employer> - <address><city>Houston</city>, <state abbrev='TX'>Texas</state></address>
+<title>Systems Manager</title> 
+<description>Manager for all desktop, server and SAN systems for enterprise consisting of 120 servers, 800 workstations and 50 terabytes of data at 12 locations.
+Manage 12 employees including the Service Desk Manager and Server Manager.
+Oversaw migration from Exchange 2003 to 2010.
+Oversaw Compellent SAN installation.
+Implemented Veeam backup solution.
+Developed disaster recovery plan in conjunction with IT Director.	
+
+
+
+Virtualization leader for enterprise. Designed VMware vSphere environment.  Converted 100% physical environment to one that is 99% virtualized.
+Led migration from Active Directory 2003 to 2008.
+Manage Compellent and Equallogic SAN infrastructure.
+Cleaned up Active Directory issues by establishing new server and workstation naming conventions, organizing OUs, fixing GPOs, reducing redundancies and redefining distribution lists and security groups.
+Implemented Microsoft Forefront Online Protection</description></job>   	
+
+<job end='733410' id='2' pos='3' start='731583'><daterange><start days='731583' iso8601='2004-01-01'>2004</start> - <end days='733410' iso8601='2009-01-01'>2009</end></daterange>
+<employer>May - March	EDG, Inc</employer> - <address><city>Houston</city>, <state abbrev='TX'>Texas</state></address></job>
+<job end='733469' id='3' pos='2' start='733288'><title>Systems Administrator</title>, <employer>Foreign Offices</employer> - <daterange><start days='733288' iso8601='2008-09-01'>September 2008</start>-<end days='733469' iso8601='2009-03-01'>March 2009</end></daterange>
+<description>Integral IT team member providing support for EDG India, Angola and Houston offices in addition to special projects. 
+Designed, developed and implemented international office infrastructure systems for EDG Inc. supporting oilfield projects in India and Angola.
+Designed and implemented connectivity for remote locations - overcame extreme latencies while providing reliable data delivery and Quality of Service for Voice over IP telephony.
+Implemented WAN acceleration for international offices exponentially increasing data rates across high-cost circuits - performance yields up to 15 times.</description></job>
+<job id='4'><title>Mobility Leader</title> - <description>Ready to deploy across the globe to get the job done!
+Deployed to remote locations to set up complete network infrastructures including Active Directory Domains, Child Domains, Firewalls, file and print servers, VOIP, redundant storage arrays and back-up systems.</description></job>
+<job end='733288' id='5' pos='4' start='733044'><title>IT / Document Control Coordinator</title> - <description>audited and managed access control lists across enterprise-wide Windows 2003 file servers with over 7 Terabytes of critical job data
+Managed all satellite communications accounts including contract negotiations with foreign providers and licensing agencies.
+High Definition Survey Team</description> - <daterange><start days='733044' iso8601='2008-01-01'>January 2008</start>-<end days='733288' iso8601='2008-09-01'>September 2008</end></daterange>
+<description>Provided scanning, surveying, software and hardware support for HDS team.
+Scanned and surveyed multiple onshore/offshore projects.
+Specified and configured new storage infrastructure for HDS Department including file server with storage array and tape library.
+Implemented Cyclone Enterprise License Manager.
+Traveled to Pune India to troubleshoot LAN, VPN and PDMS Global License Manager issues.</description></job>
+
+<job end='733013' id='6' pos='5' start='732679'><title>IT Supervisor</title> - <daterange><start days='732679' iso8601='2007-01-01'>January 2007</start>-<end days='733013' iso8601='2007-12-01'>December 2007</end></daterange>
+<description>EDG Projectos Angola, Lda - Luanda, Angola
+Fulfilled one-year contract to develop, direct and manage all aspects of Information Technology infrastructure for multi-million dollar oil and gas engineering firm.
+Developed and published needs assessment for new local area networking infrastructure for EDG office in Luanda, Angola.
+Cultivated relationships with hardware and software vendors in Angola.  Specified, procured, installed and configured new LAN infrastructure from ground up including fileservers, domain controllers (DNS, DHCP, WINS), print servers, front end and back end Exchange servers, ISA server, redundant storage arrays, backup and antivirus solutions.
+Migrated domain to new internal and external namespaces.
+Developed and enforced corporate desktop, Internet and email policies and procedures.
+Managed software / hardware inventories and repairs to every network attached device.
+Hired, trained and provided supervision to Angolan and expatriate assistants.</description></job>
+<job end='732679' id='7' pos='6' sic='824301' sic2='82' start='731704'><title>Systems Administrator</title> - <daterange><start days='731704' iso8601='2004-05-01'>May 2004</start>-<end days='732679' iso8601='2007-01-01'>January 2007</end></daterange>
+<employer>EDG, Inc</employer>. - <address><city>Houston</city>, <state abbrev='TX'>Texas</state></address>
+<description>Managed help desk for EDG, Inc offices in Houston, Texas and Columbus, Ohio.
+Managed help desk for 200-user, 12 server LAN including Windows 2003 Active Directory administration, Exchange 2003, Blackberry Server, Blackberry handhelds, backup and antivirus solutions.  Coordinated with other administrators across corporate WAN.
+Maintained software / hardware inventories and repairs to all desktops, laptops.
+Directed new cabling and infrastructure build-outs.
+Administered Avaya Definity PBX
+Traveled to Columbus, Ohio to set up site to site VPN connection and LAN infrastructure for new satellite office.  Provided both on site and remote administration to Columbus office.  
+Traveled to Luanda, Angola office to perform needs assessment. Evaluated and published IT infrastructure requirements for EDG Projectos Angola.</description></job>	
+
+<job end='731583' id='8' pos='7' sic='874201' sic2='87' start='731218'><daterange><start days='731218' iso8601='2003-01-01'>2003</start> - <end days='731583' iso8601='2004-01-01'>2004</end></daterange>
+<employer>September - January	Edge Networks</employer> - <address><city>Houston</city>, <state abbrev='TX'>Texas</state></address>
+<title>Operations Coordinator</title> 
+<description>Managed the activities of technical personnel for an IT integration firm. 
+Scheduled and directed the activities of field technicians
+Priced and specified equipment for bidding purposes.
+Designed and managed the installation of new LAN and telephone systems.
+Established relationships with new clients and managed existing client accounts.
+Worked closely with sales and software development staff to develop new client relationships by leveraging emerging hardware and software technologies.</description></job>
+
+
+
+
+
+
+<job end='731218' id='9' pos='8' sic='871111' sic2='87' start='728661'><daterange><start days='728661' iso8601='1996-01-01'>1996</start> -<end days='731218' iso8601='2003-01-01'>2003</end></daterange>
+<title>October - September</title>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<employer>Excel Engineering</employer> - <address><city>Houston</city>, <state abbrev='TX'>Texas</state></address></job>
+<job id='10'><title>Systems Administrator</title>
+<description>Managed wide range of daily operations and special projects for multi-million dollar oil and gas engineering firm.
+Managed all aspects of a 125-user, LAN infrastructure including Novell 4.11 administration, Windows 2000 Active Directory administration, backup and antivirus solutions, printers, plotters and repair of all network attached equipment.
+Conducted migration from Novell 4.11 to Windows 2000 network infrastructure.
+Managed software / hardware inventories and licensing
+Administered Avaya PBX.
+Implemented print tracking and billing solutions saving the company thousands of dollars, annually.
+Provided CAD administration support for AutoCAD versions 12, 13, 14 and 2000 including plotting, overlay software and all desktop configurations.
+Developed and enforced corporate desktop, Internet and email policies and procedures.
+Managed VPN solutions for satellite offices.
+Coordinated with architects, building management and contractors to oversee all aspects of an 11,000 square foot office expansion.
+Rendered graphics and provided direction for company marketing materials and website.</description></job></experience>	
+
+<education>Education
+
+
+<school id='11'><institution>Houston Community College</institution>
+<degree level='14' name='Associate of Science'>Associate of Science</degree>
+<courses>Leica FieldPro Course</courses>
+<completiondate days='733135' iso8601='2008-04-01'>April 2008</completiondate></school>
+<school id='12'><institution>University of Houston Downtown Campus</institution> 
+<courses>AutoCAD 2D Course</courses> - <completiondate days='733257' iso8601='2008-08-01'>August 2008</completiondate>
+<description>Global Knowledge
+VMware vSphere: Install, Configure, Manage [V4] - October 2009
+Configuring, Managing, and Maintaining Server 2008 R2</description> - <completiondate days='733895' iso8601='2010-05-01'>May 2010</completiondate></school>
+<courses>Configuring, Managing, and Troubleshooting Microsoft Exchange</courses> <daterange>Server <start days='733775' iso8601='2010-01-01'>2010</start> -  <end days='734048' iso8601='2010-10-01'>October 2010</end></daterange>
+<description>Dell Compellent Administration And Advanced Management Training</description> - <completiondate>April 2012</completiondate></education>
+
+
+
+
+<skills><skills>Competencies	Active Directory, Server 2003, Server 2008, Exchange 2003, Exchange 2008, Windows XP, Windows 7, VMWare 4.0, VMWare 5.0, VMWare vCenter, Dell Equallogic SAN, Dell Compellent SAN Veeam 6.0, TCP/IP, DFS, DNS, DHCP, LDAP, Symantec Backup Exec 2010, Symantec Antivirus, Scriptlogic Active Administrator, Scriptlogic File System Auditor, Forefront Antivirus, Forefront Online Protection</skills></skills>		
+
+
+
+
+
+
+
+
+
+
+
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='734579' experience='1' expidrefs='1,4,7,10' idrefs='1,4,7,10' lastused='2012' name='active directory' start='731704'>
+    <variant>Active Directory</variant>
+  </canonskill>
+  <canonskill end='733013' experience='1' expidrefs='6,7,10' idrefs='6,7,10' lastused='2007' name='anti virus' start='731704'>
+    <variant>Antivirus</variant>
+    <variant>antivirus</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='12' experience='1' expidrefs='10' idrefs='10,12' name='autocad'>
+    <variant>AutoCAD</variant>
+    <variant>AutoCAD 2</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='7,10' idrefs='7,10' lastused='2007' name='avaya' start='731704'>
+    <variant>Avaya</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,4,6,7,10' idrefs='1,4,6,7,10' lastused='2012' name='backup' start='731704'>
+    <variant>back-up</variant>
+    <variant>Backup Exec</variant>
+    <variant>backup</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='10' idrefs='10' name='billing'>
+    <variant>billing</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='7' idrefs='7' lastused='2007' name='cabling' start='731704'>
+    <variant>cabling</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='10' idrefs='10' name='cad'>
+    <variant>CAD</variant>
+  </canonskill>
+  <canonskill end='733013' experience='1' expidrefs='6,7,8,10' idrefs='6,7,8,10' lastused='2007' name='computer hardware' start='731218'>
+    <variant>hardware</variant>
+  </canonskill>
+  <canonskill end='733288' experience='1' expidrefs='5' idrefs='5' lastused='2008' name='contract management' start='733044'>
+    <variant>contract negotiations</variant>
+  </canonskill>
+  <canonskill end='731583' experience='1' expidrefs='8' idrefs='8' lastused='2004' name='customer relations' start='731218'>
+    <variant>client</variant>
+    <variant>clients</variant>
+  </canonskill>
+  <canonskill end='733469' experience='1' expidrefs='3' idrefs='3' lastused='2009' name='delivery' start='733288'>
+    <variant>delivery</variant>
+  </canonskill>
+  <canonskill education='1' name='dell computers'>
+    <variant>Dell</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='7' idrefs='7' lastused='2007' name='desktop pc' start='731704'>
+    <variant>desktops</variant>
+  </canonskill>
+  <canonskill end='733013' experience='1' expidrefs='6' idrefs='6' lastused='2007' name='dhcp' start='732679'>
+    <variant>DHCP</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='10' idrefs='10' name='directing'>
+    <variant>direction</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='disaster recovery planning' start='733561'>
+    <variant>disaster recovery</variant>
+  </canonskill>
+  <canonskill end='733013' experience='1' expidrefs='6' idrefs='6' lastused='2007' name='dns' start='732679'>
+    <variant>DNS</variant>
+  </canonskill>
+  <canonskill end='733013' experience='1' expidrefs='6,10' idrefs='6,10' lastused='2007' name='email' start='732679'>
+    <variant>email</variant>
+  </canonskill>
+  <canonskill end='733288' experience='1' expidrefs='5' idrefs='5' lastused='2008' name='file servers' start='733044'>
+    <variant>file servers</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='4' idrefs='4' name='firewalls'>
+    <variant>Firewalls</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='10' idrefs='10' name='graphical user interface'>
+    <variant>graphics</variant>
+  </canonskill>
+  <canonskill end='733288' experience='1' expidrefs='5' idrefs='5' lastused='2008' name='hardware support' start='733044'>
+    <variant>hardware support</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='7' idrefs='7' lastused='2007' name='help desk support' start='731704'>
+    <variant>help desk</variant>
+  </canonskill>
+  <canonskill end='733013' experience='1' expidrefs='6' idrefs='6' lastused='2007' name='information technology' start='732679'>
+    <variant>Information Technology</variant>
+  </canonskill>
+  <canonskill end='733013' experience='1' expidrefs='6' idrefs='6' lastused='2007' name='isa' start='732679'>
+    <variant>ISA</variant>
+  </canonskill>
+  <canonskill end='733288' experience='1' expidrefs='5,6,7,8,10' idrefs='5,6,7,8,10' lastused='2008' name='lan' start='731218'>
+    <variant>local area networking</variant>
+    <variant>LAN</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='7' idrefs='7' lastused='2007' name='laptop computers' start='731704'>
+    <variant>laptops</variant>
+  </canonskill>
+  <canonskill name='ldap'>
+    <variant>LDAP</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='macromedia director' start='733561'>
+    <variant>Director</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='12' idrefs='12' name='management'>
+    <variant>Managing</variant>
+  </canonskill>
+  <canonskill education='1' name='management training'>
+    <variant>Management Training</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='10' idrefs='10' name='marketing materials'>
+    <variant>marketing materials</variant>
+  </canonskill>
+  <canonskill end='733288' experience='1' expidrefs='5' idrefs='5' lastused='2008' name='microsoft access' start='733044'>
+    <variant>access</variant>
+  </canonskill>
+  <canonskill education='1' end='734579' experience='1' expidrefs='1,6,7' idrefs='1,6,7' lastused='2012' name='microsoft exchange' start='731704'>
+    <variant>Exchange</variant>
+    <variant>Microsoft Exchange</variant>
+  </canonskill>
+  <canonskill end='733469' experience='1' expidrefs='3,6,7,10' idrefs='3,6,7,10' lastused='2009' name='microsoft office' start='731704'>
+    <variant>office</variant>
+  </canonskill>
+  <canonskill end='733288' experience='1' expidrefs='5,7' idrefs='5,7' lastused='2008' name='microsoft windows' start='731704'>
+    <variant>Windows 7</variant>
+    <variant>Windows</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='10' idrefs='10' name='microsoft windows 2000'>
+    <variant>Windows 2000</variant>
+    <variant>2000</variant>
+  </canonskill>
+  <canonskill name='microsoft windows xp'>
+    <variant>Windows XP</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,10' idrefs='1,10' lastused='2012' name='migration' start='733561'>
+    <variant>migration</variant>
+  </canonskill>
+  <canonskill end='733013' experience='1' expidrefs='6,7' idrefs='6,7' lastused='2007' name='needs analysis' start='731704'>
+    <variant>needs assessment</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,5' idrefs='1,5' lastused='2012' name='netscape enterprise server' start='733044'>
+    <variant>Enterprise</variant>
+    <variant>enterprise</variant>
+  </canonskill>
+  <canonskill end='733013' experience='1' expidrefs='4,6,10' idrefs='4,6,10' lastused='2007' name='networking' start='732679'>
+    <variant>network</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='10' idrefs='10' name='novell netware 4.11'>
+    <variant>Novell 4.11</variant>
+  </canonskill>
+  <canonskill end='733013' experience='1' expidrefs='6,10' idrefs='6,10' lastused='2007' name='oil painting' start='732679'>
+    <variant>oil</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='organizational skills' start='733561'>
+    <variant>organizing</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='7,10' idrefs='7,10' lastused='2007' name='pbx' start='731704'>
+    <variant>PBX</variant>
+  </canonskill>
+  <canonskill end='731583' experience='1' expidrefs='8' idrefs='8' lastused='2004' name='personnel' start='731218'>
+    <variant>personnel</variant>
+  </canonskill>
+  <canonskill end='731583' experience='1' expidrefs='8' idrefs='8' lastused='2004' name='phone systems' start='731218'>
+    <variant>telephone systems</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='10' idrefs='10' name='plotters'>
+    <variant>plotters</variant>
+  </canonskill>
+  <canonskill end='733013' experience='1' expidrefs='6,10' idrefs='6,10' lastused='2007' name='policy analysis' start='732679'>
+    <variant>policies</variant>
+  </canonskill>
+  <canonskill end='733013' experience='1' expidrefs='4,6' idrefs='4,6' lastused='2007' name='print servers' start='732679'>
+    <variant>print servers</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='10' idrefs='10' name='printers'>
+    <variant>printers</variant>
+  </canonskill>
+  <canonskill end='733469' experience='1' expidrefs='3' idrefs='3' lastused='2009' name='quality' start='733288'>
+    <variant>Quality</variant>
+  </canonskill>
+  <canonskill end='733013' experience='1' expidrefs='6,7' idrefs='6,7' lastused='2007' name='repair' start='731704'>
+    <variant>repairs</variant>
+  </canonskill>
+  <canonskill end='731583' experience='1' expidrefs='8' idrefs='8' lastused='2004' name='sales' start='731218'>
+    <variant>sales</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='san' start='733561'>
+    <variant>SAN</variant>
+  </canonskill>
+  <canonskill end='733288' experience='1' expidrefs='5' idrefs='5' lastused='2008' name='scanners' start='733044'>
+    <variant>scanning</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,6' idrefs='1,6' lastused='2012' name='servers' start='732679'>
+    <variant>servers</variant>
+  </canonskill>
+  <canonskill end='731583' experience='1' expidrefs='8' idrefs='8' lastused='2004' name='software development' start='731218'>
+    <variant>software development</variant>
+  </canonskill>
+  <canonskill end='733013' experience='1' expidrefs='6' idrefs='6' lastused='2007' name='supervisory skills' start='732679'>
+    <variant>supervision</variant>
+  </canonskill>
+  <canonskill name='symantec packages'>
+    <variant>Symantec</variant>
+  </canonskill>
+  <canonskill name='tcp/ip'>
+    <variant>TCP/IP</variant>
+  </canonskill>
+  <canonskill end='733469' experience='1' expidrefs='3' idrefs='3' lastused='2009' name='telephone skills' start='733288'>
+    <variant>telephony</variant>
+  </canonskill>
+  <canonskill education='1' end='733288' experience='1' expidrefs='5' idrefs='5' lastused='2008' name='troubleshooting' start='733044'>
+    <variant>troubleshoot</variant>
+    <variant>Troubleshooting</variant>
+  </canonskill>
+  <canonskill end='733469' experience='1' expidrefs='3,4' idrefs='3,4' lastused='2009' name='voip' start='733288'>
+    <variant>Voice over IP</variant>
+    <variant>VOIP</variant>
+  </canonskill>
+  <canonskill end='733288' experience='1' expidrefs='5,7,10' idrefs='5,7,10' lastused='2008' name='vpn' start='731704'>
+    <variant>VPN</variant>
+  </canonskill>
+  <canonskill end='733469' experience='1' expidrefs='3,7' idrefs='3,7' lastused='2009' name='wan' start='731704'>
+    <variant>WAN</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='10' idrefs='10' name='web site production'>
+    <variant>website</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

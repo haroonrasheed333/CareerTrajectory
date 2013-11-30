@@ -1,0 +1,110 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "VMP", 
+            "Certification Name": "Value Methodology Practitioner", 
+            "Type": "Core", 
+            "Certification ID": "1326", 
+            "Certifying Organization": "Society of American Value Engineers"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Microsoft Office Specialist (MOS): Microsoft Office PowerPoint 2007", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7390", 
+            "Certifying Organization": "Microsoft Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Microsoft Office Specialist (MOS): Microsoft Excel 2010 Expert", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7379", 
+            "Certifying Organization": "Microsoft Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Microsoft Office Specialist (MOS): Word 2007 Expert", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7387", 
+            "Certifying Organization": "Microsoft Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified EC-Council Instructor", 
+            "Type": "Advanced", 
+            "Certification ID": "6343", 
+            "Certifying Organization": "EC-Council"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "CBP Master Executive Business Management", 
+            "Type": "Advanced", 
+            "Certification ID": "8789", 
+            "Certifying Organization": "International Business Training Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Microsoft Office Specialist (MOS): Microsoft Word 2010 Expert", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7377", 
+            "Certifying Organization": "Microsoft Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Microsoft Office Specialist: Microsoft Office Excel 2007", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7388", 
+            "Certifying Organization": "Microsoft Corporation"
+        }, 
+        {
+            "Acronym": "DCMP", 
+            "Certification Name": "DMA Certified Marketing Professional", 
+            "Type": "Core", 
+            "Certification ID": "6138", 
+            "Certifying Organization": "Direct Marketing Association"
+        }, 
+        {
+            "Acronym": "MCRI", 
+            "Certification Name": "Master Certified Reporting Instructor", 
+            "Type": "Advanced", 
+            "Certification ID": "0335", 
+            "Certifying Organization": "National Court Reporters Association"
+        }, 
+        {
+            "Acronym": "CRI", 
+            "Certification Name": "Certified Reporting Instructor", 
+            "Type": "Core", 
+            "Certification ID": "0334", 
+            "Certifying Organization": "National Court Reporters Association"
+        }, 
+        {
+            "Acronym": "CF", 
+            "Certification Name": "Consulting Fellow", 
+            "Type": "Advanced", 
+            "Certification ID": "3128", 
+            "Certifying Organization": "National Property Management Association, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Microsoft Office Specialist (MOS): Excel 2007 Expert", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7389", 
+            "Certifying Organization": "Microsoft Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Microsoft Office Specialist (MOS): SharePoint 2010", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7383", 
+            "Certifying Organization": "Microsoft Corporation"
+        }, 
+        {
+            "Acronym": "CFCS", 
+            "Certification Name": "Certified in Family and Consumer Sciences", 
+            "Type": "Advanced", 
+            "Certification ID": "1319", 
+            "Certifying Organization": "American Association of Family and Consumer Sciences"
+        }
+    ], 
+    "onet": "25101100"
+}

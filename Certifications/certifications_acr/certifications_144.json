@@ -1,0 +1,26 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CCDM", 
+            "Certification Name": "Certified Clinical Data  Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "6758", 
+            "Certifying Organization": "Society for Clinical Data Management"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "CompTIA Healthcare IT Technician Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "7376", 
+            "Certifying Organization": "Computing Technology Industry Association (CompTIA)"
+        }, 
+        {
+            "Acronym": "CDIP", 
+            "Certification Name": "Certified Documentation Improvement Practitioner", 
+            "Type": "Core", 
+            "Certification ID": "8042", 
+            "Certifying Organization": "American Health Information Management Association"
+        }
+    ], 
+    "onet": "15204102"
+}

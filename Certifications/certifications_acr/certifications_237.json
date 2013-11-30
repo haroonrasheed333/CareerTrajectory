@@ -1,0 +1,40 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CEG", 
+            "Certification Name": "Certified in Engineering Graphics", 
+            "Type": "Core", 
+            "Certification ID": "8183", 
+            "Certifying Organization": "Association of Technology, Management, and Applied Engineering"
+        }, 
+        {
+            "Acronym": "CSMS", 
+            "Certification Name": "Certified Senior Manufacturing Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "8182", 
+            "Certifying Organization": "Association of Technology, Management, and Applied Engineering"
+        }, 
+        {
+            "Acronym": "CMS", 
+            "Certification Name": "Certified Manufacturing Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "8181", 
+            "Certifying Organization": "Association of Technology, Management, and Applied Engineering"
+        }, 
+        {
+            "Acronym": "RCA", 
+            "Certification Name": "Responsible Care Auditor", 
+            "Type": "Advanced", 
+            "Certification ID": "6263", 
+            "Certifying Organization": "Board of Environmental Health and Safety Auditor Certification"
+        }, 
+        {
+            "Acronym": "CSEG", 
+            "Certification Name": "Certified Senior in Engineering Graphics", 
+            "Type": "Advanced", 
+            "Certification ID": "8184", 
+            "Certifying Organization": "Association of Technology, Management, and Applied Engineering"
+        }
+    ], 
+    "onet": "19204103"
+}

@@ -1,0 +1,150 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734594' xml:space='preserve'><contact><name><givenname>Ramy</givenname> <surname>Butros</surname></name>
+<address lat='32.7604' lon='116.998' majorcity='LA MESA' state='CA'><street>10882 Calle Verde Apt 118</street> | <city>La Mesa</city>, <state abbrev='CA'>CA</state> <postalcode>91941</postalcode></address> | <phone>619-315-8115</phone> | <email>ramyrifat@gmail.com</email></contact>
+
+<education>Education
+<school id='4'><institution>New York Institute of Technology</institution>						<completiondate days='733895' iso8601='2010-05-01'>May 2010</completiondate>
+<degree level='18' name='Master of Science'>Master of Science</degree> in <major code='0402'>Information, Network, and Computer Security		Amman, Jordan</major>
+<courses>STS Training Center								March 2009
+Unix Essentials and Solaris 10 Administration					Amman, Jordan</courses></school>
+<school id='5'><institution>University of Baghdad</institution>								<completiondate days='732830' iso8601='2007-06-01'>June 2007</completiondate>
+<degree level='16' name='Bachelor of Science'>Bachelor of Science</degree> in <major code='1203'>Electrical Engineering					Baghdad, Iraq</major></school></education>
+<skills>Skills and Qualifications  
+Hardware: <skills>PC's, storage systems, hubs, layer 2 and layer 3 switches
+Operating Systems: Windows, MAC OSX, Solaris 10 and Linux Backtrack
+Software: MS Office, MS Project 2007, VMware workstation, encryption and penetration testing tools, Autodesk Maya, Toxic, Adobe After Effects, Adobe Photoshop and Realflow
+Network: Small office or home office network setup, maintenance and troubleshooting
+Excellent diagnostic and troubleshooting skills with the ability to work  independently and as a team member
+Good communication skills and quick learner, especially with new technical skills</skills>
+Languages: <languages>Bilingual (English, Arabic)</languages></skills>
+<experience end='present' start='732952'>Work Experience
+<job end='present' id='1' pos='1' sic='829912' sic2='82' start='734383'><employer>Berlitz</employer>										<daterange><start days='734383' iso8601='2011-09-01'>September 2011</start>- <end days='present' iso8601='2012-03-30'>present</end></daterange>
+<title>Arabic Instructor</title>								<address><city>San Diego</city>, <state abbrev='CA'>CA</state></address>
+<description>Provide Arabic language instruction for navy and private sector clients. 
+Develop and design Arabic language curriculum appropriate for beginning to advanced students.
+Specialize in preparing navy students for DLPT examination. 
+Responsible for professional language assessment and testing for new students.</description></job> 
+<job end='734352' id='2' pos='2' sic='832215' sic2='83' start='734109'><employer>Jewish Family Service of San Diego</employer>						<daterange><start days='734109' iso8601='2010-12-01'>December 2010</start>- <end days='734352' iso8601='2011-08-01'>August 2011</end></daterange>
+<title>Volunteer Interpreter</title>								<address><city>San Diego</city>, <state abbrev='CA'>CA</state></address>
+<description>Assisted the job developer in interpreting between Arabic and English 
+Participated in job readiness workshops to engage the audience, communicate culturally significant terms and concepts, and create understanding of the American job market</description></job>
+<job end='734048' id='3' pos='3' start='732952'><employer>Gilgamesh Animation Studios</employer>						<daterange><start days='732952' iso8601='2007-10-01'>October 2007</start> - <end days='734048' iso8601='2010-10-01'>October 2010</end></daterange>
+<title>Visual Effects Supervisor / Information Technology Specialist	  		Amman, Jordan</title>
+<description>Created, simulated and rendered 3D visual effects using variety of applications such as Adobe Photoshop, Adobe After Effects, Realflow and Autodesk Maya.
+Lead and managed a team of 3 individuals to complete the movie &quot;Gilgamesh&quot; visual effects. 
+Installed the office infrastructure consisting of workstations, network and remote terminals.
+Provided IT support and technical issue resolution both in person and via electronic medium.
+Identified, diagnosed, and resolved problems effectively for users of the mainframe and personal computer software and hardware.
+Coordinated with office management to update and maintain equipment.</description></job></experience>
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='734048' experience='1' expidrefs='3' idrefs='3' lastused='2010' name='3d' start='732952'>
+    <variant>3D</variant>
+  </canonskill>
+  <canonskill end='734048' experience='1' expidrefs='3' idrefs='3' lastused='2010' name='adobe aftereffects' start='732952'>
+    <variant>Adobe After Effects</variant>
+  </canonskill>
+  <canonskill end='734048' experience='1' expidrefs='3' idrefs='3' lastused='2010' name='adobe photoshop' start='732952'>
+    <variant>Adobe Photoshop</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='arabic' start='734109'>
+    <variant>Arabic</variant>
+  </canonskill>
+  <canonskill name='communication skills'>
+    <variant>Good communication skills</variant>
+  </canonskill>
+  <canonskill end='734048' experience='1' expidrefs='3' idrefs='3' lastused='2010' name='computer hardware' start='732952'>
+    <variant>Hardware</variant>
+    <variant>hardware</variant>
+  </canonskill>
+  <canonskill name='cryptography'>
+    <variant>encryption</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='customer relations' start='734383'>
+    <variant>clients</variant>
+  </canonskill>
+  <canonskill end='734352' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='english' start='734109'>
+    <variant>English</variant>
+  </canonskill>
+  <canonskill name='home office'>
+    <variant>home office</variant>
+  </canonskill>
+  <canonskill name='hubs'>
+    <variant>hubs</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='instruction' start='734383'>
+    <variant>instruction</variant>
+  </canonskill>
+  <canonskill name='languages'>
+    <variant>Languages</variant>
+  </canonskill>
+  <canonskill name='linux'>
+    <variant>Linux</variant>
+  </canonskill>
+  <canonskill name='macintosh'>
+    <variant>MAC</variant>
+  </canonskill>
+  <canonskill end='734048' experience='1' expidrefs='3' idrefs='3' lastused='2010' name='mainframe' start='732952'>
+    <variant>mainframe</variant>
+  </canonskill>
+  <canonskill end='734352' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='marketing' start='734109'>
+    <variant>market</variant>
+  </canonskill>
+  <canonskill end='734048' experience='1' expidrefs='3' idrefs='3' lastused='2010' name='maya' start='732952'>
+    <variant>Maya</variant>
+  </canonskill>
+  <canonskill end='734048' experience='1' expidrefs='3' idrefs='3' lastused='2010' name='microsoft office' start='732952'>
+    <variant>MS Office</variant>
+    <variant>office</variant>
+  </canonskill>
+  <canonskill name='microsoft project'>
+    <variant>MS Project</variant>
+  </canonskill>
+  <canonskill name='microsoft windows'>
+    <variant>Windows</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='navy' start='734383'>
+    <variant>navy</variant>
+  </canonskill>
+  <canonskill name='network installation'>
+    <variant>network setup</variant>
+  </canonskill>
+  <canonskill end='734048' experience='1' expidrefs='3' idrefs='3' lastused='2010' name='networking' start='732952'>
+    <variant>Network</variant>
+    <variant>network</variant>
+  </canonskill>
+  <canonskill end='734048' experience='1' expidrefs='3' idrefs='3' lastused='2010' name='office management' start='732952'>
+    <variant>office management</variant>
+  </canonskill>
+  <canonskill name='operating systems'>
+    <variant>Operating Systems</variant>
+  </canonskill>
+  <canonskill end='734352' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='oracle developer 2000' start='734109'>
+    <variant>developer</variant>
+  </canonskill>
+  <canonskill name='pc'>
+    <variant>PC's</variant>
+  </canonskill>
+  <canonskill name='quick learner'>
+    <variant>quick learner</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='4' idrefs='4' name='solaris'>
+    <variant>Solaris</variant>
+  </canonskill>
+  <canonskill name='switches'>
+    <variant>switches</variant>
+  </canonskill>
+  <canonskill name='troubleshooting'>
+    <variant>troubleshooting</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='4' idrefs='4' name='unix'>
+    <variant>Unix</variant>
+  </canonskill>
+  <canonskill end='734352' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='workshops' start='734109'>
+    <variant>workshops</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

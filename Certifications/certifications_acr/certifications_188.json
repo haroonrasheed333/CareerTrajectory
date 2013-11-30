@@ -1,0 +1,47 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "IPC J-STD-001  Certification", 
+            "Type": "Core", 
+            "Certification ID": "7725", 
+            "Certifying Organization": "Institute of Interconnecting and Packaging Electronic Circuits"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IPC-A-600 Acceptability of Printed Circuit Boards", 
+            "Type": "Core", 
+            "Certification ID": "2873", 
+            "Certifying Organization": "Association Connecting Electronics Industries"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IPC Certification Using IPC-7711 and IPC 7721", 
+            "Type": "Core", 
+            "Certification ID": "7722", 
+            "Certifying Organization": "Institute of Interconnecting and Packaging Electronic Circuits"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IPC-A-600 Acceptability of Printed Boards", 
+            "Type": "Core", 
+            "Certification ID": "7723", 
+            "Certifying Organization": "Institute of Interconnecting and Packaging Electronic Circuits"
+        }, 
+        {
+            "Acronym": "CD", 
+            "Certification Name": "Mechanical Certified Drafter", 
+            "Type": "Core", 
+            "Certification ID": "6164", 
+            "Certifying Organization": "American Design Drafting Association/American Digital Design Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IPC-A-610 Acceptability of Electronics Assemblies Certification", 
+            "Type": "Core", 
+            "Certification ID": "7724", 
+            "Certifying Organization": "Institute of Interconnecting and Packaging Electronic Circuits"
+        }
+    ], 
+    "onet": "17301201"
+}

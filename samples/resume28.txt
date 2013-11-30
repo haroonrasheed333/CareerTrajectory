@@ -1,0 +1,156 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734580' xml:space='preserve'><contact><name><givenname>Chi</givenname>  <surname>Yao</surname></name>
+							
+Tel: <phone>408-4805467</phone>              
+Email: <email>yao_98@yahoo.com</email></contact>
+
+
+<summary>HIGHLIGHT
+<summary>Experience in multiple roles including management, architect, development, and startup founder
+Familiar with Search Engine space and Information Retrieval theory, specially for Asian languages
+Good business sense, strong in product design and product marketing/engineering coordination 
+Very strong in scalability and performance issues in large scale systems
+Technology expertise: information retrieval/search engine, data warehousing/OLAP, database, machine learning and statistical modeing
+Excellent Java/C++/C, SQL, XML, Web services, OOD/OOP</summary></summary>
+
+<education>EDUCATION
+<school id='7'><degree level='21' name='Doctorate of Philosophy'>Ph.D</degree>. in <major code='0402'>Computer Science</major>, <institution>New York University</institution>, <completiondate days='727931' iso8601='1994-01-01'>1994</completiondate></school>
+<school id='8'><degree level='16' name='Bachelor of Science'>BS</degree> in <major code='0402'>Computer Science</major>, <institution>National Taiwan University</institution>, <completiondate days='725374' iso8601='1987-01-01'>1987</completiondate></school></education>
+
+<experience end='present' start='728051'>PROFESSIONAL EXPERIENCE
+<job end='present' id='1' pos='1' sic='871202' sic2='87' start='731065'><daterange><start days='731065' iso8601='2002-08-01'>08/2002</start> - <end days='present' iso8601='2012-03-16'>present</end></daterange>	<employer>Architect, BDNA Corp</employer>.
+Product/Service: <description>Analytics of IT assets that are discovered via a data collection framework.
+Define technical requirements and coordinate between product marketing and engineering.
+Define data model and architecture roadmap for long-term scalability.
+Design and implement BVL (BDNA View Language), the storage language to support customized information packaging and heterogeneous data assembling. (Patent pending)
+Design and implement the data warehouse of collected data, configurable via BVL
+Design and implement the query engine that supports OLAP style (multi-dimensional) browsing and advanced reporting including comparison, classification, time-based reports.</description></job>
+<job end='731065' id='2' pos='2' start='730700'><daterange><start days='730700' iso8601='2001-08-01'>08/2001</start> - <end days='731065' iso8601='2002-08-01'>08/2002</end></daterange> 	<employer>Founder, Tritoneon Co</employer>.
+Product/Service: <description>Digital Audio Player and content publishing service
+Delivered a software solution that produces and plays random accessible audio content</description></job> 
+<job end='730700' id='3' pos='3' sic='871202' sic2='87' start='730000'><daterange><start days='730000' iso8601='1999-09-01'>09/1999</start> - <end days='730700' iso8601='2001-08-01'>08/2001</end></daterange>	<employer>Architect, Peakstone Corp</employer>.
+Product/Solution: <description>Performance modeling tool to help large data centers monitor and analyze web requests to assure application level QOS via capacity planning and admission control.
+Convert research results and business needs into engineering solutions.
+Define product architecture and drive product engineering.
+Experiment various statistical modeling methods on large web logs.
+Design and implement analysis engine for site capacity planning, load feature ranking, url clustering, etc.</description></job>
+<job end='730000' id='4' naics='51121001' naics2='51' pos='4' sic='573401' sic2='57' start='729635'><daterange><start days='729635' iso8601='1998-09-01'>09/1998</start> - <end days='730000' iso8601='1999-09-01'>09/1999</end></daterange>	<title>Senior Software Engineer</title>, <employer>Hyperion Solutions</employer> (was <employer>Arbor Software</employer>)
+<description>Essbase OLAP Server design, implementation and performance tuning</description></job>
+<job end='729604' id='5' pos='5' start='728752'><daterange><start days='728752' iso8601='1996-04-01'>04/1996</start> - <end days='729604' iso8601='1998-08-01'>08/1998</end></daterange>	<title>Manager</title>, <description>Institute for Information Industry (a.k.a. III), Taiwan
+Work with business development division to license developed technology to local search application vendors.
+Manage a team of technical staffs and develop a product suite in Chinese search technology:
+a multi-lingual full-text search engine kernel 
+a Chinese search portal based on the above kernel, also including related services such as offline search and search hosting.
+a client information agent that collects Web information using profiling and text filtering technology, and supports local document query. 
+Outstanding Performance Award, Technology and Research Division, III</description></job>
+<job end='728752' id='6' pos='6' start='728051'><daterange><start days='728051' iso8601='1994-05-01'>05/1994</start> - <end days='728752' iso8601='1996-04-01'>04/1996</end></daterange>	<title>Senior Technical Staff Member</title>, <employer>AT&amp;T Bell Labs</employer> 
+<description>Research and development for project Frame Relay Telecommunication Service Provisioning 
+
+Ph.D. THESIS	Representing Control in Parallel Applicative Programming
+Designed a parallel functional language Pscheme (a LISP dialect) to model parallel control.
+Defined Pscheme's operational semantics
+Implemented a Pscheme-to-C translator
+Constructed a run time system (which handles scheduling and garbage collection) on a shared-memory 16-processor machine
+Performed benchmarks and performance analysis for Pscheme.</description></job></experience>
+
+
+
+
+
+
+
+
+
+
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='731065' experience='1' expidrefs='2' idrefs='2' lastused='2002' name='audio' start='730700'>
+    <variant>audio</variant>
+  </canonskill>
+  <canonskill end='729604' experience='1' expidrefs='5' idrefs='5' lastused='1998' name='business development' start='728752'>
+    <variant>business development</variant>
+  </canonskill>
+  <canonskill end='730700' experience='1' expidrefs='3' idrefs='3' lastused='2001' name='capacity planning' start='730000'>
+    <variant>capacity planning</variant>
+  </canonskill>
+  <canonskill end='729604' experience='1' expidrefs='5' idrefs='5' lastused='1998' name='chinese' start='728752'>
+    <variant>Chinese</variant>
+  </canonskill>
+  <canonskill end='730700' experience='1' expidrefs='3' idrefs='3' lastused='2001' name='clustering' start='730000'>
+    <variant>clustering</variant>
+  </canonskill>
+  <canonskill end='731065' experience='1' expidrefs='2' idrefs='2' lastused='2002' name='content management' start='730700'>
+    <variant>content</variant>
+  </canonskill>
+  <canonskill end='729604' experience='1' expidrefs='5' idrefs='5' lastused='1998' name='customer relations' start='728752'>
+    <variant>client</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='data collection' start='731065'>
+    <variant>data collection</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='data warehousing' start='731065'>
+    <variant>data warehouse</variant>
+  </canonskill>
+  <canonskill end='731065' experience='1' expidrefs='2' idrefs='2' lastused='2002' name='digital audio' start='730700'>
+    <variant>Digital Audio</variant>
+  </canonskill>
+  <canonskill end='730000' experience='1' expidrefs='4' idrefs='4' lastused='1999' name='essbase' start='729635'>
+    <variant>Essbase</variant>
+  </canonskill>
+  <canonskill end='728752' experience='1' expidrefs='6' idrefs='6' lastused='1996' name='frame relay' start='728051'>
+    <variant>Frame Relay</variant>
+  </canonskill>
+  <canonskill end='728752' experience='1' expidrefs='6' idrefs='6' lastused='1996' name='functional' start='728051'>
+    <variant>functional</variant>
+  </canonskill>
+  <canonskill end='728752' experience='1' expidrefs='6' idrefs='6' lastused='1996' name='lisp' start='728051'>
+    <variant>LISP</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='marketing' start='731065'>
+    <variant>product marketing</variant>
+  </canonskill>
+  <canonskill end='728752' experience='1' expidrefs='6' idrefs='6' lastused='1996' name='memory' start='728051'>
+    <variant>memory</variant>
+  </canonskill>
+  <canonskill end='730700' experience='1' expidrefs='3' idrefs='3' lastused='2001' name='modeling' start='730000'>
+    <variant>modeling</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,4' idrefs='1,4' lastused='2012' name='olap' start='729635'>
+    <variant>OLAP</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='packaging' start='731065'>
+    <variant>packaging</variant>
+  </canonskill>
+  <canonskill end='728752' experience='1' expidrefs='6' idrefs='6' lastused='1996' name='performance analysis' start='728051'>
+    <variant>performance analysis</variant>
+  </canonskill>
+  <canonskill end='728752' experience='1' expidrefs='6' idrefs='6' lastused='1996' name='programming' start='728051'>
+    <variant>Programming</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='reports' start='731065'>
+    <variant>reporting</variant>
+  </canonskill>
+  <canonskill end='730700' experience='1' expidrefs='3,5,6' idrefs='3,5,6' lastused='2001' name='research' start='728051'>
+    <variant>Research</variant>
+    <variant>research</variant>
+  </canonskill>
+  <canonskill end='728752' experience='1' expidrefs='6' idrefs='6' lastused='1996' name='scheduling' start='728051'>
+    <variant>scheduling</variant>
+  </canonskill>
+  <canonskill end='728752' experience='1' expidrefs='6' idrefs='6' lastused='1996' name='telecommunications' start='728051'>
+    <variant>Telecommunication</variant>
+  </canonskill>
+  <canonskill end='728752' experience='1' expidrefs='6' idrefs='6' lastused='1996' name='toc' start='728051'>
+    <variant>to-C</variant>
+  </canonskill>
+  <canonskill end='728752' experience='1' expidrefs='6' idrefs='6' lastused='1996' name='translation' start='728051'>
+    <variant>translator</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='view' start='731065'>
+    <variant>View</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

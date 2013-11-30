@@ -1,0 +1,180 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "MBB", 
+            "Certification Name": "Certified Master Black Belt", 
+            "Type": "Advanced", 
+            "Certification ID": "6786", 
+            "Certifying Organization": "American Society for Quality"
+        }, 
+        {
+            "Acronym": "CFPE", 
+            "Certification Name": "Fluid Power Engineer", 
+            "Type": "Advanced", 
+            "Certification ID": "0890", 
+            "Certifying Organization": "International Fluid Power Society"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IPC-A-610 Acceptability of Electronic Assemblies", 
+            "Type": "Advanced", 
+            "Certification ID": "3478", 
+            "Certifying Organization": "Association Connecting Electronics Industries"
+        }, 
+        {
+            "Acronym": "CFPC&C", 
+            "Certification Name": "Fluid Power Connector and Conductor", 
+            "Type": "Advanced", 
+            "Certification ID": "2605", 
+            "Certifying Organization": "International Fluid Power Society"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Fluid Power Master Mechanic", 
+            "Type": "Advanced", 
+            "Certification ID": "2608", 
+            "Certifying Organization": "International Fluid Power Society"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IPC-A-600 Acceptability of Printed Circuit Boards", 
+            "Type": "Core", 
+            "Certification ID": "2873", 
+            "Certifying Organization": "Association Connecting Electronics Industries"
+        }, 
+        {
+            "Acronym": "CPIM", 
+            "Certification Name": "Certified in Production and Inventory Management", 
+            "Type": "Advanced", 
+            "Certification ID": "1432", 
+            "Certifying Organization": "The Association for Operations Management"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Welding Supervisor", 
+            "Type": "Core", 
+            "Certification ID": "3987", 
+            "Certifying Organization": "American Welding Society"
+        }, 
+        {
+            "Acronym": "SCWI", 
+            "Certification Name": "Senior Certified Welding Inspector", 
+            "Type": "Advanced", 
+            "Certification ID": "0351", 
+            "Certifying Organization": "American Welding Society"
+        }, 
+        {
+            "Acronym": "CSSBB", 
+            "Certification Name": "Certified Six Sigma Blackbelt", 
+            "Type": "Advanced", 
+            "Certification ID": "2602", 
+            "Certifying Organization": "American Society for Quality"
+        }, 
+        {
+            "Acronym": "CTM", 
+            "Certification Name": "Certified Technology Manager", 
+            "Type": "Core", 
+            "Certification ID": "0859", 
+            "Certifying Organization": "Association of Technology, Management, and Applied Engineering"
+        }, 
+        {
+            "Acronym": "WSO-CHMS", 
+            "Certification Name": "WSO - Certified Hazardous Materials Supervisor", 
+            "Type": "Specialty", 
+            "Certification ID": "1011", 
+            "Certifying Organization": "World Safety Organization"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IPC/WHMA-A-620 Requirements & Acceptance for Cable & Wire Harness Assemblies", 
+            "Type": "Advanced", 
+            "Certification ID": "3479", 
+            "Certifying Organization": "Association Connecting Electronics Industries"
+        }, 
+        {
+            "Acronym": "CLS", 
+            "Certification Name": "Certified Lubrication Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "2107", 
+            "Certifying Organization": "Society of Tribologists and Lubrication Engineers"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IPC J-STD-001 Requirements for Soldered Electrical & Electronic Assemblies", 
+            "Type": "Core", 
+            "Certification ID": "2872", 
+            "Certifying Organization": "Association Connecting Electronics Industries"
+        }, 
+        {
+            "Acronym": "CFPIM", 
+            "Certification Name": "Certified Fellow in Production and Inventory Management", 
+            "Type": "Advanced", 
+            "Certification ID": "1434", 
+            "Certifying Organization": "The Association for Operations Management"
+        }, 
+        {
+            "Acronym": "CMVP", 
+            "Certification Name": "Certified Measurement and Verification Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "4008", 
+            "Certifying Organization": "Association of Energy Engineers"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Lean Silver Certification", 
+            "Type": "Core", 
+            "Certification ID": "6808", 
+            "Certifying Organization": "Society for Manufacturing Engineers"
+        }, 
+        {
+            "Acronym": "GDTP", 
+            "Certification Name": "Geometric Dimensioning & Tolerancing Professional - Technologist", 
+            "Type": "Advanced", 
+            "Certification ID": "2153", 
+            "Certifying Organization": "American Society of Mechanical Engineers International"
+        }, 
+        {
+            "Acronym": "OMA", 
+            "Certification Name": "Oil Monitoring Analyst", 
+            "Type": "Core", 
+            "Certification ID": "2108", 
+            "Certifying Organization": "Society of Tribologists and Lubrication Engineers"
+        }, 
+        {
+            "Acronym": "WSO-CHME", 
+            "Certification Name": "WSO - Certified Hazardous Materials Executive", 
+            "Type": "Specialty", 
+            "Certification ID": "1012", 
+            "Certifying Organization": "World Safety Organization"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Fluid Power Master Technician", 
+            "Type": "Advanced", 
+            "Certification ID": "2609", 
+            "Certifying Organization": "International Fluid Power Society"
+        }, 
+        {
+            "Acronym": "CESM", 
+            "Certification Name": "Certified Environmental Systems Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "1119", 
+            "Certifying Organization": "National Registry of Environmental Professionals"
+        }, 
+        {
+            "Acronym": "CSTM", 
+            "Certification Name": "Certified Senior Technology Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "0860", 
+            "Certifying Organization": "Association of Technology, Management, and Applied Engineering"
+        }, 
+        {
+            "Acronym": "CEPM", 
+            "Certification Name": "IPC EMS Program Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "3482", 
+            "Certifying Organization": "Association Connecting Electronics Industries"
+        }
+    ], 
+    "onet": "11305100"
+}

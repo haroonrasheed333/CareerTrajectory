@@ -1,0 +1,26 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "DRB", 
+            "Certification Name": "Certified Digital Radio Broadcast Specialist", 
+            "Type": "Core", 
+            "Certification ID": "6692", 
+            "Certifying Organization": "Society of Broadcast Engineers, Inc."
+        }, 
+        {
+            "Acronym": "CRO", 
+            "Certification Name": "Certified Radio Operator", 
+            "Type": "Core", 
+            "Certification ID": "3757", 
+            "Certifying Organization": "Society of Broadcast Engineers, Inc."
+        }, 
+        {
+            "Acronym": "AMD", 
+            "Certification Name": "Certified AM Directional Specialist", 
+            "Type": "Core", 
+            "Certification ID": "4882", 
+            "Certifying Organization": "Society of Broadcast Engineers, Inc."
+        }
+    ], 
+    "onet": "27401300"
+}

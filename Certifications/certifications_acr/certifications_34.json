@@ -1,0 +1,54 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "SFO", 
+            "Certification Name": "Certified Administrator of School Finance and Operations", 
+            "Type": "Advanced", 
+            "Certification ID": "7452", 
+            "Certifying Organization": "Association of School Business Officials International"
+        }, 
+        {
+            "Acronym": "CPRA", 
+            "Certification Name": "Certified Pre-Award Research Administrator", 
+            "Type": "Advanced", 
+            "Certification ID": "6882", 
+            "Certifying Organization": "Research Administrators Certification Council"
+        }, 
+        {
+            "Acronym": "CCAA", 
+            "Certification Name": "Certified Career Assessment Associate", 
+            "Type": "Core", 
+            "Certification ID": "5819", 
+            "Certifying Organization": "Commission on Rehabilitation Counselor Certification"
+        }, 
+        {
+            "Acronym": "CCMEP", 
+            "Certification Name": "Certified CME Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "6081", 
+            "Certifying Organization": "National Commission for Certification of CME professionals"
+        }, 
+        {
+            "Acronym": "IRB", 
+            "Certification Name": "Certification for Institutional Review Board (IRB) Professionals", 
+            "Type": "Advanced", 
+            "Certification ID": "6872", 
+            "Certifying Organization": "Public Responsibility in Medicine and Research"
+        }, 
+        {
+            "Acronym": "CRA", 
+            "Certification Name": "Certified Research Administrator", 
+            "Type": "Advanced", 
+            "Certification ID": "6881", 
+            "Certifying Organization": "Research Administrators Certification Council"
+        }, 
+        {
+            "Acronym": "CPIA", 
+            "Certification Name": "Certified Professional IACUC Administrator", 
+            "Type": "Advanced", 
+            "Certification ID": "6873", 
+            "Certifying Organization": "Public Responsibility in Medicine and Research"
+        }
+    ], 
+    "onet": "11903300"
+}

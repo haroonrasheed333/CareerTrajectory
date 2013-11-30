@@ -1,0 +1,54 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "ID&C", 
+            "Certification Name": "LEED AP Interior Design & Construction", 
+            "Type": "Advanced", 
+            "Certification ID": "6272", 
+            "Certifying Organization": "Green Building Certification Institute"
+        }, 
+        {
+            "Acronym": "AD", 
+            "Certification Name": "Architectural Apprentice Drafter", 
+            "Type": "Core", 
+            "Certification ID": "8043", 
+            "Certifying Organization": "American Design Drafting Association/American Digital Design Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "LEED AP Homes", 
+            "Type": "Advanced", 
+            "Certification ID": "6271", 
+            "Certifying Organization": "Green Building Certification Institute"
+        }, 
+        {
+            "Acronym": "CPDB", 
+            "Certification Name": "Certified Professional Building Designer", 
+            "Type": "Advanced", 
+            "Certification ID": "0989", 
+            "Certifying Organization": "National Council of Building Design Certification"
+        }, 
+        {
+            "Acronym": "HBDP", 
+            "Certification Name": "High-Performance Building Design", 
+            "Type": "Advanced", 
+            "Certification ID": "5847", 
+            "Certifying Organization": "American Society of Heating, Refrigerating and Air-Conditioning Engineers"
+        }, 
+        {
+            "Acronym": "ND", 
+            "Certification Name": "LEED AP Neighborhood Development", 
+            "Type": "Advanced", 
+            "Certification ID": "6274", 
+            "Certifying Organization": "Green Building Certification Institute"
+        }, 
+        {
+            "Acronym": "DCDC", 
+            "Certification Name": "Data Center Design Consultant", 
+            "Type": "Core", 
+            "Certification ID": "8565", 
+            "Certifying Organization": "Building Industry Consulting Service International"
+        }
+    ], 
+    "onet": "17301100"
+}

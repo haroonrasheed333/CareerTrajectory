@@ -1,0 +1,82 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "ASPRS", 
+            "Certification Name": "Certified Photogrammetrist (ASPRS)", 
+            "Type": "Core", 
+            "Certification ID": "1454", 
+            "Certifying Organization": "American Society for Photogrammetry and Remote Sensing - Imaging & Geospatial Information Society"
+        }, 
+        {
+            "Acronym": "RL", 
+            "Certification Name": "Registered Landman", 
+            "Type": "Core", 
+            "Certification ID": "8684", 
+            "Certifying Organization": "American Association of Professional Landmen"
+        }, 
+        {
+            "Acronym": "CMS", 
+            "Certification Name": "Cadastral Mapping Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "1338", 
+            "Certifying Organization": "International Association of Assessing Officers"
+        }, 
+        {
+            "Acronym": "ASPRS", 
+            "Certification Name": "Certified Mapping Scientist, GIS/LIS (ASPRS)", 
+            "Type": "Advanced", 
+            "Certification ID": "1456", 
+            "Certifying Organization": "American Society for Photogrammetry and Remote Sensing - Imaging & Geospatial Information Society"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Oracle Spatial 11g Certified Implementation Specialist", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8499", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Photogrammetric Technologist", 
+            "Type": "Core", 
+            "Certification ID": "3942", 
+            "Certifying Organization": "American Society for Photogrammetry and Remote Sensing - Imaging & Geospatial Information Society"
+        }, 
+        {
+            "Acronym": "RPL", 
+            "Certification Name": "Registered Professional Landman", 
+            "Type": "Advanced", 
+            "Certification ID": "8685", 
+            "Certifying Organization": "American Association of Professional Landmen"
+        }, 
+        {
+            "Acronym": "ASPRS", 
+            "Certification Name": "Certified Mapping Scientist, Remote Sensing (ASPRS)", 
+            "Type": "Advanced", 
+            "Certification ID": "1455", 
+            "Certifying Organization": "American Society for Photogrammetry and Remote Sensing - Imaging & Geospatial Information Society"
+        }, 
+        {
+            "Acronym": "ND", 
+            "Certification Name": "LEED AP Neighborhood Development", 
+            "Type": "Advanced", 
+            "Certification ID": "6274", 
+            "Certifying Organization": "Green Building Certification Institute"
+        }, 
+        {
+            "Acronym": "CPL", 
+            "Certification Name": "Certified Professional Landman", 
+            "Type": "Advanced", 
+            "Certification ID": "8686", 
+            "Certifying Organization": "American Association of Professional Landmen"
+        }, 
+        {
+            "Acronym": "GISP", 
+            "Certification Name": "Geographic Information Systems Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "5666", 
+            "Certifying Organization": "GIS Certification Institute"
+        }
+    ], 
+    "onet": "17102100"
+}

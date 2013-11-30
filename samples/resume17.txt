@@ -1,0 +1,397 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734580' xml:space='preserve'><contact><name><givenname>CHRISTOPHER</givenname> <surname>HUNTER-JOHNSON</surname></name>
+ACMA,MBCS, PGDCCI(Open)
+PERSONAL
+South Goodwin					
+The Droveway					
+Tel: <address lat='40.8866' lon='74.7498' majorcity='BUDD LAKE' state='NJ'><street>01304 852726</street>
+Mobile: <postalcode>07828</postalcode> 400251
+DOB: <street>24 August 1959</street></address>
+Email: <email>chrishj@btinternet.com</email></contact>
+<statements><activities>St Margaret's Bay	British
+Kent			Married
+CT15 6DJ		Full Licence - Own Transport</activities></statements>
+
+
+<experience end='present' start='729270'>EXPERIENCE	
+
+
+<job end='present' id='1' pos='2' start='729270'><daterange><start days='729270' iso8601='1997-09-01'>Sep 1997</start> - <end days='present' iso8601='2012-03-16'>Present</end></daterange>	<title>Motability Operations	   London</title>
+<description>Corporate Overview:
+The Motability scheme allows individual with higher rate mobility allowance to run a new car on a 3 year rental contract. Motability Operations a manages the rental fleet of 500K vehicles on behalf the charity Motability. The annual income of which is £25.8m
+
+January 2010 - Release management / Outsourcing contract 
+Package monthly releases so deployment to production by 3rd Party runs effectively
+Plan changes in release management committee so SAP and non-SAP releases can be applied to production without incident
+Agree priority of both defects and system enhancements with Finance function and ensure the 3rd party implements in accordance with the priorities.
+Produce functional specifications of work to be performed by 3rd party and quality review the solution.
+Monitor the performance of the outsourcing contract.
+Review and implement any role security changes for example on bank reconciliation team can transfer payments from unpaid cheques bank GL account to paid cheques bank account but GL reconciliation team can view the transactions.</description></job>   
+
+<job id='2' start='733561'><daterange><start days='733561' iso8601='2009-06-01'>June 2009</start></daterange> - <description>Powered Wheel chair project
+Configure Asset Accounting (for new asset class and depreciation rules), Accounts receivable and General ledger on takeover R2M business.</description></job>
+
+<job end='732952' id='3' pos='4' start='732860'><daterange><start days='732860' iso8601='2007-07-01'>July</start> - <end days='732952' iso8601='2007-10-01'>October 2007</end></daterange> : <description>Sales and Distribution implementation
+Designed SD implementation and performed proof of concept to meet customer credit project
+Managed development and testing of SD implementation of periodic billing and performed the FI configuration.
+
+October 2002 - Upgrade project from version 3.1 to 4.7 project
+Security controls
+Designed and implemented a new security model for user access. Moved from user based security to role based security thus eliminating authorisation creep when a user moves job and simply has the new authorisations added to his account keeping those from the prior post. 
+Supervised role analysis in conjunction with Systems accountant to identify the minimum security necessary to perform each activity. Where there was excessive authorisation I obtained approval from the audit committee.
+Access to Emergency role granted on a case-by-case basis for a minimal period of  time. 
+I made FI/CO configuration and custom program changes necessary and performed the cut-over to new hardware and SAP system.
+ 
+
+October 2000 SAP  to current Business Analyst / developer / Basis
+During period of financial constraint BASIS activities were transferred from 3rd Party to in house. I identified the necessary training and took over BASIS issue resolution, performance improvement and new systems installation.
+Primary functional, security and BASIS contact within Motability Operations.  
+Discuss 
+Perform FI/CO, Asset Management. Treasury configuration as business requirements change, for example statistical internal orders , electronic bank statement upload, new company structures as the legal entity changed from partnership to PLC.
+Implemented SOAP interaction with other applications using WEB-AS as well as SAPBC functionality.</description></job>
+
+<job end='733653' id='4' pos='3' start='729635'><daterange><start days='729635' iso8601='1998-09-01'>September 1998</start> - <end days='733653' iso8601='2009-09-01'>September 2009</end></daterange>: <title>SAP Business Analyst / developer</title>
+<description>Transferred from Finance to Business Systems as developer and FI/CO configurer.
+Identify and agree business requirements then implement using either custom program development or configuration.</description></job>
+
+
+
+<job end='729635' id='5' pos='7' start='729270'><daterange><start days='729270' iso8601='1997-09-01'>September 1997</start> - <end days='729635' iso8601='1998-09-01'>September 1998</end></daterange> <title>SAP Consultant</title>
+*	<description>Review SAP implementation design meets business for new business proposition.
+Design and implement Unit and UAT test solution and manage live pilot 
+
+
+
+
+
+Other Experience IT related</description></job>	
+
+<job end='present' id='6' pos='1' start='730396'><daterange><start days='730396' iso8601='2000-10-01'>October 2000</start> - <end days='present' iso8601='2012-03-16'>current</end></daterange>
+         SAP BC
+<description>Develop services that process both XML and SOAP messages between Java messaging gateway and SAP 3.1 and SAP 4.7 systems, including Java services.
+3rd Line support
+
+       SAP Technical (ABAP)
+Technical design and specification development to meet business requirements that cannot be met by functional configuration.
+Development of reports and RFC functional modules both local and remote.
+3rd line support.</description>
+
+
+       <title>SAP BASIS WEBAS</title>
+<description>Production issue resolution - 3rd line support;
+User administration; and 
+Service packs, kernel upgrades; and 
+Software logistics (Transports).
+Installation of Solution Manager; and
+Implement disaster recovery; and
+Implement ICM including Email from SAP and SAP sending SOAP messages to other systems.</description></job>
+
+
+<job end='732192' id='7' pos='5' start='730396'><daterange><start days='730396' iso8601='2000-10-01'>October 2000</start> - <end days='732192' iso8601='2005-09-01'>September 2005</end></daterange>
+    BroadVision: 
+.<description>Develop Extra-net web site mflDirect that sells used cars to dealer base.
+3rd line support.</description></job>
+
+<job end='730366' id='8' pos='6' start='729665'><daterange><start days='729665' iso8601='1998-10-01'>October 1998</start> - <end days='730366' iso8601='2000-09-01'>September 2000</end></daterange>	<title>SAP Analyst Programmer</title>
+<description>Prepare Business Requirement and System Requirement documents after discussing business need with senior users and obtain sign-off.
+Develop ABAP programs: reports, Dialogue and RFC
+
+
+
+    Pre Sep 1997	Financial Accounting Roles (Summarised)		      
+*	Developed software to place company as a Value Added Reseller for Great Plains Dynamics. (Master Memory located in Paris and UK).
+*	Implementation of accounting packages (Tetra Plan, Great Plains and Access Accounting).
+*	Produce statutory and monthly accounts and financial investigations.
+*	Produce VAT and PAYE returns
+*	Produce HEFC (Higher Education Funding Council) returns
+*	Produce Bank of England liquidity returns (Banking)
+*	Experience in Corporate Finance, Manufacturing both Process and Contract, Service and Further/Higher Education sectors.</description></job></experience>
+
+
+<education>EDUCATION	
+
+
+<school id='9'><daterange><start days='727566' iso8601='1993-01-01'>1993</start> - <end days='729027' iso8601='1997-01-01'>1997</end></daterange>		<institution>Open University</institution>	
+*	<degree level='17'>Post Graduate Diploma</degree>: <courses>Computer Science for Commerce &amp; Industry 
+Software Engineering
+Computer Architecture - Operating Systems
+Rational Database Technology
+Prolog &amp; Rule Based A.I
+Project Management
+Object Orientated Technology &amp; Programming in SmallTalk
+User Integration Analysis &amp; Design
+Java Programming for Distributed Systems</courses></school>
+
+
+<completiondate days='724644' iso8601='1985-01-01'>1985</completiondate>  <honors>Associate Chartered Management Accountant. - Associate member of CIMA.
+1997  British Computer Society - Professional member MBCS
+
+1977 - 1979.		Bristol Polytechnic		 	   Bristol</honors>
+*	<degree level='13' name='Higher National Diploma'>HND</degree> - <major code='4399'>Business Studies - Pass</major></education>
+
+
+
+<professional>ADDITIONAL TRAINING &amp; QUALIFICATION	
+
+
+<description>ITIL - Level 1.
+
+Accountancy
+*	Associate Member of CIMA (Chartered Management Accountant)
+
+Oracle
+R12 Oracle  E-Business Suite Essentials for implementers
+Oracle Reports Developer 10g: Build reports Ed 1.
+
+Java
+*	SilverStream: Development of EJBs
+*	Java: Java Programming (Sun MicroSystems)
+BroadVision
+*	Broad Vision: Server Side Programming
+
+SAP Functional
+*	SAP:  Controlling Overview (20/9/2004 - 25/9/2004)
+*	SAP: SCM605 Sales (14/11/2005 - 18/11/2005)
+*	SAP: AC202 FI Customising II (5/6/2006 - 6/6/2006)
+
+SAP BASIS
+SAP: ABAP Work Bench, SAP Business Connector
+SAP:  BC315 Workload Analysis (15/5/2003 - 14/5/2003)
+SAP: ADM 325 Software Logistics (9/6/2003 - 13/6/2003)
+SAP: CA940 SAP R/3 Authorisation Concept (4/8/2003 - 6/8/2003)
+SAP: ADM102 SAP Web AS Administration II (14/6/2004 - 16/6/2004)
+SAP: ADM106 Advanced SAP System Monitoring (8/7/2004 - 9/7/2004)
+SAP: BIT660 Data Archiving (BASIS) (17/7/2006 - 19/7/2006)
+SAP:WGBECT Extended Computer Aided Test Tool(eCATT) (28.03.2007)</description></professional>
+
+<skills>COMPUTER SYSTEMS	
+
+
+<skills>Microsoft Office 2000 (including Word, Access and Excel)
+*	PVCS
+*	Java Script
+*	Java
+SAP (ABAP, Configuration and Basis)
+SAP Business Connector
+*	MS SQL</skills></skills>
+
+
+
+
+<references>REFERENCES	
+
+Available on Request</references>
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='734579' experience='1' expidrefs='6,8' idrefs='6,8' lastused='2012' name='abap' start='729665'>
+    <variant>ABAP</variant>
+  </canonskill>
+  <canonskill end='730366' experience='1' expidrefs='2,8' idrefs='2,8' lastused='2000' name='accountancy' start='729665'>
+    <variant>Accounting</variant>
+    <variant>accounting</variant>
+  </canonskill>
+  <canonskill end='732952' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='accounting' start='732860'>
+    <variant>accountant</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='2' idrefs='2' name='accounts receivable' start='733561'>
+    <variant>Accounts receivable</variant>
+  </canonskill>
+  <canonskill end='732952' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='asset management' start='732860'>
+    <variant>Asset Management</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='bank reconciliation' start='729270'>
+    <variant>bank reconciliation</variant>
+  </canonskill>
+  <canonskill end='730366' experience='1' expidrefs='8' idrefs='8' lastused='2000' name='banking' start='729665'>
+    <variant>Banking</variant>
+  </canonskill>
+  <canonskill end='732952' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='billing' start='732860'>
+    <variant>billing</variant>
+  </canonskill>
+  <canonskill end='732952' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='business analysis' start='732860'>
+    <variant>Business Analyst</variant>
+  </canonskill>
+  <canonskill end='733653' experience='1' expidrefs='4' idrefs='4' lastused='2009' name='business systems analysis' start='729635'>
+    <variant>Business Systems</variant>
+  </canonskill>
+  <canonskill end='732952' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='computer hardware' start='732860'>
+    <variant>hardware</variant>
+  </canonskill>
+  <canonskill end='732952' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='concept development' start='732860'>
+    <variant>concept</variant>
+  </canonskill>
+  <canonskill end='730366' experience='1' expidrefs='8' idrefs='8' lastused='2000' name='corporate finance' start='729665'>
+    <variant>Corporate Finance</variant>
+  </canonskill>
+  <canonskill end='730366' experience='1' expidrefs='8' idrefs='8' lastused='2000' name='council' start='729665'>
+    <variant>Council</variant>
+  </canonskill>
+  <canonskill end='732952' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='credit' start='732860'>
+    <variant>credit</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='9' idrefs='9' name='database administration'>
+    <variant>Database</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='6' idrefs='6' lastused='2012' name='disaster recovery planning' start='730396'>
+    <variant>disaster recovery</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='6' idrefs='6' lastused='2012' name='email' start='730396'>
+    <variant>Email</variant>
+  </canonskill>
+  <canonskill end='732192' experience='1' expidrefs='7' idrefs='7' lastused='2005' name='extranet' start='730396'>
+    <variant>Extra-net</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,4' idrefs='1,4' lastused='2012' name='finance' start='729270'>
+    <variant>Finance</variant>
+  </canonskill>
+  <canonskill end='732952' experience='1' expidrefs='3,8' idrefs='3,8' lastused='2007' name='financial' start='729665'>
+    <variant>financial</variant>
+  </canonskill>
+  <canonskill end='730366' experience='1' expidrefs='8' idrefs='8' lastused='2000' name='financial accounting' start='729665'>
+    <variant>Financial Accounting</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,3,6' idrefs='1,3,6' lastused='2012' name='functional' start='729270'>
+    <variant>functional</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='6' idrefs='6' lastused='2012' name='gateway' start='730396'>
+    <variant>gateway</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='2' idrefs='2' name='general ledger' start='733561'>
+    <variant>General ledger</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='gl' start='729270'>
+    <variant>GL</variant>
+  </canonskill>
+  <canonskill end='730366' experience='1' expidrefs='8' idrefs='8' lastused='2000' name='great plains dynamics' start='729665'>
+    <variant>Great Plains Dynamics</variant>
+  </canonskill>
+  <canonskill end='730366' experience='1' expidrefs='8' idrefs='8' lastused='2000' name='great plains software' start='729665'>
+    <variant>Great Plains</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='6' idrefs='6' lastused='2012' name='icm' start='730396'>
+    <variant>ICM</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='9' end='734579' experience='1' expidrefs='6' idrefs='6,9' lastused='2012' name='java' start='730396'>
+    <variant>Java</variant>
+    <variant>Java Programming</variant>
+  </canonskill>
+  <canonskill name='javascript'>
+    <variant>Java Script</variant>
+  </canonskill>
+  <canonskill end='732952' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='legal' start='732860'>
+    <variant>legal</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='6' idrefs='6' lastused='2012' name='logistics' start='730396'>
+    <variant>logistics</variant>
+  </canonskill>
+  <canonskill end='730366' experience='1' expidrefs='8' idrefs='8' lastused='2000' name='memory' start='729665'>
+    <variant>Memory</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='6' idrefs='6' lastused='2012' name='messaging' start='730396'>
+    <variant>messaging</variant>
+  </canonskill>
+  <canonskill end='732952' experience='1' expidrefs='3,8' idrefs='3,8' lastused='2007' name='microsoft access' start='729665'>
+    <variant>Access</variant>
+    <variant>access</variant>
+  </canonskill>
+  <canonskill name='microsoft excel'>
+    <variant>Excel</variant>
+  </canonskill>
+  <canonskill name='microsoft office 2000'>
+    <variant>Microsoft Office 2000</variant>
+  </canonskill>
+  <canonskill end='732952' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='microsoft windows 2000' start='732860'>
+    <variant>2000</variant>
+  </canonskill>
+  <canonskill end='732952' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='microsoft windows 3.1' start='732860'>
+    <variant>3.1</variant>
+  </canonskill>
+  <canonskill name='microsoft word'>
+    <variant>Word</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='9' idrefs='9' name='operating systems'>
+    <variant>Operating Systems</variant>
+  </canonskill>
+  <canonskill end='733653' experience='1' expidrefs='3,4' idrefs='3,4' lastused='2009' name='oracle developer 2000' start='729635'>
+    <variant>developer</variant>
+  </canonskill>
+  <canonskill end='730366' experience='1' expidrefs='8' idrefs='8' lastused='2000' name='paye' start='729665'>
+    <variant>PAYE</variant>
+  </canonskill>
+  <canonskill end='732952' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='plc' start='732860'>
+    <variant>PLC</variant>
+  </canonskill>
+  <canonskill end='733653' experience='1' expidrefs='4' idrefs='4' lastused='2009' name='program development' start='729635'>
+    <variant>program development</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='9' idrefs='9' name='programming'>
+    <variant>Programming</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='9' idrefs='9' name='project management'>
+    <variant>Project Management</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='9' idrefs='9' name='prolog'>
+    <variant>Prolog</variant>
+  </canonskill>
+  <canonskill name='pvcs'>
+    <variant>PVCS</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='quality' start='729270'>
+    <variant>quality</variant>
+  </canonskill>
+  <canonskill end='730366' experience='1' expidrefs='8' idrefs='8' lastused='2000' name='requirements' start='729665'>
+    <variant>Requirement</variant>
+  </canonskill>
+  <canonskill end='732952' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='sales' start='732860'>
+    <variant>Sales</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,3,5,6' idrefs='1,3,5,6' lastused='2012' name='sap' start='729270'>
+    <variant>SAP</variant>
+    <variant>SAP 3.1</variant>
+    <variant>SAP 4.7</variant>
+  </canonskill>
+  <canonskill end='732952' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='sap sd' start='732860'>
+    <variant>SD</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='scheme' start='729270'>
+    <variant>scheme</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='9' idrefs='9' name='smalltalk'>
+    <variant>SmallTalk</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='3,6' idrefs='3,6' lastused='2012' name='soap' start='730396'>
+    <variant>SOAP</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='9' idrefs='9' name='software engineering'>
+    <variant>Software Engineering</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='6' idrefs='6' lastused='2012' name='specification' start='730396'>
+    <variant>specification</variant>
+  </canonskill>
+  <canonskill name='sql'>
+    <variant>MS SQL</variant>
+  </canonskill>
+  <canonskill end='730366' experience='1' expidrefs='8' idrefs='8' lastused='2000' name='tetra' start='729665'>
+    <variant>Tetra</variant>
+  </canonskill>
+  <canonskill end='732952' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='treasury' start='732860'>
+    <variant>Treasury</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='3,6' idrefs='3,6' lastused='2012' name='upgrades' start='730396'>
+    <variant>upgrades</variant>
+    <variant>Upgrade</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='view' start='729270'>
+    <variant>view</variant>
+  </canonskill>
+  <canonskill end='732192' experience='1' expidrefs='7' idrefs='7' lastused='2005' name='web site production' start='730396'>
+    <variant>web site</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='6' idrefs='6' lastused='2012' name='xml' start='730396'>
+    <variant>XML</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

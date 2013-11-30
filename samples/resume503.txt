@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734594' xml:space='preserve'><contact><address lat='42.4981' lon='83.2324' majorcity='SOUTHFIELD' state='MI'><street>30500 SOUTHFIELD RD. APT 202</street>* <city>SOUTHFIELD</city>, <state abbrev='MI'>MI</state> <postalcode>48076</postalcode></address>	
+
+PHONE <phone>(313) 205-3415</phone> * E-MAIL <email>QUEENLUCY2@GMAIL.COM</email>	
+
+
+<name><givenname>DONNA</givenname> <surname>LUCY</surname></name></contact>
+<summary>SUMMARY OF QUALIFICATIONS	
+
+
+
+<summary>Detail-oriented professional that has a strong background in database and project management.
+Accomplished individual with proven capabilities in marketing, fundraising, event management, and service excellence.
+Articulate communicator with an ability to establish and cultivate relationships with corporate sponsors and high-profile donors.</summary></summary>	
+
+<experience end='present' start='727931'>PROFESSIONAL EXPERIENCE	
+
+
+
+<job end='present' id='1' pos='1' sic='869903' sic2='86' start='732314'><daterange><start days='732314' iso8601='2006-01-01'>2006</start> - <end days='present' iso8601='2012-03-30'>Present</end></daterange>	                                              <employer>Beaumont Foundation</employer>		<address><city>Royal Oak</city>, <state abbrev='MI'>MI</state></address>
+<title>Secretary</title>, <description>Special Events, Annual Giving and Children's Miracle Network  	      	
+Aided in the logistics of approximately 50 special events annually.
+Recruited and organized volunteers for internal and third party events, trained volunteers and for their event assignment, supervised the volunteers throughout special events, and directly addressed problems as they occurred.
+Assisted the Associate Vice President of Development in preparing all material and coordinating the Special Events Foundation Committee Board meetings.
+Successfully executed Children's Miracle Network's Miracle Jeans Day event by performing benchmarking research and soliciting national and local sponsors through individualized direct mail pieces.  These endeavors led to record setting profits for the Detroit market, which exceeded the previous year's revenues by 380%.
+Coordinated large-scale mailings to solicit in-kind donations, and created and maintained the database for all incoming and outgoing donations.
+Tracked all event attendees for multiple events occurring simultaneously.
+Generated database queries in order to analyze information and acknowledge incoming gifts for the 2011 Beaumont Team Giving Campaign.
+Managed the Special Event module in the Raiser's Edge software database by adding constituents, tracking events, and extracting information pertinent for event coordination.
+Prepared and formatted confidential patient data files in Excel and provided the information to the Senior Director of Annual Giving.
+Extracted information from funding request forms that physicians and department management complete and coordinated efforts to disburse the Foundation funds, as directed by the Associate Vice President of Development.
+Managed all expenses through Oracle for the Children's Miracle Network, Annual Giving, and Special Event Departments.</description></job>
+<job end='732314' id='2' pos='2' sic='801101' sic2='80' start='727931'><daterange><start days='727931' iso8601='1994-01-01'>1994</start> - <end days='732314' iso8601='2006-01-01'>2006</end></daterange>	                                              <employer>Beaumont Hospitals</employer>		<address><city>Royal Oak</city>, <state abbrev='MI'>MI</state></address>
+<title>Patient Registration</title>
+<description>Scheduled patients for appointments in Physical Therapy, Occupational Therapy, and Speech Therapy departments.
+Translated doctor orders and uploading patient information in the hospital computer systems.
+Ordered patient's laboratory tests per the respective physician's orders.
+Processed patient's paperwork for the required for the respective test to be performed by the therapist, phlebotomist, and radiologist.
+Input patient insurance and demographic information into Beaumont's computer network.</description></job></experience>
+
+
+
+
+<education>EDUCATION	
+
+
+
+<school id='3'><completiondate days='731949' iso8601='2005-01-01'>2005</completiondate>	                                              <institution>Wayne State University</institution>	<address><city>Detroit</city>, <state abbrev='MI'>MI</state></address>
+<degree level='16' name='Bachelor of Arts'>Bachelor of Arts</degree>
+Major in <major code='0499 4504'>Communications/Public Relations</major></school></education>
+                                                                   <references>References Available Upon Request</references>		
+
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='benchmarking' start='732314'>
+    <variant>benchmarking</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='database administration' start='732314'>
+    <variant>database</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='direct mail' start='732314'>
+    <variant>direct mail</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='event management' start='732314'>
+    <variant>event coordination</variant>
+    <variant>Special Events</variant>
+    <variant>special events</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='forms' start='732314'>
+    <variant>forms</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='funds' start='732314'>
+    <variant>funds</variant>
+  </canonskill>
+  <canonskill end='732314' experience='1' expidrefs='2' idrefs='2' lastused='2006' name='insurance' start='727931'>
+    <variant>insurance</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='logistics' start='732314'>
+    <variant>logistics</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='macromedia director' start='732314'>
+    <variant>Director</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='marketing' start='732314'>
+    <variant>market</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='meeting facilitation' start='732314'>
+    <variant>meetings</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='microsoft excel' start='732314'>
+    <variant>Excel</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='networking' start='727931'>
+    <variant>Network</variant>
+    <variant>network</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='oracle' start='732314'>
+    <variant>Oracle</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='raiser &apos;  s edge' start='732314'>
+    <variant>Raiser's Edge</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='research' start='732314'>
+    <variant>research</variant>
+  </canonskill>
+  <canonskill end='732314' experience='1' expidrefs='2' idrefs='2' lastused='2006' name='speechwriting' start='727931'>
+    <variant>Speech</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

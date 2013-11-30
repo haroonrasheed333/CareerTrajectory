@@ -1,0 +1,155 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734594' xml:space='preserve'><contact><name><givenname>Fred</givenname> <givenname>L</givenname>. <surname>Hauser</surname></name> 
+<address lat='41.3137' lon='81.4961' majorcity='MACEDONIA' state='OH'><street>1013 Shoshone Trail</street> 
+<city>Macedonia</city>, <state abbrev='OH'>Ohio</state> <postalcode>44056</postalcode></address> 
+<phone>330-467-2906</phone></contact> 
+
+
+<summary>Career Objective 
+
+<objective>To use my skills and experience in a challenging position with an opportunity for career growth.</objective></summary> 
+
+<education>Education 
+
+<school id='7'><courses>Certification for DuPont Crosfield Magnascan 636</courses>; Completed <completiondate days='726835' iso8601='1991-01-01'>1991</completiondate> 
+
+<institution>Maple Heights Senior High School</institution>. Graduated; <completiondate days='721873' iso8601='1977-06-01'>June, 1977</completiondate>. 
+<description>Obtained Vocational Certification for completing 1,320 hours in graphic arts (two-year course).</description></school></education> 
+
+<experience end='present' start='722146'>Experience
+
+<job end='present' id='1' pos='1' sic='5141' sic2='51' start='733806'><employer>Nestles Frozen foods</employer>; <daterange><start days='733806' iso8601='2010-02-01'>February 2010</start> - <end days='present' iso8601='2012-03-30'>present</end></daterange></job>:
+
+Call-in status performing various duties:
+
+
+<job end='733744' id='2' pos='2' sic='271101' sic2='27' start='733591'><employer>Cleveland Plain Dealer</employer>; <daterange><start days='733591' iso8601='2009-07-01'>July 2009</start> - <end days='733744' iso8601='2009-12-01'>December 2009</end></daterange>:
+
+<description>Mailroom: Duties include maintenance and operation of Mueller Martini SLS inserters,and pocket feeders.</description></job>
+
+ 
+<job end='733165' id='3' pos='3' sic='275998' sic2='27' start='724522'><employer>Precision Printing</employer>; <daterange><start days='724522' iso8601='1984-09-01'>September 1984</start> ? <end days='733165' iso8601='2008-05-01'>May 2008</end></daterange>:
+ 
+<description>Prepress for offset printing: Duties included camerawork, stripping, plate-making and proofing of work. 
+Became involved with scanning using various scanners and imaging of film. In the recent years I was 
+responsible for maintenance of equipment and scheduling of repairs to ensure safe and efficient 
+equipment production throughout the facility. Other responsibilities delegated to me included the 
+ordering of supplies as well as maintaining adequate inventory in a cost efficient manner. 
+
+Became familiar with the Scitex workflow system including working with preps and the proofing software. 
+Other responsibilities in this process include calibration of the plates and proofing.</description></job> 
+
+<job end='724522' id='4' pos='4' sic='271101' sic2='27' start='724309'><employer>Sun Newspapers</employer>; <daterange><start days='724309' iso8601='1984-02-01'>February 1984</start> to <end days='724522' iso8601='1984-09-01'>September 1984</end></daterange>: 
+
+<description>Cameraman: Duties included operating roll-fed camera to obtain negatives for the production of the 
+newspaper.</description></job> 
+
+<job end='724309' id='5' pos='5' sic='275902' sic2='27' start='722848'><employer>Adcraft Decals</employer>; <daterange><start days='722848' iso8601='1980-02-01'>February 1980</start> ? <end days='724309' iso8601='1984-02-01'>February 1984</end></daterange>: 
+
+<description>Pre-Press Division: Duties include camera work, diffusion-transfer work, operating step and repeat 
+machine, film developing, opaqueing and color separations of negatives.</description></job> 
+
+<job end='722695' id='6' pos='6' sic='733105' sic2='73' start='722146'><employer>Cleveland Letter Service</employer>; <daterange><start days='722146' iso8601='1978-03-01'>March 1978</start> ? <end days='722695' iso8601='1979-09-01'>September 1979</end></daterange>: 
+
+<description>Lithographer: Duties included camera work, line and half tone work, stripping, diffusion-transfer work 
+and plate making. 
+
+State Wholesale and Distributors; November 1977 ? January 1978: 
+
+Cashier: Duties included stocking the warehouse and operating the cash register. 
+
+Bedford Lithograph; June 1977 ? September 1977: 
+
+Printing Pressman: Duties included feeder-operator on four color Harris.</description></job></experience> 
+
+<statements>Hobbies 
+
+<activities>Hiking and jogging with my dogs; handyman for my parents; spending time with my nephews.</activities></statements> 
+
+<references>References 
+
+Available upon request.</references> 
+
+*
+<references>References 
+
+Mr. William Cundra 
+1003 Shoshone Trail 
+Macedonia, Ohio 44056 
+330-908-0698 
+
+
+Mr. Larry Wilson 
+9611 Hickory Hill Drive 
+Twinsburg, Ohio 44087 
+330-425-2006 
+
+
+Mrs. Anne Turchek 
+3729 Mack 
+Cleveland, Ohio 44109 
+216-741-9960 
+
+
+Mrs. Janet Bruhn 
+1023 Shoshone Trail 
+Macedonia, Ohio 44056 
+330-467-9164</references>  
+
+
+*
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='733165' experience='1' expidrefs='3' idrefs='3' lastused='2008' name='calibration' start='724522'>
+    <variant>calibration</variant>
+  </canonskill>
+  <canonskill end='722695' experience='1' expidrefs='6' idrefs='6' lastused='1979' name='cashier' start='722146'>
+    <variant>cash register</variant>
+    <variant>Cashier</variant>
+  </canonskill>
+  <canonskill end='724309' experience='1' expidrefs='5,6' idrefs='5,6' lastused='1984' name='color' start='722146'>
+    <variant>color</variant>
+  </canonskill>
+  <canonskill end='733165' experience='1' expidrefs='3,5' idrefs='3,5' lastused='2008' name='film production' start='722848'>
+    <variant>film</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='7' idrefs='7' name='graphic design'>
+    <variant>graphic arts</variant>
+  </canonskill>
+  <canonskill end='733165' experience='1' expidrefs='3' idrefs='3' lastused='2008' name='imaging' start='724522'>
+    <variant>imaging</variant>
+  </canonskill>
+  <canonskill end='733165' experience='1' expidrefs='3' idrefs='3' lastused='2008' name='inventory management' start='724522'>
+    <variant>inventory</variant>
+  </canonskill>
+  <canonskill end='724522' experience='1' expidrefs='4' idrefs='4' lastused='1984' name='newspaper' start='724309'>
+    <variant>newspaper</variant>
+  </canonskill>
+  <canonskill end='724522' experience='1' expidrefs='4,5,6' idrefs='4,5,6' lastused='1984' name='photography' start='722146'>
+    <variant>camera</variant>
+  </canonskill>
+  <canonskill end='733165' experience='1' expidrefs='3,5' idrefs='3,5' lastused='2008' name='pre - press production' start='722848'>
+    <variant>Prepress</variant>
+    <variant>Pre-Press</variant>
+  </canonskill>
+  <canonskill end='733165' experience='1' expidrefs='3' idrefs='3' lastused='2008' name='proofing' start='724522'>
+    <variant>proofing</variant>
+  </canonskill>
+  <canonskill end='733165' experience='1' expidrefs='3' idrefs='3' lastused='2008' name='repair' start='724522'>
+    <variant>repairs</variant>
+  </canonskill>
+  <canonskill end='733165' experience='1' expidrefs='3' idrefs='3' lastused='2008' name='scanners' start='724522'>
+    <variant>scanners</variant>
+    <variant>scanning</variant>
+  </canonskill>
+  <canonskill end='733165' experience='1' expidrefs='3' idrefs='3' lastused='2008' name='scheduling' start='724522'>
+    <variant>scheduling</variant>
+  </canonskill>
+  <canonskill end='733165' experience='1' expidrefs='3' idrefs='3' lastused='2008' name='workflow analysis' start='724522'>
+    <variant>workflow</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

@@ -1,0 +1,26 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "PV Installer Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "4021", 
+            "Certifying Organization": "North American Board of Certified Energy Practitioners"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Small Wind Installer Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "6781", 
+            "Certifying Organization": "North American Board of Certified Energy Practitioners"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Solar Thermal Installer Certification", 
+            "Type": "Core", 
+            "Certification ID": "5724", 
+            "Certifying Organization": "North American Board of Certified Energy Practitioners"
+        }
+    ], 
+    "onet": "47409902"
+}

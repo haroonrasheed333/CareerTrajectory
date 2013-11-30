@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734597' xml:space='preserve'><contact><name><givenname>Tiffany</givenname> <surname>Richardson</surname></name>
+<address lat='36.9886' lon='76.4202' majorcity='NEWPORT NEWS' state='VA'><street>7418 Apt. E. River Rd.</street>, <city>Newport News</city>, <state abbrev='VA'>VA</state> <postalcode>23607</postalcode></address>
+Cell: <phone type='cell'>757.281.8011</phone>: <email>Trich028@odu.edu</email></contact>
+
+<summary>Profile
+<objective>A creative, focused, and productive undergraduate computer science student proficient in various programming languages. Looking for an opportunity in the field of information technology as an intern in a renowned organization.</objective></summary>
+
+<skills>Skills
+<skills>Project management
+Windows and UNIX operating systems
+Risk and Mitigation
+C++
+Microsoft Visual Basic
+Java
+Software/algorithm design and development
+HTML, XML, Javascript,, CSS, and PHP
+Strong presentation skills</skills>
+
+
+Accomplishments
+Project Management: 
+<description>Supervised team of five to design an innovative student orientation process.
+Risk Mitigation:
+Served as lead in risk mitigation team for senior project ensuring risk were mitigated efficiently.
+Customer Service:
+Investigated customer or public complaints to ensure problem resolution and customer satisfaction.</description></skills>
+
+<experience end='present' start='733926'>Professional Experience
+<job end='present' id='1' naics='61131009' naics2='61' pos='1' sic='822101' sic2='82' start='733926'><title>Technical Support Technician</title>
+<daterange><start days='733926' iso8601='2010-06-01'>June 2010</start> to <end days='present' iso8601='2012-04-02'>present</end></daterange>
+<employer>Old Dominion University Office of Computing and Communications Services</employer>- <address><city>Norfolk</city>, <state abbrev='VA'>VA</state></address>
+<description>Provided customer service by handling calls and solving their queries and concerns.
+Assisted customers with various applications.
+Password recovery
+
+Worked in team to provide adequate customer service to students, faculty, and visitors.</description></job></experience>
+
+<education>Education
+<school id='2'><institution>Old Dominion University</institution>, <completiondate>2013</completiondate>
+<address><city>Norfolk</city>, <state abbrev='VA'>VA</state></address> 
+<major code='0402'>Computer Science</major>
+<degree level='16'>Bachelor's Degree</degree> 
+Major: <major code='0402'>Computer Science</major>
+Major GPA: <gpa max='4' value='2.78'>2.78</gpa>
+Required Coursework:  <description>Advanced Data Structures and Algorithms, Computer Architecture, Introduction to Discrete Structures, Object Oriented Programming and Design, Principles of Programming Languages, and Unix for Programmers.
+Senior Project: Innovator of SOAR, a customizable orientation and registration system for universities and colleges.</description></school>
+
+<school id='3'><institution>Thomas Nelson Community College</institution>, <completiondate days='733775' iso8601='2010-01-01'>2010</completiondate>
+<address><city>Hampton</city>, <state abbrev='VA'>VA</state></address>
+<major code='0402'>Computer Science</major>
+<degree level='14'>Associate Degree</degree>
+Major: <major code='0402'>Computer Science</major>
+GPA: <gpa max='4' value='3'>3.0</gpa>
+Related coursework: <description>Introduction to C++, Introduction to Java. Computer Organization, and Circuit Analysis.</description></school></education>
+
+</resume>
+
+<skillrollup version='1'>
+  <canonskill education='1' eduidrefs='3' idrefs='3' name='c + +'>
+    <variant>C++</variant>
+  </canonskill>
+  <canonskill name='css'>
+    <variant>CSS</variant>
+  </canonskill>
+  <canonskill name='customer satisfaction'>
+    <variant>customer satisfaction</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='customer service' start='733926'>
+    <variant>Customer Service</variant>
+    <variant>customer service</variant>
+  </canonskill>
+  <canonskill name='html'>
+    <variant>HTML</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='3' idrefs='3' name='java'>
+    <variant>Java</variant>
+  </canonskill>
+  <canonskill name='javascript'>
+    <variant>Javascript</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='2' idrefs='2' name='languages'>
+    <variant>Languages</variant>
+  </canonskill>
+  <canonskill name='microsoft windows'>
+    <variant>Windows</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='2' idrefs='2' name='object oriented programming'>
+    <variant>Object Oriented Programming</variant>
+  </canonskill>
+  <canonskill name='operating systems'>
+    <variant>operating systems</variant>
+  </canonskill>
+  <canonskill name='php'>
+    <variant>PHP</variant>
+  </canonskill>
+  <canonskill name='presentation skills'>
+    <variant>presentation skills</variant>
+  </canonskill>
+  <canonskill name='problem solving'>
+    <variant>problem resolution</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='2' idrefs='2' name='programming'>
+    <variant>Programming</variant>
+  </canonskill>
+  <canonskill name='project management'>
+    <variant>Project Management</variant>
+    <variant>Project management</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='2' idrefs='2' name='unix'>
+    <variant>UNIX</variant>
+    <variant>Unix</variant>
+  </canonskill>
+  <canonskill name='visual basic'>
+    <variant>Microsoft Visual Basic</variant>
+  </canonskill>
+  <canonskill name='xml'>
+    <variant>XML</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

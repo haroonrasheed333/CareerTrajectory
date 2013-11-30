@@ -1,0 +1,47 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Renewable Energy Photovoltaic and Small Wind Installer Level I Apprentice", 
+            "Type": "Core", 
+            "Certification ID": "6834", 
+            "Certifying Organization": "ETA International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Renewable Energy Photovoltaic and Small Wind Installer Level II Specialist", 
+            "Type": "Core", 
+            "Certification ID": "6835", 
+            "Certifying Organization": "ETA International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Renewable Energy Photovoltaic and Small Wind Installer Level III Technician", 
+            "Type": "Advanced", 
+            "Certification ID": "6836", 
+            "Certifying Organization": "ETA International"
+        }, 
+        {
+            "Acronym": "ERP", 
+            "Certification Name": "Energy Risk Professional", 
+            "Type": "Core", 
+            "Certification ID": "5868", 
+            "Certifying Organization": "Global Association of Risk Professionals"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Energy Code Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "6924", 
+            "Certifying Organization": "International Code Council"
+        }, 
+        {
+            "Acronym": "ND", 
+            "Certification Name": "LEED AP Neighborhood Development", 
+            "Type": "Advanced", 
+            "Certification ID": "6274", 
+            "Certifying Organization": "Green Building Certification Institute"
+        }
+    ], 
+    "onet": "17219911"
+}

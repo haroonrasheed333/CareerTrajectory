@@ -1,0 +1,40 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CRE", 
+            "Certification Name": "Certified Reliability Engineer", 
+            "Type": "Advanced", 
+            "Certification ID": "0792", 
+            "Certifying Organization": "American Society for Quality"
+        }, 
+        {
+            "Acronym": "IRRSP", 
+            "Certification Name": "Industrial Radiography Radiation Safety Personnel - X-Ray", 
+            "Type": "Specialty", 
+            "Certification ID": "7910", 
+            "Certifying Organization": "American Society for Nondestructive Testing"
+        }, 
+        {
+            "Acronym": "DGCP", 
+            "Certification Name": "Distributed Generation Certified Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "1282", 
+            "Certifying Organization": "Association of Energy Engineers"
+        }, 
+        {
+            "Acronym": "ANDE", 
+            "Certification Name": "NDE/QC Personnel Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "8187", 
+            "Certifying Organization": "American Society of Mechanical Engineers International"
+        }, 
+        {
+            "Acronym": "IRRSP", 
+            "Certification Name": "Industry Radiography Radiation Safety Personnel", 
+            "Type": "Specialty", 
+            "Certification ID": "2202", 
+            "Certifying Organization": "American Society for Nondestructive Testing"
+        }
+    ], 
+    "onet": "17216100"
+}

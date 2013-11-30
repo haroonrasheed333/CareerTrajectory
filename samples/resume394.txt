@@ -1,0 +1,183 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734593' xml:space='preserve'><contact><address lat='42.3701' lon='71.0863' majorcity='CAMBRIDGE' state='MA'><street>80 Spring St Flr 2</street>
+<city>Cambridge</city>, <state abbrev='MA'>MA</state> <postalcode>02141</postalcode></address>	
+Email: <email>Chin.Andrew.B@Gmail.com</email>
+LinkedIn: <website>http://www.linkedin.com/in/andrewbchin</website>
+<name><givenname>Andrew</givenname> <givenname>B</givenname>. <surname>Chin</surname></name>
+Phone: <phone>978-996-9702</phone></contact>                                                                                                   
+<skills>Skills
+<description>Use of lab and test equipment such as oscilloscope and data acquisition equipment
+Circuit debug, testing and board bring up</description>
+Working with multi-disciplinary engineering teams and customers
+Programming languages: <skills>C/C++, Basic, Assembly, Python
+Software: AutoCAD, PSpice</skills></skills>
+
+<education>Education
+<school id='6'><institution>Northeastern University</institution>        <address><city>Boston</city>, <state abbrev='MA'>MA</state></address> 
+<degree level='16' name='Bachelor of Science'>Bachelor of Science</degree> in <major code='1203'>Electrical Engineering</major>                    			        <completiondate days='732799' iso8601='2007-05-01'>May  2007</completiondate>
+Projects :  <description>Developed robot using analog circuits and embedded micro-controller, Designed detector circuit for microwave</description></school></education>
+
+<experience end='present' start='731765'>Experience
+<job end='present' id='1' pos='1' start='734352'><jobtype>Independent</jobtype> Work                <address><city>Cambridge</city>, <state abbrev='MA'>MA</state></address>						         
+Independent Design and Contract Work                    				       <daterange><start days='734352' iso8601='2011-08-01'>August 2011</start> - <end days='present' iso8601='2012-03-29'>Present</end></daterange>
+<description>Modifying existing kernel driver to integrate DSP board in Linux 
+Developing USB communications and Windows driver for a board featuring a PIC micro-controller
+Quality Control Support Engineer for private client in the consumer product industry (board debugging, circuit modifications, and electronic design improvements)</description></job>   
+
+<job end='734230' id='2' pos='2' sic='871120' sic2='87' start='733104'><employer>Woodard &amp; Curran</employer>                <address><city>Dedham</city>, <state abbrev='MA'>MA</state></address>
+<title>Instrumentation and Controls Engineer</title>					       <daterange><start days='733104' iso8601='2008-03-01'>March 2008</start> - <end days='734230' iso8601='2011-04-01'>April 2011</end></daterange>
+<description>Engineered power management and control systems for multiple clients in multiple industries 
+Produced bill of materials (BOMs), system architecture plans, wiring diagrams, system integration drawings, and electrical design specifications for motors, transducers, and electrical and process control equipment  
+Planned and documented field investigations and tests to ensure quality design and integration of systems 
+Researched electronic equipment, instrumentation technologies, and networking communication protocols such as fieldbus for integration on future projects to improve on cost, construction time, and client's return on investment
+Developed improvements to current sets of bid and technical documentation which led to decreased engineering time and delivery costs
+Provided technical guidance to contractors and other engineering disciplines to ensure system requirements were met and projects were completed as intended
+Led initiatives to increase collaboration between engineering groups and promoted continuous improvement</description></job>
+
+<job end='732679' id='3' naics='44311221' naics2='44' pos='3' sic='509905' sic2='50' start='732495'><employer>Bose Corporation</employer>                  <address><city>Framingham</city>, <state abbrev='MA'>MA</state></address>
+Technical Engineering <jobtype>Internship</jobtype> 						       <daterange><start days='732495' iso8601='2006-07-01'>July 2006</start> - <end days='732679' iso8601='2007-01-01'>January 2007</end></daterange>
+<description>Designed a more cost effective Li-Ion battery charger from conceptual design to the PCB prototype phase 
+Prototyped and tested proposed circuit designs on bread boards 
+Developed schematics using PSpice
+Aided the engineering development team in researching and testing future concepts and products
+Debugged and modified electronic analog circuits for testing purposes
+Evaluated audio performance of various headsets and transducers using Matlab</description></job>
+
+<job end='732434' id='4' pos='4' sic='573401' sic2='57' start='732130'><employer>Jam Technologies</employer>                 <address><city>Wellesley</city>, <state abbrev='MA'>MA</state></address>
+Hardware and Test Engineering <jobtype>Internship</jobtype>					       <daterange><start days='732130' iso8601='2005-07-01'>July 2005</start> - <end days='732434' iso8601='2006-05-01'>May 2006</end></daterange>
+<description>Authored company/industry technical documentation on EMI (Electromagnetic Interference) reduction on class D audio amplifiers and PCB board design. 
+Generated bill of materials (BOMs) and ordered parts for PCB fabrication and assembly
+Created procedural documentation for testing and revision tracking
+Coordinated EMI testing of products for Electromagnetic Compatibility (EMC) 
+Contributed to the development of the company's testing procedures and provided detailed test reports 
+Tested and debugged circuit boards to characterize them for the production phase</description></job> 
+
+<job end='731949' id='5' pos='5' sic='367401' sic2='36' start='731765'><employer>Zoran Corporation</employer>                 <address><city>Burlington</city>, <state abbrev='MA'>MA</state></address>                      
+Firmware Engineering <jobtype>Internship</jobtype>					                       <daterange><start days='731765' iso8601='2004-07-01'>July 2004</start> - <end days='731949' iso8601='2005-01-01'>January 2005</end></daterange>  
+<description>Ported a third-party debugger to proprietary and ARM based processor cores</description></job></experience>
+
+<professional>Interests
+<affiliations>Member of IEEE and ISA:Boston Chapter, Guitar</affiliations></professional>
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='732434' experience='1' expidrefs='4' idrefs='4' lastused='2006' name='assembly language' start='732130'>
+    <variant>Assembly</variant>
+    <variant>assembly</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='3,4' idrefs='3,4' lastused='2007' name='audio' start='732130'>
+    <variant>audio</variant>
+  </canonskill>
+  <canonskill name='autocad'>
+    <variant>AutoCAD</variant>
+  </canonskill>
+  <canonskill name='basic'>
+    <variant>Basic</variant>
+  </canonskill>
+  <canonskill name='c'>
+    <variant>C</variant>
+  </canonskill>
+  <canonskill name='c + +'>
+    <variant>C++</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='conceptual design' start='732495'>
+    <variant>conceptual design</variant>
+  </canonskill>
+  <canonskill end='734230' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='continuous improvement' start='733104'>
+    <variant>continuous improvement</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='6' end='734579' experience='1' expidrefs='1' idrefs='6,1' lastused='2012' name='control' start='734352'>
+    <variant>controller</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='customer relations' start='733104'>
+    <variant>client</variant>
+    <variant>clients</variant>
+  </canonskill>
+  <canonskill name='data acquisition'>
+    <variant>data acquisition</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='debugging' start='734352'>
+    <variant>debugging</variant>
+  </canonskill>
+  <canonskill end='734230' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='delivery' start='733104'>
+    <variant>delivery</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='digital signal processing' start='734352'>
+    <variant>DSP</variant>
+  </canonskill>
+  <canonskill end='732434' experience='1' expidrefs='4' idrefs='4' lastused='2006' name='documentation' start='732130'>
+    <variant>documentation</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='engineering' start='734352'>
+    <variant>Engineer</variant>
+  </canonskill>
+  <canonskill name='languages'>
+    <variant>languages</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='linux' start='734352'>
+    <variant>Linux</variant>
+  </canonskill>
+  <canonskill end='734230' experience='1' expidrefs='2,4' idrefs='2,4' lastused='2011' name='materials management' start='732130'>
+    <variant>materials</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='matlab' start='732495'>
+    <variant>Matlab</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='microsoft windows' start='734352'>
+    <variant>Windows</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='6' idrefs='6' name='microwave'>
+    <variant>microwave</variant>
+  </canonskill>
+  <canonskill end='734230' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='networking' start='733104'>
+    <variant>networking</variant>
+  </canonskill>
+  <canonskill name='oscilloscope'>
+    <variant>oscilloscope</variant>
+  </canonskill>
+  <canonskill name='programming'>
+    <variant>Programming</variant>
+  </canonskill>
+  <canonskill end='734230' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='protocols' start='733104'>
+    <variant>protocols</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='pspice' start='732495'>
+    <variant>PSpice</variant>
+  </canonskill>
+  <canonskill name='python'>
+    <variant>Python</variant>
+  </canonskill>
+  <canonskill end='734230' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='quality' start='733104'>
+    <variant>quality</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='quality control' start='734352'>
+    <variant>Quality Control</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='research' start='732495'>
+    <variant>researching</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='schematic diagrams' start='732495'>
+    <variant>schematics</variant>
+  </canonskill>
+  <canonskill end='734230' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='system architecture' start='733104'>
+    <variant>system architecture</variant>
+  </canonskill>
+  <canonskill end='734230' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='systems integration' start='733104'>
+    <variant>system integration</variant>
+  </canonskill>
+  <canonskill end='734230' experience='1' expidrefs='2,4' idrefs='2,4' lastused='2011' name='technical writing' start='732130'>
+    <variant>technical documentation</variant>
+  </canonskill>
+  <canonskill name='test equipment'>
+    <variant>test equipment</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='usb' start='734352'>
+    <variant>USB</variant>
+  </canonskill>
+  <canonskill end='734230' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='wiring' start='733104'>
+    <variant>wiring</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

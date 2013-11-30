@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734590' xml:space='preserve'><contact><name><givenname>June</givenname> <givenname>A</givenname>. <surname>Silber</surname></name>
+<address lat='44.2619' lon='88.4152' majorcity='APPLETON' state='WI'><street>3761 N White Hawk Drive #2001</street>, <city>Appleton</city>, <state abbrev='WI'>WI</state> <postalcode>54913</postalcode></address>
+<phone>920-460-5208</phone> * <email>junesilber@gmail.com</email></contact>
+
+<summary>OBJECTIVE:	<objective>Obtain a position utilizing experience and skills to profit a high performance team that puts the care and concern of the patient first and foremost.</objective></summary>
+
+<education>EDUCATION: 	<school id='6'><institution>Globe University</institution>, <address><city>Appleton</city>, <state abbrev='WI'>WI</state></address>
+	<degree>D.A.S</degree>. <major code='(0609|0699)'>Medical Assistant</major>, <completiondate>June 2013</completiondate></school>
+
+	<school id='7'><institution>Northeast Wisconsin Technical College (NWTC)</institution>, <address><city>Green Bay</city>, <state abbrev='WI'>WI</state></address>
+	<degree level='14' name='Associate in Arts and Sciences'>A.A.S</degree>. <major code='4399'>Health Care Business Services</major>, <completiondate days='732434' iso8601='2006-05-01'>May 2006</completiondate></school>
+	<degree level='14' name='Associate in Arts and Sciences'>A.A.S</degree>. <major code='1699'>Health Information Technology</major>, <completiondate days='732434' iso8601='2006-05-01'>May 2006</completiondate>
+	<courses>Certified Nursing Assistant (Licensed CNA)</courses>, <completiondate days='734291' iso8601='2011-06-01'>June 2011</completiondate>
+	Awards: <honors>High Honors</honors>
+
+CERTIFICATES:	<courses>Medical Coding, Health Care Business Services, Level One Microsoft Office</courses></education>
+
+<experience end='present' start='724125'>RELATED WORK EXPERIENCE:
+<job end='present' id='1' pos='1' start='733834'><title>Certified Nursing Assistant/Personal Care Worker</title>, Comfort Keepers, <address><city>Green Bay</city>, <state abbrev='WI'>WI</state></address>	<daterange><start days='733834' iso8601='2010-03-01'>Mar 2010</start> - <end days='present' iso8601='2012-03-26'>Present</end></daterange>
+<description>Provide home care for seniors and other adults including: Home companionship, personal care, homemaker services and assisting with daily living activities</description></job>
+
+<job end='734048' id='2' pos='2' start='733683'><title>Personal Care Worker</title>, Personal Residence, <address><city>Appleton</city>, <state abbrev='WI'>WI</state></address>				<daterange><start days='733683' iso8601='2009-10-01'>Oct 2009</start> - <end days='734048' iso8601='2010-10-01'>Oct 2010</end></daterange>
+<description>Gained experience  using a Hoyer lift
+Assisted with daily living activities, including preparing meals and reading
+Completed range of motion exercises with client</description></job>
+
+<job end='733349' id='3' pos='3' start='733075'><title>Patient Representative</title>, <employer>Orthopedics &amp; Sports Institute of the Fox Valley</employer>, <address><city>Appleton</city>, <state abbrev='WI'>WI</state></address>	<daterange><start days='733075' iso8601='2008-02-01'>Feb 2008</start> - <end days='733349' iso8601='2008-11-01'>Nov 2008</end></daterange>
+<description>Represented the company in a professional manner with exceptional customer service
+Operated a 33 line switchboard by answering and transferring calls
+Registered patients on the phone by entering demographic and insurance information
+Scheduled appointments for patients
+Gained experience with Epic software
+
+Patient Services, UW Health Fox Valley Family Practice</description></job>, <job end='733075' id='4' pos='4' start='732434'><address><city>Appleton</city>, <state abbrev='WI'>WI</state></address>			<daterange><start days='732434' iso8601='2006-05-01'>May 2006</start> - <end days='733075' iso8601='2008-02-01'>Feb 2008</end></daterange>
+<description>Operated 20 line switchboard answering and transferring calls
+Pre-registered patients over the phone and at reception desk, providing a friendly greeting
+Scheduled new and follow-up appointments for patients
+Gained experience with Epic software</description></job>
+
+ADDITIONAL WORK EXPERIENCE
+<job end='732434' id='5' pos='5' sic='721704' sic2='72' start='724125'><title>Co-Owner</title>, <employer>J &amp;J Personal Touch Cleaning Inc</employer>., <address><city>Appleton</city>, <state abbrev='WI'>WI</state></address>				<daterange><start days='724125' iso8601='1983-08-01'>August 1983</start> - <end days='732434' iso8601='2006-05-01'>May 2006</end></daterange>
+<description>Established a prosperous cleaning business from conception
+Developed a network of residential and commercial clients
+Established strong business relations for repeat referral business
+Marketed business via telephone and direct mail
+Hired and managed 12 employees, motivating to perform at peak proficiency
+Managed bookkeeping including invoicing, accounts payable and receivable, payroll and collections
+Utilized QuickBooks Pro Software</description></job></experience>
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='732434' experience='1' expidrefs='5' idrefs='5' lastused='2006' name='accounts payable' start='724125'>
+    <variant>accounts payable</variant>
+  </canonskill>
+  <canonskill end='732434' experience='1' expidrefs='5' idrefs='5' lastused='2006' name='bookkeeping' start='724125'>
+    <variant>bookkeeping</variant>
+  </canonskill>
+  <canonskill education='1' name='certified novell engineer'>
+    <variant>CNA</variant>
+  </canonskill>
+  <canonskill end='734048' experience='1' expidrefs='2,5' idrefs='2,5' lastused='2010' name='customer relations' start='724125'>
+    <variant>client</variant>
+    <variant>clients</variant>
+  </canonskill>
+  <canonskill end='733349' experience='1' expidrefs='3' idrefs='3' lastused='2008' name='customer service' start='733075'>
+    <variant>customer service</variant>
+  </canonskill>
+  <canonskill end='732434' experience='1' expidrefs='5' idrefs='5' lastused='2006' name='direct mail' start='724125'>
+    <variant>direct mail</variant>
+  </canonskill>
+  <canonskill end='733349' experience='1' expidrefs='3' idrefs='3' lastused='2008' name='insurance' start='733075'>
+    <variant>insurance</variant>
+  </canonskill>
+  <canonskill end='732434' experience='1' expidrefs='5' idrefs='5' lastused='2006' name='invoicing' start='724125'>
+    <variant>invoicing</variant>
+  </canonskill>
+  <canonskill education='1' name='microsoft office'>
+    <variant>Microsoft Office</variant>
+  </canonskill>
+  <canonskill end='732434' experience='1' expidrefs='5' idrefs='5' lastused='2006' name='networking' start='724125'>
+    <variant>network</variant>
+  </canonskill>
+  <canonskill education='1' name='nursing'>
+    <variant>Nursing</variant>
+  </canonskill>
+  <canonskill end='732434' experience='1' expidrefs='5' idrefs='5' lastused='2006' name='payroll processing' start='724125'>
+    <variant>payroll</variant>
+  </canonskill>
+  <canonskill end='732434' experience='1' expidrefs='5' idrefs='5' lastused='2006' name='peak' start='724125'>
+    <variant>peak</variant>
+  </canonskill>
+  <canonskill education='1' name='programming'>
+    <variant>Coding</variant>
+  </canonskill>
+  <canonskill end='732434' experience='1' expidrefs='5' idrefs='5' lastused='2006' name='quickbooks' start='724125'>
+    <variant>QuickBooks Pro</variant>
+  </canonskill>
+  <canonskill end='734048' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='read' start='733683'>
+    <variant>reading</variant>
+  </canonskill>
+  <canonskill end='733075' experience='1' expidrefs='4' idrefs='4' lastused='2008' name='receptionist' start='732434'>
+    <variant>reception</variant>
+  </canonskill>
+  <canonskill end='733349' experience='1' expidrefs='3,4' idrefs='3,4' lastused='2008' name='switchboard operator' start='732434'>
+    <variant>switchboard</variant>
+  </canonskill>
+  <canonskill end='733349' experience='1' expidrefs='3,4,5' idrefs='3,4,5' lastused='2008' name='telephone skills' start='724125'>
+    <variant>telephone</variant>
+    <variant>phone</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

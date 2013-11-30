@@ -1,0 +1,230 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734596' xml:space='preserve'><contact><name><givenname>Randy</givenname> <surname>Walton</surname></name>
+
+
+
+Randy Walton
+<address lat='35.1538' lon='80.927' majorcity='CHARLOTTE' state='NC'><street>6416 Ansley Falls Drive 827</street> <city>Charlotte</city>, <state abbrev='NC'>North Carolina</state> <postalcode>28217</postalcode></address>  <phone>(678) 570-5084</phone>  <email>futurerw9406@yahoo.com</email></contact>
+
+
+<summary>Profile 	
+<summary>Technology savvy IT professional with proven strategic skills that have been implemented to improve business functionality with positive outcomes as the bottom line.  Possess exceptional communication and organizational skills, decision making, and leadership qualities for daily function.  A self starter able to adapt at moving into new environments and expound on existing knowledge and experience to quickly adapt to new technologies fluently.</summary>  
+Skills Summary 	
+<summary>Eleven years of experience working with all aspects of facility developed systems for Premier, Emory University, and Emory Hospital.
+Expertise in network analysis, design, implementation, and support.  Outstanding analytical, interpersonal, training, and presentation skills.  Gross understanding of technology with focus on delivering business solutions.
+Proven leadership skills during facility technical crisis.  Great understanding of healthcare clinical applications.  Superb testing strategies.</summary></summary>  
+
+<experience end='present' start='730122'>Professional Experience 	
+<job end='present' id='1' naics='54161823' naics2='54' pos='1' sic='509901' sic2='50' start='733044'><employer>Premier Inc</employer>.
+	<daterange><start days='733044' iso8601='2008-01-01'>2008</start>-<end days='present' iso8601='2012-04-01'>Present</end></daterange>, <title>Product Analyst</title> 
+<description>Provided support for over 500 hospitals throughout the Unites States. 
+Prepared patient data for monthly and quarterly submissions.     
+Diagnose computer related symptoms while patient data is being abstracted in Quality Measure Reporter.  
+Diagnose Performance, Connectivity, and Real Time Reporting (RTR); Track network activity through customized program - Cordiant Technology.   
+Managed Quality Advisor, Operations Advisor, SafetySurveillor, &amp; Performance Improvement Portal.  
+Monitored HL7 traffic flow to in house SafetySurveillor infection control software.  
+Support abstractions for the core measures: Acute Myocardial Infarction (AMI), Coronary Artery Bypass Graft (CABG), Heart Failure (HF), HIP, Knee, Pneumonia (PN), Pregnancy (PR), Stroke (STK), and Surgical (SCIP).
+Support standard analysis reports: Charge Comparison, Length Of Stay (LOS) Comparison, Custom Query, Practitioner Profiles, Custom Groups, Physician Focus, Custom Comparison Analysis, just to name a few.  
+Process new and existing user accounts (Audit System), LMS (Login Management System, and LDAP (Active Directory) system using the standard Business Intelligence (BI) tools.  
+Required to test new applications as they are releases.  
+Member of User Access Team (UAT) for Product Releases and Updates.
+Travel to area Hospitals and Medical Facilities for Product Training.</description></job> 
+
+<job end='733044' id='2' naics='61131009' naics2='61' pos='2' sic='801101' sic2='80' start='730122'><employer>EMORY UNIVERSITY</employer>
+<daterange><start days='730122' iso8601='2000-01-01'>2000</start>-<end days='733044' iso8601='2008-01-01'>2008</end></daterange> <title>Technical Support Specialists II</title> 
+<description>Network and technical support for Emory University and Affiliates (12,000 + Faculty, Staff, &amp; Students).  
+Formally held position as Assistant Supervisor Computer Support Center.
+Ran CMS reports on the Avaya call tracking system. 
+Reporting: Monthly, weekly, daily and individual performance.  Reduced FTE from (8 to 4).  
+Tier I, II, and III network, hardware and software problem resolution.  
+Supervised the University clean room.  Managed student workers, developed step-by-step on how to clean infected laptops / desktops.  
+Created accounts/ sponsorships through Access Inquiry Name Query (AINQ) and IBM Mainframe (Host Explorer).  
+Trained faculty and staff on Emory Listserv distribution system. 
+Worked on the Exchange project.  Moved users from UNIX (Eagle) accounts to Exchange 2003 and then to Exchange 2007.  
+Worked in conjunction with Local Support to create best practices for end users in multiple departments across campus and in the hospital organization.  
+Revised and implemented department service level agreement programs.  
+Created and implemented the Crisis Manager Role.  Served as point of contact for system outages / service interruptions.  
+Served on the Annual Freshman Committee.  Coordinated the setup for configuration of desktops and laptops for incoming freshmen class.</description></job></experience>    
+
+<skills>Technical Proficiencies: 	
+<skills>Platform: Knowledge of all PC platforms, Mac, DOS, UNIX, Windows Mobile, Laptops, Workstations and Servers, Network Cards, Memory, Printers, and other peripherals.  
+Networking: LAN/WAN, TCP/IP, Wireless Network, VPN, Routers, and Gateways.
+Tools/Software: Web Browsers (Internet Explorer, Firefox, Safari, Opera), VNC, Remote Desktop, Firstclass Email Server, Expert - Office Suite, Exchange 2003 &amp; 2007, Adobe Creative, Listserv, Telnet and SSH, Server Administrator, Some SQL/Access, McAfee, Norton</skills> 
+Certifications: <courses>Certified CompTIA A+, Exchange Training, ITIL Training and Microsoft Excel Training, Healthcare Application Training.</courses></skills>  
+
+<education>Education 	
+<school id='3'><institution>Strayer university</institution>
+<address><city>Charlotte</city>, <state abbrev='NC'>NC</state></address>
+<degree level='18'>Masters of Health Service Administration</degree>
+<completiondate days='734383' iso8601='2011-09-01'>September 2011</completiondate>. <honors>Summa Cum Laude.</honors></school>
+
+<school id='4'><institution>North Carolina Agricultural &amp; technical State University</institution>
+<address><city>Greensboro</city>, <state abbrev='NC'>NC</state></address>
+<degree level='16'>Bachelors of Science</degree>, <major code='4304'>Marketing</major>
+<completiondate days='728782' iso8601='1996-05-01'>May 1996</completiondate></school>.</education>
+
+
+<contact><address lat='35.1538' lon='80.927' majorcity='CHARLOTTE' state='NC'><street>6416 Ansley Falls 826</street>  <city>Charlotte</city>, <state abbrev='NC'>NC</state> <postalcode>28217</postalcode></address>  <phone>(678) 570-5084</phone>  <email>futurerw9406@yahoo.com</email></contact>  
+</resume>
+
+<skillrollup version='1'>
+  <canonskill name='a + certified'>
+    <variant>A+</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='active directory' start='733044'>
+    <variant>Active Directory</variant>
+  </canonskill>
+  <canonskill name='adobe'>
+    <variant>Adobe</variant>
+  </canonskill>
+  <canonskill end='733044' experience='1' expidrefs='2' idrefs='2' lastused='2008' name='avaya' start='730122'>
+    <variant>Avaya</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='business intelligence' start='733044'>
+    <variant>BI</variant>
+    <variant>Business Intelligence</variant>
+  </canonskill>
+  <canonskill end='733044' experience='1' expidrefs='2' idrefs='2' lastused='2008' name='cms' start='730122'>
+    <variant>CMS</variant>
+  </canonskill>
+  <canonskill end='733044' experience='1' expidrefs='2' idrefs='2' lastused='2008' name='computer hardware' start='730122'>
+    <variant>hardware</variant>
+  </canonskill>
+  <canonskill end='733044' experience='1' expidrefs='2' idrefs='2' lastused='2008' name='desktop pc' start='730122'>
+    <variant>desktops</variant>
+  </canonskill>
+  <canonskill name='dos'>
+    <variant>DOS</variant>
+  </canonskill>
+  <canonskill name='email'>
+    <variant>Email</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='focus' start='733044'>
+    <variant>Focus</variant>
+  </canonskill>
+  <canonskill name='gateway'>
+    <variant>Gateways</variant>
+  </canonskill>
+  <canonskill end='733044' experience='1' expidrefs='2' idrefs='2' lastused='2008' name='ibm mainframe' start='730122'>
+    <variant>IBM Mainframe</variant>
+  </canonskill>
+  <canonskill end='733044' experience='1' expidrefs='2' idrefs='2' lastused='2008' name='internet explorer' start='730122'>
+    <variant>Explorer</variant>
+    <variant>Internet Explorer</variant>
+  </canonskill>
+  <canonskill name='itil'>
+    <variant>ITIL</variant>
+  </canonskill>
+  <canonskill name='lan'>
+    <variant>LAN</variant>
+  </canonskill>
+  <canonskill end='733044' experience='1' expidrefs='2' idrefs='2' lastused='2008' name='laptop computers' start='730122'>
+    <variant>Laptops</variant>
+    <variant>laptops</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='ldap' start='733044'>
+    <variant>LDAP</variant>
+  </canonskill>
+  <canonskill name='macintosh'>
+    <variant>Mac</variant>
+  </canonskill>
+  <canonskill name='mcafee'>
+    <variant>McAfee</variant>
+  </canonskill>
+  <canonskill name='memory'>
+    <variant>Memory</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='microsoft access' start='730122'>
+    <variant>Access</variant>
+  </canonskill>
+  <canonskill name='microsoft excel'>
+    <variant>Microsoft Excel</variant>
+  </canonskill>
+  <canonskill end='733044' experience='1' expidrefs='2' idrefs='2' lastused='2008' name='microsoft exchange' start='730122'>
+    <variant>Exchange</variant>
+  </canonskill>
+  <canonskill name='microsoft office'>
+    <variant>Office Suite</variant>
+  </canonskill>
+  <canonskill name='microsoft windows'>
+    <variant>Windows</variant>
+  </canonskill>
+  <canonskill name='network cards'>
+    <variant>Network Cards</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='networking' start='730122'>
+    <variant>Network</variant>
+    <variant>network</variant>
+    <variant>Networking</variant>
+  </canonskill>
+  <canonskill name='norton utilities'>
+    <variant>Norton</variant>
+  </canonskill>
+  <canonskill name='pc platform'>
+    <variant>PC platforms</variant>
+  </canonskill>
+  <canonskill name='peripherals'>
+    <variant>peripherals</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='press releases' start='733044'>
+    <variant>PR</variant>
+  </canonskill>
+  <canonskill name='printers'>
+    <variant>Printers</variant>
+  </canonskill>
+  <canonskill end='733044' experience='1' expidrefs='2' idrefs='2' lastused='2008' name='problem solving' start='730122'>
+    <variant>problem resolution</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='quality' start='733044'>
+    <variant>Quality</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='real time' start='733044'>
+    <variant>Real Time</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='reports' start='730122'>
+    <variant>Reporter</variant>
+    <variant>Reporting</variant>
+  </canonskill>
+  <canonskill name='routers'>
+    <variant>Routers</variant>
+  </canonskill>
+  <canonskill name='servers'>
+    <variant>Servers</variant>
+  </canonskill>
+  <canonskill end='733044' experience='1' expidrefs='2' idrefs='2' lastused='2008' name='sla' start='730122'>
+    <variant>service level agreement</variant>
+  </canonskill>
+  <canonskill name='sql'>
+    <variant>SQL</variant>
+  </canonskill>
+  <canonskill name='ssh'>
+    <variant>SSH</variant>
+  </canonskill>
+  <canonskill end='733044' experience='1' expidrefs='2' idrefs='2' lastused='2008' name='supervisory skills' start='730122'>
+    <variant>Supervisor</variant>
+  </canonskill>
+  <canonskill name='tcp/ip'>
+    <variant>TCP/IP</variant>
+  </canonskill>
+  <canonskill end='733044' experience='1' expidrefs='2' idrefs='2' lastused='2008' name='technical support' start='730122'>
+    <variant>technical support</variant>
+  </canonskill>
+  <canonskill name='telnet'>
+    <variant>Telnet</variant>
+  </canonskill>
+  <canonskill end='733044' experience='1' expidrefs='2' idrefs='2' lastused='2008' name='unix' start='730122'>
+    <variant>UNIX</variant>
+  </canonskill>
+  <canonskill name='vpn'>
+    <variant>VPN</variant>
+  </canonskill>
+  <canonskill name='wan'>
+    <variant>WAN</variant>
+  </canonskill>
+  <canonskill name='web browsers'>
+    <variant>Web Browsers</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

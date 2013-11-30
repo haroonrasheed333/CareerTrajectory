@@ -1,0 +1,33 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CGD", 
+            "Certification Name": "Certified GeoExchange Designer", 
+            "Type": "Advanced", 
+            "Certification ID": "8959", 
+            "Certifying Organization": "International Ground Source Heat Pump Association"
+        }, 
+        {
+            "Acronym": "CVCLD", 
+            "Certification Name": "Certified Vertical Closed Loop Driller", 
+            "Type": "Advanced", 
+            "Certification ID": "7704", 
+            "Certifying Organization": "National Ground Water Association"
+        }, 
+        {
+            "Acronym": "CGD", 
+            "Certification Name": "Certified GeoExchange Designer", 
+            "Type": "Advanced", 
+            "Certification ID": "2178", 
+            "Certifying Organization": "Association of Energy Engineers"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Fenestration Installation Technician", 
+            "Type": "Core", 
+            "Certification ID": "8661", 
+            "Certifying Organization": "CSA Standards"
+        }
+    ], 
+    "onet": "49909901"
+}

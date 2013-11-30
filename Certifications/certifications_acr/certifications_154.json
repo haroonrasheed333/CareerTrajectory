@@ -1,0 +1,243 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Highway System Maintenance and Preservation - Level I", 
+            "Type": "Core", 
+            "Certification ID": "5377", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Highway System Maintenance and Preservation - Level III", 
+            "Type": "Advanced", 
+            "Certification ID": "7832", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "D.OE", 
+            "Certification Name": "Diplomate, Ocean Engineering", 
+            "Type": "Advanced", 
+            "Certification ID": "9351", 
+            "Certifying Organization": "Academy of Coastal, Ocean, Port & Navigation Engineers"
+        }, 
+        {
+            "Acronym": "CBCP", 
+            "Certification Name": "Certified Building Commissioning Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "4009", 
+            "Certifying Organization": "Association of Energy Engineers"
+        }, 
+        {
+            "Acronym": "CFPC&C", 
+            "Certification Name": "Fluid Power Connector and Conductor", 
+            "Type": "Advanced", 
+            "Certification ID": "2605", 
+            "Certifying Organization": "International Fluid Power Society"
+        }, 
+        {
+            "Acronym": "CDP", 
+            "Certification Name": "Certified Development, Design & Construction Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "9389", 
+            "Certifying Organization": "International Council of Shopping Centers"
+        }, 
+        {
+            "Acronym": "DGCP", 
+            "Certification Name": "Distributed Generation Certified Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "1282", 
+            "Certifying Organization": "Association of Energy Engineers"
+        }, 
+        {
+            "Acronym": "CCCA", 
+            "Certification Name": "Certified Construction Contract Administrator", 
+            "Type": "Advanced", 
+            "Certification ID": "1428", 
+            "Certifying Organization": "Construction Specifications Institute"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Highway Surveys - Level II", 
+            "Type": "Advanced", 
+            "Certification ID": "7828", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "D.PE", 
+            "Certification Name": "Diplomate, Port Engineering", 
+            "Type": "Advanced", 
+            "Certification ID": "9352", 
+            "Certifying Organization": "Academy of Coastal, Ocean, Port & Navigation Engineers"
+        }, 
+        {
+            "Acronym": "CVS", 
+            "Certification Name": "Certified Value Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "1324", 
+            "Certifying Organization": "Society of American Value Engineers"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Highway System Maintenance and Preservation - Level II", 
+            "Type": "Advanced", 
+            "Certification ID": "7831", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Golf Course Builder", 
+            "Type": "Specialty", 
+            "Certification ID": "6884", 
+            "Certifying Organization": "Golf Course Builders Association of America"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Highway System Maintenance and Preservation - Level IV", 
+            "Type": "Advanced", 
+            "Certification ID": "7833", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Highway Traffic Operations - Level III", 
+            "Type": "Advanced", 
+            "Certification ID": "7835", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "CPE", 
+            "Certification Name": "Certified Planning Engineer", 
+            "Type": "Advanced", 
+            "Certification ID": "7941", 
+            "Certifying Organization": "American Academy of Project Management"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Recycling Systems - Technical Associate", 
+            "Type": "Core", 
+            "Certification ID": "1472", 
+            "Certifying Organization": "Solid Waste Association of North America"
+        }, 
+        {
+            "Acronym": "D.NE", 
+            "Certification Name": "Diplomate, Navigation Engineering", 
+            "Type": "Advanced", 
+            "Certification ID": "9353", 
+            "Certifying Organization": "Academy of Coastal, Ocean, Port & Navigation Engineers"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Highway Traffic Operations - Level IV", 
+            "Type": "Advanced", 
+            "Certification ID": "7836", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "D.GE", 
+            "Certification Name": "Diplomate, Geotechnical Engineering", 
+            "Type": "Advanced", 
+            "Certification ID": "8768", 
+            "Certifying Organization": "Academy of Geo-Professionals"
+        }, 
+        {
+            "Acronym": "CPDB", 
+            "Certification Name": "Certified Professional Building Designer", 
+            "Type": "Advanced", 
+            "Certification ID": "0989", 
+            "Certifying Organization": "National Council of Building Design Certification"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Highway Surveys - Level III", 
+            "Type": "Advanced", 
+            "Certification ID": "7829", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "AVS", 
+            "Certification Name": "Associate Value Specialist", 
+            "Type": "Core", 
+            "Certification ID": "1325", 
+            "Certifying Organization": "Society of American Value Engineers"
+        }, 
+        {
+            "Acronym": "CMVP", 
+            "Certification Name": "Certified Measurement and Verification Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "4008", 
+            "Certifying Organization": "Association of Energy Engineers"
+        }, 
+        {
+            "Acronym": "CEP", 
+            "Certification Name": "Certified Energy Procurement Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "1285", 
+            "Certifying Organization": "Association of Energy Engineers"
+        }, 
+        {
+            "Acronym": "CCM", 
+            "Certification Name": "Certified Construction Manager", 
+            "Type": "Core", 
+            "Certification ID": "5402", 
+            "Certifying Organization": "Construction Manager Certification Institute"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Highway Traffic Operations - Level II", 
+            "Type": "Advanced", 
+            "Certification ID": "7834", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Highway Traffic Operations - Level I", 
+            "Type": "Core", 
+            "Certification ID": "5376", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "ND", 
+            "Certification Name": "LEED AP Neighborhood Development", 
+            "Type": "Advanced", 
+            "Certification ID": "6274", 
+            "Certifying Organization": "Green Building Certification Institute"
+        }, 
+        {
+            "Acronym": "CGWP", 
+            "Certification Name": "Certified Ground Water Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "2294", 
+            "Certifying Organization": "National Ground Water Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Highway Surveys - Level IV", 
+            "Type": "Advanced", 
+            "Certification ID": "7830", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Highway Surveys - Level I", 
+            "Type": "Core", 
+            "Certification ID": "5375", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "CPII", 
+            "Certification Name": "Certified Public Infrastructure Inspector", 
+            "Type": "Core", 
+            "Certification ID": "6172", 
+            "Certifying Organization": "American Public Works Association"
+        }, 
+        {
+            "Acronym": "CHC", 
+            "Certification Name": "Certified Healthcare Constructor", 
+            "Type": "Core", 
+            "Certification ID": "9008", 
+            "Certifying Organization": "American Hospital Association"
+        }
+    ], 
+    "onet": "17205100"
+}

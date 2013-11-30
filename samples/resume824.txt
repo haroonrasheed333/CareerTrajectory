@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734597' xml:space='preserve'> <contact><name><givenname>Patricia</givenname> <surname>Halpin</surname></name>                                                                                                                                                                                                                     <address lat='43.2218' lon='77.4665' majorcity='WEBSTER' state='NY'><street>1104 Everwild View Drive</street> <city>Webster</city>, <state abbrev='NY'>New York</state> <postalcode>14580</postalcode></address>
+<email>patriciahalpin1@gmail.com</email> 
+ <phone>585.738.1779</phone></contact>
+
+<summary>Profile
+<objective>I am a versatile and conscientious professional exploring career opportunities that will allow me to demonstrate and utilize my skills in customer care, customer service, business development and management.
+
+Strengths
+I am a sensitive and caring communicator with excellent interpersonal, negotiating and listening skills. I have a very up-beat personality and I thrive in a positive, customer service oriented environment.</objective></summary> 
+
+<experience end='present' start='727200'><job end='present' id='1' pos='1' sic='735959' sic2='73' start='730853'><employer>Health Care Professional</employer>   <daterange><start days='730853' iso8601='2002-01-01'>2002</start>-<end days='present' iso8601='2012-04-02'>Present</end></daterange></job> 
+<job end='733775' id='2' pos='2' sic='808201' sic2='80' start='733410'><employer>Elder Care</employer>, <title>Nursing Assistant, Personal Assistant</title>, Household Management
+<jobtype>Full &amp; Part-time</jobtype> Clients 
+
+Riddle Chiropractic   <daterange><start days='733410' iso8601='2009-01-01'>2009</start>-<end days='733775' iso8601='2010-01-01'>2010</end></daterange></job>
+<job end='733410' id='3' pos='3' sic='5499' sic2='54' start='733044'><title>Clinical Assistant / Receptionist
+Patient Intake Technician</title>, New Patient Education, Nutraceutical Sales, Marketing                  
+
+<employer>Lori's Natural Foods</employer>   <daterange><start days='733044' iso8601='2008-01-01'>2008</start>-<end days='733410' iso8601='2009-01-01'>2009</end></daterange></job>
+<job end='730853' id='4' pos='4' start='727200'><title>Wellness Consultant</title>, <description>Nutraceutical Sales, Product Inventory
+
+Avalon Corporate Furnished Apartments and Storage Facility</description>   <daterange><start days='727200' iso8601='1992-01-01'>1992</start>-<end days='730853' iso8601='2002-01-01'>2002</end></daterange></job>
+<title>On-Site Property Manager</title></experience>
+
+<education>Education / Training / Private Studies:
+<description>Education/Application
+Global College of Natural Medicine (Fall 2012 On-Line Student / Bachelor of Science Holistic Health)
+Life Inspiration Network / Better Health Seminar: Keynote Speaker</description></education>
+
+
+<skills>Software:
+<skills>Microsoft Applications
+Satori Chiropractic Software Systems
+Chiro-Touch Software Systems
+Private Studies:
+Naturopathic Medicine , Nutrition, Massage Therapy
+
+
+Referrals Available</skills></skills>
+</resume>
+
+<skillrollup version='1'>
+  <canonskill name='applications'>
+    <variant>Microsoft Applications</variant>
+  </canonskill>
+  <canonskill education='1' name='inspiration'>
+    <variant>Inspiration</variant>
+  </canonskill>
+  <canonskill end='730853' experience='1' expidrefs='4' idrefs='4' lastused='2002' name='inventory management' start='727200'>
+    <variant>Inventory</variant>
+  </canonskill>
+  <canonskill education='1' name='natural'>
+    <variant>Natural</variant>
+  </canonskill>
+  <canonskill education='1' name='networking'>
+    <variant>Network</variant>
+  </canonskill>
+  <canonskill education='1' name='public speaking'>
+    <variant>Speaker</variant>
+  </canonskill>
+  <canonskill end='730853' experience='1' expidrefs='4' idrefs='4' lastused='2002' name='sales' start='727200'>
+    <variant>Sales</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

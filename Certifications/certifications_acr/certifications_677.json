@@ -1,0 +1,19 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "REI", 
+            "Certification Name": "Residential Electrical Inspector", 
+            "Type": "Core", 
+            "Certification ID": "3389", 
+            "Certifying Organization": "International Code Council"
+        }, 
+        {
+            "Acronym": "EHC", 
+            "Certification Name": "Electrified Hardware Consultant", 
+            "Type": "Advanced", 
+            "Certification ID": "8014", 
+            "Certifying Organization": "Door and Hardware Institute"
+        }
+    ], 
+    "onet": "47301300"
+}

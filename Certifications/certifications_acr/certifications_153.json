@@ -1,0 +1,33 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CRE", 
+            "Certification Name": "Certified Reliability Engineer", 
+            "Type": "Advanced", 
+            "Certification ID": "0792", 
+            "Certifying Organization": "American Society for Quality"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Electromagnetic Compatibility Engineer", 
+            "Type": "Advanced", 
+            "Certification ID": "7750", 
+            "Certifying Organization": "International Association for Radio, Telecommunications and  Electromagnetics"
+        }, 
+        {
+            "Acronym": "CCE", 
+            "Certification Name": "Certified Chemical Engineer", 
+            "Type": "Core", 
+            "Certification ID": "7681", 
+            "Certifying Organization": "National Certification Commission in Chemistry and Chemical Engineering"
+        }, 
+        {
+            "Acronym": "Electromagnetic Compatibility", 
+            "Certification Name": "EMC (Electromagnetic Compatibility) Engineer", 
+            "Type": "Advanced", 
+            "Certification ID": "2278", 
+            "Certifying Organization": "National Association of Radio and Telecommunications Engineers, Inc."
+        }
+    ], 
+    "onet": "17204100"
+}

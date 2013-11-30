@@ -1,0 +1,483 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734596' xml:space='preserve'><contact><name><givenname>John</givenname> <surname>Missale</surname></name>
+<address><street>318 Harmon Cove Towers</street></address>                                                                                                <email>john.missale@gmail.com</email>
+<address lat='40.79' lon='74.0621' majorcity='SECAUCUS' state='NJ'><city>Secaucus</city>, <state abbrev='NJ'>New Jersey</state> <postalcode>07094</postalcode></address>                                                                                          
+Mobile: <phone type='cell'>917-376-8855</phone></contact>	
+
+ <summary><objective>SENIOR IT TECHNOLOGY MEDIA PLATFORM, INFRASTRUCTURE
+ &amp; APPLICATION DEVELOPMENT</objective></summary>   
+
+<experience end='present' start='726560'>PROFESSIONAL EXPERIENCE
+
+<job end='present' id='1' pos='1' start='734444'><employer>SyPartners, UnStuck</employer> - <address><city>New York</city>, <state abbrev='NY'>New York</state></address>                                   <daterange><start days='734444' iso8601='2011-11-01'>Nov. 2011</start> - <end days='present' iso8601='2012-04-01'>present</end></daterange>
+<description>Currently managing, application development, operations and productization for iOS iPad consumer mobile application. The application contains, analytics, prediction algorithms, AI rule sets, customer ticketing, all in the cloud. The website is HTML5 with a ROR backend with API and MySql. Currently building backend CRM, BI and analysis platform for Social Media community. On 3/20/12 my team won the Appy Award in Lifestyle category.</description></job>
+
+<job end='present' id='2' pos='2' start='733865'><title>Working Artist Enterprises</title> - <address><city>Mountainside</city>, <state abbrev='NJ'>N.J.</state></address>                             <daterange><start days='733865' iso8601='2010-04-01'>April. 2010</start> - <end days='present' iso8601='2012-04-01'>present</end></daterange>                                                                                   
+<description>Currently providing media clients with technology investment guidance, innovation, business process, application development and prediction analytics for web, iOS, Android mobile devices, and TV.</description></job>
+
+<job end='734230' id='3' pos='3' sic='628204' sic2='62' start='734079'><employer>Alvarez and Marsal</employer> - <address><city>New York</city>, <state abbrev='NY'>New York</state></address>			     <daterange><start days='734079' iso8601='2010-11-01'>Nov. 2010</start> - <end days='734230' iso8601='2011-04-01'>April 2011</end></daterange>
+<description>Provided project management, architecture, business process consulting and legacy process integration on Verizon's new, Content In the Cloud, CMS and Distribution service to Cinema, TV, Web and Mobile. Activities include business processes for client on-boarding, order management, digital video content management (Oracle UCM), Right's Management, QC/QA process, testing, CLCT and content certification for streaming and file based video, encoding, encryption, ingest, CPE, connectivity and network content acceleration.</description></job>
+
+<job end='733915' id='4' pos='4' start='732922'><employer>ScreenVision LLP</employer> - <address><city>New York</city>, <state abbrev='NY'>New York</state></address>                                           <daterange><start days='732922' iso8601='2007-09-01'>Sept. 2007</start> - <end days='733915' iso8601='2010-05-21'>May 21, 2010</end></daterange>
+<title>Chief Technology Officer</title> 
+<description>Responsible for IT, vision, technology roadmap, governance, financial analytics, business and technology modeling, application development, infrastructure and program management for national satellite and broadband digital content distribution network for feature films, live events and advertising to cinema networks, web and mobile platforms. Screenvision represents over 16K cinema screens in the US.
+Responsible for the launch of a private Cloud web based Advanced Advertising and Sales Platform, .Net implementation to manage advertising campaigns and digital video media across D and E Cinema Screens, Web and Mobile serving 200+ agencies and thousands of local advertisers. Aligned all internal and external stakeholder requirements to internal business goals and interactive advertising standards. The platform provides, master taxonomy, Order to Cash, open source CRM, DAM, RM, ROI optimization, targeting, traffic scheduling, self service module, dynamic pricing engine, social mining and analytics for inventory forecasting. Third party integration included Nielsen, Comscore, online ticketing (Fandango, Live Nation, AOL) and POS systems. The new platform lowered OPEX by 25%. 
+Managed the software development of a Cloud B2B Web Portal - .Net, C# implementation accessed by advertisers, agencies, exhibitors and internal groups. The Portal collected theater ticket sales data, as run advertising logs&quot; and theater systems QA data. The site also streamed ad video for exhibitor content approvals and provided chat. 
+Managed 24x7 NOC facilities, 8 remote offices, 1000 D and E cinema sites cinema sites with over 16,0000 screens
+Launched &quot;Ticket Talk&quot; mobile iOS ticketing and gaming platform for cinema movie consumers.
+Developed a live event, streaming digital video CDN cloud service for eCinema and dCinema distribution to theater sites in the US which lowered distribution costs by 40%.
+Reduced costs for DSL, Internet access, network and voice by 45% or $1.8M over three years through vendor consolidation of 37 vendors to 3, across entire U.S. cinema footprint - over 1000 theater sites.
+Launched Screenvision consumer and business web site.
+Managed the data migration and implementation of   SANS in NYC and Rochester NOC's for data and content storage.
+Redesigned disaster recovery with de-duplication, increased security, and with facility to facility backup and replication
+Reduced the cost of theater site implementation by 50% by developing new server that consolidated all services (advertising, gaming, alternative movie content, 3D, Dolby AC3) 
+Technical Chairman of Cinema Advertising Council Digital Standards Subcommittee and the US technical representative to the rest of the world - SAWA Advertising Council.</description></job>
+
+<job end='732952' id='5' pos='5' start='731949'><employer>Deloitte Consulting LLP</employer>. - <address><city>New York</city>, <state abbrev='NY'>New York</state></address>                                <daterange><start days='731949' iso8601='2005-01-01'>Jan. 2005</start> - <end days='732952' iso8601='2007-10-01'>Oct. 2007</end></daterange>
+<description>Responsible for building its East Coast IT Media and Entertainment practice in the areas of emerging media technology, strategic business and technology program management across all company divisions, specializing in Advanced Interactive Advertising, Digital Asset Management, Cross Platform Distribution, IT vendor consolidation, BI, and operations performance improvement, for Web, Mobile, Broadcast, Telecom and Cable TV platforms. 
+Sprint 4G- Provided technical business visioning and product guidance in 4G mobile cloud advertising platform software and systems integration. The new platform combined web, SEO, social, geo-location and inference engine for advertising retargeting.
+AOL - Provided, stakeholder alignment, and build or buy software open source platform components, and code reviews This was a.NET platform migration of an advanced ad-serving platform.  
+Univision - Managed integration of advertising traffic systems into Oracle AR/AP across Radio, TV, Satellite and Web.
+Univision - Managed the vendor consolidation across Satellite, Broadcast TV, Radio, IT and On-line. Negotiated new contracts with prime IT, satellite and broadcast vendors - reduced overall spend by 25%.</description></job>
+<job id='6'><employer>AT&amp;T Uverse</employer> - <description>managed the analysis of the end to end IPTV platform for capacity, scalability, data integrity and launch readiness</description></job> 
+<job id='7'><employer>Singapore Media Development Authority</employer> - <description>Provided technical, operations and process expertise in creating the framework for a global SAAS digital content and trade exchange eco-system in Asia. This platform provided, content and financial trade for vendors, content producers/buyers, legal transaction monitoring and financial institutions.</description></job>
+<job id='8' sic='481302' sic2='48'><employer>AT&amp;T</employer> - <description>Provided architectural guidance in systems, business processes and solutions for new services and service migration in VOIP, EVDO and Ethernet network business.</description></job> 
+.
+<job end='732253' id='9' pos='6' start='729027'><employer>Rant Technology Inc</employer>. <address><city>N.Y.</city>, N.Y.</address>				                <daterange><start days='729027' iso8601='1997-01-01'>Jan.1, 1997</start> to <end days='732253' iso8601='2005-11-01'>Nov. 2005</end></daterange>
+<description>As President and founder of Rant Technology, Inc., Rant provided strategic technology consulting to the Media industry - IT management, design, systems integration, and application development for Broadcast, Broadband, Web, eCommerce and Mobile - digital content management, production, governance, distribution, and security. 
+Important engagements included the following customers: 
+Concurrent Computer - Provided professional services to Concurrent for digital content management distributed application software to InDemand, Intertainer, AT&amp;T and Disney TeleVentures.
+E-Vue - Led the strategic software development, technical requirements and service offerings for the development of 31 Sarnoff Internet patents for MPEG4 adaptive encoding, decoding software and digital video management software.
+Loral Space &amp; Communications - Cyberstar (for Cyberstar, L.P) - Cyberstar is a distributed hybrid Internet/Satellite broadcast Content Delivery Network utilizing MPEG2 IP-DVB 
+Provided program management, strategic technology guidance, for the end to end development of operations and technology - content strategy, satellite provisioning and training for Cyberstar - a $300M service, launched as a B2B and B2C in North America, and as a B2B in Kuwait. 
+Developed a 100,000 sq. foot NOC for national operations and back up facility
+Architected and developed end to end system consisting of digital asset management distributed application software, Conditional Access security, and Subscriber Management Systems and business processes for the cross platform global delivery of content to retail markets.
+Managed cross-functional technical teams (50 professionals) -system and software development.
+Represented Loral in China, Western Europe, and Middle East for CDN distribution technology.
+EABC - Architected the digital video NOC, content transcoding, global satellite and IPTV distribution.
+Solid Streaming - Managed the development of web content management software, and distribution requirements of streaming video to cell phones, Palm, Blackberry and Apple. Projects included T-Mobil, Globe Telecom, and Telephonica in Brazil
+Liberate Technology - Managed development teams for requirements, code reviews, software integration and implementation for JSP and J2EE of Web TV middleware for cable modems utilizing DOCSIS 1.0, for Ono (for Cable Europa - Spain) PCCW (China), Belgacom (Belgium), US West, HNS/AOL and Cable and Wireless (UK).  
+Lockheed Martin, Astrolink - Developed Early Market Entry Strategy's and business cases for Astrolink's worldwide CDN.
+Rant Product Development - managed the development of a distributed web application software suite of products for Digital Asset Management  &quot;DAMS&quot; - implemented in JAVA - ingest, production, and delivery management - Web based Workflow, video search, metadata tagging and packaging - Cable Labs 1.2 specification support with open XML for movies, advertising and web content.</description></job>
+
+<job end='729027' id='10' naics='51119906' naics2='51' pos='7' sic='273101' sic2='27' start='726560'><employer>Time Inc. New Media</employer> - <address><city>New York</city>, <state abbrev='NY'>New York</state></address>			                    <daterange><start days='726560' iso8601='1990-04-01'>April 1990</start> to <end days='729027' iso8601='1997-01-01'>Jan.1997</end></daterange>
+<title>Vice President</title> of Operations and Engineering
+<description>Responsible for all integrated media technology, planning, operations, IT infrastructure, application development, budget, and system implementation of the company's Online, Television, electronic publishing, and content distribution operation. 
+Responsible for all media technology, strategic planning, operations, IT infrastructure, application development, budget, MPEG 1&amp;2 streaming technology, and system implementation of the company's digital online, television, electronic publishing, and digital video content distribution operation. Important projects included &quot;The News Exchange&quot; a VOD News Operation and ITV application, for the Time Warner Full Service Network, &quot;Pathfinder&quot; web portal,  &quot;Roadrunner&quot; high speed Internet service, and the hosting and media distribution system for all digital content, for Time Inc. magazines, Time Warner Television services and third party content contributors for cable, broadband, Internet sites and VOD operations (AOL, US West, @Home, Direct TV, Direct PC)</description></job>
+
+<job id='11' sic='484101' sic2='48'><employer>Time Warner Cable New York Group</employer>	<address><city>New York</city>, <state abbrev='NY'>New York</state></address>	
+<title>Vice President</title> of Broadcast Operations and Engineering
+<description>Responsible for the operations, engineering and production groups of the TW NYC cable system. 
+Key projects include the technical development of New York 1 News - Headed up all digital technology implementations, studio, content production and operations, Quantum, the world's first 70 channels of Near Video on Demand, Time Warner Cable New York system  - Managed the design and planning of a 100,000-sq. ft. Cable facility and - Broadcast Operations, multichannel advertising operation, earth station/cable head ends, IT, Customer Service, subscriber management architecture, billing and payments center,  back office and production facilities, and TV studios in NYC, developed Time Warner Home Theater- a three channel standalone PPV service, launched Crosswalks broadcast channels for the City Of New York.
+
+Enterprise Software Development Architecture, System Architecture and Business Processes
+CDN (Telecom and Satellite operations), SOA, SAAS, Advanced Multimedia Advertising platforms and business process, distributed server clusters and databases, eCommerce, Digital VOD architecture, Digital head end, IPTV Streaming video - RTP and RTSP, Ticketing Platforms for web and mobile. Event Prediction systems, TV and web production systems, disaster recovery, security system design, high reliability and high availability systems, ETL, Data conformance, MPAA secure content processes and facility requirements, video transcoding and QC.</description></job></experience>
+<skills>Enterprise Software - <skills>MS Exchange, MS workflow, SharePoint, Windows Server 2008, MS Dynamics, MS Forecast, Postini, VMware, Alteris, Solar Winds, Citrix, NetApps, Aspera, Rhozet, Harmonic Inc. Tandberg, Artesia, Oracle DAM - UCM, AVID, Pilat Media IBMS suite, vFinity, Dealmaker, VCI, OSI, Marketron, Doubleclick, Operative, Avid, Flame, Inferno, Final Cut Pro, Cerify, Evertz, Chyron, Digital Rapids, MatrixStream, Cisco(SA) CDN, Newsroom Automation, Expert Systems - semantic search, Amazon and Google Cloud.
+Software Development Management - MPEG2, MPEG4, H.264, .Net, XML, AJAX, PHP, JSP, J2EE, Struts 1 and 2, JBoss, C# WSRP, C++,`PERL, Flash, Ruby on Rails, iOS, Drupal, MYSQL, SQL, Oracle, HADOOP, Unix, Linux, MS OS, MOS broadcast middleware and well versed in Agile/Scrum development methodologies.</skills></skills>
+
+<education>EDUCATION 
+<school id='12'><degree level='16' name='Bachelor of Science in Electrical Engineering'>BSEE</degree> studies at the <institution>City College of New York</institution>. 
+Additional courses in <major code='0499 0402'>Communications and Computer Science</major>, at <institution>New York University</institution></school>.</education>
+
+<professional>AWARDS, HONORS, BUSINESS AFFILIATIONS and TRAINING
+<description>Time Warner team member that was awarded a Technical Emmy by the Academy of Television Arts and Sciences in 1996 for AML fiber optics.
+Honored by the City of New York for the development and launch of Crosswalks.
+Memberships: NY State Business Council, SMPTE, NAB, CAC, SAWA, Masters of Digital Asset Management.
+Training: Customer Care -Time Warner Cable, CSG/First Data; PMP through Time Warner Program at American Management Association; CISCO CCNA, Harmonic Inc. NDS, Irdeto Access, Nagra, Virage, Autonomy - media monitoring and analysis, , Business Process Management, Oracle AR, BI, Hughes Microwave Certified
+Patents: Low Power Digital Searching Receiver, Low Power Radio Receiver Audio Compander.</description></professional>
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='733915' experience='1' expidrefs='4,5' idrefs='4,5' lastused='2010' name='.net' start='731949'>
+    <variant>.NET</variant>
+    <variant>.Net</variant>
+  </canonskill>
+  <canonskill end='733915' experience='1' expidrefs='4' idrefs='4' lastused='2010' name='3d' start='732922'>
+    <variant>3D</variant>
+  </canonskill>
+  <canonskill end='733915' experience='1' expidrefs='4,5,9,11' idrefs='4,5,9,11' lastused='2010' name='advertising' start='729027'>
+    <variant>ad</variant>
+    <variant>Advertising</variant>
+    <variant>advertising</variant>
+  </canonskill>
+  <canonskill end='733915' experience='1' expidrefs='4' idrefs='4' lastused='2010' name='advertising sales' start='732922'>
+    <variant>Advertising and Sales</variant>
+  </canonskill>
+  <canonskill name='agile'>
+    <variant>Agile</variant>
+  </canonskill>
+  <canonskill end='733915' experience='1' expidrefs='4,5,9,10' idrefs='4,5,9,10' lastused='2010' name='america online' start='726560'>
+    <variant>AOL</variant>
+  </canonskill>
+  <canonskill end='732952' experience='1' expidrefs='5' idrefs='5' lastused='2007' name='ap style' start='731949'>
+    <variant>AP</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='api' start='734444'>
+    <variant>API</variant>
+  </canonskill>
+  <canonskill end='732253' experience='1' expidrefs='9' idrefs='9' lastused='2005' name='apple' start='729027'>
+    <variant>Apple</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,4,9,10' idrefs='1,2,4,9,10' lastused='2012' name='application development' start='726560'>
+    <variant>application development</variant>
+  </canonskill>
+  <canonskill end='732952' experience='1' expidrefs='5' idrefs='5' lastused='2007' name='ar' start='731949'>
+    <variant>AR</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='artificial intelligence' start='734444'>
+    <variant>AI</variant>
+  </canonskill>
+  <canonskill end='732952' experience='1' expidrefs='5,9' idrefs='5,9' lastused='2007' name='asset management' start='729027'>
+    <variant>Asset Management</variant>
+    <variant>asset management</variant>
+  </canonskill>
+  <canonskill name='automation'>
+    <variant>Automation</variant>
+  </canonskill>
+  <canonskill name='avid media composer'>
+    <variant>AVID</variant>
+    <variant>Avid</variant>
+  </canonskill>
+  <canonskill end='733915' experience='1' expidrefs='4,9' idrefs='4,9' lastused='2010' name='b2b' start='729027'>
+    <variant>B2B</variant>
+  </canonskill>
+  <canonskill end='733915' experience='1' expidrefs='4' idrefs='4' lastused='2010' name='backup' start='732922'>
+    <variant>backup</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='11' idrefs='11' name='billing'>
+    <variant>billing</variant>
+  </canonskill>
+  <canonskill end='733915' experience='1' expidrefs='4,9,10' idrefs='4,9,10' lastused='2010' name='broadband' start='726560'>
+    <variant>Broadband</variant>
+    <variant>broadband</variant>
+  </canonskill>
+  <canonskill end='732952' experience='1' expidrefs='5,9,11' idrefs='5,9,11' lastused='2007' name='broadcast' start='729027'>
+    <variant>Broadcast</variant>
+    <variant>broadcast</variant>
+  </canonskill>
+  <canonskill end='729027' experience='1' expidrefs='10' idrefs='10' lastused='1997' name='budgeting' start='726560'>
+    <variant>budget</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,5' idrefs='1,5' lastused='2012' name='business intelligence' start='731949'>
+    <variant>BI</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2,3,8,9,11' idrefs='2,3,8,9,11' lastused='2012' name='business process' start='729027'>
+    <variant>Business Processes</variant>
+    <variant>business process</variant>
+    <variant>business processes</variant>
+  </canonskill>
+  <canonskill name='c + +'>
+    <variant>C++</variant>
+  </canonskill>
+  <canonskill end='732253' experience='1' expidrefs='9' idrefs='9' lastused='2005' name='cable modems' start='729027'>
+    <variant>cable modems</variant>
+  </canonskill>
+  <canonskill end='732952' experience='1' expidrefs='5,9,10,11' idrefs='5,9,10,11' lastused='2007' name='cabling' start='726560'>
+    <variant>Cable</variant>
+    <variant>cable</variant>
+  </canonskill>
+  <canonskill name='cisco'>
+    <variant>Cisco</variant>
+  </canonskill>
+  <canonskill name='citrix'>
+    <variant>Citrix</variant>
+  </canonskill>
+  <canonskill end='734230' experience='1' expidrefs='3' idrefs='3' lastused='2011' name='cms' start='734079'>
+    <variant>CMS</variant>
+  </canonskill>
+  <canonskill end='734230' experience='1' expidrefs='3,9' idrefs='3,9' lastused='2011' name='consulting' start='729027'>
+    <variant>consulting</variant>
+  </canonskill>
+  <canonskill end='734230' experience='1' expidrefs='3,4,7,9,10,11' idrefs='3,4,7,9,10,11' lastused='2011' name='content management' start='726560'>
+    <variant>content</variant>
+    <variant>content management</variant>
+    <variant>Content</variant>
+  </canonskill>
+  <canonskill end='732952' experience='1' expidrefs='5' idrefs='5' lastused='2007' name='contract management' start='731949'>
+    <variant>contracts</variant>
+  </canonskill>
+  <canonskill end='733915' experience='1' expidrefs='4' idrefs='4' lastused='2010' name='council' start='732922'>
+    <variant>Council</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,4' idrefs='1,4' lastused='2012' name='crm' start='732922'>
+    <variant>CRM</variant>
+  </canonskill>
+  <canonskill end='734230' experience='1' expidrefs='3' idrefs='3' lastused='2011' name='cryptography' start='734079'>
+    <variant>encryption</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2,3' idrefs='2,3' lastused='2012' name='customer relations' start='733865'>
+    <variant>client</variant>
+    <variant>clients</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='11' idrefs='11' name='customer service'>
+    <variant>Customer Service</variant>
+  </canonskill>
+  <canonskill end='733915' experience='1' expidrefs='4' idrefs='4' lastused='2010' name='data migration' start='732922'>
+    <variant>data migration</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='11' idrefs='11' name='database administration'>
+    <variant>databases</variant>
+  </canonskill>
+  <canonskill end='732253' experience='1' expidrefs='9' idrefs='9' lastused='2005' name='delivery' start='729027'>
+    <variant>Delivery</variant>
+    <variant>delivery</variant>
+  </canonskill>
+  <canonskill end='732253' experience='1' expidrefs='9' idrefs='9' lastused='2005' name='development' start='729027'>
+    <variant>Product Development</variant>
+  </canonskill>
+  <canonskill end='734230' experience='1' expidrefs='3,4,9,10' idrefs='3,4,9,10' lastused='2011' name='digital video' start='726560'>
+    <variant>digital video</variant>
+  </canonskill>
+  <canonskill end='733915' experience='1' expidrefs='4,11' idrefs='4,11' lastused='2010' name='disaster recovery planning' start='732922'>
+    <variant>disaster recovery</variant>
+  </canonskill>
+  <canonskill end='733915' experience='1' expidrefs='4' idrefs='4' lastused='2010' name='dsl' start='732922'>
+    <variant>DSL</variant>
+  </canonskill>
+  <canonskill end='732253' experience='1' expidrefs='9,11' idrefs='9,11' lastused='2005' name='e - commerce' start='729027'>
+    <variant>eCommerce</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='8' idrefs='8' name='ethernet'>
+    <variant>Ethernet</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='11' idrefs='11' name='etl'>
+    <variant>ETL</variant>
+  </canonskill>
+  <canonskill name='expert system'>
+    <variant>Expert Systems</variant>
+  </canonskill>
+  <canonskill name='final cut pro'>
+    <variant>Final Cut Pro</variant>
+  </canonskill>
+  <canonskill end='733915' experience='1' expidrefs='4,7' idrefs='4,7' lastused='2010' name='financial' start='732922'>
+    <variant>financial</variant>
+  </canonskill>
+  <canonskill name='flash'>
+    <variant>Flash</variant>
+  </canonskill>
+  <canonskill end='733915' experience='1' expidrefs='4' idrefs='4' lastused='2010' name='forecasting' start='732922'>
+    <variant>forecasting</variant>
+  </canonskill>
+  <canonskill end='732253' experience='1' expidrefs='9' idrefs='9' lastused='2005' name='functional' start='729027'>
+    <variant>functional</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='html' start='734444'>
+    <variant>HTML5</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='innovative' start='733865'>
+    <variant>innovation</variant>
+  </canonskill>
+  <canonskill end='733915' experience='1' expidrefs='4' idrefs='4' lastused='2010' name='internet software' start='732922'>
+    <variant>Internet access</variant>
+  </canonskill>
+  <canonskill end='733915' experience='1' expidrefs='4' idrefs='4' lastused='2010' name='inventory management' start='732922'>
+    <variant>inventory</variant>
+  </canonskill>
+  <canonskill end='732253' experience='1' expidrefs='9' idrefs='9' lastused='2005' name='ip' start='729027'>
+    <variant>IP</variant>
+  </canonskill>
+  <canonskill end='732253' experience='1' expidrefs='9' idrefs='9' lastused='2005' name='it management' start='729027'>
+    <variant>IT management</variant>
+  </canonskill>
+  <canonskill end='732253' experience='1' expidrefs='9' idrefs='9' lastused='2005' name='java' start='729027'>
+    <variant>JAVA</variant>
+  </canonskill>
+  <canonskill end='732253' experience='1' expidrefs='9' idrefs='9' lastused='2005' name='java server pages' start='729027'>
+    <variant>JSP</variant>
+  </canonskill>
+  <canonskill name='jboss'>
+    <variant>JBoss</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='7' idrefs='7' name='legal'>
+    <variant>legal</variant>
+  </canonskill>
+  <canonskill name='linux'>
+    <variant>Linux</variant>
+  </canonskill>
+  <canonskill end='732253' experience='1' expidrefs='9' idrefs='9' lastused='2005' name='locheed martin' start='729027'>
+    <variant>Lockheed Martin</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='management' start='734444'>
+    <variant>managing</variant>
+  </canonskill>
+  <canonskill end='732253' experience='1' expidrefs='9' idrefs='9' lastused='2005' name='marketing' start='729027'>
+    <variant>Market</variant>
+  </canonskill>
+  <canonskill end='732253' experience='1' expidrefs='9' idrefs='9' lastused='2005' name='microsoft access' start='729027'>
+    <variant>Access</variant>
+  </canonskill>
+  <canonskill end='733915' experience='1' expidrefs='4' idrefs='4' lastused='2010' name='microsoft c #' start='732922'>
+    <variant>C#</variant>
+  </canonskill>
+  <canonskill end='729027' experience='1' expidrefs='7,10' idrefs='7,10' lastused='1997' name='microsoft exchange' start='726560'>
+    <variant>Exchange</variant>
+    <variant>exchange</variant>
+    <variant>MS Exchange</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='11' idrefs='11' name='microsoft office'>
+    <variant>office</variant>
+  </canonskill>
+  <canonskill name='microsoft office specialist'>
+    <variant>MOS</variant>
+  </canonskill>
+  <canonskill name='microsoft windows'>
+    <variant>Windows</variant>
+  </canonskill>
+  <canonskill end='732253' experience='1' expidrefs='9' idrefs='9' lastused='2005' name='middleware' start='729027'>
+    <variant>middleware</variant>
+  </canonskill>
+  <canonskill end='732952' experience='1' expidrefs='5,8' idrefs='5,8' lastused='2007' name='migration' start='731949'>
+    <variant>migration</variant>
+  </canonskill>
+  <canonskill end='733915' experience='1' expidrefs='4' idrefs='4' lastused='2010' name='modeling' start='732922'>
+    <variant>modeling</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='11' idrefs='11' name='multimedia'>
+    <variant>Multimedia</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='mysql' start='734444'>
+    <variant>MYSQL</variant>
+    <variant>MySql</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='11' idrefs='11' name='netscape enterprise server'>
+    <variant>Enterprise</variant>
+  </canonskill>
+  <canonskill end='734230' experience='1' expidrefs='3,4,8,9,10' idrefs='3,4,8,9,10' lastused='2011' name='networking' start='726560'>
+    <variant>Network</variant>
+    <variant>network</variant>
+    <variant>networks</variant>
+  </canonskill>
+  <canonskill name='operating systems'>
+    <variant>OS</variant>
+  </canonskill>
+  <canonskill end='733915' experience='1' expidrefs='4' idrefs='4' lastused='2010' name='optimization' start='732922'>
+    <variant>optimization</variant>
+  </canonskill>
+  <canonskill end='734230' experience='1' expidrefs='3,5' idrefs='3,5' lastused='2011' name='oracle' start='731949'>
+    <variant>Oracle</variant>
+  </canonskill>
+  <canonskill end='734230' experience='1' expidrefs='3' idrefs='3' lastused='2011' name='order management' start='734079'>
+    <variant>order management</variant>
+  </canonskill>
+  <canonskill name='osi'>
+    <variant>OSI</variant>
+  </canonskill>
+  <canonskill end='732253' experience='1' expidrefs='9' idrefs='9' lastused='2005' name='packaging' start='729027'>
+    <variant>packaging</variant>
+  </canonskill>
+  <canonskill name='perl'>
+    <variant>PERL</variant>
+  </canonskill>
+  <canonskill name='php'>
+    <variant>PHP</variant>
+  </canonskill>
+  <canonskill end='733915' experience='1' expidrefs='4' idrefs='4' lastused='2010' name='pos' start='732922'>
+    <variant>POS</variant>
+  </canonskill>
+  <canonskill end='733915' experience='1' expidrefs='4' idrefs='4' lastused='2010' name='pricing' start='732922'>
+    <variant>pricing</variant>
+  </canonskill>
+  <canonskill end='732952' experience='1' expidrefs='5' idrefs='5' lastused='2007' name='prime' start='731949'>
+    <variant>prime</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='11' idrefs='11' name='process engineering'>
+    <variant>processes</variant>
+  </canonskill>
+  <canonskill end='733915' experience='1' expidrefs='4,5,9' idrefs='4,5,9' lastused='2010' name='program management' start='729027'>
+    <variant>program management</variant>
+  </canonskill>
+  <canonskill end='734230' experience='1' expidrefs='3' idrefs='3' lastused='2011' name='project management' start='734079'>
+    <variant>project management</variant>
+  </canonskill>
+  <canonskill end='734230' experience='1' expidrefs='3,4' idrefs='3,4' lastused='2011' name='quality control' start='732922'>
+    <variant>QA</variant>
+  </canonskill>
+  <canonskill end='732952' experience='1' expidrefs='5' idrefs='5' lastused='2007' name='radio' start='731949'>
+    <variant>Radio</variant>
+  </canonskill>
+  <canonskill end='732253' experience='1' expidrefs='9' idrefs='9' lastused='2005' name='retail' start='729027'>
+    <variant>retail</variant>
+  </canonskill>
+  <canonskill end='733915' experience='1' expidrefs='4' idrefs='4' lastused='2010' name='sales' start='732922'>
+    <variant>sales</variant>
+  </canonskill>
+  <canonskill end='733915' experience='1' expidrefs='4' idrefs='4' lastused='2010' name='scheduling' start='732922'>
+    <variant>scheduling</variant>
+  </canonskill>
+  <canonskill end='733915' experience='1' expidrefs='4,9,11' idrefs='4,9,11' lastused='2010' name='software development' start='729027'>
+    <variant>Software Development</variant>
+    <variant>software development</variant>
+  </canonskill>
+  <canonskill end='732253' experience='1' expidrefs='9' idrefs='9' lastused='2005' name='specification' start='729027'>
+    <variant>specification</variant>
+  </canonskill>
+  <canonskill name='sql'>
+    <variant>SQL</variant>
+  </canonskill>
+  <canonskill end='732952' experience='1' expidrefs='5,9' idrefs='5,9' lastused='2007' name='strategic' start='729027'>
+    <variant>Strategy</variant>
+    <variant>strategy</variant>
+    <variant>strategic</variant>
+  </canonskill>
+  <canonskill end='729027' experience='1' expidrefs='10' idrefs='10' lastused='1997' name='strategic planning' start='726560'>
+    <variant>strategic planning</variant>
+  </canonskill>
+  <canonskill end='732253' experience='1' expidrefs='9,11' idrefs='9,11' lastused='2005' name='streaming video' start='729027'>
+    <variant>streaming video</variant>
+    <variant>Streaming video</variant>
+  </canonskill>
+  <canonskill name='struts'>
+    <variant>Struts 1</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='11' idrefs='11' name='system architecture'>
+    <variant>system design</variant>
+    <variant>System Architecture</variant>
+  </canonskill>
+  <canonskill end='732952' experience='1' expidrefs='5,9' idrefs='5,9' lastused='2007' name='systems integration' start='729027'>
+    <variant>systems integration</variant>
+  </canonskill>
+  <canonskill end='732952' experience='1' expidrefs='5,9,11' idrefs='5,9,11' lastused='2007' name='telecommunications' start='729027'>
+    <variant>Telecom</variant>
+  </canonskill>
+  <canonskill end='732253' experience='1' expidrefs='9' idrefs='9' lastused='2005' name='telephone skills' start='729027'>
+    <variant>phones</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2,3,5,9,10,11' idrefs='2,3,5,9,10,11' lastused='2012' name='television' start='726560'>
+    <variant>TV</variant>
+    <variant>Television</variant>
+    <variant>television</variant>
+  </canonskill>
+  <canonskill name='unix'>
+    <variant>Unix</variant>
+  </canonskill>
+  <canonskill end='734230' experience='1' expidrefs='3,4,9,11' idrefs='3,4,9,11' lastused='2011' name='video' start='729027'>
+    <variant>Video</variant>
+    <variant>video</variant>
+  </canonskill>
+  <canonskill end='733915' experience='1' expidrefs='4' idrefs='4' lastused='2010' name='vision' start='732922'>
+    <variant>vision</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='8' idrefs='8' name='voip'>
+    <variant>VOIP</variant>
+  </canonskill>
+  <canonskill end='733915' experience='1' expidrefs='4,10' idrefs='4,10' lastused='2010' name='web portal' start='726560'>
+    <variant>Web Portal</variant>
+    <variant>web portal</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,4,9,11' idrefs='1,4,9,11' lastused='2012' name='web site production' start='729027'>
+    <variant>web site</variant>
+    <variant>website</variant>
+    <variant>web content</variant>
+    <variant>web production</variant>
+  </canonskill>
+  <canonskill end='732253' experience='1' expidrefs='9' idrefs='9' lastused='2005' name='workflow analysis' start='729027'>
+    <variant>Workflow</variant>
+    <variant>workflow</variant>
+  </canonskill>
+  <canonskill end='732253' experience='1' expidrefs='9' idrefs='9' lastused='2005' name='xml' start='729027'>
+    <variant>XML</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

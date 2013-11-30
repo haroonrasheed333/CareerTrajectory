@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734592' xml:space='preserve'><contact><address lat='29.0916' lon='81.9885' majorcity='OCALA' state='FL'><street>4 PECAN PASS RADIAL</street>
+<city>OCALA</city>, <state abbrev='FL'>FL</state> <postalcode>34472</postalcode></address>
+Phone <phone>352/687-0852</phone></contact>	
+
+<experience end='present' start='725739'><job end='present' id='1' pos='1' start='725739'><employer>ANGELA LYNNE WORLEY</employer>
+<description>Summary of qualifications</description>	[  <daterange><start days='725739' iso8601='1988-01-01'>1988</start> to <end days='present' iso8601='2012-03-28'>present</end></daterange>  ] <employer>Shands Teaching Hospital</employer>, <description>ORMC Gainesville/Ocala, Fl
+  Blood and Cancer Center , Ocala Oncology</description>
+<title>Medical Records Clerk</title>
+<description>HIPPA, Fire and Safety OSHA Standard, Patient Care Safety
+Medical Record Software</description></job>
+<job end='730122' id='2' pos='5' sic='521107' sic2='52' start='725739'><employer>Windows Software</employer>
+Notary (exp.)	
+
+Work experience	[  <daterange><start days='725739' iso8601='1988-01-01'>1988</start> to <end days='730122' iso8601='2000-01-01'>2000</end></daterange>  ]	<employer>Shands Teaching Hospital</employer>      <address><city>Gainesville</city>, <state abbrev='FL'>Fl</state></address></job>
+ [ <job end='732679' id='3' naics='62211002' naics2='62' pos='4' sic='806202' sic2='80' start='730853'><daterange><start days='730853' iso8601='2002-01-01'>2002</start> to <end days='732679' iso8601='2007-01-01'>2007</end></daterange>  ]               <employer>Ocala Regional Medical Center</employer>  <address><city>Ocala</city>, <state abbrev='FL'>Fl</state></address></job>	
+[ <job end='733775' id='4' pos='3' sic='801101' sic2='80' start='733044'><daterange><start days='733044' iso8601='2008-01-01'>2008</start> to <end days='733775' iso8601='2010-01-01'>2010</end></daterange> ]                <employer>Blood and Cancer Center</employer>   <address><city>Ocala</city>, <state abbrev='FL'>FL</state></address></job>
+[ <job end='734109' id='5' pos='2' sic='8011' sic2='80' start='733956'><daterange><start days='733956' iso8601='2010-07-01'>7-2010</start> thru <end days='734109' iso8601='2010-12-01'>12-2010</end></daterange>]    <employer>Ocala Oncology</employer>	 
+<title>Medical Records Clerk</title>
+<description>Assembled and retrieved records for patient care, worked with physicians 
+ Updating delinquent records, filed charts and loose material, faxed medical record information to other facilities, answered phones, worked overtime whenever needed.
+Obtaining medical records on a daily basis for physicians, when needed for patient care.
+Scanning paper records for online records use.
+Responsible for all new patient charts, and maintaining all established patient's paper chart and scanned chart.
+File all loose filing and charts on a daily basis.
+Working with all oncologists on a daily basis for any needed additional records needed for patient appointments.</description></job></experience>
+
+
+
+
+<education>Education	[  <school id='6'><daterange><start days='720991' iso8601='1975-01-01'>1975</start> to <end days='722452' iso8601='1979-01-01'>1979</end></daterange> ]           <institution>Interlachen High School</institution>,  <address><city>Interlachen</city>, <state abbrev='FL'>Fl</state></address>
+Graduated with <degree level='13' name='Diploma'>diploma</degree>, <description>received volleyball and basketball awards, held position of Band Captain senior year.</description>
+[ <daterange><start days='722817' iso8601='1980-01-01'>1980</start> to <end days='723548' iso8601='1982-01-01'>1982</end></daterange> ]           <institution>St.Johns Community College</institution>, <address><city>Palatka</city>, <state abbrev='FL'>FL</state></address></school>
+Music major, basic core courses (no degree earned).</education>	
+
+<references>References	Mary Rider: 352-236-3353
+Arlene Gardner 352-732-0829</references>	
+
+<statements>Interests and activities	<activities>Church, family, friends, travel	
+
+Hobbies	water skiing, crossword puzzles, badminton, and playing with my son</activities></statements>		
+
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='734109' experience='1' expidrefs='5' idrefs='5' lastused='2010' name='charts' start='733956'>
+    <variant>charts</variant>
+  </canonskill>
+  <canonskill end='734109' experience='1' expidrefs='5' idrefs='5' lastused='2010' name='file management' start='733956'>
+    <variant>filing</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='safety' start='725739'>
+    <variant>Safety</variant>
+  </canonskill>
+  <canonskill end='734109' experience='1' expidrefs='5' idrefs='5' lastused='2010' name='scanners' start='733956'>
+    <variant>Scanning</variant>
+  </canonskill>
+  <canonskill end='734109' experience='1' expidrefs='5' idrefs='5' lastused='2010' name='telephone skills' start='733956'>
+    <variant>phones</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

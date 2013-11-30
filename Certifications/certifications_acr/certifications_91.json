@@ -1,0 +1,26 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CEMS", 
+            "Certification Name": "WOW Certified E-Commerce Manager", 
+            "Type": "Core", 
+            "Certification ID": "2852", 
+            "Certifying Organization": "World Organization of Webmasters"
+        }, 
+        {
+            "Acronym": "PME", 
+            "Certification Name": "Project Manager E-Business", 
+            "Type": "Core", 
+            "Certification ID": "2767", 
+            "Certifying Organization": "Institute of Certified E-Commerce Consultants "
+        }, 
+        {
+            "Acronym": "CEA", 
+            "Certification Name": "Certified E-Marketing Analyst", 
+            "Type": "Core", 
+            "Certification ID": "2768", 
+            "Certifying Organization": "Institute of Certified E-Commerce Consultants "
+        }
+    ], 
+    "onet": "13119906"
+}

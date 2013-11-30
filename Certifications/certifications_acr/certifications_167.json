@@ -1,0 +1,54 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CHFP", 
+            "Certification Name": "Certified Human Factors Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "1450", 
+            "Certifying Organization": "Board of Certification in Professional Ergonomics"
+        }, 
+        {
+            "Acronym": "AEP", 
+            "Certification Name": "Associate Ergonomics Professional", 
+            "Type": "Core", 
+            "Certification ID": "1451", 
+            "Certifying Organization": "Board of Certification in Professional Ergonomics"
+        }, 
+        {
+            "Acronym": "AHFP", 
+            "Certification Name": "Associate Human Factors Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "1452", 
+            "Certifying Organization": "Board of Certification in Professional Ergonomics"
+        }, 
+        {
+            "Acronym": "CEA", 
+            "Certification Name": "Certified Ergonomics Associate", 
+            "Type": "Core", 
+            "Certification ID": "1453", 
+            "Certifying Organization": "Board of Certification in Professional Ergonomics"
+        }, 
+        {
+            "Acronym": "CUXP", 
+            "Certification Name": "Certified User Experience Professional", 
+            "Type": "Core", 
+            "Certification ID": "6942", 
+            "Certifying Organization": "Board of Certification in Professional Ergonomics"
+        }, 
+        {
+            "Acronym": "AUXP", 
+            "Certification Name": "Associate User Experience Professional", 
+            "Type": "Core", 
+            "Certification ID": "6943", 
+            "Certifying Organization": "Board of Certification in Professional Ergonomics"
+        }, 
+        {
+            "Acronym": "CPE", 
+            "Certification Name": "Certified Professional Ergonomist", 
+            "Type": "Specialty", 
+            "Certification ID": "1449", 
+            "Certifying Organization": "Board of Certification in Professional Ergonomics"
+        }
+    ], 
+    "onet": "17211201"
+}

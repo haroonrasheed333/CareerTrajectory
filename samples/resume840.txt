@@ -1,0 +1,226 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734597' xml:space='preserve'><contact><name><givenname>Yana</givenname> <surname>Burakovsky</surname></name>, MSc, PMP, OCP
+
+<address lat='37.4629' lon='-122.233' majorcity='REDWOOD CITY' state='CA'><street>749 Mediterranean Lane</street>, <city>Redwood city</city>, <state abbrev='CA'>CA</state></address>,
+<phone>(650)504-1456</phone> / <email>yana_burakovsky@hotmail.com</email></contact>
+
+<summary><objective>Project Manager/Operations Manager</objective> 
+
+<summary>10+ years of on-time, on-budget project delivery in areas of Version and Software configuration management, Oracle Databases production support, deployment and operations management for complex, large-scale global projects
+Main customers: AT&amp;T U-Verse, AT&amp;T Wireless, Deutsche Telecom
+
+Areas of expertise:
+
+Project/Operations Management
+with Agile and &quot;Waterfall&quot; methods	Oracle DBA and ADBA
+Offshore development	Software Configuration Management	
+
+Technical Project Management	Oracle Products and solutions	Version Management	
+
+Production deployments 	Vendor Management	Delivery Management	
+
+Production support: strategy, planning	Offshore Development	 Defect Management</summary></summary>	
+
+<experience end='present' start='730488'>Professional Experience
+<job end='present' id='1' naics='54151104' naics2='54' pos='1' sic='737103' sic2='73' start='733775'><employer>Amdocs, Inc</employer>, <address><city>San Jose</city>, <state abbrev='CA'>CA</state></address>                         					<daterange><start days='733775' iso8601='2010-01-01'>2010</start> - <end days='present' iso8601='2012-04-02'>present</end></daterange> 
+<title>Software Configuration Manager/Release Manager</title>
+			
+<description>AT&amp;T wireless and AT&amp;T U-verse
+ Version, delivery and Software Configuration management for &quot;Titan&quot; (merge between AT&amp;T U-Verse and Wireless Applications)
+Currently leading a complex cross-organizational project to develop and implement a unified SCM procedure for AT&amp;T U-Verse and AT&amp;T Wireless to support their internal merge. It includes delivery, version control, change control, audit, and release verification procedures. Stakeholders are hundreds of developers, testers and managers from AT&amp;T and Amdocs onshore and offshore teams.</description></job> 
+<job id='2'><employer>AT&amp;T U-Verse</employer>. Products: <description>CRM, OMS, Enabler/Billing 
+Defect management
+Led 4 teams from different business divisions for planning and implementation of a defect management model for monitoring, forecasting and executive reporting of application defects during pre-production peak periods (~300 defects/day; 5 development teams; 5 different geographical locations; 3 time zones). It was implemented for ATT U-Verse major releases and was one of the key tools in reaching strict ATT quality goals.</description>
+<title>Customer Learning Implementation Manager</title>
+(<description>Received an official appreciation letter from AT&amp;T for outstanding training support management)
+Managed all ATT U-Verse CSR training operations and projects: client relations, strategic planning, training requirements negotiations, environment architecture and hardware, build-outs and delivery.
+Negotiated contracts and secured deals. The latest: a multi-million deal with an AT&amp;T business unit.
+Led 6 Amdocs teams to deliver and support 5 end-to-end, multi-application production-like training environments and provide customer services according to SLA.
+Conversion implementation management
+Successfully managed implementation, delivery, and production deployment of application data conversion for major AT&amp;T U-verse products for 5 deployments, according to very strict SLA.</description></job> 
+
+<job end='733775' id='3' inferred-to='2,4' naics='54151104' naics2='54' pos='3' sic='737103' sic2='73' start='731949'><employer>Amdocs, Inc</employer>, <address><city>Chesterfield</city>, <state abbrev='MO'>MO</state></address> and <address><city>San Jose</city>, <state abbrev='CA'>CA</state></address>                        			<daterange><start days='731949' iso8601='2005-01-01'>2005</start>-<end days='733775' iso8601='2010-01-01'>2010</end></daterange></job>
+<job end='733775' id='4' inferred-from='3' pos='2' sic='737103' sic2='73' start='732679'><title>Manager and Technical Manager</title> <description>of Oracle DBA/ADBA Team for AT&amp;T U-Verse				
+ADBA Manager for AT&amp;T U-Verse Production Support &amp; Operations Services</description> (<daterange><start days='732679' iso8601='2007-01-01'>2007</start>-<end days='733775' iso8601='2010-01-01'>2010</end></daterange>)
+(<description>Was evaluated among top 2% of division employees for outstanding project results)
+Hold dual responsibility as (a) Technical manager (b) ADBA and DBA Project Manager
+Planned and established efficient and innovative AT&amp;T U-Verse Database support and operations for 2 applications using Agile Scrum methodology. This led to a long term contract between AT&amp;T and Amdocs that includes the entire Amdocs OSS product suite.
+Managed onshore and offshore DB operations and support for Amdocs OSS suite with 10 production and 100+ non-production environments and hundreds of databases.
+Participated in all ongoing negotiation of contracts related to AT&amp;T database support.
+Managed major AT&amp;T U-Verse and Mobility Database production deployments for entire Amdocs portfolio (5+ deployments per year).
+Led design and Implementation of &quot;zero downtime&quot; production database deployment for CRM and decreased production deployment window for other applications in 2+ times.        
+Established  and managed multi-site global ADBA team (3 team leaders and 20+ employees)</description></job> 
+<job end='732679' id='5' inferred-from='3' pos='4' sic='737103' sic2='73' start='731949'><title>DBA and ADBA Manager</title> (<daterange><start days='731949' iso8601='2005-01-01'>2005</start>-<end days='732679' iso8601='2007-01-01'>2007</end></daterange>)
+               (<description>Was granted 1 of 4 available Amdocs yearly &quot;Care&quot; awards for outstanding customer care)
+As an Oracle DBA Manager, built an ADBA team and gradually established Oracle Database support for hundreds of testing and training environments. The support includes Oracle installation, Oracle patching, backups and recovery, performance tuning, and troubleshooting. 
+As an ADBA Manager for U-verse AT&amp;T testing and production databases (from Amdocs' side) led numerous successful AT&amp;T production deployments and application data conversions within short deployment windows.</description></job>
+
+<job end='731218' id='6' naics='54151104' naics2='54' pos='6' sic='872101' sic2='87' start='730488'><employer>Amdocs, Israel</employer> (<daterange><start days='730488' iso8601='2001-01-01'>2001</start>-<end days='731218' iso8601='2003-01-01'>2003</end></daterange></job>), <job end='731949' id='7' naics='54151104' naics2='54' pos='5' sic='737103' sic2='73' start='730488'><employer>Amdocs, Inc</employer>, <address><city>Chesterfield</city>, <state abbrev='MO'>MO</state></address> (<daterange><start days='731218' iso8601='2003-01-01'>2003</start>-<end days='731949' iso8601='2005-01-01'>2005</end></daterange>) 		<daterange><start days='730488' iso8601='2001-01-01'>2001</start>-<end days='731949' iso8601='2005-01-01'>2005</end></daterange> 
+<description>Oracle DBA and ADBA for Sprint, Deutsche Telecom, CenturyTel. Svyazinvest (Russia's largest telecommunications holding company)
+As an Application DBA, consulted with numerous customers such as Deutsche Telecom, Cellcom (Israel) and Svyazinvest (Russia) off- and on-clients' sites regarding Application DBA development tools and procedures.
+Worked with customers on architecture, backup strategy and, replication of testing and production Oracle Databases.
+Developed ADBA tools and procedures for large and complex Database upgrades to a new development version.
+As an DBA, performed Oracle installations, patching, troubleshooting and database and SQL tuning.</description></job></experience> 
+
+<education>Education and Professional Profile
+<courses>MSc and BSc in Chemistry (minor in science education) - Kiev State University, Ukraine
+Project Management Professional Certification (PMP) - Project Management Institute
+Oracle certified professional Certification (OCP) - Oracle, Israel
+&quot;Web design&quot; training - Stanford University, CA 
+Essential of Business training (MBA curriculum) - UC Berkley Extension, CA
+Software Engineering Certification (GPA A) - John Bryce Training Center, Israel
+Science and technology - certification in education - Technion, Israel Institute of Technology</courses></education>
+
+<skills>Language fluency: excellent speaking, writing and presentation skills in <languages>English, Hebrew and Russian</languages></skills>  
+</resume>
+
+<skillrollup version='1'>
+  <canonskill experience='1' name='agile'>
+    <variant>Agile</variant>
+  </canonskill>
+  <canonskill end='731949' experience='1' expidrefs='7' idrefs='7' lastused='2005' name='backup' start='730488'>
+    <variant>backup</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='2' idrefs='2' name='billing'>
+    <variant>Billing</variant>
+  </canonskill>
+  <canonskill education='1' name='bryce'>
+    <variant>Bryce</variant>
+  </canonskill>
+  <canonskill education='1' name='bsc'>
+    <variant>BSc</variant>
+  </canonskill>
+  <canonskill education='1' name='computer associates packages'>
+    <variant>CA</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='2' idrefs='2' name='computer hardware'>
+    <variant>hardware</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='configuration management' start='733775'>
+    <variant>Configuration management</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='2' idrefs='2' name='contract management'>
+    <variant>contracts</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='2' idrefs='2' name='conversion'>
+    <variant>Conversion</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='2' idrefs='2' name='crm'>
+    <variant>CRM</variant>
+  </canonskill>
+  <canonskill end='731949' experience='1' expidrefs='2,7' idrefs='2,7' lastused='2005' name='customer relations' start='730488'>
+    <variant>clients</variant>
+    <variant>client relations</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='2' idrefs='2' name='customer service'>
+    <variant>customer services</variant>
+  </canonskill>
+  <canonskill experience='1' name='customer support'>
+    <variant>customer care</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='cvs' start='733775'>
+    <variant>version control</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='2' idrefs='2' name='data conversion'>
+    <variant>data conversion</variant>
+  </canonskill>
+  <canonskill end='731949' experience='1' expidrefs='7' idrefs='7' lastused='2005' name='database administration' start='730488'>
+    <variant>Databases</variant>
+    <variant>databases</variant>
+    <variant>Database</variant>
+    <variant>database</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='delivery' start='733775'>
+    <variant>delivery</variant>
+  </canonskill>
+  <canonskill name='english'>
+    <variant>English</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='2' idrefs='2' name='forecasting'>
+    <variant>forecasting</variant>
+  </canonskill>
+  <canonskill name='hebrew'>
+    <variant>Hebrew</variant>
+  </canonskill>
+  <canonskill education='1' name='mba'>
+    <variant>MBA</variant>
+  </canonskill>
+  <canonskill experience='1' name='microsoft windows'>
+    <variant>windows</variant>
+    <variant>window</variant>
+  </canonskill>
+  <canonskill education='1' name='msc'>
+    <variant>MSc</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='2' idrefs='2' name='negotiation'>
+    <variant>negotiation</variant>
+    <variant>negotiations</variant>
+  </canonskill>
+  <canonskill education='1' end='731949' experience='1' expidrefs='7' idrefs='7' lastused='2005' name='oracle' start='730488'>
+    <variant>Oracle</variant>
+  </canonskill>
+  <canonskill end='731949' experience='1' expidrefs='7' idrefs='7' lastused='2005' name='oracle dba' start='730488'>
+    <variant>Oracle DBA</variant>
+    <variant>DB</variant>
+    <variant>DBA</variant>
+    <variant>Oracle Database</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='organizational skills' start='733775'>
+    <variant>organizational</variant>
+  </canonskill>
+  <canonskill experience='1' name='oss'>
+    <variant>OSS</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='2' idrefs='2' name='peak'>
+    <variant>peak</variant>
+  </canonskill>
+  <canonskill name='presentation skills'>
+    <variant>presentation skills</variant>
+  </canonskill>
+  <canonskill education='1' name='project management'>
+    <variant>Project Management</variant>
+  </canonskill>
+  <canonskill name='public speaking'>
+    <variant>speaking</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='2' idrefs='2' name='quality'>
+    <variant>quality</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='2' idrefs='2' name='reports'>
+    <variant>reporting</variant>
+  </canonskill>
+  <canonskill name='russian'>
+    <variant>Russian</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='2' idrefs='2' name='sla'>
+    <variant>SLA</variant>
+  </canonskill>
+  <canonskill education='1' name='software engineering'>
+    <variant>Software Engineering</variant>
+  </canonskill>
+  <canonskill end='731949' experience='1' expidrefs='7' idrefs='7' lastused='2005' name='sql' start='730488'>
+    <variant>SQL</variant>
+  </canonskill>
+  <canonskill end='731949' experience='1' expidrefs='7' idrefs='7' lastused='2005' name='strategic' start='730488'>
+    <variant>strategy</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='2' idrefs='2' name='strategic planning'>
+    <variant>strategic planning</variant>
+  </canonskill>
+  <canonskill end='731949' experience='1' expidrefs='7' idrefs='7' lastused='2005' name='telecommunications' start='730488'>
+    <variant>telecommunications</variant>
+    <variant>Telecom</variant>
+  </canonskill>
+  <canonskill end='731949' experience='1' expidrefs='7' idrefs='7' lastused='2005' name='troubleshooting' start='730488'>
+    <variant>troubleshooting</variant>
+  </canonskill>
+  <canonskill end='731949' experience='1' expidrefs='7' idrefs='7' lastused='2005' name='upgrades' start='730488'>
+    <variant>upgrades</variant>
+  </canonskill>
+  <canonskill education='1' name='web site production'>
+    <variant>Web design</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

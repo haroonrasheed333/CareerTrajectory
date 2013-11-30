@@ -1,0 +1,362 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Deployment Professional - FileNet P8 V5.1", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9334", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Deployment Professional - Tivoli Storage Manager V6.3", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9575", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Designer - Forms 4", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9286", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "HP AIS - TRIM v7", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7196", 
+            "Certifying Organization": "Hewlett Packard Certification and Learning"
+        }, 
+        {
+            "Acronym": "EMCSA", 
+            "Certification Name": "Storage Administrator", 
+            "Type": "Advanced", 
+            "Certification ID": "5822", 
+            "Certifying Organization": "EMC Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Solution Designer - IBM Content Collector", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9341", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Deployment Professional - Tivoli Storage Manager V6.2", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7020", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "EDRP", 
+            "Certification Name": "Disaster Recovery Professional", 
+            "Type": "Core", 
+            "Certification ID": "6346", 
+            "Certifying Organization": "EC-Council"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Specialist - FileNet Business Process Manager V5.1", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9338", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Specialist - Content Analytics and Search V2.2", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9337", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Designer - Forms 8.0", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9285", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Solution Designer - Datacap Taskmaster Capture V8.1", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9328", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "CDMP", 
+            "Certification Name": "Certified Data Management Professional", 
+            "Type": "Core", 
+            "Certification ID": "3546", 
+            "Certifying Organization": "Institute for the Certification of Computing Professionals"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Adobe Acrobat X Pro", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8056", 
+            "Certifying Organization": "Adobe Systems Incorporated"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Specialist - FileNet Content Manager V5.1", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9339", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Oracle Documaker Standard Edition 12 Certified Implementation Specialist", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8503", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "CRM", 
+            "Certification Name": "Certified Records Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "1208", 
+            "Certifying Organization": "Institute of Certified Records Managers"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Adobe InDesign CS6", 
+            "Type": "\u00a0", 
+            "Certification ID": "8818", 
+            "Certifying Organization": "Adobe Systems Incorporated"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Specialist - Case Manager V5.0", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9340", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Adobe LiveCycle ES2 Data Capture", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8064", 
+            "Certifying Organization": "Adobe Systems Incorporated"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Oracle Customer Hub and Oracle Data Quality Certified Implementation Specialist", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8479", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Adobe FrameMaker 10", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8071", 
+            "Certifying Organization": "Adobe Systems Incorporated"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Advanced Deployment Professional - IBM Service Management Asset Management V3", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9521", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "CCIE", 
+            "Certification Name": "CCIE Storage Networking", 
+            "Type": "Core", 
+            "Certification ID": "5706", 
+            "Certifying Organization": "Cisco Systems, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "HP ASE - StorageWorks Integration [2011]", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7270", 
+            "Certifying Organization": "Hewlett Packard Certification and Learning"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Microsoft Office Specialist (MOS): Word 2007 Expert", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7387", 
+            "Certifying Organization": "Microsoft Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Adobe InDesign CS5", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8052", 
+            "Certifying Organization": "Adobe Systems Incorporated"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "CompTIA Cloud Essentials", 
+            "Type": "Core", 
+            "Certification ID": "7408", 
+            "Certifying Organization": "Computing Technology Industry Association (CompTIA)"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "EC-Council Certified Incident Handler", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "6347", 
+            "Certifying Organization": "EC-Council"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Primavera P6 Enterprise Project Portfolio Management 8 Certified Implementation Specialist", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8477", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Associate - WebSphere Portal and Portal Products", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9304", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Solution Designer - Case Manager V5.1", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9331", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Adobe LiveCycle ES2 Form Developer", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8066", 
+            "Certifying Organization": "Adobe Systems Incorporated"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Service Management Tivoli Storage Management V5", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9515", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Adobe FrameMaker 8", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8816", 
+            "Certifying Organization": "Adobe Systems Incorporated"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "HP Technical Certified I - Document Solutions [2012]", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8903", 
+            "Certifying Organization": "Hewlett Packard Certification and Learning"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "AIS - HP Data Protector", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7193", 
+            "Certifying Organization": "Hewlett Packard Certification and Learning"
+        }, 
+        {
+            "Acronym": "PDI+", 
+            "Certification Name": "CompTIA Printing and Document Imaging Certification", 
+            "Type": "Core", 
+            "Certification ID": "3498", 
+            "Certifying Organization": "Computing Technology Industry Association (CompTIA)"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Service Management Tivoli Storage Management V3", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9543", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "HP Sales Certified - Imaging and Printing Supplies [2012]", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "2971", 
+            "Certifying Organization": "Hewlett Packard Certification and Learning"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "HP Technical Certified I - Imaging and Printing Solutions [2012]", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8904", 
+            "Certifying Organization": "Hewlett Packard Certification and Learning"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Microsoft Dynamics NAV 2009 Service Management", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7579", 
+            "Certifying Organization": "Microsoft Corporation"
+        }, 
+        {
+            "Acronym": "CDIA+", 
+            "Certification Name": "Certified Document Imaging Architect", 
+            "Type": "Core", 
+            "Certification ID": "0372", 
+            "Certifying Organization": "Computing Technology Industry Association (CompTIA)"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "CompTIA Storage + Powered by SNIA", 
+            "Type": "Core", 
+            "Certification ID": "7407", 
+            "Certifying Organization": "Computing Technology Industry Association (CompTIA)"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Service Management Storage Management V4", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9520", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Solution Designer -- DB2 Content Manager V8.3", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9342", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "HP Technical Certified II - Imaging and Printing Solutions [2012]", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8905", 
+            "Certifying Organization": "Hewlett Packard Certification and Learning"
+        }, 
+        {
+            "Acronym": "CDIP", 
+            "Certification Name": "Certified Documentation Improvement Practitioner", 
+            "Type": "Core", 
+            "Certification ID": "8042", 
+            "Certifying Organization": "American Health Information Management Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Adobe LiveCycle ES2 Document Output", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8063", 
+            "Certifying Organization": "Adobe Systems Incorporated"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Oracle Life Sciences Data Hub 2 Certified Implementation Specialist", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8504", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Avid Certified Support Representative for Storage", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8538", 
+            "Certifying Organization": "Avid Technology, Inc."
+        }
+    ], 
+    "onet": "15119912"
+}

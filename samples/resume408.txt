@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734593' xml:space='preserve'><contact><name><givenname>Elizabeth</givenname> <givenname>Dawn</givenname> <surname>Basham</surname></name>
+<address lat='40.2744' lon='80.1536' majorcity='CANONSBURG' state='PA'><street>137 Thomas Road</street>
+<city>McMurray</city>, <state abbrev='PA'>PA</state> <postalcode>15317</postalcode></address>
+	<phone>(724) 480- 9278</phone>
+<email>dawnbasham@hotmail.com</email></contact>	
+
+
+<summary>Professional Objective
+<objective>I am a recent graduate of The Washington Hospital School of Nursing seeking a full time staff nurse position on a medical-surgical unit. I have taken, and passed, the NCLEX and received my license as a Registered Nurse.</objective></summary>
+
+<education>Education
+<school id='5'><institution>The Washington Hospital School of Nursing</institution>, <address><city>Washington</city>, <state abbrev='PA'>PA</state></address>
+Graduation Date: <completiondate days='734489' iso8601='2011-12-16'>December 16, 2011</completiondate>
+<description>Diploma Registered Nurse</description></school></education>
+
+<experience end='present' start='732192'>Clinical Experience
+<job id='1' naics='62211002' naics2='62' sic='806202' sic2='80'><title>Medical Surgical Clinical Rotations</title>, <employer>The Washington Hospital</employer>
+<description>Manages care for 3 to 4 complex medical surgical patients
+Performs head to toe nursing assessments and prioritizes patient care
+Communicates effectively with physicians and heath care team
+Attentive to patient safety and infection prevention
+Skilled with charting in Sunrise Charting System, VeriScan, Knowledge Based Charting, and Word software systems
+First Aid and CPR Certified
+
+Specialty Rotations
+Obstetrics rotation at The Washington Hospital
+Psychiatric rotation at The Washington Hospital
+Pediatric rotation at Ruby Memorial Hospital
+Critical Care rotation at The Washington Hospital
+Emergency Department rotation at The Washington Hospital
+Completed multiple simulations on Emergency Medical Management</description></job>
+
+Work Experience
+<job end='present' id='2' pos='1' start='733561'><title>Child Care Provider</title>						<daterange><start days='733561' iso8601='2009-06-01'>June 2009</start> - <end days='present' iso8601='2012-03-29'>Present</end></daterange>
+<address lat='40.2744' lon='80.1536' majorcity='CANONSBURG' state='PA'><city>McMurray</city>, <state abbrev='PA'>PA</state> <postalcode>15317</postalcode></address></job>
+Alicia Patton (412) 310-0300
+
+<job end='733561' id='3' pos='2' start='732192'><title>Subway Sandwich Artist</title> 					<daterange><start days='732192' iso8601='2005-09-01'>Sept. 2005</start> - <end days='733561' iso8601='2009-06-01'>June 2009</end></daterange>
+<address lat='40.2744' lon='80.1536' majorcity='CANONSBURG' state='PA'><city>McMurray</city> <state abbrev='PA'>PA</state> <postalcode>15317</postalcode></address></job>
+<job end='733349' id='4' pos='3' start='733257'><title>Shift Leader</title>
+Pam Carson (724) 941-2313
+
+Broadmore Senior Living at <employer>Lakemont Farms</employer>			<daterange><start days='733257' iso8601='2008-08-01'>Aug. 2008</start> - <end days='733349' iso8601='2008-11-01'>Nov. 2008</end></daterange>
+<address lat='40.3557' lon='80.1137' majorcity='BRIDGEVILLE' state='PA'><city>Bridgeville</city>, <state abbrev='PA'>PA</state> <postalcode>15017</postalcode></address></job>
+<title>Personal Care Aide</title>
+(412) 564-4558</experience>
+
+<references>References:
+Tina Gallup 		(724) 250-4387
+Alicia Patton		(412) 310-0300
+Melanie Rush		(724) 223- 3180</references>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<statements>2</statements>
+
+</resume>
+
+<skillrollup version='1'>
+  <canonskill experience='1' expidrefs='1' idrefs='1' name='cpr certified'>
+    <variant>CPR Certified</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='1' idrefs='1' name='first aid'>
+    <variant>First Aid</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='1' idrefs='1' name='microsoft word'>
+    <variant>Word</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='1' idrefs='1' name='nursing'>
+    <variant>nursing</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='1' idrefs='1' name='safety'>
+    <variant>safety</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

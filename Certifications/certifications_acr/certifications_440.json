@@ -1,0 +1,145 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "NCET", 
+            "Certification Name": "Nationally Certified ECG Technician", 
+            "Type": "Core", 
+            "Certification ID": "6289", 
+            "Certifying Organization": "National Center for Competency Testing"
+        }, 
+        {
+            "Acronym": "CCS", 
+            "Certification Name": "Cardiovascular and Pulmonary Certified Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "0425", 
+            "Certifying Organization": "American Board of Physical Therapy Specialties"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "EKG Technician", 
+            "Type": "Core", 
+            "Certification ID": "8531", 
+            "Certifying Organization": "American Phlebotomy Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification for Competency in Cardiac Electrophysiology for the Allied Professional", 
+            "Type": "Specialty", 
+            "Certification ID": "7309", 
+            "Certifying Organization": "International Board of Heart Rhythm Examiners"
+        }, 
+        {
+            "Acronym": "RTCV", 
+            "Certification Name": "Registered Technologist - Cardiac-Interventional Radiography", 
+            "Type": "Specialty", 
+            "Certification ID": "2027", 
+            "Certifying Organization": "American Registry of Radiologic Technologists"
+        }, 
+        {
+            "Acronym": "CPFT", 
+            "Certification Name": "Certified Pulmonary Function Technologist", 
+            "Type": "Specialty", 
+            "Certification ID": "0284", 
+            "Certifying Organization": "National Board for Respiratory Care"
+        }, 
+        {
+            "Acronym": "RPFT", 
+            "Certification Name": "Registered Pulmonary Function Technologist", 
+            "Type": "Core", 
+            "Certification ID": "2565", 
+            "Certifying Organization": "National Board for Respiratory Care"
+        }, 
+        {
+            "Acronym": "RVS", 
+            "Certification Name": "Registered Vascular Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "1812", 
+            "Certifying Organization": "Cardiovascular Credentialing International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Clinical Research Assistant", 
+            "Type": "Core", 
+            "Certification ID": "8529", 
+            "Certifying Organization": "American Phlebotomy Association"
+        }, 
+        {
+            "Acronym": "RCES", 
+            "Certification Name": "Registered Cardiac Electrophysiology Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "5913", 
+            "Certifying Organization": "Cardiovascular Credentialing International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Diplomate of American Board of Vascular Medicine", 
+            "Type": "Specialty", 
+            "Certification ID": "7440", 
+            "Certifying Organization": "American Board of Vascular Medicine"
+        }, 
+        {
+            "Acronym": "Electrocardiography", 
+            "Certification Name": "EKG (Electrocardiography) Technician", 
+            "Type": "Core", 
+            "Certification ID": "2450", 
+            "Certifying Organization": "American Society of Phlebotomy Technicians"
+        }, 
+        {
+            "Acronym": "CET", 
+            "Certification Name": "Certified EKG Technician", 
+            "Type": "Core", 
+            "Certification ID": "3786", 
+            "Certifying Organization": "National Healthcareer Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification for Competency in Cardiac Rhythm Device Therapy for the Allied Professional", 
+            "Type": "Specialty", 
+            "Certification ID": "7308", 
+            "Certifying Organization": "International Board of Heart Rhythm Examiners"
+        }, 
+        {
+            "Acronym": "CRAT", 
+            "Certification Name": "Certified Rhythm Analysis Technician", 
+            "Type": "Specialty", 
+            "Certification ID": "6698", 
+            "Certifying Organization": "Cardiovascular Credentialing International"
+        }, 
+        {
+            "Acronym": "RCIS", 
+            "Certification Name": "Registered Cardiovascular Invasive Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "1810", 
+            "Certifying Organization": "Cardiovascular Credentialing International"
+        }, 
+        {
+            "Acronym": "CCT", 
+            "Certification Name": "Certified Cardiographic Technician", 
+            "Type": "Specialty", 
+            "Certification ID": "1809", 
+            "Certifying Organization": "Cardiovascular Credentialing International"
+        }, 
+        {
+            "Acronym": "NCT", 
+            "Certification Name": "Nuclear Cardiology Technologist", 
+            "Type": "Specialty", 
+            "Certification ID": "5578", 
+            "Certifying Organization": "Nuclear Medicine Technology Certification Board"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification in Clinical Perfusion", 
+            "Type": "Specialty", 
+            "Certification ID": "5657", 
+            "Certifying Organization": "American Board of Cardiovascular Perfusion"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Diplomate of American Board of Vascular Medicine: Endovascular", 
+            "Type": "Specialty", 
+            "Certification ID": "7441", 
+            "Certifying Organization": "American Board of Vascular Medicine"
+        }
+    ], 
+    "onet": "29203100"
+}

@@ -1,0 +1,89 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CLS", 
+            "Certification Name": "Certified Lifestyle Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "9345", 
+            "Certifying Organization": "The Travel Institute"
+        }, 
+        {
+            "Acronym": "MCC", 
+            "Certification Name": "Master Cruise Counsellor", 
+            "Type": "Advanced", 
+            "Certification ID": "8007", 
+            "Certifying Organization": "Cruise Lines International Association"
+        }, 
+        {
+            "Acronym": "CIG", 
+            "Certification Name": "Certified Interpretive Guide", 
+            "Type": "Core", 
+            "Certification ID": "2075", 
+            "Certifying Organization": "National Association for Interpretation"
+        }, 
+        {
+            "Acronym": "ECCS", 
+            "Certification Name": "Elite Cruise Counsellor Scholar", 
+            "Type": "Advanced", 
+            "Certification ID": "8009", 
+            "Certifying Organization": "Cruise Lines International Association"
+        }, 
+        {
+            "Acronym": "ACC", 
+            "Certification Name": "Accredited Cruise Counsellor", 
+            "Type": "Core", 
+            "Certification ID": "8006", 
+            "Certifying Organization": "Cruise Lines International Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Tour Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "8005", 
+            "Certifying Organization": "National Tour Association"
+        }, 
+        {
+            "Acronym": "ECC", 
+            "Certification Name": "Elite Cruise Counsellor", 
+            "Type": "Advanced", 
+            "Certification ID": "8008", 
+            "Certifying Organization": "Cruise Lines International Association"
+        }, 
+        {
+            "Acronym": "LCS", 
+            "Certification Name": "Luxury Cruise Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "8010", 
+            "Certifying Organization": "Cruise Lines International Association"
+        }, 
+        {
+            "Acronym": "CTA", 
+            "Certification Name": "Certified Tourism Ambassador", 
+            "Type": "Core", 
+            "Certification ID": "7982", 
+            "Certifying Organization": "Tourism Ambassador Institute"
+        }, 
+        {
+            "Acronym": "CDS", 
+            "Certification Name": "Certified Destination Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "9346", 
+            "Certifying Organization": "The Travel Institute"
+        }, 
+        {
+            "Acronym": "TTP", 
+            "Certification Name": "Travel and Tourism Professional", 
+            "Type": "Core", 
+            "Certification ID": "9385", 
+            "Certifying Organization": "International Air Transport Association"
+        }, 
+        {
+            "Acronym": "CIT", 
+            "Certification Name": "Certified Interpretive Trainer", 
+            "Type": "Core", 
+            "Certification ID": "2078", 
+            "Certifying Organization": "National Association for Interpretation"
+        }
+    ], 
+    "onet": "39701100"
+}

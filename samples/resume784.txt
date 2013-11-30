@@ -1,0 +1,306 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734597' xml:space='preserve'><contact><name><givenname>Johann</givenname> <surname>Cox</surname></name> 
+<address lat='34.9542' lon='81.866' majorcity='SPARTANBURG' state='SC'><street>2229 Avondale Drive</street> 
+<city>Spartanburg</city>, <state abbrev='SC'>SC</state> <postalcode>29302</postalcode></address> 
+<phone>(864) 497-8474</phone> or <phone>(864)680-1761</phone>
+E-Mail: <email>johann_cox@yahoo.com</email></contact>
+
+<experience end='present' start='730528'>EXPERIENCE: 
+* <job end='present' id='1' pos='2' start='730528'><description>Linux and Windows OS desktop and server administrator and support
+* Continual management and observation of security compared against baselines for physical and digital areas
+* Managed multiple projects that include research, design, scheduling, implementation, and support
+* Through the use of personal and technical skills, acquire and condense information over short and long term assignments
+* Construction and support of agency strategies and policies
+* Continual improvement of processes that directly contribute to increased ROI
+* Design and implement all facets of technology growth - (ISP interactions, Networking, Software selection, Software / Hardware &amp; Process Integration, Replacement Scheduling) 
+* Data Recovery Procedures</description> 
+ 
+WORK HISTORY: 
+
+<daterange><start days='730528' iso8601='2001-02-10'>2/10/2001</start> to <end days='present' iso8601='2012-04-02'>Present</end></daterange> - <department>City of Spartanburg Public Safety Department</department>
+Current Projects Technical Support Services 
+* <title>PC Technician</title> <description>(Primary for 180 users) 
+Linux - Live CDs used to bypass Microsoft-based virus issues and troubleshoot hardware
+Ubuntu (Debian) with Gnome XWindows desktop
+Puppy Linux - for much older hardware's memory and storage limitations
+Firmware for devices - Install and update
+* Network Administration- (Windows 2003 Server, Windows 2000 Server &amp; Workstation, NT 4.0 Server &amp; Workstation, and assist Novell) 
+o  Backup and Disaster Strategies (single DLT drives on each server and a large 320GB Tape drive for Network Remote Backups)
+o  Maintain Connectivity (Cable access, Leased Fractional T1 to the SLED, and to Greenville, SC)
+o  NAS Devices (Buffalo) for File Server to provide access to centralized data (segregated by user category)
+o  User Management (NT 4.0 Domain and a 2-Way Trust with an Active Directory [City side])
+* Hardware/Software troubleshooting &amp; repair
+o   Desktop and Server (Windows XP Pro - Windows 2003 Server and Novell)
+* Diagnosis and Parts Replacement with limited downtime
+* System Security
+o   Network Analysis (WireShark) and baseline monitoring (Manual means)
+o   Patches and Updates for hardware and software
+o   Periodic Log Inspection on Routers, Servers, PCs, and Security packages</description></job>
+<job end='present' id='2' pos='1' sic='822101' sic2='82' start='733318'><daterange><start days='733318' iso8601='2008-10-01'>10/2008</start> to <end days='present' iso8601='2012-04-02'>Present</end></daterange> - <employer>Wofford College</employer> (Sandor Teszlor Library)
+<title>Evening Library Assistant</title> - <description>Supervise student workers and provide technical services on site
+Ubuntu (Debian) Server (Setup, Install, and Maintain)</description></job>
+<job id='3'><employer>PHP Server</employer>
+<title>MySQL Server
+Apache Server</title>
+<description>Download and install packages and updates at least monthly or as needed
+Ubuntu (Debian) Desktops - (Setup, Install, and Maintain)
+Download and install packages and updates at least monthly or as needed</description></job></experience>
+<education>EDUCATION: 
+<school id='4'><degree>B.S.L.S</degree>. towards <major code='0402 4399'>Computer Science (and Business)</major> - <institution>Limestone College</institution> , <address><city>Gaffney</city>, <state abbrev='SC'>SC</state></address></school></education> 
+
+<skills>HARDWARE &amp; SOFTWARE: 
+<skills>DOS 3.1-6.22, Novell 6.5, Windows XP Home &amp; Pro, Windows Vista, Windows 7, Windows NT 3.51, Windows NT 4.0, Windows NT Server, Windows 2003 Server, Microsoft Networks, and IBM AS400 Clients (Unix - USC-Upstate), Linux (SUSE, Ubuntu, Solaris - as Tools for Virus removal, servers and workstations) 
+ 
+CISCO 501 PIX, Router Protocols (OSPF, RIP, IGP, IGRP, BGP)
+WireShark, Microsoft Office Professional 2003 - 2010, OpenOffice Suite, Remote Desktop, Veritas Backup for Servers, Symantec Ghost, and Drive Image, Acronis Snap Depoy 3.
+
+Turbo Pascal (v.6), Microsoft Visual Studio 2008 (testing 2010), Java 2.0, Microsoft Access 2000-2003, C++ (entry level)</skills></skills>
+<experience>PROJECT EXPERIENCE:
+1.  Implement a Library Statistics gathering Linux Server  (<employer>Wofford College</employer>)
+<description>a.  Setup and configured Ubuntu Server 11.10 - added graphical desktop (Gnome) for ease of use
+b.  Installed and setup MySQL - imported preconfigured database files from 3rd party
+c.  Installed and configured PHP Server - with PEAR components
+d.  Setup simple Apache Server 2.2 to access PHP/MySQL content
+e.  Currently creating PHP based reports to match business needs of Wofford Library
+f.   Future goals:  add additional MySQL databases to support various data tracking needs, provide access from home for work at home library professionals
+
+2.   Forensic recovery of data (Spartanburg Public Safety, private divorce case, etc.)
+a.   Interview Process to determine priority levels and content within each level
+b.  Bit-by-bit reconstruction of drive(s) information
+c.   Categorization of recovered information and presented in a report format
+
+3.   Disaster Recovery Planning and Strategies (Ivey - O'Sullivan Health Care, BMS Rehabilitations, and Wofford College)
+a.   Interview Process to determine priority levels and content within each level
+b.  Cataloged or Imaged high priority machines and setup recovery backup system for server
+c.   Implemented a centralized &amp; organized Mobile Recovery Station with needed base-lines and materials for machines defined as high priority
+d.  Trained layers of personnel on Disaster Recovery Standard Operating Procedures
+ 
+4.   Security Audit (Spartanburg Public Safety, Ivey - O'Sullivan Health Care, and select Cliffs customers)
+a.   Multiple layer review (Network infrastructure, Desktop hardware, Server and Desktop Software, and Physical Access)
+b.  Determined security risks and presented to executive staff - suggested solutions and preventative measures
+
+5.  Design, Implement, and Maintain local technical response systems and SOPs for Wofford College's library.
+a.   Imaging Creation/Recovery
+b.  Incident Response SOPs
+c.   Security Reviews</description></experience>
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='active directory' start='730528'>
+    <variant>Active Directory</variant>
+  </canonskill>
+  <canonskill experience='1' name='apache webserver'>
+    <variant>Apache Server 2.2</variant>
+  </canonskill>
+  <canonskill name='as/400'>
+    <variant>AS400</variant>
+  </canonskill>
+  <canonskill experience='1' name='assets recovery'>
+    <variant>agency</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='backup' start='730528'>
+    <variant>Backup</variant>
+    <variant>backup</variant>
+  </canonskill>
+  <canonskill name='bgp'>
+    <variant>BGP</variant>
+  </canonskill>
+  <canonskill experience='1' name='c'>
+    <variant>c</variant>
+  </canonskill>
+  <canonskill name='c + +'>
+    <variant>C++</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='cabling' start='730528'>
+    <variant>Cable</variant>
+  </canonskill>
+  <canonskill name='cisco'>
+    <variant>CISCO</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='computer hardware' start='730528'>
+    <variant>HARDWARE</variant>
+    <variant>Hardware</variant>
+    <variant>hardware</variant>
+  </canonskill>
+  <canonskill experience='1' name='content management'>
+    <variant>content</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='counter terrorist check' start='730528'>
+    <variant>SC</variant>
+  </canonskill>
+  <canonskill name='customer relations'>
+    <variant>Clients</variant>
+  </canonskill>
+  <canonskill experience='1' name='database administration'>
+    <variant>databases</variant>
+    <variant>database</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='3' idrefs='3' name='desktop pc'>
+    <variant>Desktops</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='diagnosis' start='730528'>
+    <variant>Diagnosis</variant>
+  </canonskill>
+  <canonskill experience='1' name='disaster recovery planning'>
+    <variant>Disaster Recovery Planning</variant>
+    <variant>Disaster Recovery</variant>
+  </canonskill>
+  <canonskill name='ghost'>
+    <variant>Ghost</variant>
+  </canonskill>
+  <canonskill name='ibm'>
+    <variant>IBM</variant>
+  </canonskill>
+  <canonskill experience='1' name='imaging'>
+    <variant>Image</variant>
+    <variant>Imaging</variant>
+  </canonskill>
+  <canonskill experience='1' name='isp'>
+    <variant>ISP</variant>
+  </canonskill>
+  <canonskill name='java 2'>
+    <variant>Java 2</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='linux' start='730528'>
+    <variant>Linux</variant>
+  </canonskill>
+  <canonskill experience='1' name='materials management'>
+    <variant>materials</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='memory' start='730528'>
+    <variant>memory</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='microsoft access' start='730528'>
+    <variant>Access</variant>
+    <variant>access</variant>
+  </canonskill>
+  <canonskill name='microsoft access 2000'>
+    <variant>Microsoft Access 2000</variant>
+  </canonskill>
+  <canonskill name='microsoft office'>
+    <variant>Microsoft Office Professional</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='microsoft windows' start='730528'>
+    <variant>Windows 7</variant>
+    <variant>Windows</variant>
+    <variant>Windows OS</variant>
+  </canonskill>
+  <canonskill name='microsoft windows nt'>
+    <variant>Windows NT Server</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='microsoft windows nt 4.0' start='730528'>
+    <variant>Windows NT 4.0</variant>
+    <variant>NT 4.0</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='microsoft windows xp' start='730528'>
+    <variant>Windows XP</variant>
+  </canonskill>
+  <canonskill name='ms dos 6.22'>
+    <variant>DOS 3.1-6.22</variant>
+  </canonskill>
+  <canonskill experience='1' name='mysql'>
+    <variant>MySQL</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='nas' start='730528'>
+    <variant>NAS</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='network administration' start='730528'>
+    <variant>Network Administration</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='network engineering' start='730528'>
+    <variant>Network Analysis</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='networking' start='730528'>
+    <variant>Network</variant>
+    <variant>Networking</variant>
+    <variant>Networks</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='novell' start='730528'>
+    <variant>Novell 6.5</variant>
+    <variant>Novell</variant>
+  </canonskill>
+  <canonskill name='ospf'>
+    <variant>OSPF</variant>
+  </canonskill>
+  <canonskill name='pascal'>
+    <variant>Turbo Pascal</variant>
+  </canonskill>
+  <canonskill experience='1' name='personnel'>
+    <variant>personnel</variant>
+  </canonskill>
+  <canonskill experience='1' name='php'>
+    <variant>PHP</variant>
+  </canonskill>
+  <canonskill experience='1' name='policy analysis'>
+    <variant>policies</variant>
+  </canonskill>
+  <canonskill experience='1' name='process engineering'>
+    <variant>processes</variant>
+  </canonskill>
+  <canonskill name='protocols'>
+    <variant>Protocols</variant>
+  </canonskill>
+  <canonskill experience='1' name='research'>
+    <variant>research</variant>
+  </canonskill>
+  <canonskill name='rip'>
+    <variant>RIP</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='routers' start='730528'>
+    <variant>Router</variant>
+    <variant>Routers</variant>
+  </canonskill>
+  <canonskill experience='1' name='safety'>
+    <variant>Safety</variant>
+  </canonskill>
+  <canonskill experience='1' name='scheduling'>
+    <variant>Scheduling</variant>
+    <variant>scheduling</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='servers' start='730528'>
+    <variant>Servers</variant>
+    <variant>servers</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='software support' start='730528'>
+    <variant>Software troubleshooting</variant>
+  </canonskill>
+  <canonskill name='solaris'>
+    <variant>Solaris</variant>
+  </canonskill>
+  <canonskill name='symantec packages'>
+    <variant>Symantec</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='t1' start='730528'>
+    <variant>T1</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='troubleshooting' start='730528'>
+    <variant>troubleshoot</variant>
+  </canonskill>
+  <canonskill name='unix'>
+    <variant>Unix</variant>
+  </canonskill>
+  <canonskill name='veritas backup'>
+    <variant>Veritas Backup</variant>
+  </canonskill>
+  <canonskill name='vista'>
+    <variant>Vista</variant>
+  </canonskill>
+  <canonskill name='visual studio'>
+    <variant>Microsoft Visual Studio</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='windows 2000 server' start='730528'>
+    <variant>Windows 2000 Server</variant>
+  </canonskill>
+  <canonskill name='windows nt 3.51'>
+    <variant>Windows NT 3.51</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='windows nt 4.0 server' start='730528'>
+    <variant>NT 4.0 Server</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='x windows' start='730528'>
+    <variant>XWindows</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

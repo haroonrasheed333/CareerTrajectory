@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734584' xml:space='preserve'><contact><name><givenname>SANTILENA</givenname> <givenname>T</givenname>. <surname>STURDIVANT</surname></name>
+<address lat='35.0071' lon='80.2038' majorcity='POLKTON' state='NC'><street>196 Ashe Street</street>, <city>Polkton</city>, <state abbrev='NC'>NC</state> <postalcode>28135</postalcode></address>
+<phone>704-272-9333</phone>, <email>martavious@windstream.net</email></contact>
+
+
+<education>EDUCATION
+<school id='6'><degree level='14'>Associate</degree> in <major code='4201'>Medical Office Administration</major>, <completiondate days='734352' iso8601='2011-08-01'>August 2011</completiondate>
+<institution>South Piedmont Community College</institution>, <address><city>Polkton</city>, <state abbrev='NC'>NC</state></address> 
+<honors>Dean's List 2011</honors></school></education>
+
+<skills>REVELANT SKILLS
+<skills>STAR Medical System
+Medisoft Medical Billing Software
+Medical Record Keeping/Filling
+Effectively communicate complex technical matters related to disabilities both verbally and in writing.</skills></skills> 
+
+
+<experience end='present' start='729300'>EMPLOYMENCLINCAL EXPERIENCE
+<job end='734230' id='1' pos='4' sic='801101' sic2='80' start='733410'><daterange><start days='733410' iso8601='2009-01-01'>01/09</start>-<end days='734230' iso8601='2011-04-01'>04/11</end></daterange> <employer>Carolina Medical Center</employer>, <address><city>Monroe</city>, <state abbrev='NC'>NC</state></address>
+<description>Emergency Room Patient Registrar Greeted patients and families and initiated the medical record, both written and electronic. Utilized &quot;STAR&quot; medical software to register and update patient information. Worked in fast paced environment and utilized effective decision making skills to establish priorities based on patient symptoms.</description></job>
+
+EMPLOYMENT
+<job end='present' id='2' pos='3' sic='275202' sic2='27' start='729300'><daterange><start days='729300' iso8601='1997-10-01'>10/97</start>-<end days='present' iso8601='2012-03-20'>Present</end></daterange> <employer>Monarch Services</employer>, <address><city>Monroe</city></address></job></experience>, NC......................<experience end='present' start='732222'>704-283-2764 
+<job end='present' id='3' inferred-to='1' pos='2' start='732222'><title>Developmental Specialist</title> 
+<description>Provide care for developmentally disabled clients; help clients learn new skills and strategies for independent living. Teach life skills or skills related to work, including job-specific skills, appropriate work behaviors and working with others and social skills.
+Communicate and participate professionally with management, team members, health professionals, consultants, parents, guardians, neighbors, and other interested parties.</description>
+<daterange><start days='732222' iso8601='2005-10-01'>10/05</start>-<end days='present' iso8601='2012-03-20'>Present</end></daterange> <employer>Divine Koncepts, Inc Rockingham</employer></job></experience>, NC......................<experience end='present' start='733226'>910-417-4950 
+<job id='4'><title>Direct Support Instructor</title> 
+<description>Care for clients' day to day, emotional and physical needs. Ensure take medications or adhere to diet plans. Set up medical appointments and escort clients to them. Keep daily records of clients' activities.</description></job>
+<job end='present' id='5' inferred-from='2' pos='1' start='733226'><daterange><start days='733226' iso8601='2008-07-01'>07/08</start>-<end days='present' iso8601='2012-03-20'>Present</end></daterange> <title>Albermarle</title></job></experience>, NC...............................<professional><description>704-982-9600 
+Direct Support Instructor 
+Assist with developing treatment programs for unique needs of individuals with Autism Spectrum Disorder. Implements treatment programs requiring specialized skills and knowledge.
+Document, maintain and review current and accurate case records, notes and related client information in electronic and manual files.</description></professional>
+
+<references>References are available upon request.</references>
+</resume>
+
+<skillrollup version='1'>
+  <canonskill experience='1' expidrefs='4' idrefs='4' name='customer relations'>
+    <variant>clients</variant>
+  </canonskill>
+  <canonskill end='734230' experience='1' expidrefs='1' idrefs='1' lastused='2011' name='decision making' start='733410'>
+    <variant>decision making</variant>
+  </canonskill>
+  <canonskill end='734230' experience='1' expidrefs='1' idrefs='1' lastused='2011' name='fast' start='733410'>
+    <variant>fast</variant>
+  </canonskill>
+  <canonskill name='file management'>
+    <variant>Filling</variant>
+  </canonskill>
+  <canonskill name='medical billing'>
+    <variant>Medical Billing</variant>
+  </canonskill>
+  <canonskill name='medisoft'>
+    <variant>Medisoft</variant>
+  </canonskill>
+  <canonskill name='record keeping'>
+    <variant>Record Keeping</variant>
+  </canonskill>
+  <canonskill end='734230' experience='1' expidrefs='1' idrefs='1' lastused='2011' name='writing' start='733410'>
+    <variant>written</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

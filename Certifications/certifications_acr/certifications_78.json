@@ -1,0 +1,68 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Oracle EBS R12 Advanced Supply Chain Planning Certified Expert Consultant Purchasing", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7084", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "CRE", 
+            "Certification Name": "Certified Reliability Engineer", 
+            "Type": "Advanced", 
+            "Certification ID": "0792", 
+            "Certifying Organization": "American Society for Quality"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Oracle E-Business Suite R12 Supply Chain Certified Expert Consultants Order Management", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7085", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Oracle EBS R12 Advanced Supply Chain Planning Certified Expert Consultant", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7086", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "CSCP", 
+            "Certification Name": "Certified Supply Chain Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "4895", 
+            "Certifying Organization": "The Association for Operations Management"
+        }, 
+        {
+            "Acronym": "SOC", 
+            "Certification Name": "System Operator Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "5723", 
+            "Certifying Organization": "North American Electric Reliability Corporation"
+        }, 
+        {
+            "Acronym": "CMRP", 
+            "Certification Name": "Certified Maintenance & Reliability Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "7991", 
+            "Certifying Organization": "Society for Maintenance & Reliability Professionals"
+        }, 
+        {
+            "Acronym": "DLP", 
+            "Certification Name": "Distinguished Logistics Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "9190", 
+            "Certifying Organization": "American Society of Transportation and Logistics"
+        }, 
+        {
+            "Acronym": "CMRP", 
+            "Certification Name": "Certified Materials & Resource Professional", 
+            "Type": "Core", 
+            "Certification ID": "3746", 
+            "Certifying Organization": "Association for Healthcare Resource & Materials Management"
+        }
+    ], 
+    "onet": "13108101"
+}

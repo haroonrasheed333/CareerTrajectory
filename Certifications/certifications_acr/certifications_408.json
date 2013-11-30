@@ -1,0 +1,68 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification in Foot Surgery", 
+            "Type": "Specialty", 
+            "Certification ID": "0272", 
+            "Certifying Organization": "American Board of Podiatric Surgery"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Prevention and Treatment of Diabetic Foot Wounds and in Diabetic Foot Wear Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "3630", 
+            "Certifying Organization": "American Board of Multiple Specialties in Podiatry"
+        }, 
+        {
+            "Acronym": "CWS", 
+            "Certification Name": "Certified Wound Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "5904", 
+            "Certifying Organization": "American Board of Wound Management"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Reconstructive Rearfoot/Ankle Surgery ", 
+            "Type": "Specialty", 
+            "Certification ID": "0271", 
+            "Certifying Organization": "American Board of Podiatric Surgery"
+        }, 
+        {
+            "Acronym": "PSC", 
+            "Certification Name": "Podiatric Surgery Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "3628", 
+            "Certifying Organization": "American Board of Multiple Specialties in Podiatry"
+        }, 
+        {
+            "Acronym": "OCS", 
+            "Certification Name": "Orthopaedic Certified Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "0429", 
+            "Certifying Organization": "American Board of Physical Therapy Specialties"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Board Certification in Podiatric Orthopedics and Primary Podiatric Medicine", 
+            "Type": "Advanced", 
+            "Certification ID": "9303", 
+            "Certifying Organization": "American Board of Podiatric Medicine"
+        }, 
+        {
+            "Acronym": "ABMSP,", 
+            "Certification Name": "Primary Care in Podiatric Medicine Certification ", 
+            "Type": "Specialty", 
+            "Certification ID": "3627", 
+            "Certifying Organization": "American Board of Multiple Specialties in Podiatry"
+        }, 
+        {
+            "Acronym": "CWSP", 
+            "Certification Name": "Certified Wound Specialist  Physician", 
+            "Type": "Specialty", 
+            "Certification ID": "5905", 
+            "Certifying Organization": "American Board of Wound Management"
+        }
+    ], 
+    "onet": "29108100"
+}

@@ -1,0 +1,33 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Structural Masonry Special Inspector", 
+            "Type": "Specialty", 
+            "Certification ID": "0149", 
+            "Certifying Organization": "International Code Council"
+        }, 
+        {
+            "Acronym": "ICP", 
+            "Certification Name": "Instructor Certification Program", 
+            "Type": "Advanced", 
+            "Certification ID": "7335", 
+            "Certifying Organization": "International Masonry Institute"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Superintendent Certification", 
+            "Type": "Core", 
+            "Certification ID": "7334", 
+            "Certifying Organization": "International Masonry Institute"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Foreman Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "9320", 
+            "Certifying Organization": "International Masonry Institute"
+        }
+    ], 
+    "onet": "47202100"
+}

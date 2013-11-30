@@ -1,0 +1,61 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CCTM", 
+            "Certification Name": "Certified Community Transit Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "5591", 
+            "Certifying Organization": "Community Transportation Association of America"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "CIP Level 1 with Marine and Bridge Specialties", 
+            "Type": "Specialty", 
+            "Certification ID": "8107", 
+            "Certifying Organization": "NACE International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "CIP Level 2 with Bridge Specialty", 
+            "Type": "Specialty", 
+            "Certification ID": "8110", 
+            "Certifying Organization": "NACE International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "CIP Level 1 with Bridge Specialty", 
+            "Type": "Specialty", 
+            "Certification ID": "8106", 
+            "Certifying Organization": "NACE International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "CIP Level 1 with Marine Specialty", 
+            "Type": "Specialty", 
+            "Certification ID": "8108", 
+            "Certifying Organization": "NACE International"
+        }, 
+        {
+            "Acronym": "CDS", 
+            "Certification Name": "Certified Director of Safety", 
+            "Type": "Advanced", 
+            "Certification ID": "3999", 
+            "Certifying Organization": "North American Transportation Management Institute"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Safety Supervisor", 
+            "Type": "Advanced", 
+            "Certification ID": "4001", 
+            "Certifying Organization": "North American Transportation Management Institute"
+        }, 
+        {
+            "Acronym": "CCSP", 
+            "Certification Name": "Certified Cargo Security Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "4007", 
+            "Certifying Organization": "North American Transportation Management Institute"
+        }
+    ], 
+    "onet": "53605100"
+}

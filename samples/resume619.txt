@@ -1,0 +1,155 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734595' xml:space='preserve'><contact><name><givenname>KATERINA</givenname> <givenname>G</givenname>. <surname>SIMBO</surname></name>
+<address lat='40.0414' lon='75.4867' majorcity='PAOLI' state='PA'><street>9 Park Avenue</street>
+<city>Paoli</city>, <state abbrev='PA'>PA</state>, <postalcode>19301</postalcode></address>
+<phone>267-625-8199</phone>
+<email>ksimbo@rfmusa.com</email></contact>
+
+______________________________________________________________________________
+<skills>Skills:
+*	<description>Ability to use time management effectively and manage multiple tasks 
+*	High level of motivation, creativity, independence and determination to
+   successfully complete all steps needed to complete the job
+*	Creative writing skills and attention to details</description> 
+*	Proficiency with <skills>MS Office software, including Word, Excel &amp; PowerPoint 
+*	Fluent In Greek</skills></skills>
+
+<experience end='present' start='727717'>Experience:
+
+<job end='present' id='1' pos='1' sic='835102' sic2='83' start='733682'><daterange><start days='733682' iso8601='2009-09-30'>09/30/09</start> - <end days='present' iso8601='2012-03-31'>Present</end></daterange>	<employer>NEW LIFE NURSERY SCHOOL</employer> - <address><city>Glenside</city>, <state abbrev='PA'>PA</state></address>
+			<description>2-3 Year Old Teacher - ?Lambs? Class
+Planned and implemented an appropriate educational program for the children assigned in
+class 
+Organized &amp; maintained a classroom atmosphere that is conductive to learning while
+addressing the physical, emotional, social &amp; mental needs of the class
+Kept track of each child's progress and development</description></job> 
+
+
+<job end='733651' id='2' pos='2' start='733053'><daterange><start days='733053' iso8601='2008-01-10'>01/10/08</start> - <end days='733651' iso8601='2009-08-30'>08/30/09</end></daterange>		  <employer>ATTRACTIVE PROPERTIES, INC</employer>. - <address><city>Abington</city>, <state abbrev='PA'>PA</state></address>
+	  <title>Marketing Manager</title>
+<description>Handled sales collateral, department's budget &amp; administered company's client database
+Prepared and coordinated materials for real estate trade shows &amp; promotional activities
+targeting private equity companies, developers, investors, homebuilders and owners</description></job>
+	
+
+<job end='731306' id='3' pos='3' sic='641112' sic2='64' start='729938'><daterange><start days='729938' iso8601='1999-07-01'>07/01//99</start>-<end days='731306' iso8601='2003-03-30'>03/30/03</end></daterange>	  <employer>ROYAL &amp; SUNALLIANCE</employer> - <address><city>Philadelphia</city>, <state abbrev='PA'>PA</state></address>
+	  <title>Senior Marine Underwriter</title>
+<description>Performed Analysis &amp; Handled Marine Hull/Liability Accounts
+Underwrote new Hull &amp; Liability Accounts after determining specific coverage</description></job>
+
+<job end='729937' id='4' naics='52421001' naics2='52' pos='4' sic='641112' sic2='64' start='729361'><daterange><start days='729361' iso8601='1997-12-01'>12/01/97</start>-<end days='729937' iso8601='1999-06-30'>06/30/99</end></daterange>	  <employer>AON Risk Services, Inc. of New York</employer> - <address><city>New York</city>, <state abbrev='NY'>NY</state></address>
+	  <title>Assistant Vice President</title>, <description>Marine Insurance Broker
+Marketed &amp; Handled major Marine Hull &amp; Liability Accounts
+Conducted detailed research to determine specific coverage &amp; optional approaches to
+develop comprehensive risk management programs
+Provided statistical documentation for underwriting purposes</description></job>
+
+<job end='729360' id='5' naics='52421001' naics2='52' pos='5' sic='641112' sic2='64' start='728174'><daterange><start days='728174' iso8601='1994-09-01'>09/01/94</start>-<end days='729360' iso8601='1997-11-30'>11/30/97</end></daterange>	<employer>AON Risk Services, Inc. of New York</employer>, <address><city>New York</city>, <state abbrev='NY'>NY</state></address>
+	<title>Assistant Marine Insurance Broker</title></job>
+
+<job end='728172' id='6' pos='6' sic='9111' sic2='91' start='727717'><daterange><start days='727717' iso8601='1993-06-01'>06/01/93</start>-<end days='728172' iso8601='1994-08-30'>08/30/94</end></daterange>	<employer>Rollins Hudig Hall of Pennsylvania</employer>, <address><city>Philadelphia</city>, <state abbrev='PA'>PA</state></address>
+	Summer <jobtype>Internship</jobtype>
+<description>Professional Licenses:
+New York Insurance Brokers License</description></job></experience>
+
+
+<education>Education:
+	<school id='7'><institution>Temple University</institution>, School of Business &amp; Management, <address><city>Philadelphia</city>, <state abbrev='PA'>PA</state></address>
+	<degree level='16' name='Bachelor of Business Administration'>Bachelor of Business Administration</degree> <completiondate days='728051' iso8601='1994-05-01'>May 1994</completiondate>
+*	Dual Major: <major code='4201 0704'>Risk Management &amp; Insurance and Statistics</major>
+	Scholastic Averages: Overall GPA - <gpa max='4' value='3.39'>3.39/4.0</gpa></school>
+
+
+	<school id='8'><institution>Montgomery County Community College</institution>, <address><city>Blue Bell</city>, <state abbrev='PA'>PA</state></address>
+	Courses completed (GPA <gpa max='4' value='3.77'>3.77/4.0</gpa>):
+	-EDU 100 - Introduction to Education
+	-<courses>EDU 224 - Teaching Mathematics to Children
+	-EDU 213 - Special Education
+	
+	American Board for Certification of Teacher Excellence
+	In the process of completing Teacher Certification</courses></school></education>
+
+
+
+<statements>Honors &amp; Activities:
+<honors>Enjoys outdoors activities/sports/traveling 
+The Society of Risk Management &amp; Insurance, Alpha Iota Sigma
+Golden Key National Honor Society
+Angus Robinson, Jr. Memorial Foundation Scholarship</honors></statements>
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='733651' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='budgeting' start='733053'>
+    <variant>budget</variant>
+  </canonskill>
+  <canonskill name='creative'>
+    <variant>creativity</variant>
+  </canonskill>
+  <canonskill name='creative writing'>
+    <variant>Creative writing</variant>
+  </canonskill>
+  <canonskill end='733651' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='customer relations' start='733053'>
+    <variant>client</variant>
+  </canonskill>
+  <canonskill end='733651' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='database administration' start='733053'>
+    <variant>database</variant>
+  </canonskill>
+  <canonskill end='729937' experience='1' expidrefs='4' idrefs='4' lastused='1999' name='documentation' start='729361'>
+    <variant>documentation</variant>
+  </canonskill>
+  <canonskill end='733651' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='equities' start='733053'>
+    <variant>equity</variant>
+  </canonskill>
+  <canonskill name='greek'>
+    <variant>Greek</variant>
+  </canonskill>
+  <canonskill end='729937' experience='1' expidrefs='4,6' idrefs='4,6' lastused='1999' name='insurance' start='727717'>
+    <variant>Insurance</variant>
+  </canonskill>
+  <canonskill end='733651' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='materials management' start='733053'>
+    <variant>materials</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='8' idrefs='8' name='mathematics'>
+    <variant>Mathematics</variant>
+  </canonskill>
+  <canonskill name='microsoft excel'>
+    <variant>Excel</variant>
+  </canonskill>
+  <canonskill name='microsoft office'>
+    <variant>MS Office</variant>
+  </canonskill>
+  <canonskill name='microsoft powerpoint'>
+    <variant>PowerPoint</variant>
+  </canonskill>
+  <canonskill name='microsoft word'>
+    <variant>Word</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='progress' start='733682'>
+    <variant>progress</variant>
+  </canonskill>
+  <canonskill end='733651' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='real estate' start='733053'>
+    <variant>real estate</variant>
+  </canonskill>
+  <canonskill end='729937' experience='1' expidrefs='4' idrefs='4' lastused='1999' name='research' start='729361'>
+    <variant>research</variant>
+  </canonskill>
+  <canonskill end='729937' experience='1' expidrefs='4' idrefs='4' lastused='1999' name='risk management' start='729361'>
+    <variant>risk management</variant>
+  </canonskill>
+  <canonskill end='733651' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='sales' start='733053'>
+    <variant>sales</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='8' end='734579' experience='1' expidrefs='1' idrefs='1,8' lastused='2012' name='teaching' start='733682'>
+    <variant>Teacher</variant>
+    <variant>Teaching</variant>
+  </canonskill>
+  <canonskill name='time management'>
+    <variant>time management</variant>
+  </canonskill>
+  <canonskill end='733651' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='trade shows' start='733053'>
+    <variant>trade shows</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

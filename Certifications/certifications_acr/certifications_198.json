@@ -1,0 +1,313 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Collection Systems - Technical Associate", 
+            "Type": "Core", 
+            "Certification ID": "3725", 
+            "Certifying Organization": "Solid Waste Association of North America"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Environmental Professional:  Environmental Documentation", 
+            "Type": "Specialty", 
+            "Certification ID": "7954", 
+            "Certifying Organization": "Academy of Board Certified Environmental Professionals"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Green Building - Residential Examiner", 
+            "Type": "Advanced", 
+            "Certification ID": "4629", 
+            "Certifying Organization": "International Code Council"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Geotechnical Engineering Technology - Construction Level III", 
+            "Type": "Advanced", 
+            "Certification ID": "7799", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Geotechnical Engineering Technology - Exploration Level III", 
+            "Type": "Advanced", 
+            "Certification ID": "7802", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "CEA", 
+            "Certification Name": "Certified Environmental Auditor", 
+            "Type": "Advanced", 
+            "Certification ID": "1117", 
+            "Certifying Organization": "National Registry of Environmental Professionals"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Geotechnical Engineering Technology - Laboratory Level II", 
+            "Type": "Advanced", 
+            "Certification ID": "7807", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Geotechnical Engineering Technology - Laboratory III", 
+            "Type": "Advanced", 
+            "Certification ID": "7808", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "CIAQM", 
+            "Certification Name": "Certified Indoor Air Quality Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "3516", 
+            "Certifying Organization": "National Registry of Environmental Professionals"
+        }, 
+        {
+            "Acronym": "CMP", 
+            "Certification Name": "Certified Mold Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "4011", 
+            "Certifying Organization": "Restoration Industry Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Composting Program - Technical Associate", 
+            "Type": "Core", 
+            "Certification ID": "3724", 
+            "Certifying Organization": "Solid Waste Association of North America"
+        }, 
+        {
+            "Acronym": "RHSS", 
+            "Certification Name": "Registered Hazardous Substances Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "0125", 
+            "Certifying Organization": "National Environmental Health Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Environmental Professional:  Environmental Research & Education", 
+            "Type": "Specialty", 
+            "Certification ID": "7957", 
+            "Certifying Organization": "Academy of Board Certified Environmental Professionals"
+        }, 
+        {
+            "Acronym": "EPI", 
+            "Certification Name": "Environmental Professional Intern", 
+            "Type": "Core", 
+            "Certification ID": "1126", 
+            "Certifying Organization": "Institute of Professional Environmental Practice"
+        }, 
+        {
+            "Acronym": "RET", 
+            "Certification Name": "Registered Environmental Technician", 
+            "Type": "Core", 
+            "Certification ID": "0126", 
+            "Certifying Organization": "National Environmental Health Association"
+        }, 
+        {
+            "Acronym": "CEP", 
+            "Certification Name": "Certified Environmental Professional:  Environmental Assessment", 
+            "Type": "Advanced", 
+            "Certification ID": "5829", 
+            "Certifying Organization": "Academy of Board Certified Environmental Professionals"
+        }, 
+        {
+            "Acronym": "AEP", 
+            "Certification Name": "Associate Environmental Professional", 
+            "Type": "Core", 
+            "Certification ID": "1116", 
+            "Certifying Organization": "National Registry of Environmental Professionals"
+        }, 
+        {
+            "Acronym": "CTM", 
+            "Certification Name": "Certified Technology Manager", 
+            "Type": "Core", 
+            "Certification ID": "0859", 
+            "Certifying Organization": "Association of Technology, Management, and Applied Engineering"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Advanced Leachate & Bio Reactor Landfills - Associate", 
+            "Type": "Core", 
+            "Certification ID": "5360", 
+            "Certifying Organization": "Solid Waste Association of North America"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Environmental Professional: Environmental Planning", 
+            "Type": "Specialty", 
+            "Certification ID": "7956", 
+            "Certifying Organization": "Academy of Board Certified Environmental Professionals"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Board Certified Environmental Engineer - Environmental Sustainability", 
+            "Type": "Core", 
+            "Certification ID": "6306", 
+            "Certifying Organization": "American Academy of Environmental Engineers and Scientists"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Transfer Station Systems - Technical Associate", 
+            "Type": "Core", 
+            "Certification ID": "1471", 
+            "Certifying Organization": "Solid Waste Association of North America"
+        }, 
+        {
+            "Acronym": "MSW", 
+            "Certification Name": "Certified Integrated Solid Waste Management - Technical Associate", 
+            "Type": "Core", 
+            "Certification ID": "3726", 
+            "Certifying Organization": "Solid Waste Association of North America"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Construction & Demolition Materials - Inspector", 
+            "Type": "Advanced", 
+            "Certification ID": "5351", 
+            "Certifying Organization": "Solid Waste Association of North America"
+        }, 
+        {
+            "Acronym": "CES", 
+            "Certification Name": "Certified Environmental Scientist", 
+            "Type": "Core", 
+            "Certification ID": "6699", 
+            "Certifying Organization": "National Registry of Environmental Professionals"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Geotechnical Engineering Technology - Exploration Level I", 
+            "Type": "Core", 
+            "Certification ID": "5363", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Geotechnical Engineering Technology - Generalist Level I", 
+            "Type": "Core", 
+            "Certification ID": "5359", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "CR", 
+            "Certification Name": "Certified Restorer", 
+            "Type": "Advanced", 
+            "Certification ID": "4012", 
+            "Certifying Organization": "Restoration Industry Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Environmental Professional: Environmental Operations", 
+            "Type": "Specialty", 
+            "Certification ID": "7955", 
+            "Certifying Organization": "Academy of Board Certified Environmental Professionals"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Geotechnical Engineering Technology - Generalist Level II", 
+            "Type": "Core", 
+            "Certification ID": "7804", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Geotechnical Engineering Technology - Laboratory Level IV", 
+            "Type": "Advanced", 
+            "Certification ID": "7809", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Geotechnical Engineering Technology - Construction Level IV", 
+            "Type": "Advanced", 
+            "Certification ID": "7800", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Geotechnical Engineering Technology - Exploration Level II", 
+            "Type": "Core", 
+            "Certification ID": "7801", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Geotechnical Engineering Technology - Construction Level II", 
+            "Type": "Advanced", 
+            "Certification ID": "7798", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Geotechnical Engineering Technology - Generalist IV", 
+            "Type": "Advanced", 
+            "Certification ID": "7806", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Water Lab Analyst Class I", 
+            "Type": "Core", 
+            "Certification ID": "1850", 
+            "Certifying Organization": "Association of Boards of Certification"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Small Wind Installer Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "6781", 
+            "Certifying Organization": "North American Board of Certified Energy Practitioners"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Geotechnical Engineering Technology - Construction Level I", 
+            "Type": "Core", 
+            "Certification ID": "5362", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Geotechnical Engineering Technology - Laboratory Level I", 
+            "Type": "Core", 
+            "Certification ID": "5364", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Geotechnical Engineering Technology - Exploration Level IV", 
+            "Type": "Advanced", 
+            "Certification ID": "7803", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Geotechnical Engineering Technology - Generalist Level III", 
+            "Type": "Advanced", 
+            "Certification ID": "7805", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "CSTM", 
+            "Certification Name": "Certified Senior Technology Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "0860", 
+            "Certifying Organization": "Association of Technology, Management, and Applied Engineering"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Landfill Operations - Technical Associate", 
+            "Type": "Core", 
+            "Certification ID": "1464", 
+            "Certifying Organization": "Solid Waste Association of North America"
+        }, 
+        {
+            "Acronym": "CWT", 
+            "Certification Name": "Certified Water Technologist", 
+            "Type": "Advanced", 
+            "Certification ID": "5592", 
+            "Certifying Organization": "Association of Water Technologies"
+        }
+    ], 
+    "onet": "17302500"
+}

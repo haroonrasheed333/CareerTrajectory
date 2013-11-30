@@ -1,0 +1,732 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734593' xml:space='preserve'>                                    <contact><name><givenname>Jitamitra</givenname> <givenname>R</givenname> <surname>Karcherla</surname></name>
+         <address lat='38.9082' lon='77.5178' majorcity='CHANTILLY' state='VA'><street>25278 McIntyre Square</street>, <city>Chantilly</city>, <state abbrev='VA'>VA</state> <postalcode>20152</postalcode></address> · <phone>(571)265 4881</phone> · <email>jita_mitra@yahoo.com</email></contact>
+
+               <professional>SOLUTIONS ARCHITECT MANAGER / PROJECT MANAGER
+                   <description>Application Architecture, Business Solutions &amp; Project Management
+
+   Over 11+ years of strong technical architecture Roles with emphasis on Enterprise Application
+   Architecture, Middleware Integration, Web Services, SOA, ALM (Application Life Cycle
+   Management), Data Modeling, Solution Design and Product Development.
+
+
+Demonstrated Accomplishments
+       7+ years of hands on experience Solution Architecture with emphasis on Product based solutions,
+       Business Architecture, Cross-functional collaboration between management and external vendors,
+       Propose business and technical solutions using company products and those of supporting 3rd
+       parties and work with delivery teams and clients to effectively implement solutions
+       8+ years of exposure on Infrastructure Architecture (Network Topology, Server Configurations,
+       Load Balancing, Middleware platforms, SAN , DNS , Windows AD infrastructure)
+       5+ years of Project Management on IT Projects (Small to Medium team size), Vendor and
+       Contract Managements, Cross-functional collaboration, JAD Sessions with Hands on Technical
+       Management expertise with Managing, Design and Development efforts on Ecommerce,
+       Back-end, B2B Integration projects on .NET, WCF, WF, BizTalk, J2EE, MQ, SOA, COTS
+       based Enterprise scalable solutions.
+       Key Technical Liaison on articulating solution to stake holders, recommendation on process
+       improvements, Technical due diligence, Vendor Management, Onshore, Onsite and Offshore
+       development engagements, reduce TCO (Total Cost of Ownership) and introduce Enterprise
+       Architecture to the organization.
+       Support business development with pre-sales, RFP, SOW, Contract management, Technical
+       Due diligence on Acquisitions.
+       Customer Support Management, Application Life cycle management, production operations
+       and support experience.
+       Experienced working in Waterfall and Agile development methodology (Scrum)
+
+
+CORE COMPETENCIES
+
+· Solutions Architecture            · Product Development                · IT Project Management
+· Middleware Integration            · SOA                                · Information Security
+· WCF Enabled Solutions             · Onshore/Offshore Operations        · Cross-Functional Team
+Leadership</description></professional>
+
+
+<education>EDUCATION
+ <school id='4'><degree level='18' name='Master of Science'>M.S</degree> (<major code='0402'>Computer Science</major>),            <institution>The University of Tulsa</institution>, <address><country iso3='USA'>US</country></address> (<daterange><start days='730122' iso8601='2000-01-01'>2000</start>-<end days='730853' iso8601='2002-01-01'>2002</end></daterange></school>)
+ <school id='5'><degree level='16' name='Bachelor of Science'>B.S</degree> (<major code='1502'>Mechanical Engineering</major>)       <institution>MKU University</institution>, <address><country iso3='IND'>India</country></address> (<daterange><start days='728296' iso8601='1995-01-01'>1995</start>-<end days='729757' iso8601='1999-01-01'>1999</end></daterange></school>)
+
+
+
+
+                                                                                                         1</education>
+<skills>TECHNICAL SKILLS
+
+
+  Programming Languages                        <skills>C#, VB.NET, C++, Java, Visual Basic, XML, SQL,
+                                               VBSCRIPT, JavaScript, Perl
+  Technologies                                 .NET, WCF, WPF, SOA, ACA.NET, ADO.NET,
+                                               ASP.NET, UML, .NET Remoting, J2EE, JSP,
+                                               COM+, IIS, COM, DCOM, SOAP, MTS, UML,
+                                               PL/SQL, T-SQL, OLAP/CUBE, ODBC, ADO,
+                                               DAO, OLE, ActiveX Controls , CORBA , Active
+                                               Directory and LDAP, SQL Service Brokers
+  Message Oriented Middleware(MOM)             IBM MQ, MSMQ , BIZTALK 2006 R2/2009, IBM
+                                               Message Broker , Active MQ
+  Database systems                             SQL Server 2000, SQL Server 2005/2008, Oracle
+                                               10i/11g and MySQL
+  Operating Systems                            Windows 2008,2003 Server Environments, Windows
+                                               CE, Red Hat Linux , Fedora , and Solaris
+  Development Tools                            VS 2003/2005/2008, 2010 , IBM Rational Developer,
+                                               Eclipse, SQL Management Studio, CodeSmith, Toad,
+                                               Visual Studio 6.0
+  Reporting Tools                              Business Objects, SSRS
+  Design and Management Tools                  Enterprise Architect, Rational Rose, Visual Studio
+                                               Architect, MS-Visio and MS-Project
+  Other Technologies and Tools                 TFS, MS-Office , Project Server , Share Point Server,
+                                               Exchange Server, Terminal Servers
+  Application Architecture Patterns            N-Tier, SOA, Message Bus, Layered , Object and
+                                               Component Based Architecture
+  Agile                                        Scrum</skills></skills>
+
+
+
+
+<experience end='present' start='731218'>PROFESSIONAL SUMMARY:
+<job end='present' id='1' pos='1' sic='999977' sic2='99' start='732069'><title>Solutions Architect Manager</title> (<daterange><start days='732069' iso8601='2005-05-01'>May 2005</start> ­ <end days='present' iso8601='2012-03-29'>Current</end></daterange>)
+<employer>Intersections, Inc</employer>. (<address><city>Chantilly</city>, <state abbrev='VA'>VA</state></address>)
+
+     ·    <description>Served as a key technical resource/liaison for underlying application, infrastructure development
+          and implementation of systems, with significant exposure to users and interfaces with all levels
+          of management and external vendors in order to achieve objectives of the organization.
+     ·    Lead and advocated Re-Architecture transformation initiative in the company that helped
+          company with building Enterprise scalable solutions thus helping faster and quality product
+          delivery with improved customer retention.
+     ·    Managed IT projects, resources and budgets with teams across multiple locations with team sizes
+          between 5 to 40 members.
+
+
+
+
+                                                                                                              2
+·   Architecting and designing core back-office systems for product based applications requiring
+    detailed understanding of domain knowledge on financial and credit business process
+    requirements, translating them to functional specifications, developing scalable multi-tiered
+    service based applications in a distributed environment.
+·   Work with the Design review board to ensure that all adopted technology follows company's
+    best practices and recommended standards wherever possible.
+·   Report any potential technical exposure (security, audit, etc.) to the Project Director, and make
+    recommendations for their mitigation.
+·   Develop strategic plan for staffing and skills development of technical support staff
+·   Facilitated training, evaluation and recommendation of new application software development
+    tools and mentoring team members, testing and management team in IT Solution group.
+·   Work as a technical liaison with business development group on helping with RFP process,
+    providing pre-sales and SOW's and working closely with acquisition teams on technical due
+    diligence.
+
+
+Key Accomplishments:
+
+B2B E-Business Solution:
+
+Environment: C# , MSMQ, WCF, COM+, .NET Framework 3.5, VS 2010, SQL 2K8, Windows
+2008 R2, F5 (ALB), Legacy COTS Integration, Enterprise Library 4.1 , WS-Security, XML , XSD,
+SQL Service Brokers.
+
+B2B Integration allowed a new sales channel to integrate external clients and co-brand retailers with
+OrderManagement and Fulfillment system seamlessly, which was handled over traditional batch file
+channels. The solution was based on web-services platform secured with WS-Security specification
+for Authentication and Authorization over IPSEC VPN tunnels. Internal business services tied with
+Order, Billing, Customer Management, Middleware and other business specific sub-systems were
+exposed through façade pattern. Services are exposed through WCF tier over HTTP and MSMQ
+channels that are tied with existing systems.
+
+    · Worked with business architecture and internal stake holders to understand view points and
+        presented them POC with pros and cons on each approach and how each option would
+        align with Business goals.
+    ·   Lead technical evaluation on external SOA toolkits and ESB products in the market with
+        Solution Designers.
+    ·   Provided guidance on Architectural specifications for Application design, system platform
+        specifications for hardware and network requirements and worked closely with Systems
+        Engineering, Networking and Risk Assessment groups.
+    ·   Worked alongside Scrum Master, Product owner and representatives                  to review
+        requirements, align development and testing teams to iteratively manage sprints and facilitate
+        planning sessions, daily stand up meetings, review product backlogs with product owner and
+        managing day-day challenges of evolving Agile methodology maturity.
+
+
+
+
+                                                                                                         3
+Commerce Integration and Migration Solutions:
+
+
+Environment: Web sphere , Web sphere Commerce, IBM MQ, BIZTALK 2006 R2, .NET
+Framework 3.5, VS 2008, SQL 2K5, ODP.NET , Red Hat Linux, Windows 2003 Enterprise,
+Enterprise Library 4.1 , WCF, C#, Java, XML , XSD, SQL Service Brokers.
+
+Commerce Integration is a re-architecture project initiated to build a scalable, reliable and cost
+effective ecommerce ASP (Application Service Provider) platform, which would allow business to
+add feature based products and reach out to the market place in a shorter time. Both internal
+consumer to direct and external partner customers would leverage the platform built on IBM
+Commerce, BizTalk, MQ and Middleware to consolidate the existing business processes and migrate
+over from legacy systems.
+
+   ·   Worked as a key technical liaison with external technical vendors and internal stake holders
+       for technology evaluation and product selection
+   ·   Facilitated knowledge transfer sessions to cross-functional business and technical groups on
+       the Integration effort.
+   ·   Lead Architecture and Design for middleware Integration with Web Sphere, BizTalk, MQ
+       and Back-end sub-systems using Message Bus Architecture.
+   ·   Lead a technical team of internal software developers, external technical consultants on
+       collaborating day-day design and development tasks.
+   ·   Documented Conceptual Architecture Models and Micro Design documentation on Data
+       Models, UML Diagrams, Process Flows, Build and Deployment documents.
+   ·   Developed core service, data and MQ integration code used as Templates by developers for
+       modular component development.</description></job>
+
+
+
+<job id='2'><employer>Fraud Protection</employer> (Product Development):
+
+<description>Environment: Windows 2008, IIS 7.0, .NET Framework 3.0, C#, XML, XSD, WCF, WSCF ,
+XSLT, XPATH, SQL Server 2005, Enterprise Library 4.0.
+
+Fraud Protection is an identity protection based product which required compiling data from
+multiple Credit/Identity sources and fulfill as individual fulfillment reports. The system required
+integrating different functional and system level components related with Enrollments, Fulfillment,
+Business Workflow engines, Data Aggregation, Billing and Reporting Systems.
+
+   ·   Worked closely with the Project Director and business owners to create a project task plan,
+       reviews the plan with the project team and executes the plan to completion.
+   ·   Reviewed and analyzed business requirements.
+   ·   Documented service models, database schema, object definitions and UML class interfaces.
+   ·   Architected, designed and developed multi-tiered distributed web services to interface with
+       GUI based client applications in .NET Framework.
+   ·   Developed core data access and business layers to interface with various sub-systems in a
+       SOA Architecture.
+
+
+
+                                                                                                      4
+        ·   Secured using KB Authentication model for inter application communication.
+        ·   Modeled Test Driven development environment for Unit testing.
+
+
+    Bureau Alerting Engine:
+
+    Environment: Windows 2003, IIS 6.0, .NET Framework 3.0, C#, XML, WSE 3.0, XSD, WCF,
+    Microsoft Message Queuing, WSCF, SQL Server 2005, Enterprise Library 3.0.
+
+    Functional scope of this project was to build an automated process to place fraud alerts at the 3
+    major credit bureaus. These alerts would be refreshed each 90 days for the customers. Technical
+    scope of this project involved in designing system interfaces to integrate new/existing sub systems in
+    a loosely coupled architecture with high scalability and performance.
+
+        ·   Worked closely with data vendors, IVR system providers and internal business analysis team
+            to conduct a feasibility analysis and help document functional and risk assessment report.
+        ·   Define new/updated schema definitions to interface with Data Aggregation engine, product
+            configuration, Marketing, CRM and workflow sub-systems.
+        ·   Documented service models, database schema, object definitions and UML class interfaces.
+        ·   Implemented WSE 3.0 based X509 Cert based Authentication system to allow external
+            vendors to consume web services hosted on Application platform.
+        ·   Implemented Logging and Audit process using Enterprise Library Instrumentation blocks.
+        ·   Developed core data access and business layers to interface with various sub-systems in a
+            SOA Architecture.
+        ·   Modeled Test Driven development environment for Unit testing.</description></job>
+
+
+
+
+<job end='732039' id='3' pos='2' start='731218'><title>Lead Technical Analyst</title> (<daterange><start days='731218' iso8601='2003-01-01'>January 2003</start> ­ <end days='732039' iso8601='2005-04-01'>April 2005</end></daterange>)
+<employer>UnitedBioSource Corporation</employer> (Formerly <employer>MEDTAP INTERNATIONAL INC</employer>)
+
+    ·   <description>Architected, Designed and developed web based EDC clinical trial products and health
+        outcomes models with XML, ASP.NET and third party .NET Components.
+    ·   Systems Operations and Administration involved managing AD, Domain Servers, Application
+        Server and Web Server Hosting, Exchange Servers, File System storage on NAS devices,
+        Managing Accounting and Corporate systems, Desktop system management
+    ·   Facilitated SQL Server database administration role which included schema designing, T-SQL
+        programming, database tuning, backup and recovery planning, query optimization and report
+        generation.
+    ·   Performed requirements definition, functional specifications, detail design specifications, system
+        specifications, data modeling, coding, implementation, documentation, and validation for
+        various companywide business applications.
+    ·   Intranet Development and enhancement of business computer applications to meet
+        Departmental business needs. (See project list attachment for more information).
+    ·   Developed IQ/OQ test scripts and documentation for IT SOP system validation in
+        coordination with QA department.
+
+
+
+
+                                                                                                             5
+       Key Accomplishments:
+
+
+       Model2Web:
+       Environment: Windows 2003, IIS 6.0, ASP.NET, C#, XML, XSLT, SQL Server 2000,
+       .netCharting , Spread Forms.
+
+       Model2Web is a web based application platform for health outcomes models. These mathematical
+       models are used in Phase IV Clinical Trials for economic and budget analysis of drug costs.
+
+           Instrumental in architecting the model2web from its inception as a web based application.
+           Architected, designed, developed and deployed 3-Tier .NET Solution with SQL Server 2000
+           backend.
+           Developed charting module for displaying complex charts.
+           Developed Powerful Front End GUI to emulate real time decision analysis models such as
+           decision trees and Markov models.
+           Developed the Application using ASP.NET and Microsoft.Net Framework and Third party
+           components.
+
+
+       System Upgrade Projects:
+
+           Helped with upgrading and migrating from Exchange 2000 to Exchange 2003 servers with
+           approximately 500 mailboxes and profiles.
+           Key technical liaison on analysis for AD migration and integrating with parent company's AD
+           Forest after the merger along with Site-Site VPN connectivity between multiple office locations
+           to the head-office.
+           Lead on corporate initiatives on consolidating document management system by using
+           SharePoint server, providing guidance and training to business users.</description></job></experience>
+
+
+
+<references>References: Furnished upon request</references>  ­ LinkedIn (Profile Tag: Jitamitra Karcherla).
+
+
+
+
+                                                                                                             6
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='734579' experience='1' expidrefs='1,2,3' idrefs='1,2,3' lastused='2012' name='.net' start='731218'>
+    <variant>VB.NET</variant>
+    <variant>.NET</variant>
+    <variant>Microsoft.Net</variant>
+    <variant>ASP.NET</variant>
+  </canonskill>
+  <canonskill name='aca'>
+    <variant>ACA</variant>
+  </canonskill>
+  <canonskill end='732039' experience='1' expidrefs='3' idrefs='3' lastused='2005' name='accountancy' start='731218'>
+    <variant>Accounting</variant>
+  </canonskill>
+  <canonskill name='active directory'>
+    <variant>Active
+                                               Directory</variant>
+  </canonskill>
+  <canonskill name='activex'>
+    <variant>ActiveX</variant>
+  </canonskill>
+  <canonskill name='ado'>
+    <variant>ADO</variant>
+  </canonskill>
+  <canonskill end='732039' experience='1' expidrefs='3' idrefs='3' lastused='2005' name='advertising' start='731218'>
+    <variant>AD</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='agile' start='732069'>
+    <variant>Agile</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='application design' start='732069'>
+    <variant>Application design</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='approach' start='732069'>
+    <variant>approach</variant>
+  </canonskill>
+  <canonskill name='architecture'>
+    <variant>Architect</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='asp' start='732069'>
+    <variant>ASP</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='b2b' start='732069'>
+    <variant>B2B</variant>
+  </canonskill>
+  <canonskill end='732039' experience='1' expidrefs='3' idrefs='3' lastused='2005' name='backup' start='731218'>
+    <variant>backup</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='billing' start='732069'>
+    <variant>Billing</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='biztalk' start='732069'>
+    <variant>BizTalk</variant>
+    <variant>BIZTALK</variant>
+  </canonskill>
+  <canonskill end='732039' experience='1' expidrefs='3' idrefs='3' lastused='2005' name='budget analysis' start='731218'>
+    <variant>budget analysis</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='budgeting' start='732069'>
+    <variant>budgets</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='2' idrefs='2' name='business analysis'>
+    <variant>business analysis</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='business development' start='732069'>
+    <variant>business development</variant>
+  </canonskill>
+  <canonskill name='business objects'>
+    <variant>Business Objects</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='business process' start='732069'>
+    <variant>business process</variant>
+    <variant>business processes</variant>
+  </canonskill>
+  <canonskill name='c + +'>
+    <variant>C++</variant>
+  </canonskill>
+  <canonskill end='732039' experience='1' expidrefs='3' idrefs='3' lastused='2005' name='charts' start='731218'>
+    <variant>charts</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='com' start='732069'>
+    <variant>COM</variant>
+    <variant>COM+</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='computer hardware' start='732069'>
+    <variant>hardware</variant>
+  </canonskill>
+  <canonskill end='732039' experience='1' expidrefs='3' idrefs='3' lastused='2005' name='computer skills' start='731218'>
+    <variant>computer applications</variant>
+  </canonskill>
+  <canonskill name='corba'>
+    <variant>CORBA</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='credit' start='732069'>
+    <variant>Credit</variant>
+    <variant>credit</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='2' idrefs='2' name='crm'>
+    <variant>CRM</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='customer relations' start='732069'>
+    <variant>client</variant>
+    <variant>clients</variant>
+  </canonskill>
+  <canonskill name='dao'>
+    <variant>DAO</variant>
+  </canonskill>
+  <canonskill end='732039' experience='1' expidrefs='3' idrefs='3' lastused='2005' name='data modeling' start='731218'>
+    <variant>data modeling</variant>
+  </canonskill>
+  <canonskill end='732039' experience='1' expidrefs='2,3' idrefs='2,3' lastused='2005' name='database administration' start='731218'>
+    <variant>database administration</variant>
+    <variant>Database</variant>
+    <variant>database</variant>
+  </canonskill>
+  <canonskill name='dcom'>
+    <variant>DCOM</variant>
+  </canonskill>
+  <canonskill end='732039' experience='1' expidrefs='3' idrefs='3' lastused='2005' name='decision analysis' start='731218'>
+    <variant>decision analysis</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='delivery' start='732069'>
+    <variant>delivery</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,3' idrefs='1,2,3' lastused='2012' name='design' start='731218'>
+    <variant>designing</variant>
+  </canonskill>
+  <canonskill end='732039' experience='1' expidrefs='3' idrefs='3' lastused='2005' name='document management' start='731218'>
+    <variant>document management</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,3' idrefs='1,3' lastused='2012' name='documentation' start='731218'>
+    <variant>documentation</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='due diligence' start='732069'>
+    <variant>due
+    diligence</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='e - commerce' start='732069'>
+    <variant>ecommerce</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='ebusiness' start='732069'>
+    <variant>E-Business</variant>
+  </canonskill>
+  <canonskill name='eclipse'>
+    <variant>Eclipse</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='financial' start='732069'>
+    <variant>financial</variant>
+  </canonskill>
+  <canonskill end='732039' experience='1' expidrefs='3' idrefs='3' lastused='2005' name='forms' start='731218'>
+    <variant>Forms</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,3' idrefs='1,2,3' lastused='2012' name='functional' start='731218'>
+    <variant>Functional</variant>
+    <variant>functional</variant>
+  </canonskill>
+  <canonskill end='732039' experience='1' expidrefs='2,3' idrefs='2,3' lastused='2005' name='graphical user interface' start='731218'>
+    <variant>GUI</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='http' start='732069'>
+    <variant>HTTP</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='ibm' start='732069'>
+    <variant>IBM</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='ibm websphere' start='732069'>
+    <variant>Web Sphere</variant>
+    <variant>Web sphere</variant>
+  </canonskill>
+  <canonskill end='732039' experience='1' expidrefs='2,3' idrefs='2,3' lastused='2005' name='iis' start='731218'>
+    <variant>IIS</variant>
+    <variant>IIS 6.0</variant>
+    <variant>IIS 7.0</variant>
+  </canonskill>
+  <canonskill end='732039' experience='1' expidrefs='3' idrefs='3' lastused='2005' name='intranet development' start='731218'>
+    <variant>Intranet Development</variant>
+  </canonskill>
+  <canonskill end='732039' experience='1' expidrefs='3' idrefs='3' lastused='2005' name='iq' start='731218'>
+    <variant>IQ</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='2' idrefs='2' name='ivr'>
+    <variant>IVR</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='java' start='732069'>
+    <variant>Java</variant>
+  </canonskill>
+  <canonskill name='java server pages'>
+    <variant>JSP</variant>
+  </canonskill>
+  <canonskill name='javascript'>
+    <variant>JavaScript</variant>
+  </canonskill>
+  <canonskill name='languages'>
+    <variant>Languages</variant>
+  </canonskill>
+  <canonskill name='ldap'>
+    <variant>LDAP</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='macromedia director' start='732069'>
+    <variant>Director</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,3' idrefs='1,3' lastused='2012' name='management' start='731218'>
+    <variant>Managing</variant>
+    <variant>managing</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='marketing' start='732069'>
+    <variant>market</variant>
+    <variant>Marketing</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='meeting facilitation' start='732069'>
+    <variant>meetings</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='mentoring' start='732069'>
+    <variant>mentoring</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='2' idrefs='2' name='microsoft access'>
+    <variant>access</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='microsoft backoffice' start='732069'>
+    <variant>back-office</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,3' idrefs='1,2,3' lastused='2012' name='microsoft c #' start='731218'>
+    <variant>C#</variant>
+  </canonskill>
+  <canonskill end='732039' experience='1' expidrefs='3' idrefs='3' lastused='2005' name='microsoft exchange' start='731218'>
+    <variant>Exchange</variant>
+  </canonskill>
+  <canonskill name='microsoft exchange server'>
+    <variant>Exchange Server</variant>
+  </canonskill>
+  <canonskill end='732039' experience='1' expidrefs='3' idrefs='3' lastused='2005' name='microsoft office' start='731218'>
+    <variant>office</variant>
+    <variant>MS-Office</variant>
+  </canonskill>
+  <canonskill name='microsoft operating system manager'>
+    <variant>MOM</variant>
+  </canonskill>
+  <canonskill name='microsoft project'>
+    <variant>MS-Project</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,3' idrefs='1,2,3' lastused='2012' name='microsoft windows' start='731218'>
+    <variant>Windows</variant>
+  </canonskill>
+  <canonskill end='732039' experience='1' expidrefs='3' idrefs='3' lastused='2005' name='microsoft windows 2000' start='731218'>
+    <variant>2000</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='middleware' start='732069'>
+    <variant>Middleware</variant>
+    <variant>middleware</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,3' idrefs='1,3' lastused='2012' name='migration' start='731218'>
+    <variant>Migration</variant>
+    <variant>migration</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='msmq' start='732069'>
+    <variant>MSMQ</variant>
+  </canonskill>
+  <canonskill name='mts'>
+    <variant>MTS</variant>
+  </canonskill>
+  <canonskill name='mysql'>
+    <variant>MySQL</variant>
+  </canonskill>
+  <canonskill end='732039' experience='1' expidrefs='3' idrefs='3' lastused='2005' name='nas' start='731218'>
+    <variant>NAS</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='netscape enterprise server' start='732069'>
+    <variant>Enterprise</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='networking' start='732069'>
+    <variant>network</variant>
+    <variant>Networking</variant>
+  </canonskill>
+  <canonskill name='odbc'>
+    <variant>ODBC</variant>
+  </canonskill>
+  <canonskill name='olap'>
+    <variant>OLAP</variant>
+  </canonskill>
+  <canonskill name='ole'>
+    <variant>OLE</variant>
+  </canonskill>
+  <canonskill name='operating systems'>
+    <variant>Operating Systems</variant>
+  </canonskill>
+  <canonskill end='732039' experience='1' expidrefs='3' idrefs='3' lastused='2005' name='optimization' start='731218'>
+    <variant>optimization</variant>
+  </canonskill>
+  <canonskill end='732039' experience='1' expidrefs='3' idrefs='3' lastused='2005' name='oq' start='731218'>
+    <variant>OQ</variant>
+  </canonskill>
+  <canonskill name='oracle'>
+    <variant>Oracle</variant>
+  </canonskill>
+  <canonskill name='oracle developer 2000'>
+    <variant>Developer</variant>
+  </canonskill>
+  <canonskill name='oracle pl/sql'>
+    <variant>PL/SQL</variant>
+  </canonskill>
+  <canonskill name='perl'>
+    <variant>Perl</variant>
+  </canonskill>
+  <canonskill end='732039' experience='1' expidrefs='3' idrefs='3' lastused='2005' name='programming' start='731218'>
+    <variant>coding</variant>
+    <variant>Programming</variant>
+    <variant>programming</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='quality' start='732069'>
+    <variant>quality</variant>
+  </canonskill>
+  <canonskill end='732039' experience='1' expidrefs='3' idrefs='3' lastused='2005' name='quality control' start='731218'>
+    <variant>QA</variant>
+  </canonskill>
+  <canonskill name='rational rose'>
+    <variant>Rational Rose</variant>
+  </canonskill>
+  <canonskill end='732039' experience='1' expidrefs='3' idrefs='3' lastused='2005' name='real time' start='731218'>
+    <variant>real time</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='red hat linux' start='732069'>
+    <variant>Red Hat Linux</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='2' idrefs='2' name='reports'>
+    <variant>Reporting</variant>
+  </canonskill>
+  <canonskill end='732039' experience='1' expidrefs='3' idrefs='3' lastused='2005' name='requirements analysis' start='731218'>
+    <variant>requirements definition</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='rfp' start='732069'>
+    <variant>RFP</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='risk assessment' start='732069'>
+    <variant>Risk Assessment</variant>
+    <variant>risk assessment</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='sales' start='732069'>
+    <variant>sales</variant>
+  </canonskill>
+  <canonskill end='732039' experience='1' expidrefs='3' idrefs='3' lastused='2005' name='servers' start='731218'>
+    <variant>Servers</variant>
+    <variant>servers</variant>
+  </canonskill>
+  <canonskill end='732039' experience='1' expidrefs='3' idrefs='3' lastused='2005' name='shell scripting' start='731218'>
+    <variant>scripts</variant>
+  </canonskill>
+  <canonskill name='soap'>
+    <variant>SOAP</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='software development' start='732069'>
+    <variant>software development</variant>
+  </canonskill>
+  <canonskill name='solaris'>
+    <variant>Solaris</variant>
+  </canonskill>
+  <canonskill end='732039' experience='1' expidrefs='3' idrefs='3' lastused='2005' name='sop' start='731218'>
+    <variant>SOP</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='specification' start='732069'>
+    <variant>specification</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,3' idrefs='1,2,3' lastused='2012' name='sql' start='731218'>
+    <variant>SQL 2</variant>
+    <variant>SQL Server</variant>
+    <variant>SQL</variant>
+  </canonskill>
+  <canonskill end='732039' experience='1' expidrefs='3' idrefs='3' lastused='2005' name='sql server 2000' start='731218'>
+    <variant>SQL Server 2000</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='staffing' start='732069'>
+    <variant>staffing</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='strategic' start='732069'>
+    <variant>strategic</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='systems engineering' start='732069'>
+    <variant>Systems
+        Engineering</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='technical support' start='732069'>
+    <variant>technical support</variant>
+  </canonskill>
+  <canonskill name='toad'>
+    <variant>Toad</variant>
+  </canonskill>
+  <canonskill end='732039' experience='1' expidrefs='3' idrefs='3' lastused='2005' name='transact sql' start='731218'>
+    <variant>T-SQL</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='translation' start='732069'>
+    <variant>translating</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='unified modeling language' start='732069'>
+    <variant>UML</variant>
+  </canonskill>
+  <canonskill end='732039' experience='1' expidrefs='3' idrefs='3' lastused='2005' name='upgrades' start='731218'>
+    <variant>upgrading</variant>
+    <variant>Upgrade</variant>
+  </canonskill>
+  <canonskill end='732039' experience='1' expidrefs='3' idrefs='3' lastused='2005' name='validation' start='731218'>
+    <variant>validation</variant>
+  </canonskill>
+  <canonskill name='vbscript'>
+    <variant>VBSCRIPT</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='view' start='732069'>
+    <variant>view</variant>
+  </canonskill>
+  <canonskill name='visio'>
+    <variant>Visio</variant>
+  </canonskill>
+  <canonskill name='visual basic'>
+    <variant>Visual Basic</variant>
+  </canonskill>
+  <canonskill name='visual studio'>
+    <variant>Visual Studio</variant>
+    <variant>Visual Studio 6.0</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,3' idrefs='1,3' lastused='2012' name='vpn' start='731218'>
+    <variant>VPN</variant>
+  </canonskill>
+  <canonskill end='732039' experience='1' expidrefs='3' idrefs='3' lastused='2005' name='web servers' start='731218'>
+    <variant>Web Server</variant>
+  </canonskill>
+  <canonskill name='windows ce'>
+    <variant>Windows
+                                               CE</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='2' idrefs='2' name='workflow analysis'>
+    <variant>Workflow</variant>
+    <variant>workflow</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,3' idrefs='1,2,3' lastused='2012' name='xml' start='731218'>
+    <variant>XML</variant>
+  </canonskill>
+  <canonskill end='732039' experience='1' expidrefs='2,3' idrefs='2,3' lastused='2005' name='xslt' start='731218'>
+    <variant>XSLT</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

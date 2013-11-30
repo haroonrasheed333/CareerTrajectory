@@ -1,0 +1,144 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734596' xml:space='preserve'>A. McBride / Page 2
+
+<contact><name><givenname>Aniece</givenname> <givenname>M</givenname>. <surname>McBride</surname></name>
+<address lat='42.9077' lon='78.8194' majorcity='BUFFALO' state='NY'><street>23 Herman Street (#1</street>)							          
+<city>Buffalo</city>, <state abbrev='NY'>New York</state> <postalcode>14211</postalcode></address>							          
+Phone: <phone>(716) 715-4962</phone>
+Email: <email>ms.mcbride2@yahoo.com</email></contact>
+
+
+
+<skills>ATTRIBUTES
+<skills>Proficient in MicroSoft Word, Excel and Powerpoint.
+Proficient in medical software such as Medent and Medisoft.    
+Exemplary customer service and interpersonal skills.</skills></skills>
+
+
+<experience end='present' start='731399'>PROFESSIONAL EXPERIENCE
+	<job end='734109' id='1' pos='2' sic='806202' sic2='80' start='733987'><title>Medical Secretary Internship</title>, <daterange><start days='733987' iso8601='2010-08-01'>August 2010</start> - <end days='734109' iso8601='2010-12-01'>December 2010</end></daterange>
+	<employer>Kenmore Mercy Hospital</employer>, <address><city>Kenmore</city>, <state abbrev='NY'>New York</state></address> 
+<description>Assisted front desk reception and general office duties.
+Prepared patients records and scheduling
+Interacted with patients, doctor and other staff daily.</description></job>
+
+<job end='733622' id='2' pos='3' sic='799945' sic2='79' start='733469'><title>Customer Service Representative</title>, <daterange><start days='733469' iso8601='2009-03-01'>March 2009</start> - <end days='733622' iso8601='2009-08-01'>August 2009</end></daterange>
+<employer>Center One</employer>, <address><city>Buffalo</city>, <state abbrev='NY'>New York</state></address> 
+<description>Assisted with customers with application and approval process.
+Managed daily account information and general office duties.
+Answered incoming call of customers.</description></job>
+
+<job end='732679' id='3' pos='4' sic='999977' sic2='99' start='732618'><title>Consumer Relations Specialist</title>, <daterange><start days='732618' iso8601='2006-11-01'>November 2006</start> - <end days='732679' iso8601='2007-01-01'>January 2007</end></daterange>
+<employer>Fisher-Price Company</employer>, <address><city>East Aurora</city>, <state abbrev='NY'>New York</state></address>
+<description>Processed merchandise orders via telephone.
+Input daily account payment information.
+Answered incoming calls of customers.</description></job>
+
+<job end='732404' id='4' pos='5' sic='841201' sic2='84' start='731399'><title>Gift Shop Attendant</title>, <daterange><start days='731399' iso8601='2003-07-01'>July 2003</start> - <end days='732404' iso8601='2006-04-01'>April 2006</end></daterange>
+<employer>Buffalo Museum of Science</employer>, <address><city>Buffalo</city>, <state abbrev='NY'>New York</state></address>
+<description>Greeted and directed visitors and customers to their destination.
+Answered incoming telephone calls and provided general information.
+Maintained sales transactions.</description></job>
+
+
+VOLUNTEER / COMMUNITY SERVICE
+	<job end='present' id='5' pos='1' start='733044'><title>Volunteer</title>, <daterange><start days='733044' iso8601='2008-01-01'>2008</start> - <end days='present' iso8601='2012-04-01'>Present</end></daterange>
+	<employer>Matt Urban Center</employer>, <address><city>Buffalo</city>, <state abbrev='NY'>New York</state></address>
+<description>Assisted with staff and paperwork.
+Relieved and assisted receptionist of duties.
+Assisted in the Hope Center Café (soup kitchen).
+Served meals to families of the community.</description></job></experience> 
+
+
+
+<education>TRAINING / CERTIFICATIONS
+	<school id='6'><courses>Medical Secretary Certification</courses>, <completiondate days='734140' iso8601='2011-01-01'>January 2011</completiondate>
+	<institution>Kenmore-Tonawanda School District</institution>, <address><city>Kenmore</city>, <state abbrev='NY'>New York</state></address></school>
+<school id='7'><courses>Completed through Project SOAR.
+
+Health Insurance Portability and Accountability Act (HIPAA)</courses>, <completiondate days='734079' iso8601='2010-11-01'>November 2010</completiondate>
+<institution>Kenmore-Tonawanda School District</institution>, <address><city>Kenmore</city>, <state abbrev='NY'>New York</state></address>
+
+<major code='4201'>Business Administration</major>, <daterange><start days='733775' iso8601='2010-01-01'>January 2010</start> - <end days='733895' iso8601='2010-05-01'>May 2010</end></daterange></school>
+<school id='8'><institution>Erie Community College</institution> (City Campus), <address><city>Buffalo</city>, <state abbrev='NY'>New York</state></address>
+
+
+EDUCATION
+	General Education Development (GED), <completiondate days='733044' iso8601='2008-01-01'>2008</completiondate></school>
+	<school id='9'><institution>Adult Learning Center</institution>, <address><city>Buffalo</city>, <state abbrev='NY'>New York</state></address></school></education> 
+
+
+<references>REFERENCES
+Dawn Ansel
+Office Manager
+2157 Elmwood Avenue
+Buffalo, New York 14217
+(716) 447-6554
+
+
+Patty Howitt
+Medical Secretary
+17 Burnett Place
+Tonawanda, New York 14150
+(716) 873-8649
+
+
+Josephine Lerotic
+Medical Clerical Instructor
+3200 Elmwood Avenue
+Kenmore, New York 14217
+(716) 874-8411 (Ext. 7393)</references>
+
+
+
+
+
+
+
+
+
+
+</resume>
+
+<skillrollup version='1'>
+  <canonskill name='communication skills'>
+    <variant>interpersonal skills</variant>
+  </canonskill>
+  <canonskill name='customer service'>
+    <variant>customer service</variant>
+  </canonskill>
+  <canonskill end='734109' experience='1' expidrefs='1' idrefs='1' lastused='2010' name='general office duties' start='733987'>
+    <variant>general office duties</variant>
+  </canonskill>
+  <canonskill education='1' name='insurance'>
+    <variant>Insurance</variant>
+  </canonskill>
+  <canonskill name='medisoft'>
+    <variant>Medisoft</variant>
+  </canonskill>
+  <canonskill name='microsoft excel'>
+    <variant>Excel</variant>
+  </canonskill>
+  <canonskill name='microsoft powerpoint'>
+    <variant>Powerpoint</variant>
+  </canonskill>
+  <canonskill name='microsoft word'>
+    <variant>MicroSoft Word</variant>
+  </canonskill>
+  <canonskill end='732404' experience='1' expidrefs='4' idrefs='4' lastused='2006' name='receptionist' start='731399'>
+    <variant>receptionist</variant>
+    <variant>reception</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='sales' start='732618'>
+    <variant>sales</variant>
+  </canonskill>
+  <canonskill experience='1' name='scheduling'>
+    <variant>scheduling</variant>
+  </canonskill>
+  <canonskill end='733622' experience='1' expidrefs='2,3' idrefs='2,3' lastused='2009' name='telephone skills' start='732618'>
+    <variant>telephone</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

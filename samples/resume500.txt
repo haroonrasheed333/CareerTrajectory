@@ -1,0 +1,161 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734594' xml:space='preserve'>                                                                                          <contact><name><givenname>Richard</givenname>       <givenname>C</givenname>. <surname>Thompson</surname></name>
+<address lat='42.955' lon='85.4711' majorcity='ADA' state='MI'><street>923dogwoodmeadowsdr.</street><city>se
+                                                                                          ada</city>, <state abbrev='MI'>mi</state> <postalcode>49301</postalcode></address>
+                                                                                          p: <phone>616.682.2063</phone>
+                                                                                          c: <phone type='cell'>616.916.6155</phone>
+                                                                                          <email>rick@studio2inc.com</email></contact>
+
+<education>education
+<school id='3'><institution>Grand Valley State University</institution>
+<degree level='16' name='Bachelor of Fine Arts'>BFA</degree> in <major code='2405'>Graphic Design</major>
+<daterange><start days='728661' iso8601='1996-01-01'>1996</start> ­ <end days='730122' iso8601='2000-01-01'>2000</end></daterange></school>
+
+<school id='4'><institution>Davenport University</institution>
+<degree level='16' name='Bachelor of Arts'>BA</degree> in <major code='4399 4304'>General Business/Marketing</major>
+<daterange><start days='727566' iso8601='1993-01-01'>1993</start> ­ <end days='728661' iso8601='1996-01-01'>1996</end></daterange></school></education>
+
+
+
+<experience end='present' start='728661'>experience
+<job end='present' id='1' pos='1' sic='723106' sic2='72' start='731949'><employer>Studio 2, Inc.
+Graphic Design Company</employer>
+<title>Owner / Senior Designer</title>
+<daterange><start days='731949' iso8601='2005-01-01'>2005</start> ­ <end days='present' iso8601='2012-03-30'>Present</end></daterange>
+<description>The best aspect of being part of a company like Studio 2, Inc. are the relationships I have built over the years.
+Connecting with my clients and enjoying the design process with them is what I appreciate the most about being
+in the Design profession. My desire and commitment towards my clients' needs results in design that flows
+naturally with unique and professional results every time.
+Related projects include: company identities, brand building, product development, packaging, all forms of print
+collateral, point of purchase displays, multi-media marketing, creative direction and custom website design.</description></job>
+
+<job end='731949' id='2' pos='2' start='728661'><employer>Serviscreen Corporation
+Industrial Printing &amp; Packaging Company</employer>
+<title>Art Director</title>
+<daterange><start days='728661' iso8601='1996-01-01'>1996</start> ­ <end days='731949' iso8601='2005-01-01'>2005</end></daterange>
+<description>As the Art Director for Serviscreen, I worked closely on accounts with the sales department to meet deadlines and
+keep projects within budget. I managed in direct contact with the printing team to ensure exact final product per
+the clients' needs. I was responsible for all corporate marketing materials, concepts, design, production and
+pre-press as well as support to all department personnel.</description></job></experience>
+
+
+
+<skills>skills
+Proficient with Mac-based design software:
+<skills>Illustrator, Photoshop, InDesign, Flash, Dreamweaver, QuarkXpress, Word and Powerpoint
+
+Design Expertise:
+Corporate identities, logos, brochures, catalogs, packaging, all print collateral, branding,
+advertising, multimedia, web design, environmental design and point of purchase displays.
+
+
+
+interests
+Running, Golf, Triathlons, Biking, Swimming
+
+
+
+portfolio reference
+www.studio2inc.com</skills></skills>
+</resume>
+
+<skillrollup version='1'>
+  <canonskill name='adobe photoshop'>
+    <variant>Photoshop</variant>
+  </canonskill>
+  <canonskill name='advertising'>
+    <variant>advertising</variant>
+  </canonskill>
+  <canonskill end='731949' experience='1' expidrefs='2' idrefs='2' lastused='2005' name='art direction' start='728661'>
+    <variant>Art Director</variant>
+  </canonskill>
+  <canonskill name='brand management'>
+    <variant>branding</variant>
+  </canonskill>
+  <canonskill name='brochure design'>
+    <variant>brochures</variant>
+  </canonskill>
+  <canonskill end='731949' experience='1' expidrefs='2' idrefs='2' lastused='2005' name='budgeting' start='728661'>
+    <variant>budget</variant>
+  </canonskill>
+  <canonskill name='catalogs'>
+    <variant>catalogs</variant>
+  </canonskill>
+  <canonskill name='com'>
+    <variant>com</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='creative direction' start='731949'>
+    <variant>creative direction</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='customer relations' start='728661'>
+    <variant>clients</variant>
+  </canonskill>
+  <canonskill name='design software'>
+    <variant>design software</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='development' start='731949'>
+    <variant>product development</variant>
+  </canonskill>
+  <canonskill name='dreamweaver'>
+    <variant>Dreamweaver</variant>
+  </canonskill>
+  <canonskill name='flash'>
+    <variant>Flash</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='forms' start='731949'>
+    <variant>forms</variant>
+  </canonskill>
+  <canonskill name='illustrator'>
+    <variant>Illustrator</variant>
+  </canonskill>
+  <canonskill name='indesign'>
+    <variant>InDesign</variant>
+  </canonskill>
+  <canonskill name='logo design'>
+    <variant>logos</variant>
+  </canonskill>
+  <canonskill name='macintosh'>
+    <variant>Mac</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='marketing' start='731949'>
+    <variant>marketing</variant>
+  </canonskill>
+  <canonskill end='731949' experience='1' expidrefs='2' idrefs='2' lastused='2005' name='marketing materials' start='728661'>
+    <variant>marketing materials</variant>
+  </canonskill>
+  <canonskill name='microsoft powerpoint'>
+    <variant>Powerpoint</variant>
+  </canonskill>
+  <canonskill name='microsoft word'>
+    <variant>Word</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='multimedia' start='731949'>
+    <variant>multimedia</variant>
+    <variant>multi-media</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='packaging' start='731949'>
+    <variant>packaging</variant>
+  </canonskill>
+  <canonskill end='731949' experience='1' expidrefs='2' idrefs='2' lastused='2005' name='personnel' start='728661'>
+    <variant>personnel</variant>
+  </canonskill>
+  <canonskill end='731949' experience='1' expidrefs='2' idrefs='2' lastused='2005' name='pre - press production' start='728661'>
+    <variant>pre-press</variant>
+  </canonskill>
+  <canonskill name='quark xpress'>
+    <variant>QuarkXpress</variant>
+  </canonskill>
+  <canonskill end='731949' experience='1' expidrefs='2' idrefs='2' lastused='2005' name='sales' start='728661'>
+    <variant>sales</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='unique' start='731949'>
+    <variant>unique</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='web site production' start='731949'>
+    <variant>website design</variant>
+    <variant>web design</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

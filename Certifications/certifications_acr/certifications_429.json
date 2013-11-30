@@ -1,0 +1,40 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CCC-A", 
+            "Certification Name": "Certificate of Clinical Competence in Audiology", 
+            "Type": "Core", 
+            "Certification ID": "0288", 
+            "Certifying Organization": "American Speech-Language-Hearing Association"
+        }, 
+        {
+            "Acronym": "BC-HIS", 
+            "Certification Name": "Board Certified in Hearing Instrument Sciences", 
+            "Type": "Specialty", 
+            "Certification ID": "2655", 
+            "Certifying Organization": "National Board for Certification in Hearing Instrument Sciences"
+        }, 
+        {
+            "Acronym": "CI", 
+            "Certification Name": "Cochlear Implants Specialty Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "5926", 
+            "Certifying Organization": "American Board of Audiology"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Board Certified Audiologist", 
+            "Type": "Core", 
+            "Certification ID": "5925", 
+            "Certifying Organization": "American Board of Audiology"
+        }, 
+        {
+            "Acronym": "PASC", 
+            "Certification Name": "Pediatric Audiology Specialty Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "9503", 
+            "Certifying Organization": "American Board of Audiology"
+        }
+    ], 
+    "onet": "29118100"
+}

@@ -1,0 +1,202 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734595' xml:space='preserve'>    <contact><name><givenname>Raymond</givenname> <surname>Waters</surname></name>
+          <address lat='37.6329' lon='77.3574' majorcity='MECHANICSVILLE' state='VA'><street>7750 Stand Circle Apt. 404</street> <city>Mechanicsville</city>, <state abbrev='VA'>VA</state> <postalcode>23111</postalcode></address>
+                                   	     <phone>(804) 617-6746</phone>
+      	 <email>rjlwaters@yahoo.com</email></contact>
+<summary>PROFILE:
+<objective>I am a hardworking professional looking to secure a responsible career opportunity in Information Technology, wanting to utilize my professional training.  Goal oriented professional wanting to ensure contributions geared towards the success of the employer.</objective></summary>
+<skills>TECHNICAL SUMMARY:
+Software: <skills>Microsoft Word 2003-2010, Excel 2003-2010, Access 2003-2010, Outlook 2003-2010, Windows 95-Windows 7, VMware, Adobe flash player. 
+Hardware: PC's and Laptops, LAN servers, HP, Dell, Acer, Gateway, Sony, Xerox, and Lexmark printers, Brothers printers, various Ethernet networking devices, CD-ROMs.
+Skills
+Diagnose, troubleshoot, and resolve hardware, software, or other network and system problems, and replace defective components when necessary.
+Load computer tapes and disks, and install software and printer paper or forms.
+Configure, and test computer hardware, networking software and operating system software.
+Select hardware and material, assuring compliance with specifications and product requirements.
+Answer user inquiries regarding computer software or hardware operation to resolve problems.
+Strong technical writing skills and familiarity with Microsoft Word.
+Provide strong customer support.
+Effective communication skills with the reliability of updating co-workers and management.</skills></skills> 
+
+
+<education>EDUCATION 
+<school id='5'><daterange><start days='734352' iso8601='2011-08-01'>August 2011</start>- <end days='734505' iso8601='2012-01-01'>January 2012</end></daterange>- <institution>ECPI School of Technology</institution>
+<degree level='14'>Associates</degree> <major code='0402 0404'>Computer and Information Science</major>
+Major: <major code='4103'>Network Security</major></school>
+<daterange><start days='732526' iso8601='2006-08-01'>August 2006</start>-<end days='734109' iso8601='2010-12-01'>December 2010</end></daterange>
+<degree level='14'>Associates</degree> in <major code='5101'>Interdisciplinary Studies</major>
+Minor: <minor code='4201'>Business Management</minor></education>
+
+<experience end='present' start='733165'>PROFESSIONAL EXPERIENCE
+<job end='present' id='1' pos='1' sic='573407' sic2='57' start='734230'><employer>Technology Integration Group</employer>, <address><city>Richmond</city>, <state abbrev='VA'>VA</state></address>
+<title>Computer Technician/ Field Technician/ Help Desk Analyst</title> <daterange><start days='734230' iso8601='2011-04-01'>April 2011</start>-<end days='present' iso8601='2012-03-31'>Present</end></daterange>
+<description>Troubleshoot and repair Dell desktop and PC.
+Repairing printed circuit board fabrications at component level diagnostics.
+Build, test, and deploy new user computers according to corporate standards.
+Provide proficient customer support with their products and applications.
+Diagnose, troubleshoot, and repair technical instruction on hardware/software.
+Install and connect printers to designated networks.</description></job>
+
+<job id='2' sic='551102' sic2='55'><employer>Mechanicsville Honda/Dodge</employer>, <address><city>Mechanicsville</city>, <state abbrev='VA'>VA</state></address>
+<description>Car detailer/Inventory
+Clean and refurbish new and used automobiles.
+Small touch up work on automobile including minor repairs and painting.
+Clean upholstery, rugs, and other surfaces, using cleaning agents, applications, and cleaning devices.</description></job>
+
+<job end='733622' id='3' pos='2' start='733530'><employer>Derricott's E.L.P.T</employer>, <address><city>Richmond</city>, <state abbrev='VA'>VA</state></address>
+<title>Landscaper</title> <daterange><start days='733530' iso8601='2009-05-01'>May 2009</start>-<end days='733622' iso8601='2009-08-01'>August 2009</end></daterange>
+<description>Gather and remove litter.
+Rake, mulch, and compost leaves.
+Operate powered equipment such as mowers, tractors, twin-axle vehicles, chain saws, and sod cutters.
+Provide upkeep of sidewalks, driveways, parking lots, and other ground features.</description></job>
+
+<job end='733257' id='4' pos='3' sic='4214' sic2='42' start='733165'><employer>Harrison's storage and Moving Company</employer> <address><city>Chesapeake</city>, <state abbrev='VA'>VA</state></address>
+<title>Warehouse</title> <daterange><start days='733165' iso8601='2008-05-01'>May 2008</start>-<end days='733257' iso8601='2008-08-01'>August 2008</end></daterange>
+<description>Good record keeping skills and attention to detail.
+Warehouse maintenance to help ensure industry sanitation and safety.
+Shipping and receiving packages.</description></job></experience>
+
+
+
+	
+
+
+
+
+
+
+				
+
+
+
+</resume>
+
+<skillrollup version='1'>
+  <canonskill name='acer hardware'>
+    <variant>Acer</variant>
+  </canonskill>
+  <canonskill name='adobe'>
+    <variant>Adobe</variant>
+  </canonskill>
+  <canonskill end='733257' experience='1' expidrefs='4' idrefs='4' lastused='2008' name='attention to detail' start='733165'>
+    <variant>attention to detail</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='2' idrefs='2' name='automotive'>
+    <variant>automobiles</variant>
+  </canonskill>
+  <canonskill name='cd - rom'>
+    <variant>CD-ROMs</variant>
+  </canonskill>
+  <canonskill name='communication skills'>
+    <variant>communication skills</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='computer hardware' start='734230'>
+    <variant>Hardware</variant>
+    <variant>computer hardware</variant>
+    <variant>hardware</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='customer support' start='734230'>
+    <variant>customer support</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='dell computers' start='734230'>
+    <variant>Dell</variant>
+  </canonskill>
+  <canonskill name='ethernet'>
+    <variant>Ethernet networking</variant>
+  </canonskill>
+  <canonskill end='733622' experience='1' expidrefs='3' idrefs='3' lastused='2009' name='features' start='733530'>
+    <variant>features</variant>
+  </canonskill>
+  <canonskill name='flash'>
+    <variant>flash</variant>
+  </canonskill>
+  <canonskill name='forms'>
+    <variant>forms</variant>
+  </canonskill>
+  <canonskill name='gateway'>
+    <variant>Gateway</variant>
+  </canonskill>
+  <canonskill name='hewlett packard'>
+    <variant>HP</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='instruction' start='734230'>
+    <variant>instruction</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='2' idrefs='2' name='inventory management'>
+    <variant>Inventory</variant>
+  </canonskill>
+  <canonskill name='lan'>
+    <variant>LAN</variant>
+  </canonskill>
+  <canonskill name='laptop computers'>
+    <variant>Laptops</variant>
+  </canonskill>
+  <canonskill name='lexmark printers'>
+    <variant>Lexmark printers</variant>
+  </canonskill>
+  <canonskill name='microsoft access'>
+    <variant>Access</variant>
+  </canonskill>
+  <canonskill name='microsoft excel'>
+    <variant>Excel</variant>
+  </canonskill>
+  <canonskill name='microsoft outlook'>
+    <variant>Outlook</variant>
+  </canonskill>
+  <canonskill name='microsoft windows'>
+    <variant>Windows 7</variant>
+  </canonskill>
+  <canonskill name='microsoft windows 95'>
+    <variant>Windows 95</variant>
+  </canonskill>
+  <canonskill name='microsoft word'>
+    <variant>Microsoft Word</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='networking' start='734230'>
+    <variant>network</variant>
+    <variant>networking</variant>
+    <variant>networks</variant>
+  </canonskill>
+  <canonskill name='operating systems'>
+    <variant>operating system</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='2' idrefs='2' name='painting'>
+    <variant>painting</variant>
+  </canonskill>
+  <canonskill name='pc'>
+    <variant>PC's</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='printers' start='734230'>
+    <variant>printer</variant>
+    <variant>printers</variant>
+  </canonskill>
+  <canonskill end='733257' experience='1' expidrefs='4' idrefs='4' lastused='2008' name='receiving' start='733165'>
+    <variant>receiving</variant>
+  </canonskill>
+  <canonskill end='733257' experience='1' expidrefs='4' idrefs='4' lastused='2008' name='record keeping' start='733165'>
+    <variant>record keeping</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='repair' start='734230'>
+    <variant>repairs</variant>
+    <variant>Repairing</variant>
+  </canonskill>
+  <canonskill end='733257' experience='1' expidrefs='4' idrefs='4' lastused='2008' name='safety' start='733165'>
+    <variant>safety</variant>
+  </canonskill>
+  <canonskill name='servers'>
+    <variant>servers</variant>
+  </canonskill>
+  <canonskill end='733257' experience='1' expidrefs='4' idrefs='4' lastused='2008' name='shipping' start='733165'>
+    <variant>Shipping</variant>
+  </canonskill>
+  <canonskill name='technical writing'>
+    <variant>technical writing</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='troubleshooting' start='734230'>
+    <variant>Troubleshoot</variant>
+    <variant>troubleshoot</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

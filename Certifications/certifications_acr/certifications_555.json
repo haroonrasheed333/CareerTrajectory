@@ -1,0 +1,61 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "MIRM", 
+            "Certification Name": "Master in Residential Marketing", 
+            "Type": "Advanced", 
+            "Certification ID": "3797", 
+            "Certifying Organization": "National Association of Home Builders"
+        }, 
+        {
+            "Acronym": "RES", 
+            "Certification Name": "Residential Evaluation Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "1337", 
+            "Certifying Organization": "International Association of Assessing Officers"
+        }, 
+        {
+            "Acronym": "CSP", 
+            "Certification Name": "Certified New Home Sales Professional", 
+            "Type": "Core", 
+            "Certification ID": "3793", 
+            "Certifying Organization": "National Association of Home Builders"
+        }, 
+        {
+            "Acronym": "R3", 
+            "Certification Name": "Residential Plans Examiner", 
+            "Type": "Core", 
+            "Certification ID": "6914", 
+            "Certifying Organization": "International Code Council"
+        }, 
+        {
+            "Acronym": "RESIma", 
+            "Certification Name": "Master Residential Electronics Systems Integrator", 
+            "Type": "Advanced", 
+            "Certification ID": "6841", 
+            "Certifying Organization": "ETA International"
+        }, 
+        {
+            "Acronym": "RCYCP", 
+            "Certification Name": "Residential Child and Youth Care Professional", 
+            "Type": "Core", 
+            "Certification ID": "0343", 
+            "Certifying Organization": "National Resource Center for Youth Services"
+        }, 
+        {
+            "Acronym": "CMP", 
+            "Certification Name": "Certified New Home Marketing Professional", 
+            "Type": "Core", 
+            "Certification ID": "3796", 
+            "Certifying Organization": "National Association of Home Builders"
+        }, 
+        {
+            "Acronym": "RESI", 
+            "Certification Name": "Residential Electronics Systems Integrator", 
+            "Type": "Core", 
+            "Certification ID": "6840", 
+            "Certifying Organization": "ETA International"
+        }
+    ], 
+    "onet": "39904100"
+}

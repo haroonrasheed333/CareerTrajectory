@@ -1,0 +1,140 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734596' xml:space='preserve'><contact><name><givenname>Dung</givenname> <givenname>Tien</givenname> <surname>Nguyen</surname></name>
+<address lat='33.7484' lon='117.91' majorcity='SANTA ANA' state='CA'><street>5111 West 16th Street</street>
+<city>Santa Ana</city>, <state abbrev='CA'>CA</state> <postalcode>92703</postalcode></address>
+Email: <email>dungbemm@yahoo.com</email>
+Home: <phone type='home'>(714) 741-0007</phone>  Cell: <phone type='cell'>(714) 858-5900</phone></contact>
+
+<summary>Objective:
+<objective>Dynamic self-starter with a strong sense of responsibility positive attitude.
+Very dependable, hard working and detail oriented.
+Seeking a position where my skills and experience will be utilized to benefit the employer as  well as have the opportunity to prove my dedicated, hardworking ability.</objective></summary>
+
+<skills>Professional Skills:
+
+<description>Welder/Metal Welding/Mig,Gas,Tig,Stick,Plasma cutting
+Auto body collision repair and refinishing,spraying motocycle custom painting,Auto restorer,
+Machine test operator/Test PCB
+Solder/De-solder, working with hand tools
+Electronic/Mechanical Assembler
+Certified Forklift Operator
+Handyman
+Self-Motivated, Confident
+Fast-Learner
+Working Good Independent/Teamwork</description>
+<languages>Bilingual English/Vietnamese</languages></skills>
+
+<experience end='present' start='726835'>Professional Experience:
+<job end='present' id='1' pos='1' start='734140'><daterange><start days='734140' iso8601='2011-01-01'>2011</start>-<end days='present' iso8601='2012-04-01'>present</end></daterange>       <description>Guaranty Chevrolet dealer ship employee as smog tech,PDI new car and Certified use car</description></job> 
+<job end='733775' id='2' pos='2' start='733044'><daterange><start days='733044' iso8601='2008-01-01'>2008</start> - <end days='733775' iso8601='2010-01-01'>2010</end></daterange>	    <title>Smog Check Technician</title> <description>Certified Licensed State of California
+                            Maintenance and Service tech.</description></job>
+<job end='732314' id='3' pos='3' start='728296'><daterange><start days='728296' iso8601='1995-01-01'>1995</start> - <end days='732314' iso8601='2006-01-01'>2006</end></daterange>	    <employer>Kingston Store case Technology Company</employer>, <address><city>Fountain Valley</city>, <state abbrev='CA'>Ca.</state></address>
+		    <title>Domestic shipping leader</title>.
+		    <description>Operated shipping process via FedEx, UPS module
+		    Forklift operator Certified.
+		    Labels and verify shipping method.
+		    Pulling parts following by orders, scanning, packaging, label work  instructions 
+		    Testing PCB using custom software and procedures.
+		    Assemble performing component level chassis hardware.</description></job>
+<job end='728296' id='4' pos='4' start='727931'><daterange><start days='727931' iso8601='1994-01-01'>1994</start> -<end days='728296' iso8601='1995-01-01'>1995</end></daterange>         <description>Autobody and painting helper</description></job>
+<job end='727931' id='5' pos='5' sic='228102' sic2='22' start='726835'><daterange><start days='726835' iso8601='1991-01-01'>1991</start> - <end days='727931' iso8601='1994-01-01'>1994</end></daterange>	    <employer>China Grove Textile, Inc</employer>.  <address><city>Gastonia</city>, <state abbrev='NC'>NC</state></address>
+		    <description>Drawing, rowing machine operator and maintenance 
+
+
+Professional training and</description></job></experience> <education>Education:
+	A.<courses>S.E Graduate Automotive Training in Anaheim, California 2008
+	R.O.P  Training 2007 Welding Technician Certified
+	R.O.P  Training Auto tune-up, emission 2007 Certified
+	Auto Body and Painting in 1999 Certified
+	Golden West college Auto Body and Painting carreer 1997 
+            High School Graduated in Saigon,Vietnam</courses></education>
+	
+            
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</resume>
+
+<skillrollup version='1'>
+  <canonskill name='assembly language'>
+    <variant>Assembler</variant>
+  </canonskill>
+  <canonskill education='1' name='automotive'>
+    <variant>Automotive</variant>
+  </canonskill>
+  <canonskill end='732314' experience='1' expidrefs='3' idrefs='3' lastused='2006' name='computer hardware' start='728296'>
+    <variant>hardware</variant>
+  </canonskill>
+  <canonskill name='english'>
+    <variant>Bilingual English</variant>
+  </canonskill>
+  <canonskill end='732314' experience='1' expidrefs='3' idrefs='3' lastused='2006' name='forklift operator' start='728296'>
+    <variant>Forklift Operator</variant>
+    <variant>Forklift operator</variant>
+  </canonskill>
+  <canonskill end='727931' experience='1' expidrefs='5' idrefs='5' lastused='1994' name='graphic design' start='726835'>
+    <variant>Drawing</variant>
+  </canonskill>
+  <canonskill name='hand tools'>
+    <variant>hand tools</variant>
+  </canonskill>
+  <canonskill name='mechanical'>
+    <variant>Mechanical</variant>
+  </canonskill>
+  <canonskill end='732314' experience='1' expidrefs='3' idrefs='3' lastused='2006' name='packaging' start='728296'>
+    <variant>packaging</variant>
+  </canonskill>
+  <canonskill education='1' end='728296' experience='1' expidrefs='4' idrefs='4' lastused='1995' name='painting' start='727931'>
+    <variant>Painting</variant>
+    <variant>painting</variant>
+  </canonskill>
+  <canonskill name='quick learner'>
+    <variant>Fast-Learner</variant>
+  </canonskill>
+  <canonskill end='732314' experience='1' expidrefs='3' idrefs='3' lastused='2006' name='scanners' start='728296'>
+    <variant>scanning</variant>
+  </canonskill>
+  <canonskill name='self motivated'>
+    <variant>Self-Motivated</variant>
+  </canonskill>
+  <canonskill end='732314' experience='1' expidrefs='3' idrefs='3' lastused='2006' name='shipping' start='728296'>
+    <variant>shipping</variant>
+  </canonskill>
+  <canonskill name='teamwork'>
+    <variant>Teamwork</variant>
+  </canonskill>
+  <canonskill education='1' name='technician'>
+    <variant>Technician</variant>
+  </canonskill>
+  <canonskill name='tig'>
+    <variant>Tig</variant>
+  </canonskill>
+  <canonskill name='vietnamese'>
+    <variant>Vietnamese</variant>
+  </canonskill>
+  <canonskill education='1' name='welding'>
+    <variant>Welder</variant>
+    <variant>Welding</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

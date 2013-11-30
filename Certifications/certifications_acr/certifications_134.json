@@ -1,0 +1,439 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "HP Sales Certified - SMB Storage [2013]", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8884", 
+            "Certifying Organization": "Hewlett Packard Certification and Learning"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Solutions Expert - Red Brick Warehouse V6 System Administrator", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9408", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "SNIA Certified Storage Engineer", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "3810", 
+            "Certifying Organization": "Storage Networking Industry Association"
+        }, 
+        {
+            "Acronym": "EMCSA", 
+            "Certification Name": "Storage Administrator", 
+            "Type": "Advanced", 
+            "Certification ID": "5822", 
+            "Certifying Organization": "EMC Corporation"
+        }, 
+        {
+            "Acronym": "ISA", 
+            "Certification Name": "Information System Analyst", 
+            "Type": "Core", 
+            "Certification ID": "3547", 
+            "Certifying Organization": "Institute for the Certification of Computing Professionals"
+        }, 
+        {
+            "Acronym": "EMCDCA", 
+            "Certification Name": "Data Center Architect", 
+            "Type": "Core", 
+            "Certification ID": "6846", 
+            "Certifying Organization": "EMC Corporation"
+        }, 
+        {
+            "Acronym": "CBIP", 
+            "Certification Name": "Certified Business Intelligence Professional", 
+            "Type": "Core", 
+            "Certification ID": "7175", 
+            "Certifying Organization": "Institute for the Certification of Computing Professionals"
+        }, 
+        {
+            "Acronym": "AIDM", 
+            "Certification Name": "Associate Insurance Data Manager", 
+            "Type": "Specialty", 
+            "Certification ID": "1543", 
+            "Certifying Organization": "Insurance Data Management Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Oracle Database 11g: Data Warehousing Certified Implementation Specialist", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7050", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Microsoft Dynamics NAV 2009 Warehouse Management", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7582", 
+            "Certifying Organization": "Microsoft Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Cisco Data Center Storage Networking Design Specialist", 
+            "Type": "Core", 
+            "Certification ID": "8706", 
+            "Certifying Organization": "Cisco Systems, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Teradata 12 SQL", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9213", 
+            "Certifying Organization": "Teradata"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Teradata 12 Basics", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "2795", 
+            "Certifying Organization": "Teradata"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "HP AIS - StorageWorks Integration [2011]", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7216", 
+            "Certifying Organization": "Hewlett Packard Certification and Learning"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Sun Storage 7000 Unified Storage Systems Certified Implementation Specialist", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7136", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "NCDA", 
+            "Certification Name": "Certified Data Management Administrator", 
+            "Type": "Specialty", 
+            "Certification ID": "2320", 
+            "Certifying Organization": "Network Appliance, Inc."
+        }, 
+        {
+            "Acronym": "CDMP", 
+            "Certification Name": "Certified Data Management Professional", 
+            "Type": "Core", 
+            "Certification ID": "3546", 
+            "Certifying Organization": "Institute for the Certification of Computing Professionals"
+        }, 
+        {
+            "Acronym": "GISF", 
+            "Certification Name": "GIAC Information Security Fundamentals", 
+            "Type": "Core", 
+            "Certification ID": "4381", 
+            "Certifying Organization": "Global Information Assurance Certification"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Oracle Identity Analytics 11g Certified Implementation Specialist", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8513", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "HP Technical Certified I - SMB Storage Solutions [2012]", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8928", 
+            "Certifying Organization": "Hewlett Packard Certification and Learning"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Brocade Certified Fabric Administrator 16 Gbps", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "6253", 
+            "Certifying Organization": "Brocade Communications Systems, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Specialist - SPSS Modeler Professional v2", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9277", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Solution Advisor - Tivoli Storage Solutions V3", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "5019", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Teradata 14 Database Administrator", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9220", 
+            "Certifying Organization": "Teradata"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Sun Flash Storage Certified Implementation Specialist", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7138", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "HP APC - StorageWorks P9000 Solutions [2011]", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7222", 
+            "Certifying Organization": "Hewlett Packard Certification and Learning"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "CompTIA Cloud Essentials", 
+            "Type": "Core", 
+            "Certification ID": "7408", 
+            "Certifying Organization": "Computing Technology Industry Association (CompTIA)"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Sun Storage 6000 Arrays Certified Implementation Specialist", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8526", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Teradata 14 SQL", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9217", 
+            "Certifying Organization": "Teradata"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Teradata 12 Physical Design and Implementation", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9214", 
+            "Certifying Organization": "Teradata"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Solution Designer - Case Manager V5.1", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9331", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Teradata 12 Certified Technical Specialist", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "2794", 
+            "Certifying Organization": "Teradata"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Teradata 12 Certified Solutions Developer", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "2792", 
+            "Certifying Organization": "Teradata"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "HP APC - StorageWorks Solutions Architect [2011]", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7221", 
+            "Certifying Organization": "Hewlett Packard Certification and Learning"
+        }, 
+        {
+            "Acronym": "EMCCA", 
+            "Certification Name": "Cloud Architect", 
+            "Type": "Core", 
+            "Certification ID": "6847", 
+            "Certifying Organization": "EMC Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Brocade Certified Layer 4-7 Professional", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "6258", 
+            "Certifying Organization": "Brocade Communications Systems, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "HP Advanced Sales Certified - Enterprise Storage [2013]", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8881", 
+            "Certifying Organization": "Hewlett Packard Certification and Learning"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Teradata 14 Enterprise Architect", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9222", 
+            "Certifying Organization": "Teradata"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "SNIA Certified Storage Architect", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "3811", 
+            "Certifying Organization": "Storage Networking Industry Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "SNIA Certified Storage Networking Expert", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "3812", 
+            "Certifying Organization": "Storage Networking Industry Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "HP ATP - Storage Essentials v9", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8878", 
+            "Certifying Organization": "Hewlett Packard Certification and Learning"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Teradata 12 Certified Master V2R5", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9215", 
+            "Certifying Organization": "Teradata"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Solution Designer - InfoSphere Warehouse V9.5", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9366", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "CIDA", 
+            "Certification Name": "Certified Insurance Data Manager", 
+            "Type": "Specialty", 
+            "Certification ID": "1542", 
+            "Certifying Organization": "Insurance Data Management Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Teradata 14 Solutions Developer", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9221", 
+            "Certifying Organization": "Teradata"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Teradata 14 Physical Design and Implementation", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9218", 
+            "Certifying Organization": "Teradata"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Oracle Exadata 11g Certified Implementation Specialist", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7051", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Teradata 14 Certified Master", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9223", 
+            "Certifying Organization": "Teradata"
+        }, 
+        {
+            "Acronym": "CDIA+", 
+            "Certification Name": "Certified Document Imaging Architect", 
+            "Type": "Core", 
+            "Certification ID": "0372", 
+            "Certifying Organization": "Computing Technology Industry Association (CompTIA)"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "CompTIA Storage + Powered by SNIA", 
+            "Type": "Core", 
+            "Certification ID": "7407", 
+            "Certifying Organization": "Computing Technology Industry Association (CompTIA)"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Pillar Axiom 600 Storage System Certified Implementation Specialist", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8525", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Associate - SPSS Modeler Data Mining v2", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9276", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Teradata 14 Basics", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9216", 
+            "Certifying Organization": "Teradata"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Solution Implementer - Sterling B2B Integrator V5.2", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9324", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Cisco Data Center Storage Networking Support Specialist", 
+            "Type": "Core", 
+            "Certification ID": "8707", 
+            "Certifying Organization": "Cisco Systems, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "SNIA Certified  Storage Professional", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "3809", 
+            "Certifying Organization": "Storage Networking Industry Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Teradata 12 Certified Master", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "2796", 
+            "Certifying Organization": "Teradata"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Developer - Cognos 10 BI Data Warehouses", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9184", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "StorageTek Tape Libraries Certified Implementation Specialist", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7137", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Administrator - Sterling Connect:Direct", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9323", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Teradata 12 Certified Enterprise Architect", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "2793", 
+            "Certifying Organization": "Teradata"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Oracle Life Sciences Data Hub 2 Certified Implementation Specialist", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8504", 
+            "Certifying Organization": "Oracle Corporation"
+        }
+    ], 
+    "onet": "15119907"
+}

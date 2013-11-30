@@ -1,0 +1,26 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "TEFL", 
+            "Certification Name": "Teaching English as a Foreign Language", 
+            "Type": "Specialty", 
+            "Certification ID": "1221", 
+            "Certifying Organization": "Boston Language Institute"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "National Board Certification - Adolescence and Young Adulthood/English Language Arts", 
+            "Type": "Specialty", 
+            "Certification ID": "1307", 
+            "Certifying Organization": "National Board for Professional Teaching Standards"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "National Board Certification - Early Adolescence through Young Adulthood/English as a New Language", 
+            "Type": "Specialty", 
+            "Certification ID": "1310", 
+            "Certifying Organization": "National Board for Professional Teaching Standards"
+        }
+    ], 
+    "onet": "25112300"
+}

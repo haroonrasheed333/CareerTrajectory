@@ -1,0 +1,40 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CST", 
+            "Certification Name": "Sex Therapist Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "2096", 
+            "Certifying Organization": "American Association of Sexuality Educators, Counselors and Therapists"
+        }, 
+        {
+            "Acronym": "CSE", 
+            "Certification Name": "Sex Counselor Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "2095", 
+            "Certifying Organization": "American Association of Sexuality Educators, Counselors and Therapists"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Clinical Hypnotherapist", 
+            "Type": "Advanced", 
+            "Certification ID": "8841", 
+            "Certifying Organization": "National Board for Certified Clinical Hypnotherapists"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Sex Educator Certification", 
+            "Type": "Core", 
+            "Certification ID": "2094", 
+            "Certifying Organization": "American Association of Sexuality Educators, Counselors and Therapists"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Sex Therapist Supervisor Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "7850", 
+            "Certifying Organization": "American Association of Sexuality Educators, Counselors and Therapists"
+        }
+    ], 
+    "onet": "21201100"
+}

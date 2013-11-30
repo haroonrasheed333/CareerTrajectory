@@ -1,0 +1,229 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CPRP", 
+            "Certification Name": "Certified Park and Recreation Professional", 
+            "Type": "Core", 
+            "Certification ID": "0443", 
+            "Certifying Organization": "National Recreation and Park Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Personal Training", 
+            "Type": "Core", 
+            "Certification ID": "3970", 
+            "Certifying Organization": "International Sports Conditioning Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Womens Fitness Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "4653", 
+            "Certifying Organization": "International Fitness Professional Association"
+        }, 
+        {
+            "Acronym": "MCC", 
+            "Certification Name": "Master Cruise Counsellor", 
+            "Type": "Advanced", 
+            "Certification ID": "8007", 
+            "Certifying Organization": "Cruise Lines International Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Yoga Instructor Level II", 
+            "Type": "Advanced", 
+            "Certification ID": "3912", 
+            "Certifying Organization": "American Fitness Professionals and Associates"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Advanced Functional Training Specialist", 
+            "Type": "Core", 
+            "Certification ID": "4649", 
+            "Certifying Organization": "International Fitness Professional Association"
+        }, 
+        {
+            "Acronym": "CPRE", 
+            "Certification Name": "The Certified Park and Recreation Executive", 
+            "Type": "Advanced", 
+            "Certification ID": "8778", 
+            "Certifying Organization": "National Recreation and Park Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Yoga Instructor Level I", 
+            "Type": "Core", 
+            "Certification ID": "3911", 
+            "Certifying Organization": "American Fitness Professionals and Associates"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Special Events Professional", 
+            "Type": "Core", 
+            "Certification ID": "2232", 
+            "Certifying Organization": "International Special Events Society"
+        }, 
+        {
+            "Acronym": "CPSI", 
+            "Certification Name": "Certified Playground Safety Inspector", 
+            "Type": "Specialty", 
+            "Certification ID": "3132", 
+            "Certifying Organization": "National Recreation and Park Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Advanced Weight Management Instructor", 
+            "Type": "Advanced", 
+            "Certification ID": "4656", 
+            "Certifying Organization": "International Fitness Professional Association"
+        }, 
+        {
+            "Acronym": "ECCS", 
+            "Certification Name": "Elite Cruise Counsellor Scholar", 
+            "Type": "Advanced", 
+            "Certification ID": "8009", 
+            "Certifying Organization": "Cruise Lines International Association"
+        }, 
+        {
+            "Acronym": "PFT", 
+            "Certification Name": "Certified Personal Fitness Trainer", 
+            "Type": "Core", 
+            "Certification ID": "1251", 
+            "Certifying Organization": "National Board of Fitness Examiners"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Stability Ball Trainer Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "3913", 
+            "Certifying Organization": "American Fitness Professionals and Associates"
+        }, 
+        {
+            "Acronym": "ACC", 
+            "Certification Name": "Accredited Cruise Counsellor", 
+            "Type": "Core", 
+            "Certification ID": "8006", 
+            "Certifying Organization": "Cruise Lines International Association"
+        }, 
+        {
+            "Acronym": "ADC", 
+            "Certification Name": "Activity Director Certified", 
+            "Type": "Specialty", 
+            "Certification ID": "1231", 
+            "Certifying Organization": "National Certification Council for Activity Professionals"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Kick Boxing Level I", 
+            "Type": "Core", 
+            "Certification ID": "3968", 
+            "Certifying Organization": "International Sports Conditioning Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Advanced Flexibility Specialist", 
+            "Type": "Core", 
+            "Certification ID": "4657", 
+            "Certifying Organization": "International Fitness Professional Association"
+        }, 
+        {
+            "Acronym": "CTRS", 
+            "Certification Name": "Certified Therapeutic Recreation Specialist", 
+            "Type": "Core", 
+            "Certification ID": "2043", 
+            "Certifying Organization": "National Council for Therapeutic Recreation Certification, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Pilates Mat Level I", 
+            "Type": "Specialty", 
+            "Certification ID": "3971", 
+            "Certifying Organization": "International Sports Conditioning Association"
+        }, 
+        {
+            "Acronym": "YB", 
+            "Certification Name": "Yoga Ball", 
+            "Type": "Specialty", 
+            "Certification ID": "3972", 
+            "Certifying Organization": "International Sports Conditioning Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Kbox Round II", 
+            "Type": "Advanced", 
+            "Certification ID": "3969", 
+            "Certifying Organization": "International Sports Conditioning Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Fitness Facility Manager", 
+            "Type": "Core", 
+            "Certification ID": "4654", 
+            "Certifying Organization": "International Fitness Professional Association"
+        }, 
+        {
+            "Acronym": "CPT", 
+            "Certification Name": "Certified Personal Trainer", 
+            "Type": "Core", 
+            "Certification ID": "3901", 
+            "Certifying Organization": "American College of Sports Medicine"
+        }, 
+        {
+            "Acronym": "ECC", 
+            "Certification Name": "Elite Cruise Counsellor", 
+            "Type": "Advanced", 
+            "Certification ID": "8008", 
+            "Certifying Organization": "Cruise Lines International Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Boxing Level I", 
+            "Type": "Core", 
+            "Certification ID": "3967", 
+            "Certifying Organization": "International Sports Conditioning Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Functional Training Specialist Certification", 
+            "Type": "Core", 
+            "Certification ID": "3910", 
+            "Certifying Organization": "American Fitness Professionals and Associates"
+        }, 
+        {
+            "Acronym": "LCS", 
+            "Certification Name": "Luxury Cruise Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "8010", 
+            "Certifying Organization": "Cruise Lines International Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Sports Nutrition Consultant Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "3908", 
+            "Certifying Organization": "American Fitness Professionals and Associates"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Sports Conditioning Specialist Certification", 
+            "Type": "Core", 
+            "Certification ID": "3909", 
+            "Certifying Organization": "American Fitness Professionals and Associates"
+        }, 
+        {
+            "Acronym": "MCC", 
+            "Certification Name": "Master Certified Coach", 
+            "Type": "Core", 
+            "Certification ID": "2090", 
+            "Certifying Organization": "International Coach Federation"
+        }, 
+        {
+            "Acronym": "ADPC", 
+            "Certification Name": "Activity Director Provisionally Certified", 
+            "Type": "Specialty", 
+            "Certification ID": "1232", 
+            "Certifying Organization": "National Certification Council for Activity Professionals"
+        }
+    ], 
+    "onet": "39903200"
+}

@@ -1,0 +1,33 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Renewable Energy Photovoltaic and Small Wind Installer Level I Apprentice", 
+            "Type": "Core", 
+            "Certification ID": "6834", 
+            "Certifying Organization": "ETA International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Renewable Energy Photovoltaic and Small Wind Installer Level III Technician", 
+            "Type": "Advanced", 
+            "Certification ID": "6836", 
+            "Certifying Organization": "ETA International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Renewable Energy Photovoltaic and Small Wind Installer Level II Specialist", 
+            "Type": "Core", 
+            "Certification ID": "6835", 
+            "Certifying Organization": "ETA International"
+        }, 
+        {
+            "Acronym": "SWI", 
+            "Certification Name": "Small Wind Installer", 
+            "Type": "Advanced", 
+            "Certification ID": "7631", 
+            "Certifying Organization": "ETA International"
+        }
+    ], 
+    "onet": "49908100"
+}

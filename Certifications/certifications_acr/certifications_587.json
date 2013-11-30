@@ -1,0 +1,152 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CCAT", 
+            "Certification Name": "Certified Clinic Account Technician", 
+            "Type": "Core", 
+            "Certification ID": "3308", 
+            "Certifying Organization": "American Association of Healthcare Administrative Management"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Tax Certification", 
+            "Type": "Core", 
+            "Certification ID": "9401", 
+            "Certifying Organization": "National Bookkeepers Association"
+        }, 
+        {
+            "Acronym": "CAPA", 
+            "Certification Name": "Certified Accounts Payable Associate", 
+            "Type": "Core", 
+            "Certification ID": "6034", 
+            "Certifying Organization": "Institute of Financial Operations"
+        }, 
+        {
+            "Acronym": "CPP", 
+            "Certification Name": "Certified Profitability Professional", 
+            "Type": "Core", 
+            "Certification ID": "9051", 
+            "Certifying Organization": "Association for Management Information in Financial Services"
+        }, 
+        {
+            "Acronym": "CB", 
+            "Certification Name": "Certified Bookkeeper", 
+            "Type": "Core", 
+            "Certification ID": "4483", 
+            "Certifying Organization": "American Institute of Professional Bookkeepers"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "PeopleSoft 9.1 Financial Management: Payables Certified Implementation Specialist", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8475", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Oracle Fusion Financials 11g Accounts Payable Certified Implementation Specialist", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8488", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Bookkeepers Certification", 
+            "Type": "Core", 
+            "Certification ID": "9398", 
+            "Certifying Organization": "National Bookkeepers Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Oracle Fusion Financials 11g Accounts Receivable Certified Implementation Specialist", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8487", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "CAPP", 
+            "Certification Name": "Certified Accounts Payable Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "6033", 
+            "Certifying Organization": "Institute of Financial Operations"
+        }, 
+        {
+            "Acronym": "COE", 
+            "Certification Name": "Certified Operations Examiner", 
+            "Type": "Core", 
+            "Certification ID": "6893", 
+            "Certifying Organization": "Education Foundation of State Bank Supervisors"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Associate Certified Information Systems Examiner", 
+            "Type": "Specialty", 
+            "Certification ID": "6902", 
+            "Certifying Organization": "Education Foundation of State Bank Supervisors"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "QuickBooks Certification", 
+            "Type": "Core", 
+            "Certification ID": "9400", 
+            "Certifying Organization": "National Bookkeepers Association"
+        }, 
+        {
+            "Acronym": "CTE", 
+            "Certification Name": "Certified Trust Examiner", 
+            "Type": "Advanced", 
+            "Certification ID": "8802", 
+            "Certifying Organization": "Conference of State Bank Supervisors"
+        }, 
+        {
+            "Acronym": "AMA", 
+            "Certification Name": "Accredited Management Accountant", 
+            "Type": "Advanced", 
+            "Certification ID": "7932", 
+            "Certifying Organization": "American Academy of Financial Management"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Patient Account Technician", 
+            "Type": "Core", 
+            "Certification ID": "3307", 
+            "Certifying Organization": "American Association of Healthcare Administrative Management"
+        }, 
+        {
+            "Acronym": "CMA", 
+            "Certification Name": "Certified Management Accountant", 
+            "Type": "Core", 
+            "Certification ID": "0016", 
+            "Certifying Organization": "Institute of Management Accountants"
+        }, 
+        {
+            "Acronym": "CPP", 
+            "Certification Name": "Certified Payroll Professional", 
+            "Type": "Core", 
+            "Certification ID": "0486", 
+            "Certifying Organization": "American Payroll Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Oracle Fusion Financials 11g General Ledger Certified Implementation Specialist", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8493", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Oracle E-Business Suite R12 Financials Certified Expert Consultant, Receivables", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8480", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Management Accountant Certification", 
+            "Type": "Core", 
+            "Certification ID": "9494", 
+            "Certifying Organization": "Global Academy of Finance & Management"
+        }
+    ], 
+    "onet": "43303100"
+}

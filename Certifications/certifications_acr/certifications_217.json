@@ -1,0 +1,54 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "PWS", 
+            "Certification Name": "Professional Wetland Scientist", 
+            "Type": "Advanced", 
+            "Certification ID": "1033", 
+            "Certifying Organization": "Society of Wetland Scientists"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Clinical Cytogenetics", 
+            "Type": "Specialty", 
+            "Certification ID": "0191", 
+            "Certifying Organization": "American Board of Medical Genetics"
+        }, 
+        {
+            "Acronym": "BCE", 
+            "Certification Name": "Board Certified Entomologist", 
+            "Type": "Advanced", 
+            "Certification ID": "1772", 
+            "Certifying Organization": "Entomological Society of America"
+        }, 
+        {
+            "Acronym": "WPIT", 
+            "Certification Name": "Wetland Professional in Training", 
+            "Type": "Advanced", 
+            "Certification ID": "1034", 
+            "Certifying Organization": "Society of Wetland Scientists"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Clinical Biochemical Genetics", 
+            "Type": "Specialty", 
+            "Certification ID": "0190", 
+            "Certifying Organization": "American Board of Medical Genetics"
+        }, 
+        {
+            "Acronym": "CES", 
+            "Certification Name": "Certified Environmental Scientist", 
+            "Type": "Core", 
+            "Certification ID": "6699", 
+            "Certifying Organization": "National Registry of Environmental Professionals"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Clinical Molecular Genetics", 
+            "Type": "Specialty", 
+            "Certification ID": "0193", 
+            "Certifying Organization": "American Board of Medical Genetics"
+        }
+    ], 
+    "onet": "19102001"
+}

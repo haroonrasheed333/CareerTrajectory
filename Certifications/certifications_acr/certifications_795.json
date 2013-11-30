@@ -1,0 +1,33 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CPFDA", 
+            "Certification Name": "Certified Preventative Functions Dental Assistant", 
+            "Type": "Core", 
+            "Certification ID": "7339", 
+            "Certifying Organization": "Dental Assisting National Board"
+        }, 
+        {
+            "Acronym": "CDT", 
+            "Certification Name": "Certified Dental Technician", 
+            "Type": "Core", 
+            "Certification ID": "0515", 
+            "Certifying Organization": "National Board for Certification - National Association of Dental Laboratories"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Dental Technician", 
+            "Type": "Core", 
+            "Certification ID": "5633", 
+            "Certifying Organization": "National Board for Certification in Dental Laboratory Technology"
+        }, 
+        {
+            "Acronym": "RG", 
+            "Certification Name": "Recognized Graduate", 
+            "Type": "Core", 
+            "Certification ID": "6697", 
+            "Certifying Organization": "National Board for Certification in Dental Laboratory Technology"
+        }
+    ], 
+    "onet": "51908100"
+}

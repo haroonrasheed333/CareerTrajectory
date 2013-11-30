@@ -1,0 +1,47 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "ALAT/RALAT", 
+            "Certification Name": "Assistant Laboratory Animal Technician", 
+            "Type": "Core", 
+            "Certification ID": "2366", 
+            "Certifying Organization": "American Association for Laboratory Animal Science"
+        }, 
+        {
+            "Acronym": "CVPM", 
+            "Certification Name": "Certified Veterinary Practice Manager", 
+            "Type": "Core", 
+            "Certification ID": "6066", 
+            "Certifying Organization": "Veterinary  Hospital Managers Association, Inc."
+        }, 
+        {
+            "Acronym": "DVR", 
+            "Certification Name": "Veterinary Radiology", 
+            "Type": "Specialty", 
+            "Certification ID": "5637", 
+            "Certifying Organization": "American College of Veterinary Radiology"
+        }, 
+        {
+            "Acronym": "LATG", 
+            "Certification Name": "Laboratory Animal Technologist", 
+            "Type": "Advanced", 
+            "Certification ID": "2368", 
+            "Certifying Organization": "American Association for Laboratory Animal Science"
+        }, 
+        {
+            "Acronym": "CMAR", 
+            "Certification Name": "Certified Manager Animal Resources", 
+            "Type": "Core", 
+            "Certification ID": "2367", 
+            "Certifying Organization": "American Association for Laboratory Animal Science"
+        }, 
+        {
+            "Acronym": "LAT", 
+            "Certification Name": "Laboratory Animal Technician", 
+            "Type": "Core", 
+            "Certification ID": "2369", 
+            "Certifying Organization": "American Association for Laboratory Animal Science"
+        }
+    ], 
+    "onet": "31909600"
+}

@@ -1,0 +1,299 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734586' xml:space='preserve'><contact><name><givenname>Robert</givenname> (<nickname>Doug</nickname>) <givenname>Douglas</givenname> <surname>Crank</surname></name>
+<address lat='39.5342' lon='77.3024' majorcity='WOODSBORO' state='MD'><street>11620 Whiskey Springs Rd.</street> <city>Woodsboro</city>, <state abbrev='MD'>MD</state> <postalcode>21798</postalcode></address> (near Frederick, MD)
+<email>Doug.Crank.1@gmail.com</email> (cell <phone type='cell'>301.676.2529</phone> )</contact>
+
+<summary><summary>I am an experienced software developer seeking a position building innovative, enterprise level
+Java and Web applications. My strong development background and wide variety of skills gives
+me the ability to pick up and apply new technologies quickly. My ideal company would have an
+appreciation for multi-faceted, creative developers. A final product should reflect the developers
+and architects behind it.</summary></summary>
+
+<skills><skills>Technologies, Languages, Frameworks
+ 13 years of Java                                      XML, XSLT, XMLBeans,
+ Java Script, DHTML, DOM                               SAX
+ JSP, Java Servlets, Perl CGI                          Eclipse, SoapUI Pro, VisualVM
+ SQL, JDBC                                             REST, SOAP, WS, WSRP
+ Perl5.003, Perl/Tk                                    RMI
+ Java Swing                                            HTTP, HTML, CSS, DOM, AJAX
+ `C', Tcl/Tk, Expect                                   jQuery
+ IBM Assembler language                                Business Objects</skills></skills>
+
+                                  <experience end='present' start='729392'>Work Experience
+<job end='present' id='1' pos='1' start='733379'><title>Web Developer</title>, <employer>Akimeka/VSE Corporation</employer>, <address><city>Frederick</city>, <state abbrev='MD'>MD</state></address>
+(<daterange><start days='733379' iso8601='2008-12-01'>Dec/2008</start> ­ <end days='present' iso8601='2012-03-22'>present</end></daterange>)
+
+    <description>Added Digital Signature support (SHA-256) to web services.
+    Implemented a Web Services Remote Portlet (WSRP in Liferay Portal) using jQuery UI.
+    Developed Business Objects universes and associated reports.
+    Currently chasing JVM memory leaks in Tomcat servlets and OC4J/Liferay portlets.</description></job>
+
+
+<job id='2' start='732039'><title>Senior Software Engineer</title>, <employer>BroadSoft, Inc</employer>.,     <address><city>Gaithersburg</city>, <state abbrev='MD'>MD</state></address>
+(<daterange><start days='732039' iso8601='2005-04-01'>April/2005</start> ­ <end>October</end>/<start days='733044' iso8601='2008-01-01'>2008</start></daterange>)
+
+    <description>Grew and supported 1000's of JSP pages, and peer Java code on a provisioning server, that
+    allows access and updates to a large TimesTen/Oracle database. All pages follow a common
+    pattern of read, update, and write current values. Simple form validation was done on the
+    browser, and all business logic resides on the server.
+    Added to the XML schema, consisting of 1000's of complex types, that defines the
+    provisioning API. Extended the provisioning API Java code within a highly optimized, layered
+    business logic-to-database level framework. The process included peer review of all
+    functional specifications and code. Used Java, Javascript, JSP, HTML/CSS, XML, XSLT,
+    XML Schema, XMLBeans, TimesTen/Oracle SQL.
+    Wrote servlets to support REST style requests to provision users in the database. Also wrote
+    test pages for each transaction using AJAX within the Prototype.js framework.
+    Supported and extended a SOAP transport of the provisioning XML schema; the different
+    payload simply required use of a different communication path on towards the provisioning
+    server.</description></job>
+
+
+<job end='732039' id='3' pos='2' start='729392'><title>Senior Software Developer</title>,    <employer>eServices Group, Inc</employer>.,    <address><city>Frederick</city>, <state abbrev='MD'>MD</state></address>
+(<daterange><start days='729392' iso8601='1998-01-01'>1998</start> ­ <end days='732039' iso8601='2005-04-01'>April/2005</end></daterange>)
+
+    <description>Wrote the final 90% of and assisted with the implementation of a high speed scanner
+    application and operator GUI (using Swing), for Florida Medicaid, which processed over
+    300,000 health care claims per day, generating gigabytes of mainframe-generated report data
+    per week. The GUI allowed the operator to control all aspects of the setup and operation,
+    minimizing operator error from manual control. It is my understanding this application and
+    GUI are still used by Florida Medicaid.
+    Designed, wrote and assisted in testing and implementing a CD-ROM Jukebox storage and
+    retrieval subsystem for large volumes of document image, EDI, and report data. This</description></job></experience>
+                                                                                         Page 1 of 2
+<contact><name><givenname>Robert</givenname> (<nickname>Doug</nickname>) <givenname>Douglas</givenname> <surname>Crank</surname></name>
+<address lat='39.5342' lon='77.3024' majorcity='WOODSBORO' state='MD'><street>11620 Whiskey Springs Rd.</street> <city>Woodsboro</city>, <state abbrev='MD'>MD</state> <postalcode>21798</postalcode></address> (near Frederick, MD)
+<email>Doug.Crank.1@gmail.com</email> (cell <phone type='cell'>301.676.2529</phone> )</contact>
+
+   <experience end='729392' start='725739'><job end='729392' id='4' pos='3' start='725739'><description>repository provided access to claim data over the Internet to thousands of state government
+   and fiscal agent employees, and to over 80,000 healthcare providers. Also designed and
+   wrote a separate Swing GUI to control and monitor the Jukebox, using RMI to communicate
+   with it.
+   Designed and wrote an HTML forms based EDI generator. The user enters health care
+   information over multiple web pages, with supplied, optional, and required fields. A servlet
+   then correlates that (possibly sparse) data with an XML description of the target EDI
+   transaction, and generates syntactically valid EDI.
+   Designed and wrote an EDI syntax validator using Rhino Javascript embedded in a Java
+   application. This was driven by an XML description of each EDI transaction type.
+   Designed and wrote an IBM Host On Demand screen scraper. This automatically steps
+   through a complex screen hierarchy extracting predetermined fields and saving them to
+   LotusNotes.
+   Prototyped an IVR script interpreter of a small language similar to VoiceXML. Designed and
+   wrote an IVR application, and web access, to the Commonwealth of VA Self-Service
+   Employee Benefits Eligibility System (BES). This system supports approximately 120,000
+   Commonwealth employees and retirees, and enables them to access their benefits
+   information from the web or a telephone. This system used Nuance V-Builder and Voice Web
+   Server, with voice recognition and voice print security, interacting with a UNISYS mainframe.
+   Designed and wrote PDF report generators to summarize EDI transaction history, using
+   iReport to visually layout the report and generate an XML description, and JasperReports
+   (with iText) to generate the PDF.</description>
+
+
+<title>Senior Design Engineer</title>,   <employer>General Electric Information Services</employer>,     <address><city>Rockville</city>, <state abbrev='MD'>MD</state></address>
+(<daterange><start days='725739' iso8601='1988-01-01'>1988</start> ­ <end days='729392' iso8601='1998-01-01'>1998</end></daterange>)
+
+   <description>Wrote and assisted in developing several protocol converters between SNA LU6.2 and the
+   GEIS proprietary network, in IBM Assembler and `C'.
+   Wrote an HTML form based Perl CGI to monitor 24x7 GEIS-hosted applications through a V-
+   One firewall.</description></job></experience>
+
+<education>Education
+ <school id='5'><degree level='16' name='Bachelor of Science'>B.S</degree>. <major code='0402'>Computer Science</major>, <institution>Kansas State University</institution></school>
+ <school id='6'><degree level='18' name='Master of Science'>M.S</degree>. <major code='0402'>Computer Science</major>, <institution>Kansas State University</institution></school></education>
+
+
+
+
+</resume>
+
+<skillrollup version='1'>
+  <canonskill experience='1' expidrefs='2' idrefs='2' name='api' start='732039'>
+    <variant>API</variant>
+  </canonskill>
+  <canonskill experience='1' name='benefits administration'>
+    <variant>Benefits</variant>
+    <variant>benefits</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='business objects' start='733379'>
+    <variant>Business Objects</variant>
+  </canonskill>
+  <canonskill end='729392' experience='1' expidrefs='4' idrefs='4' lastused='1998' name='c' start='725739'>
+    <variant>C</variant>
+  </canonskill>
+  <canonskill end='732039' experience='1' expidrefs='3' idrefs='3' lastused='2005' name='cd - rom' start='729392'>
+    <variant>CD-ROM</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='2' idrefs='2' name='css' start='732039'>
+    <variant>CSS</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='2' idrefs='2' name='database administration' start='732039'>
+    <variant>database</variant>
+  </canonskill>
+  <canonskill name='dhtml'>
+    <variant>DHTML</variant>
+  </canonskill>
+  <canonskill name='dom'>
+    <variant>DOM</variant>
+  </canonskill>
+  <canonskill name='eclipse'>
+    <variant>Eclipse</variant>
+  </canonskill>
+  <canonskill end='732039' experience='1' expidrefs='3' idrefs='3' lastused='2005' name='electronic data interchange' start='729392'>
+    <variant>EDI</variant>
+  </canonskill>
+  <canonskill end='729392' experience='1' expidrefs='4' idrefs='4' lastused='1998' name='firewalls' start='725739'>
+    <variant>firewall</variant>
+  </canonskill>
+  <canonskill experience='1' name='forms'>
+    <variant>forms</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='2' idrefs='2' name='functional' start='732039'>
+    <variant>functional</variant>
+  </canonskill>
+  <canonskill experience='1' name='government'>
+    <variant>government</variant>
+  </canonskill>
+  <canonskill end='732039' experience='1' expidrefs='3' idrefs='3' lastused='2005' name='graphical user interface' start='729392'>
+    <variant>GUI</variant>
+  </canonskill>
+  <canonskill end='729392' experience='1' expidrefs='2,4' idrefs='2,4' lastused='1998' name='html' start='725739'>
+    <variant>HTML</variant>
+  </canonskill>
+  <canonskill name='http'>
+    <variant>HTTP</variant>
+  </canonskill>
+  <canonskill experience='1' name='ibm'>
+    <variant>IBM</variant>
+  </canonskill>
+  <canonskill end='729392' experience='1' expidrefs='4' idrefs='4' lastused='1998' name='ibm assembler' start='725739'>
+    <variant>IBM Assembler</variant>
+  </canonskill>
+  <canonskill end='732039' experience='1' expidrefs='3' idrefs='3' lastused='2005' name='imaging' start='729392'>
+    <variant>image</variant>
+  </canonskill>
+  <canonskill experience='1' name='ivr'>
+    <variant>IVR</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='2' idrefs='2' name='java' start='732039'>
+    <variant>Java</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='2' idrefs='2' name='java server pages' start='732039'>
+    <variant>JSP</variant>
+  </canonskill>
+  <canonskill name='java servlets'>
+    <variant>Java Servlets</variant>
+  </canonskill>
+  <canonskill name='java swing'>
+    <variant>Java Swing</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='2' idrefs='2' name='javascript' start='732039'>
+    <variant>Javascript</variant>
+    <variant>Java Script</variant>
+  </canonskill>
+  <canonskill name='jdbc'>
+    <variant>JDBC</variant>
+  </canonskill>
+  <canonskill name='languages'>
+    <variant>Languages</variant>
+  </canonskill>
+  <canonskill experience='1' name='layout design'>
+    <variant>layout</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='2' idrefs='2' name='logic' start='732039'>
+    <variant>logic</variant>
+  </canonskill>
+  <canonskill experience='1' name='lotusnotes'>
+    <variant>LotusNotes</variant>
+  </canonskill>
+  <canonskill end='732039' experience='1' expidrefs='3' idrefs='3' lastused='2005' name='mainframe' start='729392'>
+    <variant>mainframe</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='memory' start='733379'>
+    <variant>memory</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='2' idrefs='2' name='microsoft access' start='732039'>
+    <variant>access</variant>
+  </canonskill>
+  <canonskill end='729392' experience='1' expidrefs='4' idrefs='4' lastused='1998' name='networking' start='725739'>
+    <variant>network</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='2' idrefs='2' name='oracle dba' start='732039'>
+    <variant>Oracle database</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='2' idrefs='2' name='oracle sql' start='732039'>
+    <variant>Oracle SQL</variant>
+  </canonskill>
+  <canonskill experience='1' name='pdf'>
+    <variant>PDF</variant>
+  </canonskill>
+  <canonskill name='perl'>
+    <variant>Perl</variant>
+  </canonskill>
+  <canonskill name='perl 5'>
+    <variant>Perl5</variant>
+  </canonskill>
+  <canonskill end='729392' experience='1' expidrefs='4' idrefs='4' lastused='1998' name='perl cgi' start='725739'>
+    <variant>Perl CGI</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='2' idrefs='2' name='read' start='732039'>
+    <variant>read</variant>
+  </canonskill>
+  <canonskill experience='1' name='rmi'>
+    <variant>RMI</variant>
+  </canonskill>
+  <canonskill end='732039' experience='1' expidrefs='3' idrefs='3' lastused='2005' name='scanners' start='729392'>
+    <variant>scanner</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='servlets' start='732039'>
+    <variant>servlet</variant>
+    <variant>servlets</variant>
+  </canonskill>
+  <canonskill experience='1' name='shell scripting'>
+    <variant>script</variant>
+  </canonskill>
+  <canonskill end='729392' experience='1' expidrefs='4' idrefs='4' lastused='1998' name='sna' start='725739'>
+    <variant>SNA</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='2' idrefs='2' name='soap' start='732039'>
+    <variant>SOAP</variant>
+  </canonskill>
+  <canonskill name='sql'>
+    <variant>SQL</variant>
+  </canonskill>
+  <canonskill end='732039' experience='1' expidrefs='3' idrefs='3' lastused='2005' name='swing' start='729392'>
+    <variant>Swing</variant>
+  </canonskill>
+  <canonskill name='tcl/tk'>
+    <variant>Tcl/Tk</variant>
+  </canonskill>
+  <canonskill experience='1' name='telephone skills'>
+    <variant>telephone</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='tomcat' start='733379'>
+    <variant>Tomcat</variant>
+  </canonskill>
+  <canonskill experience='1' name='typing'>
+    <variant>type</variant>
+  </canonskill>
+  <canonskill experience='1' name='unisys'>
+    <variant>UNISYS</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='2' idrefs='2' name='validation' start='732039'>
+    <variant>validation</variant>
+  </canonskill>
+  <canonskill experience='1' name='web servers'>
+    <variant>Web
+   Server</variant>
+  </canonskill>
+  <canonskill experience='1' name='web site production'>
+    <variant>web pages</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='2' idrefs='2' name='xml' start='732039'>
+    <variant>XML</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='2' idrefs='2' name='xslt' start='732039'>
+    <variant>XSLT</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

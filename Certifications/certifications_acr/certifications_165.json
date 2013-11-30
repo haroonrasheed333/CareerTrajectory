@@ -1,0 +1,89 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Product Safety Engineer Certification", 
+            "Type": "Core", 
+            "Certification ID": "7748", 
+            "Certifying Organization": "International Association for Radio, Telecommunications and  Electromagnetics"
+        }, 
+        {
+            "Acronym": "CRE", 
+            "Certification Name": "Certified Reliability Engineer", 
+            "Type": "Advanced", 
+            "Certification ID": "0792", 
+            "Certifying Organization": "American Society for Quality"
+        }, 
+        {
+            "Acronym": "CPSM", 
+            "Certification Name": "Certified Product Safety Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "7879", 
+            "Certifying Organization": "International Board for Certification of Safety Managers"
+        }, 
+        {
+            "Acronym": "CHCM", 
+            "Certification Name": "Certified Hazard Control Manager", 
+            "Type": "Specialty", 
+            "Certification ID": "7878", 
+            "Certifying Organization": "International Board for Certification of Safety Managers"
+        }, 
+        {
+            "Acronym": "CHSP", 
+            "Certification Name": "Certified Healthcare Safety Professional", 
+            "Type": "Specialty", 
+            "Certification ID": "0662", 
+            "Certifying Organization": "International Board for Certification of Safety Managers"
+        }, 
+        {
+            "Acronym": "CMRP", 
+            "Certification Name": "Certified Maintenance & Reliability Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "7991", 
+            "Certifying Organization": "Society for Maintenance & Reliability Professionals"
+        }, 
+        {
+            "Acronym": "CPIA", 
+            "Certification Name": "Certified Professional IACUC Administrator", 
+            "Type": "Advanced", 
+            "Certification ID": "6873", 
+            "Certifying Organization": "Public Responsibility in Medicine and Research"
+        }, 
+        {
+            "Acronym": "RRS", 
+            "Certification Name": "Radon Mitigation Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "2163", 
+            "Certifying Organization": "National Radon Safety Board"
+        }, 
+        {
+            "Acronym": "GDTP", 
+            "Certification Name": "Geometric Dimensioning & Tolerancing Professional - Technologist", 
+            "Type": "Advanced", 
+            "Certification ID": "2153", 
+            "Certifying Organization": "American Society of Mechanical Engineers International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Gas Laboratory Technician", 
+            "Type": "Core", 
+            "Certification ID": "8662", 
+            "Certifying Organization": "CSA Standards"
+        }, 
+        {
+            "Acronym": "WSO-CSM", 
+            "Certification Name": "WSO - Certified Safety Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "0996", 
+            "Certifying Organization": "World Safety Organization"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Product Safety Engineer", 
+            "Type": "Core", 
+            "Certification ID": "4803", 
+            "Certifying Organization": "National Association of Radio and Telecommunications Engineers, Inc."
+        }
+    ], 
+    "onet": "17211103"
+}

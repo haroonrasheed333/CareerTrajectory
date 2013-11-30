@@ -1,0 +1,19 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CMDSM", 
+            "Certification Name": "Certified Mail and Distribution Systems Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "5452", 
+            "Certifying Organization": "Mail Systems Management Association "
+        }, 
+        {
+            "Acronym": "CMM", 
+            "Certification Name": "Certified Mail Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "7689", 
+            "Certifying Organization": "In-Plant Printing and Mailing Association"
+        }
+    ], 
+    "onet": "11913100"
+}

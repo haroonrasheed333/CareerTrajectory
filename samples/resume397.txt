@@ -1,0 +1,183 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734593' xml:space='preserve'>                                                                                         <contact><name><givenname>Ashita</givenname> <surname>Dave</surname></name>
+                                                                                 <email>Adave.utk@gmail.com</email>
+                                                                                    Ph: <phone>916-467-9335</phone></contact>
+
+<education>EDUCATION
+<school id='6'><degree level='18' name='Master of Science'>Master of Science</degree> in <major code='0202 0206'>Biochemistry, Cellular and Molecular Biology</major>                                    <completiondate days='733775' iso8601='2010-01-01'>2010</completiondate>
+<institution>University of Tennessee</institution>                                                                      <address lat='41.9584' lon='-77.4385' majorcity='KNOXVILLE' state='PA'><city>Knoxville</city>, <state abbrev='TN'>TN</state></address></school>
+
+<school id='7'><degree level='16' name='Bachelor of Science'>Bachelor of Science</degree> in <major code='0202 0206'>Biochemistry, Cellular and Molecular Biology</major>                                  <completiondate days='731949' iso8601='2005-01-01'>2005</completiondate>
+Minor: <minor code='0214'>Nutrition</minor>
+<institution>University of Tennessee</institution>                                                                      <address><city>Knoxville</city>, <state abbrev='TN'>TN</state></address></school>
+
+<school id='8'><degree level='14'>Associates of Arts</degree> in <major code='0202'>Biology</major>                                                                        <completiondate days='730853' iso8601='2002-01-01'>2002</completiondate>
+<institution>Pellissippi State Community College</institution>,                                                         <address><city>Knoxville</city>, <state abbrev='TN'>TN</state></address></school></education>
+
+<experience end='present' start='731583'>EXPERIENCE
+<job end='present' id='1' pos='1' start='734140'><title>Biological Science Technician</title>                                                                <daterange><start days='734140' iso8601='2011-01-01'>2011</start>-<end days='present' iso8601='2012-03-29'>Present</end></daterange>
+<employer>USDA-ARS</employer>                                                                                        <address><city>Davis</city>, <state abbrev='CA'>CA</state></address>
+    - <description>Agrobacterium transformation
+    - DNA extraction
+    - TNA extraction using MagMax Express Magnetic Particle Processor
+    - TA/TOPO cloning, restriction digest, ligation, transformation
+    - Total and dsRNA extraction
+    - TaqMan assay
+    - cDNA construction
+    - qPCR, RT-PCR
+    - ELISA
+    - Dot blot, Western Blot
+    - SDS-PAGE, Agarose Gels</description></job>
+
+<job end='733775' id='2' pos='2' sic='821103' sic2='82' start='732314'><title>Graduate Research Assistant</title>                                                                  <daterange><start days='732314' iso8601='2006-01-01'>2006</start>-<end days='733775' iso8601='2010-01-01'>2010</end></daterange>
+<employer>University of Tennessee</employer>                                                                      <address><city>Knoxville</city>, <state abbrev='TN'>TN</state></address>
+   -     <description>DNA isolation, gel extraction, clean-up and quantification
+   -     Plasmid transformation, cloning
+   -     Maintain competent cells stocks
+   -     media preparation, maintain bacterial culture growth
+   -     Prepare and run DNA (agarose) and protein gels (tris-tricine, bis-tris, SDS-PAGE)
+   -     Protein expression and purification (IMPACT- system)
+   -     Western Blot
+   -     Affinity purification of antibodies
+   -     Chloroplast isolation and envelope membrane extraction, antibody labeling
+   -     HPLC, CD, MALDI-TOF
+   -     Flow cytometry
+   -     Calibrate pH meters, micropipettes
+   -     Data entry, data recording, lab notebook , lab supplies inventory
+   -     Other daily activities related to the lab maintenance</description></job>
+
+<job end='733410' id='3' pos='3' sic='821103' sic2='82' start='732314'><title>Graduate Teaching Assistant</title> ­ for Biology and Biochemistry                                    <daterange><start days='732314' iso8601='2006-01-01'>2006</start>-<end days='733410' iso8601='2009-01-01'>2009</end></daterange>
+<employer>University of Tennessee</employer>                                                                      <address><city>Knoxville</city>, <state abbrev='TN'>TN</state></address>
+    - <description>Collaborate on curriculum and exam development
+    - meet with students upon request
+    - Grade all written work, including final exams</description></job>
+
+<job end='732314' id='4' naics='45211101' naics2='45' pos='4' sic='531102' sic2='53' start='731583'><title>Certified Pharmacy Technician</title>                                                                 <daterange><start days='731583' iso8601='2004-01-01'>2004</start>-<end days='732314' iso8601='2006-01-01'>2006</end></daterange>
+<employer>Target Corporation</employer>                                                                           <address><city>Knoxville</city>, <state abbrev='TN'>TN</state></address>
+    - Prepare prescriptions
+    - <description>Insurance claim submission
+                                                                                      Ashita Dave
+                                                                              Adave.utk@gmail.com
+                                                                                 Ph: 916-467-9335
+
+    - Stock and take inventory of prescription and OTC medication</description></job>
+    -
+<job end='731949' id='5' pos='5' sic='821103' sic2='82' start='731583'><title>Undergraduate Student Researcher</title> in Genetics Laboratory                                     <daterange><start days='731583' iso8601='2004-01-01'>2004</start>-<end days='731949' iso8601='2005-01-01'>2005</end></daterange>
+<employer>University of Tennessee</employer>                                                                    <address><city>Knoxville</city>, <state abbrev='TN'>TN</state></address>
+    - <description>Sort, isolate, cross Drosophila melanogaster
+    - Examine under a microscope
+    - Basic laboratory maintenance</description></job></experience>
+
+<professional>PUBLICATIONS
+   - <publications>Ashita Dave. Structural and functional analysis of Toc75. Master's thesis, University of Tennessee,
+      2010. http://trace.tennessee.edu/utk_gradthes/787/
+   - Jian Feng, Jordan Grubbs, Ashita Dave, Sumit Goswami, Carolin Glyn Horner, and Elizabeth E.
+      Howell. Radical Redesign of a Tandem Array of Four R67 Dihydrofolate Reductase Genes Yields a
+      Functional, Folded Protein Possessing 45 Substitutions. Biochemistry, 2010, Volume 49 (34),
+      pages 7384-7392. http://www.ncbi.nlm.nih.gov/pubmed/20684560
+   - L. Evan Reddick, Prakitchai Chotewutmontri, Will Crenshaw, Ashita Dave, Michael Vaughn, and
+      Barry D. Bruce. Nano-scale Characterization of the Dynamics of the Chloroplast Translocon.
+      Methods in Cell Biology, 2008, Chapter 16, Volume 90; pages 361-393.</publications></professional>
+      <statements><personal>http://www.researchgate.net/publication/23981955_Nano-
+      scale_characterization_of_the_dynamics_of_the_chloroplast_Toc_translocon</personal></statements>
+
+<skills>SKILL SET
+   - Proficient in <skills>Molecular Biology ­ DNA alignment software (DNAStar) and analysis of DNA Output
+   - Proficient in using NCBI database
+   - Proficient with VMD
+   - Proficient in Microsoft Office Suite [Word, Excel, PowerPoint], Adobe Acrobat
+   - Proficient using EndNote Reference
+   - Familiar with Webpage Design [XHTML]
+
+ACCOMPLISHMENTS
+   - Antibody test results published in Agrisera company's product catalog                    2010</skills></skills>
+     <statements>http://www.agrisera.com/en/artiklar/plant_algal-<activities>cell-biology/photosynthesis-/antibodies-to-
+     chloroplast-outer-and-inner-membrane-proteins/toc75-potra-domain-3.html
+   - Plant Research Center Travel Fellowship                                                  2010
+   - Science fair judge, Episcopal School of Knoxville, TN                                    2008
+   - Demonstrated affinity chromatography to high school teachers                             2008
+   - Graduate student mentor for new students                                                 2008</activities></statements>
+
+<professional>AFFILIATIONS
+   - <affiliations>American Society of Plant Biologists                                                   2010-2011
+   - American Association for the Advancement of Science                                    2007-2010
+   - University Libraries' Dean's Student Advisory Committee (DSAC)                         2008-2009
+   - Undergrad Nutrition Student Association, Member                                        2004-2005
+   - Manthan ­ Indian Student Association, Member                                           2002-2005
+   - Phi Theta Kappa International Honors Society, Vice President                           2001-2002
+   - International Club, Vice President                                                     2001-2002
+   - Biology Club, Service Coordinator                                                      2001-2002
+   - Sigma Theta Alpha, Member                                                              2001-2002</affiliations></professional>
+</resume>
+
+<skillrollup version='1'>
+  <canonskill name='adobe acrobat'>
+    <variant>Adobe Acrobat</variant>
+  </canonskill>
+  <canonskill end='731949' experience='1' expidrefs='5' idrefs='5' lastused='2005' name='basic' start='731583'>
+    <variant>Basic</variant>
+  </canonskill>
+  <canonskill name='catalogs'>
+    <variant>catalog</variant>
+  </canonskill>
+  <canonskill end='733775' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='cd' start='732314'>
+    <variant>CD</variant>
+  </canonskill>
+  <canonskill end='732314' experience='1' expidrefs='4' idrefs='4' lastused='2006' name='com' start='731583'>
+    <variant>com</variant>
+  </canonskill>
+  <canonskill end='733775' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='data entry' start='732314'>
+    <variant>Data entry</variant>
+  </canonskill>
+  <canonskill name='database administration'>
+    <variant>database</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='elisa' start='734140'>
+    <variant>ELISA</variant>
+  </canonskill>
+  <canonskill end='733775' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='hplc' start='732314'>
+    <variant>HPLC</variant>
+  </canonskill>
+  <canonskill end='732314' experience='1' expidrefs='4' idrefs='4' lastused='2006' name='insurance' start='731583'>
+    <variant>Insurance</variant>
+  </canonskill>
+  <canonskill end='733775' experience='1' expidrefs='2,4' idrefs='2,4' lastused='2010' name='inventory management' start='731583'>
+    <variant>inventory</variant>
+  </canonskill>
+  <canonskill name='microsoft excel'>
+    <variant>Excel</variant>
+  </canonskill>
+  <canonskill name='microsoft office'>
+    <variant>Microsoft Office Suite</variant>
+  </canonskill>
+  <canonskill name='microsoft powerpoint'>
+    <variant>PowerPoint</variant>
+  </canonskill>
+  <canonskill name='microsoft word'>
+    <variant>Word</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='page' start='732314'>
+    <variant>PAGE</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='quark xpress' start='734140'>
+    <variant>Express</variant>
+  </canonskill>
+  <canonskill end='733775' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='recording' start='732314'>
+    <variant>recording</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='rtpcr' start='734140'>
+    <variant>RT-PCR</variant>
+  </canonskill>
+  <canonskill name='web site production'>
+    <variant>Webpage Design</variant>
+  </canonskill>
+  <canonskill end='733410' experience='1' expidrefs='3' idrefs='3' lastused='2009' name='writing' start='732314'>
+    <variant>written</variant>
+  </canonskill>
+  <canonskill name='xhtml'>
+    <variant>XHTML</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

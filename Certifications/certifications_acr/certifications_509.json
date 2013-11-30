@@ -1,0 +1,47 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Sartech I/ Crewleader", 
+            "Type": "Advanced", 
+            "Certification ID": "7719", 
+            "Certifying Organization": "National Association for Search and Rescue"
+        }, 
+        {
+            "Acronym": "WSO-CHMT", 
+            "Certification Name": "WSO - Certified Hazardous Materials Technician Level II", 
+            "Type": "Advanced", 
+            "Certification ID": "1010", 
+            "Certifying Organization": "World Safety Organization"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Sartech II", 
+            "Type": "Advanced", 
+            "Certification ID": "7720", 
+            "Certifying Organization": "National Association for Search and Rescue"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Sartech III", 
+            "Type": "Advanced", 
+            "Certification ID": "7721", 
+            "Certifying Organization": "National Association for Search and Rescue"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "First Responder", 
+            "Type": "Core", 
+            "Certification ID": "0290", 
+            "Certifying Organization": "National Registry of Emergency Medical Technicians"
+        }, 
+        {
+            "Acronym": "WSO-CHMT", 
+            "Certification Name": "WSO - Certified Hazardous Materials Technician I", 
+            "Type": "Core", 
+            "Certification ID": "1009", 
+            "Certifying Organization": "World Safety Organization"
+        }
+    ], 
+    "onet": "33305103"
+}

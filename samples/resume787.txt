@@ -1,0 +1,323 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734597' xml:space='preserve'><contact><name><givenname>Patrick</givenname> <givenname>J</givenname>. <surname>Cush</surname></name>
+<address lat='33.1367' lon='97.646' majorcity='BOYD' state='TX'><street>1593 E HWY 114</street> <city>Boyd</city>, <state abbrev='TX'>TX</state> <postalcode>76023</postalcode></address>
+C: <phone type='cell'>(321) 202-5695</phone> * <email>iceman3@airmail.net</email></contact>
+<summary>Network Security Engineer/Senior Architect
+Track record of leading global-scale, multimillion-dollar IT projects to successful fruition; manage and maintain technical teams as large as 80 cross-functional members with a focused approach. 
+Innovate enterprise-wide IT solutions to complex business problems using a cross-pollination of technologies to streamline operations, improve efficiencies, and cut costs
+Build project engagement and cohesion toward common goals across diverse groups of staff, management, customers, and vendors
+Accomplished IT professional offering 10+ years of documented achievements across a broad range of technologies, industries, and global marketplaces. Track record of performance at the highest levels to fully achieve company, customer, and project objectives. Strong work ethic. Excellent skill in management fields. Areas of expertise include:
+IT Strategy Planning &amp; Management
+Project Lifecycle Management
+Enterprise System Development
+Team Building &amp; Leadership
+System Implementation &amp; Integration
+E-Commerce &amp; Workflow Solutions
+Software Design &amp; Engineering
+Security / Identity Management Systems
+End-User Training
+Business Requirements Analysis
+Client &amp; Vendor Relationships
+Operational Improvements</summary>
+<experience end='present' start='726835'>Professional Highlights
+<job end='present' id='1' pos='1' sic='502112' sic2='50' start='733410'><employer>Eos-Systems, Inc</employer>., <address><city>Boston</city>, <state abbrev='MA'>MA</state></address> <daterange><start days='733410' iso8601='2009-01-01'>2009</start>-<end days='present' iso8601='2012-04-02'>current</end></daterange>
+<title>Senior Security Engineer/Architect Consultant</title>
+<description>Design, integrate and deploy compliance solutions for clients in need of passing audits from HIPPA to PCI. Architect solutions after reviewing the infrastructure and listening to the people who are in the process to understand what the need is and which products and/or systems can help get them to the solution for successful audits. 
+Evaluated new technologies with the ability to comprehend new systems quickly and be able to integrate at clients in short time.
+Prepared onsite training to the clients maintaining the systems as well as provide final documents to the individual clients for their respective systems.
+Evaluated new technologies in house for Eos-Systems in which I recommended products to aid in the day to day business of the company.</description></job>
+
+<job end='733410' id='2' pos='2' sic='737904' sic2='73' start='732679'><employer>Astrum, Inc</employer>., <address><city>Dallas</city>, <state abbrev='TX'>TX</state></address> <daterange><start days='732679' iso8601='2007-01-01'>2007</start>-<end days='733410' iso8601='2009-01-01'>2009</end></daterange>
+<title>Senior Engineer/Architect</title>
+<description>Direct teams of in-house and outside consultants in design and development of Linux based security solutions. Responsible for scoping projects while maintaining a budget of $500,000 annually. Development of white papers and testing procedures as well as lectures for prospective clients as well as trade shows. Reported to the President and presented weekly updates of various projects based on project plans and budget updates for investors.
+Some of the major components of the solution were an identity management backbone constructed through a BI policy filter which made calls to a cipher broker based upon a HSM card for security. The appliance itself was tested to work in a multi operating system environment so I used my knowledge of Microsoft and *ix technologies to make it operate without the need to change client topologies.
+Code was written in Java and C with drivers being developed for the Suse Linux Enterprise Server 64 version.</description></job>
+<job end='732679' id='3' naics='51121001' naics2='51' pos='3' sic='573401' sic2='57' start='730853'><employer>Novell, Inc</employer>., <address><city>Dallas</city>, <state abbrev='TX'>TX</state></address> <daterange><start days='730853' iso8601='2002-01-01'>2002</start>-<end days='732679' iso8601='2007-01-01'>2007</end></daterange>
+<title>Senior Architect / Technical Project &amp; Team Leader</title>
+<description>Direct teams of in-house and outside consultants in large-scale projects to implement a broad range of Novell software solutions in client companies. Involved in development of the core architecture to optimize performance of the Novell business solutions. Liaison with clients; provide on-site technical training to client staff. Write custom solutions in multiple programming languages to extend the software capability for clients. Selected projects include: 
+Dell: Architected and Integrated a Linux server configuration management system for ease of deployment for various distributions of Linux, Unix and Microsoft servers in there center. Developed custom pre and post install shell scripts to perform various tasks at the appropriate time.
+DoD (Sandia): Installed two different configuration management systems. The first system was allowed to use dhcp so I integrated with the pxe boot for loading various server images at boot time other additions/subtractions were done by a scheduled cron job deploying to the server. The second was a static ip based configuration management system, because of security, in this sub infrastructure I was able to push configurations based on xml data which held the configuration data for the specific servers to be configured.
+Oracle Install Scripts: Developed a set of scripts that wrapped around the oracle silent install and read a config file that was produced by question response offered to the user when installing oracle on the server.  
+The Gap: Led a cross functional team consisting of customer, IBM and Novell personal in a POS deployment architecture. Integrated existing directory solution and new IRES 2.0 technology from IBM along with POS software in order to develop, integrate and launch a successful new POS system for the Gap at a global level.  Wrote custom perl and shell scripts to configure thin client machines from the Linux deployment server.
+UrbanOutfitters: Led a team of technical staff to deploy a new POS solution. Brought into the project with three weeks until rollout. Due to technical issues once I was onsite I evaluated the executive required timelines and reviewed the issues technical staff was having with the POS rollout. Being able to understand both the business requirements from the executives and well as the technical issues was able to restructure the project to exceed the rollout by three days finishing the project on time and under budget.
+AAFES: Oversaw a team from IBM to develop and integrate a new POS system for all PX?s worldwide. Though the project was able to direct to staffing the required skill sets needed by the project and time frame of each task due to the ability to understand and bring together the business requirements and the complex infrastructure already in place. Since placing the right technical skill at the right time on site was able to shorten development and deployment.  
+Daimler Chrysler: Formed and led a cross-functional team in developing a $4 million CRM/sales solution that included an identity management solution, back-end database, and web interface. Enabled a 50% reduction in on-hand inventory at dealer locations; ease of access to customer data allowed for more targeted marketing initiatives.</description></job> 
+<job id='4' sic='602101' sic2='60'><employer>Commerce Bank</employer>: <description>Led a team of technical staff to create a system for secure user transactions with a centralized repository for customer data. Integrated with HR and other business systems throughout the banking enterprise. Served as the foundation for the bank to offer a customized ATM solution for customers. Designed a JBoss solution middle layer for the systems to utilize to see acceptable levels of ROI.  
+Pareto Systems: Launched a customized solution with a more fault-tolerant architecture and introduced best-of-breed principals for software design and engineering. Increased architecture uptime to 98% and cut time to sync new features into the product by 40% through automation and integration of best architectural practices. 
+Carlson Marketing Group: Oversaw a $7 million project to develop and implement the SOAP architecture for a new infrastructure. Decreased on-site maintenance by 85% by improving logistics between staff and vendor groups. Utilized JBoss as the middle tier in this solution and provided JBoss training to Carlson for developing future solutions utilizing JBoss. 
+Devon Energy: Project managed the architecture, installation, and configuration of an identity management and password synchronization solution. Lowered help desk calls by 95%, improved staff efficiency, and increased system usability for staff, saving the company thousands of dollars. 
+Western Union: Deployed a JBoss application server to illustrate the power of JBoss as a middleware piece in their new solution for a Datacenter refresh currently underway. Presented java code to developers to illustrate the ease of running JBoss in their current environment.</description></job>
+<job end='730853' id='5' pos='4' start='726835'><employer>X Generation Design, Inc</employer>., <address><city>Dallas</city>, <state abbrev='TX'>Texas</state></address> <daterange><start days='726835' iso8601='1991-01-01'>1991</start>-<end days='730853' iso8601='2002-01-01'>2002</end></daterange>
+<title>Programmer / Analyst  Consultant</title>
+<description>Managed a diverse range of IT development, implementation, and reengineering projects; directed technical teams in client organizations. Specialized in intranet, e-commerce, and client/server solutions. 
+Designed and developed a front end website for an e-commerce company that included the ability to auto complete and validate required form fields. Increased site usability and improved the user purchasing experience. 
+Developed and deployed a Palm application for doctors at a local health clinic to simplify entry and management of client information. Decreased data entry time by 40%. 
+Marconi Telecommunications: Leveraged existing technologies to create a solution to gather, process, and search test engineering data from the field for use by corporate to control costs. Built real-time client/server applications to monitor product quality. Enabled early resolution of problems and lowered costs from rework by 85%.   
+University Medical Center:
+Managed a group of 10 developers and network personnel to create and implement back-end technology (to utilize transaction, certification, and application servers), data storage solutions, automation tools, and workflow solutions. Optimized current technologies at a zero net cost for deployment. Trained staff on new technologies to optimize ROI. 
+Evaluated a set of technologies to provide a remote working solution with secure access to patient data for medical transcriptionists and physicians. Coordinated team of network staff in developing a new infrastructure backbone for data sharing between systems. Increased ROI by 80%, decreased staff workload by 50%, and cut overhead costs. 
+Led project to design an automated workflow system, dramatically reducing operating costs and increasing the efficiency of processes by 60% while maintaining full HIPPA compliance.</description></job></experience> 
+<education>Education and Training
+<school id='6'><degree level='16' name='Bachelor of Science'>Bachelor of Science</degree>
+<institution>University of North Texas</institution>, <address><city>Denton</city>, <state abbrev='TX'>Texas</state></address>
+<courses>Extensive technical certifications and professional development training
+GUIDE 2.0 Certified
+API 2.0 Certified
+Mosaix Supervisor Training
+JBoss Certified Consultant
+Java Certified</courses>
+Sentinel 7administration
+<description>Novell Identity Manager Password Synchronization and Management
+Introduction to Novell Identity Manager Roles Based Provisioning Module 3.7
+Introduction to Novell Sentinel Log Manager
+Novell Identity Manager Entitlements from Creation to Completion
+Installation and Configuration of SecureLogin 7.0</description></school></education>
+<statements><personal>SOPHOS Encryption Appliance and Architecture
+Linux
+Advanced technical expertise across a broad range of technologies including various operating systems, integrated networking solutions, programming languages, enterprise-class software, enterprise architecture, and software. Full listing available upon request.</personal></statements>  
+</resume>
+
+<skillrollup version='1'>
+  <canonskill education='1' eduidrefs='6' idrefs='6' name='api'>
+    <variant>API 2.0</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='architecture' start='733410'>
+    <variant>Architect</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='4' idrefs='4' name='atm'>
+    <variant>ATM</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='4' idrefs='4' name='automation'>
+    <variant>automation</variant>
+  </canonskill>
+  <canonskill end='730853' experience='1' expidrefs='5' idrefs='5' lastused='2002' name='automation tools' start='726835'>
+    <variant>automation tools</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='4' idrefs='4' name='banking'>
+    <variant>banking</variant>
+  </canonskill>
+  <canonskill end='733410' experience='1' expidrefs='2,3' idrefs='2,3' lastused='2009' name='budgeting' start='730853'>
+    <variant>budget</variant>
+  </canonskill>
+  <canonskill end='733410' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='business intelligence' start='732679'>
+    <variant>BI</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='business solutions' start='730853'>
+    <variant>business solutions</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='4' idrefs='4' name='business systems analysis'>
+    <variant>business systems</variant>
+  </canonskill>
+  <canonskill end='733410' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='c' start='732679'>
+    <variant>C</variant>
+  </canonskill>
+  <canonskill end='730853' experience='1' expidrefs='5' idrefs='5' lastused='2002' name='client/server' start='726835'>
+    <variant>client/server</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='configuration management' start='730853'>
+    <variant>configuration management</variant>
+    <variant>config</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='6' idrefs='6' name='consulting'>
+    <variant>Consultant</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='crm' start='730853'>
+    <variant>CRM</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,3,5' idrefs='1,2,3,5' lastused='2012' name='customer relations' start='726835'>
+    <variant>client</variant>
+    <variant>clients</variant>
+  </canonskill>
+  <canonskill end='730853' experience='1' expidrefs='5' idrefs='5' lastused='2002' name='data entry' start='726835'>
+    <variant>data entry</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='database administration' start='730853'>
+    <variant>database</variant>
+  </canonskill>
+  <canonskill end='733410' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='decryption' start='732679'>
+    <variant>cipher</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='dell computers' start='730853'>
+    <variant>Dell</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='dhcp' start='730853'>
+    <variant>dhcp</variant>
+  </canonskill>
+  <canonskill end='733410' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='drivers' start='732679'>
+    <variant>drivers</variant>
+  </canonskill>
+  <canonskill end='730853' experience='1' expidrefs='5' idrefs='5' lastused='2002' name='e - commerce' start='726835'>
+    <variant>e-commerce</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='4' idrefs='4' name='features'>
+    <variant>features</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='framing' start='730853'>
+    <variant>frame</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='functional' start='730853'>
+    <variant>functional</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='4' idrefs='4' name='help desk support'>
+    <variant>help desk</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='4' idrefs='4' name='human resources'>
+    <variant>HR</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='ibm' start='730853'>
+    <variant>IBM</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='inventory management' start='730853'>
+    <variant>inventory</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='ip' start='730853'>
+    <variant>ip</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='6' end='733410' experience='1' expidrefs='2,4' idrefs='2,4,6' lastused='2009' name='java' start='732679'>
+    <variant>Java</variant>
+    <variant>java</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='6' experience='1' expidrefs='4' idrefs='4,6' name='jboss'>
+    <variant>JBoss</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='languages' start='730853'>
+    <variant>languages</variant>
+  </canonskill>
+  <canonskill end='733410' experience='1' expidrefs='2,3' idrefs='2,3' lastused='2009' name='linux' start='730853'>
+    <variant>Linux</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='listening' start='733410'>
+    <variant>listening</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='4' idrefs='4' name='logistics'>
+    <variant>logistics</variant>
+  </canonskill>
+  <canonskill end='730853' experience='1' expidrefs='5' idrefs='5' lastused='2002' name='marconi' start='726835'>
+    <variant>Marconi</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='3,4' idrefs='3,4' lastused='2007' name='marketing' start='730853'>
+    <variant>marketing</variant>
+    <variant>Marketing</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='3,5' idrefs='3,5' lastused='2007' name='microsoft access' start='726835'>
+    <variant>access</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='4' idrefs='4' name='microsoft windows 98'>
+    <variant>98</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='4' idrefs='4' name='middleware'>
+    <variant>middleware</variant>
+  </canonskill>
+  <canonskill end='733410' experience='1' expidrefs='2,4' idrefs='2,4' lastused='2009' name='netscape enterprise server' start='732679'>
+    <variant>Enterprise</variant>
+    <variant>enterprise</variant>
+  </canonskill>
+  <canonskill end='730853' experience='1' expidrefs='5' idrefs='5' lastused='2002' name='networking' start='726835'>
+    <variant>network</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='6' end='732679' experience='1' expidrefs='3' idrefs='3,6' lastused='2007' name='novell' start='730853'>
+    <variant>Novell</variant>
+  </canonskill>
+  <canonskill end='733410' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='operating systems' start='732679'>
+    <variant>operating system</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='oracle' start='730853'>
+    <variant>Oracle</variant>
+    <variant>oracle</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='pci' start='733410'>
+    <variant>PCI</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='perl' start='730853'>
+    <variant>perl</variant>
+  </canonskill>
+  <canonskill end='730853' experience='1' expidrefs='5' idrefs='5' lastused='2002' name='personnel' start='726835'>
+    <variant>personnel</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='pos' start='730853'>
+    <variant>POS</variant>
+  </canonskill>
+  <canonskill end='730853' experience='1' expidrefs='5' idrefs='5' lastused='2002' name='process engineering' start='726835'>
+    <variant>processes</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='programming' start='730853'>
+    <variant>programming</variant>
+  </canonskill>
+  <canonskill end='733410' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='project planning' start='732679'>
+    <variant>project plans</variant>
+  </canonskill>
+  <canonskill end='730853' experience='1' expidrefs='5' idrefs='5' lastused='2002' name='purchasing' start='726835'>
+    <variant>purchasing</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='pxe' start='730853'>
+    <variant>pxe</variant>
+  </canonskill>
+  <canonskill end='730853' experience='1' expidrefs='5' idrefs='5' lastused='2002' name='quality' start='726835'>
+    <variant>quality</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='read' start='730853'>
+    <variant>read</variant>
+  </canonskill>
+  <canonskill end='730853' experience='1' expidrefs='5' idrefs='5' lastused='2002' name='real time' start='726835'>
+    <variant>real-time</variant>
+  </canonskill>
+  <canonskill end='730853' experience='1' expidrefs='5' idrefs='5' lastused='2002' name='reengineering' start='726835'>
+    <variant>reengineering</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='sales' start='730853'>
+    <variant>sales</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='server configuration' start='730853'>
+    <variant>server configuration</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='3,5' idrefs='3,5' lastused='2007' name='servers' start='726835'>
+    <variant>servers</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='shell scripting' start='730853'>
+    <variant>Scripts</variant>
+    <variant>scripts</variant>
+    <variant>shell scripts</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='4' idrefs='4' name='soap'>
+    <variant>SOAP</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='4' idrefs='4' name='software engineering'>
+    <variant>software design and engineering</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='staffing' start='730853'>
+    <variant>staffing</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='6' idrefs='6' name='supervisory skills'>
+    <variant>Supervisor</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='technical training' start='730853'>
+    <variant>technical training</variant>
+  </canonskill>
+  <canonskill end='733410' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='technical writing' start='732679'>
+    <variant>white papers</variant>
+  </canonskill>
+  <canonskill end='730853' experience='1' expidrefs='5' idrefs='5' lastused='2002' name='telecommunications' start='726835'>
+    <variant>Telecommunications</variant>
+  </canonskill>
+  <canonskill end='733410' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='trade shows' start='732679'>
+    <variant>trade shows</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='unix' start='730853'>
+    <variant>Unix</variant>
+  </canonskill>
+  <canonskill end='730853' experience='1' expidrefs='5' idrefs='5' lastused='2002' name='web site production' start='726835'>
+    <variant>website</variant>
+  </canonskill>
+  <canonskill end='730853' experience='1' expidrefs='5' idrefs='5' lastused='2002' name='workflow analysis' start='726835'>
+    <variant>workflow</variant>
+  </canonskill>
+  <canonskill end='733410' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='writing' start='732679'>
+    <variant>written</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='xml' start='730853'>
+    <variant>xml</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

@@ -1,0 +1,396 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734589' xml:space='preserve'><contact><name><givenname>ISAAC</givenname> <givenname>CORNELIUS</givenname> <surname>ARTHUR</surname></name>
+Saudi Arabia
+
+						<phone>+966 3-865-4101</phone>
+						<phone>+966 50-813-4025</phone></contact>
+	
+
+<summary>SUMMARY
+
+<summary>Accomplished, dedicated Systems Analyst and Computer Programmer with over thirty-five years experience developing and implementing large-scale computer application systems. Intimately familiar with designing systems for the on-line environment. Specific interest in trouble-shooting systems to solve current problems and prevent future problems. Have designed systems and programmed for public transportation authority, the US federal government, the retail food industry, public utility company and private national professional organization. 
+
+Detail-oriented and thorough. Adept at all phases of system design and development including laying out databases to support system design, writing individual programs for the system, conducting unit and system testing, implementing systems, training of users and writing user guides. Experienced in providing expert support to already existing systems. Skilled in reviewing existing systems and recommending enhancements. Strong communication skills which aid in effective training.</summary></summary>
+
+
+<skills>COMPUTER KNOWLEDGE
+
+<skills>Hardware: IBM 3370/168, IBM 3031, IBM 3084, IBM 4341, IBM 3090 and IBM z800
+Systems: CICS, JCL (OS/390, z/OS, OS/MVS, DOS/VSE), ROSCOE, TSO/ISPF
+Programming Languages: COBOL, BASIC, FORTRAN, RPG II, ALC
+DBMS: IDMS, IMS, DATACOM, DB2, VSAM
+Client-Server Environment: VBScript, SQL, Adobe Forms Designer &amp; Workflow, NEON Shadow-CICS</skills></skills>
+
+
+<experience end='present' start='721081'>EXPERIENCE
+
+
+<job end='present' id='1' pos='1' start='729604'><title>Systems Analyst</title> 									     <daterange><start days='729604' iso8601='1998-08-01'>August 1998</start> - <end days='present' iso8601='2012-03-25'>Present</end></daterange>
+<employer>SAUDI ELECTRICITY COMPANY</employer>, <address><city>Dammam</city>, <country iso3='SAU'>Saudi Arabia</country></address>
+
+<description>Developed a system of COBOL programs to convert VSAM files to SQL database tables for data-mapping into SAP tables. The extract program performed data cleansing. 
+
+Designed and implemented Electronic Forms and Workflows for Material Management Department. Used Adobe Forms Designer and Workflow software. Created the organization database used by the workflow software to control the routing of the forms. Used NEON Shadow-CICS to retrieve data from mainframe VSAM files in real-time mode during the filling of the forms. 
+
+Providing maintenance support for the electronic forms and workflows.
+
+Providing program maintenance and system enhancement support for vendor-supplied package Maintenance Control and Management System (MCMS), a COBOL/CICS mainframe system used by the Transportation Department. Modified programs to enable users to create Service Request/Fuel Tickets from the system. Implemented Arabic screens for some of the functions in MCMS. 
+
+Programmed and implemented a system for maintaining the database for SEC U-Drive users.
+
+Programmed and implemented Fleet Budget and Forecasting System used by the Fleet Utilization Department. System was written in Adobe Forms and Workflow software. Uses extensive SQL and VBScript code.</description></job> 
+
+.
+
+
+<job end='729604' id='2' pos='2' start='728112'><title>Software Engineer</title>									   <daterange><start days='728112' iso8601='1994-07-01'>July 1994</start> - <end days='729604' iso8601='1998-08-01'>August 1998</end></daterange>
+<employer>WASHINGTON METROPOLITAN AREA TRANSIT AUTHORITY</employer>, <address lat='43.1659' lon='-72.0727' majorcity='WASHINGTON' state='NH'><city>Washington</city>, DC <country iso3='USA'>USA</country></address>
+
+<description>Provided maintenance support and enhancements to two systems. The Enhanced Data Acquisition and Display system (EDADS) is used to collect data from station equipment in the Metro Rail system. The Electronic Farebox Register system records ridership and fares collected in the Metro Bus system. Implemented an enhancement, which was used to monitor the status of the cashbox capacity on the farecard machines in the Metro Rail system. These systems were written in COBOL and use VSAM files and DATACOM database. The on-line systems were written in Command Level CICS.</description></job> 
+
+<job end='728112' id='3' pos='3' sic='737103' sic2='73' start='724795'><title>Consultant</title>, Systems Analysis and Programming 					      <daterange><start days='724795' iso8601='1985-06-01'>June 1985</start> - <end days='728112' iso8601='1994-07-01'>July 1994</end></daterange>
+<employer>MCDONALD BRADLEY, INC</employer>., <address><city>Mclean</city>, <state abbrev='VA'>Virginia</state>, <country iso3='USA'>USA</country></address></job>
+Implemented several on-line systems for the U. S. Customs Service as <job id='4'><title>Lead Analyst and Programmer</title> 
+
+<description>Designed and implemented the on-line Training and Enrollment Network system. System is used to maintain catalog of courses, training schedules, request for training and approval of requests by supervisors and registrars.
+
+Designed and implemented the on-line security module of U. S. Customs' Asset Information Management System (AIMS). This module is used by the System Administrator to control user's access to AIMS.
+
+Designed and implemented an automated travel system (CATS) for U. S. Customs officer anywhere in the continental U. S. System processes travel documents and obtains supervisor's approval. Coded all system control programs and most of the specific function application programs, and defined the database tables and keys. Used COBOL, Command Level CICS, CA DATACOM DBMS. System contained 120 programs and 70 screens.
+
+Participated in the programming and implementation of Time and Attendance Management System (TAMS) used by U. S. Customs employees to record work hours for processing and transmission to the USDA Payroll system. Coded the largest and most complex programs in the system.
+
+Developed an on-line transaction reporting system used by U. S. Customs Officers at all U. S. ports to record workload statistics. Data is used to prepare workload reports for U. S. Congress in support of budget proposals.
+
+Programmed and implemented an on-line weapons and badges inventory control system used to track firearms and badges issued to U. S. Customs personnel.
+
+Developed an error handler module used by all U. S. Customs Administrative Systems for CICS and on-line database errors
+
+Implemented on-line systems using techniques which have been adopted and incorporated into U. S. Customs on-line system standards.
+
+Reviewed security methods on sensitive computer-based systems at U. S. Department of Housing and Urban Development. Prepared a report including recommendations for upgrading the security on the sensitive systems.
+
+Modified Command Level and Macro Level CICS programs to provide communication between two premium collection systems for Pensions and Benefits Guaranty Corporation.
+
+Participated in the design and programming of on-line work assignment system for the Bus, Rail and Station Management personnel at Washington Metropolitan Transit Authority. Used COBOL II, CICS Command Level and CA-DATACOM Relational DBMS. Wrote the programs for the major on-line functions in the system.
+
+Participated in the conversion of a major payroll application from CICS/DATACOM DBMS to CICS/DB2.</description></job>
+
+   
+
+<job end='724795' id='5' pos='4' sic='737401' sic2='73' start='723944'><title>Senior Programmer Analyst</title>						          <daterange><start days='723944' iso8601='1983-02-01'>February 1983</start> - <end days='724795' iso8601='1985-06-01'>June 1985</end></daterange>
+<employer>COMPUTER BASED SYSTEMS, INC</employer>., <address><city>Fairfax</city>, <state abbrev='VA'>Virginia</state>, <country iso3='USA'>USA</country></address>
+<description>Coordinated Housing and Urban Development (HUD) projects on IBM mainframes
+
+Served as the Lead CICS programmer in the development of the on-line Single Family Insurance-in-Force system used in maintaining mortgage information for single-family homes. Designed and wrote the system control and system management programs. Used Command Level CICS, COBOL and IMS database. System utilized for billing and coordinating insurance claims. Received Letter of Commendation for designing and implementing the claims subsystem.  
+
+Provided overall technical support in the areas of CICS, VSAM and IMS. Maintained all the CICS start-up JCL, updated CICS tables, moved programs from development to system acceptance testing, conducted CICS problem solving.
+
+Conducted two CICS training courses to groups of up to 20 programmers. Designed courses and prepared training material.</description></job>
+
+
+<job end='723944' id='6' naics='44511003' naics2='44' pos='5' sic='541105' sic2='54' start='722817'><title>Senior Programmer Analyst</title>						    <daterange><start days='722817' iso8601='1980-01-01'>January 1980</start> - <end days='723944' iso8601='1983-02-01'>February 1983</end></daterange>
+<employer>GIANT FOOD, INC</employer>., <address><city>Landover</city>, <state abbrev='MD'>Maryland</state>, <country iso3='USA'>USA</country></address>
+
+<description>Reviewed, enhanced and implemented on-line invoice verification system. The system tracked daily inventory of $2 million. System insured the accuracy of quantity and calculations. Assisted buyers with pricing decisions and also notified company of changes in product cost. System replaced an entire department which had been manually verifying invoices.
+
+Installed, tested and implemented Uniform Communication Standard used by the grocery industry to transmit purchase orders and receive invoices by telephone in a mainframe-to-mainframe mode. Developed test plan including test criteria and test data. Commended for being the first retail grocery chain to develop increased efficiency in inventory management through the use of the system.</description></job>   
+
+
+
+
+<job end='722817' id='7' pos='6' sic='873111' sic2='87' start='722299'><title>Member of Technical Staff</title>						 	       <daterange><start days='722299' iso8601='1978-08-01'>August 1978</start> - <end days='722817' iso8601='1980-01-01'>January 1980</end></daterange>
+<employer>SCIENCE MANAGEMENT CORPORATION</employer>, <address><city>Landover</city>, <state abbrev='MD'>Maryland</state>, <country iso3='USA'>USA</country></address>
+
+<description>Designed and programmed interactive computer graphics software for the U. S. Department of Housing and Urban Development. Used BASIC on Tektronix 4051 hardware. Assisted in production of charts and graphs for various users. Trained non-DP users on the software.
+
+Wrote COBOL/IDMS programs for Virginia Electric and Power Company on IBM 370/168 operating under OS/VS.</description></job> 
+
+
+
+
+<job end='722299' id='8' pos='7' sic='861102' sic2='86' start='721081'><title>Programmer Analyst</title>								<daterange><start days='721081' iso8601='1975-04-01'>April 1975</start> - <end days='722299' iso8601='1978-08-01'>August 1978</end></daterange>
+<employer>AIR LINE PILOTS ASSOCIATION</employer>, <address><city>Washington</city>, D.C., <country iso3='USA'>USA</country></address>
+
+<description>Analyzed several systems, wrote specification and wrote programs. Designed, programmed and documented an on-line update system used by the association's Membership Services Department. Developed turnkey software to assist non-DP users in the production of various reports. Also designed and programmed a Congressional District Zip Code Directory System.
+
+As a consultant to the association, produced Summary of Agreements Reports from data stored in IDMS database utilizing Data Analyzer and COBOL/IDMS interface program. Also programmed, tested and installed a Labels and Rosters system using Data Analyzer and COBOL/IDMS programs. Wrote the association's monthly billing adjustment program, which is used to calculate membership dues, insurance premiums, assessments and insurance cancellations.</description></job></experience>
+
+
+
+
+
+<education>EDUCATION
+
+<school id='9'><degree level='16' name='Bachelor of Science'>B.S</degree>. with High Honors in <major code='0403'>Data Processing Management</major>		<completiondate days='721873' iso8601='1977-06-01'>June 1977</completiondate>
+<institution>STRAYER COLLEGE</institution>, <address><state abbrev='WA'>Washington</state>, <state>D. C.</state>, <country iso3='USA'>USA</country></address>
+<honors>Awarded Scholastic Achievement Award in Data Processing</honors></school> 
+
+<school id='10'><degree level='14' name='Associate of Arts'>A.A</degree>. with High Honors in <major code='4001'>Accounting</major>				<completiondate days='721873' iso8601='1977-06-01'>June 1977</completiondate>
+<institution>STRAYER COLLEGE</institution>, <address><state abbrev='WA'>Washington</state>, <state>D. C.</state>, <country iso3='USA'>USA</country></address>
+<honors>Awarded Scholastic Achievement Award in Accounting</honors></school></education>  
+
+</resume>
+
+<skillrollup version='1'>
+  <canonskill experience='1' expidrefs='4' idrefs='4' name='administration'>
+    <variant>Administrative</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='adobe' start='729604'>
+    <variant>Adobe</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='4' idrefs='4' name='aims'>
+    <variant>AIMS</variant>
+  </canonskill>
+  <canonskill name='alc'>
+    <variant>ALC</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='arabic' start='729604'>
+    <variant>Arabic</variant>
+  </canonskill>
+  <canonskill end='722817' experience='1' expidrefs='7' idrefs='7' lastused='1980' name='basic' start='722299'>
+    <variant>BASIC</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='4' idrefs='4' name='benefits administration'>
+    <variant>Benefits</variant>
+  </canonskill>
+  <canonskill end='724795' experience='1' expidrefs='5,8' idrefs='5,8' lastused='1985' name='billing' start='721081'>
+    <variant>billing</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,4' idrefs='1,4' lastused='2012' name='budgeting' start='729604'>
+    <variant>Budget</variant>
+    <variant>budget</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='4' idrefs='4' name='catalogs'>
+    <variant>catalog</variant>
+  </canonskill>
+  <canonskill end='722817' experience='1' expidrefs='7' idrefs='7' lastused='1980' name='charts' start='722299'>
+    <variant>charts</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,4,5' idrefs='1,2,4,5' lastused='2012' name='cics' start='723944'>
+    <variant>CICS</variant>
+  </canonskill>
+  <canonskill name='client/server'>
+    <variant>Client-Server</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,4,5,7,8' idrefs='1,2,4,5,7,8' lastused='2012' name='cobol' start='721081'>
+    <variant>COBOL II</variant>
+    <variant>COBOL</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='4' idrefs='4' name='computer associates packages'>
+    <variant>CA</variant>
+  </canonskill>
+  <canonskill end='722817' experience='1' expidrefs='7' idrefs='7' lastused='1980' name='computer hardware' start='722299'>
+    <variant>Hardware</variant>
+    <variant>hardware</variant>
+  </canonskill>
+  <canonskill name='computer skills'>
+    <variant>COMPUTER KNOWLEDGE</variant>
+  </canonskill>
+  <canonskill end='722299' experience='1' expidrefs='8' idrefs='8' lastused='1978' name='consulting' start='721081'>
+    <variant>consultant</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='4' idrefs='4' name='conversion'>
+    <variant>conversion</variant>
+  </canonskill>
+  <canonskill end='729604' experience='1' expidrefs='2' idrefs='2' lastused='1998' name='data acquisition' start='728112'>
+    <variant>Data Acquisition</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,4,5,8' idrefs='1,2,4,5,8' lastused='2012' name='database administration' start='721081'>
+    <variant>database</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='4' idrefs='4' name='database management system'>
+    <variant>DBMS</variant>
+  </canonskill>
+  <canonskill end='729604' experience='1' expidrefs='2,4' idrefs='2,4' lastused='1998' name='datacom' start='728112'>
+    <variant>DATACOM</variant>
+  </canonskill>
+  <canonskill end='724795' experience='1' expidrefs='5' idrefs='5' lastused='1985' name='design' start='723944'>
+    <variant>designing</variant>
+  </canonskill>
+  <canonskill name='dos vse'>
+    <variant>DOS/VSE</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='file management' start='729604'>
+    <variant>filling</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='forecasting' start='729604'>
+    <variant>Forecasting</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='forms' start='729604'>
+    <variant>Forms</variant>
+    <variant>forms</variant>
+  </canonskill>
+  <canonskill name='fortran'>
+    <variant>FORTRAN</variant>
+  </canonskill>
+  <canonskill end='722817' experience='1' expidrefs='7' idrefs='7' lastused='1980' name='graphics software' start='722299'>
+    <variant>computer graphics</variant>
+  </canonskill>
+  <canonskill end='722817' experience='1' expidrefs='7' idrefs='7' lastused='1980' name='graphs' start='722299'>
+    <variant>graphs</variant>
+  </canonskill>
+  <canonskill name='ibm'>
+    <variant>IBM</variant>
+  </canonskill>
+  <canonskill name='ibm 3090'>
+    <variant>IBM 3090</variant>
+  </canonskill>
+  <canonskill end='722817' experience='1' expidrefs='7' idrefs='7' lastused='1980' name='ibm 370' start='722299'>
+    <variant>IBM 370</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='4' idrefs='4' name='ibm db/2'>
+    <variant>DB2</variant>
+  </canonskill>
+  <canonskill end='724795' experience='1' expidrefs='5' idrefs='5' lastused='1985' name='ibm mainframe' start='723944'>
+    <variant>IBM mainframes</variant>
+  </canonskill>
+  <canonskill name='ibm mvs'>
+    <variant>MVS</variant>
+  </canonskill>
+  <canonskill end='722817' experience='1' expidrefs='7,8' idrefs='7,8' lastused='1980' name='idms' start='721081'>
+    <variant>IDMS</variant>
+  </canonskill>
+  <canonskill end='724795' experience='1' expidrefs='5' idrefs='5' lastused='1985' name='ims' start='723944'>
+    <variant>IMS</variant>
+  </canonskill>
+  <canonskill end='724795' experience='1' expidrefs='5,8' idrefs='5,8' lastused='1985' name='insurance' start='721081'>
+    <variant>Insurance</variant>
+    <variant>insurance</variant>
+  </canonskill>
+  <canonskill end='723944' experience='1' expidrefs='4,6' idrefs='4,6' lastused='1983' name='inventory management' start='722817'>
+    <variant>inventory management</variant>
+    <variant>inventory</variant>
+    <variant>inventory control</variant>
+  </canonskill>
+  <canonskill end='724795' experience='1' expidrefs='5' idrefs='5' lastused='1985' name='jcl' start='723944'>
+    <variant>JCL</variant>
+  </canonskill>
+  <canonskill name='languages'>
+    <variant>Languages</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,6' idrefs='1,6' lastused='2012' name='mainframe' start='722817'>
+    <variant>mainframe</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='4' idrefs='4' name='microsoft access'>
+    <variant>access</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='4' idrefs='4' name='ministry of defence'>
+    <variant>weapons</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='4' idrefs='4' name='networking'>
+    <variant>Network</variant>
+  </canonskill>
+  <canonskill name='operating systems'>
+    <variant>OS</variant>
+  </canonskill>
+  <canonskill name='os/390'>
+    <variant>OS/390</variant>
+  </canonskill>
+  <canonskill end='722817' experience='1' expidrefs='7' idrefs='7' lastused='1980' name='os vs' start='722299'>
+    <variant>OS/VS</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='4' idrefs='4' name='payroll processing'>
+    <variant>Payroll</variant>
+    <variant>payroll</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='4' idrefs='4' name='personnel'>
+    <variant>personnel</variant>
+  </canonskill>
+  <canonskill end='723944' experience='1' expidrefs='6' idrefs='6' lastused='1983' name='pricing' start='722817'>
+    <variant>pricing</variant>
+  </canonskill>
+  <canonskill end='724795' experience='1' expidrefs='5' idrefs='5' lastused='1985' name='problem solving' start='723944'>
+    <variant>problem solving</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='4' idrefs='4' name='process engineering'>
+    <variant>processes</variant>
+  </canonskill>
+  <canonskill end='724795' experience='1' expidrefs='4,5' idrefs='4,5' lastused='1985' name='programming' start='723944'>
+    <variant>programmer</variant>
+    <variant>Programming</variant>
+    <variant>programming</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='4' idrefs='4' name='proposal writing'>
+    <variant>proposals</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='real time' start='729604'>
+    <variant>real-time</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='4' idrefs='4' name='reports'>
+    <variant>reporting</variant>
+  </canonskill>
+  <canonskill end='723944' experience='1' expidrefs='6' idrefs='6' lastused='1983' name='retail' start='722817'>
+    <variant>retail</variant>
+  </canonskill>
+  <canonskill name='roscoe'>
+    <variant>ROSCOE</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='routers' start='729604'>
+    <variant>routing</variant>
+  </canonskill>
+  <canonskill name='rpg ii'>
+    <variant>RPG II</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='sap' start='729604'>
+    <variant>SAP</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='shadow' start='729604'>
+    <variant>Shadow</variant>
+  </canonskill>
+  <canonskill end='722299' experience='1' expidrefs='8' idrefs='8' lastused='1978' name='specification' start='721081'>
+    <variant>specification</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='sql' start='729604'>
+    <variant>SQL</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='4' idrefs='4' name='statistics'>
+    <variant>statistics</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='4' idrefs='4' name='supervisory skills'>
+    <variant>supervisor</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='4' idrefs='4' name='system administration'>
+    <variant>System Administrator</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,4,5' idrefs='1,4,5' lastused='2012' name='tables' start='723944'>
+    <variant>tables</variant>
+  </canonskill>
+  <canonskill end='724795' experience='1' expidrefs='5' idrefs='5' lastused='1985' name='technical support' start='723944'>
+    <variant>technical support</variant>
+  </canonskill>
+  <canonskill end='723944' experience='1' expidrefs='6' idrefs='6' lastused='1983' name='telephone skills' start='722817'>
+    <variant>telephone</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='4' idrefs='4' name='transmission'>
+    <variant>transmission</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='transportation' start='729604'>
+    <variant>Transportation</variant>
+  </canonskill>
+  <canonskill name='tso ispf'>
+    <variant>TSO/ISPF</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='4' idrefs='4' name='upgrades'>
+    <variant>upgrading</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='vbscript' start='729604'>
+    <variant>VBScript</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,5' idrefs='1,2,5' lastused='2012' name='vsam' start='723944'>
+    <variant>VSAM</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='workflow analysis' start='729604'>
+    <variant>Workflow</variant>
+    <variant>workflow</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='writing' start='728112'>
+    <variant>written</variant>
+  </canonskill>
+  <canonskill end='722299' experience='1' expidrefs='8' idrefs='8' lastused='1978' name='zip' start='721081'>
+    <variant>Zip</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

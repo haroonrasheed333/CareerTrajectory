@@ -1,0 +1,40 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Level 1 - Stable Worker", 
+            "Type": "Core", 
+            "Certification ID": "7160", 
+            "Certifying Organization": "Certified Horsemanship Association"
+        }, 
+        {
+            "Acronym": "CPPS", 
+            "Certification Name": "Certified Professional Pet Sitter", 
+            "Type": "Core", 
+            "Certification ID": "9397", 
+            "Certifying Organization": "Pet Sitters International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "National Certified Master Groomer", 
+            "Type": "Advanced", 
+            "Certification ID": "1205", 
+            "Certifying Organization": "National Dog Groomers Association of America, Inc."
+        }, 
+        {
+            "Acronym": "CMAR", 
+            "Certification Name": "Certified Manager Animal Resources", 
+            "Type": "Core", 
+            "Certification ID": "2367", 
+            "Certifying Organization": "American Association for Laboratory Animal Science"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Board Certified in Animal Food Science", 
+            "Type": "Advanced", 
+            "Certification ID": "9375", 
+            "Certifying Organization": "American Registry of Professional Animal Scientists"
+        }
+    ], 
+    "onet": "39202100"
+}

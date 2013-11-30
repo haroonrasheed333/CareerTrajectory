@@ -1,0 +1,33 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "FOD", 
+            "Certification Name": "Fiber Optics Designer", 
+            "Type": "Core", 
+            "Certification ID": "4364", 
+            "Certifying Organization": "ETA International"
+        }, 
+        {
+            "Acronym": "TPO", 
+            "Certification Name": "Technician in Precision Optics", 
+            "Type": "Core", 
+            "Certification ID": "8644", 
+            "Certifying Organization": "ETA International"
+        }, 
+        {
+            "Acronym": "CFOT", 
+            "Certification Name": "Certified Fiber Optic Technician", 
+            "Type": "Core", 
+            "Certification ID": "7286", 
+            "Certifying Organization": "The Fiber Optic Association Inc."
+        }, 
+        {
+            "Acronym": "CFOI", 
+            "Certification Name": "Certified Fiber Optic Instructor", 
+            "Type": "Advanced", 
+            "Certification ID": "7284", 
+            "Certifying Organization": "The Fiber Optic Association Inc."
+        }
+    ], 
+    "onet": "17219907"
+}

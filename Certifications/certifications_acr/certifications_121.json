@@ -1,0 +1,1139 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified System Administrator - DB2 10 for z/OS", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9364", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "CCDM", 
+            "Certification Name": "Certified Clinical Data  Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "6758", 
+            "Certifying Organization": "Society for Clinical Data Management"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Application Development - TRIRIGA Application Platform V3.2.1", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9549", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Associate - Tivoli Storage Manager V6.3", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9557", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Microsoft Certified IT Professional: Enterprise Desktop Support Technician on Windows 7", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "4947", 
+            "Certifying Organization": "Microsoft Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Deployment Professional - Maximo Asset Management V7.5", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9560", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Oracle Essbase 11 Certified Implementation Specialist", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7079", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Oracle Hyperion Planning 11 Certified Implementation Specialist", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7102", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Solutions Expert - Red Brick Warehouse V6 System Administrator", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9408", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Service Management Service Availability and Performance Management V2", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9525", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "ISSMP", 
+            "Certification Name": "Information Systems Security Management Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "5323", 
+            "Certifying Organization": "International Information Systems Security Certification Consortium, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Database Administrator - DB2 10.1 for Linux, UNIX, and Windows", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9359", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Oracle Certified Professional, MySQL 5 Database Administrator", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7059", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified System Administrator - Informix Dynamic Server V11", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9412", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "ISA", 
+            "Certification Name": "Information System Analyst", 
+            "Type": "Core", 
+            "Certification ID": "3547", 
+            "Certifying Organization": "Institute for the Certification of Computing Professionals"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Oracle Certified Professional Oracle Solaris Cluster 3.2 System Administrator", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "6209", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "EMCSyA", 
+            "Certification Name": "System Administrator", 
+            "Type": "Advanced", 
+            "Certification ID": "5827", 
+            "Certifying Organization": "EMC Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Specialist - FileNet Business Process Manager V5.1", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9338", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Database Administrator - IMS", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9368", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Oracle Certified Expert WebLogic Server 10 g System Administrator", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7069", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "CCIE Data Center", 
+            "Type": "Advanced", 
+            "Certification ID": "8689", 
+            "Certifying Organization": "Cisco Systems, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Associate Application Developer - TRIRIGA Application Platform V3.2.1", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9558", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Teradata 12 Certified  Database Administrator", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "2791", 
+            "Certifying Organization": "Teradata"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Infrastructure Deployment Professional - Maximo Asset Management V7.5", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9577", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Oracle Certified Expert Service Oriented Architecture Infrastructure Implementation", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7072", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Oracle Application Integration Architecture 11g Certified Implementation Specialist", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7122", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Oracle Certified Professional - Oracle 10g Database Administrator", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "2194", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Database Administrator - DB2 V 9 DBA  for z/OS", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "4963", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Application Developer - DB2 9.7 for Linux, Unix and Windows", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9361", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "HP AIS - StorageWorks Integration [2011]", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7216", 
+            "Certifying Organization": "Hewlett Packard Certification and Learning"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Oracle Certified Expert, MySQL 5.1 Cluster Database Administrator", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7060", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Microsoft Certified IT Professional: Enterprise Desktop Administrator on Windows 7", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7460", 
+            "Certifying Organization": "Microsoft Corporation"
+        }, 
+        {
+            "Acronym": "CDMP", 
+            "Certification Name": "Certified Data Management Professional", 
+            "Type": "Core", 
+            "Certification ID": "3546", 
+            "Certifying Organization": "Institute for the Certification of Computing Professionals"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Database Design Specialists", 
+            "Type": "Core", 
+            "Certification ID": "5776", 
+            "Certifying Organization": "Certified Internet Web Professionals"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Administrator - TRIRIGA Application Platform V3.2", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9547", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Deployment Professional - Tivoli Storage Manager Fastback V6.1.1", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9576", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "HP Technical Certified I - SMB Storage Solutions [2012]", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8928", 
+            "Certifying Organization": "Hewlett Packard Certification and Learning"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Solution Developer - DB2 9.7 SQL Procedure", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9355", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified System Administrator - WebSphere Application Server Network Deployment V7.0", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "5046", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Administrator - Tivoli Monitoring V6.2.3", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9544", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Deployment Professional - Tivoli Provisioning Manager V7.2.0.2", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9574", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Solutions Expert -- Informix 4GL Developer", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9409", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Cisco Certified Architect", 
+            "Type": "Advanced", 
+            "Certification ID": "8687", 
+            "Certifying Organization": "Cisco Systems, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "nGenius Certified Expert", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "2385", 
+            "Certifying Organization": "NetScout"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "nGenius Certified Master", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "2386", 
+            "Certifying Organization": "NetScout"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "HP Master ASE - Converged Infrastructure Architect V2", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7241", 
+            "Certifying Organization": "Hewlett Packard Certification and Learning"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "CCDE Design Expert", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "5704", 
+            "Certifying Organization": "Cisco Systems, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Oracle Communications Billing and Revenue Management: System Administrator", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7128", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Oracle Certified Professional, Oracle Solaris 10 System Administrator", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7130", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Oracle Certified Professional, MySQL 5 Developer", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7058", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "CompTIA Green IT Certification", 
+            "Type": "Core", 
+            "Certification ID": "7375", 
+            "Certifying Organization": "Computing Technology Industry Association (CompTIA)"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Oracle Certified Expert Database SQL", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7052", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Oracle9i Database Administrator Certified Associate", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8498", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Exalogic Elastic Cloud X2-2 Certified Implementation Specialist", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8502", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "HP Master ASE - Storage Solutions [2011]", 
+            "Type": "Advanced", 
+            "Certification ID": "7246", 
+            "Certifying Organization": "Hewlett Packard Certification and Learning"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Advanced Database Administrator - DB2 10.1 for Linux UNIX and Windows", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9363", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified System Administrator - DB2 9 for z/OS", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9365", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Microsoft Certified Technology Specialist: Windows Server 2008 R2, Server Virtualization", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7505", 
+            "Certifying Organization": "Microsoft Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Associate - Migration Engine from Butterfly Software V6.05", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9551", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Teradata 14 Database Administrator", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9220", 
+            "Certifying Organization": "Teradata"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Oracle Certified Master - Oracle 10g Database Administrator", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "3729", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Oracle Certified Professional - Oracle Application Server 10g Administrator", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "4858", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Database Administrator - DB2 10 for z/OS", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9360", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified System Programmer - IMS", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9369", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "HP ATP - Vertica Big Data Solutions V1", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8879", 
+            "Certifying Organization": "Hewlett Packard Certification and Learning"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "HP AIS - Converged Infrastructure Integration [2011]", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7189", 
+            "Certifying Organization": "Hewlett Packard Certification and Learning"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Microsoft Certified Technology Specialist: Windows Server 2008 Active Directory Configuring", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7399", 
+            "Certifying Organization": "Microsoft Corporation"
+        }, 
+        {
+            "Acronym": "DGSP", 
+            "Certification Name": "Data Governance and Stewardship Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "8142", 
+            "Certifying Organization": "Institute for the Certification of Computing Professionals"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Service Management Cloud Computing Infrastructure V1", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9522", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Oracle IT Architecture Release 3 Certified Architecture Specialist", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8500", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Oracle Certified Professional Oracle Solaris Cluster 3.2 System Administrator", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7886", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Oracle Database 10g Administrator Certified Master", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8495", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Oracle Linux Certified Administrator", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8522", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Oracle Database 11g: Administrator Certified Master", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "5746", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Oracle 9i Database Administrator - Professional", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "5797", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Microsoft Certified IT Professional: Enterprise Administrator on Windows Server 2008", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7396", 
+            "Certifying Organization": "Microsoft Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Application Developer - TRIRIGA Application Platform V3.2", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9548", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Microsoft Office Specialist (MOS): Access 2010", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7382", 
+            "Certifying Organization": "Microsoft Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Specialist - IBM InfoSphere Optim for Distributed Systems - V7.3.1", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9415", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Deployment Professional - Tivoli Storage Productivity Center V5.1", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "5008", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Oracle Certified Expert E-Business Suite R12 System Administrator", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7087", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "JD Edwards EnterpriseOne 9 Configurable Network Computing Certified Implementation Specialist", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7110", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Oracle 11g Database Administrator - Professional", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "3494", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "HP ASE - BSM Operations Manager for Linux/UNIX Implementations v9", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8870", 
+            "Certifying Organization": "Hewlett Packard Certification and Learning"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Advanced Deployment Professional - IBM Service Management Asset Management V5", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9511", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Advanced Deployment Professional - IBM Service Management Asset Management V4", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9516", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Database Associate - Informix Dynamic Server 11.50 Fundamentals", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9404", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "HP Technical Certified I - Exstream Software - Design and Production [2012]", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7223", 
+            "Certifying Organization": "Hewlett Packard Certification and Learning"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Database Associate -- DB2 9 Fundamentals", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9356", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Service Management Network and Service Assurance V3", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9517", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Administrator - Tivoli Storage Manager V6.2", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9545", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Oracle Certified Expert, Oracle Real Application Clusters 11g  and Grid Infrastructure Administrator", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7047", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Oracle Database 10g Administrator Certified Associate", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8494", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "CIW Web Development Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "7425", 
+            "Certifying Organization": "Certified Internet Web Professionals"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Adobe LiveCycle ES2 Enterprise RIA", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8068", 
+            "Certifying Organization": "Adobe Systems Incorporated"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "MySQL 5.0 Developer", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "5283", 
+            "Certifying Organization": "MySQL Inc"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Oracle E-Business Suite R12 Applications Database Administrator - Professional", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "5800", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Microsoft Certified Technology Specialist: SQL Server 2008, Database Development", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7500", 
+            "Certifying Organization": "Microsoft Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Specialist - IBM Optim Implementation for Distributed Systems (2009)", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9414", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Solution Developer - DB2 9.5 SQL Procedure Developer", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9354", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Identity Analytics 11g Certified Implementation Specialist", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7073", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Oracle Business Intelligence Applications 7 for CRM Certified Implementation Specialist", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7117", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Administrator - IBM PureData System for Transactions", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9416", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "nGenius Certified Professional", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "2384", 
+            "Certifying Organization": "NetScout"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "BMC Certified Administrator: BMC Atrium CMDB  7.5", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "5747", 
+            "Certifying Organization": "BMC Software, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "HP ATP - Converged Infrastructure Integrator V1", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7192", 
+            "Certifying Organization": "Hewlett Packard Certification and Learning"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified System Administrator - System Administration for IBM Informix Dynamic Server V10", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9411", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Database Administrator - DB2 9.7 for Linux, Unix and Windows", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9358", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Solution Designer - InfoSphere Warehouse V9.5", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9366", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Oracle Certified Associate, MySQL 5", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7057", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Microsoft Certified IT Professional: Database Administrator 2008", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7464", 
+            "Certifying Organization": "Microsoft Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Administrator - Tivoli Storage Manager V6.3", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9546", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Oracle Certified Expert 10g Managing Oracle on Linux", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7053", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Oracle Certified Expert Database 10g Administering Real Application Clusters", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7054", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Red Hat Certified System Administrator", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7861", 
+            "Certifying Organization": "Red Hat, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Brocade Certified Architect for FICON", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "5770", 
+            "Certifying Organization": "Brocade Communications Systems, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Microsoft Office Specialist: Microsoft Office Access 2007", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7392", 
+            "Certifying Organization": "Microsoft Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "HP ATP - Converged Infrastructure Administrator V1", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8858", 
+            "Certifying Organization": "Hewlett Packard Certification and Learning"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Associate - Tivoli Storage Manager V6.2", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9556", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Primavera P6 Enterprise Project Portfolio Management Certified Implementation Specialist", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7113", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Platform Administrator for SAS 9", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "2116", 
+            "Certifying Organization": "SAS Institute, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Sybase Certified Associate - Enterprise Adaptive Server Developer", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "2421", 
+            "Certifying Organization": "Sybase, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Oracle Application Server 10g Administrator- Associate", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "4857", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Solution Designer - DB2 Content Manager V8.3", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "4956", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "HP ATP - Cloud Administrator V1", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8855", 
+            "Certifying Organization": "Hewlett Packard Certification and Learning"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "HP ATP - Rack and Tower Server Solutions Integrator V8.1", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8866", 
+            "Certifying Organization": "Hewlett Packard Certification and Learning"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Database Associate - DB2 10.1 Fundamentals", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9357", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Novell Administrator", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "0362", 
+            "Certifying Organization": "Novell, Inc. - Education"
+        }, 
+        {
+            "Acronym": "HDI", 
+            "Certification Name": "HDI Support Center Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "1742", 
+            "Certifying Organization": "HDI"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Service Management Network and Service Assurance V2", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9524", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Service Management Data Center Management and Transformation V3", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9523", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Solution Designer -- DB2 Content Manager V8.3", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9342", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Oracle Database 11g Administrator Certified Associate", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7044", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Microsoft Certified Technology Specialist: Windows Server 2008 R2, Desktop Virtualization", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7506", 
+            "Certifying Organization": "Microsoft Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Solutions Expert -- Informix Dynamic Server V9 System Administrator", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9406", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Oracle Database 10g Administrator Certified Professional", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8496", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Oracle Database 11g Administrator Certified Professional", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8497", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Oracle Solaris 11 System Administrator", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8521", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Microsoft Dynamics AX 2009 Installation and Configuration", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7550", 
+            "Certifying Organization": "Microsoft Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Microsoft Certified Technology Specialist: Visual Studio Team Foundation Server 2010 Adm", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7512", 
+            "Certifying Organization": "Microsoft Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Microsoft Certified Technology Specialist: SQL Server 2008, Implementation and Maintenance", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7501", 
+            "Certifying Organization": "Microsoft Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Siebel  CRM 8 Certified Implementation Consultant Expert", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "5808", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Deployment Professional - Tivoli Monitoring V6.2.2", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "5004", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Advanced Deployment Professional - Tivoli: Netcool Impact  V6.1", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "4998", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Solution Advisor - Maximo Asset Management Solutions V3", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9578", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Oracle GoldenGate 10 Certified Implementation Specialist", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7074", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Oracle CRM On Demand Certified Implementation Specialist", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7112", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Oracle Business Intelligence Applications 7 for ERP Certified Implementation Specialist", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7118", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Specialist - IBM solidDB and IBM solidDB Universal Cache", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9419", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Oracle Certified Associate - Oracle 10g Database Administrator", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "3728", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Administrator - Cognos TM1 10.1", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9191", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Teradata 12 Certified Master", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "2796", 
+            "Certifying Organization": "Teradata"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Database Associate - Informix 11.70 Fundamentals", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9405", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "AIS - HP Performance Insight Software v5.x", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7194", 
+            "Certifying Organization": "Hewlett Packard Certification and Learning"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Application Developer - Informix 11.50", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9402", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Microsoft Certified IT Professional: Consumer Support Technician on Windows Vista", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7461", 
+            "Certifying Organization": "Microsoft Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Microsoft Technology Associate: Database Administration Fundamentals", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7481", 
+            "Certifying Organization": "Microsoft Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Oracle Enterprise Manager 12c Certified Implementation Specialist", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8491", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Oracle Life Sciences Data Hub 2 Certified Implementation Specialist", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8504", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Oracle Insurance Insight 7 Certified Implementation Specialist", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8509", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Avid Certified Support Representative for Storage", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8538", 
+            "Certifying Organization": "Avid Technology, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Microsoft Dynamics AX 2012 Installation and Configuration", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7549", 
+            "Certifying Organization": "Microsoft Corporation"
+        }
+    ], 
+    "onet": "15114100"
+}

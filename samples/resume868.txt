@@ -1,0 +1,286 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734597' xml:space='preserve'><contact><name><givenname>RICHARD</givenname> <givenname>J</givenname>. <surname>BIANCHI</surname></name>
+<address lat='35.6685' lon='87.699' majorcity='CENTERVILLE' state='TN'><street>791 Briar Pond Road</street>
+<city>Centerville</city>, <state abbrev='TN'>TN</state> <postalcode>37033</postalcode></address>
+<email>rick.bianchi@zoho.com</email>
+<phone>931.994.1145</phone></contact>
+
+
+<experience end='present' start='731949'>PROFESSIONAL EXPERIENCE
+
+
+<job end='present' id='1' pos='1' start='734140'><employer>MARTINREA AUTOMOTIVE SYSTEMS</employer> <address><country>U.S.A</country></address>	
+<title>IT Analyst</title>
+<address>Columbia, <state abbrev='TN'>Tennessee</state></address>
+<daterange><start days='734140' iso8601='2011-01-01'>2011</start>-<end days='present' iso8601='2012-04-02'>Present</end></daterange>
+
+<description>As the sole Internet Technologies Analyst, my responsibilities are to maintain, troubleshoot, and support servers, desktops, laptops, phone systems, and software applications in a production environment consisting of approximately 50 end users. Oversee hardware and software deployment. Assure the disaster recovery of information systems and implement internal controls to ensure compliance with Bill 198 \ SOX.
+
+Recommend improvements in network systems. Plan, schedule, and purchase required resources for timely and efficient upgrades of all IT infrastructure. Liaison with outside consultants, vendors, and service providers. Develop action plans and maintain procedural documentation to meet corporate IT standards. Prepare daily activity reports for departmental meetings by collecting, analyzing, and summarizing data pertinent to IT system integrity.</description></job>
+
+
+<job end='present' id='2' pos='2' start='732679'><employer>GRIP INNOVATIONS</employer>
+<title>Engineering Technician / System Administrator</title> (Working remotely from Tennessee)
+<address><city>Glendale</city>, <state abbrev='AZ'>Arizona</state></address>
+<daterange><start days='732679' iso8601='2007-01-01'>2007</start>-<end days='present' iso8601='2012-04-02'>Present</end></daterange>
+
+<description>Responsible for network administration of Apache, FTP, MySQL, Samba, SSH, Subversion, and VPN servers, ensuring uptime and network security. Coordinate with software and hardware teams to implement collaborative web-based tools. Analyze systems to ensure network availability and performance objectives are being met. Develop documentation for system specifications and operating instructions. Assist engineers in the development, testing, manufacturing, and design verification of prototype electronics; provide technical assistance when engineering problems are encountered.</description></job>
+
+
+<job end='734140' id='3' pos='3' start='732679'><employer>KUTTA TECHNOLOGIES</employer> (As a <title>contractor</title> through GRIP INNOVATIONS)
+<title>Engineering Technician</title>
+<address><city>Phoenix</city>, <state abbrev='AZ'>Arizona</state></address>
+<daterange><start days='732679' iso8601='2007-01-01'>2007</start>-<end days='734140' iso8601='2011-01-01'>2011</end></daterange>
+
+<description>Provide research and development groups with technical assistance during all phases of development (design, build, debug, and testing). Fabricate electronic system prototypes with size and portability constraints, meeting engineers' design specifications. Repair or modify electronic prototypes, assemblies, and systems to correct functional deviations. Test prototype equipment to evaluate performance of developmental parts, assemblies, or systems under simulated operating conditions, recording results. Prepare project BoMs, determining cost and work-time estimates. Conduct inspections for quality control, reporting findings and recommendations. Review electronic schematics, assembly drawings, and make necessary revisions to engineering change notifications (ECN).</description></job>
+
+
+<job end='733044' id='4' pos='4' start='731949'><employer>SAFEWAY INFORMATION TECHNOLOGY</employer> (A Fortune 100 Company)
+<title>Engineering Technician</title>
+<address><city>Tempe</city>, <state abbrev='AZ'>Arizona</state></address>
+<daterange><start days='731949' iso8601='2005-01-01'>2005</start>-<end days='733044' iso8601='2008-01-01'>2008</end></daterange>
+
+<description>Perform extensive hardware evaluations for global deployment. Collaborate to support 142 hardware devices including routers, switches, and access points. Build vendor relations, as primary contact with corporations such as Motorola and Cisco. Implement research and development with prototype units, assessing device for marketability and serviceability improvements. Enhance organizational efficiency through training in various technical roles. Create documentation for equipment installation, upgrades, troubleshooting and repair. Diagnose and rework devices to component level without schematics, including TTL/CMOS microprocessors. Provide detailed failure tracking and trend analysis to determine design deficiencies and direct next generation hardware.</description></job></experience>
+
+
+<education>EDUCATION
+<school id='5'><address><city>Joliet</city>, <state abbrev='IL'>Illinois</state></address>
+<completiondate days='732069' iso8601='2005-05-01'>May 2005</completiondate>
+
+<institution>JOLIET JUNIOR COLLEGE</institution>
+<degree level='14'>Associate of Applied Science</degree>,  <major code='1204'>Electronics Engineering Technology</major></school></education>
+
+
+<skills>Diagnostic Equipment: <skills>BGA/QFP Rework System, PACE PRC-2000 Soldering Workstation, Hot Air Soldering Station, Digital Multimeter, Digital Analyzer, Signature Analyzer, Oscilloscopes, Cable Locator, Aerial Lift, TTL Logic Probe, Analog Meter, RF Signal Analyzer, Function Generator, Flying Probe, UV Eraser , Frequency Counter, Mechanical/Fusion Fiber Splicing Equipment, Labtool Compact Programmer
+ 
+Software: Active Directory, Altium Viewer, AutoCAD, Backup Exec 2010, Code Composer Studio, CMS 5.x, Electronic Workbench, GPO, Hyper-Terminal, Labelview 8.6, Mentor Pads Flow, McAfee EPO 4.5, MRO, MS Office, OpenOffice, ProComm, Remedy, Scribus, WSUS, Xilinx Web Kit
+
+Operating Systems: Linux Servers (Debian, Fedora, openSUSE, Ubuntu), Windows 7, Vista,  XP Pro, Server 2003, and 2000 Pro, Windows NT 4.0/3.5, Windows CE, DOS, eCos, Angstrom, IBM i5/OS</skills></skills>
+
+
+<professional>CERTIFICATIONS
+
+<courses>Pace Certification in Surface Mount Technology, IAW J-Standard &amp; IPC-A-610J
+Pace Certification in Advanced Thru-Hole Rework and Repair, IAW J-Standard &amp; IPC-A-610J</courses></professional>
+
+
+</resume>
+
+<skillrollup version='1'>
+  <canonskill name='active directory'>
+    <variant>Active Directory</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='analysis' start='734140'>
+    <variant>Analyst</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='apache webserver' start='732679'>
+    <variant>Apache</variant>
+  </canonskill>
+  <canonskill end='734140' experience='1' expidrefs='3' idrefs='3' lastused='2011' name='assembly language' start='732679'>
+    <variant>assembly</variant>
+  </canonskill>
+  <canonskill name='autocad'>
+    <variant>AutoCAD</variant>
+  </canonskill>
+  <canonskill name='backup'>
+    <variant>Backup Exec</variant>
+  </canonskill>
+  <canonskill name='cabling'>
+    <variant>Cable</variant>
+  </canonskill>
+  <canonskill end='733044' experience='1' expidrefs='4' idrefs='4' lastused='2008' name='cisco' start='731949'>
+    <variant>Cisco</variant>
+  </canonskill>
+  <canonskill name='cms'>
+    <variant>CMS 5.x</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,4' idrefs='1,2,4' lastused='2012' name='computer hardware' start='731949'>
+    <variant>hardware</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='computer networking' start='734140'>
+    <variant>network systems</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='desktop pc' start='734140'>
+    <variant>desktops</variant>
+  </canonskill>
+  <canonskill name='digital multimeter'>
+    <variant>Digital Multimeter</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='disaster recovery planning' start='734140'>
+    <variant>disaster recovery</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,4' idrefs='1,2,4' lastused='2012' name='documentation' start='731949'>
+    <variant>documentation</variant>
+  </canonskill>
+  <canonskill name='dos'>
+    <variant>DOS</variant>
+  </canonskill>
+  <canonskill name='electronic workbench'>
+    <variant>Electronic Workbench</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='electronics' start='732679'>
+    <variant>electronics</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='ftp' start='732679'>
+    <variant>FTP</variant>
+  </canonskill>
+  <canonskill name='function generator'>
+    <variant>Function Generator</variant>
+  </canonskill>
+  <canonskill end='734140' experience='1' expidrefs='3' idrefs='3' lastused='2011' name='functional' start='732679'>
+    <variant>functional</variant>
+  </canonskill>
+  <canonskill name='ibm'>
+    <variant>IBM i</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='information systems' start='734140'>
+    <variant>information systems</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='internet technologies' start='734140'>
+    <variant>Internet Technologies</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='laptop computers' start='734140'>
+    <variant>laptops</variant>
+  </canonskill>
+  <canonskill name='linux'>
+    <variant>Linux</variant>
+  </canonskill>
+  <canonskill name='logic'>
+    <variant>Logic</variant>
+  </canonskill>
+  <canonskill name='mcafee'>
+    <variant>McAfee</variant>
+  </canonskill>
+  <canonskill name='mechanical'>
+    <variant>Mechanical</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='meeting facilitation' start='734140'>
+    <variant>meetings</variant>
+  </canonskill>
+  <canonskill name='mentoring'>
+    <variant>Mentor</variant>
+  </canonskill>
+  <canonskill end='733044' experience='1' expidrefs='4' idrefs='4' lastused='2008' name='microprocessors' start='731949'>
+    <variant>microprocessors</variant>
+  </canonskill>
+  <canonskill end='733044' experience='1' expidrefs='4' idrefs='4' lastused='2008' name='microsoft access' start='731949'>
+    <variant>access</variant>
+  </canonskill>
+  <canonskill name='microsoft office'>
+    <variant>MS Office</variant>
+  </canonskill>
+  <canonskill name='microsoft windows'>
+    <variant>Windows 7</variant>
+  </canonskill>
+  <canonskill name='microsoft windows 2000'>
+    <variant>2000</variant>
+  </canonskill>
+  <canonskill end='733044' experience='1' expidrefs='4' idrefs='4' lastused='2008' name='motorola hardware' start='731949'>
+    <variant>Motorola</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='mysql' start='732679'>
+    <variant>MySQL</variant>
+  </canonskill>
+  <canonskill name='netscape composer'>
+    <variant>Composer</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='network administration' start='732679'>
+    <variant>network administration</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='network security' start='732679'>
+    <variant>network security</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='networking' start='732679'>
+    <variant>network</variant>
+  </canonskill>
+  <canonskill end='733044' experience='1' expidrefs='4' idrefs='4' lastused='2008' name='next' start='731949'>
+    <variant>next</variant>
+  </canonskill>
+  <canonskill name='operating systems'>
+    <variant>Operating Systems</variant>
+    <variant>OS</variant>
+  </canonskill>
+  <canonskill end='733044' experience='1' expidrefs='4' idrefs='4' lastused='2008' name='organizational skills' start='731949'>
+    <variant>organizational</variant>
+  </canonskill>
+  <canonskill name='oscilloscope'>
+    <variant>Oscilloscopes</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='phone systems' start='734140'>
+    <variant>phone systems</variant>
+  </canonskill>
+  <canonskill name='procomm plus'>
+    <variant>ProComm</variant>
+  </canonskill>
+  <canonskill name='programming'>
+    <variant>Programmer</variant>
+  </canonskill>
+  <canonskill end='734140' experience='1' expidrefs='3' idrefs='3' lastused='2011' name='quality control' start='732679'>
+    <variant>quality control</variant>
+  </canonskill>
+  <canonskill end='734140' experience='1' expidrefs='3' idrefs='3' lastused='2011' name='recording' start='732679'>
+    <variant>recording</variant>
+  </canonskill>
+  <canonskill end='734140' experience='1' expidrefs='3' idrefs='3' lastused='2011' name='reports' start='732679'>
+    <variant>reporting</variant>
+  </canonskill>
+  <canonskill end='734140' experience='1' expidrefs='3,4' idrefs='3,4' lastused='2011' name='research' start='731949'>
+    <variant>research</variant>
+  </canonskill>
+  <canonskill end='733044' experience='1' expidrefs='4' idrefs='4' lastused='2008' name='routers' start='731949'>
+    <variant>routers</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='samba' start='732679'>
+    <variant>Samba</variant>
+  </canonskill>
+  <canonskill end='734140' experience='1' expidrefs='3,4' idrefs='3,4' lastused='2011' name='schematic diagrams' start='731949'>
+    <variant>schematics</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='servers' start='732679'>
+    <variant>Servers</variant>
+    <variant>servers</variant>
+  </canonskill>
+  <canonskill name='soldering'>
+    <variant>Soldering</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='ssh' start='732679'>
+    <variant>SSH</variant>
+  </canonskill>
+  <canonskill end='733044' experience='1' expidrefs='4' idrefs='4' lastused='2008' name='switches' start='731949'>
+    <variant>switches</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2,3' idrefs='2,3' lastused='2012' name='technical support' start='732679'>
+    <variant>technical assistance</variant>
+  </canonskill>
+  <canonskill end='733044' experience='1' expidrefs='4' idrefs='4' lastused='2008' name='trend' start='731949'>
+    <variant>trend</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,4' idrefs='1,4' lastused='2012' name='troubleshooting' start='731949'>
+    <variant>troubleshoot</variant>
+    <variant>troubleshooting</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,4' idrefs='1,4' lastused='2012' name='upgrades' start='731949'>
+    <variant>upgrades</variant>
+  </canonskill>
+  <canonskill name='uv'>
+    <variant>UV</variant>
+  </canonskill>
+  <canonskill end='733044' experience='1' expidrefs='4' idrefs='4' lastused='2008' name='vendor relations' start='731949'>
+    <variant>vendor relations</variant>
+  </canonskill>
+  <canonskill name='vista'>
+    <variant>Vista</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='vpn' start='732679'>
+    <variant>VPN</variant>
+  </canonskill>
+  <canonskill name='windows ce'>
+    <variant>Windows CE</variant>
+  </canonskill>
+  <canonskill name='windows nt 3.5'>
+    <variant>Windows NT 4.0/3.5</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

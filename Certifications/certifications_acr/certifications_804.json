@@ -1,0 +1,26 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CIRO", 
+            "Certification Name": "Certified Industrial Refrigeration Operator", 
+            "Type": "Core", 
+            "Certification ID": "7306", 
+            "Certifying Organization": "Refrigerating Engineers & Technicians Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "EPA Section 608 Certification", 
+            "Type": "Core", 
+            "Certification ID": "9058", 
+            "Certifying Organization": "Air Conditioning Contractors of America"
+        }, 
+        {
+            "Acronym": "CARO", 
+            "Certification Name": "Certified Assistant Refrigeration Operator", 
+            "Type": "Core", 
+            "Certification ID": "7305", 
+            "Certifying Organization": "Refrigerating Engineers & Technicians Association"
+        }
+    ], 
+    "onet": "51919300"
+}

@@ -1,0 +1,199 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734596' xml:space='preserve'>Phone <contact><phone type='home'>(503) 828-0365</phone> (H)
+            <phone type='cell'>(408) 499-3565</phone>(Cell)
+E-mail <email>tinghua_xu@yahoo.com</email>
+<address lat='45.4108' lon='122.724' majorcity='LAKE OSWEGO' state='OR'><street>5355 Greystoke Dr</street>.
+<city>Lake Oswego</city>, <state abbrev='OR'>OR</state> <postalcode>97035</postalcode></address>
+<name><givenname>Tinghua</givenname> <surname>Xu</surname></name></contact> 
+<summary>Objective	<objective>Find a Full Time Position as a  Network/Security Software QA Engineer</objective></summary>	
+
+<skills>Skills	<skills>UNIX/Linux(Internals), Windows,  Embedded System (Router, Switch, Printers); 
+TCP/IP, UDP, IPv6, DNS, DHCP,SNMP,SMTP,802.11i(WPA/WPA2);
+IPSec, IKE/IKE2, PKI (X.509), 802.1X/EAP, RADIUS, LDAP/Kerberos, SSL/TLS, Cryptography(AES/3DES/SHA/DH/RSA), FIPS140-2;
+C/C++, Visual C++, Java(JDBC/JNDI), Ruby/WATIR, Perl, Shells, Assembly (X86);
+Malware, Nmap, Netcat, SQL/Oracle/SQlite, HTML, Putty, WireShark, AirPcap, OpenSSL, Clearcase and etc.</skills></skills>	
+
+<experience end='present' start='730366'>Professional Experience	
+<job end='present' id='1' pos='1' sic='737103' sic2='73' start='734321'><employer>HCL America</employer>(Partnership with Xerox), <daterange><start days='734321' iso8601='2011-07-01'>July 2011</start> - <end days='present' iso8601='2012-04-01'>Present</end></daterange>
+<title>Senior Technical Lead</title>, <description>Lead a Small Team in Testing Xerox Wireless Infrastructure Mode Implementations on Xerox Printers. Created Test Plan and Procedures and Executed Big Part of the Testing; The Testing Are in System Level Involving Web Based User Interface, Device Local UI and Functionalities Like 802.11 Authentication (WEP,WPA/WPA2 Personal and Enterprise Mode(EAP-PEAP,TLS and TTLS)), DNS, DHCPv4 and DHCPv6; Device Ethernet Speed against Switch; and Other Printing/Scan/Security Related Network Application Protocols over Wireless and Wired Connections. Wireless Test Environment Setup and Experiences in Sniffer Tool (Wireshark and Airpcap); Configured Windows 2008 Network Policy Server and Other Application Server for Testing. Test Automation Using Ruby; Concurrent Programming Experiences in C, and Windows Winsock Programming Experiences in Visual C++.</description></job>  
+
+<job end='734321' id='2' naics='42342015' naics2='42' pos='2' sic='504403' sic2='50' start='732860'><employer>Xerox Corporation</employer>, <daterange><start days='732860' iso8601='2007-07-01'>July 2007</start> - <end days='734321' iso8601='2011-07-01'>July 2011</end></daterange>
+<description>Network Security Protocol Software QA Engineer in Network QA Lab of Xerox Office Group at Wilsonville Oregon. In Charge of Testing Network and Security Protocol Implementations (IPSec/IKE, LDAP/Kerberos, 802.1x (EAP/RADIUS), HTTPS (SSL), PKI, DNS/DHCP) against Windows/Linux/MAC System (Server) across Xerox Printer Platforms in an IPv4/IPv6 Environment. Created Test Plan, Test Cases and Executed Tests for These Features. Helped Resolving Design and Implementation Issues Significantly.  Significant Experiences with Windows, Linux and MAC Environment; Experiences with Common Network Protocols and Server/Router Setup. Experiences in Product Vulnerability Testing. Automation Experiences Using Batch File, Ruby/WATIR, Perl, Shell Scripts.</description></job> 
+
+<job end='732860' id='3' naics='44312001' naics2='44' pos='3' sic='573407' sic2='57' start='730366'><employer>Hewlett Packard</employer>, <daterange><start days='730366' iso8601='2000-09-01'>September 2000</start> -  <end days='732860' iso8601='2007-07-01'>July 2007</end></daterange>
+<title>Software Development Engineer</title> in HP-<description>UX System and Networking Security Section. Lifecycle Experience (Requirement Analysis, Investigation, Design, Implementation, Testing and Documentation) in HP-UX IPSec and AAA Product; Major Development Experiences in Multiple Components of IPSec Product (Policy, IKEv1/v2, PKI, Reporting Utilities and Database) in C and Java. Developed SDK API in C for HP-UX RADIUS Server and Web Based User Profile Management System in Java. Cryptographic Standard(Following FIPS/RFC Validation System) Conformance Testing against HP-UX Crypto Library in Both User and Kernel Space Using C. Performance Tests and Analysis on IPSec and IKE, Identify the Performance Bottleneck of User and Kernel Space; Automated Test Programs Using C, Shell, AWK and PERL. Execute Code Coverage Analysis for IPSec Product.</description></job></experience> 	
+
+<education>Education	<school id='4'><degree level='18' name='Master of Science'>MS</degree>, <major code='0402'>Computer Science</major>, <institution>University of Tennessee</institution>, Knoxville, GPA: <gpa max='4' value='3.5'>3.5</gpa></school>
+<school id='5'><degree level='18' name='Master of Science'>MS</degree>, <major code='0702'>Applied Mathematics</major>, <institution>University of Puerto Rico, Mayaguez</institution>, GPA: <gpa max='4' value='4'>4.0</gpa></school>
+<school id='6'><degree level='16' name='Bachelor of Science'>BS</degree>, <major code='0703'>Mathematics</major>, <institution>Northwestern University</institution>, <address><city>P. R.</city> <country iso3='CHN'>China</country></address>, GPA: <gpa max='4' value='3.2'>3.2</gpa></school></education>	
+
+<references>Reference	
+Permanent Resident.	
+
+ 
+</references></resume>
+
+<skillrollup version='1'>
+  <canonskill end='732860' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='api' start='730366'>
+    <variant>API</variant>
+  </canonskill>
+  <canonskill name='assembly language'>
+    <variant>Assembly</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='automation' start='732860'>
+    <variant>Automation</variant>
+  </canonskill>
+  <canonskill end='732860' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='awk' start='730366'>
+    <variant>AWK</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,3' idrefs='1,3' lastused='2012' name='c' start='730366'>
+    <variant>C</variant>
+  </canonskill>
+  <canonskill name='c + +'>
+    <variant>C++</variant>
+  </canonskill>
+  <canonskill name='clearcase'>
+    <variant>Clearcase</variant>
+  </canonskill>
+  <canonskill name='cryptography'>
+    <variant>Cryptography</variant>
+  </canonskill>
+  <canonskill end='732860' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='database administration' start='730366'>
+    <variant>Database</variant>
+  </canonskill>
+  <canonskill end='734321' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='dhcp' start='732860'>
+    <variant>DHCP</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='dns' start='732860'>
+    <variant>DNS</variant>
+  </canonskill>
+  <canonskill end='732860' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='documentation' start='730366'>
+    <variant>Documentation</variant>
+  </canonskill>
+  <canonskill end='734321' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='engineering' start='732860'>
+    <variant>Engineer</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='ethernet' start='734321'>
+    <variant>Ethernet</variant>
+  </canonskill>
+  <canonskill end='734321' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='features' start='732860'>
+    <variant>Features</variant>
+  </canonskill>
+  <canonskill end='732860' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='hp - ux' start='730366'>
+    <variant>HP-UX</variant>
+    <variant>UX</variant>
+  </canonskill>
+  <canonskill name='html'>
+    <variant>HTML</variant>
+  </canonskill>
+  <canonskill end='732860' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='java' start='730366'>
+    <variant>Java</variant>
+  </canonskill>
+  <canonskill name='jdbc'>
+    <variant>JDBC</variant>
+  </canonskill>
+  <canonskill name='jndi'>
+    <variant>JNDI</variant>
+  </canonskill>
+  <canonskill end='734321' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='ldap' start='732860'>
+    <variant>LDAP</variant>
+  </canonskill>
+  <canonskill end='734321' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='linux' start='732860'>
+    <variant>Linux</variant>
+  </canonskill>
+  <canonskill end='734321' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='macintosh' start='732860'>
+    <variant>MAC</variant>
+  </canonskill>
+  <canonskill end='734321' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='microsoft office' start='732860'>
+    <variant>Office</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='microsoft windows' start='732860'>
+    <variant>Windows</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='netscape enterprise server' start='734321'>
+    <variant>Enterprise</variant>
+  </canonskill>
+  <canonskill end='734321' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='network security' start='732860'>
+    <variant>Network Security</variant>
+    <variant>Network and Security</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,3' idrefs='1,2,3' lastused='2012' name='networking' start='730366'>
+    <variant>Network</variant>
+    <variant>Networking</variant>
+  </canonskill>
+  <canonskill name='oracle'>
+    <variant>Oracle</variant>
+  </canonskill>
+  <canonskill end='734321' experience='1' expidrefs='2,3' idrefs='2,3' lastused='2011' name='perl' start='730366'>
+    <variant>PERL</variant>
+    <variant>Perl</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='printers' start='732860'>
+    <variant>Printer</variant>
+    <variant>Printers</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='programming' start='734321'>
+    <variant>Programming</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='protocols' start='732860'>
+    <variant>Protocols</variant>
+  </canonskill>
+  <canonskill end='734321' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='quality control' start='732860'>
+    <variant>QA</variant>
+  </canonskill>
+  <canonskill end='732860' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='reports' start='730366'>
+    <variant>Reporting</variant>
+  </canonskill>
+  <canonskill end='732860' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='requirements' start='730366'>
+    <variant>Requirement</variant>
+  </canonskill>
+  <canonskill end='734321' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='routers' start='732860'>
+    <variant>Router</variant>
+  </canonskill>
+  <canonskill end='734321' experience='1' expidrefs='2,3' idrefs='2,3' lastused='2011' name='shell scripting' start='730366'>
+    <variant>Shell</variant>
+    <variant>Shell Scripts</variant>
+  </canonskill>
+  <canonskill name='smtp'>
+    <variant>SMTP</variant>
+  </canonskill>
+  <canonskill name='snmp'>
+    <variant>SNMP</variant>
+  </canonskill>
+  <canonskill name='sql'>
+    <variant>SQL</variant>
+  </canonskill>
+  <canonskill end='734321' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='ssl' start='732860'>
+    <variant>SSL</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='switches' start='734321'>
+    <variant>Switch</variant>
+  </canonskill>
+  <canonskill name='tcp/ip'>
+    <variant>TCP/IP</variant>
+  </canonskill>
+  <canonskill name='unix'>
+    <variant>UNIX</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='user interface design' start='734321'>
+    <variant>User Interface</variant>
+  </canonskill>
+  <canonskill end='732860' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='utilities' start='730366'>
+    <variant>Utilities</variant>
+  </canonskill>
+  <canonskill end='732860' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='validation' start='730366'>
+    <variant>Validation</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='visual c + +' start='734321'>
+    <variant>Visual C++</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='winsock' start='734321'>
+    <variant>Winsock</variant>
+  </canonskill>
+  <canonskill name='x86'>
+    <variant>X86</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

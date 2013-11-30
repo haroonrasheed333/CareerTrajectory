@@ -1,0 +1,61 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CNE", 
+            "Certification Name": "Certified Nurse Educator", 
+            "Type": "Advanced", 
+            "Certification ID": "6094", 
+            "Certifying Organization": "National League for Nursing"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Nurse Executive", 
+            "Type": "Specialty", 
+            "Certification ID": "6129", 
+            "Certifying Organization": "American Nurses Credentialing Center"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Academic Certification in Biofeedback", 
+            "Type": "Core", 
+            "Certification ID": "6713", 
+            "Certifying Organization": "Biofeedback Certification International Alliance"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Informatics Nursing", 
+            "Type": "Specialty", 
+            "Certification ID": "6127", 
+            "Certifying Organization": "American Nurses Credentialing Center"
+        }, 
+        {
+            "Acronym": "CCMEP", 
+            "Certification Name": "Certified CME Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "6081", 
+            "Certifying Organization": "National Commission for Certification of CME professionals"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Nursing Professional Development", 
+            "Type": "Specialty", 
+            "Certification ID": "6130", 
+            "Certifying Organization": "American Nurses Credentialing Center"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Academic Certification in Neurofeedback", 
+            "Type": "Core", 
+            "Certification ID": "6714", 
+            "Certifying Organization": "Biofeedback Certification International Alliance"
+        }, 
+        {
+            "Acronym": "CDE", 
+            "Certification Name": "Certified Diabetes Educator", 
+            "Type": "Specialty", 
+            "Certification ID": "2441", 
+            "Certifying Organization": "National Certification Board for Diabetes Educators"
+        }
+    ], 
+    "onet": "25107200"
+}

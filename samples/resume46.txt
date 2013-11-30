@@ -1,0 +1,223 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734581' xml:space='preserve'><contact><name><givenname>Marcos</givenname> <surname>Almendariz</surname></name>
+
+<address lat='38.6836' lon='121.158' majorcity='FOLSOM' state='CA'><street>267 Hornsby Court</street>, <city>Folsom</city>, <state abbrev='CA'>CA</state> <postalcode>95630</postalcode></address>
+<phone>(916) 990-4776</phone> <email>grappler001@gmail.com</email></contact>
+<summary>OBJECTIVE
+<objective>IT technical position where I can use my education, technical abilities, and creative thinking to ensure that a company's internetwork runs on all four cylinders.</objective></summary>
+<skills>HIGHLIGHT OF QUALIFICATIONS
+
+<skills>Proficient in LAN and WAN internetwork protocol 
+Strong knowledge of Linux OS and Windows Server 2008 R2 
+SQL server project in college resulted in a grade of &quot;A&quot;
+Strong knowledge of Microsoft Office Products
+Develop solutions and document procedures according to company's guidelines
+Several years of leadership and management experience</skills> 
+<description>Strong sales and customer service background
+Excellent analytical and multi-level technical problem-solving abilities 
+Good verbal and written communication skills
+Work well under pressure and able to independently resolve escalated issues 
+Excellent time management
+Organized and detail-oriented</description>
+<languages>Bilingual (fluent in Tagalog)</languages></skills> 
+
+<education>EDUCATION
+<school id='5'><degree level='14' name='Associate of Science'>Associate of Science</degree>, <major code='1201'>Information Technology - Computer Network Systems</major> (<gpa max='4' value='3.9'>3.9</gpa> GPA to date)
+<institution>ITT Technical Institute</institution>, <address><city>Rancho Cordova</city>, <state abbrev='CA'>CA</state></address> 	
+Graduation: <completiondate days='734444' iso8601='2011-11-01'>November 2011</completiondate>
+<gpa max='4' value='3.9'>3.9</gpa></school> GPA to date with highest honors
+Perfect attendance
+
+<school id='6'><degree level='14' name='Associate of Arts'>Associate of Arts</degree>, <major code='4'>General Education</major>
+<institution>Sacramento City College</institution>, <address><city>Sacramento</city>, <state abbrev='CA'>CA</state></address> 
+Graduation: <completiondate days='733165' iso8601='2008-05-01'>May 2008</completiondate>
+Related Course work:
+
+<courses>Computer Programming
+Database Development
+Network Standards and Protocols
+Microsoft Networking Operating Systems 1 and 2</courses>
+<description>Linux Operating Systems
+Operating System
+
+Completed Projects:
+
+Received an A in my Routing and Switching project 
+Earned an A in a Linux server setup of FTP, Mail Server, and SSH 
+Received an A in SQL server project
+Earned an A in Python Programming calculator project
+Contestant winner of a prose style writing as sophomore in college</description></school></education>
+
+<experience end='present' start='733349'>WORK EXPERIENCE 
+<job end='present' id='1' pos='1' start='734474'><daterange><start days='734474' iso8601='2011-12-01'>12/11</start>-<end days='present' iso8601='2012-03-17'>Present</end></daterange>			<employer>PACT-ONE Solutions</employer>		 	<address><city>Henderson</city>, <state abbrev='NV'>NV</state></address>
+<title>IT Professional</title>
+<description>Developed business strategy for sales and marketing
+Applied product knowledge and proper application based on market trends
+Assisted and trained co-workers on complex computer programs
+Maintained network updates
+Charged with building new hire computers, and setting up static IP addresses
+Investigated file discrepancies and prepared resolutions
+Coordinated multiple projects and met deadlines under pressure
+Independently analyzed complex client information
+Proficiently utilized multiple sensitive computer programs</description></job>
+
+<job end='734444' id='2' pos='3' start='734109'><daterange><start days='734109' iso8601='2010-12-01'>12/10</start> -<end days='734444' iso8601='2011-11-01'>11/11</end></daterange>			<employer>California State Lottery</employer>		<address><city>Sacramento</city>, <state abbrev='CA'>CA</state></address>
+<title>IT Help Desk Support</title>	
+<description>Follow specific imaging deployment protocol for the California State Lottery 
+Proactively resolve client issue, and assess overall performance to ensure quality
+In Active Directory made GPO changes based on managerial requests
+Implement vast knowledge of differing computer software to staff as needed
+Utilization of remote access, or daemonware for remote assistance 
+Apply Window Server 2008 knowledge 
+Exercise Linux programming knowledge
+Frequently use my second language
+Maintain a perfect attendance record
+Develop solutions and document procedures according to company's guidelines</description></job>
+	
+<job end='present' id='3' pos='2' sic='1711' sic2='17' start='733530'><daterange><start days='733530' iso8601='2009-05-01'>5/09</start>-<end days='present' iso8601='2012-03-17'>Present</end></daterange>			<employer>Almendariz Plumbing Systems</employer>		<address><city>San Diego</city>, <state abbrev='CA'>CA</state></address>
+<title>Plumber Apprentice (on-call)</title>
+<description>Train under journey-level plumbers and assist with new construction and remodeling projects</description></job>
+
+<job end='734079' id='4' pos='4' start='733349'><daterange><start days='733349' iso8601='2008-11-01'>11/08</start>- <end days='734079' iso8601='2010-11-01'>11/2010</end></daterange>			<employer>Almendariz Engineering</employer>				<address><city>Sacramento</city>, <state abbrev='CA'>CA</state></address>
+<title>Auto Cad Engineer</title>
+<description>Developed and designed traffic safety zone maps utilizing Auto Cad
+Apply state laws and regulations in developing construction zone drawings</description></job></experience>
+
+
+
+
+
+
+
+
+
+
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='734444' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='active directory' start='734109'>
+    <variant>Active Directory</variant>
+  </canonskill>
+  <canonskill end='734079' experience='1' expidrefs='4' idrefs='4' lastused='2010' name='autocad' start='733349'>
+    <variant>Auto Cad</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='business strategy' start='734474'>
+    <variant>business strategy</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='6' idrefs='6' name='calculator'>
+    <variant>calculator</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='customer relations' start='734109'>
+    <variant>client</variant>
+  </canonskill>
+  <canonskill name='customer service'>
+    <variant>customer service</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='6' idrefs='6' name='database development'>
+    <variant>Database Development</variant>
+  </canonskill>
+  <canonskill name='detail oriented'>
+    <variant>detail-oriented</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='6' idrefs='6' name='ftp'>
+    <variant>FTP</variant>
+  </canonskill>
+  <canonskill end='734444' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='imaging' start='734109'>
+    <variant>imaging</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='ip' start='734474'>
+    <variant>IP</variant>
+  </canonskill>
+  <canonskill name='lan'>
+    <variant>LAN</variant>
+  </canonskill>
+  <canonskill name='leadership'>
+    <variant>leadership</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='6' end='734444' experience='1' expidrefs='2' idrefs='6,2' lastused='2011' name='linux' start='734109'>
+    <variant>Linux</variant>
+    <variant>Linux OS</variant>
+  </canonskill>
+  <canonskill end='734444' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='management' start='734109'>
+    <variant>managerial</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='marketing' start='734474'>
+    <variant>marketing</variant>
+    <variant>market</variant>
+  </canonskill>
+  <canonskill end='734444' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='microsoft access' start='734109'>
+    <variant>access</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='6' idrefs='6' name='microsoft mail'>
+    <variant>Mail</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='6' idrefs='6' name='microsoft networking'>
+    <variant>Microsoft Networking</variant>
+  </canonskill>
+  <canonskill name='microsoft office'>
+    <variant>Microsoft Office Products</variant>
+  </canonskill>
+  <canonskill end='734444' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='microsoft windows' start='734109'>
+    <variant>Windows</variant>
+    <variant>Window</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='6' end='734579' experience='1' expidrefs='1' idrefs='6,1' lastused='2012' name='networking' start='734474'>
+    <variant>Network</variant>
+    <variant>network</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='6' idrefs='6' name='operating systems'>
+    <variant>Operating Systems</variant>
+    <variant>Operating Systems 1</variant>
+    <variant>Operating System</variant>
+  </canonskill>
+  <canonskill name='problem solving'>
+    <variant>problem-solving</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='6' end='734444' experience='1' expidrefs='2' idrefs='6,2' lastused='2011' name='programming' start='734109'>
+    <variant>Computer Programming</variant>
+    <variant>Programming</variant>
+    <variant>programming</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='6' idrefs='6' name='prose'>
+    <variant>prose</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='6' idrefs='6' name='protocols'>
+    <variant>Protocols</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='6' idrefs='6' name='python'>
+    <variant>Python</variant>
+  </canonskill>
+  <canonskill end='734444' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='quality' start='734109'>
+    <variant>quality</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='6' idrefs='6' name='routers'>
+    <variant>Routing</variant>
+  </canonskill>
+  <canonskill end='734079' experience='1' expidrefs='4' idrefs='4' lastused='2010' name='safety' start='733349'>
+    <variant>safety</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='sales' start='734474'>
+    <variant>sales</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='6' idrefs='6' name='sql'>
+    <variant>SQL server</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='6' idrefs='6' name='ssh'>
+    <variant>SSH</variant>
+  </canonskill>
+  <canonskill name='tagalog'>
+    <variant>Tagalog</variant>
+  </canonskill>
+  <canonskill name='time management'>
+    <variant>time management</variant>
+  </canonskill>
+  <canonskill name='wan'>
+    <variant>WAN</variant>
+  </canonskill>
+  <canonskill name='writing'>
+    <variant>written communication skills</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

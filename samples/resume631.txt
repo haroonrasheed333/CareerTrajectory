@@ -1,0 +1,189 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734595' xml:space='preserve'><contact><name><givenname>HEMANT</givenname> <givenname>K</givenname>. <surname>KOHLI</surname></name>
+<address lat='39.9928' lon='75.7588' majorcity='THORNDALE' state='PA'><street>264 Thornridge Dr</street>, <city>Thorndale</city>, <state abbrev='PA'>PA</state> <postalcode>19372</postalcode></address>
+<phone>(610) 316-0781</phone> 
+mobile	<email>hkkohli@gmail.com</email></contact>
+
+<summary>Professional Summary:
+Detail-oriented I.T. professional with 10+ years of technical, consulting, e-commerce, &amp; management acumen to streamline business-critical applications &amp; processes that increase security, maintain process control, &amp; streamline tasks within a corporate structure focused on top-line revenue/sales growth.</summary>
+
+<skills>Technical Skills:
+<skills>Object-Oriented Programming	C#; ASP/ASP.NET; ADO.Net	Microsoft SharePoint
+E-Commerce Software Protocols (eBay; ZenCart; Magento;)	PHP
+SQL Management Studio	Oracle 9i &amp; 10g	Business Objects</skills></skills>	
+<education><school id='9'><courses>Web Host Manager                                        Cpanel Hosting Solutions                           (CMS, Fantastico, PHP MYADMIN)
+
+Certifications/Technical Training:
+Scrum Master Certification 2008                                                            Project Management Certification, 2006-2007
+SharePoint 2010, 2011 - Present                                                          Database Design Certification, 2006-2007
+SharePoint 2003 - 2007 Boot Camp, (LiquidHub), 2009	           .NET Development, 2006-2007
+I.T. Business Analysis</courses>, <daterange><start days='732314' iso8601='2006-01-01'>2006</start>-<end days='733044' iso8601='2008-01-01'>2008</end></daterange>	 
+
+Education:
+<institution>Penn State University	State College</institution>, <address><state abbrev='PA'>PA</state></address>
+<major code='2016'>Psychology</major>. Minor in <minor code='2202'>Criminal Studies</minor>.	                                                                        <daterange><start days='728661' iso8601='1996-01-01'>1996</start> - <end days='730488' iso8601='2001-01-01'>2001</end></daterange></school></education>	
+
+<experience end='present' start='730488'>Professional Experience:
+<job end='present' id='1' pos='1' sic='822101' sic2='82' start='733410'><employer>Penn State University</employer>
+Applications &amp; I.T. Support, <jobtype>contract</jobtype> <title>consultant</title>	<daterange><start days='733410' iso8601='2009-01-01'>2009</start> - <end days='present' iso8601='2012-03-31'>Present</end></daterange>
+<description>Designed and developed start-up websites across multiple platforms, concurrently increasing intranet traffic to existing websites
+Analyzed web analytics using AWStats program to further define conversion and growth pattern of application 
+Increased business revenue leveraging industry specific weblinks &amp; SEO practices to generate traffic and cross-marketing efforts
+Provided client base with application support 
+Responsible for defining system requirements for E-Commerce sites across multiple platforms</description></job>
+	<job end='734140' id='2' pos='2' start='732679'><address><city>Great Valley</city>, <state abbrev='PA'>PA</state></address>
+I.T. Liasion, Office of the University Dean, consultant	<daterange><start days='732679' iso8601='2007-01-01'>2007</start> - <end days='734140' iso8601='2011-01-01'>2011</end></daterange>
+<description>Created business use cases for equipment reservation system to eliminate percent error on scheduling efforts
+SME on Meridia Audience response software
+Utilized SDLC methods to organize SharePoint sites within department groups to streamline communication
+Performed unit, system &amp; integration testing for all new software implementations</description>
+
+<employer>JSSeth Group PVT</employer>	<address><city>New Delhi</city>, <country iso3='IND'>India</country></address>
+<title>Business Consultant &amp; I.T. Project Manager</title>, <jobtype>part-time contract</jobtype></job>	2009
+<job id='3'><title>Project lead</title> 
+<description>Utilized swimlane process flow to ensure forward momentum of project across multiple requirements
+Implemented Scrum practices within corporate structure to remove impediments and streamline communication
+Created and reviewed requirement documents across multiple team members
+Conducted market research &amp; analysis of competing IT applications</description></job>
+
+<job end='733410' id='4' pos='3' start='733044'><employer>LiquidHub Consulting	King of Prussia, PA</employer>
+<title>Programmer Application Analyst</title>, Finance Group, OmniCare Clinical Research	<daterange><start days='733044' iso8601='2008-01-01'>2008</start> - <end days='733410' iso8601='2009-01-01'>2009</end></daterange>
+<description>Supported and managed up-time of SOX compliant applications and Validated environments
+Prioritized tasks within SharePoint for further development
+executed queries and DMF's for Data Modification
+Implemented application fixes using Change Management strategies 
+Developed Actuate reports
+Liaison between application, DBA, Business Analysis, QA, teams
+Wrote functional requirement documents, DFD, UML Diagrams</description></job>
+
+
+<job end='732679' id='5' pos='4' sic='736103' sic2='73' start='732679'><employer>Robert Half Technologies</employer>	<address><city>Great Valley</city>, <state abbrev='PA'>PA</state></address>
+<title>I.T. Developer/Analyst/Programmer</title>, e-<department>Commerce Dept</department>, Xoxide	<daterange><start days='732679' iso8601='2007-01-01'>2007</start> - <end days='732679' iso8601='2007-01-01'>2007</end></daterange>
+<description>Supported development of multiple E-Commerce applications generating $21 million yearly
+Evaluated development efforts for  future implementations</description></job> 
+
+<job end='731583' id='6' pos='5' sic='6282' sic2='62' start='731218'><employer>LBA Financial Group	King of Prussia, PA</employer>
+<title>Loan Officer/Mortgage Processor</title>	<daterange><start days='731218' iso8601='2003-01-01'>2003</start> - <end days='731583' iso8601='2004-01-01'>2004</end></daterange>
+<description>Marketed, consulted, processed mortgages for residential &amp; commercial mortgage prime &amp; sub-prime loans</description></job>
+
+<job end='731218' id='7' pos='6' sic='616201' sic2='61' start='730853'><employer>Gateway Funding</employer>	<address><city>Fort Washington</city>, <state abbrev='PA'>PA</state></address>
+<title>Loan Officer/Mortgage Processor</title>	<daterange><start days='730853' iso8601='2002-01-01'>2002</start> - <end days='731218' iso8601='2003-01-01'>2003</end></daterange>
+<description>Processed residential mortgages using standard Fannie Mae &amp; Freddie Mac, DU &amp; LP practices 
+Worked alongside underwriters on manually approving clients and requirements entailed individually as needed</description></job> 
+
+<job end='730853' id='8' pos='7' sic='616201' sic2='61' start='730488'><employer>Mortgage Investors Corp</employer>	<address><city>Cherry Hill</city>, <state abbrev='NJ'>NJ</state></address>
+<title>Loan Officer</title>	<daterange><start days='730488' iso8601='2001-01-01'>2001</start> - <end days='730853' iso8601='2002-01-01'>2002</end></daterange>
+<description>Refinanced residents using VA Streamline program
+Marketed/promoted program to prospective clients</description></job></experience>
+
+ 
+</resume>
+
+<skillrollup version='1'>
+  <canonskill education='1' name='.net'>
+    <variant>.NET</variant>
+    <variant>.Net</variant>
+    <variant>ASP.NET</variant>
+  </canonskill>
+  <canonskill end='733410' experience='1' expidrefs='4' idrefs='4' lastused='2009' name='actuate' start='733044'>
+    <variant>Actuate</variant>
+  </canonskill>
+  <canonskill name='ado'>
+    <variant>ADO</variant>
+  </canonskill>
+  <canonskill end='734140' experience='1' expidrefs='2,3,8' idrefs='2,3,8' lastused='2011' name='adobe streamline' start='730488'>
+    <variant>Streamline</variant>
+    <variant>streamline</variant>
+  </canonskill>
+  <canonskill name='asp'>
+    <variant>ASP</variant>
+  </canonskill>
+  <canonskill education='1' end='733410' experience='1' expidrefs='4' idrefs='4' lastused='2009' name='business analysis' start='733044'>
+    <variant>Business Analysis</variant>
+  </canonskill>
+  <canonskill name='business objects'>
+    <variant>Business Objects</variant>
+  </canonskill>
+  <canonskill end='733410' experience='1' expidrefs='4' idrefs='4' lastused='2009' name='change management' start='733044'>
+    <variant>Change Management</variant>
+  </canonskill>
+  <canonskill education='1' name='cms'>
+    <variant>CMS</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='conversion' start='733410'>
+    <variant>conversion</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,7,8' idrefs='1,7,8' lastused='2012' name='customer relations' start='730488'>
+    <variant>client</variant>
+    <variant>clients</variant>
+  </canonskill>
+  <canonskill education='1' name='database design'>
+    <variant>Database Design</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,5' idrefs='1,5' lastused='2012' name='e - commerce' start='732679'>
+    <variant>E-Commerce</variant>
+  </canonskill>
+  <canonskill end='733410' experience='1' expidrefs='4' idrefs='4' lastused='2009' name='functional' start='733044'>
+    <variant>functional</variant>
+  </canonskill>
+  <canonskill end='731218' experience='1' expidrefs='7' idrefs='7' lastused='2003' name='macintosh' start='730853'>
+    <variant>Mac</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='3' idrefs='3' name='market research'>
+    <variant>market research</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='marketing' start='733410'>
+    <variant>marketing</variant>
+  </canonskill>
+  <canonskill name='microsoft c #'>
+    <variant>C#</variant>
+  </canonskill>
+  <canonskill name='object oriented programming'>
+    <variant>Object-Oriented Programming</variant>
+  </canonskill>
+  <canonskill name='oracle'>
+    <variant>Oracle 9</variant>
+  </canonskill>
+  <canonskill end='733410' experience='1' expidrefs='4' idrefs='4' lastused='2009' name='oracle dba' start='733044'>
+    <variant>DBA</variant>
+  </canonskill>
+  <canonskill education='1' name='php'>
+    <variant>PHP</variant>
+  </canonskill>
+  <canonskill end='731583' experience='1' expidrefs='6' idrefs='6' lastused='2004' name='prime' start='731218'>
+    <variant>prime</variant>
+  </canonskill>
+  <canonskill education='1' name='project management'>
+    <variant>Project Management</variant>
+  </canonskill>
+  <canonskill name='protocols'>
+    <variant>Protocols</variant>
+  </canonskill>
+  <canonskill end='733410' experience='1' expidrefs='4' idrefs='4' lastused='2009' name='quality control' start='733044'>
+    <variant>QA</variant>
+  </canonskill>
+  <canonskill end='733410' experience='1' expidrefs='3,4' idrefs='3,4' lastused='2009' name='requirements' start='733044'>
+    <variant>requirement</variant>
+  </canonskill>
+  <canonskill end='734140' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='scheduling' start='732679'>
+    <variant>scheduling</variant>
+  </canonskill>
+  <canonskill end='734140' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='sdlc' start='732679'>
+    <variant>SDLC</variant>
+  </canonskill>
+  <canonskill name='sql'>
+    <variant>SQL</variant>
+  </canonskill>
+  <canonskill education='1' name='technical training'>
+    <variant>Technical Training</variant>
+  </canonskill>
+  <canonskill end='733410' experience='1' expidrefs='4' idrefs='4' lastused='2009' name='unified modeling language' start='733044'>
+    <variant>UML</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='web site production' start='733410'>
+    <variant>websites</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

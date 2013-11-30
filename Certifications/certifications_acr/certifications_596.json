@@ -1,0 +1,33 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CBA", 
+            "Certification Name": "Credit Business Associate", 
+            "Type": "Core", 
+            "Certification ID": "5896", 
+            "Certifying Organization": "National Association of Credit Management"
+        }, 
+        {
+            "Acronym": "CCE", 
+            "Certification Name": "Certified Credit Examiner", 
+            "Type": "Core", 
+            "Certification ID": "6894", 
+            "Certifying Organization": "Education Foundation of State Bank Supervisors"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Credit Business Fellow", 
+            "Type": "Advanced", 
+            "Certification ID": "5897", 
+            "Certifying Organization": "National Association of Credit Management"
+        }, 
+        {
+            "Acronym": "SHCM", 
+            "Certification Name": "Specialist in Housing Credit Management", 
+            "Type": "Specialty", 
+            "Certification ID": "8039", 
+            "Certifying Organization": "National Apartment Association"
+        }
+    ], 
+    "onet": "43404102"
+}

@@ -1,0 +1,145 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "Diplomate", 
+            "Certification Name": "Certified Vocational Expert (Diplomate)", 
+            "Type": "Advanced", 
+            "Certification ID": "1415", 
+            "Certifying Organization": "American Board of Vocational Experts"
+        }, 
+        {
+            "Acronym": "NCC", 
+            "Certification Name": "National Certified Counselor", 
+            "Type": "Advanced", 
+            "Certification ID": "0356", 
+            "Certifying Organization": "National Board for Certified Counselors"
+        }, 
+        {
+            "Acronym": "Fellow", 
+            "Certification Name": "Certified Vocational Expert (Fellow)", 
+            "Type": "Advanced", 
+            "Certification ID": "1414", 
+            "Certifying Organization": "American Board of Vocational Experts"
+        }, 
+        {
+            "Acronym": "MAC", 
+            "Certification Name": "Master Addictions Counselor", 
+            "Type": "Specialty", 
+            "Certification ID": "0367", 
+            "Certifying Organization": "National Board for Certified Counselors"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification in Cognitive Therapy", 
+            "Type": "Core", 
+            "Certification ID": "8670", 
+            "Certifying Organization": "Academy of Cognitive Therapy"
+        }, 
+        {
+            "Acronym": "CWA", 
+            "Certification Name": "Certified Work Adjustment Specialist", 
+            "Type": "Core", 
+            "Certification ID": "5818", 
+            "Certifying Organization": "Commission on Rehabilitation Counselor Certification"
+        }, 
+        {
+            "Acronym": "CEDS", 
+            "Certification Name": "Certified Eating Disorders Specialist in Mental Health", 
+            "Type": "Advanced", 
+            "Certification ID": "2011", 
+            "Certifying Organization": "International Association of Eating Disorders Professionals"
+        }, 
+        {
+            "Acronym": "CST", 
+            "Certification Name": "Sex Therapist Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "2096", 
+            "Certifying Organization": "American Association of Sexuality Educators, Counselors and Therapists"
+        }, 
+        {
+            "Acronym": "CVE", 
+            "Certification Name": "Certified Vocational Evaluation Specialist", 
+            "Type": "Core", 
+            "Certification ID": "2092", 
+            "Certifying Organization": "Commission on Rehabilitation Counselor Certification"
+        }, 
+        {
+            "Acronym": "CCJP", 
+            "Certification Name": "Certified Criminal Justice Addiction Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "3536", 
+            "Certifying Organization": "International Certification & Reciprocity Consortium"
+        }, 
+        {
+            "Acronym": "BCN", 
+            "Certification Name": "Board Certified in Neurofeedback", 
+            "Type": "Specialty", 
+            "Certification ID": "6711", 
+            "Certifying Organization": "Biofeedback Certification International Alliance"
+        }, 
+        {
+            "Acronym": "CSE", 
+            "Certification Name": "Sex Counselor Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "2095", 
+            "Certifying Organization": "American Association of Sexuality Educators, Counselors and Therapists"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Post Rehab Conditioning Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "5097", 
+            "Certifying Organization": "American Academy of Health, Fitness, & Rehabilitation Professionals"
+        }, 
+        {
+            "Acronym": "MSCS", 
+            "Certification Name": "Multiple Sclerosis Certified Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "6875", 
+            "Certifying Organization": "The Consortium of Multiple Sclerosis Centers"
+        }, 
+        {
+            "Acronym": "CAS", 
+            "Certification Name": "Certified Addiction Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "2443", 
+            "Certifying Organization": "American Academy of Health Care Providers in the Addictive Disorders"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Board Certified Specialist in Rehabilitation Psychology", 
+            "Type": "Specialty", 
+            "Certification ID": "2128", 
+            "Certifying Organization": "American Board of Professional Psychology"
+        }, 
+        {
+            "Acronym": "CDMS", 
+            "Certification Name": "Certified Disability Management Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "2098", 
+            "Certifying Organization": "Certification of Disability Management Specialists Commission"
+        }, 
+        {
+            "Acronym": "CRC", 
+            "Certification Name": "Certified Rehabilitation Counselor", 
+            "Type": "Advanced", 
+            "Certification ID": "2099", 
+            "Certifying Organization": "Commission on Rehabilitation Counselor Certification"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Technician Certification in Neurofeedback", 
+            "Type": "Specialty", 
+            "Certification ID": "6715", 
+            "Certifying Organization": "Biofeedback Certification International Alliance"
+        }, 
+        {
+            "Acronym": "QDDP", 
+            "Certification Name": "Qualified Developmental Disability Professionals", 
+            "Type": "Advanced", 
+            "Certification ID": "6759", 
+            "Certifying Organization": "The National Association of Qualified Developmental Disability"
+        }
+    ], 
+    "onet": "21101500"
+}

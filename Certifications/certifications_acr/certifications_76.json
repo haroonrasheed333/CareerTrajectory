@@ -1,0 +1,68 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "SPHR", 
+            "Certification Name": "Senior Professional in Human Resources", 
+            "Type": "Advanced", 
+            "Certification ID": "0090", 
+            "Certifying Organization": "Human Resources Certification Institute"
+        }, 
+        {
+            "Acronym": "PHR", 
+            "Certification Name": "Professional in Human Resources", 
+            "Type": "Advanced", 
+            "Certification ID": "0089", 
+            "Certifying Organization": "Human Resources Certification Institute"
+        }, 
+        {
+            "Acronym": "COP-GOV", 
+            "Certification Name": "Certified Outsourcing Professional- Outsourcing Governance", 
+            "Type": "Core", 
+            "Certification ID": "8673", 
+            "Certifying Organization": "International Association of Outsourcing Professionals"
+        }, 
+        {
+            "Acronym": "CPCM", 
+            "Certification Name": "Certified Professional Contracts Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "1421", 
+            "Certifying Organization": "National Contract Management Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Primavera Contract Management Certified Implementation Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "8486", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "CEAP", 
+            "Certification Name": "Certified Employee Assistance Professional", 
+            "Type": "Core", 
+            "Certification ID": "1375", 
+            "Certifying Organization": "International Employee Assistance Professionals Association"
+        }, 
+        {
+            "Acronym": "COP-FP", 
+            "Certification Name": "Certified Outsourcing Specialist- Foundation Principles", 
+            "Type": "Core", 
+            "Certification ID": "8675", 
+            "Certifying Organization": "International Association of Outsourcing Professionals"
+        }, 
+        {
+            "Acronym": "COP-BD", 
+            "Certification Name": "Certified Outsourcing Professional- Business Development", 
+            "Type": "Core", 
+            "Certification ID": "8674", 
+            "Certifying Organization": "International Association of Outsourcing Professionals"
+        }, 
+        {
+            "Acronym": "CFCM", 
+            "Certification Name": "Certified Federal Contracts Manager", 
+            "Type": "Specialty", 
+            "Certification ID": "3418", 
+            "Certifying Organization": "National Contract Management Association"
+        }
+    ], 
+    "onet": "13107500"
+}

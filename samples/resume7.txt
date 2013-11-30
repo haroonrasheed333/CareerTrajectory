@@ -1,380 +1,109 @@
 <?xml version='1.0' encoding='iso-8859-1'?>
 <ResDoc>
-<resume canonversion='2' dateversion='2' present='734579' xml:space='preserve'>                                               <contact><name><givenname>RASHMI</givenname> <givenname>A</givenname>. <surname>MENON</surname></name>
-                                                    <phone>(650) 714-0655</phone>
-                                            <email>rashmi_menon@post.harvard.edu</email></contact>
-
-<summary>Key strengths
-                 Extensive experience in key industries such as social media, green technology, and consumer internet
-                 A wide range of business skills and experience including product management, people management,
-                 strategic planning, consumer research, marketing, sales, and business development
-                 Strong analytical skills and the ability to drive a project from start to finish, from making high-level
-                 strategic recommendations to senior executives to executing detailed plans</summary>
-
-<experience end='present' start='728296'>Experience
-                <job end='present' id='1' pos='1' start='733775'><employer>ZVENTS</employer>
-<daterange><start days='733775' iso8601='2010-01-01'>2010</start>-<end days='present' iso8601='2012-03-15'>present</end></daterange>    <title>Vice President</title>, Product                                                                    <address lat='29.5716' lon='-81.5612' majorcity='SAN MATEO' state='FL'><city>San Mateo</city>, <state abbrev='CA'>CA</state></address>
-                 <description>Zvents is the leading provider of online entertainment guides with approximately 300 distribution
-                   partners and 14 mil unique visitors per month. Responsible for all aspects of rolling out the redesigned
-                   Zvents.com website from user testing and feature definition to project management and testing to SEO
-                   and analytics.
-                 Ramped traffic to the Zvents.com redesign beta from 10% to 100% of all traffic.
-                 Launched several key new and redesigned website features including social integrations,
-                   recommendations, third party content integrations, and site search.
-                 Launched the first Zvents.com redesign beta with a partner site (listings.guidelive.com/z) including
-                   creating new editorial/management tools, front-end enhancements, and updating site architecture.
-                 Strengthened and developed engineering team and processes, including implementing new code check-
-                   in and testing processes and hiring a QA member.</description></job>
-
-                <job end='734140' id='2' pos='2' start='733410'><employer>GREEN RESOURCE NETWORK</employer> (<employer>WWW.GREENRESOURCENETWORK.COM</employer>)
-<daterange><start days='733410' iso8601='2009-01-01'>2009</start>-<end days='734140' iso8601='2011-01-01'>2011</end></daterange>       <title>Co-Founder</title>                                                                                 <address><city>Sunnyvale</city>, <state abbrev='CA'>CA</state></address>
-                 <description>Started a company which helps schools, businesses and governments go green. Start-up tasks
-                   included business modeling, strategy and financing planning, company naming, designing and
-                   managing website development, completing legal set-up, etc.
-                 Closed deals and managed client relationships with first four paying clients. Developed business by
-                   establishing vendor booths at trade shows, speaking at events, and leveraging professional network.
-                 Conducted billing analyses and on-site audits of client facilities to identify, size, and prioritize key
-                   opportunities for resource efficiency measures.
-                 Performed analyses to compare several financing options available for client renewable energy projects
-                   including tax credit bonds, low interest loan programs, and power purchase agreements.
-                 Secured approximately $15mil in stimulus funding options for clients.
-                 Presented green project recommendations to local entities including school boards and governments.
-                 Recruited and managed pro-bono interns.
-                 Teaching &quot;How to Start Your Business: From Idea to Business Plan&quot; at Stanford Continuing Studies.
-
-                YAHOO!</description></job>
-<job end='733410' id='3' pos='3' start='733044'><daterange><start days='733044' iso8601='2008-01-01'>2008</start>-<end days='733410' iso8601='2009-01-01'>2009</end></daterange>       <title>Director</title>, <description>Product Management &amp; Marketing, Yahoo! Developer Network (YDN)              Sunnyvale, CA
-                 Managed a team of two product managers and one product marketing manager whose responsibilities
-                   included redesigning the YDN website, onboarding new Yahoo! APIs, and marketing new product
-                   launches.
-                 Collected and presented initial developer feedback on the first Yahoo! Open Strategy (YOS) release,
-                   resulting in product enhancements and changes across the YOS organization.
-                 Created developer support plans for the YOS release, presented plans to Product and Architecture
-                   committee, and implemented new support initiatives.
-                                             RASHMI A. MENON
+<resume canonversion='2' dateversion='2' present='734579' xml:space='preserve'><contact><name><givenname>Sean</givenname> <surname>Wang</surname></name>                                                                                        Contact
+<address lat='37.378' lon='122.082' majorcity='MOUNTAIN VIEW' state='CA'><street>3426 Shady Spring Ln</street>                                                         
+<city>Mountain View</city>, <state abbrev='CA'>CA</state> <postalcode>94040</postalcode></address>                                                      
+Mobile:      <phone type='cell'>(650) 862-1177</phone>
+Email: <email>sean@decrypted.org</email></contact>
 
 
-            YAHOO!</description></job>
-<job end='733044' id='4' pos='4' start='732314'><daterange><start days='732314' iso8601='2006-01-01'>2006</start>-<end days='733044' iso8601='2008-01-01'>2008</end></daterange>   <title>Director</title>, Product Management, <employer>Social Media Platforms</employer>                                      <address><city>Sunnyvale</city>, <state abbrev='CA'>CA</state></address>
-             <description>Restructured and rebuilt a product management team (four direct reports). Responsibilities included
-               development of cross-network Identity, Relationship, and Address Book Platforms and management
-               of an integrations team to drive platform adoption.
-             Convinced Chief Product Officer to issue a mandate requiring all Yahoo! properties to adopt a cross-
-               network Identity platform, including APIs, best practices, and front-end components. Completed over
-               40 property integrations of the platform.
-             Led cross-functional, senior management team to formulate network-wide best practices for
-               representing relationships between users on Yahoo! Presented recommendations to Chief Product
-               Officer for approval and rolled out APIs, front-end components, and policies across Yahoo!
-             Managed a team to launch a new set of open Address Book APIs ­ the first set of social media APIs
-               offered by Yahoo! to third party developers.
-             Evangelized community and social media initiatives at Yahoo! including providing consulting and best
-               practices advice to properties interested in increasing their social media activities.</description></job>
-<job end='732314' id='5' naics='44312007' naics2='44' pos='5' sic='573401' sic2='57' start='731583'><daterange><start days='731583' iso8601='2004-01-01'>2004</start>-<end days='732314' iso8601='2006-01-01'>2006</end></daterange>   <title>Senior Product Manager</title>                                                                    <address><city>Sunnyvale</city>, <state abbrev='CA'>CA</state></address>
-             <description>Built and developed a product management team (three direct reports) at Yahoo! Personals, including
-               hiring two new employees and promoting one employee during the annual review cycle.
-             Managed the product team responsible for running the existing Yahoo! Personals service to implement
-               initiatives to acquire and retain customers, reduce customer service costs, address bugs, and increase
-               the lifetime value of subscribers.
-             Provided strategic recommendations for several Yahoo! Personals product areas (premium services,
-               segmentation, pricing, etc.) and implemented initiatives based on these recommendations.
-             Shipped Yahoo! on MCE, a personalized Yahoo! video experience on TV. Defined product
-               requirements and prioritization, led cross functional team (engineering, legal, security, privacy,
-               marketing, log-in, customer service) to develop product, managed relationship with outside partner
-               (Microsoft), and presented to Chief Product Officer for launch approval.
-             Coordinated first ever Yahoo! Digital Home presence at CES, including recruiting and training demo
-               staff and creating demo script and content. Managed a contractor to create marketing positioning and
-               materials, design the digital home website, and secure and prepare demo locations.
-             Managed legal and business development teams to clear/acquire content for Digital Home services.</description>
-
-            <employer>MICROSOFT CORPORATION</employer></job>
-<job end='731583' id='6' pos='6' sic='874213' sic2='87' start='730488'><daterange><start days='730488' iso8601='2001-01-01'>2001</start>-<end days='731583' iso8601='2004-01-01'>2004</end></daterange>   <title>Product Manager</title>, <employer>MSN</employer>                                                                 <address><city>Mountain View</city>, <state abbrev='CA'>CA</state></address>
-             <description>Hired and managed two consultants to create and implement marketing plans for upcoming feature
-               releases and formulate a new product positioning/messaging framework for the dial-up SKU.
-             Managed the MSN Dial-up Accelerator release from conception to launch by demonstrating need for
-               the feature through market research, securing management approval, defining feature requirements,
-               creating marketing messaging, and implementing low-cost marketing methods.
-             Conducted consumer and competitor research to determine packaging, pricing, and acquisition
-               strategies and create a product roadmap and requirements for the MSN Internet Access business.
-             Created and presented an overview of the highlights and lowlights of the dial-up consumer's
-               experience to the Corporate VP of MSN Communications Services.
-             Helped secure approval to implement a new suite of MSN TV services and products in the digital
-               home market by crafting a strategy and presenting a product concept demo to the head of MSN.
-             Provided product planning leadership for the launch of a TV listings site on MSN.com, including
-               writing and presenting strategic vision documents and MRDs, creating business models, managing an
-               outside vendor to conduct consumer research, determining the feature set, incorporating findings from
-               usability into the product, and working with the development team to ship the feature.
-             Created and presented product demos of Digital Video Recorder, Media Center PC and internet set
-               top box services internally and at the CES trade show.
-                                                RASHMI A. MENON</description></job>
 
 
-              <job id='7' naics='44312007' naics2='44' sic='573401' sic2='57' start='730213'><employer>MICROSOFT CORPORATION</employer>
-<daterange><start days='730213' iso8601='2000-04-01'>Summer 2000</start></daterange>   Product Marketing <title>Manager</title>, <address>WebTV                                                      <city>Mountain View</city>, <state abbrev='CA'>CA</state></address>
-               <description>Prepared overview of video on demand and standalone digital video recorder markets, including
-                 formulation of forecasts and analysis of competitors, distribution channels, branding, business models,
-                 and consumer opinions. Recommended future strategies in these markets.
-               Created and presented summary of Product Roadmap Research, highlighting opportunities for new
-                 products and areas requiring further research.</description></job>
+<experience end='present' start='732830'>Work Experience
 
-              <job end='729757' id='8' pos='7' sic='781205' sic2='78' start='729392'><employer>THE WALT DISNEY COMPANY</employer>
-<daterange><start days='729392' iso8601='1998-01-01'>1998</start>-<end days='729757' iso8601='1999-01-01'>1999</end></daterange>     <title>Project Manager</title>, <description>Corporate Brand Management and Synergy, Asia Pacific                      Tokyo, Japan
-               Managed two analysts to prepare and present the Japan Brand Equity Survey and a strategic overview
-                 of Disney's business in Japan to local executives and senior corporate management.
-               Worked with theatrical distribution group and led a special marketing task force to reposition Disney
-                 feature animated releases in Japan from &quot;date&quot; movies to &quot;family&quot; films.
-               Managed relationship with market research firms on three primary consumer research projects.</description></job>
-<job end='729392' id='9' pos='8' start='728296'><daterange><start days='728296' iso8601='1995-01-01'>1995</start>-<end days='729392' iso8601='1998-01-01'>1998</end></daterange>     <title>Senior Analyst</title>, Corporate Strategic Planning                                            <address><city>Los Angeles</city>, <state abbrev='CA'>CA</state></address>
-               <description>Created business plans for home video, television and studio investment deals worldwide.
-               Conducted negotiations with pay television operators in Asia.
-               Worked with legal counsel to draft deal terms for television and studio investments.
-               Managed communications with senior management for approval of television and studio deals.
-               Planned two high-level corporate delegation visits to China and attended all senior level meetings with
-                 Shanghai Municipal Government officials as a delegation member.
-               Assembled historical and projected financials for all Disney business units in Asia and summarized the
-                 key strategic issues facing each unit.</description></job></experience>
+   <job end='present' id='1' pos='1' start='733834'><title>SimplyHired, Jr. Engineer</title>                                                            <daterange><start days='733834' iso8601='2010-03-01'>Mar '10</start> - <end days='present' iso8601='2012-03-15'>Present</end></daterange>
+
+       <description>Worked with Python, Perl, PHP, MySQL
+
+            ·   Porting/improving portions of Perl code to Python.
+
+                    Components include normalizations of location data,
+                    job experience and education required.
+            ·   Expanding/maintaining/fixing internal tools.
+                    Geocoder that provided the searcher a location.
+                    Expanded a monitoring page of sponsored job sites.
+            ·   Created tools and scripts to automate or assist with everyday tasks.
+                    Includes XML feed tools, a deploy queue creator, and others.
+            ·   Maintain and create robot crawlers.
+            ·   Set up XML feeds for job providers.
+            ·   Provided statistical job data upon request.</description></job>
+
+
+
+   <job end='733653' id='2' pos='2' start='733561'><title>Disqus, Software Engineer Intern</title>                                                    <daterange><start days='733561' iso8601='2009-06-01'>Jun '09</start> - <end days='733653' iso8601='2009-09-01'>Sept '09</end></daterange>
+
+       <description>Worked with Python, Django, JavaScript, PostgreSQL, MongoDB
+
+            · Rewrote, redesigned and added to internal administration tools.
+            · Redesigned and expanded the site wide statistics page.
+            · Solved the mystery of the randomly failing unit test.
+            · Created a tool to retrieve user selectable forum statistics
+                that would output it to a CSV file.</description></job>
+
+   <job end='733257' id='3' pos='3' start='733196'><employer>National Center for High Performance Computing</employer> (<employer>Taiwan</employer>), <title>Research Assistant</title>         <daterange><start days='733196' iso8601='2008-06-01'>Jun '08</start> - <end days='733257' iso8601='2008-08-01'>Aug '08</end></daterange></job>
+
+
+   <job end='732891' id='4' pos='4' sic='738959' sic2='73' start='732830'><employer>Industrial Technology Research Institute</employer> (<employer>Taiwan</employer>), <title>Intern</title>                           <daterange><start days='732830' iso8601='2007-06-01'>Jun '07</start> - <end days='732891' iso8601='2007-08-01'>Aug '07</end></daterange></job></experience>
+
+
+<skills>Additional Skills
+   Worked with gevent and Flask.
+   Experience with Redis and SQLAlchemy.
+   A healthy understanding of how to use regular expressions.
+   Familiar with <skills>Windows, Linux, and OSX.
+   Basic conversational skills in Mandarin.</skills></skills>
+
 
 <education>Education
-              <school id='10'><institution>STANFORD GRADUATE SCHOOL OF BUSINESS</institution>                                                            <address><city>Stanford</city>, <state abbrev='CA'>CA</state></address>
-              <degree level='18' name='Master of Business Administration'>Master of Business Administration</degree>, <completiondate days='730488' iso8601='2001-01-01'>2001</completiondate>. <description>Co-chair and treasurer, GSB Wine Circle.</description></school>
-
-              <school id='11'><institution>HARVARD COLLEGE</institution>                                                                  <address><city>Cambridge</city>, <state abbrev='MA'>MA</state></address>
-              <degree level='16' name='Bachelor of Arts'>AB</degree>, <honors>magna cum laude</honors>, in <major code='1801'>Economics</major>, <completiondate days='728296' iso8601='1995-01-01'>1995</completiondate>. GPA: <gpa max='4' value='3.84'>3.84/4.00</gpa>. <description>1 of 24 students inducted into Phi Beta
-              Kappa, Junior Year. Senior Supervisor, Economics Unit Test Program. Co-Chair, Colprep Kids
-              Volunteer Tutoring Program.</description></school></education>
-
-<skills>Additional    Languages: <languages>Japanese, Malayalam, French</languages></skills>
-              <statements>Personal Interests: <activities>Stanford lecturer, You Tube chef, wine collecting, soccer, music and arts</activities></statements>
+   <school id='5'><institution>University of California</institution>, Merced                                                              <completiondate days='733530' iso8601='2009-05-01'>May '09</completiondate>
+       <degree level='16' name='Bachelor of Science'>B.S</degree>., <major code='0402 1699'>Computer Science and Engineering</major></school></education>
 </resume>
 
 <skillrollup version='1'>
-  <canonskill end='734140' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='billing' start='733410'>
-    <variant>billing</variant>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='automate' start='733834'>
+    <variant>automate</variant>
   </canonskill>
-  <canonskill end='734140' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='bonds' start='733410'>
-    <variant>bonds</variant>
+  <canonskill name='basic'>
+    <variant>Basic</variant>
   </canonskill>
-  <canonskill end='733044' experience='1' expidrefs='4' idrefs='4' lastused='2008' name='books' start='732314'>
-    <variant>Book</variant>
+  <canonskill end='733653' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='javascript' start='733561'>
+    <variant>JavaScript</variant>
   </canonskill>
-  <canonskill end='729757' experience='1' expidrefs='7,8' idrefs='7,8' lastused='1999' name='brand management' start='729392'>
-    <variant>Brand Management</variant>
-    <variant>branding</variant>
+  <canonskill name='linux'>
+    <variant>Linux</variant>
   </canonskill>
-  <canonskill end='732314' experience='1' expidrefs='5' idrefs='5' lastused='2006' name='business development' start='731583'>
-    <variant>business development</variant>
+  <canonskill name='mandarin'>
+    <variant>Mandarin</variant>
   </canonskill>
-  <canonskill end='734140' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='business modeling' start='733410'>
-    <variant>business modeling</variant>
+  <canonskill name='microsoft windows'>
+    <variant>Windows</variant>
   </canonskill>
-  <canonskill end='734140' experience='1' expidrefs='2,9' idrefs='2,9' lastused='2011' name='business plans' start='728296'>
-    <variant>Business Plan</variant>
-    <variant>business plans</variant>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='mysql' start='733834'>
+    <variant>MySQL</variant>
   </canonskill>
-  <canonskill end='734569' experience='1' expidrefs='1,6' idrefs='1,6' lastused='2012' name='com' start='730488'>
-    <variant>com</variant>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='page' start='733561'>
+    <variant>page</variant>
   </canonskill>
-  <canonskill end='733410' experience='1' expidrefs='3' idrefs='3' lastused='2009' name='computer associates packages' start='733044'>
-    <variant>CA</variant>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='perl' start='733834'>
+    <variant>Perl</variant>
   </canonskill>
-  <canonskill end='731583' experience='1' expidrefs='6' idrefs='6' lastused='2004' name='concept development' start='730488'>
-    <variant>concept</variant>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='php' start='733834'>
+    <variant>PHP</variant>
   </canonskill>
-  <canonskill end='733044' experience='1' expidrefs='4' idrefs='4' lastused='2008' name='consulting' start='732314'>
-    <variant>consulting</variant>
+  <canonskill end='733653' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='postgresql' start='733561'>
+    <variant>PostgreSQL</variant>
   </canonskill>
-  <canonskill end='734569' experience='1' expidrefs='1,5' idrefs='1,5' lastused='2012' name='content management' start='731583'>
-    <variant>content</variant>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='python' start='733561'>
+    <variant>Python</variant>
   </canonskill>
-  <canonskill end='734140' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='credit' start='733410'>
-    <variant>credit</variant>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='shell scripting' start='733834'>
+    <variant>scripts</variant>
   </canonskill>
-  <canonskill end='734140' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='customer relations' start='733410'>
-    <variant>client</variant>
-    <variant>clients</variant>
+  <canonskill end='733653' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='statistics' start='733561'>
+    <variant>statistics</variant>
   </canonskill>
-  <canonskill end='732314' experience='1' expidrefs='5' idrefs='5' lastused='2006' name='customer service' start='731583'>
-    <variant>customer service</variant>
-  </canonskill>
-  <canonskill end='734140' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='design' start='733410'>
-    <variant>designing</variant>
-  </canonskill>
-  <canonskill end='731583' experience='1' expidrefs='6,7' idrefs='6,7' lastused='2004' name='digital video' start='730213'>
-    <variant>digital video</variant>
-    <variant>Digital Video</variant>
-  </canonskill>
-  <canonskill education='1' eduidrefs='11' idrefs='11' name='economics'>
-    <variant>Economics</variant>
-  </canonskill>
-  <canonskill end='734569' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='editing' start='733775'>
-    <variant>editorial</variant>
-  </canonskill>
-  <canonskill end='729757' experience='1' expidrefs='8' idrefs='8' lastused='1999' name='equities' start='729392'>
-    <variant>Equity</variant>
-  </canonskill>
-  <canonskill end='733044' experience='1' expidrefs='4,9' idrefs='4,9' lastused='2008' name='executive management' start='728296'>
-    <variant>senior management</variant>
-  </canonskill>
-  <canonskill end='734569' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='features' start='733775'>
-    <variant>features</variant>
-  </canonskill>
-  <canonskill end='734140' experience='1' expidrefs='2,9' idrefs='2,9' lastused='2011' name='finance' start='728296'>
-    <variant>financials</variant>
-    <variant>financing</variant>
-  </canonskill>
-  <canonskill name='french'>
-    <variant>French</variant>
-  </canonskill>
-  <canonskill end='733044' experience='1' expidrefs='4,5' idrefs='4,5' lastused='2008' name='functional' start='731583'>
-    <variant>functional</variant>
-  </canonskill>
-  <canonskill end='729392' experience='1' expidrefs='9' idrefs='9' lastused='1998' name='government' start='728296'>
-    <variant>Government</variant>
-  </canonskill>
-  <canonskill end='734569' experience='1' expidrefs='1,5' idrefs='1,5' lastused='2012' name='hiring' start='731583'>
-    <variant>hiring</variant>
-  </canonskill>
-  <canonskill end='731583' experience='1' expidrefs='6' idrefs='6' lastused='2004' name='internet software' start='730488'>
-    <variant>Internet Access</variant>
-  </canonskill>
-  <canonskill end='729392' experience='1' expidrefs='9' idrefs='9' lastused='1998' name='investments' start='728296'>
-    <variant>investments</variant>
-  </canonskill>
-  <canonskill name='japanese'>
-    <variant>Japanese</variant>
-  </canonskill>
-  <canonskill name='languages'>
-    <variant>Languages</variant>
-  </canonskill>
-  <canonskill end='731583' experience='1' expidrefs='6' idrefs='6' lastused='2004' name='leadership' start='730488'>
-    <variant>leadership</variant>
-  </canonskill>
-  <canonskill end='734140' experience='1' expidrefs='2,5,9' idrefs='2,5,9' lastused='2011' name='legal' start='728296'>
-    <variant>legal</variant>
-  </canonskill>
-  <canonskill end='734140' experience='1' expidrefs='2,6' idrefs='2,6' lastused='2011' name='management' start='730488'>
-    <variant>managing</variant>
-  </canonskill>
-  <canonskill end='731583' experience='1' expidrefs='6' idrefs='6' lastused='2004' name='market planning' start='730488'>
-    <variant>marketing plans</variant>
-  </canonskill>
-  <canonskill end='731583' experience='1' expidrefs='6,8' idrefs='6,8' lastused='2004' name='market research' start='729392'>
-    <variant>market research</variant>
-  </canonskill>
-  <canonskill end='733410' experience='1' expidrefs='3,5,6,8' idrefs='3,5,6,8' lastused='2009' name='marketing' start='729392'>
-    <variant>marketing</variant>
-    <variant>market</variant>
-    <variant>product marketing</variant>
-    <variant>Product Management &amp; Marketing</variant>
-  </canonskill>
-  <canonskill end='732314' experience='1' expidrefs='5' idrefs='5' lastused='2006' name='materials management' start='731583'>
-    <variant>materials</variant>
-  </canonskill>
-  <canonskill end='729392' experience='1' expidrefs='9' idrefs='9' lastused='1998' name='meeting facilitation' start='728296'>
-    <variant>meetings</variant>
-  </canonskill>
-  <canonskill end='731583' experience='1' expidrefs='6' idrefs='6' lastused='2004' name='messaging' start='730488'>
-    <variant>messaging</variant>
-  </canonskill>
-  <canonskill end='731583' experience='1' expidrefs='6' idrefs='6' lastused='2004' name='msn' start='730488'>
-    <variant>MSN</variant>
-  </canonskill>
-  <canonskill end='729392' experience='1' expidrefs='9' idrefs='9' lastused='1998' name='negotiation' start='728296'>
-    <variant>negotiations</variant>
-  </canonskill>
-  <canonskill end='734140' experience='1' expidrefs='2,3,4' idrefs='2,3,4' lastused='2011' name='networking' start='732314'>
-    <variant>Network</variant>
-    <variant>network</variant>
-  </canonskill>
-  <canonskill end='733410' experience='1' expidrefs='3' idrefs='3' lastused='2009' name='oracle developer 2000' start='733044'>
-    <variant>developer</variant>
-    <variant>Developer</variant>
-  </canonskill>
-  <canonskill end='731583' experience='1' expidrefs='6' idrefs='6' lastused='2004' name='packaging' start='730488'>
-    <variant>packaging</variant>
-  </canonskill>
-  <canonskill end='731583' experience='1' expidrefs='6' idrefs='6' lastused='2004' name='planning' start='730488'>
-    <variant>product planning</variant>
-  </canonskill>
-  <canonskill end='733044' experience='1' expidrefs='4' idrefs='4' lastused='2008' name='policy analysis' start='732314'>
-    <variant>policies</variant>
-  </canonskill>
-  <canonskill end='732314' experience='1' expidrefs='5,6' idrefs='5,6' lastused='2006' name='positioning' start='730488'>
-    <variant>positioning</variant>
-  </canonskill>
-  <canonskill end='731583' experience='1' expidrefs='6' idrefs='6' lastused='2004' name='presentation skills' start='730488'>
-    <variant>presenting</variant>
-  </canonskill>
-  <canonskill end='732314' experience='1' expidrefs='5,6' idrefs='5,6' lastused='2006' name='pricing' start='730488'>
-    <variant>pricing</variant>
-  </canonskill>
-  <canonskill end='734569' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='process engineering' start='733775'>
-    <variant>processes</variant>
-  </canonskill>
-  <canonskill end='733044' experience='1' expidrefs='4,5' idrefs='4,5' lastused='2008' name='product management' start='731583'>
-    <variant>product management</variant>
-  </canonskill>
-  <canonskill end='734569' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='project management' start='733775'>
-    <variant>project management</variant>
-  </canonskill>
-  <canonskill end='734140' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='public speaking' start='733410'>
-    <variant>speaking</variant>
-  </canonskill>
-  <canonskill end='734569' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='quality control' start='733775'>
-    <variant>QA</variant>
-  </canonskill>
-  <canonskill end='732314' experience='1' expidrefs='5' idrefs='5' lastused='2006' name='recruiting' start='731583'>
-    <variant>recruiting</variant>
-  </canonskill>
-  <canonskill end='731583' experience='1' expidrefs='6,7,8' idrefs='6,7,8' lastused='2004' name='research' start='729392'>
-    <variant>Research</variant>
-    <variant>research</variant>
-  </canonskill>
-  <canonskill end='731583' experience='1' expidrefs='6' idrefs='6' lastused='2004' name='set top box' start='730488'>
-    <variant>set
-               top box</variant>
-  </canonskill>
-  <canonskill end='732314' experience='1' expidrefs='5' idrefs='5' lastused='2006' name='shell scripting' start='731583'>
-    <variant>script</variant>
-  </canonskill>
-  <canonskill end='734569' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='site design' start='733775'>
-    <variant>site architecture</variant>
-  </canonskill>
-  <canonskill end='734140' experience='1' expidrefs='2,3,5,6,8,9' idrefs='2,3,5,6,8,9' lastused='2011' name='strategic' start='728296'>
-    <variant>Strategy</variant>
-    <variant>strategy</variant>
-    <variant>strategic</variant>
-  </canonskill>
-  <canonskill education='1' eduidrefs='11' idrefs='11' name='supervisory skills'>
-    <variant>Supervisor</variant>
-  </canonskill>
-  <canonskill end='734140' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='tax planning' start='733410'>
-    <variant>tax</variant>
-  </canonskill>
-  <canonskill end='734140' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='teaching' start='733410'>
-    <variant>Teaching</variant>
-  </canonskill>
-  <canonskill end='732314' experience='1' expidrefs='5,6,9' idrefs='5,6,9' lastused='2006' name='television' start='728296'>
-    <variant>TV</variant>
-    <variant>television</variant>
-  </canonskill>
-  <canonskill end='734140' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='trade shows' start='733410'>
-    <variant>trade shows</variant>
-  </canonskill>
-  <canonskill education='1' eduidrefs='11' idrefs='11' name='tutoring'>
-    <variant>Tutoring</variant>
-  </canonskill>
-  <canonskill end='734569' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='unique' start='733775'>
-    <variant>unique</variant>
-  </canonskill>
-  <canonskill end='732314' experience='1' expidrefs='5,7,9' idrefs='5,7,9' lastused='2006' name='video' start='728296'>
-    <variant>video</variant>
-  </canonskill>
-  <canonskill end='731583' experience='1' expidrefs='6' idrefs='6' lastused='2004' name='vision' start='730488'>
-    <variant>vision</variant>
-  </canonskill>
-  <canonskill end='734569' experience='1' expidrefs='1,2,3,5' idrefs='1,2,3,5' lastused='2012' name='web site production' start='731583'>
-    <variant>website</variant>
-    <variant>website development</variant>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='xml' start='733834'>
+    <variant>XML</variant>
   </canonskill>
 </skillrollup>
 </ResDoc>

@@ -1,0 +1,790 @@
+
+                                                                       RESUME
+
+E-mail: hariharan.eswaran@gmail.com
+                                                   Mobile Phone: 3127307835
+Hariharan E
+
+Professional Summary
+
+Seven years [7.6] of experience covering design, development and implementation of applications using J2EE (Java, JSP, JSTL, Servlets and EJB) technologies,Webservices and Spring, Struts2 and Sitemesh frameworks, with excellent inter-personal skills. 
+
+My goal is to utilize my Information Systems skills towards a challenging career in a growth oriented and leading edge organization that recognizes and values individual contribution and which will provide opportunities for continuing growth and advancement. 
+
+
+Certifications
+
+1. Sun Certified Java Programmer (SCJP 1.4).
+	
+2. Sun Certified Web Component Developer (310-083) [SCWCD1.5].
+
+3. Java 2 Enterprise Edition (J2EE 1.4).
+
+4. Core Banking Certification [C1 &amp; D1].
+
+5. General Insurance Domain Certification [INS21]
+
+
+Onsite Experience
+
+  1. USA CTS Value scope project Design and Implementation.
+  1. China EURONET [Online ATM Transaction] Project Implementation.
+  2. China EURONET [External Network Transaction] Project Implementation.
+  3. UAE DEBITCARD [Online Loro Transactions] Project Implementation.
+
+
+Achievements
+
+Got the best performer of the year award for Asynchronous Implementation .
+Got the Exceptional value rating for MFRB Training Batch-2010 CTS.
+Got top most rating [1-B Value Champ] consecutively for consecutive financial years [2008 &amp; 2009].
+Got the appreciation Letter from CEO of Standard chartered Bank] for my exceptional performance [2008-2009].
+Best Performer of the Year from Ivesia Solutions [CMMI Level 5] [2005-2006].
+
+
+
+
+
+
+
+
+Organization	Designation	Duration 	
+
+Cognizant Technology Solutions[CTS]
+USA
+
+
+Scope International  Pvt. Ltd  
+[International Software Centre of India - software unit of Standard Chartered Bank]
+Chennai - 96
+
+Ivesia Solutions (I) Pvt Ltd., 
+A SEI CMMI Level 5 Company
+Chennai.
+
+Data Software Research Company.
+Chennai.	
+Senior Associate
+
+
+
+
+System Analyst.
+
+
+ 
+
+Programmer Analyst.
+
+
+
+Academic Qualification
+
+MCA Computer Science (2001 - 2004)
+Bishop Heber College.Trichy -06.
+Secured 75% of marks.
+
+Technical Profile
+
+Web Technologies	Servlets, JSP, JSTL,EJB, JavaScript, Jquery,CSP, AJAX	
+
+Servers	Websphere6.1,Apache Tomcat 4.0, JBOSS 4.0, Weblogic 8.1	
+
+Markup Languages	HTML, XHTML, XML	
+
+Languages	Java(Jdk1.4 &amp; Jdk1.5)	
+
+Style Sheet Languages	CSS, XSLT	
+
+RDBMS	DB2,Oracle and  PostgreSQL 8.0.	
+
+Software Development Tools	Eclipse 3.0, Case Studio 2.18, Macromedia Homesite.	
+
+Version Control Tools	Clearcase,VSS, CVS	
+
+Operating System	Linux ,Windows XP	
+
+Verticals	Core Banking,Customer Relationship Management (CRM)	
+
+Others	Webservices,Design Patterns, STRUTS2, Spring,Sitemesh,MQSeries,Ibatis and Hibernate.	
+
+
+
+Projects Profile 
+
+#1. 	Project Name: Value Scope 	
+
+
+
+
+
+
+
+Role	Technical Lead.	
+
+Organization	CTS- USA	
+
+Vertical	Insurance.	
+
+Duration	Apr, 2010 - till date	
+
+Team Size	9	
+
+Environment	Java ,JSP, Servlets, EJB, J2EE Design Patterns,Struts2,Spring ,Sitemesh,MQ Series, XML, JavaScript, WASAD, DB2, ClearCase, Linux, Eclipse 3.0	
+
+
+
+
+Project Description
+
+Company has decided to re-platform the current Valuation application i.e. Valuescope from a mainframe platform to a JEE based open system implementation. At a high level  Valuescope&#174; Claim Services provide Fast, Accurate, Local Market Value&#174; information for total loss vehicles, including extensive, in-depth VIN information. The system will arrive at the value of a total loss vehicle, before the loss happened by following a complex set of processes, which includes comparing the vehicle with standard vehicles as well as vehicles specific to local geography native to the loss vehicle.
+
+Project Objectives:
+
+1.	Create interface forVIN Decode
+2.	Create database and load the  data's from Chrome interface .
+3. 	Create interface called as CVINA and populate the CRV data's.
+4.	Decode VIN and YMM value and show the relevant vehicle information to user.
+
+This project is not restricted to individual products -- all products and states will be impacted.
+
+Contribution
+
+Prepared the User stories and Usecases.
+Prepared the System Design[SAD Preparation].
+Task allocation and manage the offshore scrum team.
+Resolved the complex technical issues. 
+
+
+
+
+#2. 	Project Name: CashRewrite 	
+
+
+
+
+
+
+
+Role	Technical Lead.	
+
+Organization	CTS- India	
+
+Vertical	Insurance.	
+
+Duration	Apr, 2010 - till date	
+
+Team Size	8	
+
+Environment	Java ,JSP, Servlets, EJB, J2EE Design Patterns,Struts2,Spring ,Sitemesh,MQ Series, XML, JavaScript, WASAD, DB2, ClearCase, Linux, Eclipse 3.0	
+
+Project Description
+
+The project objective is Revise Auto Link Online links to route all the Online forms to Documaker as opposed to static document links. Update the Forms Gateway to route documents to Documaker instead of the AutoLink Forms Component. Update AutoLink Print/View Doc page to reflect tabular page viewReprint Submitted Transactions Link to Print/View Policy Documents Screen.  This applies to new business only. Project Background:
+
+Cash processors currently use stand-alone applications to process payments made through AutoLink by Agents through their sweep accounts and make adjustments to commission statements.  These applications are written in an unsupported language (Visual Basic 6) and rely on an unsupported database (SQL Server 6.5).  This project will provide a way for Cash processors to process this information using technologies which are supported by java and J2ee technologies.
+
+This requirement documents the rewrite of the Agent Sweep system.
+
+Project Objectives:
+
+1.	Create interface for Cash Processors to list transactions, add credits, add debits, and 
+	balance transactions to agent sweep accounts.
+2.	Create database to store agent sweep transactions.
+3. 	Create interface for Agent LagProcessors to list transactions, add,delete and 
+	search transactions to agent lag transactions.
+4.	Create the batch files for Sweep Transactions and create the Error report.
+
+This project is not restricted to individual products -- all products and states will be impacted.
+
+Contribution
+
+Task allocation
+Involved in design activities and coding.
+Involved in Code Review and Performance Tuning.
+Involved in R&amp;D activities.
+
+
+
+#3. 	Project Name: AUTOLINK 	
+
+
+
+
+
+
+
+Role	Team Lead.	
+
+Organization	CTS- India	
+
+Vertical	Insurance.	
+
+Duration	Nov, 2009 - Mar 2010	
+
+Team Size	29	
+
+Environment	Java ,JSP, Servlets, EJB, J2EE Design Patterns,MQ Series, XML, JavaScript, WASAD, DB2, ClearCase, Linux, Eclipse 3.0	
+
+Project Description
+
+The project objective is Revise Auto Link Online links to route all the Online forms to Documaker as opposed to static document links. Update the Forms Gateway to route documents to Documaker instead of the AutoLink Forms Component. Update AutoLink Print/View Doc page to reflect tabular page viewReprint Submitted Transactions Link to Print/View Policy Documents Screen.  This applies to new business only.
+
+Contribution
+
+Involved in design activities and coding.
+Involved in reporting activities.
+Involved in Code Review and Performance Tuning.
+Involved in R&amp;D activities.
+
+
+#4. 	Project Name: ADC[Alternative Delivery Channel]	
+
+Client	SCB[Standard Chartered Bank UAE &amp; Bahrain]	
+
+Role	Senior Developer.	
+
+Organization	Scope International., Chennai - India	
+
+Vertical	Core Banking.	
+
+Duration	Jan, 2009 - Nov 2009	
+
+Team Size	8	
+
+Environment	Java ,JSP, Servlets, EJB, J2EE Design Patterns,MQ Series, XML, JavaScript, WASAD, DB2, ClearCase, Linux, Eclipse 3.0	
+
+Project Description
+
+The purpose of the system is to use the Mobile Banking, SMS Banking, Remote Banking/Touch screen and Intranet Web Server delivery channels in order to automate inquiries on account related services, product-related information and perform financial transactions on the respective delivery channel. Customers are provided access to account-related inquiries and requests and to perform financial transactions. The call center agent will be provided access to the Intranet web application operational on the
+desktop in order to cater to specific requests from customers of Standard Chartered Bank.
+ 
+ The Queue Management System deals with the Express Banking application and other services. Express Banking provides the customer, the access to deposit cash and Withdrawal. Other Services provides the customer, the access to the services such as cheque deposit, Pay Order &amp; Foreign currency and also deposit and withdrawal of cash.
+
+The SMS &amp; Mobile Banking Application enables the customer to make inquiries and financial transaction through the mobile phone by using the SMS messaging facility and USSD with total confidentiality and security.
+
+Contribution
+
+Involved in design activities and coding.
+Involved in reporting activities.
+Involved in Code Review and Performance Tuning.
+Involved in R&amp;D activities.
+
+
+#5. 	Project Name: EURONET	
+
+Client	SCB[Standard Chartered Bank China]	
+
+Role	Developer.	
+
+Organization	Scope International., Chennai - India	
+
+Vertical	Core Banking.	
+
+Duration	Jun, 2008 - Dec 2008	
+
+Team Size	10	
+
+Environment	JSP, Servlets, EJB, J2EE Design Patterns, XHTML, XSLT, XML, JavaScript, WASAD, DB2, ClearCase, Linux, Eclipse 3.0	
+
+Project Description
+
+SCB China intended to offer ATM services for its customers. To fast track the implementation,
+SCB China has taken approach to leverage on the ATM/Debit card functionality offered in SCB Indonesia with some exception. The exception is to offer additional functionality to match the local banking industry standard offering for ATM/Debit Card services in China.
+The ATM/Debit transactions are differentiated between SCB ATM and Other ATM with same city and cross city segregation to impose different charge type.
+The ATM/Debit card functionality is to support the debit account in RMB currency and the transaction currency in RMB currency - within China,
+For transaction outside China, the debit account will be in RMB and debit amount also in RMB equivalent if the transaction currency is in foreign currency. The currency conversion will be done by service provider and transparent to eBBS
+Euronet [Switch] will differentiate the type of Debit/ATM card transaction and send the related transaction code with an indicator (same city, cross city). The same city and cross city classification is based Debit Account Home Branch and ATM / Branch POS Location used for the transaction.
+Euronet to store the branch code for all eBBS subsidiary accounts captured during the registration process. A table mapping required in Euronet to group branch code to a city and also the ATMs and Branch POS to a city. The maintenance of these tables will be handled manually within Euronet application. In eBBS, the two transaction codes will be defined for same transaction type to differentiate the Debit/ATM Card transactions as follows:
+a.         From Local ATM Transaction  
+b.  	From Switch Network Transaction.
+
+Contribution
+
+Involved in design activities and coding.
+Involved in reporting activities.
+Involved in Code Review and Performance Tuning.
+Involved in R&amp;D activities.
+
+
+
+#6. 	Project Name: SCBNET	
+
+Client	SCB[Standard Chartered Bank UAE]	
+
+Role	Developer.	
+
+Organization	Scope International., Chennai - India	
+
+Vertical	Core Banking.	
+
+Duration	Apr, 2007 - Jun ,2008	
+
+Team Size	10	
+
+Environment	JSP, Servlets, EJB, J2EE Design Patterns, XHTML, XSLT, XML, JavaScript, WASAD, DB2, ClearCase, Linux, Eclipse 3.0	
+
+Project Description
+
+SCB UAE intended to offer ATM services for its customers. To fast track the implementation,
+SCB UAE has taken approach to leverage on the ATM/Debit card functionality offered in All SCB customers with some exception. The exception is to offer additional functionality to match the local banking industry standard offering for ATM/Debit Card services in UAE.
+The ATM/Debit transactions are differentiated between SCB Customer and Other Bank Customer with charge type or without charges types. If the Customer is SCB customer our eBBS system doesn't append the charge for those transactions.
+If the Customer is other bank customer the transactions are coming from VISA network and posted in SCB GL A/C's.
+
+The ATM/Debit card functionality is to support the debit account in RMB currency and the transaction currency in RMB currency - within China,
+For transaction outside China, the debit account will be in RMB and debit amount also in RMB equivalent if the transaction currency is in foreign currency. The currency conversion will be done by service provider and transparent to eBBS
+Euronet [Switch] will differentiate the type of Debit/ATM card transaction and send the related transaction code with an indicator (same city, cross city). The same city and cross city classification is based Debit Account Home Branch and ATM / Branch POS Location used for the transaction.
+Euronet to store the branch code for all eBBS subsidiary accounts captured during the registration process. A table mapping required in Euronet to group branch code to a city and also the ATMs and Branch POS to a city. The maintenance of these tables will be handled manually within Euronet application. In eBBS, the two transaction codes will be defined for same transaction type to differentiate the Debit/ATM Card transactions as follows:
+a.         From Local ATM Transaction  
+b.  	From Switch Network Transaction.
+
+Contribution
+
+Involved in design activities and coding.
+Involved in reporting activities.
+Involved in Code Review and Performance Tuning.
+Involved in R&amp;D activities.
+
+
+
+#7. 	Project Name: OneBundle CRM	
+
+Client	Objective Management Group, MA, USA	
+
+Role	Developer.	
+
+Organization	Ivesia Solutions Pvt Ltd., Chennai - India	
+
+Vertical	CRM (Customer Relationship Management)	
+
+Duration	Nov, 2005 - Apr 2007	
+
+Team Size	10	
+
+Environment	JSP, Servlets, AJAX, EJB, J2EE Design Patterns, XHTML, XSLT, XML, JavaScript, JBOSS 4.0, PostgreSQL 8.0, CVS, Windows XP, Windows 2000 Server, Eclipse 3.0	
+
+Project Description
+
+The Customer Relationship Management application manages accounts, contacts, leads, opportunities and cases and their relationships. It supports tracking events and tasks for any user in the system. Also this module is provisioned to create suspects, nothing but a lead. The created lead could be converted into a company, opportunity or to a contact. 
+
+The user can create and manage the set of activities such as Appointments, Calls, Fax, Letter and Email. These activities could be assigned to other users as well could be shared among users.
+
+Contribution
+
+Involved in design activities and coding.
+Involved in team management, task management and reporting activities.
+Involved in Code Review and Performance Tuning.
+Involved in R&amp;D activities.
+Involved in the data migration.
+
+8. 	Project Name: WATS (Work Allocation and Tracking System)	
+
+Client	Highdata Software Corp, Inc, Salem NH - US	
+
+Role	Developer	
+
+Organization	Ivesia Solutions Pvt Ltd., Chennai - India	
+
+Duration	Sep, 2005 - Nov, 2005.	
+
+Team Size	4	
+
+Environment	Extended Model-1 Architecture, JSP, Java Beans, XHTML, XSLT, XML, JavaScript, Tomcat, SQL Server 2000, VSS, Windows XP, Windows 2000 erver	
+
+Project Description 
+WATS is a web-based work allocation and tracking system. It maximizes efficiency in development teams through optimized team interaction and systematic tracking of project tasks. WATS features include project planning, resource allocation, task management, customized team member interaction and bug tracking.
+
+The product uses Java Server Pages and Java Bean for the application layer and SQL Server 7.0 for the backend database. The web-tier consists of Apache Tomcat 4.0.1. The system uses XML for communication between the different layers and XSL for transformation of XML data into client-specific formats such as HTML.
+
+Contribution
+
+Involved in developing JSP, XML &amp; XSLT codes for generating HTML pages. 
+Responsible for creating Java classes, interfaces and database stored procedures.
+Involved in Unit Testing
+
+
+#9. 	Project Name: SPEED(System to Provide Employee Empowerment and Development)	
+
+Client	Citi Bank, CEEMEA (Central Eastern European and Middle East) region.	
+
+Role	Developer	
+
+Duration	Aug, 2004 - Sep 2005	
+
+Team Size	13.	
+
+Environment	Struts, EJB, JSP, Java Beans, HTML, JavaScript, Tomcat, Oracle 8i, VSS, Windows 2000 Server	
+
+
+Project Description 
+  This application is intended to be used by employees and various HR personnel of CITIBANK in the CEEMEA (Central Eastern European and Middle East) region. This project is aimed at making the entire HR System available on the net. This includes access to the day-to-day activities from attendance marking and time sheet preparation to training needs evaluation and SOP allocation. The project takes care of all operations within the organization from raising a request for a new position in the organization to receiving applications on the same from internal as well as external sources, initiating the required joining proceedings all tied in by a workflow engine that moves requests and approvals through the organization chart as per protocol. 
+Employee Information Module Captures the Entire Details of an Employee and also takes care of his leave schedules and balances. It covers the information an employee needs in categories of personal details; work related details, etc. The system also keeps personal data up- to-date, apply for leave and claim various expenses. Leave management plays a critical role in the e-HR application as it will be used in a daily basis by the employees of the company. This sub-module takes care of all the leave related procedures like leave application, approval, cancellation and leave based report generation. Each sub-module is made up of complex business processes and decision-making strategies.
+
+Contribution
+
+Involved in preparation of test cases for Functional and System testing.
+Performed the Functional, System and Regression Testing.
+Created Test Scripts using Rational Robot.
+Involved in the preparation of test data.
+Bug tracking using Defect Tracking System.
+
+
+Personal Details
+Date of Birth		:	06 Jun 1981
+Father's Name	:	S.Eswaran.
+Passport Number	:	F0453589
+Present Address	:	320, West Illinois Street,
+Chicago,Illinois,
+                                          60654
+Phone:-3127307835.
+
+
+
+
+
+
+
+
+
+
+
+
+Hariharan
+		10
+
+
+
+  
+    Apache
+  
+  
+    approach
+  
+  
+    ATM
+  
+  
+    automate
+  
+  
+    balance
+  
+  
+    banking
+    Banking
+  
+  
+    business processes
+  
+  
+    C
+  
+  
+    call center
+  
+  
+    ClearCase
+    Clearcase
+  
+  
+    conversion
+  
+  
+    Customer Relationship Management
+    CRM
+  
+  
+    CSS
+  
+  
+    Client
+    client
+  
+  
+    Version Control
+    CVS
+  
+  
+    data migration
+  
+  
+    database
+  
+  
+    Debit
+    debit
+  
+  
+    decision-making
+  
+  
+    Delivery
+    delivery
+  
+  
+    Eclipse 3.0
+  
+  
+    Email
+  
+  
+    EJB
+  
+  
+    Fast
+    fast
+  
+  
+    Fax
+  
+  
+    features
+  
+  
+    financial
+  
+  
+    Forms
+    forms
+  
+  
+    Functional
+  
+  
+    Gateway
+  
+  
+    GL
+  
+  
+    Homesite
+  
+  
+    HTML
+  
+  
+    HR
+  
+  
+    DB2
+  
+  
+    Websphere6.1
+  
+  
+    Insurance
+  
+  
+    J2ee
+    Java 2 Enterprise Edition
+  
+  
+    Java
+    java
+  
+  
+    JSP
+    Java Server Pages
+  
+  
+    Java Beans
+  
+  
+    JavaScript
+  
+  
+    JBOSS 4.0
+  
+  
+    Languages
+  
+  
+    Team Lead
+  
+  
+    Linux
+  
+  
+    Macromedia
+  
+  
+    mainframe
+  
+  
+    Market
+  
+  
+    messaging
+  
+  
+    access
+  
+  
+    SQL Server 6.5
+  
+  
+    Windows 2000
+  
+  
+    Windows XP
+  
+  
+    MQ Series
+    MQSeries
+  
+  
+    Network
+    network
+  
+  
+    Operating System
+  
+  
+    Oracle
+  
+  
+    Developer
+  
+  
+    Oracle 8i
+  
+  
+    page
+  
+  
+    personnel
+  
+  
+    POS
+  
+  
+    PostgreSQL 8.0
+  
+  
+    processes
+  
+  
+    Processors
+    processors
+  
+  
+    coding
+    Programmer
+  
+  
+    project Design
+  
+  
+    project planning
+  
+  
+    Express
+  
+  
+    RDBMS
+  
+  
+    receiving
+  
+  
+    reporting
+  
+  
+    requirement
+  
+  
+    Servers
+  
+  
+    Servlets
+  
+  
+    Scripts
+  
+  
+    SMS
+  
+  
+    Software Development
+  
+  
+    SOP
+  
+  
+    SQL Server 2000
+  
+  
+    SQL Server 7.0
+  
+  
+    stories
+  
+  
+    STRUTS2
+    Struts2
+    Struts
+  
+  
+    Sun
+  
+  
+    Switch
+  
+  
+    System Design
+  
+  
+    tables
+  
+  
+    team management
+  
+  
+    phone
+  
+  
+    Tomcat
+    Tomcat 4.0.1
+    Tomcat 4.0
+  
+  
+    type
+  
+  
+    Valuation
+  
+  
+    View
+  
+  
+    Visual Basic 6
+  
+  
+    Web Server
+  
+  
+    Weblogic 8.1
+  
+  
+    Windows 2000 Server
+  
+  
+    workflow
+  
+  
+    written
+  
+  
+    XHTML
+  
+  
+    XML
+  
+  
+    XSL
+  
+  
+    XSLT
+  
+
+

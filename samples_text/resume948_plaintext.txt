@@ -1,0 +1,477 @@
+
+Manoj Sonawane	
+Manoj Sonawane
+sonumanoj@gmail.com
+Phone: 415-347-5348
+
+
+Summary
+
+Eight and half years (8.5 years) of total IT experience this includes implementation, end user training, coding, team leading, production support, performance tuning, technical project management, architecture/designing.
+Completed Microsoft Certified Application Developer (MCAD) for Microsoft .NET. 
+Have experience in communication and coordination with business groups, infrastructure teams, architects, third parties, development teams (offshore/onsite) and QA.
+Experience working on waterfall &amp; agile environments (scrums).
+Extremely proficient in various Microsoft tools and technologies.
+Mostly worked on large projects with systems that require handling of high user load.
+Highly adaptive, have worked on following technologies over the years:- Web, thick client server, n tier component based, workflows, SOA.
+Has extensive experience as a tech lead/architect in Design, Development and Implementation of commercial Web Based applications, Client-Server and 3-tier applications along with Framework component development. Experienced in ASP.NET, C#, ASP.NET MVC, WCF Client, ASP, HTML, DHTML, JavaScript, jQuery, MS SQL Server.
+Has very good domain knowledge in the areas of Private Banking , Mutual funds operations, Brokerage Solutions,  US Stock market trading, Portfolio Management, Retail Banking operations
+
+Skillset
+
+Microsoft .Net Framework 4.0	C#	MS-SQL Server 2005	
+
+ASP.NET Web Forms 	WCF Client	JavaScript/jQuery/JSON	
+
+ASP.NET MVC	VSTS 2010	UML	
+
+Enterprise Architect
+
+Performance Tuning	Technical Documentation
+
+HttpWatch/Fiddler	Object Oriented Analysis and Design (OOAD)
+Content Management System	
+
+
+
+
+Professional Experience
+
+Jul 2011 - present
+Client: Charles Schwab &amp; Co.
+Project Lead\Architect\Senior Developer	
+C#, ASP.Net MVC 3, WCF Client, .Net Framework 4.0, JQuery, JSON, Visual Studio 2010
+
+Develop a scaled-down "emergency" version of Schwab.com Trading Site that:
+-Can be activated when the "regular" site has reached max capacity or has availability issues.
+-Is an alternative to "System Unavailable" or unstable experience.
+-Can sustain flash-crash traffic levels of 7x and beyond.
+-Is optimized for capacity and (server-side) performance.
+	-Has minimal cross-system resource consumption and dependencies.
+My responsibilities include:-
+Responsible for designing and documenting various components of the architecture which would make up the application.
+Code review.
+Prototyping &amp; evaluating various design options, tools &amp; technologies.
+Creating architecture for the new system in coordination with client architecture team.
+Presenting architecture design to various stakeholders.
+Technical design documentation &amp; review.
+Creating plan for various teams to work on.
+Managing &amp; coordinating with offshore development team of 3.
+Supporting onsite and offshore project managers in creating detailed project plans.
+
+Project: Web Analytics Migration	Jan 2012 - present
+Client: Charles Schwab &amp; Co.
+Project Lead\Architect\Senior Developer	
+JavaScript, C#, ASP.Net MVC, WCF, .Net Framework 4.0, Visual Studio 2010, Adobe Omniture SiteCatalyst
+
+	This project is mainly to replace the current web analytics product (Hitbox) with Adobe's Omniture SiteCatalyst. The migration of the web analytics tagging across multiple website of client now will support the new product through tag management system hosted on internal Content Management System based on the page tag syndication framework. My responsibilities include:-
+Responsible for designing and documenting various components of the architecture which would make up the integration of web analytics on each client web sites through page tag syndication framework.
+Presenting designs to various stakeholders for sigh-off and comments.
+Development of custom plugins to be used as common platform for integration through tag management system. 
+Point of contact to the implementation team for any technical issues faced in individual site integration with web analytics.
+Consultant to the Production Support team for suggesting ways to debug issues till application is client facing
+
+Project: Prospect Site Redesign	Jan 2010 - July 2011
+Client: Charles Schwab &amp; Co.
+Project Lead\Architect\Senior Developer	
+ASP.Net 4.0, C#, WCF Client, .Net Framework 4.0, Visual Studio 2010, Google Maps JavaScript V3 API, Google Search Appliance 6
+
+Rewriting clients existing public site (schwab.com), this project was about migrating the old public site from a Java based platform to a .Net based platform with new look, to be more scalable then its predecessor. This project was executed in Agile development model. I was responsible for designing and developing the shared applications between public site and secure site. Branch Locator application integrates with Google Maps using JavaScript V3 API and Static Map API. Internal Search application integrates with Google Search Appliance to achieve the search on site and Quick Quote application integrates with Wall Street On Demand services. My responsibilities include:-
+Development of third party integrations (Google Map/Google Search Appliance/ Wall Street)
+Code review
+Prototyping &amp; evaluating various design options, tools &amp; technologies
+Responsible for analyzing the existing system to understand requirements
+Creating architecture for the new system in coordination with client architecture team
+Presenting architecture design to various stakeholders
+Technical design documentation &amp; review
+Creating plan for various teams to work on
+Managing &amp; coordinating with offshore development team of 5
+Supporting onsite and offshore project managers in creating detailed project plans
+
+Project: Performance Enhancement 	Aug 2009 - Dec 2009
+Client: Charles Schwab &amp; Co.	
+Project Lead\Senior Developer	
+ASP.Net 2.0, WCF client, .Net Framework 3.5
+
+This was a project for improving the end to end performance of top used web pages for the client to improve the KBTI rating of the web site &amp; to improve user experience. My responsibilities include:-
+Identify various opportunities available for improving the page performance using various tools like HttpWatch, Fiddler, Keynote KBTI reports, web log and instrumentation log analysis.
+Create design for the items identified which can provide potential improvement and present those to client architecture teams.
+Developing complex modules.
+At the end of the project we met of objective of bringing web sites KBTI rating from 11th to 1st position.
+
+Project: Trading web site development 	Mar 2009 - Sep 2009
+Client: Charles Schwab &amp; Co.
+Project Lead\Senior Developer	
+ASP.Net 2.0, WCF client, .Net Framework 3.5
+
+This was a project for creating a new web site for one of the largest online brokerage company; I served as a member of design team for application architecture, documentation and performance tuning. The project was executed from 3 distinct locations. My responsibilities include:-
+Responsible for designing and documenting various components of the architecture which would makeup the framework of the application.
+Presenting designs to various stakeholders for sigh-off and comments. 
+Interfaced with client's infrastructure team for design discussions on application security, availability and monitoring.
+Interfacing with business to discuss feasibility for implementing a specific requirement and suggest alternatives.
+Point of contact to the implementation team for any technical issues faced in the application framework as well as .net framework and identifying improvements in terms of application maintainability and stability in that process.
+Consultant to the Production Support team for suggesting ways to debug issues.
+
+MphasiS an HP company, Mumbai, India	2007 - 2009
+
+Project: Trading web site development 	Jul 2007 - Mar 2009
+Client: Charles Schwab &amp; Co.
+Module Lead\Senior Software Engineer	
+ASP.Net 2.0, WCF client, .Net Framework 3.5
+
+This is the same project as above which I was part of in India; I served as a member of framework team which was responsible for creating a portal framework for use-case development and part of Login team which was responsible for creating security module along with most complex login process of clients trading site. My responsibilities include:-
+Responsible for designing &amp; developing the Profile component required by the web portal.
+Part of the design team for page assembly and security components (authentication &amp; authorization)
+Responsible for designing &amp; developing the critical Login components of trading portal which includes integration with One Time Password, Fraud Detection System and seven various login types.
+Writing user document for the framework components.
+
+HCL Technologies, USA	2006 - 2007
+
+Project: Document and Case Management System (DCM) 	Dec 2006 - Jun 2007
+Client: New York State Department of Public Service (NY-DPS)	
+Module Lead\Senior Developer	
+ASP.NET, C#, Oracle 10g, Crystal Reports XI, FileNet P8 Content Engine 3.5, FileNet P8 Process Engine 3.5, FileNet Capture Professional 5.0, Scansoft Omnipage SDK 15
+
+To develop and deploy a business systems to collect, organize, integrate, make available, distribute, and preserve its organizational knowledge and documents over time and as organizational changes occur.  The system will make both the filing and the information-retrieval processes as efficient and streamlined as possible, leveraging available technology tools - such as imaging, electronic workflow and case status tracking, electronic signatures, and integrated data and information management.  The project is based on the product PUC Case Manager 3.0 and involves further configuration and customization as per NY-DPS requirements. My responsibilities include:-
+Product deployment.
+Gap Analysis in product and application requirements.
+Demonstrating the product to client.
+Coordinating with offsite team.
+Preparation of Data Migration Plan and Gap Analysis Documents.
+Responsible for designing &amp; developing the various flows of application.
+
+HCL Technologies, Mumbai, India	2004 - 2006
+
+Project: PUC Case Manager 3.0 	Nov 2004 - Dec 2006
+Module Lead\Senior Developer	
+ASP.NET 2.0, C#, Oracle 10g, Crystal Reports XI, FileNet P8 Content Engine 3.5, FileNet P8 Process Engine 3.5, FileNet Capture Professional 5.0, Scansoft Omnipage SDK 15
+
+The PUC Case Manager is a web portal for both business and consumer clients with a robust and scalable workflow engine built on FileNET's Panagon suite of products. Public Utilities Commissions (PUCs) manage the public access to the utilities including various electric, water, sewer, gas, and telecommunications providers. They are required to provide information on, and service for, both multinational telecommunications providers and small family owned sewer treatment firms as two extremes. The system includes a detailed workflow where each captured document is routed and accessed by the internal staff. My responsibilities include:-.
+Coordinating with onsite team.
+Requirement gathering and Analysis.
+Preparing HLD and LLD for the new requirement.
+Doing impact analysis.
+Coding.
+Preparing Unit Test Cases and Testing.
+Writing Technical Response for Request For Proposals.
+Demonstrating the applications to clients.
+
+Project: Return Mail OCR 	Nov 2005 - Jan 2006
+Client: Bank of America	
+Senior Developer	
+ASP.NET 2.0, C#, Oracle 10g, Crystal Reports XI, FileNet P8 Content Engine 3.5, FileNet P8 Process Engine 3.5, FileNet Capture Professional 5.0, Scansoft Omnipage SDK 15
+
+Return Mail OCR is the Application which is used by Bank of America for automatic indexing of the Image data. Application automatically takes the data from the image and provides it to the workstation executive for indexing purposes. Application is built on windows services developed in C#.NET and OmniPage Pro 14 OCR Engine. The OCR data is populated in Based on the OCR values and business rules RM indexing application commits documents automatically. My responsibilities include:-
+Requirement gathering and Analysis.
+Prepare HLD and LLD for the new requirement.
+Impact analysis.
+Coding.
+Prepare Unit Test Cases.
+Testing.
+Maintenance.
+Bug Fixing.
+
+Shreeji Overseas, Mumbai, India	2003 - 2004
+
+Project: Private Banking Application 	Aug 2003 - Nov 2004
+Client: ICICI Bank, Mumbai, India
+Programmer Analyst	
+ASP.NET, VB.NET, MS SQL Server2000, MS Visual SourceSafe 6.0
+
+Full-fledged Private Banking web application aimed at all the Private Banking Customers, which would interface with all the asset and liability products. My responsibilities include:-
+Coding.
+Preparing Unit Test Cases and Testing.
+Maintenance.
+Bug Fixing.
+
+Project: MoneyWare Advisor (Online Portfolio Management) 	Aug 2003 - Nov 2004
+Client: Sharekhan Ltd, Mumbai, India
+Programmer Analyst	
+ASP.NET, VB.NET, MS SQL Server2000, Crystal Report 9.0, MS Visual SourceSafe 6.0
+
+Web portal to maintain portfolio to derive gains and losses, maintain stocks and assets of an individual or a corporate client. My responsibilities include:-
+Coding.
+Preparing Unit Test Cases and Testing.
+Maintenance.
+Bug Fixing.
+
+Bharat Petroleum Corporation Ltd., Mumbai, India	2002 - 2003
+
+Project: Online Accommodation System for BPCL 	Jul 2002 - May 2003
+Client: HR Division, BPCL
+Trainee (Programmer)	
+ASP, MS SQL Server2000, MS Visual SourceSafe
+
+Web portal for BPCL employees to achieve the allocation/de-allocation of apartments offered by company. Portal offers online request for allocation/de-allocation/maintenance, inventory details with each apartment. My responsibilities include:-
+Coding.
+Preparing Unit Test Cases and Testing.
+Maintenance.
+Bug Fixing.
+
+
+EDUCATION
+
+Master of Computer Application (MCA)
+V.J.T.I., University of Mumbai, Mumbai, India
+
+Bachelor of Technology (Agril. Engg.)
+Mahatma Phule Agril. University, Maharashtra, India
+
+CERTIFICATIONS
+
+Microsoft Certified Professional
+
+
+
+Microsoft Certified Application Developer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    ASP.Net 4.0
+    ASP.Net
+    Microsoft .Net
+    VB.NET
+    C#.NET
+    .Net
+    .net
+    ASP.NET 2.0
+    ASP.Net 2.0
+    ASP.NET
+  
+  
+    Adobe
+  
+  
+    Agile
+  
+  
+    API
+  
+  
+    Architect
+    architect
+  
+  
+    ASP
+  
+  
+    assembly
+  
+  
+    Banking
+  
+  
+    business systems
+  
+  
+    client server
+    Client-Server
+  
+  
+    com
+  
+  
+    Consultant
+  
+  
+    Content Management
+    Content
+  
+  
+    Crystal Report 9.0
+    Crystal Reports
+  
+  
+    Client
+    client
+    clients
+  
+  
+    Data Migration
+  
+  
+    designing
+  
+  
+    DHTML
+  
+  
+    documentation
+  
+  
+    filing
+  
+  
+    FileNET
+    FileNet
+  
+  
+    flash
+  
+  
+    Forms
+  
+  
+    funds
+  
+  
+    HTML
+  
+  
+    Image
+    image
+    imaging
+  
+  
+    indexing
+  
+  
+    inventory
+  
+  
+    Java
+  
+  
+    JavaScript
+  
+  
+    Managing
+  
+  
+    market
+  
+  
+    max
+  
+  
+    access
+  
+  
+    C#
+  
+  
+    Microsoft Certified Professional
+    Microsoft Certified
+  
+  
+    Mail
+  
+  
+    windows
+  
+  
+    2000
+  
+  
+    migration
+  
+  
+    MVC 3
+    MVC
+  
+  
+    Enterprise
+  
+  
+    OOAD
+    Object Oriented Analysis and Design
+  
+  
+    OCR
+  
+  
+    OmniPage Pro
+  
+  
+    Oracle
+  
+  
+    Developer
+  
+  
+    organizational
+  
+  
+    page
+  
+  
+    Presenting
+  
+  
+    processes
+  
+  
+    Coding
+  
+  
+    project plans
+  
+  
+    Proposals
+  
+  
+    Prototyping
+  
+  
+    Quick
+  
+  
+    Requirement
+    requirement
+  
+  
+    Retail
+  
+  
+    Visual SourceSafe
+    Visual SourceSafe 6.0
+  
+  
+    MS SQL Server
+    MS-SQL Server
+  
+  
+    Technical Documentation
+  
+  
+    telecommunications
+  
+  
+    UML
+  
+  
+    Utilities
+    utilities
+  
+  
+    Visual Studio
+  
+  
+    Web portal
+    web portal
+  
+  
+    web site
+    website
+    web site development
+    web sites
+    web pages
+  
+  
+    workflow
+  
+
+

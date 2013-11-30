@@ -1,0 +1,61 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Surgical Assistant", 
+            "Type": "Core", 
+            "Certification ID": "5942", 
+            "Certifying Organization": "American Board of Surgical Assistants"
+        }, 
+        {
+            "Acronym": "CTP", 
+            "Certification Name": "Certified Transplant Preservationist", 
+            "Type": "Specialty", 
+            "Certification ID": "7317", 
+            "Certifying Organization": "American Board for Transplant Certification"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Ophthalmic Surgical Assisting", 
+            "Type": "Core", 
+            "Certification ID": "1029", 
+            "Certifying Organization": "Joint Commission on Allied Health Personnel in Ophthalmology"
+        }, 
+        {
+            "Acronym": "OT-SC", 
+            "Certification Name": "Orthopaedic Technologist-Surgery Certified", 
+            "Type": "Specialty", 
+            "Certification ID": "3650", 
+            "Certifying Organization": "National Board for Certification of Orthopaedic Technololgists"
+        }, 
+        {
+            "Acronym": "CSFA", 
+            "Certification Name": "Certified Surgical First Assistant", 
+            "Type": "Core", 
+            "Certification ID": "1130", 
+            "Certifying Organization": "National Board of Surgical Technology and Surgical Assisting"
+        }, 
+        {
+            "Acronym": "CCTC", 
+            "Certification Name": "Certified Clinical Transplant Coordinator", 
+            "Type": "Specialty", 
+            "Certification ID": "7315", 
+            "Certifying Organization": "American Board for Transplant Certification"
+        }, 
+        {
+            "Acronym": "CPTC", 
+            "Certification Name": "Certified Procurement Transplant Coordinator", 
+            "Type": "Specialty", 
+            "Certification ID": "7316", 
+            "Certifying Organization": "American Board for Transplant Certification"
+        }, 
+        {
+            "Acronym": "CST", 
+            "Certification Name": "Certified Surgical Technologist", 
+            "Type": "Core", 
+            "Certification ID": "1129", 
+            "Certifying Organization": "National Board of Surgical Technology and Surgical Assisting"
+        }
+    ], 
+    "onet": "29209907"
+}

@@ -1,0 +1,82 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CMI", 
+            "Certification Name": "Certified Mortgage Investigator", 
+            "Type": "Core", 
+            "Certification ID": "8801", 
+            "Certifying Organization": "Conference of State Bank Supervisors"
+        }, 
+        {
+            "Acronym": "CRU", 
+            "Certification Name": "Certified Residential Underwriter", 
+            "Type": "Core", 
+            "Certification ID": "1374", 
+            "Certifying Organization": "Mortgage Bankers Association of America"
+        }, 
+        {
+            "Acronym": "CUBLP", 
+            "Certification Name": "Credit Union Business Lending Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "9232", 
+            "Certifying Organization": "Credit Union National Association"
+        }, 
+        {
+            "Acronym": "CMME", 
+            "Certification Name": "Certified Multistate Mortgage Examiner-in-Charge", 
+            "Type": "Advanced", 
+            "Certification ID": "8800", 
+            "Certifying Organization": "Conference of State Bank Supervisors"
+        }, 
+        {
+            "Acronym": "CMS", 
+            "Certification Name": "Commercial Certified Mortgage Servicer", 
+            "Type": "Core", 
+            "Certification ID": "4777", 
+            "Certifying Organization": "Mortgage Bankers Association of America"
+        }, 
+        {
+            "Acronym": "CMEM", 
+            "Certification Name": "Certified Mortgage Examinations Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "8799", 
+            "Certifying Organization": "Conference of State Bank Supervisors"
+        }, 
+        {
+            "Acronym": "PCA", 
+            "Certification Name": "Professional Credit Associate", 
+            "Type": "Core", 
+            "Certification ID": "8972", 
+            "Certifying Organization": "Credit Professionals International"
+        }, 
+        {
+            "Acronym": "PCE", 
+            "Certification Name": "Professional Credit Executive", 
+            "Type": "Advanced", 
+            "Certification ID": "8974", 
+            "Certifying Organization": "Credit Professionals International"
+        }, 
+        {
+            "Acronym": "PCS", 
+            "Certification Name": "Professional Credit Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "8973", 
+            "Certifying Organization": "Credit Professionals International"
+        }, 
+        {
+            "Acronym": "MPCE", 
+            "Certification Name": "Master Professional Credit Executive", 
+            "Type": "Advanced", 
+            "Certification ID": "8975", 
+            "Certifying Organization": "Credit Professionals International"
+        }, 
+        {
+            "Acronym": "CCUFC", 
+            "Certification Name": "Certified Credit Union Financial Counselor", 
+            "Type": "Advanced", 
+            "Certification ID": "9230", 
+            "Certifying Organization": "Credit Union National Association"
+        }
+    ], 
+    "onet": "13207101"
+}

@@ -1,0 +1,110 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CBC", 
+            "Certification Name": "Certified Broadcast Captioner", 
+            "Type": "Specialty", 
+            "Certification ID": "3580", 
+            "Certifying Organization": "National Court Reporters Association"
+        }, 
+        {
+            "Acronym": "CVR", 
+            "Certification Name": "Certified Verbatim Reporter", 
+            "Type": "Core", 
+            "Certification ID": "5421", 
+            "Certifying Organization": "National Verbatim Reporters Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Realtime Systems Administrator", 
+            "Type": "Advanced", 
+            "Certification ID": "8595", 
+            "Certifying Organization": "National Court Reporters Association"
+        }, 
+        {
+            "Acronym": "CM", 
+            "Certification Name": "Certificate of Merit", 
+            "Type": "Core", 
+            "Certification ID": "5422", 
+            "Certifying Organization": "National Verbatim Reporters Association"
+        }, 
+        {
+            "Acronym": "RMR", 
+            "Certification Name": "Registered Merit Reporter", 
+            "Type": "Core", 
+            "Certification ID": "0330", 
+            "Certifying Organization": "National Court Reporters Association"
+        }, 
+        {
+            "Acronym": "RDR", 
+            "Certification Name": "Registered Diplomate Reporter", 
+            "Type": "Core", 
+            "Certification ID": "0331", 
+            "Certifying Organization": "National Court Reporters Association"
+        }, 
+        {
+            "Acronym": "RCP", 
+            "Certification Name": "Registered CART Provider", 
+            "Type": "Advanced", 
+            "Certification ID": "8625", 
+            "Certifying Organization": "National Verbatim Reporters Association"
+        }, 
+        {
+            "Acronym": "CRR", 
+            "Certification Name": "Certified Realtime Reporter", 
+            "Type": "Core", 
+            "Certification ID": "0332", 
+            "Certifying Organization": "National Court Reporters Association"
+        }, 
+        {
+            "Acronym": "RVR", 
+            "Certification Name": "Real-time Verbatim Reporter", 
+            "Type": "Core", 
+            "Certification ID": "5423", 
+            "Certifying Organization": "National Verbatim Reporters Association"
+        }, 
+        {
+            "Acronym": "MCRI", 
+            "Certification Name": "Master Certified Reporting Instructor", 
+            "Type": "Advanced", 
+            "Certification ID": "0335", 
+            "Certifying Organization": "National Court Reporters Association"
+        }, 
+        {
+            "Acronym": "RBC", 
+            "Certification Name": "Registered Broadcast Captioner", 
+            "Type": "Advanced", 
+            "Certification ID": "8624", 
+            "Certifying Organization": "National Verbatim Reporters Association"
+        }, 
+        {
+            "Acronym": "CRI", 
+            "Certification Name": "Certified Reporting Instructor", 
+            "Type": "Core", 
+            "Certification ID": "0334", 
+            "Certifying Organization": "National Court Reporters Association"
+        }, 
+        {
+            "Acronym": "CLVS", 
+            "Certification Name": "Certified Legal Video Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "0337", 
+            "Certifying Organization": "National Court Reporters Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Trial Presentation Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "8596", 
+            "Certifying Organization": "National Court Reporters Association"
+        }, 
+        {
+            "Acronym": "RPR", 
+            "Certification Name": "Registered Professional Reporter", 
+            "Type": "Core", 
+            "Certification ID": "0329", 
+            "Certifying Organization": "National Court Reporters Association"
+        }
+    ], 
+    "onet": "23209100"
+}

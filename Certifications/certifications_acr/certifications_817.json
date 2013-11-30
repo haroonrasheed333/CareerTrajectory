@@ -1,0 +1,26 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CDPT", 
+            "Certification Name": "Director of  Pupil Transportation", 
+            "Type": "Advanced", 
+            "Certification ID": "2511", 
+            "Certifying Organization": "National Association for Pupil Transportation"
+        }, 
+        {
+            "Acronym": "CPTS", 
+            "Certification Name": "Pupil Transportation Specialist", 
+            "Type": "Core", 
+            "Certification ID": "2513", 
+            "Certifying Organization": "National Association for Pupil Transportation"
+        }, 
+        {
+            "Acronym": "CSPT", 
+            "Certification Name": "Supervisor of Pupil Transportation", 
+            "Type": "Advanced", 
+            "Certification ID": "2512", 
+            "Certifying Organization": "National Association for Pupil Transportation"
+        }
+    ], 
+    "onet": "53302200"
+}

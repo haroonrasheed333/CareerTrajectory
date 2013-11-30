@@ -1,0 +1,155 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734594' xml:space='preserve'><contact><name><givenname>Kaley</givenname> <surname>Potter</surname></name>
+<address lat='29.1598' lon='98.1802' majorcity='FLORESVILLE' state='TX'><street>4626 CR 404</street> ~ <city>Floresville</city>, <state abbrev='TX'>Texas</state> ~ <postalcode>78114</postalcode></address>
+Phone: <phone>(210) 414- 8817</phone>
+Email: <email>kpotter1309@gmail.com</email></contact>
+
+<summary>Objective:	<objective>To obtain an entry level position in the medical field.</objective>
+
+Qualifications
+
+<summary>CPT coding &amp; ICD-9 Coding                                                 
+Medicaid &amp; Medicare Billing                                                                
+Tricare &amp; ChampVA Billing                                       Workers Compensation 
+Disability Insurance
+Procedural &amp; Diagnostic Coding
+ENGLISH, Fluent
+CPR &amp; First Aide Certified
+IPPS Certified
+ICD-9-CM Certified
+Medically Necessity Certified
+CMS Form 1500
+Front Office Medicare
+HIPAA EDI Standards</summary></summary>
+
+
+<experience end='present' start='733257'>Work Experience:
+<job end='present' id='1' pos='1' sic='808201' sic2='80' start='734199'><employer>Nurses in Touch</employer>                                                                              <daterange><start days='734199' iso8601='2011-03-01'>March 2011</start> to <end days='present' iso8601='2012-03-30'>present</end></daterange>
+<title>Authorization Clerk and Billing Specialist</title>
+<description>Talk to Insurance companies
+Maintain Records of patients and visits
+Distribute nurse/patient schedules
+Call patients to discuss insurance coverage and benefits
+Work with Allscripts computer software to work with scheduling
+Submit claims to insurance companies</description></job>
+
+<job end='734048' id='2' pos='2' start='734018'><employer>Innova Hospital</employer> 						               <daterange><start days='734018' iso8601='2010-09-01'>September 2010</start>- <end days='734048' iso8601='2010-10-01'>October 2010</end></daterange>
+Medical Billing &amp; Coding Extern
+<description>Answer telephone and transfer calls when needed
+ICD-9 &amp; CPT-4 for Bariatric patients
+Organize &amp; File Patients Records
+Schedule Appointments &amp; Follow ups
+Pre- Authorizations
+Referrals
+Insurance Verifications
+Preparation of Insurance Forms
+Enter data into Age Report
+Worked with Exemplo Software and Medisoft</description></job>
+
+<job end='733561' id='3' pos='3' sic='8231' sic2='82' start='733257'><employer>Floresville High School Library</employer>				            <daterange><start days='733257' iso8601='2008-08-01'>August 2008</start>- <end days='733561' iso8601='2009-06-01'>June 2009</end></daterange>
+<title>Library Assistant</title>
+<description>Provided Excellent Customer Service
+Responsible for posting of  payments
+Maintained Inventory / Stocking
+Maintained cash and monetary transactions</description></job></experience>
+
+
+<skills>Personal Experience
+Experienced in  computer technology: <skills>MS Outlook, PowerPoint, Excel, Word, and Internet Explorer
+Can modify and use the correct people skills for all ages
+Proficient phone skills and people skills
+Work well under pressure
+Organized</skills>
+Multi-task oriented
+Willing to work where and as needed
+
+Certifications:
+<courses>Acute Hospital Inpatient Prospective Payment System (IPPS)- 6/2/10</courses></skills>
+<education>Medical Necessity- <school id='4'><completiondate days='733912' iso8601='2010-05-18'>5/18/10</completiondate>
+<degree>CMS</degree> <daterange>Form 1500- <end days='733912' iso8601='2010-05-18'>5/18/10</end></daterange>
+<courses>Diagnosis Coding: Using ICD-9-CM-6/2/2010
+Front Office Medicine- 5/18/10
+Uniform Billing (UB)-5/26/10
+American Heart Association, Cardio- Pulmonary Resuscitation (CPR) - 5/24/10- 5/24/12
+
+Education:
+Kaplan College							 February 2010- November 2010
+Medical Billing &amp; Coding Program</courses>
+
+<institution>Floresville High School</institution>						             <daterange><start days='732161' iso8601='2005-08-01'>August 2005</start>- <end days='733561' iso8601='2009-06-01'>June 2009</end></daterange></school>
+<degree level='12'>High School Diploma</degree></education>
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='benefits administration' start='734199'>
+    <variant>benefits</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='4' idrefs='4' name='billing'>
+    <variant>Billing</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='4' idrefs='4' name='cpr certified'>
+    <variant>CPR</variant>
+  </canonskill>
+  <canonskill end='734048' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='cpt' start='734018'>
+    <variant>CPT</variant>
+  </canonskill>
+  <canonskill end='733561' experience='1' expidrefs='3' idrefs='3' lastused='2009' name='customer service' start='733257'>
+    <variant>Excellent Customer Service</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='4' idrefs='4' name='diagnosis'>
+    <variant>Diagnosis</variant>
+  </canonskill>
+  <canonskill end='734048' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='forms' start='734018'>
+    <variant>Forms</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='4' idrefs='4' name='front office'>
+    <variant>Front Office</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='4' end='734048' experience='1' expidrefs='2' idrefs='2,4' lastused='2010' name='icd - 9' start='734018'>
+    <variant>ICD-9</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='insurance' start='734018'>
+    <variant>Insurance</variant>
+    <variant>insurance</variant>
+  </canonskill>
+  <canonskill name='internet explorer'>
+    <variant>Internet Explorer</variant>
+  </canonskill>
+  <canonskill end='733561' experience='1' expidrefs='3' idrefs='3' lastused='2009' name='inventory management' start='733257'>
+    <variant>Inventory</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='4' idrefs='4' name='medical billing'>
+    <variant>Medical Billing</variant>
+  </canonskill>
+  <canonskill end='734048' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='medisoft' start='734018'>
+    <variant>Medisoft</variant>
+  </canonskill>
+  <canonskill name='microsoft excel'>
+    <variant>Excel</variant>
+  </canonskill>
+  <canonskill name='microsoft outlook'>
+    <variant>MS Outlook</variant>
+  </canonskill>
+  <canonskill name='microsoft powerpoint'>
+    <variant>PowerPoint</variant>
+  </canonskill>
+  <canonskill name='microsoft word'>
+    <variant>Word</variant>
+  </canonskill>
+  <canonskill name='people skills'>
+    <variant>people skills</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='4' idrefs='4' name='programming'>
+    <variant>Coding</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='scheduling' start='734199'>
+    <variant>scheduling</variant>
+  </canonskill>
+  <canonskill end='734048' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='telephone skills' start='734018'>
+    <variant>telephone</variant>
+    <variant>phone skills</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

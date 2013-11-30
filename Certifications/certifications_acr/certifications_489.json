@@ -1,0 +1,19 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CFPS", 
+            "Certification Name": "Certified Fire Protection Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "1023", 
+            "Certifying Organization": "National Fire Protection Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Fire Plans Examiner", 
+            "Type": "Core", 
+            "Certification ID": "4625", 
+            "Certifying Organization": "International Code Council"
+        }
+    ], 
+    "onet": "33102100"
+}

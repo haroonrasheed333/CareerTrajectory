@@ -1,0 +1,89 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "HS-BCPT", 
+            "Certification Name": "Human Services - Board Certified Practitioner", 
+            "Type": "Advanced", 
+            "Certification ID": "6276", 
+            "Certifying Organization": "Center for Credentialing & Education, Inc."
+        }, 
+        {
+            "Acronym": "BCN", 
+            "Certification Name": "Board Certified in Neurofeedback", 
+            "Type": "Specialty", 
+            "Certification ID": "6711", 
+            "Certifying Organization": "Biofeedback Certification International Alliance"
+        }, 
+        {
+            "Acronym": "CWS", 
+            "Certification Name": "Certified Workforce Specialist", 
+            "Type": "Advanced", 
+            "Certification ID": "5632", 
+            "Certifying Organization": "International Association of Workforce Professionals"
+        }, 
+        {
+            "Acronym": "CPFFE", 
+            "Certification Name": "Certified Personal and Family Finance Educator", 
+            "Type": "Advanced", 
+            "Certification ID": "8152", 
+            "Certifying Organization": "American Association of Family and Consumer Sciences"
+        }, 
+        {
+            "Acronym": "CFCS-HNFS", 
+            "Certification Name": "Certified in Hospitality, Nutrition, and Food Science", 
+            "Type": "Core", 
+            "Certification ID": "8151", 
+            "Certifying Organization": "American Association of Family and Consumer Sciences"
+        }, 
+        {
+            "Acronym": "CEAP", 
+            "Certification Name": "Certified Employee Assistance Professional", 
+            "Type": "Core", 
+            "Certification ID": "1375", 
+            "Certifying Organization": "International Employee Assistance Professionals Association"
+        }, 
+        {
+            "Acronym": "CCAP", 
+            "Certification Name": "Certified Community Action Professional", 
+            "Type": "Core", 
+            "Certification ID": "3867", 
+            "Certifying Organization": "Community Action Partnership"
+        }, 
+        {
+            "Acronym": "CFCS-HDFS", 
+            "Certification Name": "Certified in Human Development and Family Studies", 
+            "Type": "Core", 
+            "Certification ID": "8150", 
+            "Certifying Organization": "American Association of Family and Consumer Sciences"
+        }, 
+        {
+            "Acronym": "NCFR", 
+            "Certification Name": "Certified Family Life Educator", 
+            "Type": "Advanced", 
+            "Certification ID": "3646", 
+            "Certifying Organization": "National Council on Family Relations"
+        }, 
+        {
+            "Acronym": "CCMC", 
+            "Certification Name": "Case Manager Certification", 
+            "Type": "Core", 
+            "Certification ID": "3644", 
+            "Certifying Organization": "Commission for Case Manager Certification"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Housing Counselor", 
+            "Type": "Core", 
+            "Certification ID": "3997", 
+            "Certifying Organization": "Association for Financial Counseling and Planning Education"
+        }, 
+        {
+            "Acronym": "CFCS", 
+            "Certification Name": "Certified in Family and Consumer Sciences", 
+            "Type": "Advanced", 
+            "Certification ID": "1319", 
+            "Certifying Organization": "American Association of Family and Consumer Sciences"
+        }
+    ], 
+    "onet": "21109300"
+}

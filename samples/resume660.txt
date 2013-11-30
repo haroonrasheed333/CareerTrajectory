@@ -1,0 +1,346 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734595' xml:space='preserve'><contact><name><givenname>SEKHAR</givenname> <givenname>BABU</givenname> <surname>MEDA</surname></name>
+<email>Sekharbabu.meda@gmail.com</email>
+<phone>510-449-9890</phone></contact>
+
+
+<summary>Career Objective:
+<objective>Seeking a challenging career in Home and Building Controls, Industrial Automation and Control domains where my abilities and experience can be put to maximum use for mutual growth of the organization and myself and to create Energy efficient Systems for Homes, Buildings as well as for industries.</objective>
+
+Summary of Experience:
+<summary>10+ yrs of experience in Home &amp; Building Controls and Technologies, as a principal engineer I designed and developed innovative and low cost products in HVAC and Lighting Controls space.
+
+Area of expertise spans from developing high level application software components for Building controls to designing and developing Hardware solutions for Lighting Controls.</summary></summary>
+
+<experience end='present' start='733044'>Professional Experience:
+
+Working as <job end='present' id='1' pos='1' start='733744'><title>Principal Engineer</title> for <employer>LUMEnergi Inc</employer>., <address lat='40.7241' lon='-74.1732' majorcity='NEWARK' state='NJ'><city>Newark</city>, <state abbrev='CA'>CA</state></address> from <daterange><start days='733744' iso8601='2009-12-01'>DEC 2009</start> to <end days='present' iso8601='2012-03-31'>till date</end></daterange></job>.
+Worked as a <job end='733714' id='2' pos='4' start='733044'><title>C++/VC++ application developer</title> (<title>consultant</title>) for <employer>Mirrorplus Technologies</employer>, <address><city>Fremont</city>, <state abbrev='CA'>CA</state></address> from NOV <daterange><start days='733044' iso8601='2008-01-01'>2008</start> to <end days='733714' iso8601='2009-11-01'>NOV 2009</end></daterange></job>.
+Worked as a <job id='3' naics='44312007' naics2='44' sic='573401' sic2='57'><title>Software Design Engineer III (consultant)</title> for <employer>Microsoft Corporation</employer>, <address><city>Redmond</city></address> for 8 months
+Worked as <title>Principle Engineer/Team Lead</title> for Honeywell Technology Solutions Lab, <address><city>Bangalore</city>, <country iso3='IND'>India</country></address> <description>for 5.5 years.
+
+
+Technical Expertise:
+
+Expertise in Designing and developing different protocols and control strategies in Building controls space to open interoperability between different sub systems like 	
+HVAC, Fire &amp; Security, Access and Lighting Controls to minimize the energy consumption, to create high level of comfort in the building and to bring benefits of highly integrated environment to users as well as to for easy maintenance.
+BACnet, DALI and RS232/RS485 and other communication systems
+Designing and developing Engineering Control software applications for Building Controls including lighting
+BMS Systems and Integration of Different Sub-systems in the building
+Designing HW platform and Firmware for DALI based control systems
+Lighting control products design and development(DALI, 0-10V, Phase Cut, PWM controls, Wall switches, Occupancy sensors, Photo sensors etc)
+specialized in DALI bus powered sensors creation and creating sensor driven control strategies in distributed manner
+Designing and developing lighting products around PIC24F and Atmel 8,16 bit MCU's
+Embedded HW/SW design and Developing embedded application software
+SKILL SET:
+Programming Languages C, C++, VC++, C#.NET, COM etc.
+PIC24F, ATMega family of 8 and 16 bit microcontrollers
+Embedded development in both C and C++
+Both embedded and application level web Technologies - Winforms, ASP.NET, HTML, AJAX, Sync fusion controls etc
+BACnet/IP, BACnet/MSTP, RS485 Network protocol stacks development and application software development
+Applying Six Sigma Methodologies throughout product development
+High level user centered windows applications 
+Team management and driving the product development with right technologies to minimize time to market with highest quality.
+BMS Systems, Honeywell EBI and Alerton Systems
+Windows CE/Mobile development &amp; debugging tools likes Platform Builder.
+Proficient in Data structures &amp; Algorithms development. Developed fuzzy logic algorithms for HVAC controllers, which are used in commissioning process of controllers. Developed graphical algorithms for optimizing the CAD drawings using R</description></job></experience> <summary><summary>and R+ trees.
+Experience with Source Control tools like Rational Clear case and VSS.
+Well versed in design patterns and designing methodologies using UML and creating design docs in Microsoft Visio &amp; Rational Rose
+Certified in Six Sigma Green Belt software process and very much familiar with CMMi level 5 Models.
+Capable of handling complex projects with high sigma levels. Recorded 5.2 sigma levels for a complex project which was executed in 2 years and generated 400K lines of code with a team of 5 people</summary>.
+
+Effective in working independently as well as collaboratively in teams
+
+Personal Capabilities:
+
+Played a key role as technical as well as team leader for most successful projects in Honeywell.
+
+Ability to work in most competitive and Innovative work environment
+
+Excellent team player, with strong skills in trouble-shooting, problem solving, Interpersonal, Oral &amp; written communication</summary>
+
+<education>Qualifications:
+<school id='11'><degree level='18'>Master of Technology/Engineering (M.Tech</degree>-<major code='0402 1699'>Computer Science &amp; Engineering</major>) from <institution>University college of Engineering, Osmaina University</institution></school> with  87%
+
+<school id='12'><degree level='18'>Master of Computer Applications (MCA)</degree> from <institution>Andhra University</institution></school> with 75%
+
+
+<school id='13'><degree level='16' name='Bachelor of Science'>Bachelor of science</degree> in <major code='1299'>Electronics</major> from <institution>Nagarjuna University</institution></school> with 73%</education>
+
+
+
+
+
+
+
+
+<experience end='present' start='730213'>Employment:
+
+<job end='present' id='4' pos='2' start='733744'><employer>LUMEnergi Inc</employer>., <address><city>Newark</city>, <state abbrev='CA'>CA</state></address> (<daterange><start days='733744' iso8601='2009-12-01'>DEC 2009</start> to <end days='present' iso8601='2012-03-31'>till date</end></daterange>)
+Role: <title>Principal Engineer</title>
+
+Responsibilities:	
+<description>Design and development of BACnet/IP, BACnet/Ethernet interface for LUMEnergi Lighting Server for seamless integration with existing BMS/HVAC Systems for Energy monitoring and controlling.
+Design and development of both windows and web based personal controls for LUMEnergi Energy saving workstation lighting model.
+Analysis, Design and development of DALI 2.0 firmware and DALI powered hardware platform (using Microchip PIC/Atmel AVR MCU's) for Occupancy sensors, wall switches, photo sensors and other HVAC sensors. 
+Study, Analysis and design of Zigbee®/Zigbee-Pro/DALI 2.0 based lighting control system and integration possibilities with existing non-Zigbee systems.</description></job>
+
+<job id='5'><employer>American One Technologies Inc</employer>., <address><city>NASHUA</city>, <state abbrev='NH'>NH</state></address></job>
+Client: <job end='733714' id='6' pos='3' start='733349'><employer>Mirrorplus Technologies</employer>, <address><city>Fremont</city> <state abbrev='CA'>CA</state></address> (<daterange><start days='733349' iso8601='2008-11-01'>NOV 2008</start> to <end days='733714' iso8601='2009-11-01'>NOV 2009</end></daterange>)
+Role: <title>Senior Software Engineer</title>
+
+Responsibilities:
+<description>Analysis, Design and Development of software for large format printers using C++, COM, C#.NET and Web Services.
+Design and Development of Enterprise level Central server database, User Interface and Stored procedures using SQL Server 2005/2008.
+Developing Web services for central server of printer tracking system.</description></job> 
+
+<job id='7'><employer>SRS Consulting Inc</employer>. <address><city>Fremont</city>, <state abbrev='CA'>CA</state></address></job>
+Client: <job end='733318' id='8' naics='44312007' naics2='44' pos='5' sic='573401' sic2='57' start='733104'><employer>Microsoft Corp</employer>, <address><city>Redmond</city>, <state abbrev='WA'>WA</state></address> (<daterange><start days='733104' iso8601='2008-03-01'>MAR 2008</start> to <end days='733318' iso8601='2008-10-01'>OCT 2008</end></daterange>)
+Role: <title>Software Design Engineer III</title>
+
+Responsibilities:
+<description>Porting the OEM specific device drivers for Windows Mobile Release 7.0 from WinCE 6.0 using C, C++, Platform Builder 7 and VS 2008.
+Troubleshooting the porting problem in drivers and fixed the issues.</description></job>
+
+<job end='733075' id='9' pos='6' start='731034'><employer>Honeywell Technology Solutions Lab</employer>, <address><city>Bangalore</city>, <country iso3='IND'>INDIA</country></address> (<daterange><start days='731034' iso8601='2002-07-01'>JUL 2002</start> to <end days='733075' iso8601='2008-02-01'>FEB 2008</end></daterange>)
+Role: <title>Principal Engineer/Team Lead</title>
+
+<description>Responsibilities:
+Responsible for Architecting, Analysis, Design, Development and deployment for software systems for HVAC controllers.
+Designed and Developed low cost HVAC control system for Asia Pacific region and deployed it successfully. This project involves in development of software's for three kinds of BACnet controllers. 
+Development of Engineering tools which includes, 
+Defining the control logic for BACnet, LON and Modbus controllers(both VAV and Zone controllers), 
+Hierarchy of control networks
+IO terminal assignment.
+Generating the binary files and downloading to controllers
+Offline/Online Simulation of control logic 
+Reverse engineering - getting everything back from binary files
+Auto IO assignment for different IO sensors like predefined temperature, pressure and humidity sensors.
+Support for third-party IO sensors.
+Automated Graphics generation for HMI's 
+Support of customized software points
+
+Development of VAV Balancing Algorithms for VAV BACnet Controllers
+Development of BACnet/IP and BACnet/MSTP protocols for windows to communicate with BACnet Controllers. Developed BACnet stack for VAV controllers.
+Development of Online monitoring tools for BACnet controllers, which are used for commissioning of VAV controllers in the field.
+Development of software for Automatic graphics generation from engineering tool called XLToolkit for EBI central server.
+Development of Conversion tool from DXF file format to HMI Web Display builder format, which are web based graphic pages for HVAC Systems control and monitoring.
+Development of Visio/CAD tools for wiring diagrams, IO assignment and for BOM generation.
+Development of streams drivers (for Rocket Port Card) for RS232 on windows RTX (Real time extension to windows).</description>
+
+Technologies: <description>C, C++, VC++, C#.NET, COM, MFC, ATL, STL, WinCE, MSDE, XML.
+
+Lead Responsibilities:
+Team management of 5 people
+Inter and Intra team co-ordination. As lead of software tools team, I was responsible for coordination of both hardware and firmware teams.
+Project Planning and estimation
+Responsible for Analysis of new requirements.
+Continuous project progress tracking and generating monthly reports.
+Design and code reviews 
+Responsible for preparing deployment package for testing.
+Training the field engineers on engineering tools.</description></job>
+
+<job end='730366' id='10' pos='7' start='730213'><employer>ISRO</employer> (<employer>Indian Space Research Organization</employer>), <address>Sriharikota, <country iso3='IND'>INDIA</country></address> (<daterange><start days='730213' iso8601='2000-04-01'>APR 2000</start> to <end days='730366' iso8601='2000-09-01'>SEP 2000</end></daterange>)
+Role: <title>Project Trainee</title>
+Responsibilities:
+<description>Development of control software for controlling GPIB devices like oscillators, plus counters etc for PCMC Radar station.
+The environment was VENIX-EDS Real time OS and language of development was C, C++.
+
+Achievements:
+Team Excellence award from the CEO, Honeywell Inc. for the best performance in developing the ComfortPoint  HVAC system for Asia pacific region.
+Partner Award for dedication and commitment in successful delivery of Comfort Point Range Products.
+Team Excellent Award for EBI Graphic Generation from XLToolkit Program Manager Honeywell, CAS Germany
+HTSL IP &amp; Innovation award (Project Innovation) winner for Ideation and Concept proofing of AutoCAD DXF to HMI Web Conversion Tool.</description></job></experience>
+
+
+
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='733714' experience='1' expidrefs='3,6,9' idrefs='3,6,9' lastused='2009' name='.net' start='731034'>
+    <variant>C#.NET</variant>
+    <variant>ASP.NET</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='3,4' idrefs='3,4' lastused='2012' name='adobe photodeluxe' start='733744'>
+    <variant>Photo</variant>
+    <variant>photo</variant>
+  </canonskill>
+  <canonskill end='733075' experience='1' expidrefs='9' idrefs='9' lastused='2008' name='atl' start='731034'>
+    <variant>ATL</variant>
+  </canonskill>
+  <canonskill end='730366' experience='1' expidrefs='10' idrefs='10' lastused='2000' name='autocad' start='730213'>
+    <variant>AutoCAD</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='3' idrefs='3' name='benefits administration'>
+    <variant>benefits</variant>
+  </canonskill>
+  <canonskill end='733318' experience='1' expidrefs='3,8,9,10' idrefs='3,8,9,10' lastused='2008' name='c' start='730213'>
+    <variant>C</variant>
+  </canonskill>
+  <canonskill end='733714' experience='1' expidrefs='3,6,8,9,10' idrefs='3,6,8,9,10' lastused='2009' name='c + +' start='730213'>
+    <variant>C++</variant>
+  </canonskill>
+  <canonskill end='733075' experience='1' expidrefs='3,9' idrefs='3,9' lastused='2008' name='cad' start='731034'>
+    <variant>CAD</variant>
+  </canonskill>
+  <canonskill end='733714' experience='1' expidrefs='3,6,9' idrefs='3,6,9' lastused='2009' name='com' start='731034'>
+    <variant>COM</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='4,9' idrefs='4,9' lastused='2012' name='computer hardware' start='731034'>
+    <variant>hardware</variant>
+  </canonskill>
+  <canonskill end='730366' experience='1' expidrefs='10' idrefs='10' lastused='2000' name='concept development' start='730213'>
+    <variant>Concept</variant>
+  </canonskill>
+  <canonskill end='733075' experience='1' expidrefs='9,10' idrefs='9,10' lastused='2008' name='conversion' start='730213'>
+    <variant>Conversion</variant>
+  </canonskill>
+  <canonskill end='733714' experience='1' expidrefs='6' idrefs='6' lastused='2009' name='database administration' start='733349'>
+    <variant>database</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='3' idrefs='3' name='debugging'>
+    <variant>debugging</variant>
+  </canonskill>
+  <canonskill end='730366' experience='1' expidrefs='10' idrefs='10' lastused='2000' name='delivery' start='730213'>
+    <variant>delivery</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='3' idrefs='3' name='design'>
+    <variant>Designing</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='3' idrefs='3' name='development'>
+    <variant>product development</variant>
+  </canonskill>
+  <canonskill end='733318' experience='1' expidrefs='8,9' idrefs='8,9' lastused='2008' name='drivers' start='731034'>
+    <variant>drivers</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='3' idrefs='3' name='driving'>
+    <variant>driving</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='4' idrefs='4' lastused='2012' name='ethernet' start='733744'>
+    <variant>Ethernet</variant>
+  </canonskill>
+  <canonskill end='733075' experience='1' expidrefs='9' idrefs='9' lastused='2008' name='graphical user interface' start='731034'>
+    <variant>Graphics</variant>
+    <variant>graphics</variant>
+  </canonskill>
+  <canonskill end='733075' experience='1' expidrefs='9,10' idrefs='9,10' lastused='2008' name='graphics software' start='730213'>
+    <variant>Graphic</variant>
+    <variant>graphic</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='3' idrefs='3' name='html'>
+    <variant>HTML</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='3,4,9,10' idrefs='3,4,9,10' lastused='2012' name='hvac' start='730213'>
+    <variant>HVAC</variant>
+  </canonskill>
+  <canonskill end='730366' experience='1' expidrefs='10' idrefs='10' lastused='2000' name='innovative' start='730213'>
+    <variant>Innovation</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='3,4,9,10' idrefs='3,4,9,10' lastused='2012' name='ip' start='730213'>
+    <variant>IP</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='3' idrefs='3' name='languages'>
+    <variant>Languages</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='3,4' idrefs='3,4' lastused='2012' name='lighting' start='733744'>
+    <variant>Lighting</variant>
+    <variant>lighting</variant>
+  </canonskill>
+  <canonskill end='733075' experience='1' expidrefs='3,9' idrefs='3,9' lastused='2008' name='logic' start='731034'>
+    <variant>logic</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='3' idrefs='3' name='marketing'>
+    <variant>market</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='3' idrefs='3' name='microsoft access'>
+    <variant>Access</variant>
+  </canonskill>
+  <canonskill end='733075' experience='1' expidrefs='9' idrefs='9' lastused='2008' name='microsoft foundation classes' start='731034'>
+    <variant>MFC</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='3,4,8,9' idrefs='3,4,8,9' lastused='2012' name='microsoft windows' start='731034'>
+    <variant>Windows</variant>
+    <variant>windows</variant>
+    <variant>windows applications</variant>
+  </canonskill>
+  <canonskill end='730366' experience='1' expidrefs='10' idrefs='10' lastused='2000' name='ministry of defence' start='730213'>
+    <variant>Radar</variant>
+  </canonskill>
+  <canonskill end='733714' experience='1' expidrefs='6' idrefs='6' lastused='2009' name='netscape enterprise server' start='733349'>
+    <variant>Enterprise</variant>
+  </canonskill>
+  <canonskill end='733075' experience='1' expidrefs='3,9' idrefs='3,9' lastused='2008' name='networking' start='731034'>
+    <variant>Network</variant>
+    <variant>networks</variant>
+  </canonskill>
+  <canonskill end='730366' experience='1' expidrefs='10' idrefs='10' lastused='2000' name='operating systems' start='730213'>
+    <variant>OS</variant>
+  </canonskill>
+  <canonskill end='733714' experience='1' expidrefs='6' idrefs='6' lastused='2009' name='printers' start='733349'>
+    <variant>printer</variant>
+    <variant>printers</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='3' idrefs='3' name='programming'>
+    <variant>Programming</variant>
+  </canonskill>
+  <canonskill end='733075' experience='1' expidrefs='9' idrefs='9' lastused='2008' name='progress' start='731034'>
+    <variant>progress</variant>
+  </canonskill>
+  <canonskill end='733075' experience='1' expidrefs='9' idrefs='9' lastused='2008' name='project planning' start='731034'>
+    <variant>Project Planning</variant>
+  </canonskill>
+  <canonskill end='730366' experience='1' expidrefs='10' idrefs='10' lastused='2000' name='proofing' start='730213'>
+    <variant>proofing</variant>
+  </canonskill>
+  <canonskill end='733075' experience='1' expidrefs='3,9' idrefs='3,9' lastused='2008' name='protocols' start='731034'>
+    <variant>protocols</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='3' idrefs='3' name='quality'>
+    <variant>quality</variant>
+  </canonskill>
+  <canonskill end='733075' experience='1' expidrefs='9,10' idrefs='9,10' lastused='2008' name='real time' start='730213'>
+    <variant>Real time</variant>
+  </canonskill>
+  <canonskill end='733075' experience='1' expidrefs='9' idrefs='9' lastused='2008' name='simulation' start='731034'>
+    <variant>Simulation</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='3' idrefs='3' name='six sigma'>
+    <variant>Six Sigma</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='3' idrefs='3' name='software development'>
+    <variant>software development</variant>
+  </canonskill>
+  <canonskill end='733714' experience='1' expidrefs='6' idrefs='6' lastused='2009' name='sql' start='733349'>
+    <variant>SQL Server</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='3,4' idrefs='3,4' lastused='2012' name='switches' start='733744'>
+    <variant>switches</variant>
+  </canonskill>
+  <canonskill end='733075' experience='1' expidrefs='3,9' idrefs='3,9' lastused='2008' name='team management' start='731034'>
+    <variant>Team management</variant>
+  </canonskill>
+  <canonskill end='733318' experience='1' expidrefs='8' idrefs='8' lastused='2008' name='troubleshooting' start='733104'>
+    <variant>Troubleshooting</variant>
+  </canonskill>
+  <canonskill end='733714' experience='1' expidrefs='6' idrefs='6' lastused='2009' name='user interface design' start='733349'>
+    <variant>User Interface</variant>
+  </canonskill>
+  <canonskill end='733075' experience='1' expidrefs='9' idrefs='9' lastused='2008' name='visio' start='731034'>
+    <variant>Visio</variant>
+  </canonskill>
+  <canonskill end='733075' experience='1' expidrefs='3,9' idrefs='3,9' lastused='2008' name='visual c + +' start='731034'>
+    <variant>VC++</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='3' idrefs='3' name='windows ce'>
+    <variant>Windows CE</variant>
+  </canonskill>
+  <canonskill end='733075' experience='1' expidrefs='9' idrefs='9' lastused='2008' name='wiring' start='731034'>
+    <variant>wiring</variant>
+  </canonskill>
+  <canonskill end='733075' experience='1' expidrefs='9' idrefs='9' lastused='2008' name='xml' start='731034'>
+    <variant>XML</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

@@ -1,0 +1,117 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CBNT", 
+            "Certification Name": "Certified Broadcast Networking Technologist", 
+            "Type": "Core", 
+            "Certification ID": "2574", 
+            "Certifying Organization": "Society of Broadcast Engineers, Inc."
+        }, 
+        {
+            "Acronym": "CEA", 
+            "Certification Name": "Certified Audio Engineer", 
+            "Type": "Advanced", 
+            "Certification ID": "0310", 
+            "Certifying Organization": "Society of Broadcast Engineers, Inc."
+        }, 
+        {
+            "Acronym": "CSRE", 
+            "Certification Name": "Certified Senior Broadcast Radio Engineer", 
+            "Type": "Advanced", 
+            "Certification ID": "3129", 
+            "Certifying Organization": "Society of Broadcast Engineers, Inc."
+        }, 
+        {
+            "Acronym": "CRO", 
+            "Certification Name": "Certified Radio Operator", 
+            "Type": "Core", 
+            "Certification ID": "3757", 
+            "Certifying Organization": "Society of Broadcast Engineers, Inc."
+        }, 
+        {
+            "Acronym": "CBT", 
+            "Certification Name": "Certified Broadcast Technologist", 
+            "Type": "Core", 
+            "Certification ID": "0308", 
+            "Certifying Organization": "Society of Broadcast Engineers, Inc."
+        }, 
+        {
+            "Acronym": "FDR", 
+            "Certification Name": "RF Line Sweeping", 
+            "Type": "Core", 
+            "Certification ID": "4369", 
+            "Certifying Organization": "ETA International"
+        }, 
+        {
+            "Acronym": "CBTE", 
+            "Certification Name": "Certified Broadcast Television Engineer", 
+            "Type": "Specialty", 
+            "Certification ID": "0309", 
+            "Certifying Organization": "Society of Broadcast Engineers, Inc."
+        }, 
+        {
+            "Acronym": "CBNE", 
+            "Certification Name": "Certified Broadcast Networking Engineer", 
+            "Type": "Advanced", 
+            "Certification ID": "8627", 
+            "Certifying Organization": "Society of Broadcast Engineers, Inc."
+        }, 
+        {
+            "Acronym": "8-VSB", 
+            "Certification Name": "Certified 8-VSB Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "4881", 
+            "Certifying Organization": "Society of Broadcast Engineers, Inc."
+        }, 
+        {
+            "Acronym": "CEV", 
+            "Certification Name": "Certified Video Engineer", 
+            "Type": "Core", 
+            "Certification ID": "2720", 
+            "Certifying Organization": "Society of Broadcast Engineers, Inc."
+        }, 
+        {
+            "Acronym": "CSTE", 
+            "Certification Name": "Certified Senior Broadcast Television Engineer", 
+            "Type": "Advanced", 
+            "Certification ID": "0311", 
+            "Certifying Organization": "Society of Broadcast Engineers, Inc."
+        }, 
+        {
+            "Acronym": "CTO", 
+            "Certification Name": "Certified Television Operator", 
+            "Type": "Advanced", 
+            "Certification ID": "3758", 
+            "Certifying Organization": "Society of Broadcast Engineers, Inc."
+        }, 
+        {
+            "Acronym": "RBC", 
+            "Certification Name": "Registered Broadcast Captioner", 
+            "Type": "Advanced", 
+            "Certification ID": "8624", 
+            "Certifying Organization": "National Verbatim Reporters Association"
+        }, 
+        {
+            "Acronym": "CTS-I", 
+            "Certification Name": "Certified Technology Specialist-Installation", 
+            "Type": "Core", 
+            "Certification ID": "6028", 
+            "Certifying Organization": "InfoComm International"
+        }, 
+        {
+            "Acronym": "CBRE", 
+            "Certification Name": "Certified Broadcast Radio Engineer", 
+            "Type": "Core", 
+            "Certification ID": "3130", 
+            "Certifying Organization": "Society of Broadcast Engineers, Inc."
+        }, 
+        {
+            "Acronym": "PBE", 
+            "Certification Name": "Professional Broadcast Engineer", 
+            "Type": "Advanced", 
+            "Certification ID": "0312", 
+            "Certifying Organization": "Society of Broadcast Engineers, Inc."
+        }
+    ], 
+    "onet": "27401200"
+}

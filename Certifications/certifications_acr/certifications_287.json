@@ -1,0 +1,33 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CFSW", 
+            "Certification Name": "Certified Forensic Social Worker", 
+            "Type": "Specialty", 
+            "Certification ID": "6977", 
+            "Certifying Organization": "National Association of Forensic Counselors"
+        }, 
+        {
+            "Acronym": "T4C-CF", 
+            "Certification Name": "Thinking for a Change Certified Facilitator", 
+            "Type": "Advanced", 
+            "Certification ID": "6804", 
+            "Certifying Organization": "Center for Credentialing & Education, Inc."
+        }, 
+        {
+            "Acronym": "CCODS", 
+            "Certification Name": "Certified Co-Occurring Disorder Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "8784", 
+            "Certifying Organization": "National Association of Forensic Counselors"
+        }, 
+        {
+            "Acronym": "CFI", 
+            "Certification Name": "Certified Forensic Interviewer", 
+            "Type": "Specialty", 
+            "Certification ID": "8785", 
+            "Certifying Organization": "National Association of Forensic Counselors"
+        }
+    ], 
+    "onet": "21109200"
+}

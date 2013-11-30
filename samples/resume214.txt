@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734588' xml:space='preserve'><contact><name><givenname>Yameogo</givenname> <surname>Somyida</surname></name>
+<address lat='47.3866' lon='122.211' majorcity='KENT' state='WA'><street>25853 118 PL SE</street> <city>Kent</city>, <state abbrev='WA'>WA</state> <postalcode>98030</postalcode></address>
+Phone :<phone>( 206)235-4751/507 351 8413</phone>
+Email: <email>isracarine@yahoo.fr</email></contact>
+
+<summary>Objective:                <objective>To obtain a position with a prospective company or organization</objective></summary>
+
+                                        
+<experience end='present' start='725739'>Work Experience:  
+<job end='734536' id='1' pos='2' sic='836109' sic2='83' start='734474'><daterange><start days='734474' iso8601='2011-12-01'>12/2011</start>-<end days='734536' iso8601='2012-02-01'>02/2012</end></daterange>                       <employer>Home Care, Grace House</employer>. <address><city>Auburn</city>, <state abbrev='WA'>WA</state></address>
+Responsibilities:                         <title>Assistant Resident Caregiver</title></job>
+<job end='734474' id='2' pos='3' sic='542107' sic2='54' start='734352'><daterange><start days='734352' iso8601='2011-08-01'>08/2011</start> - <end days='734444' iso8601='2011-11-01'>11/2011</end></daterange>                    <employer>Meat Production, OBERTO</employer> (Washington State)
+Responsibilities:                         <description>Assemble and inspect meat, pick and pack for shipment.</description> <daterange><start days='734444' iso8601='2011-11-01'>11/2011</start>-<end days='734474' iso8601='2011-12-01'>12/2011</end></daterange>                       <employer>FedEx Home Delivery</employer> (<address>Kent, <state abbrev='WA'>WA</state></address>)                                                                   
+<description>Responsibilities                          Package handler</description></job>
+<job end='734140' id='3' pos='5' start='731218'><daterange><start days='731218' iso8601='2003-01-01'>2003</start> - <end days='734140' iso8601='2011-01-01'>2011</end></daterange>:                               <employer>IDR Research Institute for Development</employer> (Burkina Faso)
+<description>Responsibilities                          Receive computer supplies, assemble computer parts
+                                                       Install software and upgrade programs, packing parts and   
+                                                        Shipping</description></job>
+                                                      
+<job end='730853' id='4' pos='7' start='729392'><daterange><start days='729392' iso8601='1998-01-01'>1998</start> -<end days='730853' iso8601='2002-01-01'>2002</end></daterange>:                                   <title>Laboratory Technician</title>  (Ivory Coast)
+Responsibilities:                         <description>Shipping and receiving of office supplies, repair computers,
+                                                       Scanning and copying of documents, install computer programs 
+                                                       And upgrade programs</description></job>
+ Education: 
+<job end='727566' id='5' pos='9' start='725739'><daterange><start days='725739' iso8601='1988-01-01'>1988</start>-<end days='727566' iso8601='1993-01-01'>1993</end></daterange> <description>Primary school USSO (Ivory Coast )CEPE</description></job>
+<job end='730853' id='6' pos='8' start='728661'><daterange><start days='728661' iso8601='1996-01-01'>1996</start> - <end days='730853' iso8601='2002-01-01'>2002</end></daterange> <employer>Lycée Technical Saint-Jacques Bouaké</employer></job> (Ivory Coast)
+<job end='733410' id='7' pos='6' start='732314'><daterange><start days='732314' iso8601='2006-01-01'>2006</start> -<end days='733410' iso8601='2009-01-01'>2009</end></daterange> <description>Technical College Good Shepherd (R. BF.) Computer certificate</description></job> 
+<job end='present' id='8' pos='1' start='734140'><daterange><start days='734140' iso8601='2011-01-01'>2011</start>-<end days='present' iso8601='2012-03-24'>present</end></daterange>: <description>Highline Community (Des Moines, WA) ESL
+
+
+Attributes:   Dependable, safety conscious, Punctual &amp; physically inclined, easy to get along
+with others, and quick to learn</description></job>
+
+Achievements:    Served as an administrator from (<job end='734140' id='9' pos='4' start='733410'><daterange><start days='733410' iso8601='2009-01-01'>2009</start>-<end days='734140' iso8601='2011-01-01'>2011</end></daterange></job>) Research Institute for Development</experience>
+
+<references>References:     Available upon request</references>
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='730853' experience='1' expidrefs='4' idrefs='4' lastused='2002' name='copy' start='729392'>
+    <variant>copying</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='8' idrefs='8' lastused='2012' name='dependable' start='734140'>
+    <variant>Dependable</variant>
+  </canonskill>
+  <canonskill end='730853' experience='1' expidrefs='4' idrefs='4' lastused='2002' name='microsoft office' start='729392'>
+    <variant>office</variant>
+  </canonskill>
+  <canonskill end='734474' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='pick' start='734352'>
+    <variant>pick</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='8' idrefs='8' lastused='2012' name='quick' start='734140'>
+    <variant>quick</variant>
+  </canonskill>
+  <canonskill end='730853' experience='1' expidrefs='4' idrefs='4' lastused='2002' name='receiving' start='729392'>
+    <variant>receiving</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='8' idrefs='8' lastused='2012' name='safety' start='734140'>
+    <variant>safety</variant>
+  </canonskill>
+  <canonskill end='730853' experience='1' expidrefs='4' idrefs='4' lastused='2002' name='scanners' start='729392'>
+    <variant>Scanning</variant>
+  </canonskill>
+  <canonskill end='734140' experience='1' expidrefs='3,4' idrefs='3,4' lastused='2011' name='shipping' start='729392'>
+    <variant>Shipping</variant>
+  </canonskill>
+  <canonskill end='734140' experience='1' expidrefs='3,4' idrefs='3,4' lastused='2011' name='upgrades' start='729392'>
+    <variant>upgrade</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

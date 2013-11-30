@@ -1,229 +1,335 @@
 <?xml version='1.0' encoding='iso-8859-1'?>
 <ResDoc>
-<resume canonversion='2' dateversion='2' present='734579' xml:space='preserve'><contact><name><givenname>Stephen</givenname> <surname>Gesin</surname></name>
-<address lat='37.378' lon='122.082' majorcity='MOUNTAIN VIEW' state='CA'><street>938 Clark Ave, #36</street>, <city>Mountain View</city>, <state abbrev='CA'>CA</state> <postalcode>94040</postalcode></address>
-<phone>(650) 888-2026</phone>
-<email>sgesin@yahoo.com</email></contact>
-<summary>Objective
+<resume canonversion='2' dateversion='2' present='734579' xml:space='preserve'><contact><name><givenname>Sunil</givenname> <givenname>S</givenname>. <surname>Dasanagadde</surname></name>
+<address lat='37.6853' lon='121.895' majorcity='PLEASANTON' state='CA'><street>4336 Fairlands Dr</street> <city>Pleasanton</city>, <state abbrev='CA'>CA</state> <postalcode>94588</postalcode></address>
+email : <email>sunilshenoy@gmail.com</email>
+Cell : <phone type='cell'>408 891 8860</phone></contact>
 
+<summary>Skill Summary
+    <summary>14+ years experience design, development and testing of software for dynamic start-ups.</summary></summary>
+    <skills><skills>Expertise in developing web, desktop and enterprise applications using NET/C#, C/C++ and
+       Qt, VB, Java, JSP, ASP.
+    Proficient in design and development of robust, scalable client/server side applications.</skills>
+    Excellent communication skills and demonstrated ability to deliver on time.
 
-<objective>A position in software engineering where I create innovative and user-friendly products using my technical expertise, creativity, and dedication in a challenging and rewarding environment.</objective>
-Summary
+Technologies:
+   <skills>Languages:                 .NET/C#, C, C++, Java, Visual Basic, PL/SQL
+   Server Side:               ASP, PHP, JSP, ASP.NET, ODBC/JDBC
+   Client Side:               HTML, JavaScript, AJAX, VB Script
+   Operating Systems:         Windows 7/XP/NT/95, Unix/Linux
+   Web Technologies/Services: Web Services, SOAP, XML/XSL/XSLT, WSDL, AJAX
+   Web/App Servers:           DICOM, Windows 2000, MS SQL Server, MS IIS, Apache.
+   Databases:                 Interbase, MS SQL, MySQL, Oracle 7x/8x, MS Access.
+   IDE:                       Visual Studio .NET, Visual Studio 6, Qt, JBuilder
+   Source Controls:           TFS, Perforce, CVS, VSS</skills></skills>
 
-
-<summary>Developed on the Salesforce.com platform using Apex and VisualForce 
-Developed mobile applications for the T-Mobile Sidekick, J2ME, and Android devices 
-Lead UI development for AOL's Web Mail application suite and Web Calendar 
-Served as project manager and developer of a cross-platform educational game</summary></summary> 
-<experience end='present' start='729757'>Experience
-
-<job end='present' id='1' pos='1' start='733775'><daterange><start days='733775' iso8601='2010-01-01'>2010</start> - <end days='present' iso8601='2012-03-15'>Present</end></daterange>
-<employer>Salesforce.com Inc / Data.com</employer>, <address><city>San Mateo</city>, <state abbrev='CA'>CA</state></address>
-<title>Member of Technical Staff</title>
-
-<description>Development of the Data.com AppExchange integration into Salesforce.com using Java, Apex, VisualForce, and DHTML.
-Responsible for: 
-Adding new features into the data cleaning and prospecting applications 
-Improving error flows and general product stability 
-Implementation of unit tests and Selenium test automation 
-Optimizations to help keep applications within Salesforce.com governor limits 
-Maintenance of the data cleaning administration pages on the Jigsaw website</description></job> 
-<job end='733775' id='2' pos='2' start='733410'><daterange><start days='733410' iso8601='2009-01-01'>2009</start> - <end days='733775' iso8601='2010-01-01'>2010</end></daterange>
-<employer>iSkoot Inc</employer>, <address><city>San Francisco</city>, <state abbrev='CA'>CA</state></address>
-<title>Senior Software Engineer</title>
-
-<description>Development of the social media aggregation application for mobile devices using J2ME and Android.
-Responsible for: 
-Adding a skinning framework to be able to deploy with different carriers 
-Adding support for several new devices with different capabilities, resolutions, and quirks 
-Going through the signing and release process for various carriers 
-Working on a new Android product with a home screen widget and a full application 
-Working closely with the engineering team in Israel for all products</description></job> 
-<job end='733410' id='3' pos='3' start='732679'><daterange><start days='732679' iso8601='2007-01-01'>2007</start> - <end days='733410' iso8601='2009-01-01'>2009</end></daterange>
-<employer>Microsoft Corp / Danger Inc</employer>, <address><city>Palo Alto</city>, <state abbrev='CA'>CA</state></address>
-<title>Software Development Engineer II</title>
-
-<description>Development of the mobile web browser application for the T-Mobile Sidekick using Java.
-Responsible for: 
-Device-side rendering implementation of the new full-size page layout mode 
-Developing spatial navigation, accelerated scrolling, and page zoom for full-size layout mode 
-Performance optimizations to support full-size layout mode and higher screen resolutions 
-Reducing complex pages with rendering issues to minimal test pages with the same bugs 
-Updating standard toolbox widgets used as web page form elements 
-
-Development of the mobile media player application for the T-Mobile Sidekick using Java.
-Responsible for: 
-Implementation of the UI flow for streaming audio and video 
-Development of the new video player UI to support streaming video 
-Performance optimizations to support higher screen resolutions 
-Updating error handling and playlist code to support the streaming feature 
-Integrating with the web browser to allow the user to begin streaming from web pages</description></job> 
-<job end='732679' id='4' pos='4' sic='873414' sic2='87' start='731218'><daterange><start days='731218' iso8601='2003-01-01'>2003</start> - <end days='732679' iso8601='2007-01-01'>2007</end></daterange>
-<employer>AOL Inc</employer>, <address><city>Mountain View</city>, <state abbrev='CA'>CA</state></address>
-<title>Senior Software Engineer</title>
-
-<description>Design and development of http://mail.aol.com using C# and DHTML.
-Responsible for: 
-Leading Web UI development of the Web Mail application suite 
-Implementing complex graphical layouts for the Calendar application 
-Creating a rich client-like experience for the whole suite 
-Performance optimizations for the rendering code on all supported browsers 
-Acting as a resource for colleagues on web development issues 
-
-Design and development of the AOL Calendar Server using Java and DHTML.
-Responsible for: 
-Leading Web Client development of the Calendar application 
-Creating highly dynamic web pages to closely match functionality of the native client 
-Developing a persistent mail queue using JavaMail to assemble, schedule, and bounce e-mail 
-APIs and test harnesses to communicate with external services leveraged by the application 
-Documentation of new features and suggested test plans</description></job> 
-<job end='731218' id='5' pos='5' start='730853'><daterange><start days='730853' iso8601='2002-01-01'>2002</start> - <end days='731218' iso8601='2003-01-01'>2003</end></daterange>
-<employer>The Critical Thinking Co</employer>, <address><city>Seaside</city>, <state abbrev='CA'>CA</state></address>
-<title>Software Engineer</title>
-
-<description>Lead engineer developing educational software and the company website using Java and DHTML.
-Responsible for: 
-Designing, developing, and managing production of an educational game called Word Roots 
-Leading development for a web-based educational game called Reading Detective 
-Implementing JSP pages and Servlets to expand the functionality of the company website 
-Creating database tools for the company website to synchronize remote and local databases</description></job> 
-<job end='730122' id='6' pos='6' start='729757'><daterange><start days='729757' iso8601='1999-01-01'>1999</start> - <end days='730122' iso8601='2000-01-01'>2000</end></daterange>
-<employer>Schlumberger / CellNet</employer>, <address><city>San Carlos</city>, <state abbrev='CA'>CA</state></address>
-<title>Software Engineer</title>
-
-<description>Development and testing an automated utility meter reading system using Java and PERL.
-Responsible for: 
-Implementing a Java-based GUI for automation of performance testing 
-Creating performance testing tools to support a distributed test environment 
-Simulating the meter reading process to test the efficiency of data collection algorithms 
-Optimizing algorithms for the meter reading process</description></job></experience> 
-<skills>Skills
-
-Languages and APIs
-<skills>Java, Apex, VisualForce, JavaScript, HTML, CSS, C#, XML, SOQL, SQL, PERL, C++, C, MIPS Assembly, Scheme, J2ME, Android, AJAX, jQuery, Dojo, ASP.NET, Swing, Java2D, Struts, JSP/Servlet, JDBC, J2EE, EJB, Selenium, JUnit, TCP/IP Sockets, Threads, OpenGL, Renderman
-
-Certifications
-Sun Certified Programmer for Java 2
-
-Applications and Databases
-Eclipse, Salesforce.com, Force.com IDE, Visual Studio 2008, IntelliJ IDEA, NetBeans, Tomcat, JBoss, Microsoft Word, Microsoft Excel, Macromedia Flash, MySQL, Sybase, ObjectStore, MS SQL Server, Oracle, SVN, Perforce, Ant, CVS, JIRA, Bugzilla</skills></skills> 
 <education>Education
+      <school id='7'><degree level='16' name='Bachelor of Engineering'>BE</degree> in <major code='1502'>Mechanical Engineering</major>, <institution>Mysore University</institution>                                   <daterange><start days='727200' iso8601='1992-01-01'>1992</start>-<end days='728661' iso8601='1996-01-01'>1996</end></daterange></school></education>
 
-<school id='7'><daterange><start days='728661' iso8601='1996-01-01'>1996</start> - <end days='730488' iso8601='2001-01-01'>2001</end></daterange>
-<institution>University of California</institution>, <address><city>Berkeley</city>, <state abbrev='CA'>CA</state></address>
-<degree level='16'>Bachelors of Applied Mathematics</degree> with emphasis on <major code='0402'>Computer Science</major>
-Additional Information
+<experience end='present' start='729788'>Work History
 
-Proficient in <major code='2606'>Russian</major></school></education>
+<job end='present' id='1' pos='1' start='733410'><employer>Carl Zeiss Meditec, Inc</employer>. [<address><state>Dublin</state>, <state abbrev='CA'>CA</state></address>]                                  <daterange><start days='733410' iso8601='2009-01-01'>Jan. 2009</start> ­ <end days='present' iso8601='2012-03-15'>Present</end></daterange>
+Designation : <title>Staff Software Engineer</title>
+<description>Environment : .NET/C#, WinForms, WCF, Visual Studio .NET 2008/2010, Unity Framework,
+DICOM, TFS, Doors, Agile, Installshield, Windows XP/7.
+
+The Dublin, CA branch of Carl Zeiss Meditec produces world renowned ophthalmology instruments.
+As a team member of the R&amp;D team for the Cirrus HD-OCT instrument, involved in the design and
+development of various software components.
+
+Key Achievements (Design and Development):
+      As a member of the Common Software Group(CSG), involved in the design and
+      development of common components across Zeiss instruments.
+      Designed interfaces to create IODs to transfer data between the instrument and DICOM
+      server.
+      Created prototype for integrating carious calibration applications into one unit using the
+      Unity Framework.
+      Involved in fixing issues with the software and troubleshooting issues that the clients have.
+      Responsible for the application installer.</description></job>
+<job end='733410' id='2' pos='3' start='731918'><employer>Vidient Systems, Inc</employer>. [<address><city>Santa Clara</city>, <state abbrev='CA'>CA</state></address>]                                <daterange><start days='731918' iso8601='2004-12-01'>Dec. 2004</start> ­ <end days='733410' iso8601='2009-01-01'>Jan 2009</end></daterange>
+Designation : <jobtype>Contract</jobtype> <title>Software Engineer</title>
+<description>Environment : C++, C, Qt, Java, JSP,HTML, JavaScript, Web Services, GoAhead Embedded Server,
+              SOAP, XML/XSLT, WSDL, MySQL, Visual Studio .NET 2003, Perforce/CVS, Adobe
+              Photoshop, Windows XP/2003, Linux.
+
+Vidient SmartCatch is an intelligent video surveillance and analytics system that actively recognizes
+and analyzes complex human behaviors and identifies objects. The software then provides
+actionable, real-time alerts so that appropriate preventative measures can be taken by on-site
+personnel as well as local emergency system providers. As a part 3 member UI team, designed and
+developed various UI modules/widgets of the SmartCatch Administration and Alert Viewer consoles
+using the Qt Application Framework/C++ and developed java based web services for the
+SmartCatch server.
+
+Key Achievements (Design and Development):
+       Created demux and codec modules for VLC media player to handle Vidient Metadata
+       payload.
+       Web configuration interface for the Vidient IVR2400, a high performance network appliance
+       with built-in SmartCatch Video Analytics.
+       Region of Interest Editor Widget, a graphic tool used to configure behaviors.
+       Calibration Editor used to calibrate cameras for the SmartCatch surveillance system and the
+       Master Slave Calibration Editor that is used to configure the master and slave PTZ cameras
+       fro Active Tracking.
+       Wizards to create and configure static and PTZ cameras, behaviors and escalations.
+       SmartCatch Alert Viewer Widgets to monitor the alerts, videos and active maps.
+       Web based alert monitoring system using JSP, HTML, CSS and JavaScript.
+       Involved in the development of java web services and data access objects.</description></job>
+
+
+<job end='731857' id='3' pos='4' start='730091'><employer>Knowmadic, Inc</employer>. [<address><city>Santa Clara</city>, <state abbrev='CA'>CA</state></address>]                              <daterange><start days='730091' iso8601='1999-12-01'>Dec. 1999</start> ­ <end days='731857' iso8601='2004-10-01'>Oct. 2004</end></daterange>
+Designation :     <title>Software Engineer</title>
+<description>Environment :     .NET/C#, Java, VB 6, HTML, DHTML, ASP, JavaScript, , Visual Studio .NET,
+                  Visual Studio, Adobe Photoshop, MS Frontpage, MS SQL Server 2000,
+                  Windows NT/2000/XP
+
+Knowmadic Inc. specializes in Enterprise Data and Process integration products. Its flagship
+products, The Knowmadic Foundation and Knowmadic On Demand, were well embraced by Fortune
+100 energy companies. The technology uses BPEL to ease the challenges of Process and Data
+integration.
+
+Key Achievements:
+    Implemented the Scoped View module for the Foundation studio that schematically presents
+      the process flow of a Knowmadic application using .NET/C#.
+    Designed and implemented the Automated User Interface module that generates WinForms
+      and its controls dynamically based on XML inputs in .NET/C#. The automated UI was
+      extensively used to configure the inputs to the activities in the Knowmadic development
+      platform.
+    Implemented the Navigation and Extraction Editors for the components used for automated
+      website navigation and content extraction using .NET/C#.
+      Implemented the Web Service Import Wizard that enables the users to conveniently import
+      WebServices and selectively create Knowmadic components to the corresponding operations
+      in the WebService using .NET/C#.
+      Involved in designing the user-friendly wizards for configuring the Foundation Studio
+      components and Implemented them using .NET/C#.
+      Gathered requirements and developed a Pilot Knowmadic applications and JSP pages for
+      presenting the functionality of the Knowmadic products.
+      Provided troubleshooting support to the support team and the clients directly as required.
+      Implemented the Java UIs using Swing for the On Demand components that required
+      interaction with the java based On Demand Server.
+      Implemented the administration interface for the On Demand Server using JSP.
+      Enhanced the UI for the desktop Excel client, which was built using VC++.
+      Conducted design sessions and implemented the OnTap administration interface for the
+      OnTap server using ASP. OnTap was later productized as On Demand after the server was
+      re-architectured and implemented using Java.
+      Implemented the Database Connectivity Wizard using Microsoft ADO; that enabled users to
+      conveniently create Knowmadic components that interact with the tables and stored
+      procedures of the SQL Server, Oracle, DB2 and MS Access databases using VB6.
+      Implemented the Web Service Import Wizard that enabled users to conveniently create
+      Knowmadic components that interact with the Web Services using VB6.
+      Developed the administration interface for the Knowmadic Server using ASP with MS SQL
+      Server/MSDE backend database.
+      Involved in the development of the PDF recorder using VB 6 which enabled users to extract
+      data from PDF documents in a structured form by defining patterns using easy to use User
+      Interfaces and the recorder internally converted the patterns to regular expressions.
+      Developed the company website.</description></job>
+
+
+<job end='730091' id='4' pos='5' start='730000'><employer>Reinformatic Comp. Corp</employer>., [<address><city>Corona</city>, <state abbrev='NY'>NY</state></address>]                            <daterange><start days='730000' iso8601='1999-09-01'>Sep. 1999</start> ­ <end days='730091' iso8601='1999-12-01'>Dec. 1999</end></daterange>
+Designation :    Web Master
+Environment :    <description>JavaScript, HTML, DHTML, ASP, Cold Fusion 4.0, Adobe Photoshop,
+                 Macromedia Flash, MS Frontpage, Ulead GIF Animator, Macromedia Flash,
+                 DreamWeaver, Apache, Unix
+
+Key Achievements:
+    Conceptualized and developed the site www.AllConnection.com.
+    Customized the site with client side Java Scripting with HTML and DHTML coding.
+    Supervised a team of 3 designers in design and integration of user activity.
+    Created graphics and animations, Banners through Adobe PhotoShop and GIF Animator.
+    Data migration from the flat files to access database to work in coordination with Cold
+      Fusion.</description></job>
+
+
+<job end='730000' id='5' pos='6' start='729788'><employer>Mody Consultancy Services, Inc</employer>. [<address><city>Flushing</city>, <state abbrev='NY'>NY</state></address>]                      <daterange><start days='729788' iso8601='1999-02-01'>Feb. 1999</start> ­ <end days='730000' iso8601='1999-09-01'>Sep. 1999</end></daterange></job>
+Designation :    <job end='present' id='6' pos='2' start='730912'><title>Web Developer</title>
+Environment :    <description>Java, JavaScript, HTML, DHTML, CGI-Perl, Visual Java Café, Cold Fusion
+                 3.0,Adobe Photoshop, Adobe ImageReady, MS FrontPage, ULead GIF
+                 Animator ,Macromedia Flash, DreamWeaver.
+
+Key Achievements:
+    Conceptualized and developed Interactive Web Sites using JavaScript, Netscape Composer
+      and FrontPage.
+    Integrated the database using Cold Fusion 3.
+    Created Applets coded in Java.
+    Created animated movies using Macromedia Flash.
+      Created graphics and animations, Banners through Adobe PhotoShop and GIF Animator.
+      Website developed: systec-International.com, indiasquare.com, sdata.net,
+      dsignarchitects.com, cafespice.com.
+
+
+Personal Project:
+
+www.cricbay.com</description>                                                       <daterange><start days='730912' iso8601='2002-03-01'>Mar. 2002</start> ­ <end days='present' iso8601='2012-03-15'>Present</end></daterange>
+<description>Environment: ASP, JavaScript, AJAX, HTML, DHTML, IIS Server, MS SQL 2000 Server
+
+CricBay is a non-profit organization established in March 2006 which fosters cricket in San
+Francisco Bay Area. Entirely designed and developed the website www.cricbay.com which includes
+extensive cricket statistics, discussion forum, user/role, team management and other features
+essential for managing a Cricket league.</description></job></experience>
+
+
 <references>References
-
-Available upon request.</references>
+  Professional and personal references will be provided upon request.</references>
 </resume>
 
 <skillrollup version='1'>
-  <canonskill name='.net'>
+  <canonskill end='734569' experience='1' expidrefs='1,2,3,6' idrefs='1,2,3,6' lastused='2012' name='.net' start='730091'>
+    <variant>.NET</variant>
+    <variant>.net</variant>
     <variant>ASP.NET</variant>
   </canonskill>
-  <canonskill end='732679' experience='1' expidrefs='4' idrefs='4' lastused='2007' name='america online' start='731218'>
-    <variant>AOL</variant>
-    <variant>aol</variant>
+  <canonskill end='731857' experience='1' expidrefs='3' idrefs='3' lastused='2004' name='ado' start='730091'>
+    <variant>ADO</variant>
   </canonskill>
-  <canonskill name='ant'>
-    <variant>Ant</variant>
+  <canonskill end='734569' experience='1' expidrefs='2,3,4,6' idrefs='2,3,4,6' lastused='2012' name='adobe photoshop' start='730000'>
+    <variant>Adobe
+              Photoshop</variant>
+    <variant>Adobe PhotoShop</variant>
+    <variant>Adobe Photoshop</variant>
   </canonskill>
-  <canonskill name='assembly language'>
-    <variant>Assembly</variant>
+  <canonskill end='734569' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='agile' start='733410'>
+    <variant>Agile</variant>
   </canonskill>
-  <canonskill end='733410' experience='1' expidrefs='3' idrefs='3' lastused='2009' name='audio' start='732679'>
-    <variant>audio</variant>
+  <canonskill end='730091' experience='1' expidrefs='4' idrefs='4' lastused='1999' name='apache webserver' start='730000'>
+    <variant>Apache</variant>
   </canonskill>
-  <canonskill end='734569' experience='1' expidrefs='1,6' idrefs='1,6' lastused='2012' name='automation' start='729757'>
-    <variant>automation</variant>
+  <canonskill end='734569' experience='1' expidrefs='6' idrefs='6' lastused='2012' name='applets' start='730912'>
+    <variant>Applets</variant>
   </canonskill>
-  <canonskill end='732679' experience='1' expidrefs='4' idrefs='4' lastused='2007' name='browsers' start='731218'>
-    <variant>browsers</variant>
+  <canonskill end='734569' experience='1' expidrefs='3,4,6' idrefs='3,4,6' lastused='2012' name='asp' start='730000'>
+    <variant>ASP</variant>
   </canonskill>
-  <canonskill name='c'>
+  <canonskill end='734569' experience='1' expidrefs='4,6' idrefs='4,6' lastused='2012' name='banners' start='730000'>
+    <variant>Banners</variant>
+  </canonskill>
+  <canonskill end='733410' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='c' start='731918'>
     <variant>C</variant>
   </canonskill>
-  <canonskill name='c + +'>
+  <canonskill end='733410' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='c + +' start='731918'>
     <variant>C++</variant>
   </canonskill>
-  <canonskill end='734569' experience='1' expidrefs='1,4' idrefs='1,4' lastused='2012' name='com' start='731218'>
+  <canonskill end='734569' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='calibration' start='731918'>
+    <variant>Calibration</variant>
+    <variant>calibration</variant>
+  </canonskill>
+  <canonskill end='734569' experience='1' expidrefs='6' idrefs='6' lastused='2012' name='cgi/perl' start='730912'>
+    <variant>CGI-Perl</variant>
+  </canonskill>
+  <canonskill name='client/server'>
+    <variant>client/server</variant>
+  </canonskill>
+  <canonskill end='734569' experience='1' expidrefs='4,6' idrefs='4,6' lastused='2012' name='cold fusion' start='730000'>
+    <variant>Cold Fusion 4.0</variant>
+    <variant>Cold Fusion</variant>
+    <variant>Cold
+      Fusion</variant>
+    <variant>Cold Fusion 3</variant>
+  </canonskill>
+  <canonskill end='734569' experience='1' expidrefs='4,6' idrefs='4,6' lastused='2012' name='com' start='730000'>
     <variant>com</variant>
   </canonskill>
-  <canonskill name='css'>
+  <canonskill name='communication skills'>
+    <variant>Excellent communication</variant>
+  </canonskill>
+  <canonskill end='734569' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='computer associates packages' start='733410'>
+    <variant>CA</variant>
+  </canonskill>
+  <canonskill end='731857' experience='1' expidrefs='3' idrefs='3' lastused='2004' name='content management' start='730091'>
+    <variant>content</variant>
+  </canonskill>
+  <canonskill end='733410' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='css' start='731918'>
     <variant>CSS</variant>
   </canonskill>
-  <canonskill end='732679' experience='1' expidrefs='4' idrefs='4' lastused='2007' name='customer relations' start='731218'>
+  <canonskill end='734569' experience='1' expidrefs='1,3,4' idrefs='1,3,4' lastused='2012' name='customer relations' start='730000'>
     <variant>Client</variant>
     <variant>client</variant>
+    <variant>clients</variant>
   </canonskill>
-  <canonskill name='cvs'>
+  <canonskill end='733410' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='cvs' start='731918'>
     <variant>CVS</variant>
   </canonskill>
-  <canonskill end='730122' experience='1' expidrefs='6' idrefs='6' lastused='2000' name='data collection' start='729757'>
-    <variant>data collection</variant>
+  <canonskill end='730091' experience='1' expidrefs='4' idrefs='4' lastused='1999' name='data migration' start='730000'>
+    <variant>Data migration</variant>
   </canonskill>
-  <canonskill end='731218' experience='1' expidrefs='5' idrefs='5' lastused='2003' name='database administration' start='730853'>
+  <canonskill end='734569' experience='1' expidrefs='3,6' idrefs='3,6' lastused='2012' name='database administration' start='730091'>
     <variant>Databases</variant>
     <variant>databases</variant>
+    <variant>Database</variant>
     <variant>database</variant>
   </canonskill>
-  <canonskill end='731218' experience='1' expidrefs='5' idrefs='5' lastused='2003' name='design' start='730853'>
-    <variant>Designing</variant>
+  <canonskill end='731857' experience='1' expidrefs='3' idrefs='3' lastused='2004' name='design' start='730091'>
+    <variant>designing</variant>
   </canonskill>
-  <canonskill end='734569' experience='1' expidrefs='1,4,5' idrefs='1,4,5' lastused='2012' name='dhtml' start='730853'>
+  <canonskill end='734569' experience='1' expidrefs='3,4,6' idrefs='3,4,6' lastused='2012' name='dhtml' start='730000'>
     <variant>DHTML</variant>
   </canonskill>
-  <canonskill end='732679' experience='1' expidrefs='4' idrefs='4' lastused='2007' name='documentation' start='731218'>
-    <variant>Documentation</variant>
+  <canonskill end='734569' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='doors' start='733410'>
+    <variant>Doors</variant>
   </canonskill>
-  <canonskill name='eclipse'>
-    <variant>Eclipse</variant>
+  <canonskill end='734569' experience='1' expidrefs='4,6' idrefs='4,6' lastused='2012' name='dreamweaver' start='730000'>
+    <variant>DreamWeaver</variant>
   </canonskill>
-  <canonskill end='732679' experience='1' expidrefs='4' idrefs='4' lastused='2007' name='email' start='731218'>
-    <variant>e-mail</variant>
+  <canonskill end='733410' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='editing' start='731918'>
+    <variant>Editor</variant>
   </canonskill>
-  <canonskill end='731218' experience='1' expidrefs='5' idrefs='5' lastused='2003' name='engineering' start='730853'>
-    <variant>engineer</variant>
-  </canonskill>
-  <canonskill name='enterprise java beans'>
-    <variant>EJB</variant>
-  </canonskill>
-  <canonskill end='734569' experience='1' expidrefs='1,4' idrefs='1,4' lastused='2012' name='features' start='731218'>
+  <canonskill end='734569' experience='1' expidrefs='6' idrefs='6' lastused='2012' name='features' start='730912'>
     <variant>features</variant>
   </canonskill>
-  <canonskill name='flash'>
+  <canonskill end='734569' experience='1' expidrefs='4,6' idrefs='4,6' lastused='2012' name='flash' start='730000'>
     <variant>Macromedia Flash</variant>
   </canonskill>
-  <canonskill end='730122' experience='1' expidrefs='6' idrefs='6' lastused='2000' name='graphical user interface' start='729757'>
-    <variant>GUI</variant>
+  <canonskill end='734569' experience='1' expidrefs='3,4,6' idrefs='3,4,6' lastused='2012' name='frontpage' start='730000'>
+    <variant>MS FrontPage</variant>
+    <variant>MS Frontpage</variant>
+    <variant>FrontPage</variant>
   </canonskill>
-  <canonskill name='html'>
+  <canonskill end='734569' experience='1' expidrefs='4,6' idrefs='4,6' lastused='2012' name='gif animator' start='730000'>
+    <variant>GIF Animator</variant>
+  </canonskill>
+  <canonskill end='734569' experience='1' expidrefs='4,6' idrefs='4,6' lastused='2012' name='graphical user interface' start='730000'>
+    <variant>graphics</variant>
+  </canonskill>
+  <canonskill end='733410' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='graphics software' start='731918'>
+    <variant>graphic</variant>
+  </canonskill>
+  <canonskill end='734569' experience='1' expidrefs='2,3,4,6' idrefs='2,3,4,6' lastused='2012' name='html' start='730000'>
     <variant>HTML</variant>
   </canonskill>
-  <canonskill end='732679' experience='1' expidrefs='4' idrefs='4' lastused='2007' name='http' start='731218'>
-    <variant>http</variant>
+  <canonskill end='731857' experience='1' expidrefs='3' idrefs='3' lastused='2004' name='ibm db/2' start='730091'>
+    <variant>DB2</variant>
   </canonskill>
   <canonskill name='ide'>
     <variant>IDE</variant>
   </canonskill>
-  <canonskill end='734569' experience='1' expidrefs='1,3,4,5,6' idrefs='1,3,4,5,6' lastused='2012' name='java' start='729757'>
+  <canonskill end='734569' experience='1' expidrefs='6' idrefs='6' lastused='2012' name='iis' start='730912'>
+    <variant>IIS</variant>
+  </canonskill>
+  <canonskill end='734569' experience='1' expidrefs='6' idrefs='6' lastused='2012' name='imageready' start='730912'>
+    <variant>Adobe ImageReady</variant>
+  </canonskill>
+  <canonskill end='734569' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='installation' start='733410'>
+    <variant>Installshield</variant>
+  </canonskill>
+  <canonskill name='interbase'>
+    <variant>Interbase</variant>
+  </canonskill>
+  <canonskill name='internet information server'>
+    <variant>MS IIS</variant>
+  </canonskill>
+  <canonskill end='733410' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='ivr' start='731918'>
+    <variant>IVR</variant>
+  </canonskill>
+  <canonskill end='734569' experience='1' expidrefs='2,3,6' idrefs='2,3,6' lastused='2012' name='java' start='730091'>
     <variant>Java</variant>
+    <variant>java</variant>
   </canonskill>
-  <canonskill name='java 2'>
-    <variant>Java2</variant>
-    <variant>Java 2</variant>
-  </canonskill>
-  <canonskill end='731218' experience='1' expidrefs='5' idrefs='5' lastused='2003' name='java server pages' start='730853'>
+  <canonskill end='733410' experience='1' expidrefs='2,3' idrefs='2,3' lastused='2009' name='java server pages' start='730091'>
     <variant>JSP</variant>
   </canonskill>
-  <canonskill name='javascript'>
+  <canonskill end='734569' experience='1' expidrefs='2,3,4,6' idrefs='2,3,4,6' lastused='2012' name='javascript' start='730000'>
     <variant>JavaScript</variant>
+    <variant>Java Scripting</variant>
   </canonskill>
-  <canonskill name='jboss'>
-    <variant>JBoss</variant>
+  <canonskill name='jbuilder'>
+    <variant>JBuilder</variant>
   </canonskill>
   <canonskill name='jdbc'>
     <variant>JDBC</variant>
@@ -231,109 +337,177 @@ Available upon request.</references>
   <canonskill name='languages'>
     <variant>Languages</variant>
   </canonskill>
-  <canonskill end='733410' experience='1' expidrefs='3' idrefs='3' lastused='2009' name='layout design' start='732679'>
-    <variant>layout</variant>
+  <canonskill end='733410' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='linux' start='731918'>
+    <variant>Linux</variant>
   </canonskill>
-  <canonskill end='731218' experience='1' expidrefs='5' idrefs='5' lastused='2003' name='management' start='730853'>
+  <canonskill end='734569' experience='1' expidrefs='6' idrefs='6' lastused='2012' name='management' start='730912'>
     <variant>managing</variant>
   </canonskill>
-  <canonskill end='732679' experience='1' expidrefs='4' idrefs='4' lastused='2007' name='microsoft c #' start='731218'>
+  <canonskill end='733410' experience='1' expidrefs='2,3,4' idrefs='2,3,4' lastused='2009' name='microsoft access' start='730000'>
+    <variant>access</variant>
+    <variant>access database</variant>
+    <variant>MS Access</variant>
+  </canonskill>
+  <canonskill end='734569' experience='1' expidrefs='1,3' idrefs='1,3' lastused='2012' name='microsoft c #' start='730091'>
     <variant>C#</variant>
   </canonskill>
-  <canonskill name='microsoft excel'>
-    <variant>Microsoft Excel</variant>
+  <canonskill end='731857' experience='1' expidrefs='3' idrefs='3' lastused='2004' name='microsoft excel' start='730091'>
+    <variant>Excel</variant>
   </canonskill>
-  <canonskill end='732679' experience='1' expidrefs='4' idrefs='4' lastused='2007' name='microsoft mail' start='731218'>
-    <variant>Mail</variant>
-    <variant>mail</variant>
+  <canonskill end='734569' experience='1' expidrefs='3,6' idrefs='3,6' lastused='2012' name='microsoft windows 2000' start='730091'>
+    <variant>Windows 2000</variant>
+    <variant>2000</variant>
   </canonskill>
-  <canonskill end='731218' experience='1' expidrefs='5' idrefs='5' lastused='2003' name='microsoft word' start='730853'>
-    <variant>Word</variant>
-    <variant>Microsoft Word</variant>
+  <canonskill end='731857' experience='1' expidrefs='3' idrefs='3' lastused='2004' name='microsoft windows nt' start='730091'>
+    <variant>NT</variant>
+    <variant>Windows NT</variant>
   </canonskill>
-  <canonskill name='mysql'>
+  <canonskill end='734569' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='microsoft windows xp' start='731918'>
+    <variant>Windows 7/XP</variant>
+    <variant>Windows XP</variant>
+  </canonskill>
+  <canonskill end='733410' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='mysql' start='731918'>
     <variant>MySQL</variant>
   </canonskill>
-  <canonskill end='733410' experience='1' expidrefs='3' idrefs='3' lastused='2009' name='netscape navigator' start='732679'>
+  <canonskill end='734569' experience='1' expidrefs='6' idrefs='6' lastused='2012' name='netscape composer' start='730912'>
+    <variant>Netscape Composer</variant>
+  </canonskill>
+  <canonskill end='731857' experience='1' expidrefs='3' idrefs='3' lastused='2004' name='netscape enterprise server' start='730091'>
+    <variant>Enterprise</variant>
+    <variant>enterprise</variant>
+  </canonskill>
+  <canonskill end='731857' experience='1' expidrefs='3' idrefs='3' lastused='2004' name='netscape navigator' start='730091'>
+    <variant>Navigation</variant>
     <variant>navigation</variant>
   </canonskill>
-  <canonskill name='opengl'>
-    <variant>OpenGL</variant>
+  <canonskill end='733410' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='networking' start='731918'>
+    <variant>network</variant>
   </canonskill>
-  <canonskill name='oracle'>
+  <canonskill end='734569' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='oct' start='733410'>
+    <variant>OCT</variant>
+  </canonskill>
+  <canonskill name='odbc'>
+    <variant>ODBC</variant>
+  </canonskill>
+  <canonskill name='operating systems'>
+    <variant>Operating Systems</variant>
+  </canonskill>
+  <canonskill end='731857' experience='1' expidrefs='3' idrefs='3' lastused='2004' name='oracle' start='730091'>
     <variant>Oracle</variant>
   </canonskill>
-  <canonskill end='733410' experience='1' expidrefs='3' idrefs='3' lastused='2009' name='page' start='732679'>
-    <variant>page</variant>
+  <canonskill name='oracle pl/sql'>
+    <variant>PL/SQL</variant>
   </canonskill>
-  <canonskill end='733410' experience='1' expidrefs='3' idrefs='3' lastused='2009' name='page layout' start='732679'>
-    <variant>page layout</variant>
+  <canonskill name='oracle version 7'>
+    <variant>Oracle 7</variant>
   </canonskill>
-  <canonskill end='730122' experience='1' expidrefs='6' idrefs='6' lastused='2000' name='perl' start='729757'>
-    <variant>PERL</variant>
+  <canonskill end='731857' experience='1' expidrefs='3' idrefs='3' lastused='2004' name='pdf' start='730091'>
+    <variant>PDF</variant>
   </canonskill>
-  <canonskill name='programming'>
-    <variant>Programmer</variant>
+  <canonskill end='733410' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='personnel' start='731918'>
+    <variant>personnel</variant>
   </canonskill>
-  <canonskill end='731218' experience='1' expidrefs='5,6' idrefs='5,6' lastused='2003' name='read' start='729757'>
-    <variant>Reading</variant>
-    <variant>reading</variant>
+  <canonskill end='733410' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='photography' start='731918'>
+    <variant>cameras</variant>
   </canonskill>
-  <canonskill end='733410' experience='1' expidrefs='3,4' idrefs='3,4' lastused='2009' name='rendering' start='731218'>
-    <variant>rendering</variant>
+  <canonskill name='php'>
+    <variant>PHP</variant>
   </canonskill>
-  <canonskill name='scheme'>
-    <variant>Scheme</variant>
+  <canonskill end='731857' experience='1' expidrefs='3' idrefs='3' lastused='2004' name='presentation skills' start='730091'>
+    <variant>presenting</variant>
   </canonskill>
-  <canonskill end='731218' experience='1' expidrefs='5' idrefs='5' lastused='2003' name='servlets' start='730853'>
-    <variant>Servlet</variant>
-    <variant>Servlets</variant>
+  <canonskill end='734569' experience='1' expidrefs='6' idrefs='6' lastused='2012' name='profit' start='730912'>
+    <variant>profit</variant>
   </canonskill>
-  <canonskill name='sockets'>
-    <variant>Sockets</variant>
+  <canonskill end='730091' experience='1' expidrefs='4' idrefs='4' lastused='1999' name='programming' start='730000'>
+    <variant>coding</variant>
   </canonskill>
-  <canonskill name='sql'>
+  <canonskill end='733410' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='real time' start='731918'>
+    <variant>real-time</variant>
+  </canonskill>
+  <canonskill end='734569' experience='1' expidrefs='6' idrefs='6' lastused='2012' name='san' start='730912'>
+    <variant>San</variant>
+  </canonskill>
+  <canonskill name='servers'>
+    <variant>Servers</variant>
+  </canonskill>
+  <canonskill end='733410' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='soap' start='731918'>
+    <variant>SOAP</variant>
+  </canonskill>
+  <canonskill end='734569' experience='1' expidrefs='3,6' idrefs='3,6' lastused='2012' name='sql' start='730091'>
+    <variant>MS SQL
+      Server</variant>
     <variant>MS SQL Server</variant>
-    <variant>SQL</variant>
+    <variant>MS SQL</variant>
+    <variant>SQL Server</variant>
   </canonskill>
-  <canonskill end='733410' experience='1' expidrefs='3' idrefs='3' lastused='2009' name='streaming video' start='732679'>
-    <variant>streaming video</variant>
+  <canonskill end='734569' experience='1' expidrefs='6' idrefs='6' lastused='2012' name='statistics' start='730912'>
+    <variant>statistics</variant>
   </canonskill>
-  <canonskill name='struts'>
-    <variant>Struts</variant>
+  <canonskill end='731857' experience='1' expidrefs='3' idrefs='3' lastused='2004' name='structured methods' start='730091'>
+    <variant>structured</variant>
   </canonskill>
-  <canonskill name='sun microsystems'>
-    <variant>Sun</variant>
-  </canonskill>
-  <canonskill name='swing'>
+  <canonskill end='731857' experience='1' expidrefs='3' idrefs='3' lastused='2004' name='swing' start='730091'>
     <variant>Swing</variant>
   </canonskill>
-  <canonskill name='sybase'>
-    <variant>Sybase</variant>
+  <canonskill end='731857' experience='1' expidrefs='3' idrefs='3' lastused='2004' name='tables' start='730091'>
+    <variant>tables</variant>
   </canonskill>
-  <canonskill name='tcp/ip'>
-    <variant>TCP/IP</variant>
+  <canonskill end='734569' experience='1' expidrefs='6' idrefs='6' lastused='2012' name='team management' start='730912'>
+    <variant>team management</variant>
   </canonskill>
-  <canonskill name='threads'>
-    <variant>Threads</variant>
+  <canonskill end='734569' experience='1' expidrefs='1,3' idrefs='1,3' lastused='2012' name='troubleshooting' start='730091'>
+    <variant>troubleshooting</variant>
   </canonskill>
-  <canonskill name='tomcat'>
-    <variant>Tomcat</variant>
+  <canonskill end='734569' experience='1' expidrefs='4,6' idrefs='4,6' lastused='2012' name='ulead gif animator' start='730000'>
+    <variant>ULead GIF
+                 Animator</variant>
+    <variant>Ulead GIF Animator</variant>
   </canonskill>
-  <canonskill end='733410' experience='1' expidrefs='3' idrefs='3' lastused='2009' name='video' start='732679'>
+  <canonskill end='730091' experience='1' expidrefs='4' idrefs='4' lastused='1999' name='unix' start='730000'>
+    <variant>Unix</variant>
+  </canonskill>
+  <canonskill end='731857' experience='1' expidrefs='3' idrefs='3' lastused='2004' name='user interface design' start='730091'>
+    <variant>User Interface</variant>
+  </canonskill>
+  <canonskill name='vbscript'>
+    <variant>VB Script</variant>
+  </canonskill>
+  <canonskill end='733410' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='video' start='731918'>
+    <variant>Video</variant>
     <variant>video</variant>
   </canonskill>
-  <canonskill name='visual studio'>
+  <canonskill end='731857' experience='1' expidrefs='3' idrefs='3' lastused='2004' name='view' start='730091'>
+    <variant>View</variant>
+  </canonskill>
+  <canonskill name='visual basic'>
+    <variant>Visual Basic</variant>
+    <variant>VB</variant>
+  </canonskill>
+  <canonskill end='731857' experience='1' expidrefs='3' idrefs='3' lastused='2004' name='visual basic 6.0' start='730091'>
+    <variant>VB 6</variant>
+    <variant>VB6</variant>
+  </canonskill>
+  <canonskill end='731857' experience='1' expidrefs='3' idrefs='3' lastused='2004' name='visual c + +' start='730091'>
+    <variant>VC++</variant>
+  </canonskill>
+  <canonskill end='734569' experience='1' expidrefs='1,2,3' idrefs='1,2,3' lastused='2012' name='visual studio' start='730091'>
+    <variant>Visual Studio 6</variant>
     <variant>Visual Studio</variant>
   </canonskill>
-  <canonskill end='734569' experience='1' expidrefs='1,3,4,5' idrefs='1,3,4,5' lastused='2012' name='web site production' start='730853'>
+  <canonskill end='734569' experience='1' expidrefs='3,6' idrefs='3,6' lastused='2012' name='web site production' start='730091'>
+    <variant>Website</variant>
     <variant>website</variant>
-    <variant>web development</variant>
-    <variant>web pages</variant>
-    <variant>web page</variant>
+    <variant>Web Sites</variant>
   </canonskill>
-  <canonskill name='xml'>
+  <canonskill end='733410' experience='1' expidrefs='2,3' idrefs='2,3' lastused='2009' name='xml' start='730091'>
     <variant>XML</variant>
+  </canonskill>
+  <canonskill name='xsl'>
+    <variant>XSL</variant>
+  </canonskill>
+  <canonskill end='733410' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='xslt' start='731918'>
+    <variant>XSLT</variant>
   </canonskill>
 </skillrollup>
 </ResDoc>

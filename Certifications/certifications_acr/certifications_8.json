@@ -1,0 +1,131 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CLM", 
+            "Certification Name": "Certified Legal Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "1875", 
+            "Certifying Organization": "Association of Legal Administrators"
+        }, 
+        {
+            "Acronym": "SPP", 
+            "Certification Name": "Strategic Planning Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "6877", 
+            "Certifying Organization": "Association for Strategic Planning"
+        }, 
+        {
+            "Acronym": "SMP", 
+            "Certification Name": "Strategic Management Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "6879", 
+            "Certifying Organization": "Association for Strategic Planning"
+        }, 
+        {
+            "Acronym": "CFE", 
+            "Certification Name": "Certified Facilities Executive", 
+            "Type": "Advanced", 
+            "Certification ID": "2037", 
+            "Certifying Organization": "International Association of Venue Managers"
+        }, 
+        {
+            "Acronym": "CRM", 
+            "Certification Name": "Certified Records Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "1208", 
+            "Certifying Organization": "Institute of Certified Records Managers"
+        }, 
+        {
+            "Acronym": "SMMC", 
+            "Certification Name": "Strategic Meeting Management Certification", 
+            "Type": "Core", 
+            "Certification ID": "7998", 
+            "Certifying Organization": "Global Business Travel Association Academy"
+        }, 
+        {
+            "Acronym": "CPM", 
+            "Certification Name": "Certified Practice Manager", 
+            "Type": "Core", 
+            "Certification ID": "8464", 
+            "Certifying Organization": "Physician Office Managers Association of America"
+        }, 
+        {
+            "Acronym": "CPPA", 
+            "Certification Name": "Certified Professional Property Administrator", 
+            "Type": "Advanced", 
+            "Certification ID": "1334", 
+            "Certifying Organization": "National Property Management Association, Inc."
+        }, 
+        {
+            "Acronym": "CSM", 
+            "Certification Name": "Court Security Manager", 
+            "Type": "Specialty", 
+            "Certification ID": "8003", 
+            "Certifying Organization": "National Sheriffs' Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Fitness Facility Manager", 
+            "Type": "Core", 
+            "Certification ID": "4654", 
+            "Certifying Organization": "International Fitness Professional Association"
+        }, 
+        {
+            "Acronym": "CHT", 
+            "Certification Name": "Certified HospitalityTrainer", 
+            "Type": "Core", 
+            "Certification ID": "3316", 
+            "Certifying Organization": "American Hotel and Lodging Association Educational Institute"
+        }, 
+        {
+            "Acronym": "CAMT", 
+            "Certification Name": "Certified Apartment Maintenance Technician", 
+            "Type": "Core", 
+            "Certification ID": "2425", 
+            "Certifying Organization": "National Apartment Association"
+        }, 
+        {
+            "Acronym": "HFDP", 
+            "Certification Name": "Healthcare Facility Design Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "5846", 
+            "Certifying Organization": "American Society of Heating, Refrigerating and Air-Conditioning Engineers"
+        }, 
+        {
+            "Acronym": "FMP", 
+            "Certification Name": "Facility Management Professional", 
+            "Type": "Core", 
+            "Certification ID": "4643", 
+            "Certifying Organization": "International Facility Management Association"
+        }, 
+        {
+            "Acronym": "CMOM", 
+            "Certification Name": "Certified Medical Office Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "5439", 
+            "Certifying Organization": "Practice Management Institute"
+        }, 
+        {
+            "Acronym": "HBDP", 
+            "Certification Name": "High-Performance Building Design", 
+            "Type": "Advanced", 
+            "Certification ID": "5847", 
+            "Certifying Organization": "American Society of Heating, Refrigerating and Air-Conditioning Engineers"
+        }, 
+        {
+            "Acronym": "CFM", 
+            "Certification Name": "Certified Facility Manager", 
+            "Type": "Core", 
+            "Certification ID": "0087", 
+            "Certifying Organization": "International Facility Management Association"
+        }, 
+        {
+            "Acronym": "SFP", 
+            "Certification Name": "Sustainability Facility Professional", 
+            "Type": "Specialty", 
+            "Certification ID": "9336", 
+            "Certifying Organization": "International Facility Management Association"
+        }
+    ], 
+    "onet": "11301100"
+}

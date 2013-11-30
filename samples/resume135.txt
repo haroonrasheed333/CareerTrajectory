@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734584' xml:space='preserve'><contact><name><givenname>Juliane</givenname> <givenname>Zucker</givenname>, <surname>MSEd</surname></name>.
+<address lat='40.9429' lon='73.8801' majorcity='YONKERS' state='NY'><street>1184 Warburton Avenue</street>, <city>Yonkers</city>, <state abbrev='NY'>N.Y.</state> <postalcode>10701</postalcode></address> 
+<email>jzucker79@yahoo.com</email>
+<phone>(914) 643-0682</phone></contact>
+
+<education>Certification:
+
+<courses>New York State Education Department Permanent Certification in School Psychology</courses></education>
+
+
+<experience end='present' start='731888'>Professional Experience:
+<job end='present' id='1' pos='1' sic='809302' sic2='80' start='734383'><employer>Theracare</employer>, Bronx, NYC								<daterange><start days='734383' iso8601='2011-09-01'>09/2011</start>-<end days='present' iso8601='2012-03-20'>Present</end></daterange>
+<title>Monolingual School Psychologist</title>	
+<description>Conduct all social histories, and psychological evaluations as an individual contractor for children in transition from Early Intervention (EI) to Committee on Pre-School Special Education (CPSE)</description></job>
+
+<job end='733926' id='2' pos='2' sic='561101' sic2='56' start='732557'><employer>New York City Board of Education, Bronx</employer> 					<daterange><start days='732557' iso8601='2006-09-01'>09/2006</start>-<end days='733926' iso8601='2010-06-01'>6/2010</end></daterange>		
+<employer>Monolingual School Psychologist</employer>					
+<description>Conducted all psycho-educational interviews and evaluations
+Collaborated with school personnel, teachers, and parents and regarding behavioral, social-emotional and educational concerns
+Analyzed, interpreted and reported assessment data, and created IEPs and behavioral intervention plans.
+Provided counseling services when necessary, such as crisis intervention for referred students
+Chaired CSE (Committee on Special Education) meetings to discuss and determine educational needs</description></job>
+
+<job end='732465' id='3' pos='3' sic='8211' sic2='82' start='732039'><employer>Mahopac Central School District</employer>, <address><city>Mahopac</city>, <state abbrev='NY'>NY</state></address> 	 			           <daterange><start days='732039' iso8601='2005-04-01'>4/2005</start>-<end days='732100' iso8601='2005-06-01'>6/2005</end></daterange>, <daterange><start days='732404' iso8601='2006-04-01'>4/2006</start>-<end days='732465' iso8601='2006-06-01'>6/2006</end></daterange>
+<title>Substitute School Psychologist</title>						
+<description>Conducted all psycho-educational evaluations, interpreted results and developed intervention plans
+Consulted and collaborated with teachers and parents to interpret diagnostic findings
+Provided counseling for children individually and in groups</description></job> 
+
+<job end='732465' id='4' pos='4' sic='8211' sic2='82' start='731888'><employer>Lakeland Central School District</employer> , <address><city>Lakeland</city>, <state abbrev='NY'>NY</state></address>				            <daterange><start days='731888' iso8601='2004-11-01'>11/2004</start>-<end days='732465' iso8601='2006-06-01'>6/2006</end></daterange>
+<title>School Psychologist</title>							
+<description>Served elementary thru high school levels administering educational and triennial evaluations
+Consulted and collaborated with school personnel on results</description></job></experience>
+
+<education>Education:
+
+<school id='5'><institution>MSED</institution>., <major code='3406'>School Psychology</major>, <institution>Long Island University</institution>, <address><city>Purchase</city>, <state abbrev='NY'>NY</state></address> 		<daterange><start days='730853' iso8601='2002-01-01'>1/2002</start>-<end days='731704' iso8601='2004-05-01'>5/2004</end></daterange>
+<degree level='16' name='Bachelor of Arts'>BA</degree>, <major code='2016'>Psychology</major>, <institution>Drew University</institution>, <address><city>Madison</city>, <state abbrev='NJ'>NJ</state></address>					<daterange><start days='729270' iso8601='1997-09-01'>9/1997</start>- <end days='730608' iso8601='2001-05-01'>5/2001</end></daterange></school></education>
+				
+<skills>Skills:
+
+Thorough knowledge of psychological theory, practices and procedures
+Proficient in <skills>MS Word, Outlook, and IEP related software
+Strong ability in evaluating, planning and implementing services for referred students</skills></skills>
+
+<references>References Furnished Upon Request</references>
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='733926' experience='1' expidrefs='2,3' idrefs='2,3' lastused='2010' name='counseling' start='732039'>
+    <variant>counseling</variant>
+  </canonskill>
+  <canonskill end='733926' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='meeting facilitation' start='732557'>
+    <variant>meetings</variant>
+  </canonskill>
+  <canonskill name='microsoft outlook'>
+    <variant>Outlook</variant>
+  </canonskill>
+  <canonskill name='microsoft word'>
+    <variant>MS Word</variant>
+  </canonskill>
+  <canonskill end='733926' experience='1' expidrefs='2,4' idrefs='2,4' lastused='2010' name='personnel' start='731888'>
+    <variant>personnel</variant>
+  </canonskill>
+  <canonskill education='1' name='psychology'>
+    <variant>Psychology</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

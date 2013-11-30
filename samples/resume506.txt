@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734594' xml:space='preserve'><contact><name><givenname>Elloria</givenname> <surname>lindley</surname></name>
+<address lat='29.7779' lon='95.8138' majorcity='UNKNOWN' state='TX'><street>16343 Blossomwood Lane</street>  <city>Sugar Land</city>, <state abbrev='TX'>TX</state>  <postalcode>77498</postalcode></address>  832.<phone>465.6787</phone>  <email>elloria.lindley@yahoo.com</email></contact>
+
+<summary>Communications
+Profile
+Forward-thinking professional with a proven background in initiating a wide array of pertinent communication skills, including analytical, interpersonal, and organizational skills. Consistently provides timely and accurate results. Exhibits superior managerial skills while establishing trustworthy relationships with customers and associates.
+
+Highlights
+Seeking B.B.A. in Communications (with GPA over 3.3) while simultaneously working a full-time job.
+Consistently received high performance ratings in mid-year and year-end reviews while providing top-quality customer service and effectively handling multiple accounting-related duties (invoicing, etc.) for Sugar Land Regional Airport.
+Excelled in assuming cash handling responsibilities-balanced amounts up to $100K.
+Played a supporting role in enabling GlobalSelect to become the #1 ranked FBO in North America for two consecutive years.
+Expertise
+*80 wpm
+*Cash Handling
+*Record Organization
+*Budgeting
+*Customer Service
+*Vendor Negotiations
+*Written Communication
+*Invoicing
+*Reconcilations
+*Report Generation
+*Team Collaboration
+*Issue Resolution
+*Process Improvement
+*Customer Service</summary>
+
+<education>Education
+Seeking <degree level='16' name='Bachelor of Business Administration'>B.B.A</degree> in <major code='0499'>Communications</major>, Houston community college - <major>Downtown</major></education>
+
+<experience end='present' start='732679'>Career Track
+<job end='present' id='1' pos='1' start='733775'><employer>City of Sugar Land  - Sugar Land Regional Airport</employer>
+<title>Airport Services Representative</title>	<daterange><start days='733775' iso8601='2010-01-01'>2010</start> to <end days='present' iso8601='2012-03-30'>Present</end></daterange>
+<description>Tend to customer needs and inquiries.  Prepare daily cash and revenue reports.  Reconcile accounts receivables.  Verify accounts payables.  Process invoices and purchase orders.  Research and review disputed invoices.  Coordinate reservations and accommodations for passengers and vendors.  Execute point of sale activities.
+
+harris county toll road</description></job>
+<job end='733410' id='2' pos='2' start='733044'><employer>Violation Enforcement</employer>	<daterange><start days='733044' iso8601='2008-01-01'>2008</start> to <end days='733410' iso8601='2009-01-01'>2009</end></daterange>
+<description>Processed in/outgoing mail. Edit and distribute agendas for numerous meetings. Composed, edit correspondence and memoranda. Lead Customer Service agent. Prepared reports, prioritized and batched correspondence. Worked hand in hand with accounts payable.</description></job>
+
+<job end='733044' id='3' pos='3' start='732679'><title>Data Entry Clerk</title>	<daterange><start days='732679' iso8601='2007-01-01'>2007</start> to <end days='733044' iso8601='2008-01-01'>2008</end></daterange>
+<description>Accurately and efficiently entered license plates of violators. Seamlessly achieved highest data entry ratings daily. 
+
+ikon documenting services</description></job>
+Data Entry 	 <job end='732679' id='4' pos='4' start='732679'><daterange><start days='732679' iso8601='2007-01-01'>2007</start> to <end days='732679' iso8601='2007-01-01'>2007</end></daterange>
+<description>Transferred oil data well logs into electronic forms of data. Performed quality control on all work completed. (temp job)</description></job></experience>
+
+<skills><skills>Software / Applications
+Publisher * Macintosh * Microsoft Excel * Word * PowerPoint * AS400 / Naviline * Groupwise * Novell</skills></skills>
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='accounts payable' start='733044'>
+    <variant>accounts payable</variant>
+    <variant>accounts payables</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='accounts receivable' start='733775'>
+    <variant>accounts receivables</variant>
+  </canonskill>
+  <canonskill name='as/400'>
+    <variant>AS400</variant>
+  </canonskill>
+  <canonskill end='733410' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='customer service' start='733044'>
+    <variant>Customer Service</variant>
+  </canonskill>
+  <canonskill end='733044' experience='1' expidrefs='3' idrefs='3' lastused='2008' name='data entry' start='732679'>
+    <variant>data entry</variant>
+  </canonskill>
+  <canonskill end='733410' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='editing' start='733044'>
+    <variant>Edit</variant>
+    <variant>edit</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='4' idrefs='4' lastused='2007' name='forms' start='732679'>
+    <variant>forms</variant>
+  </canonskill>
+  <canonskill name='groupwise'>
+    <variant>Groupwise</variant>
+  </canonskill>
+  <canonskill name='macintosh'>
+    <variant>Macintosh</variant>
+  </canonskill>
+  <canonskill end='733410' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='meeting facilitation' start='733044'>
+    <variant>meetings</variant>
+  </canonskill>
+  <canonskill name='microsoft excel'>
+    <variant>Microsoft Excel</variant>
+  </canonskill>
+  <canonskill end='733410' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='microsoft mail' start='733044'>
+    <variant>mail</variant>
+  </canonskill>
+  <canonskill name='microsoft powerpoint'>
+    <variant>PowerPoint</variant>
+  </canonskill>
+  <canonskill name='microsoft publisher'>
+    <variant>Publisher</variant>
+  </canonskill>
+  <canonskill name='microsoft word'>
+    <variant>Word</variant>
+  </canonskill>
+  <canonskill name='novell'>
+    <variant>Novell</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='4' idrefs='4' lastused='2007' name='oil painting' start='732679'>
+    <variant>oil</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='4' idrefs='4' lastused='2007' name='quality control' start='732679'>
+    <variant>quality control</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='research' start='733775'>
+    <variant>Research</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

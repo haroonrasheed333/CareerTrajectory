@@ -1,0 +1,40 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CCS", 
+            "Certification Name": "Certified Customs Specialist", 
+            "Type": "Core", 
+            "Certification ID": "9117", 
+            "Certifying Organization": "The National Customs Brokers & Forwarders Association of America"
+        }, 
+        {
+            "Acronym": "CES", 
+            "Certification Name": "Certified Export Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "9118", 
+            "Certifying Organization": "The National Customs Brokers & Forwarders Association of America"
+        }, 
+        {
+            "Acronym": "CIFF", 
+            "Certification Name": "Certified International Freight Forwarder", 
+            "Type": "Core", 
+            "Certification ID": "5838", 
+            "Certifying Organization": "IIEI Certification"
+        }, 
+        {
+            "Acronym": "ACP", 
+            "Certification Name": "Air Cargo Professional", 
+            "Type": "Core", 
+            "Certification ID": "9384", 
+            "Certifying Organization": "International Air Transport Association"
+        }, 
+        {
+            "Acronym": "TIA", 
+            "Certification Name": "Transportation Intermediaries Association", 
+            "Type": "Core", 
+            "Certification ID": "8966", 
+            "Certifying Organization": "Transportation Intermediaries Association"
+        }
+    ], 
+    "onet": "43501101"
+}

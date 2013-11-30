@@ -1,0 +1,222 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "NCAC", 
+            "Certification Name": "National Certified Addiction Counselor, Level I", 
+            "Type": "Advanced", 
+            "Certification ID": "1383", 
+            "Certifying Organization": "National Association of Alcoholism & Drug Abuse Counselors"
+        }, 
+        {
+            "Acronym": "CT", 
+            "Certification Name": "Certified In Thanatology", 
+            "Type": "Advanced", 
+            "Certification ID": "3566", 
+            "Certifying Organization": "Association for Death Education and Counseling"
+        }, 
+        {
+            "Acronym": "NCC", 
+            "Certification Name": "National Certified Counselor", 
+            "Type": "Advanced", 
+            "Certification ID": "0356", 
+            "Certifying Organization": "National Board for Certified Counselors"
+        }, 
+        {
+            "Acronym": "FT", 
+            "Certification Name": "Fellow in Thanatology", 
+            "Type": "Specialty", 
+            "Certification ID": "3996", 
+            "Certifying Organization": "Association for Death Education and Counseling"
+        }, 
+        {
+            "Acronym": "MAC", 
+            "Certification Name": "Master Addictions Counselor", 
+            "Type": "Specialty", 
+            "Certification ID": "0367", 
+            "Certifying Organization": "National Board for Certified Counselors"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification in Cognitive Therapy", 
+            "Type": "Core", 
+            "Certification ID": "8670", 
+            "Certifying Organization": "Academy of Cognitive Therapy"
+        }, 
+        {
+            "Acronym": "CEDS", 
+            "Certification Name": "Certified Eating Disorders Specialist in Mental Health", 
+            "Type": "Advanced", 
+            "Certification ID": "2011", 
+            "Certifying Organization": "International Association of Eating Disorders Professionals"
+        }, 
+        {
+            "Acronym": "RAS", 
+            "Certification Name": "Registered Addiction Specialist", 
+            "Type": "Advanced", 
+            "Certification ID": "6956", 
+            "Certifying Organization": "The Breining Institute"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification of Clinical Hypnosis", 
+            "Type": "Advanced", 
+            "Certification ID": "9301", 
+            "Certifying Organization": "American Society of Clinical Hypnosis"
+        }, 
+        {
+            "Acronym": "CST", 
+            "Certification Name": "Sex Therapist Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "2096", 
+            "Certifying Organization": "American Association of Sexuality Educators, Counselors and Therapists"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Domestic Violence Prevention Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "6998", 
+            "Certifying Organization": "Association of Christian Alcohol and Drug Counselors"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Technician Certification in Biofeedback", 
+            "Type": "Specialty", 
+            "Certification ID": "6716", 
+            "Certifying Organization": "Biofeedback Certification International Alliance"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Clinically Certified Domestic Violence Counselor", 
+            "Type": "Specialty", 
+            "Certification ID": "6965", 
+            "Certifying Organization": "National Association of Forensic Counselors"
+        }, 
+        {
+            "Acronym": "CCODS", 
+            "Certification Name": "Certified Co-Occurring Disorder Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "8784", 
+            "Certifying Organization": "National Association of Forensic Counselors"
+        }, 
+        {
+            "Acronym": "CEDSN", 
+            "Certification Name": "Certified Eating Disorders Specialist in Nutrition", 
+            "Type": "Specialty", 
+            "Certification ID": "2682", 
+            "Certifying Organization": "International Association of Eating Disorders Professionals"
+        }, 
+        {
+            "Acronym": "CSE", 
+            "Certification Name": "Sex Counselor Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "2095", 
+            "Certifying Organization": "American Association of Sexuality Educators, Counselors and Therapists"
+        }, 
+        {
+            "Acronym": "MSCS", 
+            "Certification Name": "Multiple Sclerosis Certified Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "6875", 
+            "Certifying Organization": "The Consortium of Multiple Sclerosis Centers"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Clinical Hypnotherapist", 
+            "Type": "Advanced", 
+            "Certification ID": "8841", 
+            "Certifying Organization": "National Board for Certified Clinical Hypnotherapists"
+        }, 
+        {
+            "Acronym": "CAS", 
+            "Certification Name": "Certified Addiction Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "2443", 
+            "Certifying Organization": "American Academy of Health Care Providers in the Addictive Disorders"
+        }, 
+        {
+            "Acronym": "CCDP", 
+            "Certification Name": "Certified Co-Occurring Disorders Professional", 
+            "Type": "Specialty", 
+            "Certification ID": "6035", 
+            "Certifying Organization": "International Certification & Reciprocity Consortium"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "EMDRIA Certified Therapist", 
+            "Type": "Advanced", 
+            "Certification ID": "9238", 
+            "Certifying Organization": "EMDR International Association"
+        }, 
+        {
+            "Acronym": "NCSC", 
+            "Certification Name": "National Certified School Counselor", 
+            "Type": "Specialty", 
+            "Certification ID": "0358", 
+            "Certifying Organization": "National Board for Certified Counselors"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Approved Consultant in Clinical Hypnosis", 
+            "Type": "Advanced", 
+            "Certification ID": "9302", 
+            "Certifying Organization": "American Society of Clinical Hypnosis"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Crisis, Trauma and PTSD Counselor Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "6999", 
+            "Certifying Organization": "Association of Christian Alcohol and Drug Counselors"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Suicide Interventionist Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "7001", 
+            "Certifying Organization": "Association of Christian Alcohol and Drug Counselors"
+        }, 
+        {
+            "Acronym": "CEAP", 
+            "Certification Name": "Certified Employee Assistance Professional", 
+            "Type": "Core", 
+            "Certification ID": "1375", 
+            "Certifying Organization": "International Employee Assistance Professionals Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Sex Therapist Supervisor Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "7850", 
+            "Certifying Organization": "American Association of Sexuality Educators, Counselors and Therapists"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Technician Certification in Neurofeedback", 
+            "Type": "Specialty", 
+            "Certification ID": "6715", 
+            "Certifying Organization": "Biofeedback Certification International Alliance"
+        }, 
+        {
+            "Acronym": "CCMHC", 
+            "Certification Name": "Certified Clinical Mental Health Counselor", 
+            "Type": "Specialty", 
+            "Certification ID": "0366", 
+            "Certifying Organization": "National Board for Certified Counselors"
+        }, 
+        {
+            "Acronym": "DCC", 
+            "Certification Name": "Distance Credentialed Counselor", 
+            "Type": "Advanced", 
+            "Certification ID": "3817", 
+            "Certifying Organization": "Center for Credentialing & Education, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Co-Occurring Disorders Professional Diplomate", 
+            "Type": "Specialty", 
+            "Certification ID": "6036", 
+            "Certifying Organization": "International Certification & Reciprocity Consortium"
+        }
+    ], 
+    "onet": "21101400"
+}

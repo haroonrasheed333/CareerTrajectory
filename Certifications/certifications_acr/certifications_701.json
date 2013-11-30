@@ -1,0 +1,19 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "MECP", 
+            "Certification Name": "Mobile Product Specialist", 
+            "Type": "Core", 
+            "Certification ID": "1178", 
+            "Certifying Organization": "Consumer Electronics Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Master Truck Equipment Specialist", 
+            "Type": "Advanced", 
+            "Certification ID": "5229", 
+            "Certifying Organization": "National Institute for Automotive Service Excellence"
+        }
+    ], 
+    "onet": "49209600"
+}

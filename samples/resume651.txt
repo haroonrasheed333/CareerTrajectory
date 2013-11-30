@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734595' xml:space='preserve'>                                                  <contact><name><givenname>PAVITRA</givenname> <surname>PATTABHIRAMAN</surname></name>
+<address><street>700 Health sciences</street></address> drive                                                                         <phone>408-464-4544</phone>
+Chapin apartments A 1003 Ax                                                              <email>pam_raman@yahoo.co.in</email>
+<address lat='40.9056' lon='73.1278' majorcity='STONY BROOK' state='NY'><city>Stony brook</city> <state abbrev='NY'>NY</state>- <postalcode>11790</postalcode></address></contact>
+                                                   <summary>OBJECTIVE
+                                   <objective>To secure an internship in the research and development field.</objective></summary>
+
+<education>EDUCATION
+<school id='4'><degree level='18' name='Master of Science'>M.S</degree> in <major code='1403 1699'>Material Sciences and Engineering</major>                                                        (Expected: <completiondate>Dec 2012</completiondate>)
+<institution>Stony Brook University</institution> (<completiondate days='734413' iso8601='2011-10-01'>Fall 2011</completiondate>)
+Courses: <description>Thermodynamics of materials, Strength of materials, impact of materials on environment, sensor technology,
+         Diffusion in solids*, polymer engineering*, electron microscopy*, tissue engineering* (*-in progress</description></school>)
+<school id='5'><degree level='16' name='Bachelor of Engineering'>Bachelor of Engineering</degree> in <major code='1001'>Chemical engineering</major>                                                         (<completiondate days='734260' iso8601='2011-05-01'>May'11</completiondate>)
+<institution>University of Mumbai</institution>, <address><city>Mumbai</city> <country iso3='IND'>India</country></address></school></education>
+
+<experience end='present' start='732679'>WORK EXPERIENCE:
+<job end='734140' id='1' pos='3' start='732679'><jobtype>Self employed</jobtype> as a tutor (<daterange><start days='732679' iso8601='2007-01-01'>2007</start>-<end days='734140' iso8601='2011-01-01'>2011</end></daterange>)
+     <description>Tutoring high school students in mathematics, physics and chemistry.
+     Trained students for competitive exams and quizzes conducted by Institute for promotion of mathematics.
+     Trained students for National talent search examination.</description></job>
+Faculty student association's Union Commons Diner at <job end='734474' id='2' pos='2' start='734413'><employer>Stony brook university</employer>                  (<daterange><start days='734413' iso8601='2011-10-01'>Oct 2011</start>- <end days='734474' iso8601='2011-12-01'>Dec 2011</end></daterange>)
+<title>Student assistant</title></job>
+<job end='present' id='3' pos='1' start='734413'><employer>Research foundation of State university of New York</employer>                                          (<daterange><start days='734413' iso8601='2011-10-01'>Oct 2011</start>-<end days='present' iso8601='2012-03-31'>present</end></daterange>)
+<title>Research aide</title></job></experience>
+
+
+<professional>COURSE PROJECTS:
+<description>Undergraduate studies:
+  Undertook final year project on &quot;manufacture of polyurethane&quot; in BASF India ltd. Trained as a process engineer for a period
+     of one year. This project included the Study of the entire process optimization of the process and further modifications applied
+     to improve the existing properties of the polymer. Extensive research on the uses and application of polyurethane in various
+     fields and also the various methods of production adopted for the manufacture of this polymer was also carried out as a part of
+     this project.
+ Graduate studies:
+  sensor technology: Carried out a project on multiplexed nanowire sensor arrays. Studied the structural aspects of nanowire
+     sensors in the form of arrays and suggested modifications in the design. Studied the usage of sensor arrays in cancer detection.
+  impact of materials on environment: carried out a study on impact of plastic and paper containers on the environment and
+     suggested modifications in the manufacturing techniques of the two to reduce energy and raw material consumption.
+  tissue engineering: reducing bio degradation of polymeric materials used in biomedical applications (status-on going)</description></professional>
+
+<skills>SKILLS:
+<skills>Computer skills
+    Simulation softwares like ANSYS, DESIGN II
+    Autocad
+    Solid works
+    Microsoft office suite
+    Photoshop</skills></skills>
+
+<statements>EXTRA CURRICULAR ACTIVITIES:
+   <activities>Actively participated in cultural and sporting events in middle school, high school and college.
+   Participated in Tech-fest events organized during the undergraduate years.
+   Volunteered in the events organized by STUDENTS ORGANISATION OF CHEMICAL ENGINEERS in Datta Meghe
+     College of Engineering (Mumbai University).
+   Member of IICHE student chapter in the college (Indian Institute of Chemical Engineers)</activities></statements>
+</resume>
+
+<skillrollup version='1'>
+  <canonskill name='adobe photoshop'>
+    <variant>Photoshop</variant>
+  </canonskill>
+  <canonskill name='ansys'>
+    <variant>ANSYS</variant>
+  </canonskill>
+  <canonskill name='autocad'>
+    <variant>Autocad</variant>
+  </canonskill>
+  <canonskill end='734140' experience='1' expidrefs='1' idrefs='1' lastused='2011' name='competitive' start='732679'>
+    <variant>competitive</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='4' idrefs='4' name='materials management'>
+    <variant>materials</variant>
+  </canonskill>
+  <canonskill end='734140' experience='1' expidrefs='1' idrefs='1' lastused='2011' name='mathematics' start='732679'>
+    <variant>mathematics</variant>
+  </canonskill>
+  <canonskill name='microsoft office'>
+    <variant>Microsoft office suite</variant>
+  </canonskill>
+  <canonskill end='734140' experience='1' expidrefs='1' idrefs='1' lastused='2011' name='physics' start='732679'>
+    <variant>physics</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='4' idrefs='4' name='progress'>
+    <variant>progress</variant>
+  </canonskill>
+  <canonskill end='734140' experience='1' expidrefs='1' idrefs='1' lastused='2011' name='promotional materials' start='732679'>
+    <variant>promotion</variant>
+  </canonskill>
+  <canonskill name='simulation'>
+    <variant>Simulation</variant>
+  </canonskill>
+  <canonskill name='solidworks'>
+    <variant>Solid works</variant>
+  </canonskill>
+  <canonskill end='734140' experience='1' expidrefs='1' idrefs='1' lastused='2011' name='tutoring' start='732679'>
+    <variant>Tutoring</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

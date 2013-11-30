@@ -1,0 +1,176 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734596' xml:space='preserve'>CURRICULUM VITAE (as at March 2012)
+
+<contact><name><givenname>WILLIAM</givenname> <givenname>DAVID</givenname> <surname>MORETON</surname></name> BEng(Hons) MSc
+
+STRESS ANALYST
+
+Address.		<address lat='47.9081' lon='122.306' majorcity='MUKILTEO' state='WA'><city>Mukilteo</city>, <state abbrev='WA'>WA</state> <postalcode>98275</postalcode> <country iso3='USA'>USA</country></address></contact>
+<statements>Nationality :		<eligibility>British (UK), Permanent US Resident (Greencard holder).</eligibility>
+
+KEYWORDS
+
+<activities>Stress analysis, Structural analysis, Structural dynamics, finite element analysis, FEMAP, Nastran</activities></statements>
+
+<education>EDUCATION HISTORY
+
+<school id='18'><description>First Degree.	BEng(Hons) (2-1) Manufacturing Systems Engineering
+		Leeds Metropolitan University, Calverly St, Leeds, UK
+
+Masters.	MSc Applied Mechanics (rotor dynamics and finite element analysis</description>)
+		<institution>Cranfield Institute of Technology</institution>, <address><city>Cranfield</city>, Beds, <country iso3='GBR'>UK</country></address></school></education>
+
+<experience end='present' start='726317'>EMPLOYMENT HISTORY
+
+<job end='present' id='1' pos='1' start='733075'><daterange><start days='733075' iso8601='2008-02-01'>Feb '08</start> - <end days='present' iso8601='2012-04-01'>Present</end></daterange>, <employer>Boeing Commercial Aircraft</employer>, <address><city>Everett</city>, <state abbrev='WA'>WA</state>, <country iso3='USA'>USA</country></address>
+
+<description>767 Tanker : Analysis and design support for section 46 lower aft structure. (Hand calcs)
+777 : Structural analysis of fuselage panels subject to handling loads. (Hand calcs)
+LCF : Stress analysis of LCF fuselage structure for the design of repairs and modifications (SR's and IDR's).  Group &quot;focal&quot; for Service Repairs (SR's).</description></job>
+
+<job end='733075' id='2' pos='2' sic='421205' sic2='42' start='732830'><daterange><start days='732830' iso8601='2007-06-01'>Jun '07</start> - <end days='733075' iso8601='2008-02-01'>Feb '08</end></daterange>, <employer>ASAP Corporation</employer>, <address><city>Marysville</city>, <state abbrev='WA'>WA</state>, <country iso3='USA'>USA</country></address>
+
+<description>Analysis and design of Boeing 757 interiors seat pod (pallet, curved seat surround, credenza, seat and seat track fittings), hand calculations and some FE (FEMAP &amp; NASTRAN).</description></job>
+
+<job end='732830' id='3' pos='3' start='732679'><daterange><start days='732679' iso8601='2007-01-01'>Jan '07</start> - <end days='732830' iso8601='2007-06-01'>Jun '07</end></daterange>, <employer>Smiths Aerospace</employer>, <address><city>Mukilteo</city>, <state abbrev='WA'>WA</state>, <country iso3='USA'>USA</country></address>
+
+<description>Reviewing vendor supplied stress analysis reports for 787 landing gear mechanical systems components, typically containing detailed hand calculations and FEA for static strength, and fatigue based on Boeing DFR method.</description></job>
+
+<job end='732679' id='4' pos='4' start='731857'><daterange><start days='731857' iso8601='2004-10-01'>Oct '04</start> - <end days='732679' iso8601='2007-01-01'>Jan '07</end></daterange>, <employer>Boeing Commercial Aircraft</employer>, <address><city>Everett</city>, <state abbrev='WA'>WA</state>, <country iso3='USA'>USA</country></address>
+
+<description>Multi-phase jacking and shoring analysis for modification of 747-400 to Large Cargo Freighter (&quot;Dream Lifter&quot;).
+Stress analysis, fatigue and failsafe analysis of various LCF structures. Stress support for liaison engineering. Stress analysis of massive &quot;waffle&quot; type bulkhead under cargo impact loads (hand calcs and Nastran/Patran).</description></job>
+
+<job end='731796' id='5' pos='5' start='731461'><daterange><start days='731461' iso8601='2003-09-01'>Sept'03</start> - <end days='731796' iso8601='2004-08-01'>Aug '04</end></daterange>, <employer>Messier-Dowty</employer>, <address><city>Gloucester</city>, <country iso3='GBR'>UK</country></address>
+
+<description>In-service support of A330/A340 Airbus landing gear.  Producing life limits for landing gear components based on on-going fatigue tests.  Component failure investigations.   Investigating structural effects of hard landings and off-runway excursions.</description></job>
+
+<job end='731461' id='6' pos='6' sic='7359' sic2='73' start='731277'><daterange><start days='731277' iso8601='2003-03-01'>March '03</start> - <end days='731461' iso8601='2003-09-01'>Sept '03</end></daterange>, <employer>Westland Helicopters Ltd, Yeovil</employer>, <address>Somerset, <country iso3='GBR'>UK</country></address>
+
+<description>Fatigue analysis of helicopter rotors.  Composite rotor assembly stress analysis (in-house methods)
+
+One-off consultancy job carried out in January '03</description></job>
+<job id='7' sic='381201' sic2='38'><employer>Stirling Dynamics Ltd</employer>, <address><city>Bristol</city>, <country iso3='GBR'>UK</country></address>
+
+<description>Structural analysis of a light aircraft wing strut was carried out as part of a certification procedure.  The wing strut was modified to carry additional stores.  Analysis included inertial and aerodynamic loading as well as non-linear beam-column behavior (hand calcs).</description></job>
+
+<job end='731277' id='8' pos='7' sic='871141' sic2='87' start='730822'><daterange><start days='730822' iso8601='2001-12-01'>December '01</start> - <end days='731277' iso8601='2003-03-01'>March '03</end></daterange>, <employer>Strachan &amp; Henshaw Ltd</employer>, <address><city>Bristol</city>, <country iso3='GBR'>UK</country></address>
+
+<description>Static and dynamic structural analysis of submarine weapons handling equipment and related superstructure (hand calcs, Mathcad and FE).
+
+One-off consultancy job carried out in July '01</description></job>
+<job id='9' sic='177105' sic2='17'><employer>Structural Dynamic Systems Ltd</employer>, <address><city>Coventry</city>, <country iso3='GBR'>UK</country></address>
+
+<description>SDS Ltd design and manufacture cast aluminum components for large shaker tables and other testing equipment.  I developed for them a large shaker table platform using alternative materials (balsa core sandwich composite) improving performance at lower weight and lower cost.  (FEMAP/ NASTRAN and hand calculations)</description></job>
+
+<job end='730822' id='10' pos='8' start='730243'><daterange><start days='730243' iso8601='2000-05-01'>May '00</start> - <end days='730822' iso8601='2001-12-01'>December '01</end></daterange>, <employer>Messier-Dowty Ltd</employer>, <address><city>Gloucester</city>, <country iso3='GBR'>UK</country></address>
+
+<description>Fatigue and stress analysis of Nimrod MRA4 landing gear.  Bird strike analysis of Nimrod landing gear including derivation of a method for transient dynamic bird strike against slender components.  Derived fatigue and wear tests for main and nose landing gear gland seals including justification for the philosophy. (Hand calculations)</description></job>
+
+<job end='730243' id='11' pos='9' start='730000'><daterange><start days='730000' iso8601='1999-09-01'>September '99</start> - <end days='730243' iso8601='2000-05-01'>May '00</end></daterange>, <description>GKN Westland Helicopters, Yeovil, Somerset, UK
+
+Fatigue analysis of rotor components for Lynx helicopters (in-house methods).  Identified and wrote software which was instrumental in investigating crashes involving premature rotor failures.  That software is now standard in the company.</description></job>
+
+<job end='730000' id='12' pos='10' start='729573'><daterange><start days='729573' iso8601='1998-07-01'>Jul '98</start> - <end days='730000' iso8601='1999-09-01'>September '99</end></daterange>, <employer>Hansford Engineering Ltd, Biggleswade</employer>, <address>Beds, <country iso3='GBR'>UK</country></address>
+
+<description>Stress analysis of aircraft structures. Much of the work was in the analysis of aircraft modifications and the installation of additional equipment.  The majority of this stressing was by hand methods.</description></job> 
+
+<job end='729573' id='13' pos='11' start='729208'><daterange><start days='729208' iso8601='1997-07-01'>Jul '97</start> - <end days='729573' iso8601='1998-07-01'>Jul '98</end></daterange>, <employer>Matra Marconi Space Ltd, Stevenage</employer>, <address>Herts, <country iso3='GBR'>UK</country></address>
+
+<title>Lead Engineer</title> <description>in the stress analysis/design of large satellite reflector structures (carbon fiber and Kevlar composite structures) including static, vibration and random acoustic vibration analyses.  Loads analysis was predominantly using FE methods with detail stress analysis by hand (FEMAP/Nastran and hand calcs).  Responsible for supporting sine vibration, static, and acoustic vibration tests of several main reflectors including specifying tests and modifying them in-situ to meet objectives.
+
+One-off consultancy job carried out in Dec '96</description></job>
+<job id='14' sic='872101' sic2='87'><employer>Hydrotechnics Ltd, Luton</employer>, <address>Beds, <country iso3='GBR'>UK</country></address>
+
+<description>Hydrotechnics Ltd designs and manufactures fabricated structures for ground handling of small airships.  I produced for them a bespoke finite element analysis program for the dedicated modeling and analysis of ground handling structures.</description></job> 
+
+<job end='729208' id='15' pos='12' sic='507405' sic2='50' start='727139'><daterange><start days='727139' iso8601='1991-11-01'>Nov '91</start> - <end days='729208' iso8601='1997-07-01'>Jul '97</end></daterange>, <employer>Renewable Energy Systems Ltd, Hemel Hempstead</employer>, <address>Herts, <country iso3='GBR'>UK</country></address>
+
+<description>Structural analysis and design of structures and machine components for wind turbines.  Created software tools to aid static and dynamic analysis (FORTRAN).
+Created buoyancy mathematical model and analysis for Osprey wind/wave energy device.  Preliminary design for an offshore foundation structure for a 1MW wind turbine including predicting response to random wind and wave loading and predicting fatigue (mostly hand calculations).</description></job>
+
+<job end='727139' id='16' pos='13' start='726651'><daterange><start days='726651' iso8601='1990-07-01'>Jul '90</start> - <end days='727139' iso8601='1991-11-01'>Nov '91</end></daterange>, <description>SDRC Engineering Services, Hitchin, Herts, UK
+
+Seismic analysis of large fuel oil pipe systems. Machine component design and analysis. Statics, dynamics, FE analysis using SDRC Ideas and ANSYS, as well as hand calculation methods.</description></job>
+
+<job end='726651' id='17' pos='14' start='726317'><daterange><start days='726317' iso8601='1989-08-01'>Aug '89</start> - <end days='726651' iso8601='1990-07-01'>Jul '90</end></daterange>, GEC Large Machines Division, <address><city>Stafford</city>, <country iso3='GBR'>UK</country></address>
+
+<description>Assisted in design studies and stress analysis, mostly of large (500-900MW) rotors.</description></job></experience>
+
+
+
+
+1
+
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='727139' experience='1' expidrefs='16' idrefs='16' lastused='1991' name='ansys' start='726651'>
+    <variant>ANSYS</variant>
+  </canonskill>
+  <canonskill end='731461' experience='1' expidrefs='6' idrefs='6' lastused='2003' name='assembly language' start='731277'>
+    <variant>assembly</variant>
+  </canonskill>
+  <canonskill education='1' name='beng'>
+    <variant>BEng</variant>
+  </canonskill>
+  <canonskill end='729573' experience='1' expidrefs='13' idrefs='13' lastused='1998' name='dec' start='729208'>
+    <variant>Dec</variant>
+  </canonskill>
+  <canonskill end='729208' experience='1' expidrefs='15' idrefs='15' lastused='1997' name='fortran' start='727139'>
+    <variant>FORTRAN</variant>
+  </canonskill>
+  <canonskill end='730243' experience='1' expidrefs='11' idrefs='11' lastused='2000' name='lynx' start='730000'>
+    <variant>Lynx</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='9' idrefs='9' name='materials management'>
+    <variant>materials</variant>
+  </canonskill>
+  <canonskill end='731277' experience='1' expidrefs='8' idrefs='8' lastused='2003' name='mathcad' start='730822'>
+    <variant>Mathcad</variant>
+  </canonskill>
+  <canonskill end='732830' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='mechanical' start='732679'>
+    <variant>mechanical</variant>
+  </canonskill>
+  <canonskill end='731277' experience='1' expidrefs='8' idrefs='8' lastused='2003' name='ministry of defence' start='730822'>
+    <variant>weapons</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='14' idrefs='14' name='modeling'>
+    <variant>modeling</variant>
+  </canonskill>
+  <canonskill education='1' name='msc'>
+    <variant>MSc</variant>
+  </canonskill>
+  <canonskill end='733075' experience='1' expidrefs='2,4,9,13' idrefs='2,4,9,13' lastused='2008' name='nastran' start='729208'>
+    <variant>NASTRAN</variant>
+    <variant>Nastran</variant>
+  </canonskill>
+  <canonskill end='727139' experience='1' expidrefs='16' idrefs='16' lastused='1991' name='oil painting' start='726651'>
+    <variant>oil</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='4' idrefs='4' lastused='2007' name='patran' start='731857'>
+    <variant>Patran</variant>
+  </canonskill>
+  <canonskill end='730822' experience='1' expidrefs='10' idrefs='10' lastused='2001' name='philosophy' start='730243'>
+    <variant>philosophy</variant>
+  </canonskill>
+  <canonskill end='731796' experience='1' expidrefs='5' idrefs='5' lastused='2004' name='production' start='731461'>
+    <variant>Producing</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='repair' start='733075'>
+    <variant>Repairs</variant>
+    <variant>repairs</variant>
+  </canonskill>
+  <canonskill education='1' name='systems engineering'>
+    <variant>Systems Engineering</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='9' idrefs='9' name='tables'>
+    <variant>tables</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='4' idrefs='4' lastused='2007' name='typing' start='731857'>
+    <variant>type</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

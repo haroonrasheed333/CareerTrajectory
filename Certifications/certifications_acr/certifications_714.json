@@ -1,0 +1,26 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "BSE", 
+            "Certification Name": "BSE Techincian II", 
+            "Type": "Core", 
+            "Certification ID": "1351", 
+            "Certifying Organization": "Barnett Bicycle Institute"
+        }, 
+        {
+            "Acronym": "BSE", 
+            "Certification Name": "BSE Technician  Level I", 
+            "Type": "Core", 
+            "Certification ID": "1352", 
+            "Certifying Organization": "Barnett Bicycle Institute"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Bicycle Technician", 
+            "Type": "Core", 
+            "Certification ID": "0345", 
+            "Certifying Organization": "United Bicycle Institute"
+        }
+    ], 
+    "onet": "49309100"
+}

@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734594' xml:space='preserve'><contact><name><givenname>SANDEEP</givenname> <surname>SINGH</surname></name>
+<email>sainisandeep500@gmail.com</email>
+<address lat='47.3866' lon='122.197' majorcity='KENT' state='WA'><street>21329 108th Ave SE</street>
+<city>Kent</city>, <state abbrev='WA'>WA</state> <postalcode>98031</postalcode></address>
+<phone>253-520-5004</phone></contact>
+
+
+<summary>Summary: <summary>Confident and enthusiastic professional with understanding of IT environment through a blend of real experiences and academia. Good interpersonal skills acquired through work experience and positions of responsibility. A team player with the personal drive to learn and share knowledge with others.</summary></summary>
+
+<education>Academic Background:
+<school id='3'><degree level='18'>Masters of Science</degree> in <major code='1699'>Information Technology</major> 
+<institution>Punjab Technical University Jalandhar</institution>, <daterange><start days='731583' iso8601='2004-01-01'>2004</start>-<end days='732314' iso8601='2006-01-01'>2006</end></daterange></school>. Graduated 
+<school id='4'><degree level='16' name='Bachelor of Science'>Bachelor of Science</degree> in <major code='0202 0301'>Biology &amp; Chemistry</major> 
+<institution>Punjab University Chandigarh</institution>. <daterange><start days='730853' iso8601='2002-01-01'>2002</start>-<end days='731583' iso8601='2004-01-01'>2004</end></daterange>. <description>Graduated
+High School 
+Punjab School Education Board. Graduation 2001.</description></school></education>
+
+<experience end='present' start='732648'>Professional Background:
+<job end='present' id='1' pos='1' sic='809934' sic2='80' start='734536'><employer>Machaon Medical Evaluations</employer> <address><city>Seattle</city>, IT</address> <title>Project Coordinator</title>, <daterange><start days='734536' iso8601='2012-02-01'>Feb 2012</start> - <end days='present' iso8601='2012-03-30'>Present</end></daterange></job>.
+ <job end='734260' id='2' pos='2' start='732648'><employer>Punjab Technical University</employer> <address><city>Jalandhar</city>, Lecturer</address>. <daterange><start days='732648' iso8601='2006-12-01'>December 2006</start> - <end days='734260' iso8601='2011-05-01'>May 2011</end></daterange>
+<description>Lecturing college students in various IT related courses 
+Management and implementation of core plans related to improvement of institution
+Supervision of Teaching Assistants
+Providing guidance to students regarding courses</description></job></experience>  
+
+<skills>Technical &amp; Computer Skills:
+Fluency in: <skills>Java, C Sharp, Visual Basic, HTML, A.S.P (Active Server pages), C, and C ++ Language.
+Fluency in Database Management: SQL Server, Oracle and M.S Access.
+Other Skills: Working knowledge in M.S office, Windows Operating System, Networking, Software Engineering, Management of Information Systems, System Analysis and Design, Principles of Management, Windows 2000 Administration, Linux, WAP.</skills></skills>
+
+<statements>PERSONAL SKILLS: <personal>Hardworking, honest, team spirit and positive attitude towards work and people.</personal></statements>
+
+</resume>
+
+<skillrollup version='1'>
+  <canonskill name='active server pages'>
+    <variant>Active Server pages</variant>
+  </canonskill>
+  <canonskill name='c'>
+    <variant>C</variant>
+  </canonskill>
+  <canonskill name='c + +'>
+    <variant>C ++</variant>
+  </canonskill>
+  <canonskill name='database administration'>
+    <variant>Database Management</variant>
+  </canonskill>
+  <canonskill name='html'>
+    <variant>HTML</variant>
+  </canonskill>
+  <canonskill name='information systems'>
+    <variant>Information Systems</variant>
+  </canonskill>
+  <canonskill name='java'>
+    <variant>Java</variant>
+  </canonskill>
+  <canonskill end='734260' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='lecturer' start='732648'>
+    <variant>Lecturing</variant>
+  </canonskill>
+  <canonskill name='linux'>
+    <variant>Linux</variant>
+  </canonskill>
+  <canonskill name='microsoft access'>
+    <variant>Access</variant>
+  </canonskill>
+  <canonskill name='microsoft c #'>
+    <variant>C Sharp</variant>
+  </canonskill>
+  <canonskill name='microsoft office'>
+    <variant>office</variant>
+  </canonskill>
+  <canonskill name='microsoft windows'>
+    <variant>Windows Operating System</variant>
+  </canonskill>
+  <canonskill name='microsoft windows 2000'>
+    <variant>Windows 2000</variant>
+  </canonskill>
+  <canonskill name='networking'>
+    <variant>Networking</variant>
+  </canonskill>
+  <canonskill name='oracle'>
+    <variant>Oracle</variant>
+  </canonskill>
+  <canonskill name='software engineering'>
+    <variant>Software Engineering</variant>
+  </canonskill>
+  <canonskill name='sql'>
+    <variant>SQL Server</variant>
+  </canonskill>
+  <canonskill end='734260' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='supervisory skills' start='732648'>
+    <variant>Supervision</variant>
+  </canonskill>
+  <canonskill name='system architecture'>
+    <variant>System Analysis and Design</variant>
+  </canonskill>
+  <canonskill end='734260' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='teaching' start='732648'>
+    <variant>Teaching</variant>
+  </canonskill>
+  <canonskill name='visual basic'>
+    <variant>Visual Basic</variant>
+  </canonskill>
+  <canonskill name='wap'>
+    <variant>WAP</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

@@ -1,0 +1,26 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Fluid Power Accredited Instructor", 
+            "Type": "Advanced", 
+            "Certification ID": "2604", 
+            "Certifying Organization": "International Fluid Power Society"
+        }, 
+        {
+            "Acronym": "CVS", 
+            "Certification Name": "Certified Value Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "1324", 
+            "Certifying Organization": "Society of American Value Engineers"
+        }, 
+        {
+            "Acronym": "AVS", 
+            "Certification Name": "Associate Value Specialist", 
+            "Type": "Core", 
+            "Certification ID": "1325", 
+            "Certifying Organization": "Society of American Value Engineers"
+        }
+    ], 
+    "onet": "25103200"
+}

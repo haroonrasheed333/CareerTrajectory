@@ -1,0 +1,96 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Traditional Childbirth Educator Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "9075", 
+            "Certifying Organization": "International Childbirth Education Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Doula Certification", 
+            "Type": "Core", 
+            "Certification ID": "9072", 
+            "Certifying Organization": "International Childbirth Education Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Experienced Childbirth Educator Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "9076", 
+            "Certifying Organization": "International Childbirth Education Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Birth Doula Certification", 
+            "Type": "Core", 
+            "Certification ID": "9199", 
+            "Certifying Organization": "DONA International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Postpartum Doula", 
+            "Type": "Core", 
+            "Certification ID": "9200", 
+            "Certifying Organization": "DONA International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Postpartum Doula Certification", 
+            "Type": "Core", 
+            "Certification ID": "9073", 
+            "Certifying Organization": "International Childbirth Education Association"
+        }, 
+        {
+            "Acronym": "IBCLC", 
+            "Certification Name": "International Board Certified Lactation Consultant", 
+            "Type": "Specialty", 
+            "Certification ID": "1193", 
+            "Certifying Organization": "International Board of Lactation Consultant Examiners"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Childbirth Educator Certification", 
+            "Type": "Core", 
+            "Certification ID": "9077", 
+            "Certifying Organization": "International Childbirth Education Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Dr. Sears Certified L.E.A.N. Health Coach", 
+            "Type": "Core", 
+            "Certification ID": "9074", 
+            "Certifying Organization": "International Childbirth Education Association"
+        }, 
+        {
+            "Acronym": "CM", 
+            "Certification Name": "Certified Midwife", 
+            "Type": "Core", 
+            "Certification ID": "7003", 
+            "Certifying Organization": "American Midwifery Certification Board"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Perinatal Fitness Educator", 
+            "Type": "Specialty", 
+            "Certification ID": "5775", 
+            "Certifying Organization": "International Childbirth Education Association"
+        }, 
+        {
+            "Acronym": "CPM", 
+            "Certification Name": "Certified Professional Midwife", 
+            "Type": "Core", 
+            "Certification ID": "2079", 
+            "Certifying Organization": "North American Registry of Midwives"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Birth Doula Certification", 
+            "Type": "Core", 
+            "Certification ID": "3570", 
+            "Certifying Organization": "Doulas of North America"
+        }
+    ], 
+    "onet": "29909901"
+}

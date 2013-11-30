@@ -1,0 +1,566 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734596' xml:space='preserve'>PERSONAL RESUME OF <contact><name><givenname>JERRY</givenname> <givenname>BELLOTT</givenname>, <surname>MSEE</surname></name>
+<address lat='40.5955' lon='74.6231' majorcity='BRIDGEWATER' state='NJ'><street>P.O. Box 6721</street>, <city>Bridgewater</city>, <state abbrev='NJ'>NJ</state> <postalcode>08807</postalcode></address>
+Email: <email>dgbellott@ieee.org</email>; Phone: <phone>732-853-5404</phone></contact>
+
+<summary>JOB OBJECTIVE: 
+<objective>Experienced applications and technical support engineer with electrical engineering background seeks applications engineering position for pre-sales support and on-going technical support. I am also interested in using my technical writing skills.</objective>
+
+SUMMARY: 
+<summary>Experienced product developer, technical writer, and applications engineer. Have contributed innovative designs for microprocessor boards including PC motherboards, data networking equipment, microcontrollers, and digital switches plus GSM, 3G Cellular, Bluetooth, and other products. Expert EMI/EMC test designer. Extensive customer interactions to discuss possible new products, provide technical support,  and to review test plans, Experienced author of new product requirements, specifications, and test plans with traceability. Also user manuals, application notes, data sheets, and technical training courses. Significant contracts won with my technical writing. MSEE Georgia Tech (1980), BSEE WVU (cum laude, 1979).</summary></summary> 
+
+<experience>ACCOMPLISHMENTS: 
+-<description>As an applications engineer at Lucent Technologies, I supported 12 major accounts to respond to questions about semiconductor IC's, circuit boards, and software products. In 1999, I worked with a customer to learn their needs and wrote a new product specification that resulted in a two year design and manufacturing contract. I won awards for outstanding product development, team leadership, and customer support while working for Bell Labs.
+-As Sr. Systems Engineer at start-up ViaGate Technologies, I co-developed the first fiber to the basement ATM switch. The switch provides services to 240 building clients including internet access and Ethernet LAN bridging. My system documentation aided sale of the company to VoIP innovator Tut Systems in 2001, which is now part of Motorola Broadband. 
+-At DSPCon, Inc. I contributed system, EMI/EMC, and environmental test plans plus GUI test plans for products using technologies including radio, computing, data acquisition, audio and video encoding/decoding, DSP analysis and plotting software, and others. In addition I wrote contract fulfillment documentation. I was promoted for my work in 2007. 
+-At Integrated Microwave Technologies in 2009, my user documentation for a new compact radio and video over LAN product line helped the company win a major government contract.</description></experience>
+
+<skills>SKILLS: 
+-<description>Applications engineering for pre-sales and after sale technical support. Analog and digital electronics, computer and networking equipment, semiconductors, wireless products, application software, test and measurement equipment, and other products.</description> 
+-Authoring of new product system requirements, specifications, and test plans including <skills>system hardware/firmware/software test plans, application GUI test plans, EMI/EMC, and environmental test plans. FCC, CE, and other agency standards.
+-Experienced author of white papers, application notes, user and maintenance manuals, data sheets, brochures, and presentations including roadmaps. 
+-Authoring software including Microsoft Office, Visio, Project, and Expressions. Also Adobe products including Framemaker, Photoshop, Acrobat, and other PC, Mac, and Linux software. Experienced photographer and multimedia editor using PC and Mac software.
+-Delivery of training courses on programming languages, microprocessor I/O, IDE, and development systems at Bell Labs. Delivery of training seminars on system hardware and software design, quality, product development methodologies, and design using DSP hardware at GT Digital.</skills></skills> 
+ 
+<experience end='present' start='731827'>PROFESSIONAL EXPERIENCE:
+<job end='present' id='1' pos='1' start='733728'><employer>GT-DIGITAL</employer> (<address><city>Bridgewater</city>, <state abbrev='NJ'>NJ</state></address>, <daterange><start days='733728' iso8601='2009-11-15'>11/15/2009</start> to <end days='present' iso8601='2012-04-01'>present</end></daterange>)  
+<title>Consultant, Trainer</title>. <description>I deliver seminars on &quot;System Hardware and Software Design and Enterprise Quality Management,&quot; &quot;PCB Design Using DSP's,&quot; and &quot;Product Development Methodologies.&quot; I have also designed websites for businesses. My seminar on Design Using DSP'S provides an overview of DSP applications and the marketplace, DSP micro architectures for low power and high performance applications (including multi-core devices), ASIC signal processing solutions, GPU's, and MicroChip dsPIC DSP/microcontrollers for industrial, automotive, and consumer applications. My seminar uses the Microchip family to illustrate IDE and ICE debugging plus DSP/Microcontroller circuits for equipment instrumentation and control. (MicroChip is a leading silicon vendor and shipped 1 billion IC's to Samsung in 2010 alone).
+
+My seminar &quot;System Design and Enterprise Quality Management&quot; describes hardware and software design tools (Cadence and Mentor tools plus IDE's, development systems using I2C and JTAG interfaces) and methodologies using hierarchical milestone documents with traceability, waterfall (sequential) and AGILE planning methods, and quality management tools (e.g. MS Project and DOORS). I deliver my seminars to professional groups and universities (e.g. the IEEE Princeton, North Jersey, and Lehigh Valley PA sections, DeVry, TCNJ, and FDU Universities, among other groups) in this interim role. See: http://home.gtdigitalsite.org</description></job>  
+
+<job end='733718' id='2' pos='2' sic='367901' sic2='36' start='733421'><employer>IMT, Inc</employer>. (Formerly <employer>RF Extreme/Nucomm Inc</employer>.; <address><city>Hackettstown</city>, <state abbrev='NJ'>NJ</state></address>, <daterange><start days='733421' iso8601='2009-01-12'>1/12/2009</start> to <end days='733718' iso8601='2009-11-05'>11/5/2009</end></daterange>) 
+<description>Responsible for writing documentation for streaming video over IP products and microwave HD video transmitter and receiver products. Documented technical aspects of products, including streaming video using UDP/IP, LAN solutions, Web based GUI's, XML configuration file options, MPEG2 and MPEG4 circuits, multi-channel microwave transmitters, multi-antenna diversity microwave receivers, COFDM modulators/ demodulators, and maximal-ratio combining circuits. 
+
+My user manuals contain installation, operating, and maintenance procedures, theory of operation, product specifications, firmware features, and circuit block diagrams. Studied OrCad schematics and worked closely with designers to prepare documentation source material. They describe operation of front panel user interfaces, PC GUI's, web based GUI's and configuration via XML files. Standards: Ethernet, Firewire, MPEG2/4, ATSC HDTV, DVB-T, DVB-ASI, HD-SDI, and Composite video interfaces. Contributed design suggestions in areas including product features, performance enhancement, circuit timing, I/O connectors, and grounding solutions. To support a contract bid, wrote user manuals, data sheets, and quick start guides for eight new compact radio and LAN products introduced the same week in mid 2009. Also edited engineering documentation. On-time delivery of this documentation helped the company win a major sales contract.</description></job> 
+
+<job end='733288' id='3' pos='3' sic='573401' sic2='57' start='732253'><employer>DSPCon, Inc</employer>. (<address><city>Bridgewater</city>, <state abbrev='NJ'>NJ</state></address>, <daterange><start days='732253' iso8601='2005-11-01'>11/2005</start> to <end days='733288' iso8601='2008-09-01'>9/2008</end></daterange>)  
+<description>Engineer responsible for writing new product white papers, user manuals, and other customer contract documentation for PC based data acquisition, networking equipment and storage, plus RF receivers, SDR circuits, and GPS receivers. Wrote white papers for new wireless and wire-line telemetry products. I was promoted while working at DSPCon.
+
+Designed system hardware and software test plans, EMI/EMC and temperature and humidity test plans, and designed test circuits for a system comprising multiple windows PC's, gigabit Ethernet switches, SATA and fibre channel HD interfaces, analog I/O hardware, and MPEG4 encoders. Led the test team to check the system features against requirements. Designed a test harness with cables of multiple types including KVM, Ethernet, SATA, audio/video, serial, others. Designed EMI/EMC tests for the product including conducted and radiated emissions and susceptibility tests.
+
+My user manuals, data sheets, and other documentation covered product features, installation, operating instructions, maintenance procedures, software API's, Windows configuration file formats, other reference data, quick-start info, technical theory of operation, and other pertinent information. My documentation described PC, PowerPC, and DSP based products, MPEG4 encoders, PC GUI and web based GUI applications, plus hardware and firmware features for equipment. Also wrote documentation for Ethernet LAN equipment, fibre channel SAN equipment with RAID storage devices, large systems with VME and Compact PCI chasses (hardware, software, and firmware features), single PC based products, radio receivers, and  other products. Teamwork with design engineers on gathering material for manuals. Reviewed OrCad and other schematics to study products while designing test plans.
+
+Documented customer API's for a multi-channel software defined radio and file format specifications for digital data recorders and other systems. Performed FMECA analysis for products and co-authored system requirements for a data acquisition off-line tape storage system. I delivered  more than 35 User and Maintenance manuals on-time while at the company.</description></job> 
+
+<job end='732253' id='4' pos='4' sic='271101' sic2='27' start='731918'><employer>EXPRESS-TIMES INC</employer>. (<address><city>Easton</city>, <state abbrev='PA'>PA</state></address> <daterange><start days='731918' iso8601='2004-12-01'>12/2004</start> to <end days='732253' iso8601='2005-11-01'>11/2005</end></daterange>) 
+<description>Freelance writer responsible for writing articles for the Express-Times. Covered municipal council, zoning, and planning board meetings, plus other civic events. Consistently met deadlines.</description></job> 
+
+<job end='731918' id='5' naics='72221105' naics2='72' pos='5' sic='367202' sic2='36' start='731827'><employer>VALLEY TECHNOLOGIES</employer> (<address><city>Tamaqua</city>, <state abbrev='PA'>PA</state></address> <daterange><start days='731827' iso8601='2004-09-01'>9/2004</start> to <end days='731918' iso8601='2004-12-01'>12/2004</end></daterange>) 
+<description>Engineering contractor responsible for designing 64-core MathStar DSP circuits for a 6U Compact PCI PCB using Cadence OrCad.  Designed DDR2 and PROM memory, JTAG development and test interfaces, low voltage interfaces (LVDS, circuits using LVTTL and LVCMOS), a Xilinx Development System Interface, bypass decoupling for overall board including large IC's and backplane region, Compact PCI backplane connections, and other circuitry. The board has a PMC slot and is used for wireless, video, medical imaging, and satellite applications. Used Cadence OrCAD software to capture schematics. 
+
+Wrote circuit board layout and manufacturing specifications for circuits. Worked with board manufacturer and layout companies to specify requirements for multilayer circuit board and routing of controlled impedance circuits. The VT-4000 served as MathStar's primary customer IC evaluation board during a two year period in which the company went public.</description></job></experience> 
+
+<education><school id='10'><institution>RECENT COLLEGE COURSE PROGRAMS</institution> (<description>See Recent Education) 
+Recent college courses on TCP/IP, Ethernet hardware (Lafayette University, Easton PA, 2003) and  C++/MatLab (Lehigh University, Bethlehem PA, 2004); Technical Diploma in Electrical Wiring (Bethlehem Tech, Bethlehem PA, 2002). See recent education section.</description></school></education>
+
+<experience end='730488' start='723183'><job end='730488' id='6' pos='6' start='730122'><employer>VIAGATE TECHNOLOGIES, INC</employer>. (Now part of <employer>Motorola Broadband</employer>; <address><city>Bridgewater</city>, <state abbrev='NJ'>NJ</state></address> <daterange><start days='730122' iso8601='2000-01-01'>2000</start> to <end days='730488' iso8601='2001-01-01'>2001</end></daterange>)
+As <title>Senior Systems Engineer</title> <description>in the software group at successful start up, ViaGate Technologies, I co-developed the &quot;VG4032 broadband service node&quot; broadband switch and authored system requirements plus QA test cases. The switch uses IP over ATM, SONET OC-3 and OC-12 interfaces and VDSL for delivery of converged services to clients. The product provides MPEG video, internet access, and remote Ethernet LAN access for up to 240 clients. Researched VoIP solutions for future system enhancement and wrote a feature description of VoIP solutions using Tut Systems Inc. VoIP firmware in ViaGate Ethernet modems to communicate with media gateways in Southern Bell and other central offices. ViaGate was later purchased by Tut Systems, which is now part of Motorola.
+
+Documented and contributed system requirements technical areas including: PowerPC based hardware, digital logic, Unix distributed multiprocessing software, ATM switching and networking features for delivery of MPEG2 digital video and LAN data, SONET fiber and VDSL interfaces with QoS prioritization, and system performance and reliability. Wrote software diagnostic requirements for power up self-test and SNMP network management software. System incorporates industry standards, including TCP/IP protocols, IP over ATM, SONET, 802.3, Ethernet over ATM, MPEG2 transport, MPLS, and DSL Forum recommendations. Responsible for C++ software release planning. Served as change control coordinator.</description></job> 
+
+<job end='730122' id='7' pos='8' sic='287998' sic2='28' start='723183'><employer>BELL LABORATORIES</employer> (<employer>AT&amp;T and Lucent Technologies</employer>; <daterange><start days='723183' iso8601='1981-01-01'>1981</start> to <end days='730122' iso8601='2000-01-01'>2000</end></daterange></job>)
+<job end='730122' id='8' pos='7' start='726835'><employer>Bell Labs Microelectronics Division</employer> (Now <employer>LSI &amp; Infineon, Inc</employer>.) (<address><city>Allentown</city>, <state abbrev='PA'>PA</state></address> <daterange><start days='726835' iso8601='1991-01-01'>91</start>- <end days='730122' iso8601='2000-01-01'>2000</end></daterange>) 
+<title>Lead engineer</title> <description>responsible for designing and developing circuits and QA test software for the 2G (GSM) and 3G cell phone, base station, and other wireless markets. Contributed to design of StarCore 32-bit DSP hierarchical memory architecture and 3G cellular baseband IC architectures. In a marketing strategic product planning role, I wrote design requirements for a new wireless product (custom ASIC interfaces for a 16-bit DSP) that resulted in a large two year design and manufacturing contract for Lucent. Taught a course on DSP I/O programming in Lucent's &quot;Microelectronics University&quot; employee education program. I received an award for outstanding customer support and technical writing while in the wireless division. 
+
+As a lead PCB designer, I designed GSM Scepter IC evaluation and development platform boards using DSP1600 cellular modems (with built-in Flash memory), cellular Baseband/IF/RF interface circuits, audio telephony circuits, serial and parallel I/O circuits, and power circuits. These products were used by major cellular product manufacturers, including Motorola, Inc. Used PC-PADS to capture schematics. Designed and conducted EMI/EMC tests. Products received FCC, Canadian, and CE agency approvals. I won a design team leadership award for my work.</description></job> 
+
+<job end='726835' id='9' pos='9' start='723183'><employer>Bell Labs Personal Computer Engineering and Networking Departments</employer> (<address><city>Lincroft</city> <state abbrev='NJ'>NJ</state></address>, <daterange><start days='723183' iso8601='1981-01-01'>1981</start> to <end days='726835' iso8601='1991-01-01'>1991</end></daterange>)
+<description>Co-designed Windows compatible &quot;StarStation&quot; PC Motherboard. Qualified and specified OEM motherboards, disk drives, NTSC video encoder/decoders, SVGA video circuits, motherboard diagnostic software, and other components. Supported intro to manufacture of product lines. 
+
+Designed and developed of Intel X86 CPU circuits for use in a data networking product that provided packet switch network access in Bell Labs 5ESS. As a lead designer in the Definity PBX development department, I co-developed T3, ISDN-PRI fiber, ISDN-BRI, and other interfaces. Designed a dual port memory with pipelined read and write access, burst cache fill operations, and block I/O data transfers. I won an award for outstanding product development for my work.</description></job></experience> 
+
+<education>BELL LABORATORIES EDUCATION CENTER COURSES (<school id='11'><daterange><start days='726835' iso8601='1991-01-01'>1991</start>-<end days='730122' iso8601='2000-01-01'>2000</end></daterange>):
+<courses>Non-technical: Technical Writing, Project Management, Business Cases, Leadership for Supervisors (perfect score on final exam), Product Marketing, Customer Service, and Negotiation.
+Technical: SONET fiber optic, T1 trunks, ISDN, ISDN-PRI fiber optic trunks; Digital Signal Processing Theory, DSP IC Architectures and Assembly Language Programming, Intel processor architectures; C, Unix, ARM embedded processors, VHDL.</courses> 
+
+EDUCATION:
+<institution>GEORGIA INSTITUTE OF TECHNOLOGY</institution> (<address><city>Atlanta</city>, <state abbrev='GA'>GA</state></address> - <completiondate days='722817' iso8601='1980-01-01'>1980</completiondate>)
+<degree level='18' name='Master of Science in Electrical Engineering'>MSEE</degree>, <completiondate days='722817' iso8601='1980-01-01'>1980</completiondate> (Math minor - <gpa max='4' value='3.4'>3.4</gpa> GPA)
+<description>Computer architecture and programming, digital signal processing, switching power supplies, low noise transistor circuit design, analog IC design. Research assistant on reconfigurable DSP array project. Teaching assistant.</description></school>
+
+<school id='12'><institution>WEST VIRGINIA UNIVERSITY</institution> (<address><city>Morgantown</city>, <state abbrev='WV'>WV</state></address> - <completiondate days='722452' iso8601='1979-01-01'>1979</completiondate>)
+<degree level='16' name='Bachelor of Science in Electrical Engineering'>BSEE</degree>, <completiondate days='722452' iso8601='1979-01-01'>1979</completiondate> - <institution>CUM LAUDE</institution> (<gpa max='4' value='3.5'>3.5</gpa> GPA) 
+<honors>Deans list. Member Eta Kappa Nu and Tau Beta Pi honoraries.</honors>
+<description>Microcontroller design, digital logic, Op Amp circuit design, Electromagnetic Wave Theory, Physics. 
+Senior project: Liquid Crystal Aperture Photographic Exposure System with Camera Lens
+
+RECENT EDUCATION (Since 2001</description></school>):
+<school id='13'><institution>LEHIGH UNIVERSITY</institution> (<address><city>Bethlehem</city>, <state abbrev='PA'>PA</state></address> - <completiondate days='731583' iso8601='2004-01-01'>2004</completiondate>)
+<courses>Engineering C++ and MatLab course. MS Visual Studio C++ console applications.</courses></school> (Grade: A)
+
+<school id='14'><institution>LAFAYETTE COLLEGE</institution> (<address><city>Easton</city>, <state abbrev='PA'>PA</state></address> - <completiondate days='731218' iso8601='2003-01-01'>2003</completiondate>)
+<description>EE course on Data Networking and the Internet. Topics: TCP/IP, Ethernet, protocols, ATM, FDDI.</description></school>
+
+<school id='15'><institution>BETHLEHEM TECHNICAL SCHOOL</institution> (<address><city>Bethlehem</city>, <state abbrev='PA'>PA</state></address> - <completiondate days='730853' iso8601='2002-01-01'>2002</completiondate>) 
+<description>CERTIFICATE TECHNICAL DIPLOMA, ELECTRICAL WIRING (174 CEU's; Full Credit) 
+Power circuits, grounding, NEC, wiring of electrical equipment and other circuits. Technical project.</description></school></education>  
+
+<statements>PERSONAL:
+<activities>Interests: photography, video making, ultimate Frisbee, football.
+Willing to relocate. 
+
+2/28/12
+
+4 of 4</activities></statements>
+
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='730122' experience='1' expidrefs='8' idrefs='8' lastused='2000' name='3g' start='726835'>
+    <variant>3G</variant>
+  </canonskill>
+  <canonskill name='adobe'>
+    <variant>Adobe products</variant>
+  </canonskill>
+  <canonskill name='adobe acrobat'>
+    <variant>Acrobat</variant>
+  </canonskill>
+  <canonskill name='adobe photoshop'>
+    <variant>Photoshop</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='agile' start='733728'>
+    <variant>AGILE</variant>
+  </canonskill>
+  <canonskill end='733288' experience='1' expidrefs='3' idrefs='3' lastused='2008' name='api' start='732253'>
+    <variant>API</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,8' idrefs='1,8' lastused='2012' name='asic' start='726835'>
+    <variant>ASIC</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='11' idrefs='11' name='assembly language'>
+    <variant>Assembly Language</variant>
+  </canonskill>
+  <canonskill end='730122' experience='1' expidrefs='8' idrefs='8' lastused='2000' name='assets recovery' start='726835'>
+    <variant>agency</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='14' end='730488' experience='1' expidrefs='6' idrefs='6,14' lastused='2001' name='atm' start='730122'>
+    <variant>ATM</variant>
+  </canonskill>
+  <canonskill end='733288' experience='1' expidrefs='3,8' idrefs='3,8' lastused='2008' name='audio' start='726835'>
+    <variant>audio</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='automotive' start='733728'>
+    <variant>automotive</variant>
+  </canonskill>
+  <canonskill end='730488' experience='1' expidrefs='6' idrefs='6' lastused='2001' name='broadband' start='730122'>
+    <variant>Broadband</variant>
+    <variant>broadband</variant>
+  </canonskill>
+  <canonskill name='brochure design'>
+    <variant>brochures</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='11' idrefs='11' name='c'>
+    <variant>C</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='10,13' end='730488' experience='1' expidrefs='6' idrefs='10,6,13' lastused='2001' name='c + +' start='730122'>
+    <variant>C++</variant>
+  </canonskill>
+  <canonskill end='733288' experience='1' expidrefs='3' idrefs='3' lastused='2008' name='cabling' start='732253'>
+    <variant>cables</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,5' idrefs='1,5' lastused='2012' name='cadence' start='731827'>
+    <variant>Cadence</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='11,12' idrefs='11,12' name='circuit design'>
+    <variant>circuit design</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='10' end='734579' experience='1' expidrefs='1,3,6' idrefs='1,3,10,6' lastused='2012' name='computer hardware' start='730122'>
+    <variant>Hardware</variant>
+    <variant>hardware</variant>
+  </canonskill>
+  <canonskill end='732253' experience='1' expidrefs='4' idrefs='4' lastused='2005' name='council' start='731918'>
+    <variant>council</variant>
+  </canonskill>
+  <canonskill end='726835' experience='1' expidrefs='9' idrefs='9' lastused='1991' name='cpu' start='723183'>
+    <variant>CPU</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='15' idrefs='15' name='credit'>
+    <variant>Credit</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='12' idrefs='12' name='crystal'>
+    <variant>Crystal</variant>
+  </canonskill>
+  <canonskill end='730488' experience='1' expidrefs='6' idrefs='6' lastused='2001' name='customer relations' start='730122'>
+    <variant>clients</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='11' idrefs='11' name='customer service'>
+    <variant>Customer Service</variant>
+  </canonskill>
+  <canonskill end='730122' experience='1' expidrefs='8' idrefs='8' lastused='2000' name='customer support' start='726835'>
+    <variant>customer support</variant>
+  </canonskill>
+  <canonskill end='733288' experience='1' expidrefs='3' idrefs='3' lastused='2008' name='data acquisition' start='732253'>
+    <variant>data acquisition</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='debugging' start='733728'>
+    <variant>debugging</variant>
+  </canonskill>
+  <canonskill end='733718' experience='1' expidrefs='2,6' idrefs='2,6' lastused='2009' name='delivery' start='730122'>
+    <variant>Delivery</variant>
+    <variant>delivery</variant>
+  </canonskill>
+  <canonskill end='733288' experience='1' expidrefs='3,5,8' idrefs='3,5,8' lastused='2008' name='design' start='726835'>
+    <variant>designing</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,9' idrefs='1,9' lastused='2012' name='development' start='723183'>
+    <variant>Product Development</variant>
+    <variant>product development</variant>
+  </canonskill>
+  <canonskill name='digital electronics'>
+    <variant>digital electronics</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='11' end='734579' experience='1' expidrefs='1,3,5,8' idrefs='1,3,5,8,11' lastused='2012' name='digital signal processing' start='726835'>
+    <variant>DSP</variant>
+    <variant>Digital Signal Processing</variant>
+    <variant>digital signal processing</variant>
+    <variant>DSP I</variant>
+  </canonskill>
+  <canonskill end='730488' experience='1' expidrefs='6' idrefs='6' lastused='2001' name='digital video' start='730122'>
+    <variant>digital video</variant>
+  </canonskill>
+  <canonskill end='733718' experience='1' expidrefs='2,3' idrefs='2,3' lastused='2009' name='documentation' start='732253'>
+    <variant>documentation</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='doors' start='733728'>
+    <variant>DOORS</variant>
+  </canonskill>
+  <canonskill end='730488' experience='1' expidrefs='6' idrefs='6' lastused='2001' name='dsl' start='730122'>
+    <variant>DSL</variant>
+  </canonskill>
+  <canonskill name='editing'>
+    <variant>editor</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='10,15' idrefs='10,15' name='electrician'>
+    <variant>ELECTRICAL WIRING</variant>
+    <variant>Electrical Wiring</variant>
+  </canonskill>
+  <canonskill end='733288' experience='1' expidrefs='3' idrefs='3' lastused='2008' name='engineering' start='732253'>
+    <variant>Engineer</variant>
+    <variant>engineer</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='10,14' end='733718' experience='1' expidrefs='2,3,6' idrefs='2,3,10,6,14' lastused='2009' name='ethernet' start='730122'>
+    <variant>Ethernet</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='14' idrefs='14' name='fddi'>
+    <variant>FDDI</variant>
+  </canonskill>
+  <canonskill end='733718' experience='1' expidrefs='2,3,6' idrefs='2,3,6' lastused='2009' name='features' start='730122'>
+    <variant>features</variant>
+  </canonskill>
+  <canonskill end='730122' experience='1' expidrefs='8' idrefs='8' lastused='2000' name='flash' start='726835'>
+    <variant>Flash</variant>
+  </canonskill>
+  <canonskill name='framemaker'>
+    <variant>Framemaker</variant>
+  </canonskill>
+  <canonskill end='732253' experience='1' expidrefs='4' idrefs='4' lastused='2005' name='freelance writing' start='731918'>
+    <variant>Freelance writer</variant>
+  </canonskill>
+  <canonskill end='730488' experience='1' expidrefs='6' idrefs='6' lastused='2001' name='gateway' start='730122'>
+    <variant>gateways</variant>
+  </canonskill>
+  <canonskill experience='1' name='government'>
+    <variant>government</variant>
+  </canonskill>
+  <canonskill end='733288' experience='1' expidrefs='3' idrefs='3' lastused='2008' name='gps' start='732253'>
+    <variant>GPS</variant>
+  </canonskill>
+  <canonskill end='733718' experience='1' expidrefs='2,3' idrefs='2,3' lastused='2009' name='graphical user interface' start='732253'>
+    <variant>GUI</variant>
+  </canonskill>
+  <canonskill end='730122' experience='1' expidrefs='8' idrefs='8' lastused='2000' name='gsm' start='726835'>
+    <variant>GSM</variant>
+  </canonskill>
+  <canonskill end='726835' experience='1' expidrefs='9' idrefs='9' lastused='1991' name='hard drives' start='723183'>
+    <variant>disk drives</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='http' start='733728'>
+    <variant>http</variant>
+  </canonskill>
+  <canonskill end='733288' experience='1' expidrefs='3' idrefs='3' lastused='2008' name='icl vme' start='732253'>
+    <variant>VME</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='ide' start='733728'>
+    <variant>IDE</variant>
+  </canonskill>
+  <canonskill end='731918' experience='1' expidrefs='5' idrefs='5' lastused='2004' name='imaging' start='731827'>
+    <variant>imaging</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='11' idrefs='11' name='intel'>
+    <variant>Intel</variant>
+  </canonskill>
+  <canonskill end='726835' experience='1' expidrefs='9' idrefs='9' lastused='1991' name='intel x86' start='723183'>
+    <variant>Intel X86</variant>
+  </canonskill>
+  <canonskill end='730488' experience='1' expidrefs='6' idrefs='6' lastused='2001' name='internet software' start='730122'>
+    <variant>internet access</variant>
+  </canonskill>
+  <canonskill end='733718' experience='1' expidrefs='2,6' idrefs='2,6' lastused='2009' name='ip' start='730122'>
+    <variant>IP</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='11' end='726835' experience='1' expidrefs='9' idrefs='9,11' lastused='1991' name='isdn' start='723183'>
+    <variant>ISDN</variant>
+  </canonskill>
+  <canonskill end='733718' experience='1' expidrefs='2,3,6' idrefs='2,3,6' lastused='2009' name='lan' start='730122'>
+    <variant>LAN</variant>
+  </canonskill>
+  <canonskill name='languages'>
+    <variant>languages</variant>
+  </canonskill>
+  <canonskill end='731918' experience='1' expidrefs='5' idrefs='5' lastused='2004' name='layout design' start='731827'>
+    <variant>layout</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='11' end='730122' experience='1' expidrefs='8' idrefs='8,11' lastused='2000' name='leadership' start='726835'>
+    <variant>Leadership</variant>
+    <variant>team leadership</variant>
+  </canonskill>
+  <canonskill name='linux'>
+    <variant>Linux</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='12' end='730488' experience='1' expidrefs='6' idrefs='6,12' lastused='2001' name='logic' start='730122'>
+    <variant>logic</variant>
+  </canonskill>
+  <canonskill name='lotus notes'>
+    <variant>notes</variant>
+  </canonskill>
+  <canonskill name='macintosh'>
+    <variant>Mac</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='11' end='730122' experience='1' expidrefs='8' idrefs='8,11' lastused='2000' name='marketing' start='726835'>
+    <variant>marketing</variant>
+    <variant>Product Marketing</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='10,13' idrefs='10,13' name='matlab'>
+    <variant>MatLab</variant>
+  </canonskill>
+  <canonskill end='732253' experience='1' expidrefs='4' idrefs='4' lastused='2005' name='meeting facilitation' start='731918'>
+    <variant>meetings</variant>
+  </canonskill>
+  <canonskill end='731918' experience='1' expidrefs='5,8,9' idrefs='5,8,9' lastused='2004' name='memory' start='723183'>
+    <variant>memory</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='mentoring' start='733728'>
+    <variant>Mentor</variant>
+  </canonskill>
+  <canonskill end='730488' experience='1' expidrefs='6,9' idrefs='6,9' lastused='2001' name='microsoft access' start='723183'>
+    <variant>access</variant>
+  </canonskill>
+  <canonskill name='microsoft office'>
+    <variant>Microsoft Office</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='microsoft project' start='733728'>
+    <variant>MS Project</variant>
+  </canonskill>
+  <canonskill end='733718' experience='1' expidrefs='2,3,9' idrefs='2,3,9' lastused='2009' name='microsoft windows' start='723183'>
+    <variant>win</variant>
+    <variant>Windows</variant>
+    <variant>windows PC</variant>
+  </canonskill>
+  <canonskill end='733718' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='microwave' start='733421'>
+    <variant>Microwave</variant>
+    <variant>microwave</variant>
+  </canonskill>
+  <canonskill end='730488' experience='1' expidrefs='6,8' idrefs='6,8' lastused='2001' name='modems' start='726835'>
+    <variant>modems</variant>
+  </canonskill>
+  <canonskill end='726835' experience='1' expidrefs='9' idrefs='9' lastused='1991' name='motherboards' start='723183'>
+    <variant>motherboards</variant>
+    <variant>Motherboard</variant>
+    <variant>motherboard</variant>
+  </canonskill>
+  <canonskill end='730488' experience='1' expidrefs='6,8' idrefs='6,8' lastused='2001' name='motorola hardware' start='726835'>
+    <variant>Motorola</variant>
+  </canonskill>
+  <canonskill name='multimedia'>
+    <variant>multimedia</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='15' idrefs='15' name='nec'>
+    <variant>NEC</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='11' idrefs='11' name='negotiation'>
+    <variant>Negotiation</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='netscape enterprise server' start='733728'>
+    <variant>Enterprise</variant>
+  </canonskill>
+  <canonskill end='730488' experience='1' expidrefs='6' idrefs='6' lastused='2001' name='network administration' start='730122'>
+    <variant>network management</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='14' end='733288' experience='1' expidrefs='3,6,9' idrefs='3,6,9,14' lastused='2008' name='networking' start='723183'>
+    <variant>network</variant>
+    <variant>Networking</variant>
+    <variant>networking</variant>
+  </canonskill>
+  <canonskill end='733718' experience='1' expidrefs='2,3,5' idrefs='2,3,5' lastused='2009' name='orcad' start='731827'>
+    <variant>OrCAD</variant>
+    <variant>OrCad</variant>
+  </canonskill>
+  <canonskill end='726835' experience='1' expidrefs='9' idrefs='9' lastused='1991' name='pbx' start='723183'>
+    <variant>PBX</variant>
+  </canonskill>
+  <canonskill end='733288' experience='1' expidrefs='3,5' idrefs='3,5' lastused='2008' name='pci' start='731827'>
+    <variant>PCI</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='12' idrefs='12' name='photography'>
+    <variant>photographer</variant>
+    <variant>Camera</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='12' idrefs='12' name='physics'>
+    <variant>Physics</variant>
+  </canonskill>
+  <canonskill end='730122' experience='1' expidrefs='8' idrefs='8' lastused='2000' name='planning' start='726835'>
+    <variant>product planning</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='11' idrefs='11' name='power supplies'>
+    <variant>power supplies</variant>
+  </canonskill>
+  <canonskill name='presentation skills'>
+    <variant>presentations</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='11' idrefs='11' name='processors'>
+    <variant>processors</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='11' end='730122' experience='1' expidrefs='8' idrefs='8,11' lastused='2000' name='programming' start='726835'>
+    <variant>Programming</variant>
+    <variant>programming</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='11' idrefs='11' name='project management'>
+    <variant>Project Management</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='14' end='730488' experience='1' expidrefs='6' idrefs='6,14' lastused='2001' name='protocols' start='730122'>
+    <variant>protocols</variant>
+  </canonskill>
+  <canonskill name='quality'>
+    <variant>quality</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,6,8' idrefs='1,6,8' lastused='2012' name='quality control' start='726835'>
+    <variant>Quality Management</variant>
+    <variant>quality management</variant>
+    <variant>QA</variant>
+  </canonskill>
+  <canonskill end='732253' experience='1' expidrefs='4' idrefs='4' lastused='2005' name='quark xpress' start='731918'>
+    <variant>Express</variant>
+  </canonskill>
+  <canonskill end='733718' experience='1' expidrefs='2,3' idrefs='2,3' lastused='2009' name='quick' start='732253'>
+    <variant>quick</variant>
+  </canonskill>
+  <canonskill end='733718' experience='1' expidrefs='2,3' idrefs='2,3' lastused='2009' name='radio' start='732253'>
+    <variant>radio</variant>
+  </canonskill>
+  <canonskill end='733288' experience='1' expidrefs='3' idrefs='3' lastused='2008' name='raid' start='732253'>
+    <variant>RAID</variant>
+  </canonskill>
+  <canonskill end='726835' experience='1' expidrefs='9' idrefs='9' lastused='1991' name='read' start='723183'>
+    <variant>read</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='11' idrefs='11' name='research'>
+    <variant>Research</variant>
+  </canonskill>
+  <canonskill end='731918' experience='1' expidrefs='5' idrefs='5' lastused='2004' name='routers' start='731827'>
+    <variant>routing</variant>
+  </canonskill>
+  <canonskill end='733718' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='sales' start='733421'>
+    <variant>sales</variant>
+  </canonskill>
+  <canonskill end='733288' experience='1' expidrefs='3' idrefs='3' lastused='2008' name='san' start='732253'>
+    <variant>SAN</variant>
+  </canonskill>
+  <canonskill end='733718' experience='1' expidrefs='2,3,5,8' idrefs='2,3,5,8' lastused='2009' name='schematic diagrams' start='726835'>
+    <variant>schematics</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='seminars' start='733728'>
+    <variant>seminars</variant>
+  </canonskill>
+  <canonskill end='730488' experience='1' expidrefs='6' idrefs='6' lastused='2001' name='snmp' start='730122'>
+    <variant>SNMP</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='software architecture' start='733728'>
+    <variant>Software Design</variant>
+    <variant>software design</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='11' end='730488' experience='1' expidrefs='6' idrefs='6,11' lastused='2001' name='sonet' start='730122'>
+    <variant>SONET</variant>
+  </canonskill>
+  <canonskill experience='1' name='specification'>
+    <variant>specification</variant>
+  </canonskill>
+  <canonskill end='730122' experience='1' expidrefs='8' idrefs='8' lastused='2000' name='strategic' start='726835'>
+    <variant>strategic</variant>
+  </canonskill>
+  <canonskill end='733718' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='streaming video' start='733421'>
+    <variant>streaming video</variant>
+  </canonskill>
+  <canonskill end='733288' experience='1' expidrefs='3,6,9' idrefs='3,6,9' lastused='2008' name='switches' start='723183'>
+    <variant>switches</variant>
+    <variant>switch</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='system architecture' start='733728'>
+    <variant>System Design</variant>
+  </canonskill>
+  <canonskill experience='1' name='system documentation'>
+    <variant>system documentation</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='11' idrefs='11' name='t1'>
+    <variant>T1</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='10,14' end='730488' experience='1' expidrefs='6' idrefs='10,6,14' lastused='2001' name='tcp/ip' start='730122'>
+    <variant>TCP/IP</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='11' idrefs='11' name='teaching'>
+    <variant>Teaching</variant>
+  </canonskill>
+  <canonskill end='733288' experience='1' expidrefs='3' idrefs='3' lastused='2008' name='teamwork' start='732253'>
+    <variant>Teamwork</variant>
+  </canonskill>
+  <canonskill name='technical support'>
+    <variant>technical support</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='11' end='733718' experience='1' expidrefs='2,3,8' idrefs='2,3,8,11' lastused='2009' name='technical writing' start='726835'>
+    <variant>user manuals</variant>
+    <variant>white papers</variant>
+    <variant>Technical Writing</variant>
+    <variant>technical writing</variant>
+    <variant>user documentation</variant>
+  </canonskill>
+  <canonskill end='733288' experience='1' expidrefs='3' idrefs='3' lastused='2008' name='telemetry' start='732253'>
+    <variant>telemetry</variant>
+  </canonskill>
+  <canonskill end='730122' experience='1' expidrefs='8' idrefs='8' lastused='2000' name='telephone skills' start='726835'>
+    <variant>telephony</variant>
+    <variant>phone</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='11' end='730488' experience='1' expidrefs='6' idrefs='6,11' lastused='2001' name='unix' start='730122'>
+    <variant>Unix</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='11' idrefs='11' name='vhdl'>
+    <variant>VHDL</variant>
+  </canonskill>
+  <canonskill end='733718' experience='1' expidrefs='2,3,5,6,9' idrefs='2,3,5,6,9' lastused='2009' name='video' start='723183'>
+    <variant>video</variant>
+  </canonskill>
+  <canonskill name='visio'>
+    <variant>Visio</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='13' idrefs='13' name='visual studio'>
+    <variant>MS Visual Studio</variant>
+  </canonskill>
+  <canonskill end='730488' experience='1' expidrefs='6' idrefs='6' lastused='2001' name='voip' start='730122'>
+    <variant>VoIP</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='web site production' start='733728'>
+    <variant>websites</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='15' idrefs='15' name='wiring'>
+    <variant>wiring</variant>
+  </canonskill>
+  <canonskill end='732253' experience='1' expidrefs='4' idrefs='4' lastused='2005' name='writing' start='731918'>
+    <variant>author</variant>
+    <variant>articles</variant>
+  </canonskill>
+  <canonskill end='733718' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='xml' start='733421'>
+    <variant>XML</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

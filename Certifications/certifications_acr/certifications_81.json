@@ -1,0 +1,159 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CMP", 
+            "Certification Name": "Certified Meeting Professional", 
+            "Type": "Core", 
+            "Certification ID": "2289", 
+            "Certifying Organization": "Convention Industry Council"
+        }, 
+        {
+            "Acronym": "CMP", 
+            "Certification Name": "Certified Meeting Professional", 
+            "Type": "Core", 
+            "Certification ID": "8129", 
+            "Certifying Organization": "Meeting Professionals International"
+        }, 
+        {
+            "Acronym": "CP", 
+            "Certification Name": "Certified Parliamentarian", 
+            "Type": "Core", 
+            "Certification ID": "3853", 
+            "Certifying Organization": "American Institute of Parliamentarians"
+        }, 
+        {
+            "Acronym": "CPP", 
+            "Certification Name": "Certified Professional Parliamentarian", 
+            "Type": "Core", 
+            "Certification ID": "3854", 
+            "Certifying Organization": "American Institute of Parliamentarians"
+        }, 
+        {
+            "Acronym": "CSEP", 
+            "Certification Name": "Certified Special Events Professional", 
+            "Type": "Core", 
+            "Certification ID": "2232", 
+            "Certifying Organization": "International Special Events Society"
+        }, 
+        {
+            "Acronym": "RP", 
+            "Certification Name": "Registered Parliamentarian", 
+            "Type": "Core", 
+            "Certification ID": "3856", 
+            "Certifying Organization": "National Association of Parliamentarians"
+        }, 
+        {
+            "Acronym": "PMI", 
+            "Certification Name": "PMI Scheduling Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "7421", 
+            "Certifying Organization": "Project Management Institute"
+        }, 
+        {
+            "Acronym": "SMMC", 
+            "Certification Name": "Strategic Meeting Management Certification", 
+            "Type": "Core", 
+            "Certification ID": "7998", 
+            "Certifying Organization": "Global Business Travel Association Academy"
+        }, 
+        {
+            "Acronym": "CDME", 
+            "Certification Name": "Certified Destination Marketing Executive", 
+            "Type": "Advanced", 
+            "Certification ID": "8138", 
+            "Certifying Organization": "Destination Marketing Association International"
+        }, 
+        {
+            "Acronym": "CGMP", 
+            "Certification Name": "Certified Global Meeting Planner ", 
+            "Type": "Core", 
+            "Certification ID": "5676", 
+            "Certifying Organization": "Connected International Meeting Professionals Association"
+        }, 
+        {
+            "Acronym": "CIMP", 
+            "Certification Name": "Certified Internet Meeting Professional", 
+            "Type": "Core", 
+            "Certification ID": "5677", 
+            "Certifying Organization": "Connected International Meeting Professionals Association"
+        }, 
+        {
+            "Acronym": "CMM", 
+            "Certification Name": "Certification in Meetings Management", 
+            "Type": "Core", 
+            "Certification ID": "0844", 
+            "Certifying Organization": "Meeting Professionals International"
+        }, 
+        {
+            "Acronym": "PRP", 
+            "Certification Name": "Professional Registered Parliamentarian", 
+            "Type": "Advanced", 
+            "Certification ID": "3857", 
+            "Certifying Organization": "National Association of Parliamentarians"
+        }, 
+        {
+            "Acronym": "CFEE", 
+            "Certification Name": "Certified Festival and Event Executive", 
+            "Type": "Advanced", 
+            "Certification ID": "8140", 
+            "Certifying Organization": "International Festivals & Events Association"
+        }, 
+        {
+            "Acronym": "CGMP", 
+            "Certification Name": "Certified Government Meeting Professional", 
+            "Type": "Core", 
+            "Certification ID": "9466", 
+            "Certifying Organization": "Society of Government Meeting Professionals"
+        }, 
+        {
+            "Acronym": "CEM", 
+            "Certification Name": "Certified in Exhibition Management", 
+            "Type": "Core", 
+            "Certification ID": "8139", 
+            "Certifying Organization": "International Association of Exhibitions and Events"
+        }, 
+        {
+            "Acronym": "CPPM", 
+            "Certification Name": "Certified Planner of Professional Meetings", 
+            "Type": "Advanced", 
+            "Certification ID": "5678", 
+            "Certifying Organization": "Connected International Meeting Professionals Association"
+        }, 
+        {
+            "Acronym": "CPCE", 
+            "Certification Name": "Certified Professional Catering Executive", 
+            "Type": "Advanced", 
+            "Certification ID": "8147", 
+            "Certifying Organization": "National Association of Catering Executives"
+        }, 
+        {
+            "Acronym": "CWP", 
+            "Certification Name": "Certified Wedding Planner", 
+            "Type": "Specialty", 
+            "Certification ID": "5911", 
+            "Certifying Organization": "The Wedding Planning Institute"
+        }, 
+        {
+            "Acronym": "CP-T", 
+            "Certification Name": "Certified Teacher of Parliamentary Procedure", 
+            "Type": "Core", 
+            "Certification ID": "3855", 
+            "Certifying Organization": "American Institute of Parliamentarians"
+        }, 
+        {
+            "Acronym": "PSP", 
+            "Certification Name": "Planning & Scheduling Professional", 
+            "Type": "Core", 
+            "Certification ID": "3668", 
+            "Certifying Organization": "AACE International, Inc."
+        }, 
+        {
+            "Acronym": "CERP", 
+            "Certification Name": "Certified Event Rental Professional", 
+            "Type": "Core", 
+            "Certification ID": "8944", 
+            "Certifying Organization": "American Rental Association"
+        }
+    ], 
+    "onet": "13112100"
+}

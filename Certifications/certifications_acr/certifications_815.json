@@ -1,0 +1,61 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Airport Certified Employee - Operations", 
+            "Type": "Specialty", 
+            "Certification ID": "5604", 
+            "Certifying Organization": "American Association of Airport Executives"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Airport Certified Employee - Communications", 
+            "Type": "Specialty", 
+            "Certification ID": "5607", 
+            "Certifying Organization": "American Association of Airport Executives"
+        }, 
+        {
+            "Acronym": "CAM", 
+            "Certification Name": "Certified Aviation Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "6080", 
+            "Certifying Organization": "National Business Aviation Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Airmen Certification", 
+            "Type": "Core", 
+            "Certification ID": "5136", 
+            "Certifying Organization": "Federal Aviation Administration"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Airport Certified Employee - Airfield Lighting Maintenance", 
+            "Type": "Specialty", 
+            "Certification ID": "5605", 
+            "Certifying Organization": "American Association of Airport Executives"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Airport Certified Employee - Security", 
+            "Type": "Specialty", 
+            "Certification ID": "5606", 
+            "Certifying Organization": "American Association of Airport Executives"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Medical Certification", 
+            "Type": "Core", 
+            "Certification ID": "5137", 
+            "Certifying Organization": "Federal Aviation Administration"
+        }, 
+        {
+            "Acronym": "AvMP", 
+            "Certification Name": "Aviation Management Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "9382", 
+            "Certifying Organization": "International Air Transport Association"
+        }
+    ], 
+    "onet": "53202200"
+}

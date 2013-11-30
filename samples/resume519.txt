@@ -1,0 +1,212 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734594' xml:space='preserve'>Contact
+Email: <contact><email>shijin.abraham@utah.edu</email>
+Email: <email>abraham@cs.utah.edu</email>
+Phone: <phone>385-234-1911</phone>
+<website>http://www.cs.utah.edu/~abraham</website>/
+
+                                        <name><givenname>Shijin</givenname> <surname>Abraham</surname></name></contact>
+<summary>Objective
+<objective>As a graduate student, I am seeking internship opportunities which will allow me to make meaningful
+contributions while utilizing my education background and my work experience.</objective></summary>
+
+<experience end='present' start='732526'>Employment summary
+<job end='present' id='1' pos='1' start='734505'><title>Research Assistant</title> at <employer>Scientific Computing and Imaging Institute</employer> (<employer>SCI</employer>), <employer>University of Utah</employer> from Mar-<daterange><start days='734505' iso8601='2012-01-01'>2012</start>
+to <end days='present' iso8601='2012-03-30'>present</end></daterange>.
+
+     <description>Worked with Dr. Orly Alter on TCGA Explorer, which is a tool for processing and analyzing data
+     from the Cancer Genome Atlas (TCGA). C++ and Qt framework were used in this project.</description></job>
+
+<job end='734352' id='2' naics='44312001' naics2='44' pos='2' sic='573407' sic2='57' start='732526'><title>System Software Engineer</title> at <employer>Hewlett-Packard</employer> from <daterange><start days='732526' iso8601='2006-08-01'>Aug-2006</start> to <end days='734352' iso8601='2011-08-01'>Aug-2011</end></daterange>.
+
+         <description>Member of release team for OpenVMS 8.4 and OpenVMS 8.3-1h1.
+         QA engineer for IPCI (IP Cluster Interconnect) feature for OpenVMS 8.4.
+         QA engineer for project OpenVMS as a guest OS on HP Integrity Virtual Machine.
+         Worked in filesystem QA team for HP-UX operating system.
+         Worked in QA team for OpenVMS support on Next Generation Integrity Servers.
+         Developed and maintained test tools for OpenVMS and HP-UX</description></job></experience>
+
+
+
+<education>Education
+Degree                                    Institution                               Year              GPA
+<school id='4'><degree level='18' name='Master of Science'>Master of Science</degree> in <major code='0402'>Computer Science</major>     <institution>University of Utah</institution>                        <daterange><start days='734413' iso8601='2011-10-01'>Fall 2011</start> -       <end days='731218' iso8601='2003-01-01'>3</end></daterange><gpa max='8' value='8'>.8</gpa>
+                                                                                    <address>Present</address></school>
+<school id='5'><degree level='16' name='Bachelor of Technology'>Bachelor of Technology</degree> in Computer        College of Engineering Trivandrum,        <daterange><start days='730853' iso8601='2002-01-01'>2002</start>-<end days='732314' iso8601='2006-01-01'>2006</end></daterange>         71%
+<institution>Science                                   Kerala University</institution>, <address><country iso3='IND'>India</country></address></school></education>
+
+
+<skills>Technical Skills
+Languages : <skills>C, Python, C++, Java, Shell Scripting
+Operating Systems: OpenVMS, Linux, HP-UX &amp; MS Windows.</skills></skills>
+
+
+<professional>Academic Summary
+<training>Fall 2011                                         Spring 2012
+Advanced Algorithms                               Operating Systems
+Database Kernel &amp; Large Data Management           Computer Architecture
+Compiler Based Autotuning-Seminar                 Data Mining
+Colloquium                                        Independent Study with Dr. Jeff M Philips</training>
+
+
+Academic Projects
+    <description>&quot;Web based information retrieval system¨ in Navigation Software Simulation Division of ISRO
+      (Indian Space Research Organization) Inertial Systems Unit (2006)</description></professional>
+                                             <experience>Employment History
+       <job id='3'><title>Project                                                   Description</title>
+   <description>OpenVMS 8.4 &amp;            OpenVMS version 8.4 is the most recent version of OpenVMS operating system.
+   OpenVMS 8.3-1h1          My responsibilities included
+                                 Investigation of the planned features.
+                                 Preparation of test plan and test case documents.
+                                 Automation of the test cases and modification of the test tools
+                                 Planning and setup of the test bed.
+                                 Execution of the tests and bug reporting.
+                                 Working closely with the developers in order to triage high impact bugs
+OpenVMS v8.4 as a guest     This project implemented support for HP Virtual machine in the OpenVMS
+operating system with HP    operating system. My responsibilities involved
+Integrity Virtual Machine        Testing out the early prototypes of HPVM and providing feedback
+                                 Feature investigation, test plan development, implementation and
+                                     execution of test cases.
+                                 Automation of tests and modification of the test infrastructure to support
+                                     it.
+      IPCI project          IP cluster interconnect was a feature that enabled the use of TCP/IP protocol for
+                            OpenVMS cluster communication. I was involved in
+                                 Testing the early versions of the IPCI product and providing feedback.
+                                 Design, implementation, execution and automation of tests.
+                                 Setup and maintenance of IPCI test bed for testing and customer
+                                     environment reproduction.
+                                 Supporting the development team to reproduce and isolate customer
+                                     issues.
+      HP-UX                 I was involved in test case development and automation for HP-UX filesystem.
+OpenVMS cluster testing     OpenVMS clustering is the unique selling proposition of the OpenVMS
+                            operating system. My responsibilities included
+                                 Designing new test cases and updating the existing test tools.
+                                 Studying customer reported issues and replicating customer setup and
+                                     usage scenarios in the test bed.
+                                 Regression testing on the cluster software and measuring performance.
+                                 Assisting the customer support and presales team in customer
+                                     engagements.
+   Test infrastructure      I worked on development and maintenance of several test suites on OpenVMS
+    development &amp;           and HP-UX. The languages used included Python, Perl, C &amp; Korn Shell.
+      maintenance
+Supporting OpenVMS on       OpenVMS support for the latest Itanium based servers .My responsibilities
+   &quot;Next Generation         included
+   Integrity Servers&quot;            Investigation of the features of new hardware
+                                 Design of test cases, implementation and execution of test.
+                                 Supporting customer engagements by the developer team.</description></job></experience>
+</resume>
+
+<skillrollup version='1'>
+  <canonskill experience='1' expidrefs='3' idrefs='3' name='automation'>
+    <variant>Automation</variant>
+    <variant>automation</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='3' idrefs='3' name='c'>
+    <variant>C</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='c + +' start='734505'>
+    <variant>C++</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='3' idrefs='3' name='clustering'>
+    <variant>clustering</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='3' idrefs='3' name='customer support'>
+    <variant>customer support</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='3' idrefs='3' name='design'>
+    <variant>Designing</variant>
+  </canonskill>
+  <canonskill end='734352' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='engineering' start='732526'>
+    <variant>engineer</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='3' idrefs='3' name='features'>
+    <variant>features</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='3' idrefs='3' name='hardware design'>
+    <variant>hardware
+                                 Design</variant>
+  </canonskill>
+  <canonskill end='734352' experience='1' expidrefs='2,3' idrefs='2,3' lastused='2011' name='hewlett packard' start='732526'>
+    <variant>HP</variant>
+  </canonskill>
+  <canonskill end='734352' experience='1' expidrefs='2,3' idrefs='2,3' lastused='2011' name='hp - ux' start='732526'>
+    <variant>HP-UX                 I</variant>
+    <variant>HP-UX</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='internet explorer' start='734505'>
+    <variant>Explorer</variant>
+  </canonskill>
+  <canonskill end='734352' experience='1' expidrefs='2,3' idrefs='2,3' lastused='2011' name='ip' start='732526'>
+    <variant>IP</variant>
+  </canonskill>
+  <canonskill name='java'>
+    <variant>Java</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='3' idrefs='3' name='ksh'>
+    <variant>Korn Shell</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='3' idrefs='3' name='languages'>
+    <variant>Languages</variant>
+    <variant>languages</variant>
+  </canonskill>
+  <canonskill name='linux'>
+    <variant>Linux</variant>
+  </canonskill>
+  <canonskill name='microsoft windows'>
+    <variant>MS Windows</variant>
+  </canonskill>
+  <canonskill end='734352' experience='1' expidrefs='2,3' idrefs='2,3' lastused='2011' name='next' start='732526'>
+    <variant>Next</variant>
+  </canonskill>
+  <canonskill end='734352' experience='1' expidrefs='2,3' idrefs='2,3' lastused='2011' name='openvms' start='732526'>
+    <variant>OpenVMS v</variant>
+    <variant>OpenVMS</variant>
+    <variant>OpenVMS 8.3</variant>
+    <variant>OpenVMS 8.4</variant>
+  </canonskill>
+  <canonskill end='734352' experience='1' expidrefs='2,3' idrefs='2,3' lastused='2011' name='operating systems' start='732526'>
+    <variant>Operating Systems</variant>
+    <variant>OS</variant>
+    <variant>operating system</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='3' idrefs='3' name='oracle developer 2000'>
+    <variant>developer</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='3' idrefs='3' name='perl'>
+    <variant>Perl</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='3' idrefs='3' name='plan development'>
+    <variant>plan development</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='3' idrefs='3' name='python'>
+    <variant>Python</variant>
+  </canonskill>
+  <canonskill end='734352' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='quality control' start='732526'>
+    <variant>QA</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='3' idrefs='3' name='reports'>
+    <variant>reporting</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='3' idrefs='3' name='sales'>
+    <variant>selling</variant>
+  </canonskill>
+  <canonskill end='734352' experience='1' expidrefs='2,3' idrefs='2,3' lastused='2011' name='servers' start='732526'>
+    <variant>Servers</variant>
+    <variant>servers</variant>
+  </canonskill>
+  <canonskill name='shell scripting'>
+    <variant>Shell Scripting</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='3' idrefs='3' name='tcp/ip'>
+    <variant>TCP/IP</variant>
+  </canonskill>
+  <canonskill end='734352' experience='1' expidrefs='2,3' idrefs='2,3' lastused='2011' name='test tools' start='732526'>
+    <variant>test tools</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='3' idrefs='3' name='unique'>
+    <variant>unique</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

@@ -1,0 +1,231 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734594' xml:space='preserve'><contact><name><givenname>Varun</givenname> <surname>Shukla</surname></name>                                             Backup / Storage Administrator(Netbackup)
+<phone>+91- 8800500478</phone> 	                                             
+Email : <email>eng.varunshukla@gmail.com</email></contact>
+
+
+<summary>Career Objective
+
+<objective>To work in challenging and motivating environment that helps me to expand the limits of my knowledge, ingenuity and
+provides opportunity for the development of myself and my company.</objective></summary>
+
+<education>Professional Qualification
+
+* <school id='3'><degree level='16' name='Bachelor of Technology'>B.Tech</degree> in <major code='1699'>Information Technology</major> from Shri Ramswaroop College of Engineering and Management with 64.5% in the year <daterange><start days='731218' iso8601='2003-01-01'>2003</start>-<end days='732679' iso8601='2007-01-01'>2007</end></daterange>
+* <degree level='12' name='Higher Secondary Certificate'>XII</degree> (<daterange><start days='730488' iso8601='2001-01-01'>2001</start>-<end days='731218' iso8601='2003-01-01'>2003</end></daterange>) Aggregate: 65% from <institution>Lucknow Public Inter College</institution></school></education>
+
+<experience end='present' start='733441'>Professional Qualification
+
+<job end='present' id='1' pos='1' start='733987'><description>Currently 11 Months of experience in Backup/Storage Support and have played notable roles as Tech Engineer and  SPOC, good experience in managing client relations. Currently working as Associate Engineer - Tech Support in Computer Sciences Corporation India, Chennai from August 2010 till date.</description>
+            Designation : <title>Associate Engineer</title>, Tech Support
+            Duration : <daterange><start days='733987' iso8601='2010-08-01'>August 2010</start> till date</daterange></job>
+
+ I worked in HCL Comnet from <job end='733987' id='2' pos='2' start='733441'><daterange><start days='733441' iso8601='2009-02-01'>February 2009</start> to <end days='733987' iso8601='2010-08-01'>August 2010</end></daterange> as <title>Specialist</title> in Blackberry and Exchange. <description>I have provided the support to EMC2   in the above mentioned domain. I have worked on the VPN and Wireless issue as well for the client.Also done Monitoring of backups through Avamar Consoles
+
+I worked in Accenture Services pvt. Ltd as Junior Software Developer in Mumbai for 2 months from 5-May-2008 to 25-June-2008. I am working on the Business Intelligence domain and had undergone the training on various tools like DB2, Informatica.
+
+I worked as a Technical Support Executive in Dell, Mohali for 7 months. I was supporting wide range of all the Dell Components including desktop, portables, printers etc. 
+
+
+
+Backup Management Skills
+
+* Audit application backup policies and environments to ensure integrity of backup and recovery activities
+* Capacity and performance Management
+* Perform root cause analysis for backup failures
+* Working on UNIX flavors and Windows Netbackup Enterprise servers.
+* Configuration of backup software for GUI changes and minor/major upgrades
+* Perform appropriate testing of backup domains after Operating System for minor upgrades
+* Restoration files/folders/Lotus Notes DB/Archive/Exchange/NDMP(filers) etc
+* Managing Tape Library/drives
+
+Global Account
+
+Australian Mutual Provident (AMP)
+Australian Mutual Provident (AMP) Australian Mutual Provident (AMP) is a leading regional wealth management. AMP is a Company with more than 3.4 million customers in Australia and New Zealand and over 3,400 employees. Continents,has 609 Windows / UNIX client servers under 5 Master servers running on Symantec Netbackup.
+
+
+BHP Billiton
+BHP, a leading global natural resources company, with a diversified commodity suite that included minerals, oil, gas and steel. One of Australia's oldest and largest companies, it was renowned for continuously developing new operations both domestically and internationally.
+The company has 900 clients under 10 master servers running on Symantec Netbackup.
+Technology: Symantec Netbackup
+
+JOB RESPONSIBLITIES:
+* Responsibilities include providing 24 X 7 offshore/remote support
+* Trouble shooting backup failures and recovery activities
+* Managing and administration of Physical and Virtual Tape Libraries.
+* Audit application backup policies and environments to ensure integrity of backup and recovery activities
+* Actively and pre-emotively determine possible faults and causes by the execution of pre-determined
+   health and operational checks.
+* Media Management for backups and recovery
+* Hardware /software fault detection and vendor liaison Liaise with customer accounts as required
+* Analyze and resolve escalated problems within target
+* Part of SRT(Service Restoration Team) and represent Team in any outages and also would ensure proper
+* Root Cause Analysis is found</description></job></experience>
+
+<skills>Technical Skills
+
+* <skills>Knowledge of Symantec Netbackup tools (5 Versions, 6 Versions &amp; 6.5 Versions)
+* Knowledge of backup and Recovery.
+* Knowledge of AD, Back Office Servers architecture and technology.
+* Knowledge of Blackberry Exchange Server.
+* Knowledge of basic programming languages like C, C++, SQL</skills>
+* <description>Knowledge of RSA Secure ID Administrator Console and VPN functionality.
+
+Achievements
+
+* Honor of RnR (Rewards and Recognition) as team member of the month twice for providing excellent
+customer service in HCL Comnet.</description></skills>
+
+<statements>Personal Demographics
+
+
+<personal>Fathers Name : Mr. Anil Kumar Shukla
+Date of Birth : <dob>07 March 1985</dob>
+Address : <citizenship>433</citizenship>/219 Ramnagar, Balaganj, Lucknow Uttapradesh-226003
+Sex : Male
+Marital Status : Single
+
+
+I hereby declare that all the data furnished above are true to the best of my knowledge.
+
+
+
+Place: Noida       							              Best Regards,
+Varun Shukla</personal></statements>
+
+
+
+
+</resume>
+
+<skillrollup version='1'>
+  <canonskill name='advertising'>
+    <variant>AD</variant>
+  </canonskill>
+  <canonskill end='733987' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='backup' start='733441'>
+    <variant>Backup</variant>
+    <variant>backup</variant>
+  </canonskill>
+  <canonskill name='basic'>
+    <variant>basic programming</variant>
+  </canonskill>
+  <canonskill end='733987' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='business intelligence' start='733441'>
+    <variant>Business Intelligence</variant>
+  </canonskill>
+  <canonskill name='c'>
+    <variant>C</variant>
+  </canonskill>
+  <canonskill name='c + +'>
+    <variant>C++</variant>
+  </canonskill>
+  <canonskill end='733987' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='computer hardware' start='733441'>
+    <variant>Hardware</variant>
+  </canonskill>
+  <canonskill end='733987' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='customer relations' start='733441'>
+    <variant>client</variant>
+    <variant>clients</variant>
+    <variant>client relations</variant>
+  </canonskill>
+  <canonskill name='customer service'>
+    <variant>excellent
+customer service</variant>
+  </canonskill>
+  <canonskill end='733987' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='dell computers' start='733441'>
+    <variant>Dell</variant>
+  </canonskill>
+  <canonskill experience='1' name='engineering'>
+    <variant>Engineer</variant>
+  </canonskill>
+  <canonskill end='733987' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='graphical user interface' start='733441'>
+    <variant>GUI</variant>
+  </canonskill>
+  <canonskill end='733987' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='ibm db/2' start='733441'>
+    <variant>DB2</variant>
+  </canonskill>
+  <canonskill end='733987' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='informatica' start='733441'>
+    <variant>Informatica</variant>
+  </canonskill>
+  <canonskill name='languages'>
+    <variant>languages</variant>
+  </canonskill>
+  <canonskill end='733987' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='lotus notes' start='733441'>
+    <variant>Lotus Notes</variant>
+  </canonskill>
+  <canonskill end='733987' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='management' start='733441'>
+    <variant>Management Skills</variant>
+    <variant>Managing</variant>
+    <variant>managing</variant>
+  </canonskill>
+  <canonskill end='733987' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='microsoft exchange' start='733441'>
+    <variant>Exchange</variant>
+  </canonskill>
+  <canonskill name='microsoft exchange server'>
+    <variant>Exchange Server</variant>
+  </canonskill>
+  <canonskill name='microsoft office'>
+    <variant>Office</variant>
+  </canonskill>
+  <canonskill end='733987' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='microsoft windows' start='733441'>
+    <variant>Windows</variant>
+  </canonskill>
+  <canonskill end='733987' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='natural' start='733441'>
+    <variant>natural</variant>
+  </canonskill>
+  <canonskill end='733987' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='netscape enterprise server' start='733441'>
+    <variant>Enterprise</variant>
+  </canonskill>
+  <canonskill end='733987' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='oil painting' start='733441'>
+    <variant>oil</variant>
+  </canonskill>
+  <canonskill end='733987' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='operating systems' start='733441'>
+    <variant>Operating System</variant>
+  </canonskill>
+  <canonskill end='733987' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='oracle dba' start='733441'>
+    <variant>DB</variant>
+  </canonskill>
+  <canonskill end='733987' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='oracle developer 2000' start='733441'>
+    <variant>Developer</variant>
+  </canonskill>
+  <canonskill end='733987' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='performance management' start='733441'>
+    <variant>performance Management</variant>
+  </canonskill>
+  <canonskill end='733987' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='policy analysis' start='733441'>
+    <variant>policies</variant>
+  </canonskill>
+  <canonskill end='733987' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='printers' start='733441'>
+    <variant>printers</variant>
+  </canonskill>
+  <canonskill end='733987' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='servers' start='733441'>
+    <variant>Servers</variant>
+    <variant>servers</variant>
+  </canonskill>
+  <canonskill name='sql'>
+    <variant>SQL</variant>
+  </canonskill>
+  <canonskill end='733987' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='symantec packages' start='733441'>
+    <variant>Symantec</variant>
+  </canonskill>
+  <canonskill end='733987' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='technical support' start='733441'>
+    <variant>Tech Support</variant>
+    <variant>Technical Support</variant>
+  </canonskill>
+  <canonskill end='733987' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='troubleshooting' start='733441'>
+    <variant>Trouble shooting</variant>
+  </canonskill>
+  <canonskill end='733987' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='unix' start='733441'>
+    <variant>UNIX</variant>
+  </canonskill>
+  <canonskill end='733987' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='upgrades' start='733441'>
+    <variant>upgrades</variant>
+  </canonskill>
+  <canonskill end='733987' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='veritas netbackup' start='733441'>
+    <variant>Netbackup</variant>
+  </canonskill>
+  <canonskill end='733987' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='vpn' start='733441'>
+    <variant>VPN</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

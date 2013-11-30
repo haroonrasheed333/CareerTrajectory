@@ -1,0 +1,103 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Clinical Exercise Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "0915", 
+            "Certifying Organization": "American College of Sports Medicine"
+        }, 
+        {
+            "Acronym": "CWP", 
+            "Certification Name": "Certified Wellness Practitioner", 
+            "Type": "Advanced", 
+            "Certification ID": "8929", 
+            "Certifying Organization": "National Wellness Institute"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Heart Rate Performance Specialist", 
+            "Type": "Core", 
+            "Certification ID": "8600", 
+            "Certifying Organization": "National Exercise and Sports Trainers Association"
+        }, 
+        {
+            "Acronym": "HFs", 
+            "Certification Name": "Certified Health Fitness Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "0912", 
+            "Certifying Organization": "American College of Sports Medicine"
+        }, 
+        {
+            "Acronym": "BCN", 
+            "Certification Name": "Board Certified in Neurofeedback", 
+            "Type": "Specialty", 
+            "Certification ID": "6711", 
+            "Certifying Organization": "Biofeedback Certification International Alliance"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Technician Certification in Biofeedback", 
+            "Type": "Specialty", 
+            "Certification ID": "6716", 
+            "Certifying Organization": "Biofeedback Certification International Alliance"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Conditioning Specialist Certification", 
+            "Type": "Core", 
+            "Certification ID": "2039", 
+            "Certifying Organization": "National Strength Professionals Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Post Rehab Conditioning Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "5097", 
+            "Certifying Organization": "American Academy of Health, Fitness, & Rehabilitation Professionals"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Orthopedic Exercise Specialty Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "9111", 
+            "Certifying Organization": "American Council on Exercise"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Technician Certification in Neurofeedback", 
+            "Type": "Specialty", 
+            "Certification ID": "6715", 
+            "Certifying Organization": "Biofeedback Certification International Alliance"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Therapeutic Exercise Specialty Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "9112", 
+            "Certifying Organization": "American Council on Exercise"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Perinatal Fitness Educator", 
+            "Type": "Specialty", 
+            "Certification ID": "5775", 
+            "Certifying Organization": "International Childbirth Education Association"
+        }, 
+        {
+            "Acronym": "EPC", 
+            "Certification Name": "Exercise Physiologist Certification", 
+            "Type": "Core", 
+            "Certification ID": "7615", 
+            "Certifying Organization": "American Society of Exercise Physiologists"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Registered Clinical Exercise Physiologist", 
+            "Type": "Core", 
+            "Certification ID": "0911", 
+            "Certifying Organization": "American College of Sports Medicine"
+        }
+    ], 
+    "onet": "29112800"
+}

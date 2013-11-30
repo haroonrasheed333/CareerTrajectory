@@ -1,0 +1,320 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Corrosion Technician", 
+            "Type": "Core", 
+            "Certification ID": "1145", 
+            "Certifying Organization": "NACE International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification in Construction Materials Testing - Soil Level II", 
+            "Type": "Advanced", 
+            "Certification ID": "7788", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Highway Design - Level I", 
+            "Type": "Core", 
+            "Certification ID": "5372", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "CET", 
+            "Certification Name": "Certified Engineering Technician - Automatic Sprinkler System Layout", 
+            "Type": "Specialty", 
+            "Certification ID": "0963", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "CTCI", 
+            "Certification Name": "Concrete Transportation Construction Inspector", 
+            "Type": "Core", 
+            "Certification ID": "0802", 
+            "Certifying Organization": "American Concrete Institute International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification in Construction Materials Testing - Soils Level I", 
+            "Type": "Core", 
+            "Certification ID": "5358", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification in Construction Materials Testing - Soil Level IV", 
+            "Type": "Advanced", 
+            "Certification ID": "7790", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Geotechnical Engineering Technology - Laboratory Level II", 
+            "Type": "Advanced", 
+            "Certification ID": "7807", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Geotechnical Engineering Technology - Laboratory III", 
+            "Type": "Advanced", 
+            "Certification ID": "7808", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Highway Materials - Level II", 
+            "Type": "Advanced", 
+            "Certification ID": "7825", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification in Construction Materials Testing - Concrete Level II", 
+            "Type": "Advanced", 
+            "Certification ID": "7785", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification in Construction Materials Testing - Concrete Level III", 
+            "Type": "Advanced", 
+            "Certification ID": "7786", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "CCS", 
+            "Certification Name": "Certified Construction Specifier", 
+            "Type": "Advanced", 
+            "Certification ID": "1426", 
+            "Certifying Organization": "Construction Specifications Institute"
+        }, 
+        {
+            "Acronym": "CET", 
+            "Certification Name": "Certified Engineering Technician - Inspection and Testing of Water-Based Systems", 
+            "Type": "Specialty", 
+            "Certification ID": "0964", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Highway Materials - Level IV", 
+            "Type": "Advanced", 
+            "Certification ID": "7827", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification in Construction Materials Testing - Concrete Level IV", 
+            "Type": "Advanced", 
+            "Certification ID": "7787", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "CET", 
+            "Certification Name": "Certified Engineering Technician - Fire Alarm Systems", 
+            "Type": "Specialty", 
+            "Certification ID": "0965", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Highway Design - Level II", 
+            "Type": "Advanced", 
+            "Certification ID": "7822", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "CTM", 
+            "Certification Name": "Certified Technology Manager", 
+            "Type": "Core", 
+            "Certification ID": "0859", 
+            "Certifying Organization": "Association of Technology, Management, and Applied Engineering"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Highway Materials - Level I", 
+            "Type": "Core", 
+            "Certification ID": "5374", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Highway Construction - Level IV", 
+            "Type": "Advanced", 
+            "Certification ID": "7821", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "CCI", 
+            "Certification Name": "Associate Concrete Transportation Construction Inspector", 
+            "Type": "Core", 
+            "Certification ID": "0801", 
+            "Certifying Organization": "American Concrete Institute International"
+        }, 
+        {
+            "Acronym": "CDT", 
+            "Certification Name": "Construction Documents Technologist", 
+            "Type": "Core", 
+            "Certification ID": "1425", 
+            "Certifying Organization": "Construction Specifications Institute"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Control Center Operations Technician", 
+            "Type": "Core", 
+            "Certification ID": "5404", 
+            "Certifying Organization": "National Center for Construction Education and Research"
+        }, 
+        {
+            "Acronym": "D.GE", 
+            "Certification Name": "Diplomate, Geotechnical Engineering", 
+            "Type": "Advanced", 
+            "Certification ID": "8768", 
+            "Certifying Organization": "Academy of Geo-Professionals"
+        }, 
+        {
+            "Acronym": "HFDP", 
+            "Certification Name": "Healthcare Facility Design Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "5846", 
+            "Certifying Organization": "American Society of Heating, Refrigerating and Air-Conditioning Engineers"
+        }, 
+        {
+            "Acronym": "CSTT", 
+            "Certification Name": "Concrete Strength Testing Technician", 
+            "Type": "Core", 
+            "Certification ID": "0798", 
+            "Certifying Organization": "American Concrete Institute International"
+        }, 
+        {
+            "Acronym": "CET", 
+            "Certification Name": "Certified Engineering Technician - Special Hazards Suppression Systems", 
+            "Type": "Specialty", 
+            "Certification ID": "0962", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Geotechnical Engineering Technology - Exploration Level I", 
+            "Type": "Core", 
+            "Certification ID": "5363", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Geotechnical Engineering Technology - Generalist Level I", 
+            "Type": "Core", 
+            "Certification ID": "5359", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Geotechnical Engineering Technology - Generalist Level II", 
+            "Type": "Core", 
+            "Certification ID": "7804", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Geotechnical Engineering Technology - Laboratory Level IV", 
+            "Type": "Advanced", 
+            "Certification ID": "7809", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Geotechnical Engineering Technology - Construction Level II", 
+            "Type": "Advanced", 
+            "Certification ID": "7798", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Geotechnical Engineering Technology - Generalist IV", 
+            "Type": "Advanced", 
+            "Certification ID": "7806", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification in Construction Materials Testing - Soil Level III", 
+            "Type": "Advanced", 
+            "Certification ID": "7789", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Highway Design - Level III", 
+            "Type": "Advanced", 
+            "Certification ID": "7823", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Highway Design - Level IV", 
+            "Type": "Advanced", 
+            "Certification ID": "7824", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Geotechnical Engineering Technology - Construction Level I", 
+            "Type": "Core", 
+            "Certification ID": "5362", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Geotechnical Engineering Technology - Laboratory Level I", 
+            "Type": "Core", 
+            "Certification ID": "5364", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Geotechnical Engineering Technology - Generalist Level III", 
+            "Type": "Advanced", 
+            "Certification ID": "7805", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "CSTM", 
+            "Certification Name": "Certified Senior Technology Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "0860", 
+            "Certifying Organization": "Association of Technology, Management, and Applied Engineering"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Highway Materials - Level III", 
+            "Type": "Advanced", 
+            "Certification ID": "7826", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Highway Construction - Level I", 
+            "Type": "Core", 
+            "Certification ID": "5371", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Highway Construction - Level III", 
+            "Type": "Advanced", 
+            "Certification ID": "7820", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Highway Construction - Level II", 
+            "Type": "Advanced", 
+            "Certification ID": "7819", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }
+    ], 
+    "onet": "17302200"
+}

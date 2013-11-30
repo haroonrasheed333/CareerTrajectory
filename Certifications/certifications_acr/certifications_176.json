@@ -1,0 +1,40 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CRE", 
+            "Certification Name": "Certified Reliability Engineer", 
+            "Type": "Advanced", 
+            "Certification ID": "0792", 
+            "Certifying Organization": "American Society for Quality"
+        }, 
+        {
+            "Acronym": "SOC", 
+            "Certification Name": "System Operator Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "5723", 
+            "Certifying Organization": "North American Electric Reliability Corporation"
+        }, 
+        {
+            "Acronym": "CMRP", 
+            "Certification Name": "Certified Maintenance & Reliability Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "7991", 
+            "Certifying Organization": "Society for Maintenance & Reliability Professionals"
+        }, 
+        {
+            "Acronym": "GDTP", 
+            "Certification Name": "Geometric Dimensioning & Tolerancing Professional - Technologist", 
+            "Type": "Advanced", 
+            "Certification ID": "2153", 
+            "Certifying Organization": "American Society of Mechanical Engineers International"
+        }, 
+        {
+            "Acronym": "CQE", 
+            "Certification Name": "Certified Quality Engineer", 
+            "Type": "Advanced", 
+            "Certification ID": "0790", 
+            "Certifying Organization": "American Society for Quality"
+        }
+    ], 
+    "onet": "17219902"
+}

@@ -1,0 +1,19 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CLS", 
+            "Certification Name": "Certified Lubrication Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "2107", 
+            "Certifying Organization": "Society of Tribologists and Lubrication Engineers"
+        }, 
+        {
+            "Acronym": "MLT", 
+            "Certification Name": "Level I Machine Lubrication Technician", 
+            "Type": "Core", 
+            "Certification ID": "5616", 
+            "Certifying Organization": "International Council for Machinery Lubrication"
+        }
+    ], 
+    "onet": "53603100"
+}

@@ -1,0 +1,355 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734582' xml:space='preserve'><contact><name><givenname>Eric</givenname> <givenname>Jay</givenname> <surname>Hollander</surname></name>
+<address lat='28.4609' lon='81.4761' majorcity='ORLANDO' state='FL'><street>6415 Orange Bay Ave</street>
+<city>Orlando</city>,<state abbrev='FL'>FL</state>  <postalcode>32819-4170</postalcode></address>
+    <email>erichollander@sbcglobal.net</email>
+Home: <phone type='home'>(314) 779-0150</phone>
+Work: <phone type='work'>(407) 301-7327</phone></contact> 
+
+
+<summary><objective>OBJECTIVES
+1.	I am seeking a permanent position (or long-term contract) as the team lead or functional manager for Video Teleconferencing (VTC) and/or Unified Communications (UC) services for an agency or company within the continental United States (CONUS), Western Europe.
+2.	I desire a team-oriented position which will utilize and challenge my leadership, management, customer service, and technical skills to enhance overall VTC and UC services for the organization.
+3.	I desire a position in which I can make the most of my current abilities, while allowing opportunities to continually enhance, improve, and expand my VTC and UC knowledge and skills.</objective></summary>
+
+<statements>Highlights
+
+<clearance>Security Clearance	Top Secret/SSBI
+
+Certification		Security+</clearance></statements>
+<skills><courses>Certification		Radvision Infrastructure I
+Certification		Radvision SCOPIA Visual Communications Paradigm I
+Certification		Polycom MGC 25/50/100 System Administration
+Certification		KIV 7M Expert Training
+Certification		DISN Video Services Global (DVSG) Level 1</courses></skills>
+
+<summary>18 years		Experience in VTC design, integration, installation, configuration, and operation.
+18 years		Experience in A/V design, integration, installation, configuration, and operation.
+18 years		VTC and A/V inventory procurement and management.
+10 years		Experience in the Department of Defense (DoD) military environment - USMC, USA, and DISA
+
+Knowledge of DoD Tactics, Techniques, and Procedures (TTP) and Standard Operating Procedures (SOP).
+Knowledge of Radvision, Tandberg (Codian), and Polycom (Accord) VTC infrastructure.</summary>
+<skills>Knowledge of <skills>Tandberg, Polycom, Radvision, Cisco Telepresence and Aethra video conferencing systems.
+Knowledge of Extron, Jupiter, Shure, and ClearOne A/V mixers and amplifiers.
+Knowledge of ISDN equipment in support of H.320 conferencing including: KIV-7, IMUX, Dial Isolator, Gateway, etc.
+Knowledge of IP equipment in support of H.323 video conferencing including: Gatekeeper, MCU, E.164, QoS, etc.
+Knowledge of VTC protocols including: H.261, H.263, H.264; G.711, G.722, G.728, AAC-LD, Siren-14; H.239; H.245, etc.
+Knowledge of VTC principles including: Gatekeeper zones, gateway translations, and RS-366 dialing
+Knowledge of Cisco switching and routing including: VLAN, sub netting, ACL, QoS, wireless access points, protocols, etc. 
+
+Proficient in multiple-responsibility situations including operations, security, quality, training, and management.
+Audio/Visual installation quality control professional with outstanding approval rates.
+Extensive training background, including: Providing the infrastructure training for the largest video network in the world.</skills></skills>
+
+<experience end='present' start='731126'>Work Experience
+<job end='present' id='1' pos='1' start='734282'><employer>SJTP  Consulting LLC</employer> (<daterange><start days='734282' iso8601='2011-05-23'>05/23/2011</start> -<end days='present' iso8601='2012-03-18'>Present</end></daterange>) -  Video Teleconferencing (<employer>VTC</employer>) <title>Engineer</title>
+<description>St. Louis ,Mo
+
+Supervise &amp;/or conduct &amp; document site surveys. Generate site survey reports to be used in design &amp;/or deployment of systems &amp; or equipment. Develop &amp;/or direct the development of reports to be used in design &amp;/or deployment of systems &amp; or equipment.
+Provide guidance &amp; assist the installation personnel in the implementation &amp; deployment of the engineered solutions in assigned projects.
+Represent the engineering group in project team reviews, providing information, suggestions &amp; recommendations.
+Oversee  installation of VTC  equipment for Government  and other configurations on Government provided equipment  and generate &amp; execute test  acceptance test plans on-site and train with the customer.
+Oversee installation of other venders onsite   
+Oversee other team members completion of their project</description></job>    
+
+<job end='734257' id='2' naics='33451103' naics2='33' pos='2' sic='348398' sic2='34' start='733744'><employer>Northrop Grumman</employer> (<daterange><start days='733744' iso8601='2009-12-01'>12/01/2009</start> - <end days='734257' iso8601='2011-04-28'>04/28/2011</end></daterange>) - Video Teleconferencing (<employer>VTC</employer>) <title>Engineer</title> 
+USAREUR; <address><city>Heidelberg</city>, <country iso3='DEU'>Germany</country></address> 
+
+<description>Directs the implementation of network control actions and provides essential technical support to on-site technicians in order to facilitate all troubleshooting techniques and processes.
+Continually refines the network management process, and trains Government personnel on network management strategies and the operation of the support systems, and makes recommendations for VTC infrastructure and processes - to include equipment purchasing requirements, configuration management, and standard of practices for VTC suites and hubs.  Customers include: Commander, USAREUR; Commander, 43rd Signal Battalion; and subordinate command groups.
+Supports Tier I, Tier II and Tier III help desks, along with the Joint Coalition Information Systems (JCIS) agency, regarding VTC and network administration support by configuring, troubleshooting, and maintaining US Army Europe's VTC systems - which includes over 200 conference sites throughout Europe and the Middle East.
+Provides superior customer service and support through knowledgeable and experienced answers and assistance to customers' issues, meticulous site surveys, fully researched equipment recommendations, and overall technical acumen.
+Provides immediate response, onsite tactical VTC support during military training exercises.</description></job>
+
+<job end='733621' id='3' pos='3' start='733034'><employer>Radvision</employer> (<daterange><start days='733034' iso8601='2007-12-22'>12/22/07</start> - <end days='733621' iso8601='2009-07-31'>07/31/2009</end></daterange>) - <title>Senior Video Engineer</title> 
+<employer>DISA Europe</employer>; <address><city>Stuttgart</city>, <country iso3='DEU'>Germany</country></address>
+
+<description>Researched, developed, and validated testing, training, and implementation material for the Radvision video infrastructure equipment for the DISN Video Services II (DVS-II) project.
+Trained DVS-II Tiers 1 and 2 on VTC operations and troubleshooting Tactics, Techniques, and Procedures (TTPs).
+Via project management discussions and hands on application, provided technical knowledge and experience vital to the successful operation of the DVS-II project.
+Configured and maintained Radvision Scopia 400 MCUs, Radvision Scopia GWP20 &amp; GWS40 Gateways, Radvision ECS (Enhanced Communication Sever) Gatekeepers, Radvision iVIEW Network Manager, Cisco Meeting Place/Meeting Time, and the Adtran Atlas 890.</description></job> 
+
+
+<job end='733034' id='4' pos='4' sic='4813' sic2='48' start='732905'><employer>York Telecom</employer> (<daterange><start days='732905' iso8601='2007-08-15'>08/15/2007</start> - <end days='733034' iso8601='2007-12-22'>12/22/2007</end></daterange>) - <title>Communication Technician</title>
+<employer>DISA CONUS</employer>; <address><city>Ft. McPherson</city>, <state abbrev='GA'>Georgia</state></address>
+
+<description>Operated, managed, and troubleshot, components of the Defense Video Services-Global (DVS-G) VTC Network comprised of Multipoint Control Units (MCU), Channel Service Units/Data Service Units (CSU/DSU), ISDN/H.320 transmission mediums and all peripheral equipment including: Polycom/Accord MGC-100s, Avaya Conferencing Bridges, KIV-7s, KIV-19s, and KG-194s on the DVSG network. 
+Via the Polycom/Accord MGC-100 monitoring tools, monitored and analyzed DVS-G network elements, alarms, and alerts, and identified the components/elements which led to call degradation. Accomplished this through analyzing the alarms provided and on a call by call basis. 
+Through telephone and direct video conferencing communication, effectively executed customer problem resolution and VTC call integrity.  Coordinated efforts in isolating, analyzing, identifying and resolving extremely difficult problems regarding audio, video, and connectivity.</description></job>
+
+<job end='732802' id='5' pos='5' start='732635'><employer>Radvision</employer> (<daterange><start days='732635' iso8601='2006-11-18'>11/18/2006</start> - <end days='732802' iso8601='2007-05-04'>05/04/2007</end></daterange>) - <title>Senior VTC Engineer</title> 
+<employer>DISA CONUS</employer>; <address><city>Scott AFB</city>, <state abbrev='IL'>Illinois</state></address>
+
+<description>Researched, wrote, and validated training material for Radvision infrastructure equipment for the DVS-II project.
+Trained DVS-II Tiers 1 and 2 on VTC operations and troubleshooting Tactics, Techniques, and Procedures (TTPs).
+Provided technical knowledge and hands on experience vital to the successful development and operation of the DVS-II project.</description></job>
+
+<job end='732639' id='6' naics='33451103' naics2='33' pos='6' sic='373101' sic2='37' start='732441'><employer>General Dynamics</employer> (<daterange><start days='732441' iso8601='2006-05-08'>05/08/2006</start>-<end days='732639' iso8601='2006-11-22'>11/22/2006</end></daterange> ) - <title>VTC Technician</title> 
+<address><city>Ft. McPherson</city>, <state abbrev='GA'>Georgia</state> <country iso3='USA'>United States</country></address>
+
+<description>Provided Daily VTC support for the Commanding General and his principal staff at Headquarters 3rd US Army supporting Operation Iraqi Freedom.
+Highly Skilled in all aspects of video teleconferencing. Including Polycom/Accord MCU 100 bridges, Tandberg and Polycom video conferencing terminals, Adtran IMUX's, KIV-7, KIV-19 and KG-194 encryption devices.
+Conducted on a daily basis secure and non-secure video conferences via direct connect, ISDN, and IP.
+Experienced in DVS-G VTC scheduling via DVS Web Scheduler (DVS-WS).
+Strong background in customer support and problem resolution.</description></job> 
+
+<job end='732418' id='7' naics='56131005' naics2='56' pos='7' sic='736103' sic2='73' start='732157'><employer>Express Personnel Services</employer> (<daterange><start days='732157' iso8601='2005-07-28'>07/28/2005</start>-<end days='732418' iso8601='2006-04-15'>04/15/2006</end></daterange>) - <title>VTC Coordinator</title>/Integrator 
+II MEF G-6; <address>Camp Jejune, <state abbrev='NC'>North Carolina</state></address>
+
+<description>Oversaw integration of equipment for II Marine Expeditionary Forces' (II MEF) 12 conference rooms providing for varying customer requirements and technologies.
+Scheduled visits from multiple audio/visual and VTC vendors to support II MEF VTC requirements.
+Received bids from vendors and briefed command on the best recommendation of the bids provided. 
+Trained Marine staff on how to schedule VTCs through the DVSG web site and worked with them in setting up a VTC for clients. Supervised VTC sessions. 
+Oversaw integration of equipment from contractors assuring that requirements for power, SIPR and NIPR drops were placed in each of the G-shop conference rooms. 
+Worked with clients on setting up online VTC request forms and writing of a Standard Operating Procedures (SOP) manual. 
+Continued work with II MEF on equipment requirements as they received funding for their projects.</description></job> 
+
+<job end='732120' id='8' naics='54151109' naics2='54' pos='8' sic='737904' sic2='73' start='731986'><employer>Computer Science Corporation</employer> (<daterange><start days='731986' iso8601='2005-02-07'>02/07/2005</start>-<end days='732120' iso8601='2005-06-21'>06/21/2005</end></daterange>) - <title>Lead VTC Tech and Facilitator</title> 
+<employer>III MEF G-6; Camp Courtney</employer>, <address><city>Okinawa</city>, <country iso3='JPN'>Japan</country></address>
+
+<description>Oversaw the renovation of the Commanding General's VTC Command Center by recommending the purchase and monitoring the installation of infrastructure components.  This support brought the Command Center to a level that enabled the Commanding General to supervise all garrison and tactical operations. 
+After the installation of the new infrastructure, trained Marine staff to operate, maintain and troubleshoot video teleconferencing (VTC) connections over Internet Protocol (IP), ISDN, DVSG directly through an Accord MGC-100; AMX control panel operation; and local and remote COMSEC device (KIV-7 and KG-175 Taclane) operation, troubleshooting, and Over the Air Rekey (OTAR) procedures.
+Responsible for maintaining and updating proper communication security (COMSEC) encryption keys and devices (KIV-7 &amp; KG-175 Taclane). 
+Oversaw that all scheduled VTCs were on time, as specified on the customer request form, and ensured that the VTC technicians coordinated thoroughly with all distant end facilitators to ensure all needs were met, all conferences started promptly, and all required participants were prepared.</description></job> 
+
+<job end='731699' id='9' naics='33999936' naics2='33' pos='9' sic='873101' sic2='87' start='731334'><employer>ITT Industries Systems</employer> Division (<daterange><start days='731334' iso8601='2003-04-27'>04/27/2003</start>-<end days='731699' iso8601='2004-04-26'>04/26/2004</end></daterange>) - <title>Lead Video Conferencing Technician</title> 
+<description>CFLCC; Camp Arifjan, Kuwait 
+
+Set up all VTCs for Combined Forces Land Component Commander (CFLCC), Third Army general officers and subordinate command staff officers throughout Southwest Asia and the United States.
+Established, maintained and troubleshot video teleconferencing (VTC) connections over Internet Protocol (IP), ISDN, and directly through an Accord MGC-100 VTC bridge and local and remote COMSEC devices (KIV-7 &amp; KG-175 Taclane).
+Responsible for maintaining and updating proper communication security (COMSEC) encryption keys and devices (KIV-7 &amp; KG-175 Taclane). 
+Oversaw the maintenance and daily operations of three VTC suites throughout the Command Center, including: Upgrading the system software and hardware on the Polycom Accord MGC 100 and performed daily checks on the Cisco router to insure connectivity on all IP devices. 
+Scheduled all VTCs from an intranet website; coordinated client requirements for audio/visual needs necessary for use during their VTC. 
+Worked with vendors to  install and configure equipment for the Command Center, pulling electrical cables, XLR cables, and RJ 45 Ethernet cables. 
+Monitored H.320 and H.323 network activity; locally and remotely. Diagnosed and resolved network and equipment failures. Coordinated and documented troubleshooting procedures on DVSG network.</description></job> 
+
+<job end='731330' id='10' naics='32532004' naics2='32' pos='10' sic='516916' sic2='51' start='731126'><employer>Monsanto</employer> (<daterange><start days='731126' iso8601='2002-10-01'>10/01/2002</start>-<end days='731330' iso8601='2003-04-23'>04/23/2003</end></daterange>) - <title>Assistant Director of Audio</title>-Visual and Special Events 
+<address><city>St. Louis</city>, <state abbrev='MO'>Missouri</state> <country iso3='USA'>United States</country></address> 
+
+<description>In charge of audio visual for all Chief Executive Officer (CEO) special events and global meetings.
+Oversaw VTC contractors during CEO's town hall meetings, which were broadcast throughout offices worldwide.
+Oversaw renovations and installation of new equipment in five auditoriums from blueprints which resulted in better departmental efficiency resulting in less technical problems and lost time. 
+Oversaw the operation and maintenance of the following equipment in five auditoriums.</description></job></experience>
+
+<education>Education
+Lindbergh <school id='11'><degree level='12'>High school Graduate</degree> of <completiondate days='725739' iso8601='1988-01-01'>1988</completiondate>
+14 hours, <major code='0499'>Communications</major>, <institution>Washington University - University College</institution> (<address><city>St. Louis</city>, <state abbrev='MO'>MO</state></address>) <daterange><start days='727566' iso8601='1993-01-01'>1993</start>-<end days='729027' iso8601='1997-01-01'>1997</end></daterange> 
+20 hours, Television and Radio Production, <institution>Meramec Junior College</institution> (<address><city>St. Louis</city>, <state abbrev='MO'>MO</state></address>) <daterange><start days='725739' iso8601='1988-01-01'>1988</start>-<end days='726470' iso8601='1990-01-01'>1990</end></daterange>
+
+Additional Information
+<courses>Certification - KIV 7M Expert Training</courses> (<completiondate days='733421' iso8601='2009-01-12'>01/12/2009</completiondate>) - <description>40 hours. 
+A week-long, 40-hour course developed to master the KIV-7M encryption device. 
+
+Certification - Radvision SCOPIA Visual Communications Paradigm I (04/17/2007) - 32 hours. 
+A hands-on course to assist System Engineers and IT managers fully understand the features, benefits and overall operation of RADVISIONs SCOPIA 100/400 conferencing solutions. The SCOPIA 100/400 conferencing solutions are part of RADVISIONs complete infrastructure offering that includes multipoint conferencing units, firewall traversal, gateways, desktop conferencing and management for voice, video and data communications.
+Participants will learn to install, configure and maintain RADVISION equipment, and basic troubleshooting skills.</description></school>
+
+<courses>Certification - Radvision 3G Visual Communications Infrastructure</courses> (<completiondate days='732721' iso8601='2007-02-12'>02/12/2007</completiondate>) - 32 hours.</education> 
+<professional><description>Hands-on course to assist System Engineers and IT managers fully understand the features, benefits and overall operation of RADVISIONs SCOPIA 3G products, including ECS, 3G-324M Gateways, N30 Gateway, G21 and the SCOPIA 1000 chassis. Participants will learn to install, configure and maintain RADVISION equipment and basic troubleshooting skills. 
+
+Hands on training with Cisco TelePresence (10/23/2007-15 hours 
+Hands-on course to assist System Engineers  fully understanding the features and configuration and overall operation of Cisco TelePresence.
+
+Certification - Polycom MGC 25/50/100 System Administration (08/12/2006) - 16 hours 
+A hands-on program covering how to configure and control the family of MCUs, the 25/50 and 100 Models from a Users and System Administrators level. 
+
+Certification - DISN Video Services Global (DVSG) Level-1 (06/15/2006) - 40 hours 
+The DISN Defense Video Services Global (DVSG) Level-1 class certifies video teleconferencing facilitators enabling them to properly conduct VTCs as outlined by DISA policies and procedures.</description></professional>
+
+
+</resume>
+
+<skillrollup version='1'>
+  <canonskill education='1' name='3g'>
+    <variant>3G</variant>
+  </canonskill>
+  <canonskill end='732120' experience='1' expidrefs='8' idrefs='8' lastused='2005' name='a level' start='731986'>
+    <variant>a level</variant>
+  </canonskill>
+  <canonskill end='734257' experience='1' expidrefs='2,6,9' idrefs='2,6,9' lastused='2011' name='army' start='731334'>
+    <variant>Army</variant>
+  </canonskill>
+  <canonskill end='734257' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='assets recovery' start='733744'>
+    <variant>agency</variant>
+  </canonskill>
+  <canonskill end='733034' experience='1' expidrefs='4,7,9,10' idrefs='4,7,9,10' lastused='2007' name='audio' start='731126'>
+    <variant>Audio</variant>
+    <variant>audio</variant>
+  </canonskill>
+  <canonskill end='733034' experience='1' expidrefs='4' idrefs='4' lastused='2007' name='avaya' start='732905'>
+    <variant>Avaya</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='11' idrefs='11' name='basic'>
+    <variant>basic</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='11' idrefs='11' name='benefits administration'>
+    <variant>benefits</variant>
+  </canonskill>
+  <canonskill end='733034' experience='1' expidrefs='4,6' idrefs='4,6' lastused='2007' name='bridges' start='732441'>
+    <variant>bridges</variant>
+    <variant>Bridges</variant>
+  </canonskill>
+  <canonskill end='731330' experience='1' expidrefs='10' idrefs='10' lastused='2003' name='broadcast' start='731126'>
+    <variant>broadcast</variant>
+  </canonskill>
+  <canonskill end='731699' experience='1' expidrefs='9' idrefs='9' lastused='2004' name='cabling' start='731334'>
+    <variant>cables</variant>
+  </canonskill>
+  <canonskill end='733621' experience='1' expidrefs='3' idrefs='3' lastused='2009' name='cisco' start='733034'>
+    <variant>Cisco</variant>
+  </canonskill>
+  <canonskill end='731699' experience='1' expidrefs='9' idrefs='9' lastused='2004' name='cisco routers' start='731334'>
+    <variant>Cisco router</variant>
+  </canonskill>
+  <canonskill end='731699' experience='1' expidrefs='9' idrefs='9' lastused='2004' name='computer hardware' start='731334'>
+    <variant>hardware</variant>
+  </canonskill>
+  <canonskill end='732639' experience='1' expidrefs='6,8' idrefs='6,8' lastused='2006' name='conferences' start='731986'>
+    <variant>conferences</variant>
+  </canonskill>
+  <canonskill end='734257' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='configuration management' start='733744'>
+    <variant>configuration management</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='11' end='732639' experience='1' expidrefs='6,8,9' idrefs='6,8,9,11' lastused='2006' name='cryptography' start='731334'>
+    <variant>encryption</variant>
+  </canonskill>
+  <canonskill end='733034' experience='1' expidrefs='4' idrefs='4' lastused='2007' name='csu' start='732905'>
+    <variant>CSU</variant>
+  </canonskill>
+  <canonskill end='732418' experience='1' expidrefs='7,9' idrefs='7,9' lastused='2006' name='customer relations' start='731334'>
+    <variant>client</variant>
+    <variant>clients</variant>
+  </canonskill>
+  <canonskill end='734257' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='customer service' start='733744'>
+    <variant>customer service</variant>
+  </canonskill>
+  <canonskill end='732639' experience='1' expidrefs='6' idrefs='6' lastused='2006' name='customer support' start='732441'>
+    <variant>customer support</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='11' idrefs='11' name='data communications'>
+    <variant>data communications</variant>
+  </canonskill>
+  <canonskill end='733034' experience='1' expidrefs='4' idrefs='4' lastused='2007' name='dsu' start='732905'>
+    <variant>DSU</variant>
+  </canonskill>
+  <canonskill end='731699' experience='1' expidrefs='9' idrefs='9' lastused='2004' name='ethernet' start='731334'>
+    <variant>Ethernet</variant>
+  </canonskill>
+  <canonskill end='731330' experience='1' expidrefs='10' idrefs='10' lastused='2003' name='event management' start='731126'>
+    <variant>special events</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='11' idrefs='11' name='features'>
+    <variant>features</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='11' idrefs='11' name='firewalls'>
+    <variant>firewall</variant>
+  </canonskill>
+  <canonskill end='732418' experience='1' expidrefs='7' idrefs='7' lastused='2006' name='forms' start='732157'>
+    <variant>forms</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='11' end='733621' experience='1' expidrefs='3' idrefs='3,11' lastused='2009' name='gateway' start='733034'>
+    <variant>Gateways</variant>
+    <variant>gateways</variant>
+    <variant>Gateway</variant>
+    <variant>gateway</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='government' start='733744'>
+    <variant>Government</variant>
+  </canonskill>
+  <canonskill end='734257' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='hubs' start='733744'>
+    <variant>hubs</variant>
+  </canonskill>
+  <canonskill end='734257' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='information systems' start='733744'>
+    <variant>Information Systems</variant>
+  </canonskill>
+  <canonskill end='732639' experience='1' expidrefs='6,8,9' idrefs='6,8,9' lastused='2006' name='ip' start='731334'>
+    <variant>IP</variant>
+  </canonskill>
+  <canonskill end='733034' experience='1' expidrefs='4,6,8,9' idrefs='4,6,8,9' lastused='2007' name='isdn' start='731334'>
+    <variant>ISDN</variant>
+  </canonskill>
+  <canonskill end='731330' experience='1' expidrefs='10' idrefs='10' lastused='2003' name='meeting facilitation' start='731126'>
+    <variant>meetings</variant>
+  </canonskill>
+  <canonskill name='microsoft access'>
+    <variant>access</variant>
+  </canonskill>
+  <canonskill end='734257' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='network administration' start='733744'>
+    <variant>network administration</variant>
+    <variant>network management</variant>
+  </canonskill>
+  <canonskill end='734257' experience='1' expidrefs='2,3,4,9' idrefs='2,3,4,9' lastused='2011' name='networking' start='731334'>
+    <variant>Network</variant>
+    <variant>network</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='personnel' start='733744'>
+    <variant>personnel</variant>
+  </canonskill>
+  <canonskill end='733034' experience='1' expidrefs='4,6' idrefs='4,6' lastused='2007' name='problem solving' start='732441'>
+    <variant>problem resolution</variant>
+  </canonskill>
+  <canonskill end='734257' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='process engineering' start='733744'>
+    <variant>processes</variant>
+  </canonskill>
+  <canonskill end='733621' experience='1' expidrefs='3' idrefs='3' lastused='2009' name='project management' start='733034'>
+    <variant>project management</variant>
+  </canonskill>
+  <canonskill name='protocols'>
+    <variant>protocols</variant>
+  </canonskill>
+  <canonskill end='734257' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='purchasing' start='733744'>
+    <variant>purchasing</variant>
+  </canonskill>
+  <canonskill name='quality'>
+    <variant>quality</variant>
+  </canonskill>
+  <canonskill name='quality control'>
+    <variant>quality control</variant>
+  </canonskill>
+  <canonskill name='routers'>
+    <variant>routing</variant>
+  </canonskill>
+  <canonskill end='732639' experience='1' expidrefs='6' idrefs='6' lastused='2006' name='scheduling' start='732441'>
+    <variant>scheduling</variant>
+  </canonskill>
+  <canonskill end='732418' experience='1' expidrefs='7' idrefs='7' lastused='2006' name='sop' start='732157'>
+    <variant>SOP</variant>
+  </canonskill>
+  <canonskill name='system administration'>
+    <variant>System Administration</variant>
+  </canonskill>
+  <canonskill end='734257' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='technical support' start='733744'>
+    <variant>technical support</variant>
+  </canonskill>
+  <canonskill end='733034' experience='1' expidrefs='4' idrefs='4' lastused='2007' name='telephone skills' start='732905'>
+    <variant>telephone</variant>
+  </canonskill>
+  <canonskill name='translation'>
+    <variant>translations</variant>
+  </canonskill>
+  <canonskill end='733034' experience='1' expidrefs='4' idrefs='4' lastused='2007' name='transmission' start='732905'>
+    <variant>transmission</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='11' end='734257' experience='1' expidrefs='2,3,5,8,9' idrefs='2,3,5,8,9,11' lastused='2011' name='troubleshooting' start='731334'>
+    <variant>troubleshoot</variant>
+    <variant>troubleshooting</variant>
+  </canonskill>
+  <canonskill end='731699' experience='1' expidrefs='9' idrefs='9' lastused='2004' name='upgrades' start='731334'>
+    <variant>Upgrading</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='11' end='733621' experience='1' expidrefs='3,4,6,8,9' idrefs='3,4,6,8,9,11' lastused='2009' name='video' start='731334'>
+    <variant>Video</variant>
+    <variant>video</variant>
+  </canonskill>
+  <canonskill end='733034' experience='1' expidrefs='4,6' idrefs='4,6' lastused='2007' name='video conferencing' start='732441'>
+    <variant>video conferencing</variant>
+  </canonskill>
+  <canonskill end='732418' experience='1' expidrefs='7,9' idrefs='7,9' lastused='2006' name='web site production' start='731334'>
+    <variant>web site</variant>
+    <variant>website</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

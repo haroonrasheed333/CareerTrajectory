@@ -1,0 +1,121 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734598' xml:space='preserve'>Curriculum Vitae
+<contact><name><givenname>Surbhi</givenname> <surname>Chhabra</surname></name>
+<address lat='39.1466' lon='84.5184' majorcity='CINCINNATI' state='OH'><street>3245 Bishop Street, Apt#24</street>* <city>Cincinnati</city>, <state abbrev='OH'>Ohio</state>-<postalcode>45220</postalcode></address>* Cell-<phone type='cell'>513-680-3848</phone>* <email>surbhichhabra@gmail.com</email></contact>
+<summary>Job Objective
+<objective>To work in a challenging environment that helps me grow professionally and develop interpersonal and research skills while applying learning in a variety of hands-on experiences. Ambitious student with strong laboratory skills and impressive research experience.</objective>
+
+Qualification Overview
+
+<summary>Well-qualified and technically-proficient Scientific Officer with one year of experience of working in an Oncology laboratory. 
+Substantial experience in sophisticated research techniques and technologies: Western Blotting, ELISA, transport study of various cancer drugs, cell cytotoxicity studies, cell culture and maintenance of different cell lines.
+Organized, take-charge professional with exceptional follow through abilities and detail orientation; able to plan and oversee projects from concept to successful conclusion. 
+Expertise in lab and field research, data collection/analysis and project management. 
+Experience working with cross-functional scientific and research teams.</summary></summary>
+
+<education>Education and Training 
+	
+<school id='4'><degree level='18' name='Master of Science'>M.S</degree>. <major code='0214'>Nutritional Sciences</major>, <institution>University of Cincinnati</institution>, <address><state abbrev='OH'>Ohio</state>, U.S.</address>				<daterange><start days='733410' iso8601='2009-01-01'>2009</start>-<end days='734505' iso8601='2012-01-01'>2012</end></daterange></school> 
+(Currently working on Research Thesis)
+<school id='5'><degree level='18' name='Master of Science'>M.S</degree>. <major code='0202'>Biochemistry</major>, <institution>University of Mumbai</institution>, <address><country iso3='IND'>India</country></address>.					<daterange><start days='732314' iso8601='2006-01-01'>2006</start>-<end days='733044' iso8601='2008-01-01'>2008</end></daterange></school>
+<school id='6'><degree level='16' name='Bachelor of Science'>B.Sc</degree>. <major code='0502 0202'>Life Science &amp; Biochemistry</major>, <institution>University of Mumbai</institution>, <address><country iso3='IND'>India</country></address>.			<daterange><start days='731218' iso8601='2003-01-01'>2003</start>-<end days='732314' iso8601='2006-01-01'>2006</end></daterange>
+	
+<courses>Training Program in Specialized Aspects of Biotechnology (Certificate Program): 		2006
+Attended program conducted at Institute of Chemical Technology (Formerly UDCT), University of Mumbai, covering : Basics, Tools &amp; Applications of Bioinformatics</courses></school></education>
+<experience end='present' start='733044'><description>Hands on Experience on the following Techniques:
+Fluorescence Insitu Hybridization (FISH) using centromeric, locus specific and telomeric probes.
+Immunocytochemical test for fragile X mental retardation protein.
+Various molecular techniques including DNA extraction and PCR.
+Observer for the demonstration of						2007
+(At National Institute for Research in Reproductive Health, Genetic Research Center- Mumbai.)
+Electron Microscopy
+Flow Cytometer</description>
+<employer>DNA Sequencing</employer> 
+<title>Confocal Microscope</title>
+
+
+
+
+
+
+
+Professional Experience
+
+<job end='present' id='1' naics='61131009' naics2='61' pos='1' sic='801101' sic2='80' start='734048'><jobtype>Part-Time</jobtype> Work Experience
+<title>Teaching Assistant</title>
+<employer>University of Cincinnati</employer>, Cincinnati.						    <daterange><start days='734048' iso8601='2010-10-01'>Fall 2010</start>-<end days='present' iso8601='2012-04-03'>present</end></daterange>
+
+<description>An Instructor of 'Cinci Science on Wheels' project (an effort to motivate fourth and fifth graders in Public Schools to choose Science as their careers in future). 
+Here is the link to follow updates: http://med.uc.edu/Pathways/Contact.aspx</description></job>
+<job end='present' id='2' pos='2' sic='829909' sic2='82' start='734048'><employer>Tutoring</employer>								      <daterange><start days='734048' iso8601='2010-10-01'>Fall 2010</start>-<end days='present' iso8601='2012-04-03'>present</end></daterange>
+<description>Currently tutoring undergraduate students at University of Cincinnati in Anatomy &amp; Physiology, Inorganic Chemistry, Organic Chemistry, General Lab Chemistry, Biology, Genetics and Biochemistry.</description></job>
+
+<job end='733410' id='3' pos='3' start='733044'><jobtype>Full time</jobtype> Work Experience
+<title>Scientific Officer</title>                    					                      <daterange><start days='733044' iso8601='2008-01-01'>2008</start>-<end days='733410' iso8601='2009-01-01'>2009</end></daterange>
+
+<employer>Panacea Biotec Labs</employer>, <address><city>Mumbai</city>, <country iso3='IND'>India</country></address>.
+
+<description>Worked in Biology research laboratory at the GRAND (Global Research and Development).
+Hands on experience on cytotoxicity studies with cancer cell lines.
+Transport Study of various cancer drugs using the same cell lines.
+Performed ELISA using EIA kit.
+Estimation of proteins done using Western Blotting.</description></job></experience>
+
+<skills>Computer Skills
+
+<skills>SAS Statistical Software, SPSS, MS Office 2000, MS Office XP, MS Office X, and General Internet skills.</skills></skills>
+<statements>Social Work and Extracurricular Activities
+<activities>Volunteer in Blood Donation Camps &amp; Medical Camps at Xavier's College / NGOs (2003-2006).
+Have worked for underprivileged people and street kids at the community center in the city (Mumbai, India) for a NGO Support (2008).
+Have been volunteering at the St.Vincent De Paul at the West End of Cincinnati for the last one year; helping them set up their food pantry and providing Nutrition Counseling (2010-present).
+Serving as the International Ambassador at the University of Cincinnati, helping in with International admissions and queries.</activities></statements>
+ 
+<references>References
+Available upon request.</references>
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='733410' experience='1' expidrefs='3' idrefs='3' lastused='2009' name='eia' start='733044'>
+    <variant>EIA</variant>
+  </canonskill>
+  <canonskill end='733410' experience='1' expidrefs='3' idrefs='3' lastused='2009' name='elisa' start='733044'>
+    <variant>ELISA</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='http' start='734048'>
+    <variant>http</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='instruction' start='734048'>
+    <variant>Instructor</variant>
+  </canonskill>
+  <canonskill name='internet software'>
+    <variant>Internet skills</variant>
+  </canonskill>
+  <canonskill name='microsoft office'>
+    <variant>MS Office</variant>
+  </canonskill>
+  <canonskill name='microsoft office 2000'>
+    <variant>MS Office 2000</variant>
+  </canonskill>
+  <canonskill experience='1' name='pcr'>
+    <variant>PCR</variant>
+  </canonskill>
+  <canonskill end='733410' experience='1' expidrefs='3' idrefs='3' lastused='2009' name='research' start='733044'>
+    <variant>Research</variant>
+    <variant>research</variant>
+  </canonskill>
+  <canonskill name='sas'>
+    <variant>SAS</variant>
+  </canonskill>
+  <canonskill name='spss'>
+    <variant>SPSS</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='tutoring' start='734048'>
+    <variant>tutoring</variant>
+  </canonskill>
+  <canonskill end='733410' experience='1' expidrefs='3' idrefs='3' lastused='2009' name='western blotting' start='733044'>
+    <variant>Western Blotting</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

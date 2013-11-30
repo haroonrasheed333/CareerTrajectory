@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734594' xml:space='preserve'><summary>Wilfredo Panganiban  
+<summary>Artist at Del Rey Studios
+Greater Los Angeles Area 
+Computer Software
+Current
+Creative Director at Del Rey Studios (Self-employed) 
+Cartoonist (Self - employed)
+Past
+Environment Artist at Electronic Arts Los Angeles
+Cinematics Artist at Electronic Arts Los Angeles
+Education
+University of California, Los Angeles
+Top of Form
+Bottom of Form
+Summary  
+At Del Rey Studios, my duties include creating 2D and 3D art for game companies.  These range from Storyboards, Graphic Design, motion graphics, as well as some animation.  I've also contributed in concept design and Low-Poly modeling of in-game units and structures, as well as environment art.
+On the side, I create a daily comic strip called Frank and Steinway.  It appears on Gocomics.com, in their Sherpa section.  This same strip is also published in a weekly paper in Northern California.
+Previously, I was an Artist/ Game  designer at Electronic Arts, Dragonstone Software and Disney Interactive.
+
+I have also been a nationally syndicated cartoonist.
+Specialties
+3D Studio Max, After Effects, Digital Fusion, Photoshop, Final Cut Pro, Boujou, traditional illustration</summary></summary>
+<experience end='present' start='727839'>Experience 
+<job end='present' id='1' pos='1' start='733865'><title>Artist</title>  
+<employer>Del Rey Studios</employer> (<jobtype>Self-employed</jobtype>)
+<jobtype>Self-Employed</jobtype>; Computer Games industry
+<daterange><start days='733865' iso8601='2010-04-01'>April 2010</start> - <end days='present' iso8601='2012-03-30'>Present</end></daterange> <description>(1 year 6 months)
+Freelance Cartoonist, and 3d environment artist
+
+Environment Artist
+Electronic Arts Los Angeles
+Computer Software industry</description></job>
+<job end='733865' id='2' pos='2' start='733165'><daterange><start days='733165' iso8601='2008-05-01'>May 2008</start> - <end days='733865' iso8601='2010-04-01'>April 2010</end></daterange> (2 years)
+
+<title>Cinematics Artist</title></job>
+<job end='733865' id='3' pos='3' sic='8231' sic2='82' start='732008'><employer>Electronic Arts Los Angeles
+Public Company; ERTS</employer>; Computer Games industry
+<daterange><start days='732008' iso8601='2005-03-01'>March 2005</start> - <end days='733865' iso8601='2010-04-01'>April 2010</end></daterange> (5 years 2 months)
+
+<jobtype>Freelance</jobtype> <title>Artist</title>
+<description>Buena Vista Games
+Public Company; Computer Software industry</description></job>
+<job end='731583' id='4' pos='4' start='731583'><daterange><start days='731583' iso8601='2004-01-01'>2004</start> - <end days='731583' iso8601='2004-01-01'>2004</end></daterange> (less than a year)
+
+<title>Creative Director</title>
+<description>Dragonstone Software
+Computer Software industry</description></job>
+<job end='731218' id='5' pos='5' start='729757'><daterange><start days='729757' iso8601='1999-01-01'>1999</start> - <end days='731218' iso8601='2003-01-01'>2003</end></daterange> (4 years)
+
+<title>Game Designer</title>
+<description>Disney Interactive
+Public Company; Computer Software industry</description></job>
+<job end='729757' id='6' pos='6' start='728296'><daterange><start days='728296' iso8601='1995-01-01'>1995</start> - <end days='729757' iso8601='1999-01-01'>1999</end></daterange> (4 years)
+
+Cartoonist
+<description>King Features Syndicate
+Arts and Crafts industry</description></job>
+<job end='729147' id='7' pos='7' start='727839'><daterange><start days='727839' iso8601='1993-10-01'>October 1993</start> - <end days='729147' iso8601='1997-05-01'>May 1997</end></daterange> (3 years 8 months)
+<description>Was the contracted cartoonist for the Newspaper Comic Panel &quot;Chaos&quot; syndicated by Creators Syndicate, then by King Features Syndicate.</description></job></experience>
+
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='3d' start='733865'>
+    <variant>3d</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,6' idrefs='1,6' lastused='2012' name='art' start='728296'>
+    <variant>Artist</variant>
+    <variant>artist</variant>
+    <variant>Arts</variant>
+  </canonskill>
+  <canonskill end='729757' experience='1' expidrefs='6,7' idrefs='6,7' lastused='1999' name='features' start='727839'>
+    <variant>Features</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='freelance graphics' start='733865'>
+    <variant>Freelance</variant>
+  </canonskill>
+  <canonskill end='729147' experience='1' expidrefs='7' idrefs='7' lastused='1997' name='newspaper' start='727839'>
+    <variant>Newspaper</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='3' idrefs='3' lastused='2010' name='vista' start='732008'>
+    <variant>Vista</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

@@ -1,0 +1,194 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734594' xml:space='preserve'><contact><name><givenname>JOSEPH</givenname> <givenname>LAROSA</givenname>, <surname>CSM</surname></name>, CTM
+
+<address lat='33.5585' lon='117.67' majorcity='LADERA RANCH' state='CA'><street>28 Rinehart Road</street> * <city>Ladera Ranch</city>, <state abbrev='CA'>CA</state> * <postalcode>92694</postalcode></address> * <phone>949-28-1531</phone> * <email>jlarosa@cox.net</email></contact>
+
+
+<summary>DIRECTOR, PROJECT MANAGEMENT
+
+Project Management ~ Process Improvement ~ Application Development
+
+Multi-talented collaborative software professional with a proven track record delivering domestic and multinational software products for Xerox, Triconix, Wonderware, Fluor, Kaiser Permanente and Rational Software.  Background includes managing delivery of mission critical software, firmware, and simulation software employing a variety of methodologies and lifecycles.  Additional experience in sales and technical consulting for commercial and DOD organizations.
+
+* Project Management
+* Certified Scrum Master
+* Certified Toastmaster
+* Process Improvement
+* Teambuilding
+* CMM
+* Offshore Development
+* Software Development
+* Process Tools</summary>
+
+<experience end='present' start='725739'>PROFESSIONAL  EXPERIENCE
+
+<job end='present' id='1' naics='33451307' naics2='33' pos='1' sic='573401' sic2='57' start='732679'><employer>INVENSYS</employer> (<employer>Wonderware, SimSci, Triconix</employer>), <address><city>Lake Forest</city>, <state abbrev='CA'>CA</state></address>	 (<daterange><start days='732679' iso8601='2007-01-01'>2007</start>-<end days='present' iso8601='2012-03-30'>present</end></daterange>)
+<description>Global engineering and information technology company and industrial automation supplier</description>
+<title>Senior Project Manager</title>
+<description>Manage delivery of commercial industrial automation software, firmware, and hardware and simulation systems.</description>
+INVENSYS ACCOMPLISHMENTS
+<description>Total annual project responsibility of several million dollars utilizing multinational teams employing traditional and contemporary development processes, methodologies and tools; delivered on-time and within budget.</description></job>
+
+<job end='732679' id='2' naics='62111107' naics2='62' pos='2' sic='641112' sic2='64' start='732314'><employer>KAISER PERMANENTE</employer>, <address><city>Pasadena</city>, <state abbrev='CA'>CA</state></address>	(<daterange><start days='732314' iso8601='2006-01-01'>2006</start>-<end days='732679' iso8601='2007-01-01'>2007</end></daterange>)
+<description>Integrated managed care organization with 8.4 million members and $31.1 billion in revenue</description>
+<title>Senior Project Manager</title> (<jobtype>contract</jobtype>) in mega-project PMO
+<description>Integrate, track, and oversight for multiregional multi-system government mandated enhancement.</description></job>
+
+<job end='732314' id='3' naics='52229202' naics2='52' pos='3' sic='616201' sic2='61' start='731583'><employer>AMERIQUEST MORTGAGE</employer>, <address><city>Orange</city>, <state abbrev='CA'>CA</state></address> 	 (<daterange><start days='731583' iso8601='2004-01-01'>2004</start>-<end days='732314' iso8601='2006-01-01'>2006</end></daterange>)
+<description>Leading home mortgage lender servicing over $60 billion in loans.
+Project Management Office Director
+Manage the PMO for a major division primarily responsible for development process improvement, methodology, and tools including Clarity and Rational RequisitePro, ClearCase, ClearQuest, TestManager, and XDE in addition to Change Management and Quality Assurance.
+AMERIQUEST ACCOMPLISHMENTS
+Implemented standard SDLC and project management practices across 300 person development team.
+Spearheaded redesign of process documents to support software development, deployment, and infrastructure efforts in a SOX compliant environment.</description></job>
+
+<job end='731218' id='4' inferred-to='5' naics='42342015' naics2='42' pos='4' sic='504403' sic2='50' start='728296'><employer>XEROX CORPORATION</employer>, <address><city>El Segundo</city>, <state abbrev='CA'>CA</state></address>	 (<daterange><start days='728296' iso8601='1995-01-01'>1995</start>-<end days='731218' iso8601='2003-01-01'>2003</end></daterange>)	
+<description>Worldwide document management company with $15 billion in annual revenue.</description>
+XEROX ACCOMPLISHMENTS
+<description>Consolidated 5 overlapping products into one product line and launched effort to consolidate on J2EE platform utilizing Java and XML.
+Achieved savings of $3MM per year by streamlining organization supporting newly launched product. 
+Turned around a struggling development department to regain predictable on-time delivery of high quality software products by promoting managers from within to fill critically responsible positions. 
+Generated savings of over a million dollars and no disruption to ongoing projects by utilizing offshore development resources in Singapore, India, and Great Britain.</description></job> 
+
+<job end='731218' id='5' inferred-from='4' pos='5' sic='504403' sic2='50' start='728296'><title>Senior Manager</title>, Enterprise Output Management Systems Development (<daterange><start days='728296' iso8601='1995-01-01'>1995</start>-<end days='731218' iso8601='2003-01-01'>2003</end></daterange>)
+
+<description>Managed the design, development, delivery, testing, implementation, and support of all enterprise output management software applications.
+Lead a cross-functional team charged with setting the corporate technology direction for future software products.
+Directed all aspects of the operations effort to develop, test, support, and deliver these software products.
+Directed a 50-person applications development and support team in the United States, with additional offshore resources in India, Singapore, and the UK to deliver those products.</description></job>
+
+<job end='728296' id='6' inferred-to='7' pos='6' sic='573401' sic2='57' start='725739'><employer>RATIONAL SOFTWARE</employer>, <address><city>Irvine</city>, <state abbrev='CA'>CA</state></address>							(<daterange><start days='725739' iso8601='1988-01-01'>1988</start>-<end days='728296' iso8601='1995-01-01'>1995</end></daterange>)
+<description>Leading provider of integrated solutions that automate the software development process, with $600 million in annual revenue.</description></job>
+
+<job id='7' start='728296'><title>Major Account Project Manager</title> (<daterange><start days='728296' iso8601='1995-01-01'>1995</start></daterange>)
+<description>Instructed and consulted customers on object-oriented design, configuration management, architecture, product management, and integration processes.
+Consulted, trained and sold software development tools, processes, and services, and supported customers in their use.
+Customers included Hughes, TRW, Northrop, NOSC, JPL, Rockwell, and Boeing
+Named Account Sales (1994)
+Took on sales responsibilities during pre-IPO stage due to reduction in regular sales force.
+Achieved $1 million annual sales target.</description></job> 
+
+<job end='727931' id='8' inferred-from='6' pos='7' sic='573401' sic2='57' start='725739'><title>Senior Software Engineering Specialist</title> (<daterange><start days='725739' iso8601='1988-01-01'>1988</start>-<end days='727931' iso8601='1994-01-01'>94</end></daterange>)
+<description>Worked with the team that developed UML and RUP.
+Instructed and consulted with clients on the practice of Object Oriented design and architecture.
+Designed product architecture and integration process; implemented the integration process.
+Consulted with clients on state-of-the-art design and implementation tools and methodologies to reduce integration inconsistencies and enable faster time to test.</description></job></experience>
+
+
+<education>EDUCATION
+<school id='9'><degree level='18' name='Master of Science'>Master of Science</degree> in <major code='0402'>Computer Science</major> 
+<institution>WEST COAST UNIVERSITY</institution>, <address><city>Orange</city>, <state abbrev='CA'>CA</state></address></school>
+<school id='10'><degree level='16' name='Bachelor of Science'>Bachelor of Science</degree> in <major code='0402'>Computer Science</major>
+<institution>CALIFORNIA STATE UNIVERSITY</institution>, <address><city>Fullerton</city>, <state abbrev='CA'>CA</state></address>
+<courses>Awarded Top Computer Science</courses> Graduate Certificate
+<honors>Phi Kappa Phi</honors></school></education>
+<professional>AFFILIATIONS
+<affiliations>Project Management Institute (PMI)
+Toastmasters International, CTM</affiliations></professional>
+</resume>
+
+<skillrollup version='1'>
+  <canonskill experience='1' name='art'>
+    <variant>art</variant>
+  </canonskill>
+  <canonskill experience='1' name='automate'>
+    <variant>automate</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='automation' start='732679'>
+    <variant>automation</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='budgeting' start='732679'>
+    <variant>budget</variant>
+  </canonskill>
+  <canonskill end='732314' experience='1' expidrefs='3' idrefs='3' lastused='2006' name='change management' start='731583'>
+    <variant>Change Management</variant>
+  </canonskill>
+  <canonskill end='732314' experience='1' expidrefs='3' idrefs='3' lastused='2006' name='clearcase' start='731583'>
+    <variant>ClearCase</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='computer hardware' start='732679'>
+    <variant>hardware</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='7' idrefs='7' name='configuration management' start='728296'>
+    <variant>configuration management</variant>
+  </canonskill>
+  <canonskill experience='1' name='customer relations'>
+    <variant>clients</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='delivery' start='732679'>
+    <variant>delivery</variant>
+  </canonskill>
+  <canonskill experience='1' name='directing'>
+    <variant>direction</variant>
+  </canonskill>
+  <canonskill experience='1' name='document management'>
+    <variant>document management</variant>
+  </canonskill>
+  <canonskill experience='1' name='functional'>
+    <variant>functional</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='2' idrefs='2' lastused='2007' name='government' start='732314'>
+    <variant>government</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='information technology' start='732679'>
+    <variant>information technology</variant>
+  </canonskill>
+  <canonskill experience='1' name='java'>
+    <variant>Java</variant>
+  </canonskill>
+  <canonskill end='732314' experience='1' expidrefs='3' idrefs='3' lastused='2006' name='macromedia director' start='731583'>
+    <variant>Director</variant>
+  </canonskill>
+  <canonskill end='732314' experience='1' expidrefs='3' idrefs='3' lastused='2006' name='microsoft office' start='731583'>
+    <variant>Office</variant>
+  </canonskill>
+  <canonskill experience='1' name='netscape enterprise server'>
+    <variant>enterprise</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='7' idrefs='7' name='object oriented design' start='728296'>
+    <variant>Object Oriented design</variant>
+    <variant>object-oriented design</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,3,7' idrefs='1,3,7' lastused='2012' name='process engineering' start='728296'>
+    <variant>process improvement</variant>
+    <variant>processes</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='7' idrefs='7' name='product management' start='728296'>
+    <variant>product management</variant>
+  </canonskill>
+  <canonskill end='732314' experience='1' expidrefs='3' idrefs='3' lastused='2006' name='project management' start='731583'>
+    <variant>Project Management</variant>
+    <variant>project management</variant>
+  </canonskill>
+  <canonskill experience='1' name='quality'>
+    <variant>quality</variant>
+  </canonskill>
+  <canonskill end='732314' experience='1' expidrefs='3' idrefs='3' lastused='2006' name='quality control' start='731583'>
+    <variant>Quality Assurance</variant>
+  </canonskill>
+  <canonskill experience='1' name='rup'>
+    <variant>RUP</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='7' idrefs='7' name='sales' start='728296'>
+    <variant>Sales</variant>
+    <variant>sales</variant>
+  </canonskill>
+  <canonskill end='732314' experience='1' expidrefs='3' idrefs='3' lastused='2006' name='sdlc' start='731583'>
+    <variant>SDLC</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='simulation' start='732679'>
+    <variant>simulation</variant>
+  </canonskill>
+  <canonskill end='732314' experience='1' expidrefs='3,7' idrefs='3,7' lastused='2006' name='software development' start='728296'>
+    <variant>software development</variant>
+  </canonskill>
+  <canonskill experience='1' name='unified modeling language'>
+    <variant>UML</variant>
+  </canonskill>
+  <canonskill experience='1' name='xml'>
+    <variant>XML</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

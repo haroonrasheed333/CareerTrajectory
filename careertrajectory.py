@@ -1,19 +1,10 @@
 import nltk
-from nltk.tokenize import word_tokenize
-import lxml
-import pprint, random, pickle
-import itertools
 import os, sys, re
 import random
-from pprint import pprint as pp
-from itertools import islice
+import string
 from nltk import FreqDist
-from nltk.tokenize import word_tokenize, wordpunct_tokenize, sent_tokenize
-from nltk.classify import apply_features
-from nltk.corpus import brown, names, movie_reviews 
 from nltk.corpus import stopwords as sw
-from nltk.collocations import  BigramCollocationFinder, TrigramCollocationFinder
-from nltk.metrics import       BigramAssocMeasures,     TrigramAssocMeasures
+punct = string.punctuation
 
 
 #!/usr/bin/python
@@ -31,8 +22,9 @@ class ResumeCorpus():
         """
         
         self.source_dir = source_dir
-        self.files = self.getFiles(self.source_dir)
-        self.sents = self.readFiles(self.files, self.source_dir)
+        #self.files = self.getFiles(self.source_dir)
+        self.labels_file = 'labels.txt'
+        self.resumes = self.readFiles(self.labels_file, self.source_dir)
         
     def getFiles(self, source_dir):
         file = [ f for (dirpath, dirnames, filenames) in os.walk(source_dir) for f in filenames if f[6:] == 'labels' ]
@@ -40,9 +32,14 @@ class ResumeCorpus():
         
     def readFiles(self, file, source_dir):
         resumes = []
-        for line in open(file).read():
-            filename,tag = line.split('\t')
-            resumes.append((open(filename).read(),tag))
+        for line in open(file).readlines():
+            try:
+                ftag = line.split('\t')
+                filename = ftag[0]
+                tag = ftag[1]
+                resumes.append((open(source_dir + '/' + filename).read(),tag))
+            except:
+                pass
         return resumes
                       
 def trainClassifier(training_featureset):
@@ -53,16 +50,17 @@ def trainClassifier(training_featureset):
 
 def feature_consolidation(documents, fd_words, addTrueScore=False):
     if addTrueScore:
-        con_features = [ (unigram_features(documents),tag) for (file, tag) in documents]
+        con_features = [ (unigram_features(file, fd_words),tag) for (file, tag) in documents]
     else:   
-        con_features = unigram_features(documents)
+        con_features = unigram_features(documents, fd_words)
     return con_features
 
     
 
-def unigram_features(document, lemma_fd_list, features):
+def unigram_features(document, lemma_fd_list):
     docu=re.sub('[^A-Za-z\' ]+', '', document)
     tokens = nltk.word_tokenize(docu)
+    features = {}
     for word in tokens:
         if word in lemma_fd_list:
             features[word] = True
@@ -71,23 +69,25 @@ def unigram_features(document, lemma_fd_list, features):
 
 
 if __name__ == "__main__":
-    traintest_corpus = ResumeCorpus('/Users/divyakarthikeyan/Downloads/data') #4256
-    random.shuffle(traintest_corpus)
-    train_resumes=traintest_corpus[:2000]
+    traintest_corpus = ResumeCorpus('samples_text')
+    random.shuffle(traintest_corpus.resumes)
+    train_resumes=traintest_corpus.resumes[:500]
     words = []
     for resume in train_resumes:
         words = words + resume[0].split() 
     fd = FreqDist(words)
-    fd_words = [ word for word in fd.keys()[:150] if word not in stopwords ]
+    fd_words = [word for word in fd.keys()[:150] if word not in stopwords and word not in punct]
     test_resumes=traintest_corpus.resumes[:-500]
     train_featureset  = feature_consolidation(train_resumes, fd_words, True)
     review_classifier = trainClassifier(train_featureset)  
-    outputfile = open ('/Users/divyakarthikeyan/Downloads/data','w')
-    for document in test_resumes:   
-        resume_features = feature_consolidation(document[0], fd_words)
-        (fileName,tag) = document
-        outputfile.write('%s' %fileName +'\t' + '%s' %str(tag) + '\n')
-    
+    #outputfile = open ('output.txt','w')
+    #for document in test_resumes:
+    #    resume_features = feature_consolidation(document[0], fd_words)
+    #    (fileName,tag) = document
+    #    outputfile.write('%s' %fileName + '\t' + '%s' %str(tag) + '\n')
+    #
+    #
+    #outputfile.close()
     test_featureset  = feature_consolidation(test_resumes, fd_words, True)
     print nltk.classify.accuracy(review_classifier, test_featureset)
     review_classifier.show_most_informative_features(50)

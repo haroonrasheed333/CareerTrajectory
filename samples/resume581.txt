@@ -1,0 +1,157 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734595' xml:space='preserve'><contact><name><givenname>DON</givenname> <surname>HERPIN</surname></name>
+Résumé
+<phone>1-407-433-3993</phone>
+<email>d_herpin@yahoo.com</email></contact>
+
+<statements>Military 
+<activities>United States Navy
+Communications and Intelligence 
+NATO Attachments
+Honorably Discharged</activities></statements>
+
+<education>Education
+<school id='7'><institution>UC San Diego</institution>-<major code='4201'>Business Management</major></school>
+<school id='8'><institution>Loyola University</institution>-<major code='4201'>Business Administration</major></school></education>
+ 
+ 
+<summary>Objective 
+<objective>Career path objectives include working with a company that has the ability to utilize over 25+ years of knowledge in diverse technologies and high level relationships.  Searching for a professional, growth oriented company specializing in advanced technologies that appreciates and excels in a diversified technology marketplace.</objective> 
+
+<summary>I have experience in many positions in my field which gives me a global understanding of communications systems and low voltage solutions in the Utilities, Transportation and Public Safety Sectors. My talents lean to executive and mid level management with overall business management and business development with an emphasis on sales, marketing and engineering of  I.T. communications networks, IP security, CCTV, access control, video management systems, video analytics, wired, optical and wireless networks, including microwave, LTE, MPLS, CDMA,3g, 4GLTE, Mesh, PSIM, intelligent transportation management systems, fiber optic networks, MtoM and various storage and SAAS applications.</summary></summary>
+ 
+<experience end='present' start='725009'>Work 
+Experience
+
+<job end='present' id='1' pos='1' start='734140'><employer>Alcatel-Lucent</employer> 
+(Currently Employed) <daterange><start days='734140' iso8601='2011-01-01'>2011</start></daterange>-
+<title>Director of Business Development</title>
+<description>Strategic Accounts 
+
+Current responsibilities include the business development and sales of strategic accounts for Alcatel-Lucent.
+
+Key Responsibilities Include: 
+Discover and cultivate new Public Safety, Transportation and Utility opportunities.
+Manage opportunities through ALU from inception to sale.
+Position ALU's broad portfolio to create unique differentiators in the technology market.
+Work closely with field AE's to leverage prospects into other sales of ALU solutions.
+Manage system integrator and end user partner relationships. 
+Participate and speak at industry events.
+Work with ALU product group to define and refine market strategies.
+Position ALU services with customers.</description></job>
+
+
+
+
+
+<job end='734140' id='2' pos='2' start='733410'><employer>LENSEC L.L.C</employer>. 
+<daterange><start days='733410' iso8601='2009-01-01'>2009</start>-<end days='734140' iso8601='2011-01-01'>2011</end></daterange>
+<title>National Business Development Manager</title> 
+ 
+<description>Responsibilities included business development and management for an international Security Management Software and Integration Company. The Company offered a PSIM/VMS software solution and full service turnkey Security and Communications Integration of IP Security applications including Video, Access Control and IP communications solutions via wired and wireless networks. Sole responsibilities as business development manger consisted of, sales coordination, marketing, and assist in project capture, management and commissioning.</description></job> 
+ 
+<job end='733410' id='3' pos='3' start='730488'><employer>E-SYNERGY Inc</employer>. <daterange><start days='730488' iso8601='2001-01-01'>2001</start>-<end days='733410' iso8601='2009-01-01'>2009</end></daterange>
+<title>Consulting</title>, Business Development Company/<title>CEO</title>
+ 
+<description>Responsibilities included national and international development of new business for manufacturers, end users and integrators. Channel Markets manufacturer's strategic alliances, contractor/ sub-contractor partnering, and business development programs. Helped build and managed the growth of large sales teams. Formulated and implemented the overall company strategic targets and vertical markets as it applied to business growth through various best practices scenarios. My responsibilities included the coordinating and overseeing of business development in transportation, utilities, public safety, federal government and DOD vertical markets. 
+
+A sampling of clients that E-SYNERGY has performed work for include.
+Lockheed Martin, Johnson Controls, Parson's Transportation, Cellstack ,The City of  New Orleans, Delaware River Security Committee, Delaware River Maritime Committee, City of Orlando, City of Key West, AFCO Constructors Inc., Florida Department of Transportation, Bearing Point, City of Austin Texas, City of Anaheim California, Axis Communications, Mastec International, Marconi, Cisco, City Net, Smart City, SAIC, NICE and Communications Supply Corporation.
+
+International clients included Rolls Royce UK, Kinsey Development UAE and Morocco, City of London Ring of Steel Project, Dubai Aerospace Port and Smart City Project.</description></job> 
+ 
+ 
+<job end='730488' id='4' pos='4' sic='999999' sic2='99' start='726835'><employer>Integrated Technologies Group</employer> <daterange><start days='726835' iso8601='1991-01-01'>1991</start>-<end days='730488' iso8601='2001-01-01'>2001</end></daterange>
+<title>President-Co-owner</title>
+<description>Built and developed ITG into a national and international integration company that specialized in the communications and physical security electronics space. ITG grew to be a 40 Million dollar a year company.</description></job>
+
+<job end='726835' id='5' pos='5' start='726105'><employer>Total Control LLC</employer> <daterange><start days='726105' iso8601='1989-01-01'>1989</start>-<end days='726835' iso8601='1991-01-01'>1991</end></daterange>
+<title>General Manager</title> 
+<description>Managed and expanded Total Control into the Systems Integration market developing mid to large scale integration of stove pipe technologies into one control platform for larger national systems integrators.</description></job>
+
+<job end='726105' id='6' pos='6' sic='999999' sic2='99' start='725009'><employer>Honeywell</employer> <daterange><start days='725009' iso8601='1986-01-01'>1986</start>-<end days='726105' iso8601='1989-01-01'>1989</end></daterange>
+<title>Program Manager/District Manager</title>
+<description>Worked with Honeywell from an Operations manger up to a District Manager in the Physical Electronics Division and Building Controls Division</description></job></experience>
+ 
+ 
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='734579' experience='1' expidrefs='1,2,3' idrefs='1,2,3' lastused='2012' name='business development' start='730488'>
+    <variant>business development</variant>
+  </canonskill>
+  <canonskill end='734140' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='business management' start='733410'>
+    <variant>business development and management</variant>
+  </canonskill>
+  <canonskill end='733410' experience='1' expidrefs='3' idrefs='3' lastused='2009' name='cisco' start='730488'>
+    <variant>Cisco</variant>
+  </canonskill>
+  <canonskill end='733410' experience='1' expidrefs='3' idrefs='3' lastused='2009' name='customer relations' start='730488'>
+    <variant>clients</variant>
+  </canonskill>
+  <canonskill end='730488' experience='1' expidrefs='4,6' idrefs='4,6' lastused='2001' name='electronics' start='725009'>
+    <variant>Electronics</variant>
+    <variant>electronics</variant>
+  </canonskill>
+  <canonskill end='733410' experience='1' expidrefs='3' idrefs='3' lastused='2009' name='government' start='730488'>
+    <variant>government</variant>
+  </canonskill>
+  <canonskill end='734140' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='ip' start='733410'>
+    <variant>IP</variant>
+  </canonskill>
+  <canonskill end='733410' experience='1' expidrefs='3' idrefs='3' lastused='2009' name='locheed martin' start='730488'>
+    <variant>Lockheed Martin</variant>
+  </canonskill>
+  <canonskill end='733410' experience='1' expidrefs='3' idrefs='3' lastused='2009' name='marconi' start='730488'>
+    <variant>Marconi</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,5' idrefs='1,2,5' lastused='2012' name='marketing' start='726105'>
+    <variant>marketing</variant>
+    <variant>market</variant>
+  </canonskill>
+  <canonskill end='734140' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='microsoft access' start='733410'>
+    <variant>Access</variant>
+  </canonskill>
+  <canonskill end='733410' experience='1' expidrefs='3' idrefs='3' lastused='2009' name='national institute for clinical excellence' start='730488'>
+    <variant>NICE</variant>
+  </canonskill>
+  <canonskill end='734140' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='networking' start='733410'>
+    <variant>networks</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,3' idrefs='1,3' lastused='2012' name='safety' start='730488'>
+    <variant>Safety</variant>
+    <variant>safety</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,3' idrefs='1,2,3' lastused='2012' name='sales' start='730488'>
+    <variant>sales</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,3' idrefs='1,3' lastused='2012' name='strategic' start='730488'>
+    <variant>Strategic</variant>
+    <variant>strategic</variant>
+  </canonskill>
+  <canonskill end='733410' experience='1' expidrefs='3' idrefs='3' lastused='2009' name='strategic alliances' start='730488'>
+    <variant>strategic alliances</variant>
+  </canonskill>
+  <canonskill end='726835' experience='1' expidrefs='5' idrefs='5' lastused='1991' name='systems integration' start='726105'>
+    <variant>Systems Integration</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,3' idrefs='1,3' lastused='2012' name='transportation' start='730488'>
+    <variant>Transportation</variant>
+    <variant>transportation</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='unique' start='734140'>
+    <variant>unique</variant>
+  </canonskill>
+  <canonskill end='733410' experience='1' expidrefs='3' idrefs='3' lastused='2009' name='utilities' start='730488'>
+    <variant>utilities</variant>
+  </canonskill>
+  <canonskill end='734140' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='video' start='733410'>
+    <variant>Video</variant>
+  </canonskill>
+  <canonskill end='734140' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='vms' start='733410'>
+    <variant>VMS</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

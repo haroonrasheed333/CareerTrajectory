@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734596' xml:space='preserve'><contact><name><givenname>Joyce</givenname> <givenname>A</givenname> <surname>Ezzo</surname></name>
+<address lat='42.9016' lon='78.7079' majorcity='DEPEW' state='NY'><street>115 Slate Bottom Drive</street>
+<city>Depew</city>, <state abbrev='NY'>New York</state> <postalcode>14043</postalcode></address>
+Home - <phone type='home'>(716) 668-3858</phone>
+Cell - <phone type='cell'>(716) 868-3550</phone>
+E-Mail:  <email>jezzo0625@aol.com</email></contact>
+
+<summary>Objective:  <objective>Administrative position that will utilize my education and experience to achieve fulfillment and growth within an organization.</objective></summary>
+
+<experience end='present' start='726925'>Experience:
+
+<job end='present' id='1' pos='1' start='732526'><title>Sales and Marketing Coordinator</title> - <daterange><start days='732526' iso8601='2006-08-01'>August 2006</start> - <end days='present' iso8601='2012-04-01'>Present</end></daterange>  
+<employer>Chakra Communications, Inc</employer>., <address lat='42.9063' lon='78.6285' majorcity='LANCASTER' state='NY'>80 W Drullard Avenue, <city>Lancaster</city>, <state abbrev='NY'>NY</state> <postalcode>14086</postalcode></address>
+
+<description>Report to CEO; coordinate marketing aspects of company and sales team management.  Manage estimating department and all quoting activities related to jobs.  Manager all outsource jobs securing pricing and awarding production.  Manage all Ad Specialty research, pricing, quoting and production of jobs.  Arrange travel, coordinate special events and projects.</description></job>
+
+<job end='732526' id='2' pos='2' start='726925'><title>Office Manager</title> - <daterange><start days='726925' iso8601='1991-04-01'>April 1991</start> - <end days='732526' iso8601='2006-08-01'>August 2006</end></daterange>
+Prime Source, <address lat='42.9816' lon='78.7262' majorcity='BUFFALO' state='NY'>1967 Wehrle Drive, Suite 12, <city>Williamsville</city>, <state abbrev='NY'>New York</state> <postalcode>14221</postalcode></address>
+
+<description>Manage and train 14 employees of an advertising agency including artists, clerical and sales.  Report to owner all aspects of business management including accounting, production, sales, and human resources.  Proficient in Peachtree accounting and Microsoft Office, detail orientated.</description></job>
+
+<job id='3' sic='596306' sic2='59'><title>Office Manager</title>  
+<employer>World Book Encyclopedia</employer>, <address lat='42.9273' lon='78.7475' majorcity='BUFFALO' state='NY'>3343 Harlem Road, <city>Cheektowaga</city>, <state abbrev='NY'>New York</state> <postalcode>14225</postalcode></address>
+
+<description>Responsible for operation of Branch sales office and employees, elected to the Secretary Executive Committee at Home Office in Chicago for three years to develop new programs and solved problems of other branch offices within the corporation.  Company sale and reorganization closed the Buffalo Office in 1991.</description></job></experience>
+
+
+<education>Education:
+
+<school id='4'><courses>Dale Carnegie Leadership Training for Managers</courses> - <completiondate days='732314' iso8601='2006-01-01'>2006</completiondate>
+<institution>Erie Community College</institution></school></education>
+
+
+
+
+<references>Personal References upon Request</references>
+
+
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='732526' experience='1' expidrefs='2' idrefs='2' lastused='2006' name='accountancy' start='726925'>
+    <variant>accounting</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='advertising' start='726925'>
+    <variant>Ad</variant>
+    <variant>advertising</variant>
+  </canonskill>
+  <canonskill end='732526' experience='1' expidrefs='2' idrefs='2' lastused='2006' name='assets recovery' start='726925'>
+    <variant>agency</variant>
+  </canonskill>
+  <canonskill end='732526' experience='1' expidrefs='2' idrefs='2' lastused='2006' name='business management' start='726925'>
+    <variant>business management</variant>
+  </canonskill>
+  <canonskill end='732526' experience='1' expidrefs='2' idrefs='2' lastused='2006' name='clerical' start='726925'>
+    <variant>clerical</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='estimating' start='732526'>
+    <variant>estimating</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='event management' start='732526'>
+    <variant>special events</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='3' idrefs='3' name='home office'>
+    <variant>Home Office</variant>
+  </canonskill>
+  <canonskill end='732526' experience='1' expidrefs='2' idrefs='2' lastused='2006' name='human resources' start='726925'>
+    <variant>human resources</variant>
+  </canonskill>
+  <canonskill education='1' name='leadership training'>
+    <variant>Leadership Training</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='marketing' start='732526'>
+    <variant>marketing</variant>
+  </canonskill>
+  <canonskill end='732526' experience='1' expidrefs='2,3' idrefs='2,3' lastused='2006' name='microsoft office' start='726925'>
+    <variant>Microsoft Office</variant>
+    <variant>Office</variant>
+    <variant>office</variant>
+  </canonskill>
+  <canonskill end='732526' experience='1' expidrefs='2' idrefs='2' lastused='2006' name='peachtree accounting software' start='726925'>
+    <variant>Peachtree accounting</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='pricing' start='732526'>
+    <variant>pricing</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='research' start='732526'>
+    <variant>research</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,3' idrefs='1,2,3' lastused='2012' name='sales' start='726925'>
+    <variant>sales</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='team management' start='732526'>
+    <variant>team management</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

@@ -1,0 +1,89 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "DSP-R", 
+            "Certification Name": "Direct Support Professional Registered", 
+            "Type": "Core", 
+            "Certification ID": "6931", 
+            "Certifying Organization": "National Alliance for Direct Support Professionals"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Functional Training Specialty Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "9108", 
+            "Certifying Organization": "American Council on Exercise"
+        }, 
+        {
+            "Acronym": "DSP", 
+            "Certification Name": "Direct Support Professional Specialist in Mentoring and Supervision", 
+            "Type": "Specialty", 
+            "Certification ID": "6936", 
+            "Certifying Organization": "National Alliance for Direct Support Professionals"
+        }, 
+        {
+            "Acronym": "NCPCT", 
+            "Certification Name": "Nationally Certified Patient Care Technician", 
+            "Type": "Core", 
+            "Certification ID": "6293", 
+            "Certifying Organization": "National Center for Competency Testing"
+        }, 
+        {
+            "Acronym": "DSP", 
+            "Certification Name": "Direct Support Professional Certified", 
+            "Type": "Core", 
+            "Certification ID": "6932", 
+            "Certifying Organization": "National Alliance for Direct Support Professionals"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Exercise/Fitness Therapy Certification", 
+            "Type": "Core", 
+            "Certification ID": "1290", 
+            "Certifying Organization": "International Sports Sciences Association"
+        }, 
+        {
+            "Acronym": "DSP", 
+            "Certification Name": "Direct Support Professional - Specialist - Inclusion", 
+            "Type": "Specialty", 
+            "Certification ID": "6933", 
+            "Certifying Organization": "National Alliance for Direct Support Professionals"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Lifestyle Weight Management Specialist", 
+            "Type": "Core", 
+            "Certification ID": "8608", 
+            "Certifying Organization": "National Exercise and Sports Trainers Association"
+        }, 
+        {
+            "Acronym": "MACE", 
+            "Certification Name": "Medication Aide/Assistant Certification Examination", 
+            "Type": "Core", 
+            "Certification ID": "6090", 
+            "Certifying Organization": "The National Council of State Boards of Nursing, Inc."
+        }, 
+        {
+            "Acronym": "DSP", 
+            "Certification Name": "Direct Support Professional Specialist - Health Support", 
+            "Type": "Specialty", 
+            "Certification ID": "6934", 
+            "Certifying Organization": "National Alliance for Direct Support Professionals"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "DCA Personal Care and Support", 
+            "Type": "Core", 
+            "Certification ID": "6930", 
+            "Certifying Organization": "Direct Care Alliance"
+        }, 
+        {
+            "Acronym": "DSP", 
+            "Certification Name": "Direct Support Professional - Specialist in Positive Behavior Support", 
+            "Type": "Specialty", 
+            "Certification ID": "6935", 
+            "Certifying Organization": "National Alliance for Direct Support Professionals"
+        }
+    ], 
+    "onet": "39902100"
+}

@@ -1,0 +1,465 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734595' xml:space='preserve'><contact><name><givenname>Tarakeswara</givenname> <surname>Rao.</surname></name> A                                                  
+Email: <email>tarakesh63@yahoo.com</email>
+Cell: <phone type='cell'>901-581-8387</phone></contact>   
+<summary><objective>Security Clearance: Public trust</objective>                                                                                                                         
+                                                                                                                  
+Summary: 
+
+<summary>Rao is a postgraduate engineer and Oracle certified Supply chain consultant with over 24 years of experience including 13 years of ERP, 2 years of PLM implementation experience coupled with 9 years of business experience.  Also, BPR experience in the supply chain areas including Demand to Build, Order to Cash, Warehouse Management &amp; PLM.
+
+His detailed experience includes client proposals, product selection, solution design, and implementaions, training key users, post-production support &amp; upgrades. Also conducted workshops, implementation health checks &amp; developed testing strategies for Oracle Apps integrations involving more than 25 process flows from enterprise wide systems.
+		
+Also, trained &amp; demoed Oracle Accelerators Tools for rapid implementation methodology for Oracle Apps in SME industries.</summary></summary>
+ 
+<experience end='present' start='725009'><job end='present' id='1' pos='1' sic='1751' sic2='17' start='734383'><description>Implemented, mapped the processes&amp; demonstrated the product capabilities for Oracle Applications (INV, PIM, WIP, BOM, ENG,WMS, MSCA, Shipping, Receiving, OM, QA, CST modules including the latest 12.1 versions. Implemented Applimation (Data archiving products on Oracle applications) &amp; IUID, MatrixOne PLM solutions. Also, proficient in using tools TOAD and Data Loader. Also, familiar with, iSupplier, SIM, MDM, Demantra, UPK, EAM, iSetups functionalities.
+
+ Did Solution Architecture for RFID, IUID functionalities to meet DoD mandates.
+
+CSC Dec-2010 ( Present)</description>
+
+<employer>Master Brand Cabinets Inc</employer> (<daterange><start days='734383' iso8601='2011-09-01'>Sep 2011</start>- <end days='present' iso8601='2012-03-31'>Current</end></daterange>)
+<description>Configuration and Implementing INV and PIM functionality for Item Definition &amp; Item Categories, Item Catalogs, Life Cycles, and User defined attributes.
+Mapping structured and unstructured Item data into PIM. 
+Design security including creation of custom privileges/functions
+Developing configuration to synchronize descriptive elements
+Item uploads using PIM ADA functionality
+Implementing Item cost conversions</description></job>
+
+<job end='734352' id='2' pos='3' sic='9711' sic2='97' start='734109'><employer>Air Force</employer> (<daterange><start days='734109' iso8601='2010-12-01'>Dec 10</start>- <end days='734352' iso8601='2011-08-01'>Aug 11</end></daterange>)
+<description>Solutions for Scanning IUID centric process for mobile scanning for DoD.
+Track Lead and implementing Item Unique Identification (IUID) &amp; WMS 
+Developing solutions for integrating Oracle with DoD systems- D043, WAWF and IUID registry
+Developing solutions for logistics process for Air Force bases
+Implemented Opportunistic cross docking</description></job>
+
+<job end='734079' id='3' naics='44312007' naics2='44' pos='4' sic='573401' sic2='57' start='732465'><employer>Oracle Corporation</employer>- <title>Senior. Principal Consultant</title> (<daterange><start days='732465' iso8601='2006-06-01'>Jun06</start>- <end days='734079' iso8601='2010-11-01'>Nov 10</end></daterange>)
+
+<description>Client Proposals &amp; Gap Analysis
+ Livingston Inc, Smacker Food products, Mercury Marine &amp; Invacare for implementing Oracle WMS.</description></job>
+
+<job end='734444' id='4' pos='2' start='733926'><employer>DOD projects R12.0</employer> (<daterange><start days='733926' iso8601='2010-06-01'>Jun 10</start>- <end days='734444' iso8601='2011-11-01'>Nov 11</end></daterange>):
+<description>Team lead for Architecture team to implement Supply chain processes like Item Identification (IUID), Warehouse management and RFID to meet DOD mandates.
+
+Writing business strategy &amp; high level requirement documents for the below mentioned functions using Oracle Applications:
+Requirements Gathering for IUID compliance.
+Developing detailed requirements to integrate with Oracle Supply chain modules
+WMS implementations for DoD distributions &amp; deployments
+IUID integration with EBuz &amp; DOD systems like WAWF, IUID registry
+High level solution design for Passive RFID implementations to meet the phase-1 project requirements
+Developing Scanning solutions with 2D PDF bar codes/UID</description></job>
+
+<job end='733865' id='5' pos='5' sic='201104' sic2='20' start='733744'><employer>Boar's Head</employer> (Food Processing Industry)-<employer>Gathering requirements &amp; Implementing R12. 1 WMS &amp; MSCA Systems</employer> (<daterange><start days='733744' iso8601='2009-12-01'>Dec 09</start>- <end days='733865' iso8601='2010-04-01'>Apr 10</end></daterange>)
+<description>Finalizing the Warehouse structure
+Configuring Strategies &amp; Rules for Inbound flows
+ Configuring Strategies &amp; Rules for Outbound Flows with complex validations
+ Configure Pick Load page set ups to meet customer requirements
+ Custom scans  UCC128 labels functionality to minimize picking scans
+ Packing Workbench to consolidate packing for deliveries.
+ Mapping Warehouse transactions to LPN functions
+Ruining CRPs to demo client with Oracle WMS &amp; identify gaps</description></job>
+
+<job end='733744' id='6' pos='6' start='733714'><employer>Tomkins -WMS Project R12.1</employer>(<daterange><start days='733714' iso8601='2009-11-01'>Nov09</start>-<end days='733744' iso8601='2009-12-01'>DEC 09</end></daterange>)
+<description>Go live support on WMS implementation &amp; reimplementation of warehouse specific functionality
+Trained the Location super users on WMS processes
+Identified issues with WMS Rule engine 
+Resolved issues using WMS Packing workbench
+Resolved Task jumping, Cancelled Order stocks after picking &amp; other critical issues
+Optimized the travel paths for picking.</description></job>
+
+<job end='733714' id='7' pos='7' sic='308401' sic2='30' start='733653'><employer>Advance Drainage Systems</employer> - Quality Lead (<daterange><start days='733653' iso8601='2009-09-01'>Sep 09</start>- <end days='733714' iso8601='2009-11-01'>Nov09</end></daterange>)
+ <description>Worked as a solution architect to design &amp; implement solution for enterprise quality system
+Reviewed the legacy Global Quality system
+Demo Quality functionality to client PMO team
+Proposed Oracle Quality to replace the legacy system
+Developed the requirements
+Mapped &amp; Implemented Oracle Quality solution using common Collection process,  Global Specifications</description></job>
+
+<job end='733653' id='8' pos='8' sic='5085' sic2='50' start='733653'><employer>CAE- Supply chain project R12.1</employer> (<daterange><start days='733653' iso8601='2009-09-01'>Sep09</start>- <end days='733653' iso8601='2009-09-01'>Sep 09</end></daterange>)
+<description>Solution architect conducted the work shops and developing process flows for in a hi-tech FAA &amp; DOD Stds
+Inbound
+Manufacturing including Quality
+Warehouse management &amp; iSupplier
+
+Cash for Clunkers R12.04 -(FAA Project) - Implemented custom Isupplier functionality to (Aug 09)
+Capturing the Loan application
+Review &amp; Approval processes using iSupplier functions</description></job>
+
+<job end='733561' id='9' pos='9' start='733288'><employer>General Dynamics Land Systems- WMS &amp; MSCA Implementation Lead</employer>: (<daterange><start days='733288' iso8601='2008-09-01'>Sep 08</start>- <end days='733561' iso8601='2009-06-01'>Jun 09</end></daterange>)
+
+<description>WMS Implementation, Training &amp; go live support for projects Manufacturing Environment
+Developed business requirements &amp; implemented Warehouse management, manufacturing module for inbound, Outbound in Projects manufacturing environment.
+Configurations &amp; go live support for WMS Strategies &amp; Rules for WIP, Inbound &amp; Outbound processes.
+Implemented Custom Opportunistic cross docking
+Implementation of Material Status, Packing work bench &amp; Bulk picking processes
+Implemented WMS processes using Material Statuses, Packing Workbench, Bulk picking
+Gathered requirements  &amp; prepare MD50 document for a custom back fill process
+Extensively used WMS rules simulator to prove rules &amp; fix the issues with rules
+Trained business Leads &amp; support resources in WMS functionality &amp; rules engine.</description></job>
+
+<job end='733257' id='10' pos='10' sic='5085' sic2='50' start='733226'><employer>Cummins DBI -Supply chain Lead</employer> (<daterange><start days='733226' iso8601='2008-07-01'>July 08</start>- <end days='733257' iso8601='2008-08-01'>Aug08</end></daterange>)
+<description>Reviewed key processes for WIP, OM, WIP processes to identify the product gaps in key Order fulfillment processes like Back to back orders for service orders, Order Enquiry, ATP check, Quick order &amp; Quote entry etc.. 
+Presented the gaps for key process to Oracle development team to include in next releases.</description></job>
+
+<job end='733196' id='11' pos='11' sic='999977' sic2='99' start='733165'><employer>American Power Corporation</employer> (<employer>APC</employer>)-Quality Module Lead <daterange><start days='733165' iso8601='2008-05-01'>May 08</start>-<end days='733196' iso8601='2008-06-01'>Jun 08</end></daterange>)
+<description>Developed &amp; mapped business requirements for a multi site &amp; implemented Quality module for inbound &amp; manufacturing process and demoed the supplier integration.
+Scoped the project for Phase -1
+
+VeriFone industries -Quality implementation Lead</description></job> (<job end='733165' id='12' pos='12' start='733104'><daterange><start days='733104' iso8601='2008-03-01'>Mar 08</start>-<end days='733165' iso8601='2008-05-01'>May 08</end></daterange>)
+<description>Developed &amp; mapped business requirements or a multi site &amp; implemented Quality module for inbound &amp; manufacturing process
+Training internal resources on QA functions
+
+Mercury Marine Industries- WMS Expert Feb 08
+Review &quot;As is&quot; process for inbound &amp; Out bound process
+Mapped requirements to WMS functionality
+Defined scope of the Phase- I implementation
+Proof of Concept for Inbound &amp; Outbound for key business processes</description></job>
+
+<job end='733044' id='13' pos='13' start='732830'><employer>Worthington Industries -OTC Functional Lead</employer> (<daterange><start days='732830' iso8601='2007-06-01'>Jun07</start>-<end days='733044' iso8601='2008-01-01'>Jan 08</end></daterange>)
+<description>Worked on developing Business requirements for enhancements on WIP &amp; Billing functionality.
+Designed system testing for Demand to Build and OTC area
+Presented a proposal using accelerator solutions with Steel packing industries
+Conducted initial discovery session with the client to find the major gaps in Quality (QA Module) processes</description></job>
+
+<job end='732830' id='14' pos='14' start='732679'><employer>Sprint- System Integration Test Lead</employer> (<daterange><start days='732679' iso8601='2007-01-01'>Jan 07</start>- <end days='732830' iso8601='2007-06-01'>Jun07</end></daterange>)
+<description>Designed Testing strategy for an environment with more than 76 inbound/outbound flows &amp; 12 external systems with e-Business applications
+Coordinated the Offshore development &amp; testing</description></job>
+
+<job end='732679' id='15' pos='15' start='732314'><employer>Cingular</employer>-Order To Cash (<daterange>Jly<start days='732314' iso8601='2006-01-01'>06</start>-<end days='732679' iso8601='2007-01-01'>Jan07</end></daterange>)
+<description>Trouble shoot performance issues with Trip stop
+Go live issues with Item attributes impacts on shipments/receiving etc..
+Upgrade testing
+
+Vonage Industries (Supply chain -Health check)
+Study the enterprise supply chain implementation
+Came up with process improvements &amp; recommendation
+Recommended new process enhancements</description></job>
+
+<job end='732314' id='16' start='732434'><employer>Power Pack Industries</employer>:  WMS Expert (<daterange><start days='732434' iso8601='2006-05-01'>May06</start> - Jly <end days='732314' iso8601='2006-01-01'>06</end></daterange>)
+<description>Implemented WIP, Inbound WMS process for all the product lines
+Implemented the PICK by UOM WMS feature for a bulk storage subinventory</description></job>
+
+<job id='17' start='732404'><employer>Invacare Industries</employer>:  WMS Expert (<daterange><start days='732404' iso8601='2006-04-01'>Apr 06</start></daterange>)
+<description>Studied the as is processes for inbound &amp; outbound and provided a gap analysis</description></job>
+
+  
+<job end='732404' id='18' pos='16' sic='513131' sic2='51' start='731949'><employer>Helen Of Troy</employer> <title>Sr Business Analyst</title> (<daterange>Jly<start days='731949' iso8601='2005-01-01'>05</start>-<end days='732404' iso8601='2006-04-01'>Apr06</end></daterange>) <description>Oracle Apps 11.5.9 version, multi org, multi operating unit environment
+Implement &amp; Support Shipping, WMS, Receiving, OM, WIP and INV modules in a distribution supply chain. 
+Monitor Month end close process for Inventory, WIP, and Receiving, shipping modules.
+Running RFID pilot process for shipments using Data Link software, Zebra Printing technologies..
+Streamline various supply chain processes flows. 
+Support the development activities and for new warehouses and enhancements to existing processes.
+Working with users for implementing WMS in new warehouses</description></job>
+
+<job end='731949' id='19' sic='737902' sic2='73' start='732069'><employer>Panasonic</employer> <address>Avionics, <state abbrev='WA'>WA</state></address> (<daterange><start days='732069' iso8601='2005-05-01'>May05</start>- Jly<end days='731949' iso8601='2005-01-01'>05</end></daterange>) <description>Oracle Applications 11.5.9 versions
+Implementation of QA Module in Receiving, Shipping, WIP Processes.
+Support ENG, INV, COST, BOM, WIP, MPS modules</description></job>
+
+<job end='732069' id='20' pos='17' start='732008'><employer>Alcoa KAMA</employer> (<daterange><start days='732008' iso8601='2005-03-01'>Mar 2005</start>-<end days='732069' iso8601='2005-05-01'>May 05</end></daterange>) <description>Oracle Applications 11.5.8 and 11.10 versions.
+Multi site, multi customer implementation of Oracle Applications (WMS, INV, Shipping, Scheduling, BOM, WIP, CST and GL modules).</description></job>
+
+<job end='732008' id='21' pos='19' sic='509934' sic2='50' start='731461'><employer>TCS America</employer> (<daterange><start days='731461' iso8601='2003-09-01'>Sep2003</start>-<end days='732008' iso8601='2005-03-01'>Mar 2005</end></daterange></job>)
+
+<job end='732008' id='22' pos='18' start='731857'><employer>Boeing- Seattle</employer> (<daterange><start days='731857' iso8601='2004-10-01'>Oct 2004</start>-<end days='732008' iso8601='2005-03-01'>Mar 2005</end></daterange>)
+<description>Worked as a Project manager for Integrated Material Management project from Tata consulting team to enhance and to support the existing Oracle applications solution in the areas spare parts supply chain.
+Leading the below mentioned initiatives 
+Data architecture
+System architecture
+Business architecture
+Development of enhancements and new partner developments
+Automation of Regression Testing scripts for the entire IMM processes</description></job>
+
+
+<job end='731857' id='23' pos='20' sic='599902' sic2='59' start='731461'><employer>AT &amp; T Wireless</employer>-<address lat='39.0032' lon='-111.87' majorcity='REDMOND' state='UT'><city>Redmond</city>, <state abbrev='WA'>WA</state></address> (<daterange><start days='731461' iso8601='2003-09-01'>Sep2003</start>-<end days='731857' iso8601='2004-10-01'>Oct 2004</end></daterange>)
+<description>Oracle Applications 11.5.7
+Worked as a senior analyst in AT &amp;T Wireless -Supply chain team to enhance and to support the existing Oracle applications solution in the areas of Purchase, Order Management and Inventory.
+.
+Sustainment Team Lead:
+Supporting the error transaction resolution with interfaces of WMS (Red Prairie) and Oracle ERP system in coordination with teams from different locations.
+Analysis, Map, gather requirements the data archiving requirements
+Product selection of archiving products like Outerbay, Applimation
+Implementation of the archiving product on Oracle ERP</description></job>
+
+<job end='731430' id='24' pos='22' sic='736103' sic2='73' start='730396'><employer>Computech Corporation</employer>  (<daterange><start days='730396' iso8601='2000-10-01'>Oct 2000</start> - <end days='731430' iso8601='2003-08-01'>Aug 2003</end></daterange></job>)
+<job end='731430' id='25' pos='21' sic='999977' sic2='99' start='731218'><employer>Arvin Merator, Detroit</employer> (<daterange>Jly <start days='731218' iso8601='2003-01-01'>03</start>-<end days='731430' iso8601='2003-08-01'>Aug 2003</end></daterange>)
+<description>Worked in the area of resolving the post go live issues of shipping module-Oracle Apps 11.5.7 version</description></job>
+<job end='731218' id='26' pos='23' start='730700'><employer>TAR Management
+
+Alcoa Inc</employer>, <address><city>Pittsburgh</city></address> (<daterange><start days='730700' iso8601='2001-08-01'>AUG 2001</start> - Jly <end days='731218' iso8601='2003-01-01'>2003</end></daterange>)
+<employer>Oracle Applications</employer> 11.5.6, 11.5.8 ver
+Worked as a <title>consultant</title> in the Common Global team in Order To Cash Group
+<description>Involved in set up the INV, CST, QA, and WIP modules for a new Operating unit.
+Upgraded testing for all supply chain processes 11.5.6   &amp; 11.5.8 upgrades.
+Deployed the solution and trained End users and supervisors using WMS transactions (Clear orbit)
+Post implementation support &amp; TAR Management
+Designed and implemented Cost extension to customize the RMA, Sales Order Issues, Counting and cost update transactions in Standard and average costing environments.
+Involved in cost extension customizations and designed and implemented Inventory Period Close monitoring Tools.</description></job>
+
+<job end='730700' id='27' pos='24' sic='384498' sic2='38' start='730182'><employer>GE Medical</employer>- Gold Seal Division (<daterange><start days='730182' iso8601='2000-03-01'>Mar 2000</start>- <end days='730700' iso8601='2001-08-01'>Aug 2001</end></daterange>)				
+<title>Manufacturing Consultant</title>
+<description>Multi site implementation of Oracle Applications (Inventory, Order Entry, WIP, BOM, Costing and PUR to suit the client's refurbishing business needs
+
+Worked as a lead consultant to resolve and simplify the Manufacturing processes. Job responsibilities included INV, BOM, WIP, and CST modules in a refurbishing business environment.
+Design BOMs suitable for refurbishing business to minimize the variance.
+Training users on Std costing, cost variance analysis &amp; GL transfer processes
+Min-Max Planning considerations to design BOMs</description></job>
+ 
+<job end='730547' id='28' naics='42342015' naics2='42' pos='25' sic='504403' sic2='50' start='730366'><employer>Xerox Corporation</employer>, Toledo/<address><city>Chicago</city></address> (<daterange><start days='730366' iso8601='2000-09-01'>Sep2000</start>-<end days='730547' iso8601='2001-03-01'>Mar2001</end></daterange>)		 
+<title>Application Consultant</title>
+<description>Multi site implementation of Oracle Applications11.03  (Inventory, Order Entry, WIP, BOM, Costing, PUR and OM Configuration) to suit the client's rapidly growing needs.
+Worked as a member of Xerox corporate solution design team. 
+
+Role includes study of the business processes, capturing requirements, identifying the gaps and mapping the requirements to Oracle in the below mentioned areas:
+Participated in OE, INV, BOM, Costing, Configuration, WIP and Purchase modules.
+Developed requirements for INV, OE, WIP and Costing modules.
+Defined and configured the Models, Option classes and Options for configured items.
+Developed a costing system using standard costing method for their different customer ordering processes</description></job>
+.
+<job end='730335' id='29' pos='26' start='729361'><employer>KPMG Consulting</employer> (<daterange><start days='729361' iso8601='1997-12-01'>December 97</start> to <end days='730335' iso8601='2000-08-01'>Aug'2000</end></daterange>)
+GE Power systems                                                                                                                                      
+<description>Worked as a team member of Implementation Team for leading power generator manufacturer. Role included developing the mapping of item data with other legacy systems.
+Mapped item data interface with Saqqara system. to PDM and PDM to Oracle ERP.
+Developed common schema for FSR auto, Fparts, Global Repair schemas
+Set up of OE, INV, and WIP modules.
+Developed requirements for INV, OE, and WIP modules.
+Designed solutions for non-standard service orders for service re-work orders.
+
+Fiat, Italy - Oracle -eMatrix PLM system                                                      		 
+Prepare joint proposal for Fiat  - Italy 
+Prepare a demo to simulate engineering change process and uploading revised items through portals to oracle Item Master and BOM.
+
+Relevant Product Life cycle Management (PLM) experience:
+Implemented MatrixOne PLM solution for Valsic Foods, John Deere, Honda Motors -Japan, NCR Corporation-South Carolina, Auto Packaging Systems-Ohio and the major processes implemented are:
+Development of 6 frame wizard to cover the Creating new ECOs
+Implemented new Item life cycle , ECR &amp; ECO processes</description></job>
+
+<job end='729239' id='30' pos='27' sic='737105' sic2='73' start='728661'><employer>SE Technologies</employer>- Baan ERP System  (<daterange><start days='728661' iso8601='1996-01-01'>1996</start> <end days='729239' iso8601='1997-08-01'>Aug - 97</end></daterange> Dec)
+<description>Worked on ERP product BaaN, worked as consultant in writing test scripts for unit and integration test for customization with Shop floor and Sales modules for Sealy Beds, zebra technologies.</description></job>
+
+Business Experience (<job end='727778' id='31' pos='28' start='725009'><daterange><start days='725009' iso8601='1986-01-01'>1986</start> <end days='727778' iso8601='1993-08-01'>Aug-1993</end></daterange> <title>Aug</title>)
+<description>Worked in Design, Shop floor Planning, Methods Development and Process improvements and implementing ISO9001 systems in Automotive and Engineering Environments.
+Worked in different capacities from Engineer to Manager -Engineering and led a Team of 25 engineers.</description></job></experience>
+  
+<education>Education/Trainings:
+<courses>Post graduate in Design &amp; Manufacturing
+Certified by Oracle in supply chain-Order Management
+Certified in Supply Chain Management by APICS
+Trained by Oracle University in WMS, PIM, Glog, Order Management, Advanced Pricing, iStores, EAM and Demantra modules.
+Trained in Oracle Accelerators
+Certified in Baan logistics Modules and Baan Tools</courses></education>
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='ada' start='734383'>
+    <variant>ADA</variant>
+  </canonskill>
+  <canonskill end='733744' experience='1' expidrefs='6,9,15,25' idrefs='6,9,15,25' lastused='2009' name='adobe go live' start='731218'>
+    <variant>Go live</variant>
+    <variant>go live</variant>
+  </canonskill>
+  <canonskill end='732404' experience='1' expidrefs='18' idrefs='18' lastused='2006' name='adobe streamline' start='731949'>
+    <variant>Streamline</variant>
+  </canonskill>
+  <canonskill end='734352' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='air force' start='734109'>
+    <variant>Air Force</variant>
+  </canonskill>
+  <canonskill end='731857' experience='1' expidrefs='23' idrefs='23' lastused='2004' name='analysis' start='731461'>
+    <variant>analyst</variant>
+  </canonskill>
+  <canonskill end='733714' experience='1' expidrefs='7,8' idrefs='7,8' lastused='2009' name='architecture' start='733653'>
+    <variant>architect</variant>
+  </canonskill>
+  <canonskill end='733257' experience='1' expidrefs='10' idrefs='10' lastused='2008' name='atp' start='733226'>
+    <variant>ATP</variant>
+  </canonskill>
+  <canonskill end='732008' experience='1' expidrefs='22' idrefs='22' lastused='2005' name='automation' start='731857'>
+    <variant>Automation</variant>
+  </canonskill>
+  <canonskill end='727778' experience='1' expidrefs='31' idrefs='31' lastused='1993' name='automotive' start='725009'>
+    <variant>Automotive</variant>
+  </canonskill>
+  <canonskill education='1' end='729239' experience='1' expidrefs='30' idrefs='30' lastused='1997' name='baan' start='728661'>
+    <variant>BaaN</variant>
+    <variant>Baan</variant>
+  </canonskill>
+  <canonskill end='733044' experience='1' expidrefs='13' idrefs='13' lastused='2008' name='billing' start='732830'>
+    <variant>Billing</variant>
+  </canonskill>
+  <canonskill end='733165' experience='1' expidrefs='12,28' idrefs='12,28' lastused='2008' name='business process' start='730366'>
+    <variant>business processes</variant>
+  </canonskill>
+  <canonskill end='734444' experience='1' expidrefs='4' idrefs='4' lastused='2011' name='business strategy' start='733926'>
+    <variant>business strategy</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='catalogs' start='734383'>
+    <variant>Catalogs</variant>
+  </canonskill>
+  <canonskill end='733165' experience='1' expidrefs='12' idrefs='12' lastused='2008' name='concept development' start='733104'>
+    <variant>Concept</variant>
+  </canonskill>
+  <canonskill end='732008' experience='1' expidrefs='22,27,30' idrefs='22,27,30' lastused='2005' name='consulting' start='728661'>
+    <variant>consultant</variant>
+    <variant>consulting</variant>
+  </canonskill>
+  <canonskill end='734079' experience='1' expidrefs='3,5,7,13,27,28' idrefs='3,5,7,13,27,28' lastused='2010' name='customer relations' start='730182'>
+    <variant>Client</variant>
+    <variant>client</variant>
+  </canonskill>
+  <canonskill experience='1' name='dec'>
+    <variant>Dec</variant>
+  </canonskill>
+  <canonskill end='732830' experience='1' expidrefs='14' idrefs='14' lastused='2007' name='ebusiness' start='732679'>
+    <variant>e-Business</variant>
+  </canonskill>
+  <canonskill end='727778' experience='1' expidrefs='31' idrefs='31' lastused='1993' name='engineering' start='725009'>
+    <variant>Engineer</variant>
+  </canonskill>
+  <canonskill end='731857' experience='1' expidrefs='23,29,30' idrefs='23,29,30' lastused='2004' name='erp' start='728661'>
+    <variant>ERP</variant>
+  </canonskill>
+  <canonskill end='730335' experience='1' expidrefs='29' idrefs='29' lastused='2000' name='framing' start='729361'>
+    <variant>frame</variant>
+  </canonskill>
+  <canonskill end='732069' experience='1' expidrefs='20,27' idrefs='20,27' lastused='2005' name='gl' start='730182'>
+    <variant>GL</variant>
+  </canonskill>
+  <canonskill end='732404' experience='1' expidrefs='18,23,26,27,28' idrefs='18,23,26,27,28' lastused='2006' name='inventory management' start='730182'>
+    <variant>Inventory</variant>
+  </canonskill>
+  <canonskill end='727778' experience='1' expidrefs='31' idrefs='31' lastused='1993' name='iso 9000' start='725009'>
+    <variant>ISO9001</variant>
+  </canonskill>
+  <canonskill end='734444' experience='1' expidrefs='4,23' idrefs='4,23' lastused='2011' name='leadership' start='731461'>
+    <variant>Team Lead</variant>
+    <variant>Team lead</variant>
+  </canonskill>
+  <canonskill education='1' end='734352' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='logistics' start='734109'>
+    <variant>logistics</variant>
+  </canonskill>
+  <canonskill end='730700' experience='1' expidrefs='27' idrefs='27' lastused='2001' name='max' start='730182'>
+    <variant>Max</variant>
+  </canonskill>
+  <canonskill end='733714' experience='1' expidrefs='7,15' idrefs='7,15' lastused='2009' name='netscape enterprise server' start='732314'>
+    <variant>enterprise</variant>
+  </canonskill>
+  <canonskill end='733257' experience='1' expidrefs='10' idrefs='10' lastused='2008' name='next' start='733226'>
+    <variant>next</variant>
+  </canonskill>
+  <canonskill education='1' end='734444' experience='1' expidrefs='2,3,4,5,7,10,18,23,25,28,29' idrefs='2,3,4,5,7,10,18,23,25,28,29' lastused='2011' name='oracle' start='729361'>
+    <variant>Oracle</variant>
+    <variant>oracle</variant>
+  </canonskill>
+  <canonskill end='734444' experience='1' expidrefs='4,19,20,22,23,27,28' idrefs='4,19,20,22,23,27,28' lastused='2011' name='oracle applications' start='730182'>
+    <variant>Oracle Applications</variant>
+    <variant>Oracle applications</variant>
+  </canonskill>
+  <canonskill end='730700' experience='1' expidrefs='27,28' idrefs='27,28' lastused='2001' name='order entry' start='730182'>
+    <variant>Order Entry</variant>
+  </canonskill>
+  <canonskill education='1' end='731857' experience='1' expidrefs='23' idrefs='23' lastused='2004' name='order management' start='731461'>
+    <variant>Order Management</variant>
+  </canonskill>
+  <canonskill end='730335' experience='1' expidrefs='29' idrefs='29' lastused='2000' name='packaging' start='729361'>
+    <variant>Packaging</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='5' idrefs='5' lastused='2010' name='page' start='733744'>
+    <variant>page</variant>
+  </canonskill>
+  <canonskill end='734444' experience='1' expidrefs='4' idrefs='4' lastused='2011' name='pdf' start='733926'>
+    <variant>PDF</variant>
+  </canonskill>
+  <canonskill end='730335' experience='1' expidrefs='29' idrefs='29' lastused='2000' name='pdm' start='729361'>
+    <variant>PDM</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='5,16' idrefs='5,16' lastused='2010' name='pick' start='732434'>
+    <variant>PICK</variant>
+    <variant>Pick</variant>
+  </canonskill>
+  <canonskill end='730335' experience='1' expidrefs='29' idrefs='29' lastused='2000' name='plm' start='729361'>
+    <variant>PLM</variant>
+  </canonskill>
+  <canonskill education='1' name='pricing'>
+    <variant>Pricing</variant>
+  </canonskill>
+  <canonskill end='734444' experience='1' expidrefs='4,6,8,9,10,13,17,18,19,22,26,27,28,29' idrefs='4,6,8,9,10,13,17,18,19,22,26,27,28,29' lastused='2011' name='process engineering' start='729361'>
+    <variant>Processes</variant>
+    <variant>processes</variant>
+  </canonskill>
+  <canonskill end='734079' experience='1' expidrefs='3,13,29' idrefs='3,13,29' lastused='2010' name='proposal writing' start='729361'>
+    <variant>Proposals</variant>
+    <variant>proposal</variant>
+  </canonskill>
+  <canonskill end='733714' experience='1' expidrefs='7,8,11,12,13' idrefs='7,8,11,12,13' lastused='2009' name='quality' start='732830'>
+    <variant>Quality</variant>
+    <variant>quality</variant>
+  </canonskill>
+  <canonskill end='733165' experience='1' expidrefs='12,13,19,26' idrefs='12,13,19,26' lastused='2008' name='quality control' start='730700'>
+    <variant>QA</variant>
+  </canonskill>
+  <canonskill end='733257' experience='1' expidrefs='10' idrefs='10' lastused='2008' name='quick' start='733226'>
+    <variant>Quick</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='15,18,19' idrefs='15,18,19' lastused='2007' name='receiving' start='731949'>
+    <variant>Receiving</variant>
+    <variant>receiving</variant>
+  </canonskill>
+  <canonskill end='734444' experience='1' expidrefs='4' idrefs='4' lastused='2011' name='requirements' start='733926'>
+    <variant>requirement</variant>
+  </canonskill>
+  <canonskill end='734444' experience='1' expidrefs='4' idrefs='4' lastused='2011' name='requirements analysis' start='733926'>
+    <variant>Requirements Gathering</variant>
+  </canonskill>
+  <canonskill end='731218' experience='1' expidrefs='26,30' idrefs='26,30' lastused='2003' name='sales' start='728661'>
+    <variant>Sales</variant>
+  </canonskill>
+  <canonskill end='734444' experience='1' expidrefs='2,4' idrefs='2,4' lastused='2011' name='scanners' start='733926'>
+    <variant>Scanning</variant>
+    <variant>scanning</variant>
+  </canonskill>
+  <canonskill end='732069' experience='1' expidrefs='20' idrefs='20' lastused='2005' name='scheduling' start='732008'>
+    <variant>Scheduling</variant>
+  </canonskill>
+  <canonskill end='732008' experience='1' expidrefs='22,30' idrefs='22,30' lastused='2005' name='shell scripting' start='728661'>
+    <variant>scripts</variant>
+  </canonskill>
+  <canonskill end='732404' experience='1' expidrefs='18,19,20,25' idrefs='18,19,20,25' lastused='2006' name='shipping' start='731218'>
+    <variant>Shipping</variant>
+    <variant>shipping</variant>
+  </canonskill>
+  <canonskill end='732830' experience='1' expidrefs='14' idrefs='14' lastused='2007' name='strategic' start='732679'>
+    <variant>strategy</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='structured methods' start='734383'>
+    <variant>structured</variant>
+  </canonskill>
+  <canonskill education='1' end='734444' experience='1' expidrefs='4,15,18,22,23,26' idrefs='4,15,18,22,23,26' lastused='2011' name='supply chain' start='730700'>
+    <variant>Supply chain</variant>
+    <variant>supply chain</variant>
+  </canonskill>
+  <canonskill education='1' name='supply chain management'>
+    <variant>Supply Chain Management</variant>
+  </canonskill>
+  <canonskill end='732008' experience='1' expidrefs='22' idrefs='22' lastused='2005' name='system architecture' start='731857'>
+    <variant>System architecture</variant>
+  </canonskill>
+  <canonskill experience='1' name='toad'>
+    <variant>TOAD</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='5' idrefs='5' lastused='2010' name='ucc' start='733744'>
+    <variant>UCC</variant>
+  </canonskill>
+  <canonskill end='734352' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='unique' start='734109'>
+    <variant>Unique</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='15,26' idrefs='15,26' lastused='2007' name='upgrades' start='730700'>
+    <variant>upgrades</variant>
+    <variant>Upgrade</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='5,6,9' idrefs='5,6,9' lastused='2010' name='workbench' start='733288'>
+    <variant>Workbench</variant>
+    <variant>workbench</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

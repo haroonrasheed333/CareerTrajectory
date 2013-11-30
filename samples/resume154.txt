@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734585' xml:space='preserve'><contact><name><givenname>James</givenname> <surname>Teer</surname></name>
+<address lat='40.8415' lon='73.2804' majorcity='COMMACK' state='NY'><street>14 Otsego Place</street>
+ <city>Commack</city>, <state abbrev='NY'>New York</state> <postalcode>11725</postalcode></address>
+<phone>(631) 357-3672</phone> 
+<email>JimTeer@optonline.net</email></contact>
+
+
+
+
+
+
+<experience end='present' start='734585'><job end='present' id='1' pos='1' start='734585'><daterange><start days='734585' iso8601='2012-03-21'>March 21, 2012</start></daterange>
+
+
+<description>During the last year I have been employed as a Job Shopper with ITT Defense Systems in Amityville, New York in the position of Senior Production Planner. My contract with this company has ended. I accepted this job knowing that it was temporary and with full knowledge that the job would not lead to a permanent position. In this position I worked on the Joint Strike Force program for the US Air Force and Lockheed Martin. My responsibilities were to plan, schedule and track products through all phases of manufacturing to assure on time deliveries using Deltek's ERP/MRP systems (Cost Point). 
+
+In October 2010 I was laid off from Miteq. Inc. a telecommunications company located in Hauppauge, New York where I'd worked for seventeen years as a Senior Material/Production Planner on military and commercial applications. In this position I was responsible for all material procurement and all aspects of production in an engineering and manufacturing environment. My primary responsibilities included reviewing sales orders and planning and scheduling jobs through all phases of production to assure on time deliveries using Micro Soft's (Solomon) ERP/MRP systems
+
+I am looking for a permanent position and welcome the opportunity to further discuss with you the possibility of any open position in the areas of material or production control. If you have any questions or would like to schedule an interview, please don't hesitate to contact me by telephone or by e-mail at jimteer@optonline.net  I have enclosed my resume below for you to review. I look forward to hearing from you.</description>
+
+<title>Sincerely</title>,
+
+
+
+James Teer
+
+James Teer
+<address lat='40.8415' lon='73.2804' majorcity='COMMACK' state='NY'>14 Otsego Place
+ <city>Commack</city>, <state abbrev='NY'>New York</state> <postalcode>11725</postalcode></address></job>
+(631) 357-3672
+JimTeer@optonline.net
+
+
+
+<job id='2'><title>Sr. Material /Production Control Planner</title>
+
+Experienced in:
+<description>Reviewing sales orders. 
+Planning and scheduling jobs through all phases of production to assure on time deliveries. 
+Procuring material and expediting purchase orders. 
+Using ERP/MRP systems to release work orders to Production and tracking numerous electro and mechanical subassemblies into top level systems. 
+Incorporating Engineering change notices and updating bills of material and routings to work orders. 
+Interfacing and coordinating with all departments to resolve material and production capacity constraints. 
+Tracking top level systems through assembly, test, final inspection to order processing.  
+Heavy interface and assistance to Engineering, Production and Test supervisors. 
+Maintaining detailed status reports and schedules. 
+Working closely with both program managers and the Sales department in order to provide updates on a daily basis. 
+
+
+Other Skills include:
+                
+Assisting in product definitions in an engineering and production environment. 
+Coordinating first article pieces through engineering into production. 
+Knowledge in military and none military component specifications. (RoHS and non RoHS) compliant
+Working with all service groups as well as outside sources in both the design and production phases: keeping assembly drawings, bills of material, artwork and schematics up to date. 
+Locating substitutions for obsolete parts. 
+Checking schematics and assembly drawings for errors before purchasing parts and production. 
+Requesting manufacturing and vendor quotes and then placing orders. 
+Pricing and estimating cost and labor rates for assemblies from system level down.</description></job></experience>
+<skills><skills>ERP/MRP Cost Point, Solomon, BAAN, Microsoft Project and Microsoft office.
+Proficient in most manufacturing software programs and office equipment.</skills></skills>         
+
+
+<experience end='733775' start='722817'>Work History: 
+
+                <job end='733775' id='3' pos='2' sic='359998' sic2='35' start='727931'><daterange><start days='727931' iso8601='1994-01-01'>1994</start> - <end days='733775' iso8601='2010-01-01'>2010</end></daterange>                       	<employer>Miteq Inc</employer>. Hauppauge, N.Y.
+                                                                	Job Title: <title>Sr. Material / Production Planner</title>
+                                                             	<description>Reason for leaving: Lay Off</description></job>
+
+                
+                <job end='726105' id='4' naics='42369026' naics2='42' pos='3' sic='737101' sic2='73' start='722817'><daterange><start days='722817' iso8601='1980-01-01'>1980</start> - <end days='726105' iso8601='1989-01-01'>1989</end></daterange>                            	<employer>Harris Corporation</employer>, Syosset, N.Y.
+                                                             	Job Title: <title>Material/Production Planner</title>
+                                                              	<description>Reason for leaving: Lay Off
+
+
+Business Related Education:                                                            
+
+Business Courses at Farmingdale University and CW Post College                                                         
+Additional business courses through Harris Corporation and IBM 
+Computer courses through De Louis Consultants</description></job></experience>  
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='.net' start='734585'>
+    <variant>.net  I</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='air force' start='734585'>
+    <variant>Air Force</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='2' idrefs='2' name='assembly language'>
+    <variant>assembly</variant>
+  </canonskill>
+  <canonskill name='baan'>
+    <variant>BAAN</variant>
+  </canonskill>
+  <canonskill end='726105' experience='1' expidrefs='4' idrefs='4' lastused='1989' name='computer' start='722817'>
+    <variant>IBM 
+Computer</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='email' start='734585'>
+    <variant>e-mail</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='erp' start='734585'>
+    <variant>ERP</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='2' idrefs='2' name='estimating'>
+    <variant>estimating</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='locheed martin' start='734585'>
+    <variant>Lockheed Martin</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='2' idrefs='2' name='mechanical'>
+    <variant>mechanical</variant>
+  </canonskill>
+  <canonskill name='microsoft office'>
+    <variant>Microsoft office</variant>
+  </canonskill>
+  <canonskill name='microsoft project'>
+    <variant>Microsoft Project</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='mrp' start='734585'>
+    <variant>MRP</variant>
+  </canonskill>
+  <canonskill name='office equipment'>
+    <variant>office equipment</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='2' idrefs='2' name='pricing'>
+    <variant>Pricing</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='procurement' start='734585'>
+    <variant>procurement</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='2' idrefs='2' name='purchasing'>
+    <variant>purchasing</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='sales' start='734585'>
+    <variant>Sales</variant>
+    <variant>sales</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='scheduling' start='734585'>
+    <variant>scheduling</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='2' idrefs='2' name='schematic diagrams'>
+    <variant>schematics</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='solomon' start='734585'>
+    <variant>Solomon</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='telecommunications' start='734585'>
+    <variant>telecommunications</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='telephone skills' start='734585'>
+    <variant>telephone</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

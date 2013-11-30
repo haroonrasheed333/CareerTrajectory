@@ -1,0 +1,147 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734596' xml:space='preserve'><contact><name><givenname>Kathleen</givenname> <givenname>M</givenname>. <surname>Schoon</surname></name>
+<address lat='42.3904' lon='71.0934' majorcity='SOMERVILLE' state='MA'><street>466 Medford St..; Apt 1</street>
+<city>Somerville</city>, <state abbrev='MA'>MA</state> <postalcode>02145</postalcode></address>
+<phone>978-618-2075</phone>
+<email>lavellekm@gmail.com</email></contact>
+
+<summary><summary>About me: Detail Oriented, energetic professional with experience in tradeshow planning, production and management, displaying excellent interpersonal skills with vendors, exhibitors and attendees, excellent problem solving capabilities as well as the ability to handle various projects simultaneously, while meeting deadlines.</summary></summary>
+
+<experience end='present' start='731735'>Professional Experience:
+<job end='732161' id='1' pos='2' sic='999999' sic2='99' start='731735'><employer>State Street Bank and Trust</employer>, <address><city>Boston</city>, <state abbrev='MA'>MA</state></address>
+<daterange><start days='731735' iso8601='2004-06-01'>June 2004</start> - <end days='732161' iso8601='2005-08-01'>August 2005</end></daterange>
+<title>Portfolio Accountant</title> - <description>managed highly time sensitive assignments for two large clients, paying close attention to small numerical details and meeting numerous deadlines for monthly closings.</description></job>
+
+<job end='present' id='2' pos='1' start='732161'><employer>METALCON International dba PSMJ Resources, Inc</employer>., <address><city>Newton</city>, <state abbrev='MA'>MA</state></address>
+		<daterange><start days='732161' iso8601='2005-08-01'>August 2005</start> - <end days='present' iso8601='2012-04-01'>Present</end></daterange>
+		<title>Exhibitor/Registration Coordinator and Web Manager</title>    
+
+Duties:
+<description>Coordinate exhibitor and attendee logistics, both pre-show and onsite, including the onsite supervision of temporary convention staff members, planning and executing registration processes, and providing onsite management for assigned meetings ranging from 30 to 300 attendees
+Develop marketing materials including company graphics and logos, power point presentations,  brochures and conference handouts
+Responsible for management of company website, and implementation/management of social networking sites (Facebook and LinkedIn)
+Serve as direct point of contact, pre-show and onsite, for vendors, attendees, and exhibitors concerning specifications, requirements, preferences, registration, confirmations, and cancellations
+Maintain/manage $1.5 million dollar budget for event financials, as well as managing a $200,000 corporate sponsorship budget  
+Manage proprietary company database 
+Proficient at software programs such as Vertical Response and responsible for all outbound email marketing campaigns 
+Responsible for client contact management via distribution of monthly Exhibitor Newsletters 
+Preparation of pre-event BEO's and onsite management of all food and beverage requirements
+Coordination of all logistics of a New Product Pavilion, including soliciting exhibitors participation, pre-show and onsite marketing and promotion, floor plan design and implementing all logistics on-site.
+Responsible for preparation and execution of all necessary shipments from company headquarters to show site
+Prepare PowerPoint presentations for Board of Directors</description></job></experience>  
+
+<skills>Related Computer Skills:
+Highly skilled in <skills>Microsoft Word, Excel and Power Point 
+Experienced in Vertical Response, a self-service, direct marketing software program. 
+Proficient in Photoshop and Dreamweaver.</skills></skills>
+<education>Education:
+<school id='3'><degree level='16' name='Bachelor of Arts'>BA</degree> in <major code='2999'>Humanities</major> with a minor in <minor code='4399 2608'>Business Studies and Spanish</minor> from <institution>Providence College</institution>, <completiondate days='731583' iso8601='2004-01-01'>2004</completiondate>
+Spring semester abroad at the <institution>University of Salamanca in Salamanca</institution>, Spain, <completiondate days='731218' iso8601='2003-01-01'>2003</completiondate>
+<courses>Certification in Meeting and Event Management from Northeastern University, 2008 (courses covered include Intro.to Meeting Management, Program Design, Audio Visual Technology, Contract Negotiation and Management, Budget and Financial Management, and On-site Conference Management)</courses></school></education>
+</resume>
+
+<skillrollup version='1'>
+  <canonskill name='adobe photoshop'>
+    <variant>Photoshop</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='3' idrefs='3' name='audio'>
+    <variant>Audio</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='brochure design' start='732161'>
+    <variant>brochures</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='3' end='734579' experience='1' expidrefs='2' idrefs='2,3' lastused='2012' name='budgeting' start='732161'>
+    <variant>Budget</variant>
+    <variant>budget</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='contact management' start='732161'>
+    <variant>contact management</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='3' idrefs='3' name='contract management'>
+    <variant>Contract Negotiation</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='customer relations' start='731735'>
+    <variant>client</variant>
+    <variant>clients</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='database administration' start='732161'>
+    <variant>database</variant>
+  </canonskill>
+  <canonskill name='direct marketing'>
+    <variant>direct marketing</variant>
+  </canonskill>
+  <canonskill name='dreamweaver'>
+    <variant>Dreamweaver</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='email' start='732161'>
+    <variant>email</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='3' idrefs='3' name='event management'>
+    <variant>Event Management</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='finance' start='732161'>
+    <variant>financials</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='3' idrefs='3' name='financial management'>
+    <variant>Financial Management</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='graphical user interface' start='732161'>
+    <variant>graphics</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='logistics' start='732161'>
+    <variant>logistics</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='logo design' start='732161'>
+    <variant>logos</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='management' start='732161'>
+    <variant>managing</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='marketing' start='732161'>
+    <variant>marketing</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='marketing materials' start='732161'>
+    <variant>marketing materials</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='meeting facilitation' start='732161'>
+    <variant>meetings</variant>
+  </canonskill>
+  <canonskill name='microsoft excel'>
+    <variant>Excel</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='microsoft powerpoint' start='732161'>
+    <variant>Power Point</variant>
+    <variant>power point</variant>
+    <variant>PowerPoint presentations</variant>
+  </canonskill>
+  <canonskill name='microsoft word'>
+    <variant>Microsoft Word</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='networking' start='732161'>
+    <variant>networking</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='newsletters' start='732161'>
+    <variant>Newsletters</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='presentation skills' start='732161'>
+    <variant>presentations</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='process engineering' start='732161'>
+    <variant>processes</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='3' idrefs='3' name='program design'>
+    <variant>Program Design</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='promotional materials' start='732161'>
+    <variant>promotion</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='supervisory skills' start='732161'>
+    <variant>supervision</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='web site production' start='732161'>
+    <variant>website</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

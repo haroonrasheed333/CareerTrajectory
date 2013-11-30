@@ -1,0 +1,250 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "IPEP", 
+            "Certification Name": "Internet Protocol Engineering Professional", 
+            "Type": "Core", 
+            "Certification ID": "8634", 
+            "Certifying Organization": "Society of Cable Telecommunications Engineers"
+        }, 
+        {
+            "Acronym": "CTP-S", 
+            "Certification Name": "Certified Telecom Professional - Silver", 
+            "Type": "Core", 
+            "Certification ID": "5961", 
+            "Certifying Organization": "Association of Telecom Management Professionals"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Telecommunications Senior Technician Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "7755", 
+            "Certifying Organization": "International Association for Radio, Telecommunications and  Electromagnetics"
+        }, 
+        {
+            "Acronym": "VolP", 
+            "Certification Name": "Broadband Voice over Internet Protocol", 
+            "Type": "Core", 
+            "Certification ID": "4359", 
+            "Certifying Organization": "ETA International"
+        }, 
+        {
+            "Acronym": "WNT", 
+            "Certification Name": "Wireless Network Technician", 
+            "Type": "Core", 
+            "Certification ID": "6828", 
+            "Certifying Organization": "ETA International"
+        }, 
+        {
+            "Acronym": "NCE", 
+            "Certification Name": "Master Telecommunications Engineer", 
+            "Type": "Advanced", 
+            "Certification ID": "2662", 
+            "Certifying Organization": "National Association of Radio and Telecommunications Engineers, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Microsoft Certified IT Professional: Lync Server Administrator 2010", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7471", 
+            "Certifying Organization": "Microsoft Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Telecommunications Junior Technician Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "7754", 
+            "Certifying Organization": "International Association for Radio, Telecommunications and  Electromagnetics"
+        }, 
+        {
+            "Acronym": "DVEP", 
+            "Certification Name": "Digital Video Engineering Professional", 
+            "Type": "Core", 
+            "Certification ID": "8633", 
+            "Certifying Organization": "Society of Cable Telecommunications Engineers"
+        }, 
+        {
+            "Acronym": "RCDD", 
+            "Certification Name": "Registered Communications Distribution Designer", 
+            "Type": "Advanced", 
+            "Certification ID": "1870", 
+            "Certifying Organization": "Building Industry Consulting Service International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Senior Telecommunications Engineer", 
+            "Type": "Advanced", 
+            "Certification ID": "2663", 
+            "Certifying Organization": "National Association of Radio and Telecommunications Engineers, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "CCNA Voice", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "3030", 
+            "Certifying Organization": "Cisco Systems, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Cisco IP Telephony Design Specialist", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8698", 
+            "Certifying Organization": "Cisco Systems, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "CCT Routing & Switching Certification", 
+            "Type": "Core", 
+            "Certification ID": "8695", 
+            "Certifying Organization": "Cisco Systems, Inc."
+        }, 
+        {
+            "Acronym": "CTP", 
+            "Certification Name": "Certified Telecom Professional - Platinum", 
+            "Type": "Core", 
+            "Certification ID": "5962", 
+            "Certifying Organization": "Association of Telecom Management Professionals"
+        }, 
+        {
+            "Acronym": "interim", 
+            "Certification Name": "Registered Telecommunications Project Manager (interim)", 
+            "Type": "Advanced", 
+            "Certification ID": "7007", 
+            "Certifying Organization": "Building Industry Consulting Service International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "CCT TelePresence", 
+            "Type": "Core", 
+            "Certification ID": "8697", 
+            "Certifying Organization": "Cisco Systems, Inc."
+        }, 
+        {
+            "Acronym": "CTP", 
+            "Certification Name": "Certified Telecom Professional - Master", 
+            "Type": "Core", 
+            "Certification ID": "5963", 
+            "Certifying Organization": "Association of Telecom Management Professionals"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Wireless Systems Installer Technician", 
+            "Type": "Core", 
+            "Certification ID": "2670", 
+            "Certifying Organization": "National Association of Radio and Telecommunications Engineers, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Telecommunications Master Engineer Certification", 
+            "Type": "Core", 
+            "Certification ID": "7759", 
+            "Certifying Organization": "International Association for Radio, Telecommunications and  Electromagnetics"
+        }, 
+        {
+            "Acronym": "FOIC", 
+            "Certification Name": "Fiber Optics Installer", 
+            "Type": "Specialty", 
+            "Certification ID": "0518", 
+            "Certifying Organization": "ETA International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "ITS Installer 2, Optical Fiber", 
+            "Type": "Advanced", 
+            "Certification ID": "6251", 
+            "Certifying Organization": "Building Industry Consulting Service International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Cisco Video Network Specialist", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8847", 
+            "Certifying Organization": "Cisco Systems, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Microsoft Certified Technology Specialist: Lync Server 2010, Configuring", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7488", 
+            "Certifying Organization": "Microsoft Corporation"
+        }, 
+        {
+            "Acronym": "CTP-G", 
+            "Certification Name": "Certified Telecom Professional - Gold", 
+            "Type": "Core", 
+            "Certification ID": "5960", 
+            "Certifying Organization": "Association of Telecom Management Professionals"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Telecommunications Junior Engineer Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "7757", 
+            "Certifying Organization": "International Association for Radio, Telecommunications and  Electromagnetics"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Cisco TelePresence Solutions Specialist", 
+            "Type": "Core", 
+            "Certification ID": "8717", 
+            "Certifying Organization": "Cisco Systems, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Telecommunications Master Technician Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "7756", 
+            "Certifying Organization": "International Association for Radio, Telecommunications and  Electromagnetics"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Telecommunications Senior Engineer Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "7758", 
+            "Certifying Organization": "International Association for Radio, Telecommunications and  Electromagnetics"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Senior Telecommunications Technician", 
+            "Type": "Advanced", 
+            "Certification ID": "2666", 
+            "Certifying Organization": "National Association of Radio and Telecommunications Engineers, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Alcatel-Lucent Network Routing Specialist", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "2907", 
+            "Certifying Organization": "Alcatel"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Alcatel-Lucent Network Routing Specialist II", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "2906", 
+            "Certifying Organization": "Alcatel"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Brocade Accredited WLAN Specialist", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8831", 
+            "Certifying Organization": "Brocade Communications Systems, Inc."
+        }, 
+        {
+            "Acronym": "NCE", 
+            "Certification Name": "Junior Telecommunications Engineer", 
+            "Type": "Core", 
+            "Certification ID": "2664", 
+            "Certifying Organization": "National Association of Radio and Telecommunications Engineers, Inc."
+        }, 
+        {
+            "Acronym": "FOTC", 
+            "Certification Name": "Fiber Optics Technician", 
+            "Type": "Specialty", 
+            "Certification ID": "0519", 
+            "Certifying Organization": "ETA International"
+        }
+    ], 
+    "onet": "15114301"
+}

@@ -1,0 +1,61 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CFPC&C", 
+            "Certification Name": "Fluid Power Connector and Conductor", 
+            "Type": "Advanced", 
+            "Certification ID": "2605", 
+            "Certifying Organization": "International Fluid Power Society"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Fluid Power Master Mechanic", 
+            "Type": "Advanced", 
+            "Certification ID": "2608", 
+            "Certifying Organization": "International Fluid Power Society"
+        }, 
+        {
+            "Acronym": "CFPMHM", 
+            "Certification Name": "Fluid Power Mobile Hydraulic Mechanic", 
+            "Type": "Advanced", 
+            "Certification ID": "0893", 
+            "Certifying Organization": "International Fluid Power Society"
+        }, 
+        {
+            "Acronym": "CFPIHM", 
+            "Certification Name": "Fluid Power Industrial Hydraulic Mechanic", 
+            "Type": "Advanced", 
+            "Certification ID": "0894", 
+            "Certifying Organization": "International Fluid Power Society"
+        }, 
+        {
+            "Acronym": "CLS", 
+            "Certification Name": "Certified Lubrication Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "2107", 
+            "Certifying Organization": "Society of Tribologists and Lubrication Engineers"
+        }, 
+        {
+            "Acronym": "CFPPM", 
+            "Certification Name": "Fluid Power Pneumatic Mechanic", 
+            "Type": "Advanced", 
+            "Certification ID": "0895", 
+            "Certifying Organization": "International Fluid Power Society"
+        }, 
+        {
+            "Acronym": "OMA", 
+            "Certification Name": "Oil Monitoring Analyst", 
+            "Type": "Core", 
+            "Certification ID": "2108", 
+            "Certifying Organization": "Society of Tribologists and Lubrication Engineers"
+        }, 
+        {
+            "Acronym": "CEM", 
+            "Certification Name": "Certified Equipment Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "9049", 
+            "Certifying Organization": "Association of Equipment Management Professionals"
+        }
+    ], 
+    "onet": "49304200"
+}

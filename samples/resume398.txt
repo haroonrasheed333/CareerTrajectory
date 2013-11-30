@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734593' xml:space='preserve'>K'<contact><name><givenname>Nycha</givenname> <givenname>N</givenname>. <surname>Johnson</surname></name>
+<address lat='33.1687' lon='96.9616' majorcity='LITTLE ELM' state='TX'><street>2628 Greyhawk Drive</street> * <city>Little Elm</city>, <state abbrev='TX'>TX</state> <postalcode>75068</postalcode></address>
+<phone>(469)450-6485</phone> cell * <phone type='cell'>(972)294-4045</phone> home * <email>knycha92@yahoo.com</email></contact>
+
+
+<summary>PROFESSIONAL SUMMARY
+<summary>Experienced Customer Service tasks and obtained interacting skills. Have a proven record of exhibiting strong interpersonal, organizational, and verbal/written communication skills. Able to multitask, learn quickly and apply knowledge to required tasks. Exhibit good judgment and great work ethics in a team environment. Deliver excellent results to customers and peers.</summary></summary>
+
+<skills>TECHNICAL SKILLS
+Software: <skills>Microsoft Office 2010 - (Outlook, Project, Exchange, Word, Works Suite, Excel, PowerPoint) 
+Operating Systems: Microsoft Windows 07, Vista, XP, 2000, 98, 95</skills></skills>
+
+<experience end='present' start='729757'>PROFESSIONAL EXPERIENCE
+<job id='1' start='733775'><employer>Abercrombie Kids Outlet</employer>			 	<address><city>Grapevine</city>, <state abbrev='TX'>TX</state></address>				<daterange><start days='733775' iso8601='2010-01-01'>2010</start></daterange>
+<title>Model</title>
+<description>Greeted customers and assisted in sales
+Operated cash register and made cash/credit card transactions
+Maintained  inventory and stocked items in the store 
+Answered telephones and gave information to callers, taken messages, or transferred calls to appropriate individuals</description></job>
+
+<job end='733775' id='2' pos='4' start='733410'><employer>Delaware North Companies</employer>			<address><city>Frisco</city>, <state abbrev='TX'>TX</state></address>				<daterange><start days='733410' iso8601='2009-01-01'>2009</start>-<end days='733775' iso8601='2010-01-01'>2010</end></daterange>
+<title>Cashier/Prep</title> for Frisco Roughriders
+<description>Greeted customers and assisted in sales
+Operated cash register and made cash/credit card transactions
+Prepared and delivered food for customers
+Maintained concession duties and  asset inventory</description></job>
+
+<job end='733775' id='3' pos='6' sic='8661' sic2='86' start='733044'><employer>Friendship Baptist Church				The Colony TX</employer> 				<daterange><start days='733044' iso8601='2008-01-01'>2008</start>-<end days='733775' iso8601='2010-01-01'>2010</end></daterange>
+<title>Teacher Assistant</title> for Summer Camp
+<description>Assisted young children between ages 5-12 for Summer Camp
+Monitored classroom activities
+Answered telephones and gave information to callers, taken messages, or transferred calls to appropriate individuals
+Ordered, received, and maintained office supplies.
+Made copies of correspondence and other printed material.</description>
+ 
+AWARDS AND RECOGNITION
+<description>Track &amp; Field Freshman of the Year Award							2010
+National Youth Leadership Forum on Medicine						2008</description></job>
+
+VOLUNTEER EXPERIENCE      								 
+<job end='present' id='4' pos='1' sic='832204' sic2='83' start='734505'><employer>Healthcare Associates</employer> (<employer>P.A Sherry Masterson</employer>						<daterange><start days='734505' iso8601='2012-01-01'>2012</start>-<end days='present' iso8601='2012-03-29'>Present</end></daterange></job>
+<job id='5' start='734140'><title>Food Shelter Volunteer</title>-St, <employer>Phillips School and Community Center</employer>				<daterange><start days='734140' iso8601='2011-01-01'>2011</start></daterange></job>
+<job end='present' id='6' pos='2' start='731583'><employer>LE Lightning Sports</employer> (Non-Profit 501c3 organization)						<daterange><start days='731583' iso8601='2004-01-01'>2004</start>-<end days='present' iso8601='2012-03-29'>Present</end></daterange></job>	
+<job end='present' id='7' pos='3' sic='866107' sic2='86' start='729757'><employer>Friendship Baptist Church</employer>									<daterange><start days='729757' iso8601='1999-01-01'>1999</start>-<end days='present' iso8601='2012-03-29'>Present</end></daterange>
+<description>Susan B. Komen Race for the Cure 5k Run/Walk						2009-2011
+March of Dimes for Babies								2011-2012	
+Juvenile Diabetes Research Foundation - Walk to Cure Diabetes				2010</description></job> 
+<job end='733775' id='8' pos='5' start='733410'><title>Student Aide</title> (<employer>Little Elm High School Athletics</employer>)						<daterange><start days='733410' iso8601='2009-01-01'>2009</start>-<end days='733775' iso8601='2010-01-01'>2010</end></daterange></job>
+	
+<job end='733044' id='9' pos='7' sic='832222' sic2='83' start='732679'><employer>Young People Who Care</employer>									<daterange><start days='732679' iso8601='2007-01-01'>2007</start>-<end days='733044' iso8601='2008-01-01'>2008</end></daterange></job></experience>
+
+
+<education>EDUCATION
+<school id='10'><institution>Texas A&amp;M University</institution>, <address><city>Commerce</city>, <state abbrev='TX'>TX</state></address>
+<courses>Undergraduate Biological Science</courses> <daterange>Major							<start days='733775' iso8601='2010-01-01'>2010</start>-<end days='present' iso8601='2012-03-29'>Present</end></daterange></school>
+
+<school id='11'><institution>Little Elm High School</institution>, <address><city>Little Elm</city>, <state abbrev='TX'>TX</state></address>							<daterange><start days='732314' iso8601='2006-01-01'>2006</start>-<end days='733775' iso8601='2010-01-01'>2010</end></daterange>
+<degree level='12'>High School Diploma</degree></school></education>								 								 
+
+
+
+
+
+
+
+
+
+
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='733775' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2010' name='cashier' start='733410'>
+    <variant>cash register</variant>
+  </canonskill>
+  <canonskill end='733775' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2010' name='credit' start='733410'>
+    <variant>credit</variant>
+  </canonskill>
+  <canonskill end='733775' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2010' name='inventory management' start='733410'>
+    <variant>inventory</variant>
+  </canonskill>
+  <canonskill end='733775' experience='1' expidrefs='3' idrefs='3' lastused='2010' name='leadership' start='733044'>
+    <variant>Leadership</variant>
+  </canonskill>
+  <canonskill name='microsoft excel'>
+    <variant>Excel</variant>
+  </canonskill>
+  <canonskill name='microsoft exchange'>
+    <variant>Exchange</variant>
+  </canonskill>
+  <canonskill end='733775' experience='1' expidrefs='3' idrefs='3' lastused='2010' name='microsoft office' start='733044'>
+    <variant>Microsoft Office</variant>
+    <variant>office</variant>
+  </canonskill>
+  <canonskill name='microsoft outlook'>
+    <variant>Outlook</variant>
+  </canonskill>
+  <canonskill name='microsoft powerpoint'>
+    <variant>PowerPoint</variant>
+  </canonskill>
+  <canonskill name='microsoft windows'>
+    <variant>Microsoft Windows</variant>
+  </canonskill>
+  <canonskill name='microsoft windows 2000'>
+    <variant>2000</variant>
+  </canonskill>
+  <canonskill name='microsoft windows 98'>
+    <variant>98</variant>
+  </canonskill>
+  <canonskill name='microsoft word'>
+    <variant>Word</variant>
+  </canonskill>
+  <canonskill name='microsoft works'>
+    <variant>Works</variant>
+  </canonskill>
+  <canonskill name='operating systems'>
+    <variant>Operating Systems</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='7' idrefs='7' lastused='2012' name='research' start='729757'>
+    <variant>Research</variant>
+  </canonskill>
+  <canonskill end='733775' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2010' name='sales' start='733410'>
+    <variant>sales</variant>
+  </canonskill>
+  <canonskill end='733775' experience='1' expidrefs='1,3' idrefs='1,3' lastused='2010' name='telephone skills' start='733044'>
+    <variant>telephones</variant>
+  </canonskill>
+  <canonskill name='vista'>
+    <variant>Vista</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

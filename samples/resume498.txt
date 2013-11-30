@@ -1,0 +1,367 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734594' xml:space='preserve'>Linda Lhota 	 PAGE 3
+	 	 
+
+Linda Lhota 	 PAGE 2
+	 	 
+
+<contact><name><givenname>Linda</givenname> <surname>Lhota</surname></name>
+<address lat='42.4723' lon='83.294' majorcity='SOUTHFIELD' state='MI'><street>25040 Glenbrooke Dr.	248-342-5679</street>
+<city>Southfield</city>, <state abbrev='MI'>MI</state> <postalcode>48033</postalcode></address> 	<email>ljlhota@gmail.com</email>
+		<website>http://www.linkedin.com/in/lindalhota</website></contact>
+		
+SYSTEM ANALYST
+<summary>Solution Design; Z/OS System Software Knowledge; Problem Analysis
+Experienced Information Technology System Analyst with strong analytical skills and the ability to design solutions, streamline processes and maintain software to improve business efficiencies serving Fortune 500 companies in the automotive, manufacturing and government sectors. Strengths include: mainframe system support, planning and implementation, skilled problem analysis and adaptability of skills to new areas.</summary>
+
+
+
+<skills>CORE COMPETENCIES
+
+<skills>Z/OS System Builds
+JES2
+SMP/E
+ACF2
+RACF
+Software Upgrades
+System Migrations
+Disaster Recovery
+Documentation writing
+System Standardization
+Quality Assurance
+Configuration
+Storage Management
+Project Leadership 
+Vendor/Client Relationships</skills></skills>
+
+
+
+
+<experience end='present' start='723183'>PROFESSIONAL EXPERIENCE
+
+
+<job end='present' id='1' inferred-to='1,3' naics='51821008' naics2='51' pos='2' sic='354407' sic2='35' start='724644'><employer>EDS</employer>, an <employer>HP Company</employer>, <address><city>Pontiac</city>, <state abbrev='MI'>MI</state></address>	<daterange><start days='724644' iso8601='1985-01-01'>1985</start> - <end days='present' iso8601='2012-03-30'>Present</end></daterange>
+<description>International technology company featuring software, services and IT infrastructure.</description></job>
+	
+	
+<job end='present' id='2' inferred-from='2' pos='1' sic='354407' sic2='35' start='727200'><title>Systems Analyst/Technical Consultant</title>	<daterange><start days='727200' iso8601='1992-01-01'>1992</start> - <end days='present' iso8601='2012-03-30'>Present</end></daterange>
+<description>Experienced Z/OS System Programmer supporting multiple clients including many Fortune 500 Companies in the automotive, manufacturing and government sectors. Specialized in Mainframe software system builds, customization, upgrades, migrations, maintenance, process improvements and problem analysis. Skilled at writing for technical and non-technical audiences. Adept at interfacing well with other support teams, vendors and clients. Proficient with IBM Software and other 3rd party program product software including Computer Associates, Compuware, Rocket, ASG and many others.
+
+
+System Upgrades and Builds
+Upgraded the County of San Diego from several operating system releases behind to current supported software levels in 6 months by building a test environment for non-disruptive testing and then deployed a standard environment, that reduced resources required for ongoing support by 75%.
+Created plan and procedures to migrate and convert 25 GM Plant systems with diverse configurations from an obsolete storage environment to new hardware with no disruption and also implemented standards that positioned the systems for future planned upgrades
+Designed, built and deployed a standard operating environment across 25 diverse GM Plant systems that brought the sites up to current supported software levels and reduced support resources required due to the standardization by 40%.
+Built new data center systems for GM Assembly Plants in Shanghai China and Lansing Michigan. Performed onsite configuration and system load until network connectivity established for full remote team support.
+Mentoring and training for System Support team at Detroit Diesel while assisting them with Z/OS system upgrade. Trained peers on how to use internal tools to assist with upgrade as well as provided technical advice and problem diagnosis assistance.
+
+Process Improvements
+Significantly improved 8 Nissan North America systems' shutdown and start-up procedures by making the procedures clear, accurate and more automated which eliminated errors and delays in the maintenance windows and reduced the need for additional monitoring resources.
+Developed, documented, implemented and successfully tested Disaster Recovery Procedures for GM Plant Systems and the County Of San Diego. This included coding to dynamically generate backup and restoration jobs. 
+
+System Migrations
+Successfully moved County of San Diego system from another service provider data center in a 48 hour time frame with limited migration technology methods by developing a documented practiced process to generate jobs to restore the system and apply required changes for the new environment.
+Successful transfer of support of 8 Nissan Systems from previous service provider IBM by studying the systems, learning the product mix and meeting with IBM support to identify information needed and documenting it. No production disruption occurred with the transition. 
+Successful transfer of 4RJ Reynolds Systems from internal support team by studying and documenting the systems and meeting with internal team for knowledge transfer. No production disruption occurred with the transition.</description></job>
+
+
+
+<job end='727200' id='3' inferred-from='2' pos='3' sic='354407' sic2='35' start='724644'><title>System Programmer CICS, ADABAS, COM-PLETE</title>	 <daterange><start days='724644' iso8601='1985-01-01'>1985</start>-<end days='727200' iso8601='1992-01-01'>1992</end></daterange>
+<description>Provided system support for Interactive software CICS and Software AG products ADABAS and COM-PLETE. Included installation, configuration, problem diagnosis and performance support.</description></job> 
+
+
+<job end='724644' id='4' naics='44112005' naics2='44' pos='4' sic='801101' sic2='80' start='723183'><employer>General Motors</employer>, <address><city>Warren</city>, <state abbrev='MI'>MI</state></address> 	<daterange><start days='723183' iso8601='1981-01-01'>1981</start>-<end days='724644' iso8601='1985-01-01'>1985</end></daterange> 	
+<title>Application Programmer</title>
+<description>Application Programmer in Financial systems at Chevrolet Central Office. Developed skills in PL/1, COBOL, CICS programming and JCL. Designed, developed and maintained financial systems</description></job></experience>
+
+
+<education>EDUCATION
+
+<school id='5'><degree level='16'>Bachelors of Science</degree>, <major code='0402'>Computer Science</major>,
+<institution>Wayne State University</institution>, <address><city>Detroit</city>, <state abbrev='MI'>Michigan</state></address></school></education>
+
+
+<professional>PROFESSIONAL DEVELOPMENT
+
+<description>Completed EDS System Programmer Development training program, which was a comprehensive curriculum consisting of internal and vendor course work. This included fundamentals of MVS operating system. Specialized in Software AG products ADABAS and COM-PLETE.</description></professional>
+
+<skills>SKILLS ADDENDUM
+<skills>IBM Software and Tools
+
+Z/OS</skills>
+MVS
+<courses>JES2
+SMP/E
+RACF
+SDSF
+NETVIEW
+DFSORT
+CONNECT:DIRECT
+Tivoli Decision Support
+Tivoli License Cmpl.
+VTAM
+OMVS
+TCP/IP
+OAM
+VM
+CICS
+IMS
+OMEGAMON
+ATL
+TSO
+ISPF
+HCD
+Shop Z-Series
+IBMLINK
+IODF
+
+
+Programming Languages
+
+PL/1
+JCL
+COBOL
+REXX
+ASSEMBLER
+
+
+
+
+Computer Associates Software
+
+CA-1
+CA-7
+CA-11
+SYSVIEW
+MIM
+SPOOL
+ACF2
+Common Services
+PANVALET
+EASYTRIEVE
+TPX
+NETSPY
+JMR
+SMR
+OPSMVS
+EXAMINE
+CREWS
+SORT
+
+
+
+Other Vendor Software
+
+BMC
+COMPUWARE
+SYNCSORT
+EMC
+ROCKET
+CHICAGO SOFT.
+ASG
+LRS (VPS)
+PKWARE(PKZIP)
+PitneyBowes(CODE-1)</courses>
+SAS
+
+
+Other Technical Skills
+<skills>Microsoft Office
+Change Management Processes
+Problem Management Processes</skills></skills>
+
+</resume>
+
+<skillrollup version='1'>
+  <canonskill name='acf2'>
+    <variant>ACF2</variant>
+  </canonskill>
+  <canonskill experience='1' name='adabas'>
+    <variant>ADABAS</variant>
+  </canonskill>
+  <canonskill experience='1' name='assembly language'>
+    <variant>ASSEMBLER</variant>
+    <variant>Assembly</variant>
+  </canonskill>
+  <canonskill name='atl'>
+    <variant>ATL</variant>
+  </canonskill>
+  <canonskill experience='1' name='automotive'>
+    <variant>automotive</variant>
+  </canonskill>
+  <canonskill experience='1' name='backup'>
+    <variant>backup</variant>
+  </canonskill>
+  <canonskill name='ca1'>
+    <variant>CA-1</variant>
+  </canonskill>
+  <canonskill name='ca11'>
+    <variant>CA-11</variant>
+  </canonskill>
+  <canonskill name='ca7'>
+    <variant>CA-7</variant>
+  </canonskill>
+  <canonskill name='change management'>
+    <variant>Change Management</variant>
+  </canonskill>
+  <canonskill experience='1' name='cics'>
+    <variant>CICS</variant>
+  </canonskill>
+  <canonskill experience='1' name='cobol'>
+    <variant>COBOL</variant>
+  </canonskill>
+  <canonskill experience='1' name='com'>
+    <variant>COM</variant>
+  </canonskill>
+  <canonskill experience='1' name='computer hardware'>
+    <variant>hardware</variant>
+  </canonskill>
+  <canonskill experience='1' name='customer relations'>
+    <variant>Client</variant>
+    <variant>clients</variant>
+  </canonskill>
+  <canonskill name='decision support'>
+    <variant>Decision Support</variant>
+  </canonskill>
+  <canonskill experience='1' name='diagnosis'>
+    <variant>diagnosis</variant>
+  </canonskill>
+  <canonskill experience='1' name='disaster recovery planning'>
+    <variant>Disaster Recovery</variant>
+  </canonskill>
+  <canonskill name='documentation'>
+    <variant>Documentation</variant>
+  </canonskill>
+  <canonskill name='easytrieve'>
+    <variant>EASYTRIEVE</variant>
+  </canonskill>
+  <canonskill experience='1' name='financial'>
+    <variant>Financial</variant>
+    <variant>financial</variant>
+  </canonskill>
+  <canonskill experience='1' name='framing'>
+    <variant>frame</variant>
+  </canonskill>
+  <canonskill experience='1' name='government'>
+    <variant>government</variant>
+  </canonskill>
+  <canonskill experience='1' name='ibm'>
+    <variant>IBM</variant>
+  </canonskill>
+  <canonskill name='ibm mvs'>
+    <variant>MVS</variant>
+  </canonskill>
+  <canonskill experience='1' name='ibm software'>
+    <variant>IBM Software</variant>
+  </canonskill>
+  <canonskill name='ims'>
+    <variant>IMS</variant>
+  </canonskill>
+  <canonskill experience='1' name='jcl'>
+    <variant>JCL</variant>
+  </canonskill>
+  <canonskill name='jes 2'>
+    <variant>JES2</variant>
+  </canonskill>
+  <canonskill name='languages'>
+    <variant>Languages</variant>
+  </canonskill>
+  <canonskill experience='1' name='mainframe'>
+    <variant>Mainframe</variant>
+  </canonskill>
+  <canonskill experience='1' name='mentoring'>
+    <variant>Mentoring</variant>
+  </canonskill>
+  <canonskill experience='1' name='microsoft office'>
+    <variant>Microsoft Office</variant>
+    <variant>Office</variant>
+  </canonskill>
+  <canonskill experience='1' name='microsoft windows'>
+    <variant>windows</variant>
+  </canonskill>
+  <canonskill experience='1' name='migration'>
+    <variant>migration</variant>
+  </canonskill>
+  <canonskill name='netview'>
+    <variant>NETVIEW</variant>
+  </canonskill>
+  <canonskill experience='1' name='networking'>
+    <variant>network</variant>
+  </canonskill>
+  <canonskill name='omegamon'>
+    <variant>OMEGAMON</variant>
+  </canonskill>
+  <canonskill experience='1' name='operating systems'>
+    <variant>OS</variant>
+    <variant>operating system</variant>
+  </canonskill>
+  <canonskill name='panvalet'>
+    <variant>PANVALET</variant>
+  </canonskill>
+  <canonskill name='pkzip'>
+    <variant>PKZIP</variant>
+  </canonskill>
+  <canonskill experience='1' name='pl/1'>
+    <variant>PL/1</variant>
+  </canonskill>
+  <canonskill experience='1' name='problem analysis'>
+    <variant>problem analysis</variant>
+  </canonskill>
+  <canonskill name='process engineering'>
+    <variant>Processes</variant>
+  </canonskill>
+  <canonskill experience='1' name='programming'>
+    <variant>coding</variant>
+    <variant>Programmer</variant>
+    <variant>Programming</variant>
+    <variant>programming</variant>
+  </canonskill>
+  <canonskill name='project management'>
+    <variant>Project Leadership</variant>
+  </canonskill>
+  <canonskill name='quality control'>
+    <variant>Quality Assurance</variant>
+  </canonskill>
+  <canonskill name='racf'>
+    <variant>RACF</variant>
+  </canonskill>
+  <canonskill name='rexx'>
+    <variant>REXX</variant>
+  </canonskill>
+  <canonskill experience='1' name='san'>
+    <variant>San</variant>
+  </canonskill>
+  <canonskill name='sas'>
+    <variant>SAS</variant>
+  </canonskill>
+  <canonskill name='smp/e'>
+    <variant>SMP/E</variant>
+  </canonskill>
+  <canonskill name='syncsort'>
+    <variant>SYNCSORT</variant>
+  </canonskill>
+  <canonskill name='tcp/ip'>
+    <variant>TCP/IP</variant>
+  </canonskill>
+  <canonskill name='tivoli'>
+    <variant>Tivoli</variant>
+  </canonskill>
+  <canonskill name='tso ispf'>
+    <variant>TSO
+ISPF</variant>
+  </canonskill>
+  <canonskill experience='1' name='upgrades'>
+    <variant>Upgrades</variant>
+    <variant>upgrades</variant>
+    <variant>upgrade</variant>
+  </canonskill>
+  <canonskill name='vm'>
+    <variant>VM</variant>
+  </canonskill>
+  <canonskill name='vtam'>
+    <variant>VTAM</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

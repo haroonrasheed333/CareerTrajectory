@@ -1,0 +1,340 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734582' xml:space='preserve'><contact><name><givenname>Kesete</givenname>  <givenname>A</givenname>. <surname>Takele</surname></name>				
+<address lat='37.3521' lon='121.958' majorcity='SANTA CLARA' state='CA'><street>1318 Hope Dr.  206</street>, <city>Santa Clara</city>, <state abbrev='CA'>CA</state> <postalcode>95054</postalcode></address>		 
+Phone: c <phone type='cell'>(408) 807-8411</phone>, h <phone type='home'>(408) 496-6009</phone>
+e-mail: <email>kesetea@yahoo.com</email></contact>
+
+
+
+
+<summary>Profile:
+IT professional with education and progressive experience in help desk, technical support, and network administration. Additional experience in hardware/software installation, testing and troubleshooting. Solid project management, and team-building skills. In pursuit of an entry-level Network/Systems Administrator/Data center role that leverages skill-set and presents challenging opportunities</summary>
+
+<education>Education &amp; Training:
+
+<school id='5'><institution>Cisco Networking Academy  
+             Mission College</institution>, <address><city>Santa Clara</city>, <state abbrev='CA'>CA</state></address>, <daterange><start days='733775' iso8601='2010-01-01'>Jan 2010</start>-<end days='present' iso8601='2012-03-18'>Current</end></daterange>
+<courses>Database  Driven Web application using PHP and MySQL</courses></school>  
+           <school id='6'><institution>Mission College</institution>, <address><city>Santa Clara</city>, <state abbrev='CA'>CA</state></address>, <daterange><start days='734171' iso8601='2011-02-01'>Feb 2011</start>-<end days='734260' iso8601='2011-05-01'>May-2011</end></daterange>
+     
+<degree level='18' name='Master of Science'>M.S</degree>. <major code='0402'>Computer Science</major> ( Pending)								<institution>San Jose State University</institution>, <address><city>San Jose</city>, <state abbrev='CA'>CA</state></address>, <daterange><start days='732679' iso8601='2007-01-01'>2007</start>- <end days='present' iso8601='2012-03-18'>Present</end></daterange></school>
+<school id='7'><degree level='16' name='Bachelor of Science'>B.S</degree>.  <major code='0402'>Computer Science</major> 									<institution>California State- Sacramento</institution>, <address><city>Sacramento</city>, <state abbrev='CA'>CA</state></address>, <completiondate days='731338' iso8601='2003-05-01'>May 2003</completiondate></school></education>
+
+<skills>Skills:
+Experience with <skills>C, C++, Java, Visual C++, HTML/XHTML, PHP, Perl and JavaScript. Oracle, SQL. Knowledge and hands on experience with MS Office suite, Visual Studio suite, Blue Jay, Windows NT/2000/2003/XP, hp-UNIX,BSD-UNIX, VMware, Cygwin.  
+
+Knowledge of software quality principles and evaluation methodologies including the development of Test Matrix and verification techniques. 
+
+Working knowledge of TCP/IP subneting and calculating IPv4/IPv6 addresses for routers, switches and host devices,  installing static routes and configuring dynamic routing protocols.   
+
+Working knowledge of Class full  and  Classless routing protocols RIPv1, RIPv2, EIGRP,   
+       and OSPF
+
+Working knowledge of   separating  large broadcast domains into smaller ones with VLANs,  
+      configuring switch trunk  spanning-tree protocol (STP) and VLAN Trunking Protocol   
+      (VTP)
+
+Working knowledge of WAN interfaces including  Configuring Frame Relay and point to  
+       point connection   on Cisco Router
+
+Understanding of system's vulnerability, threats, attacks, and  RFC2196, ISO/IEC 27002  Network Security guidelines 
+
+Working knowledge of  configuring Access Control List (ACL),  Extended ACL and Policy Based Routing (PBR)  to provide security for  data  network  
+
+Working knowledge of configuring Dynamic Host Configuration protocol (DHCP) and Network Address Translation(NAT) on Cisco router</skills></skills>  
+
+
+
+<experience end='present' start='728630'>Projects:
+<job end='present' id='1' pos='1' start='734199'><description>Database Interfaced Airlines Reservation system
+Software Engineering project- a course designed to provide a window of knowledge to the process of the entire software development life cycle
+Developed customer requirements, Software Requirement Specification(SRS), the Software Project Management Plan(SPMP), Software Design Documents(SDD),  Software System Proposal(SSP), Software Test Description (STD) and User's Manual(UM)
+Designed and created Oracle based database tables and a graphical user interface to query the system. The system was complete within budget and delivered on schedule.  
+Ethernet Technology interface system
+Learned principals of Local area networks(LAN), the Metropolitans  Area Networks(MAN),  the Wide Area Networks(WAN) and the Internet  as well as their integral parts of  the Hardware/Software technologies
+Developed, tested and implemented the system based on ISO 7-Layers Reference Model and completed on schedule.
+Student Counseling System
+The web driven system provided undergraduate students automatic counseling on  what classes they should be enrolled-in next based on their prerequisite
+Lead role in project implementation ( Project manager for the development of the new system
+Fully incorporated  the Software Development Life Cycle Model 
+Contributed to the production of  the required  documents and the development of  codes implementing XHTML, CSS, JavaScript, SQL and designing Database Schema 
+The system was complete within the allotted budget and delivered on schedule to the University department</description>
+
+Work History:
+
+<title>Web and Content Designer/volunteer</title> -LCA a non-profit Association            <daterange><start days='734199' iso8601='2011-03-01'>03/2011</start>- <end days='present' iso8601='2012-03-18'>Present</end></daterange>
+<description>Responsible for gathering information of the functional requirements 
+Responsible for designing and creating XHTML forms and processing scripts
+Responsible for designing and creating dynamic and static web pages  
+Responsible for updating and maintaining the site</description></job>  
+
+ <job end='731369' id='2' naics='61131009' naics2='61' pos='2' sic='829912' sic2='82' start='731096'><title>Student assistant</title> - <employer>California State University</employer>, <address><city>Sacramento</city>, <state abbrev='CA'>CA</state></address> 	            <daterange><start days='731096' iso8601='2002-09-01'>09/02</start>-<end days='731369' iso8601='2003-06-01'>6/03</end></daterange>
+<description>Helped the professor with grading, reviewing  Software Development  Life
+             Cycle  technical documents and developed, maintained a home page for him
+Tutored undergraduate students on programming languages including XHTML/CSS and 
+             Creating database tables on Oracle DBMS</description></job> 
+  
+<job end='729788' id='3' pos='3' start='729331'><title>Computer Operator</title> -<employer>Advanced Tech International</employer>, <address><city>Milpitas</city>, <state abbrev='CA'>CA</state></address>       		<daterange><start days='729331' iso8601='1997-11-01'>11/97</start>-<end days='729788' iso8601='1999-02-01'>2/99</end></daterange>
+<description>Configured and mounted removable Hard Drives, Magneto Optic and Tape drives.  
+Scanned images using Mekel Microfilm scanner, restored and backed up files using
+             Novaback and Windows NT tape backup/restore systems. Performed a Low Level  
+             Formatting to increase the volume of disk space 
+Upgraded, installed  Software/Hardware components
+Debugged and maintained Software/Hardware and Network connectivity 
+provided Technical support for department employees.</description></job>
+
+<job end='729300' id='4' pos='4' start='728630'><title>Debug Technician</title>- <employer>Roberta Enterprises at Sequel inc</employer>, <address><city>Santa Clara</city>, <state abbrev='CA'>CA</state></address>                  <daterange><start days='728630' iso8601='1995-12-01'>12/95</start>-<end days='729300' iso8601='1997-10-01'>10/97</end></daterange>  
+
+<description>Debugged a hard disc dive problems-verified compatibility, configured  the appropriate jumper settings, verified the drive-type settings  in the system BIOS, resolved I/O  address conflicts and replaced the read/write head.</description></job></experience>  
+
+
+
+
+<statements>STATUS:  <personal><citizenship>US</citizenship> Citizen</personal></statements>  
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='729788' experience='1' expidrefs='3' idrefs='3' lastused='1999' name='backup' start='729331'>
+    <variant>tape backup</variant>
+  </canonskill>
+  <canonskill name='broadcast'>
+    <variant>broadcast</variant>
+  </canonskill>
+  <canonskill name='bsd'>
+    <variant>BSD</variant>
+  </canonskill>
+  <canonskill experience='1' name='budgeting'>
+    <variant>budget</variant>
+  </canonskill>
+  <canonskill name='c'>
+    <variant>C</variant>
+  </canonskill>
+  <canonskill name='c + +'>
+    <variant>C++</variant>
+  </canonskill>
+  <canonskill name='cisco routers'>
+    <variant>Cisco Router</variant>
+    <variant>Cisco router</variant>
+  </canonskill>
+  <canonskill end='729788' experience='1' expidrefs='3' idrefs='3' lastused='1999' name='computer hardware' start='729331'>
+    <variant>Hardware</variant>
+  </canonskill>
+  <canonskill experience='1' name='counseling'>
+    <variant>Counseling</variant>
+    <variant>counseling</variant>
+  </canonskill>
+  <canonskill end='731369' experience='1' expidrefs='2' idrefs='2' lastused='2003' name='css' start='731096'>
+    <variant>CSS</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='5' end='731369' experience='1' expidrefs='2' idrefs='5,2' lastused='2003' name='database administration' start='731096'>
+    <variant>Database</variant>
+    <variant>database</variant>
+  </canonskill>
+  <canonskill end='731369' experience='1' expidrefs='2' idrefs='2' lastused='2003' name='database management system' start='731096'>
+    <variant>DBMS</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='design' start='734199'>
+    <variant>designing</variant>
+  </canonskill>
+  <canonskill name='dhcp'>
+    <variant>DHCP</variant>
+    <variant>Dynamic Host Configuration protocol</variant>
+  </canonskill>
+  <canonskill name='eigrp'>
+    <variant>EIGRP</variant>
+  </canonskill>
+  <canonskill experience='1' name='ethernet'>
+    <variant>Ethernet</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='forms' start='734199'>
+    <variant>forms</variant>
+  </canonskill>
+  <canonskill name='frame relay'>
+    <variant>Frame Relay</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='functional' start='734199'>
+    <variant>functional</variant>
+  </canonskill>
+  <canonskill experience='1' name='graphical user interface'>
+    <variant>graphical user interface</variant>
+  </canonskill>
+  <canonskill end='729788' experience='1' expidrefs='3' idrefs='3' lastused='1999' name='hard drives' start='729331'>
+    <variant>Hard Drives</variant>
+  </canonskill>
+  <canonskill name='html'>
+    <variant>HTML</variant>
+  </canonskill>
+  <canonskill experience='1' name='iso'>
+    <variant>ISO 7</variant>
+    <variant>ISO</variant>
+  </canonskill>
+  <canonskill name='java'>
+    <variant>Java</variant>
+  </canonskill>
+  <canonskill experience='1' name='javascript'>
+    <variant>JavaScript</variant>
+  </canonskill>
+  <canonskill experience='1' name='lan'>
+    <variant>Local area networks</variant>
+    <variant>LAN</variant>
+  </canonskill>
+  <canonskill end='731369' experience='1' expidrefs='2' idrefs='2' lastused='2003' name='languages' start='731096'>
+    <variant>languages</variant>
+  </canonskill>
+  <canonskill name='microsoft access'>
+    <variant>Access</variant>
+  </canonskill>
+  <canonskill name='microsoft office'>
+    <variant>MS Office suite</variant>
+  </canonskill>
+  <canonskill experience='1' name='microsoft windows'>
+    <variant>window</variant>
+  </canonskill>
+  <canonskill name='microsoft windows 2000'>
+    <variant>2000</variant>
+  </canonskill>
+  <canonskill end='729788' experience='1' expidrefs='3' idrefs='3' lastused='1999' name='microsoft windows nt' start='729331'>
+    <variant>Windows NT</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='5' idrefs='5' name='mysql'>
+    <variant>MySQL</variant>
+  </canonskill>
+  <canonskill name='network security'>
+    <variant>Network Security</variant>
+  </canonskill>
+  <canonskill end='729788' experience='1' expidrefs='3' idrefs='3' lastused='1999' name='networking' start='729331'>
+    <variant>Network</variant>
+    <variant>network</variant>
+    <variant>Networks</variant>
+  </canonskill>
+  <canonskill experience='1' name='next'>
+    <variant>next</variant>
+  </canonskill>
+  <canonskill end='731369' experience='1' expidrefs='2' idrefs='2' lastused='2003' name='oracle' start='731096'>
+    <variant>Oracle</variant>
+  </canonskill>
+  <canonskill name='ospf'>
+    <variant>OSPF</variant>
+  </canonskill>
+  <canonskill end='731369' experience='1' expidrefs='2' idrefs='2' lastused='2003' name='page' start='731096'>
+    <variant>page</variant>
+  </canonskill>
+  <canonskill name='perl'>
+    <variant>Perl</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='5' idrefs='5' name='php'>
+    <variant>PHP</variant>
+  </canonskill>
+  <canonskill end='731369' experience='1' expidrefs='2' idrefs='2' lastused='2003' name='programming' start='731096'>
+    <variant>programming</variant>
+  </canonskill>
+  <canonskill experience='1' name='project management'>
+    <variant>Project Management</variant>
+  </canonskill>
+  <canonskill experience='1' name='proposal writing'>
+    <variant>Proposal</variant>
+  </canonskill>
+  <canonskill name='protocols'>
+    <variant>protocols</variant>
+  </canonskill>
+  <canonskill name='quality'>
+    <variant>quality</variant>
+  </canonskill>
+  <canonskill end='729300' experience='1' expidrefs='4' idrefs='4' lastused='1997' name='read' start='728630'>
+    <variant>read</variant>
+  </canonskill>
+  <canonskill experience='1' name='requirements'>
+    <variant>Requirement</variant>
+  </canonskill>
+  <canonskill name='routers'>
+    <variant>routers</variant>
+    <variant>Routing</variant>
+    <variant>routing</variant>
+  </canonskill>
+  <canonskill end='729788' experience='1' expidrefs='3' idrefs='3' lastused='1999' name='scanners' start='729331'>
+    <variant>scanner</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='shell scripting' start='734199'>
+    <variant>scripts</variant>
+  </canonskill>
+  <canonskill experience='1' name='software architecture'>
+    <variant>Software Design</variant>
+  </canonskill>
+  <canonskill end='731369' experience='1' expidrefs='2' idrefs='2' lastused='2003' name='software development' start='731096'>
+    <variant>Software Development</variant>
+    <variant>software development</variant>
+  </canonskill>
+  <canonskill experience='1' name='software engineering'>
+    <variant>Software Engineering</variant>
+  </canonskill>
+  <canonskill experience='1' name='specification'>
+    <variant>Specification</variant>
+  </canonskill>
+  <canonskill experience='1' name='sql'>
+    <variant>SQL</variant>
+  </canonskill>
+  <canonskill experience='1' name='ssp'>
+    <variant>SSP</variant>
+  </canonskill>
+  <canonskill name='switches'>
+    <variant>switches</variant>
+    <variant>switch</variant>
+  </canonskill>
+  <canonskill end='731369' experience='1' expidrefs='2' idrefs='2' lastused='2003' name='tables' start='731096'>
+    <variant>tables</variant>
+  </canonskill>
+  <canonskill end='729788' experience='1' expidrefs='3' idrefs='3' lastused='1999' name='tape drives' start='729331'>
+    <variant>Tape drives</variant>
+  </canonskill>
+  <canonskill name='tcp/ip'>
+    <variant>TCP/IP</variant>
+  </canonskill>
+  <canonskill end='729788' experience='1' expidrefs='3' idrefs='3' lastused='1999' name='technical support' start='729331'>
+    <variant>Technical support</variant>
+  </canonskill>
+  <canonskill name='translation'>
+    <variant>Translation</variant>
+  </canonskill>
+  <canonskill end='729300' experience='1' expidrefs='4' idrefs='4' lastused='1997' name='typing' start='728630'>
+    <variant>type</variant>
+  </canonskill>
+  <canonskill name='unix'>
+    <variant>hp-UNIX</variant>
+    <variant>UNIX</variant>
+  </canonskill>
+  <canonskill name='visual c + +'>
+    <variant>Visual C++</variant>
+  </canonskill>
+  <canonskill name='visual studio'>
+    <variant>Visual Studio</variant>
+  </canonskill>
+  <canonskill experience='1' name='wan'>
+    <variant>WAN</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='web site production' start='734199'>
+    <variant>web pages</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='xhtml' start='731096'>
+    <variant>XHTML</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

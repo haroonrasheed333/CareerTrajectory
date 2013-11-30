@@ -1,0 +1,121 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734597' xml:space='preserve'><contact><name><givenname>Jacqueline</givenname> <surname>Goergen</surname></name>
+<address lat='42.4693' lon='96.3575' majorcity='SIOUX CITY' state='IA'><street>3609 Peters Avenue PO Box 658</street> <city>Sioux City</city>, <state abbrev='IA'>IA</state>  <postalcode>51106</postalcode></address>        <phone>(712) 541-8066</phone>        <email>jrg005@morningside.edu</email></contact>
+
+<summary>PROFILE:  <objective>Seeking an entry-level position in Accounting where I can utilize my solid education, strong work ethic, positive attitude, excellent communication skills, and high-energy personality.</objective>  <summary>Proficient in Microsoft Office suite of software, with exceptional skills in Excel.  Dependable and accountable, with the ability to get along well with others.</summary></summary>  
+
+<education>EDUCATION:
+<school id='5'><institution>Morningside College</institution>, <address><city>Sioux City</city>, <state abbrev='IA'>IA</state></address>		      	                Anticipated graduation date: <completiondate>May 2012</completiondate>
+Currently pursuing <degree level='16' name='Bachelor of Science'>Bachelor of Science</degree>: <major code='4201'>Business Administration</major>: Emphasis: <major code='4001'>Accounting</major>; GPA: <gpa max='4' value='3.72'>3.72/4.0</gpa>
+<honors>Dean's List, Interdepartmental Honors, Alpha Lambda Delta Honor Society</honors>
+Related courses: <courses>Intermediate Accounting; Financial Accounting; Managerial/ Cost Accounting; Income Tax Accounting; Leadership &amp; Ethics; Management; Business Law; Finance; &amp; Business Policy</courses></school></education>
+
+<experience end='present' start='733653'>RELATED ACCOUNTING EXPERIENCE:
+<job end='present' id='1' pos='1' sic='514937' sic2='51' start='734079'><employer>Chesterman Co</employer>, <address><city>Sioux City</city>, <state abbrev='IA'>IA</state></address>							<daterange><start days='734079' iso8601='2010-11-01'>Nov. 2010</start>-<end days='present' iso8601='2012-04-02'>Present</end></daterange>
+<title>Accounting Intern</title>
+<description>Trace transactions flowing between Chesterman's 10 active bank statements
+Create, update, and upload journal entries with a focus on accuracy
+Analyze fixed asset purchase invoices to determine proper capitalization
+Perform fixed asset setup and disposals
+Assist in the preparation of monthly/ year-end adjusting journal entries
+Update case costs in the Item Master database, which contains several hundred products
+Work on multiple projects at once</description></job>
+
+<job id='2'><employer>CAMPUS &amp; COMMUNITY INVOLVEMENT</employer>:
+<employer>LAGS Leadership Academy</employer> Member
+Big Brothers/Big Sisters Mentor
+<description>Into the Streets community service volunteer</description></job>
+
+OTHER WORK HISTORY:
+<job end='present' id='3' naics='44814001' naics2='44' pos='2' sic='593205' sic2='59' start='733714'><title>Sales Associate</title>, <employer>Old Navy</employer>, <address><city>Sioux City</city>, <state abbrev='IA'>IA</state></address>						<daterange><start days='733714' iso8601='2009-11-01'>Nov. 2009</start>-<end days='present' iso8601='2012-04-02'>Present</end></daterange>
+<description>Assist customers with questions and resolve complaints
+Take down registers at closing and prepare daily deposit
+Complete special projects including product placement, markdowns, and signage</description></job>
+
+<job end='present' id='4' pos='3' sic='822101' sic2='82' start='733653'><title>Bookstore Sales Associate</title>, <employer>Morningside College</employer>, <address><city>Sioux City</city>, <state abbrev='IA'>IA</state></address>			<daterange><start days='733653' iso8601='2009-09-01'>Sept. 2009</start>-<end days='present' iso8601='2012-04-02'>Present</end></daterange>
+<description>Operate cash register as well as perform product stocking and visual merchandising
+Work with minimal supervision</description></job></experience>
+
+
+
+
+<contact><name><givenname>Jacqueline</givenname> <surname>Goergen</surname></name>
+<address lat='42.4693' lon='96.3575' majorcity='SIOUX CITY' state='IA'><street>3609 Peters Avenue PO Box 658</street> <city>Sioux City</city>, <state abbrev='IA'>IA</state>  <postalcode>51106</postalcode></address>        <phone>(712) 541-8066</phone>        <email>jrg005@morningside.edu</email></contact>
+
+
+<references>REFERENCES:
+
+Steve Uhl
+Chief Financial Officer, Chesterman Co
+Accounting Professor, Morningside College
+4700 S Lewis Boulevard
+Sioux City, IA  51106
+(712) 252-2653
+
+Monique Koob
+Manager
+Old Navy
+1723 Ross Street
+Sioux City, IA  51103
+(712) 253-1063
+
+Duane Benson
+Manager
+Morningside College Bookstore
+1501 Morningside Avenue
+Sioux City, IA  51106
+(712) 274-5133 
+
+
+</references></resume>
+
+<skillrollup version='1'>
+  <canonskill education='1' eduidrefs='5' idrefs='5' name='accountancy'>
+    <variant>Accounting</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='5' idrefs='5' name='business law'>
+    <variant>Business Law</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='4' idrefs='4' lastused='2012' name='cashier' start='733653'>
+    <variant>cash register</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='3' idrefs='3' lastused='2012' name='closing' start='733714'>
+    <variant>closing</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='5' idrefs='5' name='cost accounting'>
+    <variant>Cost Accounting</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='database administration' start='734079'>
+    <variant>database</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='5' idrefs='5' name='finance'>
+    <variant>Finance</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='5' idrefs='5' name='financial accounting'>
+    <variant>Financial Accounting</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='focus' start='734079'>
+    <variant>focus</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='5' idrefs='5' name='leadership'>
+    <variant>Leadership</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='5' idrefs='5' name='management'>
+    <variant>Managerial</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='4' idrefs='4' lastused='2012' name='merchandising' start='733653'>
+    <variant>merchandising</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='4' idrefs='4' lastused='2012' name='supervisory skills' start='733653'>
+    <variant>supervision</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='5' idrefs='5' name='tax planning'>
+    <variant>Tax</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='year end accounts' start='734079'>
+    <variant>year-end</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

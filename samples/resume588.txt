@@ -1,0 +1,156 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734595' xml:space='preserve'><contact><name><givenname>JIM</givenname> <surname>DEMPSEY</surname></name>
+<address lat='37.3761' lon='122.022' majorcity='SUNNYVALE' state='CA'><street>360 E. Evelyn Ave. #422</street>, <city>Sunnyvale</city>, <state abbrev='CA'>CA</state> <postalcode>94086</postalcode></address>
+<phone>(408) 390-9524</phone>  <email>JIM.DEMPSEY@CAREER.JWD1.COM</email></contact>
+
+
+<summary>PROFILE
+<summary>Highly dedicated, business-minded, analytical, and detail-oriented software industry veteran. Extensive Internet and mobile software experience with Computer Science &amp; MBA degrees. Strategically solves problems through superior understanding of markets, technology, customers, and employees.</summary></summary> 
+
+
+<experience end='present' start='733865'>EXPERIENCE
+
+<job end='present' id='1' pos='1' start='733987'><employer>IRON SPEED INC</employer>., <address><city>San Jose</city>, <state abbrev='CA'>CA</state></address>	<description>Web software tools startup, 20 employees</description>	<daterange><start days='733987' iso8601='2010-08-01'>8/2010</start> - <end days='present' iso8601='2012-03-31'>present</end></daterange>
+<title>Senior Software Engineer</title>		Roles: <title>Product Manager, Architect, Developer</title>, Sales
+
+<description>Researched mobile phone and tablet market share, technology, and websites.
+Created 45-page MRD &amp; PRD describing why &amp; how to elegantly extend product for iOS/Android.
+Differentiated from competitors by designing &amp; implementing high quality software from mobile PRD.</description></job>
+
+
+
+<job end='present' id='2' pos='2' sic='6515' sic2='65' start='733865'><employer>SMARTER MOBILE APPS</employer>, <address><city>Sunnyvale</city>, <state abbrev='CA'>CA</state></address>	iPhone apps, www.smartermobileapps.com	<daterange><start days='733865' iso8601='2010-04-01'>4/2010</start> - <end days='present' iso8601='2012-03-31'>present</end></daterange>
+<title>Founder  &amp; CEO</title>		Roles: <title>CEO, Product Manager, Developer</title>, Marketing
+
+<description>Segmented mobile app into 3 versions. Paid versions had 3:2 product mix despite 6:1 price ratio. 
+Designed feature-rich user interfaces for 2 iOS apps after analyzing dozens of competitors.
+Implemented Objective-C iPhone apps that support iPhone hardware and transform to larger iPad.</description></job>
+
+
+
+<job id='3' sic='367901' sic2='36'><employer>WESTERN DIGITAL CORP</employer>., <address><city>Mountain View</city>, <state abbrev='CA'>CA</state></address>	<description>Hard drives, 25,000+ employees	10/2008 - 1/2010
+Beta Project Manager		Roles: Project Mgr. (30 people), Product Manager, Marcom
+
+Insightful Analysis:
+Developed Excel model to automate beta program requirements analysis.
+Modeled signup/disadoption rates in order to ration beta candidate pool strategically.
+Led database forensic discovery of problematic field installations.
+Identified &amp; addressed product problem trends.
+
+Efficient Marketing Promotions:
+Increased survey participation with automated coupon promotion.
+Incentivized problem reporting by designing legally compliant sweepstakes &amp; conducting drawings.
+
+Effective Communications:
+Wrote &amp; sent forthright, high click-through emails to 100k customers. 
+Evaluated &amp; purchased bulk-emailing service for sending emails in 9 languages.
+Quickly measured product stability by designing 6 professional surveys.
+
+Cross Functional Management:
+Managed groups across company: legal, IT, engineering, QA, marketing, customer support.</description></job></experience>
+
+<statements>ADDITIONAL EXPERIENCE AVAILABLE UPON REQUEST</statements>
+
+
+
+<education>EDUCATION
+
+<school id='4'><institution>DUKE UNIVERSITY, The Fuqua School of Business</institution>, <address><city>Durham</city>, <state abbrev='NC'>NC</state></address>
+<degree level='18' name='Master of Business Administration'>Master of Business Administration</degree>, <completiondate days='732799' iso8601='2007-05-01'>May 2007</completiondate>. <gpa max='4' value='3.66'>3.66</gpa> GPA. <description>720 GMAT. Marketing/Strategy concentration. Statistics teaching assistant. Studied on exchange at Bocconi School of Management in Milan, Italy.</description></school>
+
+<school id='5'><institution>BINGHAMTON UNIVERSITY (S.U.N.Y</institution>.), <institution>Watson School of Engineering</institution>, <address><city>Binghamton</city>, <state abbrev='NY'>NY</state></address>
+<degree level='16' name='Bachelor of Science'>Bachelor of Science</degree>, <major code='0402'>Computer Science</major>. <gpa max='4' value='3.6'>3.6</gpa> GPA in Major. <description>1,300/1,600 SAT. Received highest score on University-wide computer consultant screening exam for 3 consecutive years.</description></school></education>
+</resume>
+
+<skillrollup version='1'>
+  <canonskill experience='1' expidrefs='3' idrefs='3' name='automate'>
+    <variant>automate</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='c' start='733865'>
+    <variant>C</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='computer hardware' start='733865'>
+    <variant>hardware</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='5' idrefs='5' name='consulting'>
+    <variant>consultant</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='3' idrefs='3' name='customer support'>
+    <variant>customer support</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='3' idrefs='3' name='database administration'>
+    <variant>database</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,3' idrefs='1,3' lastused='2012' name='design' start='733987'>
+    <variant>designing</variant>
+    <variant>designing 6</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='3' idrefs='3' name='functional'>
+    <variant>Functional</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='3' idrefs='3' name='hard drives'>
+    <variant>Hard drives</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='3' idrefs='3' name='languages'>
+    <variant>languages</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='3' idrefs='3' name='legal'>
+    <variant>legal</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='3' idrefs='3' name='marcom'>
+    <variant>Marcom</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='4' idrefs='4' name='market planning'>
+    <variant>Marketing/Strategy</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,3' idrefs='1,3' lastused='2012' name='marketing' start='733987'>
+    <variant>marketing</variant>
+    <variant>market</variant>
+    <variant>Marketing</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='3' idrefs='3' name='microsoft excel'>
+    <variant>Excel</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='4' idrefs='4' name='microsoft exchange'>
+    <variant>exchange</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='page' start='733987'>
+    <variant>page</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='3' idrefs='3' name='product management'>
+    <variant>Product Manager</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='3' idrefs='3' name='promotional materials'>
+    <variant>promotion</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='quality' start='733987'>
+    <variant>quality</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='3' idrefs='3' name='quality control'>
+    <variant>QA</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='3' idrefs='3' name='reports'>
+    <variant>reporting</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='3' idrefs='3' name='requirements analysis'>
+    <variant>requirements analysis</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='5' idrefs='5' name='sat'>
+    <variant>SAT</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='4' idrefs='4' name='statistics'>
+    <variant>Statistics</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='4' idrefs='4' name='teaching'>
+    <variant>teaching</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='telephone skills' start='733987'>
+    <variant>phone</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='web site production' start='733987'>
+    <variant>websites</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

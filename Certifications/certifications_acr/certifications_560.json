@@ -1,0 +1,54 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Parts Specialist - Automobile Parts Specialist  P2", 
+            "Type": "Specialty", 
+            "Certification ID": "7740", 
+            "Certifying Organization": "National Institute for Automotive Service Excellence"
+        }, 
+        {
+            "Acronym": "Brakes", 
+            "Certification Name": "Medium/Heavy Truck Aftermarket Parts Specialist (Brakes)", 
+            "Type": "Specialty", 
+            "Certification ID": "0030", 
+            "Certifying Organization": "National Institute for Automotive Service Excellence"
+        }, 
+        {
+            "Acronym": "NAFA,", 
+            "Certification Name": "NAFA Certified Air Filter Specialist", 
+            "Type": "Core", 
+            "Certification ID": "3615", 
+            "Certifying Organization": "National Air Filtration Associaton"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Medium/Heavy Truck Dealership Parts Specialist", 
+            "Type": "Advanced", 
+            "Certification ID": "5226", 
+            "Certifying Organization": "National Institute for Automotive Service Excellence"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "General Motors Parts Consultant", 
+            "Type": "Core", 
+            "Certification ID": "5227", 
+            "Certifying Organization": "National Institute for Automotive Service Excellence"
+        }, 
+        {
+            "Acronym": "P4", 
+            "Certification Name": "Parts Specialist - General Motors Parts Consultant (P4)", 
+            "Type": "Specialty", 
+            "Certification ID": "7741", 
+            "Certifying Organization": "National Institute for Automotive Service Excellence"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Automobile Parts Specialist", 
+            "Type": "Core", 
+            "Certification ID": "5225", 
+            "Certifying Organization": "National Institute for Automotive Service Excellence"
+        }
+    ], 
+    "onet": "41202200"
+}

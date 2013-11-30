@@ -1,0 +1,229 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CISP", 
+            "Certification Name": "Certified IRA Services Professional", 
+            "Type": "Core", 
+            "Certification ID": "3861", 
+            "Certifying Organization": "Institute of Certified Bankers"
+        }, 
+        {
+            "Acronym": "ACA", 
+            "Certification Name": "Associate of the Conference", 
+            "Type": "Core", 
+            "Certification ID": "1985", 
+            "Certifying Organization": "Conference of Consulting Actuaries"
+        }, 
+        {
+            "Acronym": "CSCP", 
+            "Certification Name": "Certified Sales Compensation Professional", 
+            "Type": "Core", 
+            "Certification ID": "9030", 
+            "Certifying Organization": "WorldatWork"
+        }, 
+        {
+            "Acronym": "CEBS", 
+            "Certification Name": "Certified Employee Benefit Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "0102", 
+            "Certifying Organization": "International Foundation of Employee Benefit Plans"
+        }, 
+        {
+            "Acronym": "CWDP", 
+            "Certification Name": "Certified Workforce Development Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "1108", 
+            "Certifying Organization": "National Association of Workforce Development Professionals"
+        }, 
+        {
+            "Acronym": "ARPS", 
+            "Certification Name": "Accredited Retirement Plan Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "7322", 
+            "Certifying Organization": "Society of Professional Asset Managers and Record Keepers"
+        }, 
+        {
+            "Acronym": "CMS", 
+            "Certification Name": "Compensation Management Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "8135", 
+            "Certifying Organization": "International Foundation of Employee Benefit Plans"
+        }, 
+        {
+            "Acronym": "GBA", 
+            "Certification Name": "Group Benefits Associate", 
+            "Type": "Specialty", 
+            "Certification ID": "8136", 
+            "Certifying Organization": "International Foundation of Employee Benefit Plans"
+        }, 
+        {
+            "Acronym": "SPHR", 
+            "Certification Name": "Senior Professional in Human Resources", 
+            "Type": "Advanced", 
+            "Certification ID": "0090", 
+            "Certifying Organization": "Human Resources Certification Institute"
+        }, 
+        {
+            "Acronym": "PHR", 
+            "Certification Name": "Professional in Human Resources", 
+            "Type": "Advanced", 
+            "Certification ID": "0089", 
+            "Certifying Organization": "Human Resources Certification Institute"
+        }, 
+        {
+            "Acronym": "TGPC", 
+            "Certification Name": "Tax-Exempt & Governmental Plan Consultant", 
+            "Type": "Advanced", 
+            "Certification ID": "5840", 
+            "Certifying Organization": "American Society of Pension Professionals  and Actuaries"
+        }, 
+        {
+            "Acronym": "k", 
+            "Certification Name": "Qualified 401(k) Administrator", 
+            "Type": "Advanced", 
+            "Certification ID": "3983", 
+            "Certifying Organization": "American Society of Pension Professionals  and Actuaries"
+        }, 
+        {
+            "Acronym": "CRFA", 
+            "Certification Name": "Certified Retirement Financial Advisor", 
+            "Type": "Advanced", 
+            "Certification ID": "9152", 
+            "Certifying Organization": "Society of Certified Retirement Financial Advisors"
+        }, 
+        {
+            "Acronym": "CFC", 
+            "Certification Name": "Certified in Flexible Compensation", 
+            "Type": "Core", 
+            "Certification ID": "6177", 
+            "Certifying Organization": "Employers Council on Flexible Compensation"
+        }, 
+        {
+            "Acronym": "ARA", 
+            "Certification Name": "Accredited Retirement Advisor", 
+            "Type": "Core", 
+            "Certification ID": "6790", 
+            "Certifying Organization": "Accreditation Council for Accountancy and Taxation"
+        }, 
+        {
+            "Acronym": "GPHR", 
+            "Certification Name": "Global Professional in Human Resources", 
+            "Type": "Advanced", 
+            "Certification ID": "4497", 
+            "Certifying Organization": "Human Resources Certification Institute"
+        }, 
+        {
+            "Acronym": "FSPA", 
+            "Certification Name": "Fellow, American Society of Pension Actuaries", 
+            "Type": "Advanced", 
+            "Certification ID": "1355", 
+            "Certifying Organization": "American Society of Pension Professionals  and Actuaries"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Associateship in the Casualty Actuarial Society", 
+            "Type": "Core", 
+            "Certification ID": "5774", 
+            "Certifying Organization": "Casualty Actuarial Society"
+        }, 
+        {
+            "Acronym": "RPA", 
+            "Certification Name": "Retirement Plans Associate", 
+            "Type": "Core", 
+            "Certification ID": "8137", 
+            "Certifying Organization": "International Foundation of Employee Benefit Plans"
+        }, 
+        {
+            "Acronym": "CBF", 
+            "Certification Name": "Certified Benefits Professional", 
+            "Type": "Core", 
+            "Certification ID": "9028", 
+            "Certifying Organization": "WorldatWork"
+        }, 
+        {
+            "Acronym": "ARPC", 
+            "Certification Name": "Accredited Retirement Plan Consultant", 
+            "Type": "Advanced", 
+            "Certification ID": "7321", 
+            "Certifying Organization": "Society of Professional Asset Managers and Record Keepers"
+        }, 
+        {
+            "Acronym": "QPFC", 
+            "Certification Name": "Qualified Plan Financial Consultant", 
+            "Type": "Advanced", 
+            "Certification ID": "3982", 
+            "Certifying Organization": "American Society of Pension Professionals  and Actuaries"
+        }, 
+        {
+            "Acronym": "ASA", 
+            "Certification Name": "Associate of the Society of Actuaries", 
+            "Type": "Core", 
+            "Certification ID": "0127", 
+            "Certifying Organization": "Society of Actuaries"
+        }, 
+        {
+            "Acronym": "FCA", 
+            "Certification Name": "Fellow of the Conference", 
+            "Type": "Advanced", 
+            "Certification ID": "1983", 
+            "Certifying Organization": "Conference of Consulting Actuaries"
+        }, 
+        {
+            "Acronym": "CCP", 
+            "Certification Name": "Certified Compensation Professional", 
+            "Type": "Core", 
+            "Certification ID": "9026", 
+            "Certifying Organization": "WorldatWork"
+        }, 
+        {
+            "Acronym": "CECP", 
+            "Certification Name": "Certified Executive Compensation Professional", 
+            "Type": "Core", 
+            "Certification ID": "9031", 
+            "Certifying Organization": "WorldatWork"
+        }, 
+        {
+            "Acronym": "CFCI", 
+            "Certification Name": "Certified in Flexible Compensation Instruction", 
+            "Type": "Advanced", 
+            "Certification ID": "6178", 
+            "Certifying Organization": "Employers Council on Flexible Compensation"
+        }, 
+        {
+            "Acronym": "MSPA", 
+            "Certification Name": "Member, American Society of Pension Actuaries", 
+            "Type": "Core", 
+            "Certification ID": "1354", 
+            "Certifying Organization": "American Society of Pension Professionals  and Actuaries"
+        }, 
+        {
+            "Acronym": "FSA", 
+            "Certification Name": "Fellow of the Society of Actuaries", 
+            "Type": "Advanced", 
+            "Certification ID": "0128", 
+            "Certifying Organization": "Society of Actuaries"
+        }, 
+        {
+            "Acronym": "CRSP", 
+            "Certification Name": "Certified Retirement Services Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "1545", 
+            "Certifying Organization": "Institute of Certified Bankers"
+        }, 
+        {
+            "Acronym": "CRC", 
+            "Certification Name": "Certified Retirement Counselor", 
+            "Type": "Advanced", 
+            "Certification ID": "2265", 
+            "Certifying Organization": "International Foundation for Retirement Education"
+        }, 
+        {
+            "Acronym": "CPC", 
+            "Certification Name": "Certified Pension Consultant", 
+            "Type": "Core", 
+            "Certification ID": "1357", 
+            "Certifying Organization": "American Society of Pension Professionals  and Actuaries"
+        }
+    ], 
+    "onet": "13114100"
+}

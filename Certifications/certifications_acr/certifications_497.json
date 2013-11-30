@@ -1,0 +1,103 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Technology Module", 
+            "Type": "Core", 
+            "Certification ID": "9530", 
+            "Certifying Organization": "International Code Council"
+        }, 
+        {
+            "Acronym": "FE", 
+            "Certification Name": "Certified Portable Fire Extinguisher Technician", 
+            "Type": "Core", 
+            "Certification ID": "6911", 
+            "Certifying Organization": "International Code Council"
+        }, 
+        {
+            "Acronym": "FN", 
+            "Certification Name": "Pre-Engineered Industrial Fire Extinguishing System Technician", 
+            "Type": "Core", 
+            "Certification ID": "6913", 
+            "Certifying Organization": "International Code Council"
+        }, 
+        {
+            "Acronym": "ISO", 
+            "Certification Name": "Incident Safety Officer - Fire Suppression Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "5399", 
+            "Certifying Organization": "Fire Department Safety Officers Association"
+        }, 
+        {
+            "Acronym": "CFPS", 
+            "Certification Name": "Certified Fire Protection Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "1023", 
+            "Certifying Organization": "National Fire Protection Association"
+        }, 
+        {
+            "Acronym": "CFI-II", 
+            "Certification Name": "Certified Fire Inspector II", 
+            "Type": "Advanced", 
+            "Certification ID": "1679", 
+            "Certifying Organization": "National Fire Protection Association"
+        }, 
+        {
+            "Acronym": "FK", 
+            "Certification Name": "Pre-Engineered Kitchen Fire Extinguishing System Technician", 
+            "Type": "Core", 
+            "Certification ID": "6912", 
+            "Certifying Organization": "International Code Council"
+        }, 
+        {
+            "Acronym": "CFPE", 
+            "Certification Name": "Certified Fire Plan Examiner I", 
+            "Type": "Core", 
+            "Certification ID": "3504", 
+            "Certifying Organization": "National Fire Protection Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Fire Inspector II", 
+            "Type": "Advanced", 
+            "Certification ID": "5177", 
+            "Certifying Organization": "International Code Council"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Fire Plans Examiner", 
+            "Type": "Core", 
+            "Certification ID": "4625", 
+            "Certifying Organization": "International Code Council"
+        }, 
+        {
+            "Acronym": "CHSP-FSM", 
+            "Certification Name": "Certified Healthcare Safety Professional - Fire Safety Management", 
+            "Type": "Advanced", 
+            "Certification ID": "8579", 
+            "Certifying Organization": "International Board for Certification of Safety Managers"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Fire Inspector I Certification", 
+            "Type": "Core", 
+            "Certification ID": "1022", 
+            "Certifying Organization": "National Fire Protection Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Fire Sprinkler Inspector/Plans Examiner", 
+            "Type": "Specialty", 
+            "Certification ID": "6910", 
+            "Certifying Organization": "International Code Council"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Fire Inspector I", 
+            "Type": "Core", 
+            "Certification ID": "5176", 
+            "Certifying Organization": "International Code Council"
+        }
+    ], 
+    "onet": "33202101"
+}

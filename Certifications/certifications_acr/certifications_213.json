@@ -1,0 +1,89 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CMS", 
+            "Certification Name": "Certified Portable 3D Metrologist Level 1", 
+            "Type": "Specialty", 
+            "Certification ID": "9410", 
+            "Certifying Organization": "Coordinate Metrology Society"
+        }, 
+        {
+            "Acronym": "ASPRS", 
+            "Certification Name": "Certified Photogrammetrist (ASPRS)", 
+            "Type": "Core", 
+            "Certification ID": "1454", 
+            "Certifying Organization": "American Society for Photogrammetry and Remote Sensing - Imaging & Geospatial Information Society"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Highway Surveys - Level II", 
+            "Type": "Advanced", 
+            "Certification ID": "7828", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "CMS", 
+            "Certification Name": "Cadastral Mapping Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "1338", 
+            "Certifying Organization": "International Association of Assessing Officers"
+        }, 
+        {
+            "Acronym": "ASPRS", 
+            "Certification Name": "Certified Mapping Scientist, GIS/LIS (ASPRS)", 
+            "Type": "Advanced", 
+            "Certification ID": "1456", 
+            "Certifying Organization": "American Society for Photogrammetry and Remote Sensing - Imaging & Geospatial Information Society"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified GIS/LIS Technologist", 
+            "Type": "Core", 
+            "Certification ID": "3944", 
+            "Certifying Organization": "American Society for Photogrammetry and Remote Sensing - Imaging & Geospatial Information Society"
+        }, 
+        {
+            "Acronym": "CMS", 
+            "Certification Name": "Certified Portable 3D Metrologist Level 1", 
+            "Type": "Advanced", 
+            "Certification ID": "9410", 
+            "Certifying Organization": "Coordinate Metrology Society"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Highway Surveys - Level III", 
+            "Type": "Advanced", 
+            "Certification ID": "7829", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Photogrammetric Technologist", 
+            "Type": "Core", 
+            "Certification ID": "3942", 
+            "Certifying Organization": "American Society for Photogrammetry and Remote Sensing - Imaging & Geospatial Information Society"
+        }, 
+        {
+            "Acronym": "ASPRS", 
+            "Certification Name": "Certified Mapping Scientist, Remote Sensing (ASPRS)", 
+            "Type": "Advanced", 
+            "Certification ID": "1455", 
+            "Certifying Organization": "American Society for Photogrammetry and Remote Sensing - Imaging & Geospatial Information Society"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Highway Surveys - Level IV", 
+            "Type": "Advanced", 
+            "Certification ID": "7830", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Highway Surveys - Level I", 
+            "Type": "Core", 
+            "Certification ID": "5375", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }
+    ], 
+    "onet": "17303102"
+}

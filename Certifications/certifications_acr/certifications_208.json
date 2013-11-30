@@ -1,0 +1,145 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CFOS/S", 
+            "Certification Name": "Certified Fiber Optic Specialist/Splicing", 
+            "Type": "Specialty", 
+            "Certification ID": "7291", 
+            "Certifying Organization": "The Fiber Optic Association Inc."
+        }, 
+        {
+            "Acronym": "FOD", 
+            "Certification Name": "Fiber Optics Designer", 
+            "Type": "Core", 
+            "Certification ID": "4364", 
+            "Certifying Organization": "ETA International"
+        }, 
+        {
+            "Acronym": "CFOP/C", 
+            "Certification Name": "Certified Fiber Optic Specialist/Connectors", 
+            "Type": "Specialty", 
+            "Certification ID": "7292", 
+            "Certifying Organization": "The Fiber Optic Association Inc."
+        }, 
+        {
+            "Acronym": "CFOS/D", 
+            "Certification Name": "Certified Fiber Optic Specialist/Design", 
+            "Type": "Specialty", 
+            "Certification ID": "7294", 
+            "Certifying Organization": "The Fiber Optic Association Inc."
+        }, 
+        {
+            "Acronym": "TPO", 
+            "Certification Name": "Technician in Precision Optics", 
+            "Type": "Core", 
+            "Certification ID": "8644", 
+            "Certifying Organization": "ETA International"
+        }, 
+        {
+            "Acronym": "PTS", 
+            "Certification Name": "Photonics Technician Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "7627", 
+            "Certifying Organization": "ETA International"
+        }, 
+        {
+            "Acronym": "AFOT", 
+            "Certification Name": "Advanced Fiber Optic Technician", 
+            "Type": "Advanced", 
+            "Certification ID": "7289", 
+            "Certifying Organization": "The Fiber Optic Association Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Electronics in Traffic Signal Technician", 
+            "Type": "Core", 
+            "Certification ID": "8757", 
+            "Certifying Organization": "International Municipal Signal Association"
+        }, 
+        {
+            "Acronym": "CFospT", 
+            "Certification Name": "Certified OSP Technician", 
+            "Type": "Specialty", 
+            "Certification ID": "7288", 
+            "Certifying Organization": "The Fiber Optic Association Inc."
+        }, 
+        {
+            "Acronym": "CFOS/H", 
+            "Certification Name": "Certified Fiber Optic Technician for FTTx", 
+            "Type": "Specialty", 
+            "Certification ID": "7295", 
+            "Certifying Organization": "The Fiber Optic Association Inc."
+        }, 
+        {
+            "Acronym": "CFOT", 
+            "Certification Name": "Certified Fiber Optic Technician", 
+            "Type": "Core", 
+            "Certification ID": "7286", 
+            "Certifying Organization": "The Fiber Optic Association Inc."
+        }, 
+        {
+            "Acronym": "DCI", 
+            "Certification Name": "Data Cabling Installer", 
+            "Type": "Core", 
+            "Certification ID": "3681", 
+            "Certifying Organization": "ETA International"
+        }, 
+        {
+            "Acronym": "FOI-OSP", 
+            "Certification Name": "Fiber Optics Technician - Outside Plant", 
+            "Type": "Core", 
+            "Certification ID": "4368", 
+            "Certifying Organization": "ETA International"
+        }, 
+        {
+            "Acronym": "CFOI", 
+            "Certification Name": "Certified Fiber Optic Instructor", 
+            "Type": "Advanced", 
+            "Certification ID": "7284", 
+            "Certifying Organization": "The Fiber Optic Association Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Fiber Optics for Traffic System Technician Level I", 
+            "Type": "Core", 
+            "Certification ID": "8761", 
+            "Certifying Organization": "International Municipal Signal Association"
+        }, 
+        {
+            "Acronym": "CPCT", 
+            "Certification Name": "Certified Premises Cabling Technician", 
+            "Type": "Specialty", 
+            "Certification ID": "7287", 
+            "Certifying Organization": "The Fiber Optic Association Inc."
+        }, 
+        {
+            "Acronym": "CFOS/T", 
+            "Certification Name": "Certified Fiber Optic Specialist/Testing", 
+            "Type": "Specialty", 
+            "Certification ID": "7293", 
+            "Certifying Organization": "The Fiber Optic Association Inc."
+        }, 
+        {
+            "Acronym": "SPO", 
+            "Certification Name": "Specialist in Precision Optics", 
+            "Type": "Specialty", 
+            "Certification ID": "7628", 
+            "Certifying Organization": "ETA International"
+        }, 
+        {
+            "Acronym": "NCE", 
+            "Certification Name": "Junior Telecommunications Engineer", 
+            "Type": "Core", 
+            "Certification ID": "2664", 
+            "Certifying Organization": "National Association of Radio and Telecommunications Engineers, Inc."
+        }, 
+        {
+            "Acronym": "PTO", 
+            "Certification Name": "Photonics Technician Operator", 
+            "Type": "Core", 
+            "Certification ID": "7626", 
+            "Certifying Organization": "ETA International"
+        }
+    ], 
+    "onet": "17302908"
+}

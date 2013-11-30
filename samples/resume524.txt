@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734594' xml:space='preserve'><contact><name><givenname>DANIEL</givenname> <givenname>W</givenname>. <surname>WINNICK</surname></name></contact>
+
+<education>EDUCATION
+     <school id='2'><degree level='16' name='Bachelor of Arts'>Bachelor of Arts</degree>, <major code='0499 4503'>Communication/Journalism</major>                            Expected: <completiondate>May 2012</completiondate>
+     <institution>Shippensburg University</institution>, <address lat='40.0413' lon='-77.5535' majorcity='SHIPPENSBURG' state='PA'><city>Shippensburg</city>, <state abbrev='PA'>PA</state></address>
+            Professional Emphasis: <major code='1299'>Electronic Media</major>
+            Certificate: <courses>Graphic Design</courses></school></education>
+
+
+
+<experience end='present' start='733683'>RELATED EXPERIENCE
+     Computer Design 1-6                                                    <job end='present' id='1' pos='1' start='733683'><daterange><start days='733683' iso8601='2009-10-01'>Fall 2009</start> - <end days='present' iso8601='2012-03-30'>Present</end></daterange>
+        · <description>Wrote, shot, and edited a 30-second Doritos commercial
+        · Designed promotional publications such as brochures, flyers,
+          and postcards
+        · Designed a 32-page entertainment magazine called &quot;The Beat&quot;
+        · Developed a promotional campaign for the Shippensburg
+          University Marching Band which was professionally
+          implemented by the client
+        · Designed various product advertisements</description></job></experience>
+
+
+
+<skills>COMPUTER SOFTWARE
+            <skills>Adobe InDesign        Adobe Illustrator       Final Cut Pro
+            Adobe Photohop        Adobe Dreamweaver       Adobe Premiere</skills></skills>
+
+
+
+<professional>RELATED COURSEWORK
+     <description>Promotional Publication Design
+        · Developed promotional publications such as brochures, flyers,
+           postcards, advertisements, and websites
+        · Designed a entire media kit for the University's television
+           station
+     Media Advertising &amp; Sales
+        · Became versed in the world of marketing and advertising
+        · Attained knowledge on how to use good design to convey a
+            message to consumers</description></professional>
+
+
+
+<statements><personal>ONLINE PORTFOLIO - DANWINNICK.WORDPRESS.COM</personal></statements>
+</resume>
+
+<skillrollup version='1'>
+  <canonskill name='adobe'>
+    <variant>Adobe</variant>
+  </canonskill>
+  <canonskill name='adobe premiere'>
+    <variant>Adobe Premiere</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='advertising' start='733683'>
+    <variant>advertisements</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='brochure design' start='733683'>
+    <variant>brochures</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='customer relations' start='733683'>
+    <variant>client</variant>
+  </canonskill>
+  <canonskill name='dreamweaver'>
+    <variant>Dreamweaver</variant>
+  </canonskill>
+  <canonskill name='final cut pro'>
+    <variant>Final Cut Pro</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='2' idrefs='2' name='graphic design'>
+    <variant>Graphic Design</variant>
+  </canonskill>
+  <canonskill name='illustrator'>
+    <variant>Adobe Illustrator</variant>
+  </canonskill>
+  <canonskill name='indesign'>
+    <variant>Adobe InDesign</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='page' start='733683'>
+    <variant>page</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='publicity' start='733683'>
+    <variant>publications</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

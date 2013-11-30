@@ -1,0 +1,144 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734590' xml:space='preserve'>                                    <contact><name><givenname>Lisa</givenname> <givenname>M</givenname>. <surname>Hamilton</surname></name>
+                                    <address lat='29.587' lon='95.2201' majorcity='HOUSTON' state='TX'><street>9739 Santa Monica</street>
+                                   <city>Houston</city>, <state abbrev='TX'>TX</state> <postalcode>77089</postalcode></address>
+                                   Phone <phone>832-301-2062</phone>
+                                 <email>lisacurry3@yahoo.com</email></contact>
+
+<summary>QUALIFICATIONS
+<summary>Registered Dental Assistant/Instructor with 23 years experience in the dental assisting.
+Enrolled at Kaplan University for BS Healthcare Management.</summary></summary>
+
+<experience end='present' start='726470'>WORK HISTORY
+
+<job end='present' id='1' pos='1' start='734140'><title>Dental Instructor</title> (<daterange><start days='734140' iso8601='2011-01-01'>2011</start> ­ <end days='present' iso8601='2012-03-26'>Present</end></daterange>)
+<employer>Texas School of Business Friendswood</employer>
+Responsibilities included:
+<description>Preparing and scheduling graduating students for State Board Exam
+Instruction in all chair side assisting procedures
+Ordering of materials and supplies
+Equipment maintenance and repairs
+Maintaining retention of students
+Setting up training for staff
+Bringing labs and course work up to Kaplan standards of compliance</description></job>
+
+<job end='733775' id='2' pos='2' start='733410'><title>General Dental Assistant</title> (<daterange><start days='733410' iso8601='2009-01-01'>2009</start>- <end days='733775' iso8601='2010-01-01'>2010</end></daterange>)
+<address>Russell <city>Boone</city>, DDS</address>
+<description>Instructed patients in proper oral hygiene
+Assisted with crown &amp; bridge, acrylic temporaries, bleaching tray impressions,
+Sterilization procedures for instruments and operatories.
+Certified in panoramic and bitewing x-ray
+Assisted with amalgam and composite restorations, extractions, and root canals</description></job>
+
+<job end='733410' id='3' pos='3' sic='874101' sic2='87' start='731949'><title>Medical/Dental Staffing</title> (<daterange><start days='731949' iso8601='2005-01-01'>2005</start>-<end days='733410' iso8601='2009-01-01'>2009</end></daterange>)
+<employer>Millennium Medical Group</employer>
+<description>Placement of prospective employees using client requirements</description></job>
+
+<job end='731949' id='4' pos='4' start='731218'><title>Dental Instructor</title> (<daterange><start days='731218' iso8601='2003-01-01'>2003</start>-<end days='731949' iso8601='2005-01-01'>2005</end></daterange>)
+<employer>Texas School of Business Friendswood</employer></job>
+<job id='5'><title>Lead Dental Instructor</title>
+<description>Provided instruction in chair side techniques, radiology procedures, material preparation,
+jurisprudence, infection control to individuals entering the field of dental assisting,
+responsible for ordering all dental materials, and setting up appointments for students to
+take their State Boards</description></job>
+
+<job end='731218' id='6' pos='5' start='730488'><title>General Dental Assistant</title> (<daterange><start days='730488' iso8601='2001-01-01'>2001</start>- <end days='731218' iso8601='2003-01-01'>2003</end></daterange>)
+<employer>Priscilla Morris, D.D.S</employer>. <address><city>Clear Lake</city>, <state abbrev='TX'>TX</state></address>
+<description>Recall of patients
+Practice Works Software experience gained.
+Answer phones, setup appointments, posting of insurance
+Instructed patients in proper oral hygiene.
+Assisted with crown &amp; bridge, acrylic temporaries, bleaching tray impressions,
+Sterilization procedures for instruments and operatories.
+Certified in panoramic and bitewing x-ray
+Assisted with amalgam and composite restorations, extractions, and root canals</description></job>
+
+
+<job end='730488' id='7' pos='6' sic='736103' sic2='73' start='727566'><title>Temp Dental Assistant</title> (<daterange><start days='727566' iso8601='1993-01-01'>1993</start>-<end days='730488' iso8601='2001-01-01'>2001</end></daterange>)
+<employer>Dental Solutions</employer></job>
+<job end='727200' id='8' naics='62199921' naics2='62' pos='7' sic='999999' sic2='99' start='726470'><jobtype>Temporary</jobtype> Fill In: <title>Chairside Assistant and Front Desk
+
+
+Oral Surgery Assistant</title> (<daterange><start days='726470' iso8601='1990-01-01'>90</start> - <end days='727200' iso8601='1992-01-01'>92</end></daterange>)
+<employer>United Health Care Inc</employer>. <address><city>Houston</city>, <state abbrev='TX'>TX</state></address>
+<description>Assisted staff surgeons with preparation for surgery and assisted with procedures.
+Prepared IV sedation and setup of instrument trays.
+Followed OSHA sterilization procedures for instruments and surgical area.
+Assisted periodontist with surgery, packing, and suture removal.</description></job></experience>
+
+
+   <education>EDUCATION
+   <school id='9'><courses>Career Blazers Computer Learning Center
+   Certified Dental Assistant</courses> : <institution>Astrodome Dental Career Center</institution>, <address><city>Houston</city>, <state abbrev='TX'>TX</state></address></school>
+   <school id='10'><institution>Dobie High School / San Jacinto College for GED</institution></school></education>
+
+    <skills>COMPUTER SKILLS
+   <skills>SoftDent
+   Dentrix
+   Microsoft Access
+   Microsoft Excel
+   Microsoft Word
+   Windows 95/98/XP</skills>
+
+   CERTIFICATES
+   <courses>Radiology Certification with Texas State Board of Dental Examiners
+   Registered Dental Assistant with Texas State Board of Dental Examiners
+   C.P.R Certified
+   Certified In Dental Jurisprudence
+   Certified in Infection Control procedures</courses></skills>
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='733775' experience='1' expidrefs='2,6' idrefs='2,6' lastused='2010' name='acrylic' start='730488'>
+    <variant>acrylic</variant>
+  </canonskill>
+  <canonskill name='c'>
+    <variant>C</variant>
+  </canonskill>
+  <canonskill end='733775' experience='1' expidrefs='2,6' idrefs='2,6' lastused='2010' name='communication skills' start='730488'>
+    <variant>oral</variant>
+  </canonskill>
+  <canonskill end='733410' experience='1' expidrefs='3' idrefs='3' lastused='2009' name='customer relations' start='731949'>
+    <variant>client</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,5' idrefs='1,5' lastused='2012' name='instruction' start='734140'>
+    <variant>instruction</variant>
+    <variant>Instruction</variant>
+  </canonskill>
+  <canonskill end='731218' experience='1' expidrefs='6' idrefs='6' lastused='2003' name='insurance' start='730488'>
+    <variant>insurance</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,5' idrefs='1,5' lastused='2012' name='materials management' start='734140'>
+    <variant>materials</variant>
+  </canonskill>
+  <canonskill name='microsoft access'>
+    <variant>Microsoft Access</variant>
+  </canonskill>
+  <canonskill name='microsoft excel'>
+    <variant>Microsoft Excel</variant>
+  </canonskill>
+  <canonskill name='microsoft windows 95'>
+    <variant>Windows 95</variant>
+  </canonskill>
+  <canonskill name='microsoft windows 98'>
+    <variant>98</variant>
+  </canonskill>
+  <canonskill name='microsoft word'>
+    <variant>Microsoft Word</variant>
+  </canonskill>
+  <canonskill end='731218' experience='1' expidrefs='6' idrefs='6' lastused='2003' name='microsoft works' start='730488'>
+    <variant>Works</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='repair' start='734140'>
+    <variant>repairs</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='scheduling' start='734140'>
+    <variant>scheduling</variant>
+  </canonskill>
+  <canonskill end='731218' experience='1' expidrefs='6' idrefs='6' lastused='2003' name='telephone skills' start='730488'>
+    <variant>Answer phones</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

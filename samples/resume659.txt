@@ -1,0 +1,195 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734595' xml:space='preserve'><contact><name><givenname>Travis</givenname> <givenname>P</givenname>. <surname>Nimmo</surname></name>
+<address lat='34.1059' lon='117.295' majorcity='SAN BERNARDINO' state='CA'><street>7466 Del Rosa</street>, <city>San Bernardino</city>, <state abbrev='CA'>CA</state>  <postalcode>92410</postalcode></address>
+Phone: <phone>(951) 941-2408</phone> 
+Email: <email>nim13@aol.com</email></contact> 
+<statements>Professional Portfolios: 
+<personal>Http://archinect.com/people/cover/6136775</personal></statements>
+
+<summary>CAREER OBJECTIVE
+
+<objective>To obtain a position as an AutoCAD Designer/Drafter in Drafting utilizing my education and experience in Computer Drafting and Design.</objective></summary>   
+
+ <education>EDUCATION
+
+<school id='5'><institution>ITT Technical Institute</institution>                                  <address><city>San Bernardino</city>, <state abbrev='CA'>CA</state></address>
+<degree level='16' name='Bachelor of Science'>Bachelor of Science</degree> in <major code='4201'>Project Management</major> 
+Graduation Date: <completiondate days='734199' iso8601='2011-03-01'>March 2011</completiondate> GPA: <gpa max='4' value='3.28'>3.28</gpa></school>
+
+<school id='6'><institution>ITT Technical Institute</institution>                                  <address><city>San Bernardino</city>, <state abbrev='CA'>CA</state></address>
+<degree level='14' name='Associate of Science'>Associate of Science</degree> <major code='0402 2405'>Computer Drafting and Design</major> 
+Graduation Date: <completiondate days='733379' iso8601='2008-12-01'>December 2008</completiondate></school> 
+
+<school id='7'><institution>Valley College</institution>                                               <address><city>San Bernardino</city>, <state abbrev='CA'>CA</state></address> 
+<major code='4401'>Architecture Design, History of Architecture</major> and Introduction to ADT
+Date of Attendance: <daterange><start days='731583' iso8601='2004-01-01'>2004</start> - <end days='731949' iso8601='2005-01-01'>2005</end></daterange></school></education>
+
+<skills>PROFESSIONAL QUALIFICATIONS
+
+<skills>SOFTWARE:
+AutoCAD 
+Architectural Desktop
+Mechanical Desktop
+Autodesk Civil 3D
+Inventor 10
+Microsoft Word, Excel, PowerPoint, Project
+Adobe Illustrator
+Adobe Photoshop
+MATERIALS AND PROCESSES:
+Work with multiple materials including plastics, wood, metals, glass, cement, ceramic, fiber, leather and paper
+Read/interpret blueprints, schematics, plans and plots
+Transfer technical information into working drawings	DRAFTING/CAD METHODS:
+Technical Drawings in 2D and  3D
+3D modeling
+Architectural, mechanical, civil and manual drafting
+Produce floor plans, roof plans, elevations, wall sections and details, dimensioning, schedules and space planning
+Red line drawings
+Area calculations
+Distinguish pervious and impervious areas
+RAPID VISUALIZATION:
+Basic representation techniques
+Basic forms
+Structure of objects and space</skills></skills>
+
+
+
+
+
+<experience end='present' start='731674'>WORK EXPERLENCE
+<job end='present' id='1' pos='1' start='734352'><employer>J.D.S. Steel Construction</employer>                                               <address><city>Fontana</city>, <state abbrev='CA'>CA</state></address>
+<title>CAD Drafter</title>                                                                  <daterange><start days='734352' iso8601='2011-08-01'>August 2011</start> -<end>November</end></daterange> 
+<description>Red lining floor plans, printing, scan and copying floor plans 
+Typing up shipping list and showing the totally  weight 
+Making phone calls and emailing the architect and engineer</description></job>
+
+PROFESSIONAL EXPERIENCE
+
+<job end='present' id='2' pos='2' start='734199'><employer>AIA Inland California</employer> Chapter                                          <address><city>Redlands</city>, <state abbrev='CA'>CA</state></address>
+<title>Volunteer Intern</title>                                                                 <daterange><start days='734199' iso8601='2011-03-01'>March 2011</start> - <end>August</end></daterange>
+<description>Responsible for assisting Association with scheduled events
+Assisted with General Office, Clerical and Administrative tasks utilizing MSWord, Adobe Illustrator, and Adobe Photoshop.
+Volunteered and Assisted for 2011 AIAIC Home Tour.</description></job>
+
+<job end='731735' id='3' pos='3' start='731674'><title>Jerry Bennett, Instructor                                                            
+AutoCAD Drafter</title>                                                                <daterange><start days='731674' iso8601='2004-04-01'>April 2004</start> - <end days='731735' iso8601='2004-06-01'>June 2004</end></daterange>
+Project:  Civil Engineering/Land Development
+<description>Responsible for Designing a Plot Plan for a Residential Site in AutoCAD.</description></job>
+
+<job id='4' start='731704'><employer>Dr. Suzan Krieger</employer>, <title>Counselor</title>         
+<employer>AutoCAD Drafter</employer>                                                                <daterange><start days='731704' iso8601='2004-05-01'>May 2004</start></daterange>
+Project: Floor Plan of Retirement
+<description>Designed Floor Plan for Residential Unit for a Site in AutoCAD.</description></job></experience>
+
+
+
+<references>Professional References/Portfolio Available Upon Request</references>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</resume>
+
+<skillrollup version='1'>
+  <canonskill name='3d'>
+    <variant>3D</variant>
+  </canonskill>
+  <canonskill name='3d modeling'>
+    <variant>3D modeling</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='administration' start='734199'>
+    <variant>Administrative</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='adobe photoshop' start='734199'>
+    <variant>Adobe Photoshop</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='architecture' start='734352'>
+    <variant>architect</variant>
+  </canonskill>
+  <canonskill end='731735' experience='1' expidrefs='3,4' idrefs='3,4' lastused='2004' name='autocad' start='731674'>
+    <variant>AutoCAD</variant>
+  </canonskill>
+  <canonskill name='basic'>
+    <variant>Basic</variant>
+  </canonskill>
+  <canonskill name='cad'>
+    <variant>CAD</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='clerical' start='734199'>
+    <variant>Clerical</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='copy' start='734352'>
+    <variant>copying</variant>
+  </canonskill>
+  <canonskill end='731735' experience='1' expidrefs='3' idrefs='3' lastused='2004' name='design' start='731674'>
+    <variant>Designing</variant>
+  </canonskill>
+  <canonskill name='drafting'>
+    <variant>DRAFTING</variant>
+    <variant>drafting</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='engineering' start='734352'>
+    <variant>engineer</variant>
+  </canonskill>
+  <canonskill name='forms'>
+    <variant>forms</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='general office duties' start='734199'>
+    <variant>General Office</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='illustrator' start='734199'>
+    <variant>Adobe Illustrator</variant>
+  </canonskill>
+  <canonskill name='materials management'>
+    <variant>MATERIALS</variant>
+    <variant>materials</variant>
+  </canonskill>
+  <canonskill name='mechanical'>
+    <variant>mechanical</variant>
+  </canonskill>
+  <canonskill name='mechanical desktop'>
+    <variant>Mechanical Desktop</variant>
+  </canonskill>
+  <canonskill name='microsoft excel'>
+    <variant>Excel</variant>
+  </canonskill>
+  <canonskill name='microsoft powerpoint'>
+    <variant>PowerPoint</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='microsoft word' start='734199'>
+    <variant>MSWord</variant>
+    <variant>Microsoft Word</variant>
+  </canonskill>
+  <canonskill name='process engineering'>
+    <variant>PROCESSES</variant>
+  </canonskill>
+  <canonskill name='read'>
+    <variant>Read</variant>
+  </canonskill>
+  <canonskill name='schematic diagrams'>
+    <variant>schematics</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='shipping' start='734352'>
+    <variant>shipping</variant>
+  </canonskill>
+  <canonskill name='space planning'>
+    <variant>space planning</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='telephone skills' start='734352'>
+    <variant>phone</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='typing' start='734352'>
+    <variant>Typing</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

@@ -1,0 +1,193 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734589' xml:space='preserve'><contact><address lat='41.0186' lon='81.6218' majorcity='BARBERTON' state='OH'><street>2738 Silver Springs Drive</street> <city>Norton</city>, <state abbrev='OH'>Ohio</state> <postalcode>44203</postalcode></address>	
+		<name><givenname>Toni</givenname> <surname>Daniel</surname></name>
+Phone:<phone>(330) 807-7789</phone>
+E-mail: <email>toni4art@gmail.com</email></contact>
+<summary>Objective	<objective>To secure a challenging position with a secure future with your company.</objective></summary>		<experience end='present' start='726470'>Experience	<job end='present' id='1' naics='62211002' naics2='62' pos='1' sic='801101' sic2='80' start='726470'><daterange><start days='730122' iso8601='2000-01-01'>2000</start>-<end days='present' iso8601='2012-03-25'>Present</end></daterange>	<employer>Akron General Medical Center</employer>    <address><city>Akron</city>, <state abbrev='OH'>Ohio</state></address>
+<description>Digital Photography &amp; Video Application Department
+Digital photography
+Transfer videotape, to digital video file server system for staff and patient educational services. Assisting Doctors, Nurses and patients with information pertaining to various medical, nutritional and surgical procedures, as well as, up to date medical information.
+Customer service representative for the digital &amp; video application department. Duties include, setup Power Point presentations for Doctors and Nurses using laptops and LCD projectors. Video taping of presentations. Setup camera and other various equipment, and video copying. Setup Web casts. Live feed conferences over IP or DSN lines
+Maintain computers and software installs
+Muti-line phones, scheduling the use of laptops and LCD projectors, slide projectors, TV/VCR. Billing, typing, filing, copying, scanning.
+Purchasing
+Photos in studio and photos thru out facility. Photo editing software.</description>			<daterange><start days='729392' iso8601='1998-01-01'>1998</start>-<end days='730122' iso8601='2000-01-01'>2000</end></daterange>	<employer>Akron General Medical Center</employer>    <address><city>Akron</city>, <state abbrev='OH'>Ohio</state></address>	
+<title>Admitting/Registration Clerk</title>
+<description>Register patients for outpatient procedures, x-rays, diagnostic testing, surgeries, and laboratory procedures. Pre-certified procedures with insurance companies and verified insurance. Printed, scanned and copied paperwork and insurance cards.
+Computer skills, Mainframe and ChartMax</description>			<daterange><start days='726470' iso8601='1990-01-01'>1990</start>-<end days='729392' iso8601='1998-01-01'>1998</end></daterange>	<employer>Akron General Medical Center</employer>   <address><city>Akron</city>, <state abbrev='OH'>Ohio</state></address>
+<title>Cook/Nutrition Dietetics
+Cook, prep cook</title>, <description>Duties included prepping food for next day, Cooking special diets and regular diets. Catering and cafeteria preparation. 
+Sanitation</description></job></experience>			
+		<education>Education	Graduated	<school id='2'><institution>West Holmes High</institution>	<address><city>Millersburg</city>, <state abbrev='OH'>Ohio</state></address>
+<daterange><start days='730122' iso8601='2000-01-01'>2000</start>-<end days='present' iso8601='2012-03-25'>Present</end></daterange>                    <institution>The University of Akron</institution>                 <address><city>Akron</city>, <state abbrev='OH'>Ohio</state></address>
+<description>Cisco 1 &amp; 2</description></school></education> 
+<skills>Introduction to Logic Programming		Skills	<skills>Scheduling, Presentations, Type 60 WPM, Purchasing, Multi-line Telephones, Billing, Filing, Office Machines, Internet/Intranet, Photography, Computer install setup. Loading software setup and use. Photography editing software. Microsoft Office including powerpoint. Video taping programs. Setup equipment for presentations, includes, laptops and lcd projectors. Work well independently or with others.		Computer Skills           	Microsoft Office 95, 97, 2000
+Microsoft Power Point
+Adobe Photoshop 6.0
+GroupWise 5 E-mail
+CD Creator
+Outlook Express
+Internet Explorer
+Microsoft Windows  95, 98, 2000, XP
+Mac lion
+Microsoft Office Tools</skills></skills>				
+
+
+
+
+
+
+
+
+ 
+
+
+</resume>
+
+<skillrollup version='1'>
+  <canonskill name='adobe photoshop'>
+    <variant>Adobe Photoshop 6.0</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='billing' start='726470'>
+    <variant>Billing</variant>
+  </canonskill>
+  <canonskill name='cd'>
+    <variant>CD</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='2' idrefs='2' name='cisco'>
+    <variant>Cisco 1</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='conferences' start='726470'>
+    <variant>conferences</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='cooking' start='726470'>
+    <variant>Cooking</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='copy' start='726470'>
+    <variant>copying</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='customer service' start='726470'>
+    <variant>Customer service</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='department for constitutional affairs' start='726470'>
+    <variant>LCD</variant>
+    <variant>lcd</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='digital photography' start='726470'>
+    <variant>Digital Photography</variant>
+    <variant>Digital photography</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='digital video' start='726470'>
+    <variant>digital video</variant>
+  </canonskill>
+  <canonskill name='editing'>
+    <variant>editing</variant>
+  </canonskill>
+  <canonskill name='email'>
+    <variant>E-mail</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='file management' start='726470'>
+    <variant>Filing</variant>
+    <variant>filing</variant>
+  </canonskill>
+  <canonskill name='groupwise'>
+    <variant>GroupWise 5</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='insurance' start='726470'>
+    <variant>insurance</variant>
+  </canonskill>
+  <canonskill name='internet explorer'>
+    <variant>Internet Explorer</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='ip' start='726470'>
+    <variant>IP</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='laptop computers' start='726470'>
+    <variant>laptops</variant>
+  </canonskill>
+  <canonskill name='logic'>
+    <variant>Logic</variant>
+  </canonskill>
+  <canonskill name='macintosh'>
+    <variant>Mac</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='mainframe' start='726470'>
+    <variant>Mainframe</variant>
+  </canonskill>
+  <canonskill name='microsoft office'>
+    <variant>Microsoft Office</variant>
+  </canonskill>
+  <canonskill name='microsoft office 95'>
+    <variant>Microsoft Office 95</variant>
+  </canonskill>
+  <canonskill name='microsoft office 98'>
+    <variant>97</variant>
+  </canonskill>
+  <canonskill name='microsoft outlook express'>
+    <variant>Outlook Express</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='microsoft powerpoint' start='726470'>
+    <variant>Microsoft Power Point</variant>
+    <variant>powerpoint</variant>
+    <variant>Power Point</variant>
+  </canonskill>
+  <canonskill name='microsoft windows 2000'>
+    <variant>2000</variant>
+  </canonskill>
+  <canonskill name='microsoft windows 95'>
+    <variant>Microsoft Windows  95</variant>
+  </canonskill>
+  <canonskill name='microsoft windows 98'>
+    <variant>98</variant>
+  </canonskill>
+  <canonskill name='multi - line telephones'>
+    <variant>Multi-line Telephones</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='next' start='726470'>
+    <variant>next</variant>
+  </canonskill>
+  <canonskill name='office equipment'>
+    <variant>Office Machines</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='photo editing' start='726470'>
+    <variant>Photo editing</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='photography' start='726470'>
+    <variant>Photography</variant>
+    <variant>camera</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='presentation skills' start='726470'>
+    <variant>Presentations</variant>
+    <variant>presentations</variant>
+  </canonskill>
+  <canonskill name='programming'>
+    <variant>Programming</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='purchasing' start='726470'>
+    <variant>Purchasing</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='scanners' start='726470'>
+    <variant>scanning</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='scheduling' start='726470'>
+    <variant>Scheduling</variant>
+    <variant>scheduling</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='telephone skills' start='726470'>
+    <variant>phones</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='television' start='726470'>
+    <variant>TV</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='typing' start='726470'>
+    <variant>typing</variant>
+    <variant>Type 60 WPM</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='video' start='726470'>
+    <variant>Video</variant>
+    <variant>video</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

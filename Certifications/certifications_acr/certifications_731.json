@@ -1,0 +1,19 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "GVT", 
+            "Certification Name": "Gaming and Vending Technician", 
+            "Type": "Core", 
+            "Certification ID": "6839", 
+            "Certifying Organization": "ETA International"
+        }, 
+        {
+            "Acronym": "NCE", 
+            "Certification Name": "NAMA Certified Executive", 
+            "Type": "Advanced", 
+            "Certification ID": "8592", 
+            "Certifying Organization": "National Automatic Merchandising Association"
+        }
+    ], 
+    "onet": "49909100"
+}

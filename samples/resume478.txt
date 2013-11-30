@@ -1,0 +1,487 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734594' xml:space='preserve'><contact><name><givenname>Frank</givenname> <givenname>J</givenname>. <surname>Galan</surname></name>
+<address lat='26.6603' lon='80.2583' majorcity='WEST PALM BEACH' state='FL'><street>9792 Woodworth Court</street> <city>Wellington</city>, <state abbrev='FL'>FL</state> <postalcode>33414</postalcode></address>
+(H) <phone type='home'>561-798-7308</phone> * (C) <phone type='cell'>908-391-7673</phone> * <email>fgalan27@gmail.com</email> 
+<website>http://www.linkedin.com/in/frankjgalan</website></contact>
+
+<summary>PROFESSIONAL OVERVIEW: 
+<summary>Accomplished client facing technical professional with 20+ years of IT experience including guiding teams through software development, from requirements gathering and analysis to design, development, quality assurance testing, user acceptance, implementation and stakeholder support.  Managed diverse groups, performed Business Analysis, Quality Assurance Management, Project Management, system analysis, architecture, design and development of custom enterprise business system solutions using Microsoft and Java technologies. Recognized by managers and peers for ability to exceed project goals, group motivate, problem solve, push projects to completion, and fulfill clientele expectations.</summary></summary>
+
+<skills>TECHNICAL SKILLS:
+<description>Management:	Client Facing, Quality Assurance Manager, Business Analyst, Project Manager, Technical Team Leader, Cross Functional Team and Outsourcing Coordination.</description>
+
+Computer Language:  <skills>ASP, ASP.Net, VB.Net, C#, 2003,2005, Visual Basic 6, HTML, DHTML, XML, CSS,
+ 			        Transact-SQL, Java, JavaScript, JSP, J2EE, PL-SQL, knowledge of C++, C, Perl
+
+Database Systems:      MS SQL Server 6.5, 7 &amp; 2000, 2005 Oracle 8i &amp; 9i, MySQL
+
+Operating Systems:     Windows XP, 7 and Servers, SUN Solaris, Unix
+
+Development Tools:   MS ASP, ASP.Net 2003, 2005, Visual Studio 5, 6; Java SunOne Studio 4
+ 		                    CE, JCreator, WinSQL, Weblogic 5.1 &amp; 7.0, PUTTY, WinCVS, CVS, ANT, Defect
+                                       Tracking Software, Javadocs, TopLink, IIS, Transact SQL, Query Analyzer,
+ 	                                 Quest SQL Optimizer, MS Enterprise Manager, Internet Information
+ 			       Systems Manager, SourceSafe, Paint Shop Pro, XML Spy, ERWin, Visio/UML
+
+Training and 	       .Net course training 2003, 2005, Microsoft MCSD certification 1999, Certifications:	       Sun Microsystems Java/J2EE course training, JSP/Java/J2EE OTJ,
+ 			       classroom, and course training, classroom and OTJ training in 
+                                        VB 5.0-6.0, SQL Server and Active Server Pages development.</skills></skills>
+
+<experience end='present' start='727200'>EMPLOYMENT HISTORY:
+
+<job end='present' id='1' pos='1' start='733865'><jobtype>Self Employed</jobtype>, <address><city>West Palm Beach</city>, <state abbrev='FL'>FL</state></address>						      <daterange><start days='733865' iso8601='2010-04-01'>4/2010</start> - <end days='present' iso8601='2012-03-30'>Present</end></daterange>
+<title>Stock Investor/Options Trader</title> 
+
+<description>Using technical analysis and associated indicators successfully trading own and several key accounts in stock and options strategies.</description></job>
+
+<job end='733865' id='2' pos='2' sic='737101' sic2='73' start='729969'><employer>IBM Global Services</employer> (<employer>Acquisition of Americas Systems / Maersk Data USA Inc</employer>.)     <daterange><start days='729969' iso8601='1999-08-01'>8/1999</start> - <end days='733865' iso8601='2010-04-01'>4/2010</end></daterange>
+<title>Business Analyst/System Analyst/Senior Software Engineer/Systems Architect
+Technical Team Lead/Designer/Developer/ IT Specialist
+
+Lead Projects Overview</title>:
+<description>In a customer facing capacity lead diverse teams through successful B2B application initiation, requirements gathering, application architecture, development, QA, user acceptance and production deployment of mission critical Microsoft and Java applications .
+
+- Analyzed Business requirements, developed use cases, specified hardware, and led team in creation of a C# and VBScript.Net nationwide OLTP order system. Worked on rates implementation, scheduling, product management, XML legacy system integration, order creation, invoicing, managing allocations, tracking, and identifying/implementing performance improvements
+
+- In a team environment led analysis and development of enhancements for a mission critical Java/JSP/J2EE application performing requirements gathering, analysis, design and implementation of enhancements including XML application integration.
+
+- Interfaced with clients, gathered requirements, architected, designed, specified hardware requirements and led development and implementation of a business critical B2B Global OLTP application. Re-architected an ASP/DCOM/COM/C++ system and implemented code in compliance with best practices and integrated security requirements of digital certificate, proxy server and firewall.  Also, suggested, designed and implemented application enhancements.
+
+- Completed development of a business critical web based Java/JSP/J2EE application adding invoicing, miscellaneous charges, business rules modules, and enhancement of other functionalities including XML legacy application integration, meeting client requirements leading to user acceptance and application deployment on time and within budget. Provided application support for the system based on client needs and required general system maintenance.
+
+- Gathered requirements, designed, architected and developed, a nationally deployed B2B ASP/COM/C++ web based application which automated a paperless B2B process, beginning with vendor service acceptance, review, approval, invoicing, and payment for services. Application interface via electronic data interchange or a secured web based user interface. This application completely replaced a paper system which required a series of fax, Federal Express, manual review, and duplicate data entries, and facilitating payment of invoices which had otherwise been delayed several months. This resulted in a significantly reduced cost of doing business for the client, better turnaround times, and improved working relationships with their vendors.
+
+- Analyzed, designed and developed a cross browser compatible, Active Server Pages/IIS/Oracle database driven web application for providing services to the military. The application features business to business vendor solicitation processing including proposal downloads, managing submissions and award information, and the ability to complete and submit job applications over the internet. The application functionality includes the ability for administrators and company managers to dynamically update major portions of the website including managing their Solicitation and Bidding process, Frequently Asked Questions, Quality and Safety information, and daily news via a secured web based back office implementation.
+
+- Analyzed business needs, gathered requirements, architected, designed, developed, and implemented a Jobs Posting application for a Human Resources department. This application has a Visual Basic front end for database management, an Active Server pages user interface, and a SQL Server database back end. The application is used by the Human Resources group to manage and post job listings, which can be queried and viewed by users who are then able to apply directly for job postings via the web.
+
+- Conceived of, architected, developed, and implemented a fully configurable active server pages Security Module which featured the ability to grant page level and page element permissions. This reusable module was used for asp based web applications implementing ID/Password security. This reusable plug-in resulted in reduced development time and costs, higher profit margin due to reusability, and simplified ID/Password security implementation. 
+
+- Developed a Visual Basic application to process payroll with the ADP payroll service; automated and configured the ADP upload process to eliminate transcription errors occurring during manual payroll processing and facilitated timely transmission of payroll data.
+
+- Assisted in the analysis and development of a certificate secured ASP/IIS/SQL Server web application portal site; developed functionality for users to create, edit and review cargo bookings, provide cargo tracking including integration with legacy systems; supervised and supported other developers and contractors in completion of their tasks.
+
+- Received multiple Commendation awards from IBM in recognition of meeting client expectations, on time under budget delivery, work efforts exceeding expectations, and meeting business objectives.
+
+Broden Inc., Consulting firm Specializing in Developing	1999	
+Software Solutions and Providing Consulting Services to Fortune 500 Clients</description></job>
+<job id='3'><title>System Analyst/Software Engineer/Systems Architect/Consultant</title>
+
+ - <description>Provided consulting services and project development for fortune 500 companies, including project initiation, design, architecture and hardware specification, software development, customer acceptance, and assisting team members in fulfilling project requirements.
+
+- Enhanced an application on-site for a California client using Java, JavaScript, SQL Server, and database synchronization for a Sales Force Automation project during a three month time period.
+
+- Developed and enhanced a nationwide resource/marketing program for a major industry client using Visual Basic 5.0 &amp; 6.0, and SQL Server.</description></job>
+
+<job end='729392' id='4' pos='3' sic='591205' sic2='59' start='727931'><title>McLaren Hart, Global Leader</title> in Consulting for Chemical and	<daterange><start days='727931' iso8601='1994-01-01'>1994</start>-<end days='729392' iso8601='1998-01-01'>1998</end></daterange>
+<employer>Pharmaceutical Industries</employer></job>
+<job id='5'><title>Laboratory Manager/Software Engineer/QA Manager</title>
+
+- <description>Resource allocation, cost analysis and project budgeting.
+
+-Obtained certifications and regulatory approvals for analytical testing of the first NJ State Certified Mobile Laboratory. Working directly with regulators, implementing NJ State and Federal Regulations, application of Quality Assurance methodologies, knowledge of New Jersey State and Federal regulations and attention to detail, was able to accomplish this first in the State of NJ achievement for this worldwide chemical and pharmaceutical industry consulting firm. This resulted in the ability to locate a dedicated certified laboratory on-site facilitating analysis turnaround time, increasing profits while reducing wait time expenses for the client.
+
+- Performed Quality Assurance assessment of data in the Czech Republic over a six month period. Worked directly with the client, regulators, and laboratory personnel at their Czech Republic facility evaluating the accuracy of analytical laboratory data; uncovered data discrepancies and had them rectified. Assessed the data to produce accurate Quality Assurance reports for all analyses. Received a commendation for my persistence, work ethics and dedication.
+
+- Developed and enhanced applications to generate statistics, automated data gathering and reporting, and instituted quality assurance operating procedures in compliance with Good Laboratory Practices (GLP) standards.</description></job>
+
+<job end='727931' id='6' pos='4' sic='874215' sic2='87' start='727200'><employer>DuPont, Global Chemical Products Company</employer>	<daterange><start days='727200' iso8601='1992-01-01'>1992</start>-<end days='727931' iso8601='1994-01-01'>1994</end></daterange>
+<title>Quality Assurance Manager/Project Manager/Software Engineer</title>
+
+- Managed implementation of QA program and project workflow.
+
+- <description>Acquired governmental certifications for the laboratory based on experience with subject matter, team building, knowledge of certification regulations, implementation of those regulations, working with regulators, and conveying required regulatory project and quality assurance requirements to management and team members.
+
+- Created and implemented standard operating procedures in an analytical laboratory environment. Led software development effort to meet governmental compliance requirements for regulatory certifications and approvals for analytical testing.
+
+- Proven record in meeting regulatory requirements and generation of data consistent with those requirements through software automation of testing procedures, data analysis, and implementation of Standard Operating Procedures.</description></job></experience>
+
+<education>EDUCATION: 
+
+<school id='7'><degree level='16'>Bachelor's of Arts</degree>:  <major code='0301'>Chemistry</major>, with a concentration in <major code='0401'>computer programming</major>.	<institution>Rutgers University</institution> <degree level='13' name='Diploma'>Diploma</degree>:  <description>Computer Programming, Honors Program Participant, 1999	The Chubb Institute Diploma:  Advanced Programming Techniques and Technologies, Top of Class.	SetFocus LLC</description>
+Accreditation: 	<courses>Microsoft Certified Solutions Developer Certification 1999
+	Java/J2EE Certificate</courses> <completiondate days='731218' iso8601='2003-01-01'>2003</completiondate></school></education>
+
+<skills>SPOKEN LANGUAGES:
+
+<languages>English:	Fluent Native Speaker, Technical Level Reading and Writing
+Spanish:	Basic to Intermediate Speaking and Reading
+Russian:	Basic Speaking and Reading</languages>
+
+
+
+
+
+
+
+
+
+
+
+
+		<skills>1 of 4</skills></skills>
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='733865' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='.net' start='729969'>
+    <variant>ASP.Net</variant>
+    <variant>VB.Net</variant>
+    <variant>.Net</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='active server pages' start='729969'>
+    <variant>Active Server Pages</variant>
+    <variant>Active Server pages</variant>
+    <variant>active server pages</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='adp' start='729969'>
+    <variant>ADP</variant>
+    <variant>ADP payroll</variant>
+  </canonskill>
+  <canonskill name='ant'>
+    <variant>ANT</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='asp' start='729969'>
+    <variant>ASP</variant>
+    <variant>asp</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='5' idrefs='5' name='attention to detail'>
+    <variant>attention to detail</variant>
+  </canonskill>
+  <canonskill end='727931' experience='1' expidrefs='3,6' idrefs='3,6' lastused='1994' name='automation' start='727200'>
+    <variant>Automation</variant>
+    <variant>automation</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='b2b' start='729969'>
+    <variant>B2B</variant>
+  </canonskill>
+  <canonskill name='basic'>
+    <variant>Basic</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='2,5' idrefs='2,5' lastused='2010' name='budgeting' start='729969'>
+    <variant>budgeting</variant>
+    <variant>budget</variant>
+  </canonskill>
+  <canonskill name='business analysis'>
+    <variant>Business Analyst</variant>
+  </canonskill>
+  <canonskill name='c'>
+    <variant>C</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='c + +' start='729969'>
+    <variant>C++</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='com' start='729969'>
+    <variant>COM</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='2,3' idrefs='2,3' lastused='2010' name='computer hardware' start='729969'>
+    <variant>hardware</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='2,3,5' idrefs='2,3,5' lastused='2010' name='consulting' start='729969'>
+    <variant>Consulting</variant>
+    <variant>consulting</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='5' idrefs='5' name='cost analysis'>
+    <variant>cost analysis</variant>
+  </canonskill>
+  <canonskill name='css'>
+    <variant>CSS</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='2,3,5' idrefs='2,3,5' lastused='2010' name='customer relations' start='729969'>
+    <variant>Client</variant>
+    <variant>client</variant>
+    <variant>Clients</variant>
+    <variant>clients</variant>
+  </canonskill>
+  <canonskill name='cvs'>
+    <variant>CVS</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='5' idrefs='5' name='czech'>
+    <variant>Czech</variant>
+  </canonskill>
+  <canonskill end='727931' experience='1' expidrefs='6' idrefs='6' lastused='1994' name='data analysis' start='727200'>
+    <variant>data analysis</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='2,3' idrefs='2,3' lastused='2010' name='database administration' start='729969'>
+    <variant>database management</variant>
+    <variant>Database</variant>
+    <variant>database</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='dcom' start='729969'>
+    <variant>DCOM</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='delivery' start='729969'>
+    <variant>delivery</variant>
+  </canonskill>
+  <canonskill name='dhtml'>
+    <variant>DHTML</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='editing' start='729969'>
+    <variant>edit</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='electronic data interchange' start='729969'>
+    <variant>electronic data interchange</variant>
+  </canonskill>
+  <canonskill name='english'>
+    <variant>English</variant>
+  </canonskill>
+  <canonskill name='erwin'>
+    <variant>ERWin</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='fax' start='729969'>
+    <variant>fax</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='features' start='729969'>
+    <variant>features</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='firewalls' start='729969'>
+    <variant>firewall</variant>
+  </canonskill>
+  <canonskill name='functional'>
+    <variant>Functional</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='5' idrefs='5' name='glp'>
+    <variant>GLP</variant>
+  </canonskill>
+  <canonskill name='html'>
+    <variant>HTML</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='human resources' start='729969'>
+    <variant>Human Resources</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='ibm' start='729969'>
+    <variant>IBM</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='iis' start='729969'>
+    <variant>IIS</variant>
+  </canonskill>
+  <canonskill name='information systems'>
+    <variant>Information
+ 			       Systems</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='invoicing' start='729969'>
+    <variant>invoicing</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='7' end='733865' experience='1' expidrefs='2,3' idrefs='2,3,7' lastused='2010' name='java' start='729969'>
+    <variant>Java</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='java server pages' start='729969'>
+    <variant>JSP</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='3' idrefs='3' name='javascript'>
+    <variant>JavaScript</variant>
+  </canonskill>
+  <canonskill name='languages'>
+    <variant>LANGUAGES</variant>
+  </canonskill>
+  <canonskill end='727931' experience='1' expidrefs='6' idrefs='6' lastused='1994' name='leadership' start='727200'>
+    <variant>team building</variant>
+    <variant>Team Leader</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='management' start='729969'>
+    <variant>managing</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='3' idrefs='3' name='marketing'>
+    <variant>marketing</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='microsoft c #' start='729969'>
+    <variant>C#</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='7' idrefs='7' name='microsoft certified professional'>
+    <variant>Microsoft Certified</variant>
+  </canonskill>
+  <canonskill name='microsoft certified systems developer'>
+    <variant>MCSD</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='microsoft office' start='729969'>
+    <variant>office</variant>
+  </canonskill>
+  <canonskill name='microsoft sql server 6.5'>
+    <variant>MS SQL Server 6.5</variant>
+  </canonskill>
+  <canonskill name='microsoft windows 2000'>
+    <variant>2000</variant>
+  </canonskill>
+  <canonskill name='microsoft windows xp'>
+    <variant>Windows XP</variant>
+  </canonskill>
+  <canonskill name='mysql'>
+    <variant>MySQL</variant>
+  </canonskill>
+  <canonskill name='netscape enterprise server'>
+    <variant>Enterprise</variant>
+  </canonskill>
+  <canonskill name='operating systems'>
+    <variant>Operating Systems</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='oracle dba' start='729969'>
+    <variant>Oracle database</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='7' idrefs='7' name='oracle developer 2000'>
+    <variant>Developer</variant>
+  </canonskill>
+  <canonskill name='oracle pl/sql'>
+    <variant>PL-SQL</variant>
+  </canonskill>
+  <canonskill name='oracle version 8'>
+    <variant>Oracle 8i</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='page' start='729969'>
+    <variant>page</variant>
+  </canonskill>
+  <canonskill name='paint shop pro'>
+    <variant>Paint Shop Pro</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='payroll processing' start='729969'>
+    <variant>payroll</variant>
+    <variant>payroll processing</variant>
+  </canonskill>
+  <canonskill name='perl'>
+    <variant>Perl</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='5' idrefs='5' name='personnel'>
+    <variant>personnel</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='product management' start='729969'>
+    <variant>product management</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='profit' start='729969'>
+    <variant>profit</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='7' idrefs='7' name='programming'>
+    <variant>Computer Programming</variant>
+    <variant>Programming</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='3' idrefs='3' name='project development'>
+    <variant>project development</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='proposal writing' start='729969'>
+    <variant>proposal</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='proxy server' start='729969'>
+    <variant>proxy server</variant>
+  </canonskill>
+  <canonskill name='public speaking'>
+    <variant>Speaker</variant>
+    <variant>Speaking</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='quality' start='729969'>
+    <variant>Quality</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='2,5,6' idrefs='2,5,6' lastused='2010' name='quality control' start='727200'>
+    <variant>quality assurance</variant>
+    <variant>QA</variant>
+    <variant>Quality Assurance</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='quark xpress' start='729969'>
+    <variant>Express</variant>
+  </canonskill>
+  <canonskill name='quest'>
+    <variant>Quest</variant>
+  </canonskill>
+  <canonskill name='read'>
+    <variant>Reading</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='5' idrefs='5' name='reports'>
+    <variant>reporting</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='requirements analysis' start='729969'>
+    <variant>requirements gathering</variant>
+  </canonskill>
+  <canonskill name='russian'>
+    <variant>Russian</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='safety' start='729969'>
+    <variant>Safety</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='3' idrefs='3' name='sales'>
+    <variant>Sales</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='scheduling' start='729969'>
+    <variant>scheduling</variant>
+  </canonskill>
+  <canonskill name='servers'>
+    <variant>Servers</variant>
+  </canonskill>
+  <canonskill end='727931' experience='1' expidrefs='3,6' idrefs='3,6' lastused='1994' name='software development' start='727200'>
+    <variant>software development</variant>
+  </canonskill>
+  <canonskill name='solaris'>
+    <variant>SUN Solaris</variant>
+  </canonskill>
+  <canonskill name='sourcesafe'>
+    <variant>SourceSafe</variant>
+  </canonskill>
+  <canonskill name='spanish'>
+    <variant>Spanish</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='3' idrefs='3' name='specification'>
+    <variant>specification</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='2,3' idrefs='2,3' lastused='2010' name='sql' start='729969'>
+    <variant>SQL Server</variant>
+    <variant>SQL</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='5' idrefs='5' name='statistics'>
+    <variant>statistics</variant>
+  </canonskill>
+  <canonskill name='sun microsystems'>
+    <variant>Sun Microsystems</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='systems integration' start='729969'>
+    <variant>system integration</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='technical analysis' start='733865'>
+    <variant>technical analysis</variant>
+  </canonskill>
+  <canonskill name='transact sql'>
+    <variant>Transact SQL</variant>
+    <variant>Transact-SQL</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='transcription' start='729969'>
+    <variant>transcription</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='transmission' start='729969'>
+    <variant>transmission</variant>
+  </canonskill>
+  <canonskill name='unified modeling language'>
+    <variant>UML</variant>
+  </canonskill>
+  <canonskill name='unix'>
+    <variant>Unix</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='user interface design' start='729969'>
+    <variant>user interface</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='vbscript' start='729969'>
+    <variant>VBScript</variant>
+  </canonskill>
+  <canonskill name='visio'>
+    <variant>Visio</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='visual basic' start='729969'>
+    <variant>Visual Basic</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='3' idrefs='3' name='visual basic 6.0'>
+    <variant>Visual Basic 5.0 &amp; 6.0</variant>
+    <variant>VB 5.0-6.0</variant>
+    <variant>Visual Basic 6</variant>
+  </canonskill>
+  <canonskill name='visual studio'>
+    <variant>Visual Studio 5</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='web application development' start='729969'>
+    <variant>web applications</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='web site production' start='729969'>
+    <variant>website</variant>
+  </canonskill>
+  <canonskill name='weblogic'>
+    <variant>Weblogic 5.1</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='xml' start='729969'>
+    <variant>XML</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

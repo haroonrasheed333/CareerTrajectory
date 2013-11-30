@@ -1,0 +1,481 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734597' xml:space='preserve'><contact><name><givenname>Manoj</givenname> <surname>Sonawane</surname></name>	
+Manoj Sonawane
+<email>sonumanoj@gmail.com</email>
+Phone: <phone>415-347-5348</phone></contact>
+
+
+<summary>Summary
+
+<summary>Eight and half years (8.5 years) of total IT experience this includes implementation, end user training, coding, team leading, production support, performance tuning, technical project management, architecture/designing.
+Completed Microsoft Certified Application Developer (MCAD) for Microsoft .NET. 
+Have experience in communication and coordination with business groups, infrastructure teams, architects, third parties, development teams (offshore/onsite) and QA.
+Experience working on waterfall &amp; agile environments (scrums).
+Extremely proficient in various Microsoft tools and technologies.
+Mostly worked on large projects with systems that require handling of high user load.</summary></summary>
+<skills><description>Highly adaptive, have worked on following technologies over the years:- Web, thick client server, n tier component based, workflows, SOA.
+Has extensive experience as a tech lead/architect in Design, Development and Implementation of commercial Web Based applications, Client-Server and 3-tier applications along with Framework component development.</description> Experienced in <skills>ASP.NET, C#, ASP.NET MVC, WCF Client, ASP, HTML, DHTML, JavaScript, jQuery, MS SQL Server.
+Has very good domain knowledge in the areas of Private Banking , Mutual funds operations, Brokerage Solutions,  US Stock market trading, Portfolio Management, Retail Banking operations
+
+Skillset
+
+Microsoft .Net Framework 4.0	C#	MS-SQL Server 2005	
+
+ASP.NET Web Forms 	WCF Client	JavaScript/jQuery/JSON	
+
+ASP.NET MVC	VSTS 2010	UML	
+
+Enterprise Architect
+
+Performance Tuning	Technical Documentation
+
+HttpWatch/Fiddler	Object Oriented Analysis and Design (OOAD)
+Content Management System</skills></skills>	
+
+
+
+
+<experience end='present' start='730853'>Professional Experience
+
+<job end='present' id='1' pos='3' start='733410'><employer>MphasiS an HP company</employer>, <address><country iso3='USA'>USA</country></address>	 <daterange><start days='733410' iso8601='2009-01-01'>2009</start> - <end days='present' iso8601='2012-04-02'>Present</end></daterange></job>
+
+Project: Market Storm Lite Site	<job end='present' id='2' naics='52312003' naics2='52' pos='2' sic='621101' sic2='62' start='734321'><daterange><start days='734321' iso8601='2011-07-01'>Jul 2011</start> - <end days='present' iso8601='2012-04-02'>present</end></daterange>
+Client: <employer>Charles Schwab &amp; Co</employer>.
+<title>Project Lead\Architect\Senior Developer</title>	
+<description>C#, ASP.Net MVC 3, WCF Client, .Net Framework 4.0, JQuery, JSON, Visual Studio 2010
+
+Develop a scaled-down &quot;emergency&quot; version of Schwab.com Trading Site that:
+-Can be activated when the &quot;regular&quot; site has reached max capacity or has availability issues.
+-Is an alternative to &quot;System Unavailable&quot; or unstable experience.
+-Can sustain flash-crash traffic levels of 7x and beyond.
+-Is optimized for capacity and (server-side) performance.
+	-Has minimal cross-system resource consumption and dependencies.
+My responsibilities include:-
+Responsible for designing and documenting various components of the architecture which would make up the application.
+Code review.
+Prototyping &amp; evaluating various design options, tools &amp; technologies.
+Creating architecture for the new system in coordination with client architecture team.
+Presenting architecture design to various stakeholders.
+Technical design documentation &amp; review.
+Creating plan for various teams to work on.
+Managing &amp; coordinating with offshore development team of 3.
+Supporting onsite and offshore project managers in creating detailed project plans.</description></job>
+
+Project: Web Analytics Migration	<job end='present' id='3' naics='52312003' naics2='52' pos='1' sic='621101' sic2='62' start='734505'><daterange><start days='734505' iso8601='2012-01-01'>Jan 2012</start> - <end days='present' iso8601='2012-04-02'>present</end></daterange>
+Client: <employer>Charles Schwab &amp; Co</employer>.
+<title>Project Lead\Architect\Senior Developer</title>	
+<description>JavaScript, C#, ASP.Net MVC, WCF, .Net Framework 4.0, Visual Studio 2010, Adobe Omniture SiteCatalyst
+
+	This project is mainly to replace the current web analytics product (Hitbox) with Adobe's Omniture SiteCatalyst. The migration of the web analytics tagging across multiple website of client now will support the new product through tag management system hosted on internal Content Management System based on the page tag syndication framework. My responsibilities include:-
+Responsible for designing and documenting various components of the architecture which would make up the integration of web analytics on each client web sites through page tag syndication framework.
+Presenting designs to various stakeholders for sigh-off and comments.
+Development of custom plugins to be used as common platform for integration through tag management system. 
+Point of contact to the implementation team for any technical issues faced in individual site integration with web analytics.
+Consultant to the Production Support team for suggesting ways to debug issues till application is client facing</description></job>
+
+Project: Prospect Site Redesign	<job end='734321' id='4' naics='52312003' naics2='52' pos='4' sic='621101' sic2='62' start='733775'><daterange><start days='733775' iso8601='2010-01-01'>Jan 2010</start> - <end days='734321' iso8601='2011-07-01'>July 2011</end></daterange>
+Client: <employer>Charles Schwab &amp; Co</employer>.
+<title>Project Lead\Architect\Senior Developer</title>	
+<description>ASP.Net 4.0, C#, WCF Client, .Net Framework 4.0, Visual Studio 2010, Google Maps JavaScript V3 API, Google Search Appliance 6
+
+Rewriting clients existing public site (schwab.com), this project was about migrating the old public site from a Java based platform to a .Net based platform with new look, to be more scalable then its predecessor. This project was executed in Agile development model. I was responsible for designing and developing the shared applications between public site and secure site. Branch Locator application integrates with Google Maps using JavaScript V3 API and Static Map API. Internal Search application integrates with Google Search Appliance to achieve the search on site and Quick Quote application integrates with Wall Street On Demand services. My responsibilities include:-
+Development of third party integrations (Google Map/Google Search Appliance/ Wall Street)
+Code review
+Prototyping &amp; evaluating various design options, tools &amp; technologies
+Responsible for analyzing the existing system to understand requirements
+Creating architecture for the new system in coordination with client architecture team
+Presenting architecture design to various stakeholders
+Technical design documentation &amp; review
+Creating plan for various teams to work on
+Managing &amp; coordinating with offshore development team of 5
+Supporting onsite and offshore project managers in creating detailed project plans</description></job>
+
+Project: Performance Enhancement 	<job end='733744' id='5' naics='52312003' naics2='52' pos='5' sic='621101' sic2='62' start='733469'><daterange><start days='733622' iso8601='2009-08-01'>Aug 2009</start> - <end days='733744' iso8601='2009-12-01'>Dec 2009</end></daterange>
+Client: <employer>Charles Schwab &amp; Co</employer>.	
+<title>Project Lead\Senior Developer</title>	
+<description>ASP.Net 2.0, WCF client, .Net Framework 3.5
+
+This was a project for improving the end to end performance of top used web pages for the client to improve the KBTI rating of the web site &amp; to improve user experience. My responsibilities include:-
+Identify various opportunities available for improving the page performance using various tools like HttpWatch, Fiddler, Keynote KBTI reports, web log and instrumentation log analysis.
+Create design for the items identified which can provide potential improvement and present those to client architecture teams.
+Developing complex modules.
+At the end of the project we met of objective of bringing web sites KBTI rating from 11th to 1st position.
+
+Project: Trading web site development</description> 	<daterange><start days='733469' iso8601='2009-03-01'>Mar 2009</start> - <end days='733653' iso8601='2009-09-01'>Sep 2009</end></daterange>
+Client: <employer>Charles Schwab &amp; Co</employer>.
+<title>Project Lead\Senior Developer</title>	
+<description>ASP.Net 2.0, WCF client, .Net Framework 3.5
+
+This was a project for creating a new web site for one of the largest online brokerage company; I served as a member of design team for application architecture, documentation and performance tuning. The project was executed from 3 distinct locations. My responsibilities include:-
+Responsible for designing and documenting various components of the architecture which would makeup the framework of the application.
+Presenting designs to various stakeholders for sigh-off and comments. 
+Interfaced with client's infrastructure team for design discussions on application security, availability and monitoring.
+Interfacing with business to discuss feasibility for implementing a specific requirement and suggest alternatives.
+Point of contact to the implementation team for any technical issues faced in the application framework as well as .net framework and identifying improvements in terms of application maintainability and stability in that process.
+Consultant to the Production Support team for suggesting ways to debug issues.</description></job>
+
+<job end='733410' id='6' pos='7' start='732679'><employer>MphasiS an HP company</employer>, <address><city>Mumbai</city>, <country iso3='IND'>India</country></address>	<daterange><start days='732679' iso8601='2007-01-01'>2007</start> - <end days='733410' iso8601='2009-01-01'>2009</end></daterange></job>
+
+Project: Trading web site development 	<job end='733469' id='7' naics='52312003' naics2='52' pos='6' sic='621101' sic2='62' start='732860'><daterange><start days='732860' iso8601='2007-07-01'>Jul 2007</start> - <end days='733469' iso8601='2009-03-01'>Mar 2009</end></daterange>
+Client: <employer>Charles Schwab &amp; Co</employer>.
+<title>Module Lead\Senior Software Engineer</title>	
+<description>ASP.Net 2.0, WCF client, .Net Framework 3.5
+
+This is the same project as above which I was part of in India; I served as a member of framework team which was responsible for creating a portal framework for use-case development and part of Login team which was responsible for creating security module along with most complex login process of clients trading site. My responsibilities include:-
+Responsible for designing &amp; developing the Profile component required by the web portal.
+Part of the design team for page assembly and security components (authentication &amp; authorization)
+Responsible for designing &amp; developing the critical Login components of trading portal which includes integration with One Time Password, Fraud Detection System and seven various login types.
+Writing user document for the framework components.</description></job>
+
+<job end='732679' id='8' pos='9' sic='807101' sic2='80' start='732314'><employer>HCL Technologies</employer>, <address><country iso3='USA'>USA</country></address>	<daterange><start days='732314' iso8601='2006-01-01'>2006</start> - <end days='732679' iso8601='2007-01-01'>2007</end></daterange>
+
+<description>Project: Document and Case Management System (DCM</description></job>) 	<job end='732830' id='9' pos='8' start='732648'><daterange><start days='732648' iso8601='2006-12-01'>Dec 2006</start> - <end days='732830' iso8601='2007-06-01'>Jun 2007</end></daterange>
+Client: <department>New York State Department of Public Service</department> (<employer>NY-DPS</employer>)	
+<title>Module Lead\Senior Developer</title>	
+<description>ASP.NET, C#, Oracle 10g, Crystal Reports XI, FileNet P8 Content Engine 3.5, FileNet P8 Process Engine 3.5, FileNet Capture Professional 5.0, Scansoft Omnipage SDK 15
+
+To develop and deploy a business systems to collect, organize, integrate, make available, distribute, and preserve its organizational knowledge and documents over time and as organizational changes occur.  The system will make both the filing and the information-retrieval processes as efficient and streamlined as possible, leveraging available technology tools - such as imaging, electronic workflow and case status tracking, electronic signatures, and integrated data and information management.  The project is based on the product PUC Case Manager 3.0 and involves further configuration and customization as per NY-DPS requirements. My responsibilities include:-
+Product deployment.
+Gap Analysis in product and application requirements.
+Demonstrating the product to client.
+Coordinating with offsite team.
+Preparation of Data Migration Plan and Gap Analysis Documents.
+Responsible for designing &amp; developing the various flows of application.</description></job>
+
+<job end='732314' id='10' pos='12' sic='807101' sic2='80' start='731583'><employer>HCL Technologies</employer>, <address><city>Mumbai</city>, <country iso3='IND'>India</country></address>	<daterange><start days='731583' iso8601='2004-01-01'>2004</start> - <end days='732314' iso8601='2006-01-01'>2006</end></daterange>
+
+Project: <title>PUC Case Manager</title></job> 3.0 	<job end='732648' id='11' pos='10' start='731888'><daterange><start days='731888' iso8601='2004-11-01'>Nov 2004</start> - <end days='732648' iso8601='2006-12-01'>Dec 2006</end></daterange>
+<title>Module Lead\Senior Developer</title>	
+<description>ASP.NET 2.0, C#, Oracle 10g, Crystal Reports XI, FileNet P8 Content Engine 3.5, FileNet P8 Process Engine 3.5, FileNet Capture Professional 5.0, Scansoft Omnipage SDK 15
+
+The PUC Case Manager is a web portal for both business and consumer clients with a robust and scalable workflow engine built on FileNET's Panagon suite of products. Public Utilities Commissions (PUCs) manage the public access to the utilities including various electric, water, sewer, gas, and telecommunications providers. They are required to provide information on, and service for, both multinational telecommunications providers and small family owned sewer treatment firms as two extremes. The system includes a detailed workflow where each captured document is routed and accessed by the internal staff. My responsibilities include:-.
+Coordinating with onsite team.
+Requirement gathering and Analysis.
+Preparing HLD and LLD for the new requirement.
+Doing impact analysis.
+Coding.
+Preparing Unit Test Cases and Testing.
+Writing Technical Response for Request For Proposals.
+Demonstrating the applications to clients.</description></job>
+
+Project: Return Mail OCR 	<job end='732314' id='12' naics='52211002' naics2='52' pos='11' sic='602101' sic2='60' start='732253'><daterange><start days='732253' iso8601='2005-11-01'>Nov 2005</start> - <end days='732314' iso8601='2006-01-01'>Jan 2006</end></daterange>
+Client: <employer>Bank of America</employer>	
+<title>Senior Developer</title>	
+<description>ASP.NET 2.0, C#, Oracle 10g, Crystal Reports XI, FileNet P8 Content Engine 3.5, FileNet P8 Process Engine 3.5, FileNet Capture Professional 5.0, Scansoft Omnipage SDK 15
+
+Return Mail OCR is the Application which is used by Bank of America for automatic indexing of the Image data. Application automatically takes the data from the image and provides it to the workstation executive for indexing purposes. Application is built on windows services developed in C#.NET and OmniPage Pro 14 OCR Engine. The OCR data is populated in Based on the OCR values and business rules RM indexing application commits documents automatically. My responsibilities include:-
+Requirement gathering and Analysis.
+Prepare HLD and LLD for the new requirement.
+Impact analysis.
+Coding.
+Prepare Unit Test Cases.
+Testing.
+Maintenance.
+Bug Fixing.</description></job>
+
+<job end='731583' id='13' pos='15' start='731218'><employer>Shreeji Overseas</employer>, <address><city>Mumbai</city>, <country iso3='IND'>India</country></address>	<daterange><start days='731218' iso8601='2003-01-01'>2003</start> - <end days='731583' iso8601='2004-01-01'>2004</end></daterange></job>
+
+Project: Private Banking Application 	<job end='731888' id='14' pos='13' sic='6021' sic2='60' start='731430'><daterange><start days='731430' iso8601='2003-08-01'>Aug 2003</start> - <end days='731888' iso8601='2004-11-01'>Nov 2004</end></daterange>
+Client: <employer>ICICI Bank</employer>, <address><city>Mumbai</city>, <country iso3='IND'>India</country></address>
+<title>Programmer Analyst</title>	
+<description>ASP.NET, VB.NET, MS SQL Server2000, MS Visual SourceSafe 6.0
+
+Full-fledged Private Banking web application aimed at all the Private Banking Customers, which would interface with all the asset and liability products. My responsibilities include:-
+Coding.
+Preparing Unit Test Cases and Testing.</description></job>
+Maintenance.
+<job end='731888' id='15' pos='14' start='731430'><employer>Bug Fixing</employer>.
+
+Project: <title>MoneyWare Advisor</title> (Online Portfolio Management) 	<daterange><start days='731430' iso8601='2003-08-01'>Aug 2003</start> - <end days='731888' iso8601='2004-11-01'>Nov 2004</end></daterange></job>
+Client: <job id='16'><employer>Sharekhan Ltd</employer>, <address><city>Mumbai</city>, <country iso3='IND'>India</country></address>
+<title>Programmer Analyst</title>	
+<description>ASP.NET, VB.NET, MS SQL Server2000, Crystal Report 9.0, MS Visual SourceSafe 6.0
+
+Web portal to maintain portfolio to derive gains and losses, maintain stocks and assets of an individual or a corporate client. My responsibilities include:-
+Coding.
+Preparing Unit Test Cases and Testing.
+Maintenance.
+Bug Fixing.</description></job>
+
+<job end='731218' id='17' pos='17' start='730853'><employer>Bharat Petroleum Corporation Ltd</employer>., <address><city>Mumbai</city>, <country iso3='IND'>India</country></address>	<daterange><start days='730853' iso8601='2002-01-01'>2002</start> - <end days='731218' iso8601='2003-01-01'>2003</end></daterange></job>
+
+Project: Online Accommodation System for <job end='731338' id='18' pos='16' start='731034'><employer>BPCL</employer> 	<daterange><start days='731034' iso8601='2002-07-01'>Jul 2002</start> - <end days='731338' iso8601='2003-05-01'>May 2003</end></daterange>
+Client: HR Division, BPCL
+<title>Trainee</title> (<title>Programmer</title>)	
+<description>ASP, MS SQL Server2000, MS Visual SourceSafe
+
+Web portal for BPCL employees to achieve the allocation/de-allocation of apartments offered by company. Portal offers online request for allocation/de-allocation/maintenance, inventory details with each apartment. My responsibilities include:-
+Coding.
+Preparing Unit Test Cases and Testing.
+Maintenance.
+Bug Fixing.</description></job></experience>
+
+
+<education>EDUCATION
+
+<school id='19'><degree level='18'>Master of Computer Application</degree> (<institution>MCA)
+V.J.T.I., University of Mumbai</institution>, <address><city>Mumbai</city>, <country iso3='IND'>India</country></address></school>
+
+<school id='20'><degree level='16' name='Bachelor of Technology'>Bachelor of Technology</degree> (<address>Agril. Engg.</address>)
+<institution>Mahatma Phule Agril. University</institution>, <address><state>Maharashtra</state>, <country iso3='IND'>India</country></address></school></education>
+
+<skills>CERTIFICATIONS
+
+<courses>Microsoft Certified Professional
+
+
+
+Microsoft Certified Application Developer</courses></skills>
+
+
+
+
+
+
+
+
+
+
+
+
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='734579' experience='1' expidrefs='2,3,4,5,7,9,11,12,14,16' idrefs='2,3,4,5,7,9,11,12,14,16' lastused='2012' name='.net' start='731430'>
+    <variant>ASP.Net 4.0</variant>
+    <variant>ASP.Net</variant>
+    <variant>Microsoft .Net</variant>
+    <variant>VB.NET</variant>
+    <variant>C#.NET</variant>
+    <variant>.Net</variant>
+    <variant>.net</variant>
+    <variant>ASP.NET 2.0</variant>
+    <variant>ASP.Net 2.0</variant>
+    <variant>ASP.NET</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='3' idrefs='3' lastused='2012' name='adobe' start='734505'>
+    <variant>Adobe</variant>
+  </canonskill>
+  <canonskill end='734321' experience='1' expidrefs='4' idrefs='4' lastused='2011' name='agile' start='733775'>
+    <variant>Agile</variant>
+  </canonskill>
+  <canonskill end='734321' experience='1' expidrefs='4' idrefs='4' lastused='2011' name='api' start='733775'>
+    <variant>API</variant>
+  </canonskill>
+  <canonskill name='architecture'>
+    <variant>Architect</variant>
+    <variant>architect</variant>
+  </canonskill>
+  <canonskill end='731338' experience='1' expidrefs='18' idrefs='18' lastused='2003' name='asp' start='731034'>
+    <variant>ASP</variant>
+  </canonskill>
+  <canonskill end='733469' experience='1' expidrefs='7' idrefs='7' lastused='2009' name='assembly language' start='732860'>
+    <variant>assembly</variant>
+  </canonskill>
+  <canonskill end='731888' experience='1' expidrefs='14' idrefs='14' lastused='2004' name='banking' start='731430'>
+    <variant>Banking</variant>
+  </canonskill>
+  <canonskill end='732830' experience='1' expidrefs='9' idrefs='9' lastused='2007' name='business systems analysis' start='732648'>
+    <variant>business systems</variant>
+  </canonskill>
+  <canonskill name='client/server'>
+    <variant>client server</variant>
+    <variant>Client-Server</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2,4' idrefs='2,4' lastused='2012' name='com' start='733775'>
+    <variant>com</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='3,5' idrefs='3,5' lastused='2012' name='consulting' start='733469'>
+    <variant>Consultant</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='3,9,11,12' idrefs='3,9,11,12' lastused='2012' name='content management' start='731888'>
+    <variant>Content Management</variant>
+    <variant>Content</variant>
+  </canonskill>
+  <canonskill end='732830' experience='1' expidrefs='9,11,12,16' idrefs='9,11,12,16' lastused='2007' name='crystal reports' start='731888'>
+    <variant>Crystal Report 9.0</variant>
+    <variant>Crystal Reports</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2,3,4,5,7,9,11,16' idrefs='2,3,4,5,7,9,11,16' lastused='2012' name='customer relations' start='731888'>
+    <variant>Client</variant>
+    <variant>client</variant>
+    <variant>clients</variant>
+  </canonskill>
+  <canonskill end='732830' experience='1' expidrefs='9' idrefs='9' lastused='2007' name='data migration' start='732648'>
+    <variant>Data Migration</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2,3,4,5,7,9' idrefs='2,3,4,5,7,9' lastused='2012' name='design' start='732648'>
+    <variant>designing</variant>
+  </canonskill>
+  <canonskill name='dhtml'>
+    <variant>DHTML</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2,4,5' idrefs='2,4,5' lastused='2012' name='documentation' start='733469'>
+    <variant>documentation</variant>
+  </canonskill>
+  <canonskill end='732830' experience='1' expidrefs='9' idrefs='9' lastused='2007' name='file management' start='732648'>
+    <variant>filing</variant>
+  </canonskill>
+  <canonskill end='732830' experience='1' expidrefs='9,11,12' idrefs='9,11,12' lastused='2007' name='filenet' start='731888'>
+    <variant>FileNET</variant>
+    <variant>FileNet</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='flash' start='734321'>
+    <variant>flash</variant>
+  </canonskill>
+  <canonskill name='forms'>
+    <variant>Forms</variant>
+  </canonskill>
+  <canonskill name='funds'>
+    <variant>funds</variant>
+  </canonskill>
+  <canonskill name='html'>
+    <variant>HTML</variant>
+  </canonskill>
+  <canonskill end='732830' experience='1' expidrefs='9,12' idrefs='9,12' lastused='2007' name='imaging' start='732253'>
+    <variant>Image</variant>
+    <variant>image</variant>
+    <variant>imaging</variant>
+  </canonskill>
+  <canonskill end='732314' experience='1' expidrefs='12' idrefs='12' lastused='2006' name='indexing' start='732253'>
+    <variant>indexing</variant>
+  </canonskill>
+  <canonskill end='731338' experience='1' expidrefs='18' idrefs='18' lastused='2003' name='inventory management' start='731034'>
+    <variant>inventory</variant>
+  </canonskill>
+  <canonskill end='734321' experience='1' expidrefs='4' idrefs='4' lastused='2011' name='java' start='733775'>
+    <variant>Java</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='3,4' idrefs='3,4' lastused='2012' name='javascript' start='733775'>
+    <variant>JavaScript</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2,4' idrefs='2,4' lastused='2012' name='management' start='733775'>
+    <variant>Managing</variant>
+  </canonskill>
+  <canonskill name='marketing'>
+    <variant>market</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='max' start='734321'>
+    <variant>max</variant>
+  </canonskill>
+  <canonskill end='732648' experience='1' expidrefs='11' idrefs='11' lastused='2006' name='microsoft access' start='731888'>
+    <variant>access</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2,3,4,9,11,12' idrefs='2,3,4,9,11,12' lastused='2012' name='microsoft c #' start='731888'>
+    <variant>C#</variant>
+  </canonskill>
+  <canonskill name='microsoft certified professional'>
+    <variant>Microsoft Certified Professional</variant>
+    <variant>Microsoft Certified</variant>
+  </canonskill>
+  <canonskill end='732314' experience='1' expidrefs='12' idrefs='12' lastused='2006' name='microsoft mail' start='732253'>
+    <variant>Mail</variant>
+  </canonskill>
+  <canonskill end='732314' experience='1' expidrefs='12' idrefs='12' lastused='2006' name='microsoft windows' start='732253'>
+    <variant>windows</variant>
+  </canonskill>
+  <canonskill end='731888' experience='1' expidrefs='14,16,18' idrefs='14,16,18' lastused='2004' name='microsoft windows 2000' start='731034'>
+    <variant>2000</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='3' idrefs='3' lastused='2012' name='migration' start='734505'>
+    <variant>migration</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2,3' idrefs='2,3' lastused='2012' name='mvc' start='734321'>
+    <variant>MVC 3</variant>
+    <variant>MVC</variant>
+  </canonskill>
+  <canonskill name='netscape enterprise server'>
+    <variant>Enterprise</variant>
+  </canonskill>
+  <canonskill name='object oriented design'>
+    <variant>OOAD</variant>
+    <variant>Object Oriented Analysis and Design</variant>
+  </canonskill>
+  <canonskill end='732314' experience='1' expidrefs='12' idrefs='12' lastused='2006' name='ocr' start='732253'>
+    <variant>OCR</variant>
+  </canonskill>
+  <canonskill end='732314' experience='1' expidrefs='12' idrefs='12' lastused='2006' name='omnipage pro' start='732253'>
+    <variant>OmniPage Pro</variant>
+  </canonskill>
+  <canonskill end='732830' experience='1' expidrefs='9,11,12' idrefs='9,11,12' lastused='2007' name='oracle' start='731888'>
+    <variant>Oracle</variant>
+  </canonskill>
+  <canonskill name='oracle developer 2000'>
+    <variant>Developer</variant>
+  </canonskill>
+  <canonskill end='732830' experience='1' expidrefs='9' idrefs='9' lastused='2007' name='organizational skills' start='732648'>
+    <variant>organizational</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='3,5,7' idrefs='3,5,7' lastused='2012' name='page' start='732860'>
+    <variant>page</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2,3,4,5' idrefs='2,3,4,5' lastused='2012' name='presentation skills' start='733469'>
+    <variant>Presenting</variant>
+  </canonskill>
+  <canonskill end='732830' experience='1' expidrefs='9' idrefs='9' lastused='2007' name='process engineering' start='732648'>
+    <variant>processes</variant>
+  </canonskill>
+  <canonskill end='732648' experience='1' expidrefs='11,12,14,16,18' idrefs='11,12,14,16,18' lastused='2006' name='programming' start='731034'>
+    <variant>Coding</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2,4' idrefs='2,4' lastused='2012' name='project planning' start='733775'>
+    <variant>project plans</variant>
+  </canonskill>
+  <canonskill end='732648' experience='1' expidrefs='11' idrefs='11' lastused='2006' name='proposal writing' start='731888'>
+    <variant>Proposals</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2,4' idrefs='2,4' lastused='2012' name='prototyping' start='733775'>
+    <variant>Prototyping</variant>
+  </canonskill>
+  <canonskill end='734321' experience='1' expidrefs='4' idrefs='4' lastused='2011' name='quick' start='733775'>
+    <variant>Quick</variant>
+  </canonskill>
+  <canonskill end='733744' experience='1' expidrefs='5,11,12' idrefs='5,11,12' lastused='2009' name='requirements' start='731888'>
+    <variant>Requirement</variant>
+    <variant>requirement</variant>
+  </canonskill>
+  <canonskill name='retail'>
+    <variant>Retail</variant>
+  </canonskill>
+  <canonskill end='731888' experience='1' expidrefs='14,16,18' idrefs='14,16,18' lastused='2004' name='sourcesafe' start='731034'>
+    <variant>Visual SourceSafe</variant>
+    <variant>Visual SourceSafe 6.0</variant>
+  </canonskill>
+  <canonskill end='731888' experience='1' expidrefs='14,16,18' idrefs='14,16,18' lastused='2004' name='sql' start='731034'>
+    <variant>MS SQL Server</variant>
+    <variant>MS-SQL Server</variant>
+  </canonskill>
+  <canonskill name='technical writing'>
+    <variant>Technical Documentation</variant>
+  </canonskill>
+  <canonskill end='732648' experience='1' expidrefs='11' idrefs='11' lastused='2006' name='telecommunications' start='731888'>
+    <variant>telecommunications</variant>
+  </canonskill>
+  <canonskill name='unified modeling language'>
+    <variant>UML</variant>
+  </canonskill>
+  <canonskill end='732648' experience='1' expidrefs='11' idrefs='11' lastused='2006' name='utilities' start='731888'>
+    <variant>Utilities</variant>
+    <variant>utilities</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2,3,4' idrefs='2,3,4' lastused='2012' name='visual studio' start='733775'>
+    <variant>Visual Studio</variant>
+  </canonskill>
+  <canonskill end='733469' experience='1' expidrefs='7,11,16,18' idrefs='7,11,16,18' lastused='2009' name='web portal' start='731034'>
+    <variant>Web portal</variant>
+    <variant>web portal</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='3,5' idrefs='3,5' lastused='2012' name='web site production' start='733469'>
+    <variant>web site</variant>
+    <variant>website</variant>
+    <variant>web site development</variant>
+    <variant>web sites</variant>
+    <variant>web pages</variant>
+  </canonskill>
+  <canonskill end='732830' experience='1' expidrefs='9,11' idrefs='9,11' lastused='2007' name='workflow analysis' start='731888'>
+    <variant>workflow</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

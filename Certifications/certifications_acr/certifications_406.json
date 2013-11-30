@@ -1,0 +1,117 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CSPI", 
+            "Certification Name": "Certification for Specialists in Poison Information", 
+            "Type": "Specialty", 
+            "Certification ID": "7450", 
+            "Certifying Organization": "American Association of Poison Control Centers"
+        }, 
+        {
+            "Acronym": "C", 
+            "Certification Name": "Certificate of Added Qualifications: Electronic Fetal Monitoring", 
+            "Type": "Specialty", 
+            "Certification ID": "0077", 
+            "Certifying Organization": "The National Certification Corporation"
+        }, 
+        {
+            "Acronym": "MES", 
+            "Certification Name": "Medical Exercise Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "1058", 
+            "Certifying Organization": "American Academy of Health, Fitness, & Rehabilitation Professionals"
+        }, 
+        {
+            "Acronym": "VA-BC", 
+            "Certification Name": "Vascular Access-Board Certified", 
+            "Type": "Core", 
+            "Certification ID": "9533", 
+            "Certifying Organization": "Vascular Access Certification Corporation"
+        }, 
+        {
+            "Acronym": "CNSC", 
+            "Certification Name": "Certified Nutrition Support Clinician", 
+            "Type": "Advanced", 
+            "Certification ID": "2437", 
+            "Certifying Organization": "National Board of Nutrition Support Certification, Inc."
+        }, 
+        {
+            "Acronym": "OPA-C", 
+            "Certification Name": "Orthopaedic Physician's Assistant Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "6876", 
+            "Certifying Organization": "American Society of Orthopedic Physician Assistants"
+        }, 
+        {
+            "Acronym": "BCN", 
+            "Certification Name": "Board Certified in Neurofeedback", 
+            "Type": "Specialty", 
+            "Certification ID": "6711", 
+            "Certifying Organization": "Biofeedback Certification International Alliance"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Technician Certification in Biofeedback", 
+            "Type": "Specialty", 
+            "Certification ID": "6716", 
+            "Certifying Organization": "Biofeedback Certification International Alliance"
+        }, 
+        {
+            "Acronym": "C-NPT", 
+            "Certification Name": "Certificate of Added Qualification in Neonatal Pediatric Transport", 
+            "Type": "Specialty", 
+            "Certification ID": "1194", 
+            "Certifying Organization": "The National Certification Corporation"
+        }, 
+        {
+            "Acronym": "CPNP-AC", 
+            "Certification Name": "Certified Pediatric Nurse Practitioner - Acute Care", 
+            "Type": "Specialty", 
+            "Certification ID": "6100", 
+            "Certifying Organization": "Pediatric Nursing Certification Board"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Technician Certification in Neurofeedback", 
+            "Type": "Specialty", 
+            "Certification ID": "6715", 
+            "Certifying Organization": "Biofeedback Certification International Alliance"
+        }, 
+        {
+            "Acronym": "PA-C", 
+            "Certification Name": "Physician Assistant - Certified", 
+            "Type": "Core", 
+            "Certification ID": "0294", 
+            "Certifying Organization": "National Commission on Certification of Physician Assistants"
+        }, 
+        {
+            "Acronym": "CAST", 
+            "Certification Name": "Certified Ambulatory Surgery Technician", 
+            "Type": "Core", 
+            "Certification ID": "5991", 
+            "Certifying Organization": "Certification Board for Sterile Processing and Distribution "
+        }, 
+        {
+            "Acronym": "WCC", 
+            "Certification Name": "Wound Care Certifed", 
+            "Type": "Specialty", 
+            "Certification ID": "6051", 
+            "Certifying Organization": "National Alliance of Wound Care"
+        }, 
+        {
+            "Acronym": "RhMSUS", 
+            "Certification Name": "Musculoskeletal Ultrasound Certification in Rheumatology", 
+            "Type": "Specialty", 
+            "Certification ID": "9212", 
+            "Certifying Organization": "American College of Rheumatology"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Board Certified in Pelvic Muscle Dysfunction Biofeedback", 
+            "Type": "Specialty", 
+            "Certification ID": "4022", 
+            "Certifying Organization": "Biofeedback Certification International Alliance"
+        }
+    ], 
+    "onet": "29107100"
+}

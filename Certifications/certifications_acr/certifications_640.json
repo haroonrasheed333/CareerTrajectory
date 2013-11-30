@@ -1,0 +1,26 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Diplomate of the ACVPM", 
+            "Type": "Specialty", 
+            "Certification ID": "5631", 
+            "Certifying Organization": "American College of Veterinary Preventive Medicine"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Board Certified in Animal Food Science", 
+            "Type": "Advanced", 
+            "Certification ID": "9375", 
+            "Certifying Organization": "American Registry of Professional Animal Scientists"
+        }, 
+        {
+            "Acronym": "EFM", 
+            "Certification Name": "Level - 4 Equine Facility Manager Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "4234", 
+            "Certifying Organization": "Certified Horsemanship Association"
+        }
+    ], 
+    "onet": "45202100"
+}

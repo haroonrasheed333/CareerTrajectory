@@ -1,0 +1,54 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "SC:L", 
+            "Certification Name": "Specialist Certificate: Legal", 
+            "Type": "Specialty", 
+            "Certification ID": "6106", 
+            "Certifying Organization": "Registry of Interpreters for the Deaf"
+        }, 
+        {
+            "Acronym": "CDI", 
+            "Certification Name": "Certified Deaf Interpreter", 
+            "Type": "Specialty", 
+            "Certification ID": "6104", 
+            "Certifying Organization": "Registry of Interpreters for the Deaf"
+        }, 
+        {
+            "Acronym": "OTC", 
+            "Certification Name": "Oral Transliteration Certificate", 
+            "Type": "Core", 
+            "Certification ID": "6105", 
+            "Certifying Organization": "Registry of Interpreters for the Deaf"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Technician Certification in Biofeedback", 
+            "Type": "Specialty", 
+            "Certification ID": "6716", 
+            "Certifying Organization": "Biofeedback Certification International Alliance"
+        }, 
+        {
+            "Acronym": "NIC", 
+            "Certification Name": "National Interpreter Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "6107", 
+            "Certifying Organization": "Registry of Interpreters for the Deaf"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "National Board Certification - Early Childhood through Young Adulthood/Exceptional Needs Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "1308", 
+            "Certifying Organization": "National Board for Professional Teaching Standards"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Technician Certification in Neurofeedback", 
+            "Type": "Specialty", 
+            "Certification ID": "6715", 
+            "Certifying Organization": "Biofeedback Certification International Alliance"
+        }
+    ], 
+    "onet": "25205400"
+}

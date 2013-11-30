@@ -1,0 +1,158 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734595' xml:space='preserve'>                                        <contact><name><givenname>CREE</givenname> <givenname>N</givenname>.<givenname>E</givenname>. <surname>POWELL</surname></name>
+<address lat='29.5964' lon='95.4543' majorcity='HOUSTON' state='TX'><street>16119 Bowridge Lane</street>
+<city>Houston</city>, <state abbrev='TX'>Texas</state> <postalcode>77053</postalcode></address>
+<email>crecheropowell@yahoo.com</email> (cell) <phone type='cell'>281-728-6038</phone></contact>
+
+<summary>OBJECTIVE
+                                 <objective>To obtain a position as a customer service coordinator that allows   
+                                 a chance for enhancement in the field of  customer service</objective></summary>
+<education>EDUCATION
+
+<school id='7'><completiondate days='732818' iso8601='2007-05-20'>05/20/2007</completiondate>               <institution>Prairie View A &amp; M University</institution>
+                                 <degree level='16'>Bachelors of Arts and Science Degree</degree> emphasis <major code='0499'>Communications</major>
+                                 Minor: <minor code='4303'>Management Information Systems</minor></school></education>
+
+<skills>SKILLS                   <skills>ENPS, I-News, Adobe Premier, Editing, Satellite Feeds, Audio, 
+                                 Studio Camera Operations, Computer Graphics, Set Design,    
+                                 Microsoft Outlook, Word, Excel, PowerPoint,</skills></skills>
+<experience end='present' start='732679'>EXPERIENCE
+<job end='present' id='1' pos='1' sic='628205' sic2='62' start='734048'><daterange><start days='734048' iso8601='2010-10-01'>10/2010</start> to <end days='present' iso8601='2012-03-31'>present</end></daterange>   <employer>Mercer Human Resource Services</employer> - <address><city>Houston</city>, <state abbrev='TX'>Texas</state></address>
+                                      <title>Participant Service Representative</title>
+<description>Health &amp;Defined Contribution benefits representative 
+401K Planning and interpret IRS regulations
+Consult with plan sponsors regarding application processing and screening, co-pays, deductibles</description></job>
+
+<job end='present' id='2' pos='2' start='734048'><daterange><start days='734048' iso8601='2010-10-01'>10/2010</start> to <end days='present' iso8601='2012-03-31'>present</end></daterange>   <employer>Ajali Entertainment Group</employer>.
+                                   <jobtype>Part-time</jobtype> <title>Promotions Assistant</title>.
+<description>Execute promotional strategies on social media outlets
+Marketing and event planning
+Scout Locations and cast for promotional videos
+Import media files on MP3</description></job>
+
+<job end='733987' id='3' pos='3' start='733806'><daterange><start days='733806' iso8601='2010-02-01'>02/2010</start> to <end days='733987' iso8601='2010-08-01'>08/2010</end></daterange>   <employer>Zenfilm Production Company</employer> - <address><city>Houston</city>, <state abbrev='TX'>Texas</state></address>
+		<title>Production Assistant/Intern</title>
+<description>Assist in coordinating casting for Children's Museum of Houston commercial shoots
+Face to face client orientation and follow up
+Logged promotional spots and sponsorship packets
+Provide support to director and production crew during the making of promotional spots
+Gained hands on experience in pre-production planning such as budgets and estimates
+Executed administrative and organizational tasks
+ Answer phones</description></job>
+
+<job end='733714' id='4' pos='4' start='733410'><daterange><start days='733410' iso8601='2009-01-01'>01/2009</start>-<end days='733714' iso8601='2009-11-01'>11/2009</end></daterange> <employer>NuComm International</employer> - <address><city>Lafayette</city>, <state abbrev='LA'>Louisiana</state></address>
+                                  <title>Marketing and Public Relations Representative</title>
+<description>Strengthened communication between company and clients
+Administer news letters and publications
+Organize sales reports
+Meet strict deadlines
+Problem resolution and account adjustment
+Compose and edit directives</description></job>
+
+
+<job end='733349' id='5' pos='5' sic='483301' sic2='48' start='733013'><daterange><start days='733013' iso8601='2007-12-01'>12/2007</start>-<end days='733349' iso8601='2008-11-01'>11/2008</end></daterange>       <employer>KLFY Channel 10 News</employer> (<employer>CBS</employer>) - <address><city>Lafayette</city>, <state abbrev='LA'>Louisiana</state></address>
+                                   <title>News Producer/Associate Producer/ Morning Show Guest Coordinator</title>
+<description>Produce for the 5pm, noon, morning and weekend newscast
+Willing and able to develop enterprise story ideas
+Coordinate live shots for immediate news coverage
+Wrote effective news scripts
+Gathered information for breaking news
+Assisted with wall to wall storm coverage for Hurricane Gustav</description></job>
+
+<job end='732860' id='6' pos='6' sic='483301' sic2='48' start='732679'><daterange><start days='732679' iso8601='2007-01-01'>01/2007</start> - <end days='732860' iso8601='2007-07-01'>07/2007</end></daterange>    <employer>KTRK Channel 13 ABC</employer> - <address><city>Houston</city>, <state abbrev='TX'>TX</state></address>
+                                            <title>News Producer/ Special Projects- Intern</title>
+<description>Wrote informative and effective scripts for weekend morning newscasts and nightly web casts using I-News
+Executed how to place news stories in the order of importance to produce a proper news lineup
+Extensive training in gathering valuable information for a newscast</description></job></experience>
+
+
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='733987' experience='1' expidrefs='3' idrefs='3' lastused='2010' name='administration' start='733806'>
+    <variant>administrative</variant>
+  </canonskill>
+  <canonskill name='adobe premiere'>
+    <variant>Adobe Premier</variant>
+  </canonskill>
+  <canonskill name='audio'>
+    <variant>Audio</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='benefits administration' start='734048'>
+    <variant>benefits</variant>
+  </canonskill>
+  <canonskill end='733987' experience='1' expidrefs='3' idrefs='3' lastused='2010' name='budgeting' start='733806'>
+    <variant>budgets</variant>
+  </canonskill>
+  <canonskill end='733987' experience='1' expidrefs='3,4' idrefs='3,4' lastused='2010' name='customer relations' start='733410'>
+    <variant>client</variant>
+    <variant>clients</variant>
+  </canonskill>
+  <canonskill end='733714' experience='1' expidrefs='4' idrefs='4' lastused='2009' name='editing' start='733410'>
+    <variant>Editing</variant>
+    <variant>edit</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='event management' start='734048'>
+    <variant>event planning</variant>
+  </canonskill>
+  <canonskill name='graphics software'>
+    <variant>Computer Graphics</variant>
+  </canonskill>
+  <canonskill end='733714' experience='1' expidrefs='4' idrefs='4' lastused='2009' name='letters' start='733410'>
+    <variant>letters</variant>
+  </canonskill>
+  <canonskill end='733987' experience='1' expidrefs='3' idrefs='3' lastused='2010' name='macromedia director' start='733806'>
+    <variant>director</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='marketing' start='734048'>
+    <variant>Marketing</variant>
+  </canonskill>
+  <canonskill name='microsoft excel'>
+    <variant>Excel</variant>
+  </canonskill>
+  <canonskill name='microsoft outlook'>
+    <variant>Microsoft Outlook</variant>
+  </canonskill>
+  <canonskill name='microsoft powerpoint'>
+    <variant>PowerPoint</variant>
+  </canonskill>
+  <canonskill name='microsoft word'>
+    <variant>Word</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='mp3' start='734048'>
+    <variant>MP3</variant>
+  </canonskill>
+  <canonskill end='733349' experience='1' expidrefs='5' idrefs='5' lastused='2008' name='netscape enterprise server' start='733013'>
+    <variant>enterprise</variant>
+  </canonskill>
+  <canonskill end='733987' experience='1' expidrefs='3' idrefs='3' lastused='2010' name='organizational skills' start='733806'>
+    <variant>organizational</variant>
+  </canonskill>
+  <canonskill name='photography'>
+    <variant>Camera</variant>
+  </canonskill>
+  <canonskill end='733714' experience='1' expidrefs='4' idrefs='4' lastused='2009' name='problem solving' start='733410'>
+    <variant>Problem resolution</variant>
+  </canonskill>
+  <canonskill end='733714' experience='1' expidrefs='4' idrefs='4' lastused='2009' name='publicity' start='733410'>
+    <variant>publications</variant>
+  </canonskill>
+  <canonskill end='733714' experience='1' expidrefs='4' idrefs='4' lastused='2009' name='sales' start='733410'>
+    <variant>sales</variant>
+  </canonskill>
+  <canonskill name='set design'>
+    <variant>Set Design</variant>
+  </canonskill>
+  <canonskill end='733349' experience='1' expidrefs='5,6' idrefs='5,6' lastused='2008' name='shell scripting' start='732679'>
+    <variant>scripts</variant>
+  </canonskill>
+  <canonskill end='732860' experience='1' expidrefs='6' idrefs='6' lastused='2007' name='stories' start='732679'>
+    <variant>stories</variant>
+  </canonskill>
+  <canonskill end='733987' experience='1' expidrefs='3' idrefs='3' lastused='2010' name='telephone skills' start='733806'>
+    <variant>Answer phones</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

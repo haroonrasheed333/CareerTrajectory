@@ -1,0 +1,40 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Press Operator Certification", 
+            "Type": "Core", 
+            "Certification ID": "5429", 
+            "Certifying Organization": "Flexographic Technical Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "PrePress Operator Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "5430", 
+            "Certifying Organization": "Flexographic Technical Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Implementation Specialist Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "5431", 
+            "Certifying Organization": "Flexographic Technical Association"
+        }, 
+        {
+            "Acronym": "RBP", 
+            "Certification Name": "Registered Biological Photographer", 
+            "Type": "Specialty", 
+            "Certification ID": "4020", 
+            "Certifying Organization": "BioCommunications Association, Inc. - Board of Registry"
+        }, 
+        {
+            "Acronym": "CPC", 
+            "Certification Name": "Certified Photographic Consultant", 
+            "Type": "Core", 
+            "Certification ID": "5669", 
+            "Certifying Organization": "Photo Marketing Association International"
+        }
+    ], 
+    "onet": "51915100"
+}

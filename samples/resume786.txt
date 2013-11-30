@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734597' xml:space='preserve'> <contact><name><givenname>Timothy</givenname> <surname>Tobey</surname></name></contact>
+<statements><activities>Training/	Tri-County RVT HS, Franklin, MA - September, 2009 - November, 2009</activities></statements>
+<education>Education	<school id='5'><courses>Cisco - A+ Certification
+      10 years experience building, repairing and troubleshooting of computers</courses>
+	<institution>CDIA at Boston University</institution>, <address lat='42.3987' lon='-71.2592' majorcity='WALTHAM' state='MA'><city>Waltham</city>, <state abbrev='MA'>MA</state></address> - <completiondate days='732557' iso8601='2006-09-01'>September 2006</completiondate></school>
+<school id='6'><courses>3D Animation Certification</courses>
+		<description>Skills	
+*    3D Modeling		*    Animating
+*    Texturing			*    Lighting
+*    Rigging			*    Rendering
+Practicum - Worked as part of a team to develop an animation for Children's Hospital in Boston. The main purpose of the project was to explain to children about cancer. During the month long project we were involved in modeling, texturing, animation.</description>
+
+<institution>ITT Technical Institute</institution>, <address><city>Norwood</city>, <state abbrev='MA'>MA</state></address> - <completiondate days='731735' iso8601='2004-06-01'>June, 2004</completiondate>
+<degree level='14'>Associate Degree</degree> in <major code='0499'>Multimedia</major></school></education>
+		<skills>Skills	
+*    <skills>HTML			*    Photoshop
+*    Frontpage			*    Illustrator
+*    Flash			*    Premiere
+*    3D Studio Max		*    After Effects</skills></skills>
+
+<statements>Awards/Received	Honors, perfect attendance, <honors>3.6 GPA     Member of The National Honor Society
+Practicum - Interactive driving game using Lingo, Photoshop, 3</honors></statements><experience end='present' start='729392'>D Studio Max.
+
+<job end='730853' id='1' pos='3' start='729392'><employer>Tri-County RVT HS</employer>, <address><city>Franklin</city>, <state abbrev='MA'>MA</state></address> - <daterange><start days='729392' iso8601='1998-01-01'>1998</start> - <end days='730853' iso8601='2002-01-01'>2002</end></daterange>
+<description>Electronics Technology Student
+Trained to use CAD, TINA and other electronics related software
+AC/DC, Digital/Analog, Communication, Microcontroller theory
+PCB design and fabrication</description></job>
+Experience	<job end='present' id='2' pos='1' sic='572202' sic2='57' start='734018'><daterange><start days='734018' iso8601='2010-09-01'>September 2010</start> - <end days='present' iso8601='2012-04-02'>Present</end></daterange>	<employer>Sears</employer>, <address><city>North Attleboro</city>, <state abbrev='MA'>MA</state></address>
+Merchandiser/Sales/<title>Cashier</title></job>/Receiving
+				<job end='733318' id='3' pos='2' sic='735949' sic2='73' start='731218'><daterange><start days='731218' iso8601='2003-01-01'>2003</start> - <end days='733318' iso8601='2008-10-01'>Oct 2008</end></daterange>	<employer>Basic Rental &amp; Supplies</employer>,	<address><city>Norwood</city>, <state abbrev='MA'>MA</state></address>
+<title>Retail Sales/Landscape Designer</title></job>
+<job id='4'><employer>Salesmen</employer>
+<title>Forklift operator</title>
+<description>Store maintenance</description></job></experience>
+<contact><name><givenname>Delivery</givenname> <surname>Scheduler</surname></name>
+
+
+<email>tt@sxdesigner.com</email>
+<website>www.sxdesigner.com</website></contact>
+
+
+
+
+
+</resume>
+
+<skillrollup version='1'>
+  <canonskill education='1' name='3d animation'>
+    <variant>3D Animation</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='6' idrefs='6' name='3d modeling'>
+    <variant>3D Modeling</variant>
+  </canonskill>
+  <canonskill name='3d studio max'>
+    <variant>3D Studio Max</variant>
+  </canonskill>
+  <canonskill education='1' name='a + certified'>
+    <variant>A+ Certification</variant>
+  </canonskill>
+  <canonskill name='adobe aftereffects'>
+    <variant>After Effects</variant>
+  </canonskill>
+  <canonskill name='adobe photoshop'>
+    <variant>Photoshop</variant>
+  </canonskill>
+  <canonskill name='adobe premiere'>
+    <variant>Premiere</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='6' idrefs='6' name='animation'>
+    <variant>animation</variant>
+  </canonskill>
+  <canonskill end='730853' experience='1' expidrefs='1' idrefs='1' lastused='2002' name='cad' start='729392'>
+    <variant>CAD</variant>
+  </canonskill>
+  <canonskill education='1' name='cisco'>
+    <variant>Cisco</variant>
+  </canonskill>
+  <canonskill end='730853' experience='1' expidrefs='1' idrefs='1' lastused='2002' name='dc' start='729392'>
+    <variant>DC</variant>
+  </canonskill>
+  <canonskill end='730853' experience='1' expidrefs='1' idrefs='1' lastused='2002' name='electronics' start='729392'>
+    <variant>Electronics</variant>
+    <variant>electronics</variant>
+  </canonskill>
+  <canonskill name='flash'>
+    <variant>Flash</variant>
+  </canonskill>
+  <canonskill name='frontpage'>
+    <variant>Frontpage</variant>
+  </canonskill>
+  <canonskill name='html'>
+    <variant>HTML</variant>
+  </canonskill>
+  <canonskill name='illustrator'>
+    <variant>Illustrator</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='6' idrefs='6' name='lighting'>
+    <variant>Lighting</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='6' idrefs='6' name='modeling'>
+    <variant>modeling</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='6' idrefs='6' name='rendering'>
+    <variant>Rendering</variant>
+  </canonskill>
+  <canonskill education='1' name='repair'>
+    <variant>repairing</variant>
+  </canonskill>
+  <canonskill education='1' name='troubleshooting'>
+    <variant>troubleshooting</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

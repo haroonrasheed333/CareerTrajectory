@@ -1,0 +1,40 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "PPM", 
+            "Certification Name": "Public Power Manager", 
+            "Type": "Core", 
+            "Certification ID": "6196", 
+            "Certifying Organization": "American Public Power Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Public Power Governance Certificate Program", 
+            "Type": "Core", 
+            "Certification ID": "9534", 
+            "Certifying Organization": "American Public Power Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Biosolids Land Appliers Class II Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "8161", 
+            "Certifying Organization": "Association of Boards of Certification"
+        }, 
+        {
+            "Acronym": "PPCSM", 
+            "Certification Name": "Public Power Customer Service Manager", 
+            "Type": "Core", 
+            "Certification ID": "6195", 
+            "Certifying Organization": "American Public Power Association"
+        }, 
+        {
+            "Acronym": "EEMCP", 
+            "Certification Name": "Energy Efficiency Management Certificate Program", 
+            "Type": "Core", 
+            "Certification ID": "9535", 
+            "Certifying Organization": "American Public Power Association"
+        }
+    ], 
+    "onet": "11305104"
+}

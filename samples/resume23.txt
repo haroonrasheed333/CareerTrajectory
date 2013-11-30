@@ -1,0 +1,265 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734580' xml:space='preserve'><contact><name><givenname>Carlos</givenname> <givenname>R</givenname>. <surname>Salvador</surname>, <namesuffix>Jr</namesuffix></name>.
+ <address lat='37.483' lon='121.128' majorcity='PATTERSON' state='CA'><street>714 Skimmer Drive</street>, <city>Patterson</city>, <state abbrev='CA'>CA</state>  <postalcode>95363</postalcode></address>
+Home <phone type='home'>(209) 892-8503</phone>/ E-mail - <email>csal@hotmail.com</email> / Cell <phone type='cell'>(408) 832-3277</phone></contact>
+<statements>Employment Interests:
+<activities>Systems Engineer for Information Technology</activities></statements>
+<skills>Summary of Qualifications / Certifications / Experience:
+<skills>Operating Systems: Windows 7,  XP, 2000, NT 4.0, 95/98 
+Email: Lotus CC Mail, MS Exchange &amp; Outlook  
+Diagnostic Tools:  Norton  / PC Tools / Qa Plus/ McAfee / Symantec 
+Applications: MS Office, Project 98, Word Perfect, MS SQL, Great Plains &amp; several application utilities
+Cabling: Installation Management, Diagnostics &amp; Design, Ethernet, Token Ring, BNC, and CAT5
+Hardware: Configuration and support of Apple/PC Clone/AST/Compaq/Dell/IBM and entire HP Family Printer line, HP Servers Install / Support / Diagnostics &amp; Design of Rack Systems</skills></skills>
+<experience end='present' start='729757'>Employment Highlights:
+<job end='present' id='1' pos='1' start='730853'><employer>Lowes HIW</employer>  <daterange><start days='730853' iso8601='2002-01-01'>2002</start> to <end days='present' iso8601='2012-03-16'>Present</end></daterange>
+<title>Flooring Sales Specialist</title></job>
+Sagent Technology - <job end='730853' id='2' pos='2' start='730122'><daterange><start days='730122' iso8601='2000-01-01'>2000</start> to <end days='730853' iso8601='2002-01-01'>2002</end></daterange>
+<title>Systems Engineer</title>
+<description>Desktop, Laptop &amp; Server support at corporate site in Mountain View, Ca.
+DSL installs and trouble shooting for nation wide employees
+System upgrades (desktops, laptops and servers) from Windows 98/NT 4 Workstation &amp; Server to Windows 2000 Pro/Server or Windows XP
+Create user network and email accounts; maintain User Manager, Server Manager and Exchange Server
+Create system images for desktops, laptops and servers
+Setup and test remote access and VPN access for offsite users
+Helpdesk support for worldwide Sagent employees</description></job>
+<job end='730122' id='3' naics='54151108' naics2='54' pos='3' sic='573407' sic2='57' start='729757'><employer>BMC Software</employer> - <daterange><start days='729757' iso8601='1999-01-01'>99</start> to <end days='730122' iso8601='2000-01-01'>2000</end></daterange>
+<title>Systems Support Engineer</title>
+<description>Desktop, laptop and printer support for the San Jose, Ca. site
+Installation of rack mounted servers
+System upgrades, trouble shoot and repairs
+Create system images for desktops and laptops
+Helpdesk support for San Jose site
+Litton Applied Technology - 92 to 99</description></job>
+<job id='4'><title>IT Support Manager</title>
+<description>Managing &amp; setting service levels for support operations to multiple contract
+sites in Silicon Valley, CA
+Created Desktop Hardware &amp; Software Standards and preformed periodically
+onsite audits
+Managed weekly updated parts and labor cost reviews to the various accounts
+involved &amp; supported.
+Conduct contractor employee reviews, setup negotiations involving contract
+issues with support clients in regards to onsite contractors and submitting
+quotes of sales of new equipment orders
+Provided customer service training to contractors &amp; conduct new hire
+Interviews for new contract accounts.
+Handle in house telephone customer support, software &amp; hardware installations
+&amp; configuration &amp; repairs.
+Provide off site customer technical support of the following, rental PC &amp; MAC
+computers, associated peripherals &amp; LAN support. In charge of maintaining
+procurement inventory and replenishing stock.</description></job></experience>
+<education>Education
+<school id='5'><institution>Professional Training Center, Inc</institution>. <courses>Certified LAN Technician - 1990
+HP Certification Training _ 1991
+Compaq / Apple / IBM Certification Training _ 1992-95
+Crosby Associates Quality Management Program _ 1992
+Power of Sales Negotiations &amp; Purchasing Tactics, AMA _ S.F. _ 1995
+HP Server Certification Training - 1999
+Windows NT 4.0 Certification Training - 2001
+Windows 2000 Certification Training - 2002</courses></school></education>
+</resume>
+
+<skillrollup version='1'>
+  <canonskill education='1' eduidrefs='5' idrefs='5' name='apple'>
+    <variant>Apple</variant>
+  </canonskill>
+  <canonskill name='cabling'>
+    <variant>Cabling</variant>
+  </canonskill>
+  <canonskill name='cat5'>
+    <variant>CAT5</variant>
+  </canonskill>
+  <canonskill name='cc mail ccmail'>
+    <variant>Lotus CC Mail</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='5' idrefs='5' name='compaq'>
+    <variant>Compaq</variant>
+  </canonskill>
+  <canonskill end='730853' experience='1' expidrefs='2,3,4' idrefs='2,3,4' lastused='2002' name='computer associates packages' start='729757'>
+    <variant>CA</variant>
+    <variant>Ca</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='4' idrefs='4' name='computer hardware'>
+    <variant>Hardware</variant>
+    <variant>hardware</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='4' idrefs='4' name='customer relations'>
+    <variant>clients</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='4' idrefs='4' name='customer service training'>
+    <variant>customer service training</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='4' idrefs='4' name='customer support'>
+    <variant>customer support</variant>
+  </canonskill>
+  <canonskill name='dell computers'>
+    <variant>Dell</variant>
+  </canonskill>
+  <canonskill end='730853' experience='1' expidrefs='2,3' idrefs='2,3' lastused='2002' name='desktop pc' start='729757'>
+    <variant>desktops</variant>
+  </canonskill>
+  <canonskill end='730853' experience='1' expidrefs='2' idrefs='2' lastused='2002' name='dsl' start='730122'>
+    <variant>DSL</variant>
+  </canonskill>
+  <canonskill end='730853' experience='1' expidrefs='2' idrefs='2' lastused='2002' name='email' start='730122'>
+    <variant>Email</variant>
+    <variant>email</variant>
+  </canonskill>
+  <canonskill name='ethernet'>
+    <variant>Ethernet</variant>
+  </canonskill>
+  <canonskill name='great plains software'>
+    <variant>Great Plains</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='5' idrefs='5' name='hewlett packard'>
+    <variant>HP</variant>
+  </canonskill>
+  <canonskill name='hp servers'>
+    <variant>HP Servers</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='5' idrefs='5' name='ibm'>
+    <variant>IBM</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='4' idrefs='4' name='inventory management'>
+    <variant>inventory</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='5' experience='1' expidrefs='4' idrefs='4,5' name='lan'>
+    <variant>LAN</variant>
+  </canonskill>
+  <canonskill end='730853' experience='1' expidrefs='2,3' idrefs='2,3' lastused='2002' name='laptop computers' start='729757'>
+    <variant>laptops</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='4' idrefs='4' name='macintosh'>
+    <variant>MAC</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='4' idrefs='4' name='management'>
+    <variant>Managing</variant>
+  </canonskill>
+  <canonskill name='mcafee'>
+    <variant>McAfee</variant>
+  </canonskill>
+  <canonskill end='730853' experience='1' expidrefs='2' idrefs='2' lastused='2002' name='microsoft access' start='730122'>
+    <variant>access</variant>
+  </canonskill>
+  <canonskill name='microsoft exchange'>
+    <variant>MS Exchange</variant>
+  </canonskill>
+  <canonskill end='730853' experience='1' expidrefs='2' idrefs='2' lastused='2002' name='microsoft exchange server' start='730122'>
+    <variant>Exchange Server</variant>
+  </canonskill>
+  <canonskill name='microsoft office'>
+    <variant>MS Office</variant>
+  </canonskill>
+  <canonskill name='microsoft outlook'>
+    <variant>Outlook</variant>
+  </canonskill>
+  <canonskill name='microsoft project 98'>
+    <variant>Project 98</variant>
+  </canonskill>
+  <canonskill name='microsoft windows'>
+    <variant>Windows 7</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='5' idrefs='5' name='microsoft windows 2000'>
+    <variant>Windows 2000</variant>
+    <variant>2000</variant>
+  </canonskill>
+  <canonskill end='730853' experience='1' expidrefs='2' idrefs='2' lastused='2002' name='microsoft windows 98' start='730122'>
+    <variant>Windows 98</variant>
+  </canonskill>
+  <canonskill name='microsoft windows 9x'>
+    <variant>95/98</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='5' end='730853' experience='1' expidrefs='2' idrefs='2,5' lastused='2002' name='microsoft windows nt 4.0' start='730122'>
+    <variant>Windows NT 4.0</variant>
+    <variant>NT 4.0</variant>
+    <variant>NT 4</variant>
+  </canonskill>
+  <canonskill end='730853' experience='1' expidrefs='2' idrefs='2' lastused='2002' name='microsoft windows xp' start='730122'>
+    <variant>Windows XP</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='5' experience='1' expidrefs='4' idrefs='4,5' name='negotiation'>
+    <variant>Negotiations</variant>
+    <variant>negotiations</variant>
+  </canonskill>
+  <canonskill end='730853' experience='1' expidrefs='2' idrefs='2' lastused='2002' name='networking' start='730122'>
+    <variant>network</variant>
+  </canonskill>
+  <canonskill name='norton utilities'>
+    <variant>Norton</variant>
+  </canonskill>
+  <canonskill name='operating systems'>
+    <variant>Operating Systems</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='4' idrefs='4' name='peripherals'>
+    <variant>peripherals</variant>
+  </canonskill>
+  <canonskill end='730122' experience='1' expidrefs='3' idrefs='3' lastused='2000' name='printers' start='729757'>
+    <variant>Printer</variant>
+    <variant>printer</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='4' idrefs='4' name='procurement'>
+    <variant>procurement</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='5' idrefs='5' name='purchasing'>
+    <variant>Purchasing</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='5' idrefs='5' name='quality control'>
+    <variant>Quality Management</variant>
+    <variant>Qa</variant>
+  </canonskill>
+  <canonskill end='730122' experience='1' expidrefs='3,4' idrefs='3,4' lastused='2000' name='repair' start='729757'>
+    <variant>repairs</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='5' experience='1' expidrefs='4' idrefs='4,5' name='sales'>
+    <variant>Sales</variant>
+    <variant>sales</variant>
+  </canonskill>
+  <canonskill end='730122' experience='1' expidrefs='3' idrefs='3' lastused='2000' name='san' start='729757'>
+    <variant>San</variant>
+  </canonskill>
+  <canonskill end='730853' experience='1' expidrefs='2,3' idrefs='2,3' lastused='2002' name='servers' start='729757'>
+    <variant>servers</variant>
+  </canonskill>
+  <canonskill name='sql'>
+    <variant>MS SQL</variant>
+  </canonskill>
+  <canonskill name='symantec packages'>
+    <variant>Symantec</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='4' idrefs='4' name='technical support'>
+    <variant>technical support</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='5' idrefs='5' name='technician'>
+    <variant>Technician</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='4' idrefs='4' name='telephone skills'>
+    <variant>telephone</variant>
+  </canonskill>
+  <canonskill name='token ring'>
+    <variant>Token Ring</variant>
+  </canonskill>
+  <canonskill end='730853' experience='1' expidrefs='2' idrefs='2' lastused='2002' name='troubleshooting' start='730122'>
+    <variant>trouble shooting</variant>
+  </canonskill>
+  <canonskill end='730853' experience='1' expidrefs='2,3' idrefs='2,3' lastused='2002' name='upgrades' start='729757'>
+    <variant>upgrades</variant>
+  </canonskill>
+  <canonskill name='utilities'>
+    <variant>utilities</variant>
+  </canonskill>
+  <canonskill end='730853' experience='1' expidrefs='2' idrefs='2' lastused='2002' name='view' start='730122'>
+    <variant>View</variant>
+  </canonskill>
+  <canonskill end='730853' experience='1' expidrefs='2' idrefs='2' lastused='2002' name='vpn' start='730122'>
+    <variant>VPN</variant>
+  </canonskill>
+  <canonskill end='730853' experience='1' expidrefs='2' idrefs='2' lastused='2002' name='windows 2000 professional' start='730122'>
+    <variant>Windows 2000 Pro</variant>
+  </canonskill>
+  <canonskill name='wordperfect'>
+    <variant>Word Perfect</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

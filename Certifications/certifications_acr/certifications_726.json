@@ -1,0 +1,47 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CET", 
+            "Certification Name": "Certified Electronics Technician - Journeyman-Level - Medical", 
+            "Type": "Specialty", 
+            "Certification ID": "0509", 
+            "Certifying Organization": "International Society of Certified Electronics Technicians"
+        }, 
+        {
+            "Acronym": "BIET", 
+            "Certification Name": "Biomedical Imaging Equipment Technician", 
+            "Type": "Advanced", 
+            "Certification ID": "6825", 
+            "Certifying Organization": "ETA International"
+        }, 
+        {
+            "Acronym": "CBET", 
+            "Certification Name": "Certified Biomedical Equipment Technician", 
+            "Type": "Advanced", 
+            "Certification ID": "2406", 
+            "Certifying Organization": "International Certification Commission for Clinical Engineering and Biomedical Technology"
+        }, 
+        {
+            "Acronym": "CLES", 
+            "Certification Name": "Certified Laboratory Equipment Specialist", 
+            "Type": "Advanced", 
+            "Certification ID": "2407", 
+            "Certifying Organization": "International Certification Commission for Clinical Engineering and Biomedical Technology"
+        }, 
+        {
+            "Acronym": "CLRT", 
+            "Certification Name": "Certified Laser Repair Technician", 
+            "Type": "Specialty", 
+            "Certification ID": "5758", 
+            "Certifying Organization": "National Council on Laser Excellence"
+        }, 
+        {
+            "Acronym": "CRES", 
+            "Certification Name": "Certified Radiology Equipment Specialist", 
+            "Type": "Advanced", 
+            "Certification ID": "2408", 
+            "Certifying Organization": "International Certification Commission for Clinical Engineering and Biomedical Technology"
+        }
+    ], 
+    "onet": "49906200"
+}

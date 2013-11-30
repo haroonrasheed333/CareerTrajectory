@@ -1,0 +1,26 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Designer - Cognos 10 BI Multidimensional Reports", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9182", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Developer - Cognos 10 BI Metadata Models", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9185", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "FCAS", 
+            "Certification Name": "Fellow in the Casualty Actuarial Society", 
+            "Type": "Advanced", 
+            "Certification ID": "5368", 
+            "Certifying Organization": "Casualty Actuarial Society"
+        }
+    ], 
+    "onet": "43911100"
+}

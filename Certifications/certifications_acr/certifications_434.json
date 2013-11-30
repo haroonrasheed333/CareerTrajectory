@@ -1,0 +1,383 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "BCLD", 
+            "Certification Name": "Bioanalysts Clinical Laboratory Director", 
+            "Type": "Specialty", 
+            "Certification ID": "7633", 
+            "Certifying Organization": "American Board of Bioanalysis"
+        }, 
+        {
+            "Acronym": "HCLD", 
+            "Certification Name": "High-complexity Clinical Laboratory Director", 
+            "Type": "Advanced", 
+            "Certification ID": "2392", 
+            "Certifying Organization": "American Board of Bioanalysis"
+        }, 
+        {
+            "Acronym": "QLO", 
+            "Certification Name": "International Qualification in Laboratory Operations", 
+            "Type": "Core", 
+            "Certification ID": "6705", 
+            "Certifying Organization": "American Society for Clinical Pathology"
+        }, 
+        {
+            "Acronym": "ELD", 
+            "Certification Name": "Embryology Laboratory Director", 
+            "Type": "Specialty", 
+            "Certification ID": "3326", 
+            "Certifying Organization": "American Board of Bioanalysis"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Toxicological Chemistry", 
+            "Type": "Advanced", 
+            "Certification ID": "2062", 
+            "Certifying Organization": "American Board of Clinical Chemistry"
+        }, 
+        {
+            "Acronym": "MT", 
+            "Certification Name": "Medical Technologist", 
+            "Type": "Core", 
+            "Certification ID": "0456", 
+            "Certifying Organization": "American Medical Technologists"
+        }, 
+        {
+            "Acronym": "QCYM", 
+            "Certification Name": "Qualification in Cytometry", 
+            "Type": "Specialty", 
+            "Certification ID": "1817", 
+            "Certifying Organization": "American Society for Clinical Pathology"
+        }, 
+        {
+            "Acronym": "CPC", 
+            "Certification Name": "Certified Procurement Coordinators", 
+            "Type": "Specialty", 
+            "Certification ID": "5943", 
+            "Certifying Organization": "Organization for Transplant Professionals"
+        }, 
+        {
+            "Acronym": "ASCP)", 
+            "Certification Name": "Diplomate in Laboratory Management", 
+            "Type": "Core", 
+            "Certification ID": "1813", 
+            "Certifying Organization": "American Society for Clinical Pathology"
+        }, 
+        {
+            "Acronym": "ASCP)", 
+            "Certification Name": "Cytotechnologist", 
+            "Type": "Core", 
+            "Certification ID": "1823", 
+            "Certifying Organization": "American Society for Clinical Pathology"
+        }, 
+        {
+            "Acronym": "ASCP)", 
+            "Certification Name": "Histotechnologist", 
+            "Type": "Core", 
+            "Certification ID": "1825", 
+            "Certifying Organization": "American Society for Clinical Pathology"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Medical Lab Assistant", 
+            "Type": "Core", 
+            "Certification ID": "6693", 
+            "Certifying Organization": "American Medical Technologists"
+        }, 
+        {
+            "Acronym": "DACLAM", 
+            "Certification Name": "Diplomate, American College of Laboratory Animal Medicine", 
+            "Type": "Specialty", 
+            "Certification ID": "1485", 
+            "Certifying Organization": "American College of Laboratory Animal Medicine"
+        }, 
+        {
+            "Acronym": "ASCP)", 
+            "Certification Name": "Specialist in Laboratory Safety", 
+            "Type": "Specialty", 
+            "Certification ID": "1836", 
+            "Certifying Organization": "American Society for Clinical Pathology"
+        }, 
+        {
+            "Acronym": "CLSO/M", 
+            "Certification Name": "Certified Laser Safety Officer (Medical)", 
+            "Type": "Specialty", 
+            "Certification ID": "5759", 
+            "Certifying Organization": "National Council on Laser Excellence"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Medical Laboratory Assistant", 
+            "Type": "Core", 
+            "Certification ID": "8533", 
+            "Certifying Organization": "American Phlebotomy Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Diplomate", 
+            "Type": "Advanced", 
+            "Certification ID": "1786", 
+            "Certifying Organization": "American Board of Medical Laboratory Immunology"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Clinical Chemistry", 
+            "Type": "Advanced", 
+            "Certification ID": "2061", 
+            "Certifying Organization": "American Board of Clinical Chemistry"
+        }, 
+        {
+            "Acronym": "ASCP)", 
+            "Certification Name": "Technologist  in Microbiology", 
+            "Type": "Core", 
+            "Certification ID": "1827", 
+            "Certifying Organization": "American Society for Clinical Pathology"
+        }, 
+        {
+            "Acronym": "ASCP)", 
+            "Certification Name": "Specialist in Hematology", 
+            "Type": "Specialty", 
+            "Certification ID": "1831", 
+            "Certifying Organization": "American Society for Clinical Pathology"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Clinical Research Assistant", 
+            "Type": "Core", 
+            "Certification ID": "8529", 
+            "Certifying Organization": "American Phlebotomy Association"
+        }, 
+        {
+            "Acronym": "CCTC", 
+            "Certification Name": "Certified Clinical Transplant Coordinators", 
+            "Type": "Specialty", 
+            "Certification ID": "5944", 
+            "Certifying Organization": "Organization for Transplant Professionals"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Clinical Chemical Technologist", 
+            "Type": "Core", 
+            "Certification ID": "3717", 
+            "Certifying Organization": "National Registry of Certified Chemists"
+        }, 
+        {
+            "Acronym": "MLS", 
+            "Certification Name": "Medical Laboratory Scientist", 
+            "Type": "Core", 
+            "Certification ID": "6314", 
+            "Certifying Organization": "American Society for Clinical Pathology"
+        }, 
+        {
+            "Acronym": "CLC", 
+            "Certification Name": "Certified Lab Consultant", 
+            "Type": "Core", 
+            "Certification ID": "1091", 
+            "Certifying Organization": "American Medical Technologists"
+        }, 
+        {
+            "Acronym": "GS", 
+            "Certification Name": "General Supervisor", 
+            "Type": "Core", 
+            "Certification ID": "2398", 
+            "Certifying Organization": "American Board of Bioanalysis"
+        }, 
+        {
+            "Acronym": "IAC)", 
+            "Certification Name": "Certified Cytotechnologist", 
+            "Type": "Core", 
+            "Certification ID": "1837", 
+            "Certifying Organization": "International Academy of Cytology"
+        }, 
+        {
+            "Acronym": "QLI", 
+            "Certification Name": "Qualification in Laboratory Informatics", 
+            "Type": "Specialty", 
+            "Certification ID": "1819", 
+            "Certifying Organization": "American Society for Clinical Pathology"
+        }, 
+        {
+            "Acronym": "ASCP)", 
+            "Certification Name": "Technologist in Blood Banking", 
+            "Type": "Specialty", 
+            "Certification ID": "1821", 
+            "Certifying Organization": "American Society for Clinical Pathology"
+        }, 
+        {
+            "Acronym": "ASCP)", 
+            "Certification Name": "Specialist in Blood Banking", 
+            "Type": "Specialty", 
+            "Certification ID": "1829", 
+            "Certifying Organization": "American Society for Clinical Pathology"
+        }, 
+        {
+            "Acronym": "ASCP)", 
+            "Certification Name": "Specialist in Chemistry", 
+            "Type": "Specialty", 
+            "Certification ID": "1830", 
+            "Certifying Organization": "American Society for Clinical Pathology"
+        }, 
+        {
+            "Acronym": "ASCP)", 
+            "Certification Name": "Specialist in Microbiology", 
+            "Type": "Specialty", 
+            "Certification ID": "1833", 
+            "Certifying Organization": "American Society for Clinical Pathology"
+        }, 
+        {
+            "Acronym": "CLO/A", 
+            "Certification Name": "Certified Laser Operator / Aesthetic", 
+            "Type": "Specialty", 
+            "Certification ID": "5762", 
+            "Certifying Organization": "National Council on Laser Excellence"
+        }, 
+        {
+            "Acronym": "R-CPCT", 
+            "Certification Name": "Regional Certified Professional Collector Trainers", 
+            "Type": "Advanced", 
+            "Certification ID": "9205", 
+            "Certifying Organization": "Drug & Alcohol Testing Industry Association"
+        }, 
+        {
+            "Acronym": "MT", 
+            "Certification Name": "International Medical Technologist", 
+            "Type": "Core", 
+            "Certification ID": "6703", 
+            "Certifying Organization": "American Society for Clinical Pathology"
+        }, 
+        {
+            "Acronym": "MT", 
+            "Certification Name": "Medical Technologists", 
+            "Type": "Core", 
+            "Certification ID": "7868", 
+            "Certifying Organization": "American Association of Bioanalysts"
+        }, 
+        {
+            "Acronym": "CC", 
+            "Certification Name": "Clinical Consultant", 
+            "Type": "Core", 
+            "Certification ID": "2395", 
+            "Certifying Organization": "American Board of Bioanalysis"
+        }, 
+        {
+            "Acronym": "TS", 
+            "Certification Name": "Technical Supervisor", 
+            "Type": "Core", 
+            "Certification ID": "2397", 
+            "Certifying Organization": "American Board of Bioanalysis"
+        }, 
+        {
+            "Acronym": "SCT", 
+            "Certification Name": "Specialist in Cytotechnology", 
+            "Type": "Specialty", 
+            "Certification ID": "1834", 
+            "Certifying Organization": "American Society for Clinical Pathology"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Biomedical Nephrology Technology", 
+            "Type": "Specialty", 
+            "Certification ID": "5581", 
+            "Certifying Organization": "National Nephrology Certification Organization"
+        }, 
+        {
+            "Acronym": "CMLSO", 
+            "Certification Name": "Certified Medical Laser Safety Officer", 
+            "Type": "Specialty", 
+            "Certification ID": "5757", 
+            "Certifying Organization": "Board of Laser Safety"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Diplomate", 
+            "Type": "Advanced", 
+            "Certification ID": "8935", 
+            "Certifying Organization": "American Board of Medical Microbiology"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Clinical Chemist", 
+            "Type": "Core", 
+            "Certification ID": "3716", 
+            "Certifying Organization": "National Registry of Certified Chemists"
+        }, 
+        {
+            "Acronym": "ACS", 
+            "Certification Name": "Approved Clinical Supervisor", 
+            "Type": "Core", 
+            "Certification ID": "3816", 
+            "Certifying Organization": "Center for Credentialing & Education, Inc."
+        }, 
+        {
+            "Acronym": "POLT", 
+            "Certification Name": "Physician Office Laboratory Technician", 
+            "Type": "Core", 
+            "Certification ID": "7871", 
+            "Certifying Organization": "American Association of Bioanalysts"
+        }, 
+        {
+            "Acronym": "NCT", 
+            "Certification Name": "Nuclear Cardiology Technologist", 
+            "Type": "Specialty", 
+            "Certification ID": "5578", 
+            "Certifying Organization": "Nuclear Medicine Technology Certification Board"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Clinical Nephrology Technologist", 
+            "Type": "Specialty", 
+            "Certification ID": "5582", 
+            "Certifying Organization": "National Nephrology Certification Organization"
+        }, 
+        {
+            "Acronym": "CLSO", 
+            "Certification Name": "Certified Laser Safety Officer", 
+            "Type": "Specialty", 
+            "Certification ID": "5756", 
+            "Certifying Organization": "Board of Laser Safety"
+        }, 
+        {
+            "Acronym": "CPI", 
+            "Certification Name": "Certified Physician Investigator", 
+            "Type": "Specialty", 
+            "Certification ID": "5981", 
+            "Certifying Organization": "Association of Clinical Research Professionals"
+        }, 
+        {
+            "Acronym": "NRCM", 
+            "Certification Name": "Registered Microbiologist", 
+            "Type": "Advanced", 
+            "Certification ID": "8936", 
+            "Certifying Organization": "National Registry of Certified Microbiologists"
+        }, 
+        {
+            "Acronym": "MB", 
+            "Certification Name": "International Technologist in Molecular Biology", 
+            "Type": "Core", 
+            "Certification ID": "6704", 
+            "Certifying Organization": "American Society for Clinical Pathology"
+        }, 
+        {
+            "Acronym": "MLT", 
+            "Certification Name": "Medical Laboratory Technician", 
+            "Type": "Core", 
+            "Certification ID": "7869", 
+            "Certifying Organization": "American Association of Bioanalysts"
+        }, 
+        {
+            "Acronym": "ASCP)", 
+            "Certification Name": "Technologist in Chemistry", 
+            "Type": "Core", 
+            "Certification ID": "1822", 
+            "Certifying Organization": "American Society for Clinical Pathology"
+        }, 
+        {
+            "Acronym": "ASCP)", 
+            "Certification Name": "Technologist in Hematology", 
+            "Type": "Core", 
+            "Certification ID": "1824", 
+            "Certifying Organization": "American Society for Clinical Pathology"
+        }
+    ], 
+    "onet": "29201100"
+}

@@ -1,0 +1,201 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CEM", 
+            "Certification Name": "Certified Examinations Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "8796", 
+            "Certifying Organization": "Conference of State Bank Supervisors"
+        }, 
+        {
+            "Acronym": "CMI", 
+            "Certification Name": "Certified Mortgage Investigator", 
+            "Type": "Core", 
+            "Certification ID": "8801", 
+            "Certifying Organization": "Conference of State Bank Supervisors"
+        }, 
+        {
+            "Acronym": "CTFA", 
+            "Certification Name": "Certified Trust and Financial Advisor", 
+            "Type": "Advanced", 
+            "Certification ID": "1547", 
+            "Certifying Organization": "Institute of Certified Bankers"
+        }, 
+        {
+            "Acronym": "CCCS", 
+            "Certification Name": "Certified Consumer Compliance Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "8805", 
+            "Certifying Organization": "Conference of State Bank Supervisors"
+        }, 
+        {
+            "Acronym": "COE", 
+            "Certification Name": "Certified Operations Examiner", 
+            "Type": "Core", 
+            "Certification ID": "8793", 
+            "Certifying Organization": "Conference of State Bank Supervisors"
+        }, 
+        {
+            "Acronym": "CCIM", 
+            "Certification Name": "Certified Commercial Investment Member", 
+            "Type": "Advanced", 
+            "Certification ID": "8591", 
+            "Certifying Organization": "National Association of Realtors"
+        }, 
+        {
+            "Acronym": "CFS", 
+            "Certification Name": "Certified Fund Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "9021", 
+            "Certifying Organization": "Institute of Business & Finance"
+        }, 
+        {
+            "Acronym": "CSME", 
+            "Certification Name": "Certified Senior Mortgage Examiner", 
+            "Type": "Advanced", 
+            "Certification ID": "8798", 
+            "Certifying Organization": "Conference of State Bank Supervisors"
+        }, 
+        {
+            "Acronym": "CMME", 
+            "Certification Name": "Certified Multistate Mortgage Examiner-in-Charge", 
+            "Type": "Advanced", 
+            "Certification ID": "8800", 
+            "Certifying Organization": "Conference of State Bank Supervisors"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Oracle FLEXCUBE Universal Banking 11 Technical Certified Implementation Specialist", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8469", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "CCUE", 
+            "Certification Name": "Certified Credit Union Executive", 
+            "Type": "Advanced", 
+            "Certification ID": "1362", 
+            "Certifying Organization": "Credit Union National Association"
+        }, 
+        {
+            "Acronym": "CME", 
+            "Certification Name": "Certified Mortgage Examiner", 
+            "Type": "Core", 
+            "Certification ID": "8797", 
+            "Certifying Organization": "Conference of State Bank Supervisors"
+        }, 
+        {
+            "Acronym": "CMEM", 
+            "Certification Name": "Certified Mortgage Examinations Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "8799", 
+            "Certifying Organization": "Conference of State Bank Supervisors"
+        }, 
+        {
+            "Acronym": "CUCE", 
+            "Certification Name": "Credit Union Compliance Expert", 
+            "Type": "Advanced", 
+            "Certification ID": "9233", 
+            "Certifying Organization": "Credit Union National Association"
+        }, 
+        {
+            "Acronym": "ACISE", 
+            "Certification Name": "Associate Certified Information Systems Examiner", 
+            "Type": "Core", 
+            "Certification ID": "8803", 
+            "Certifying Organization": "Conference of State Bank Supervisors"
+        }, 
+        {
+            "Acronym": "CTE", 
+            "Certification Name": "Certified Trust Examiner", 
+            "Type": "Advanced", 
+            "Certification ID": "8802", 
+            "Certifying Organization": "Conference of State Bank Supervisors"
+        }, 
+        {
+            "Acronym": "CCAM", 
+            "Certification Name": "Certified Clinic Account Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "3310", 
+            "Certifying Organization": "American Association of Healthcare Administrative Management"
+        }, 
+        {
+            "Acronym": "PCE", 
+            "Certification Name": "Professional Credit Executive", 
+            "Type": "Advanced", 
+            "Certification ID": "8974", 
+            "Certifying Organization": "Credit Professionals International"
+        }, 
+        {
+            "Acronym": "CGFM", 
+            "Certification Name": "Certified Government Financial Manager", 
+            "Type": "Core", 
+            "Certification ID": "0919", 
+            "Certifying Organization": "Association of Government Accountants"
+        }, 
+        {
+            "Acronym": "MPCE", 
+            "Certification Name": "Master Professional Credit Executive", 
+            "Type": "Advanced", 
+            "Certification ID": "8975", 
+            "Certifying Organization": "Credit Professionals International"
+        }, 
+        {
+            "Acronym": "ERP", 
+            "Certification Name": "Energy Risk Professional", 
+            "Type": "Core", 
+            "Certification ID": "5868", 
+            "Certifying Organization": "Global Association of Risk Professionals"
+        }, 
+        {
+            "Acronym": "CMB", 
+            "Certification Name": "Certified Mortgage Banker", 
+            "Type": "Advanced", 
+            "Certification ID": "1373", 
+            "Certifying Organization": "Mortgage Bankers Association of America"
+        }, 
+        {
+            "Acronym": "CMBE", 
+            "Certification Name": "Certified Money Service Business Examiner", 
+            "Type": "Core", 
+            "Certification ID": "8807", 
+            "Certifying Organization": "Conference of State Bank Supervisors"
+        }, 
+        {
+            "Acronym": "CHAE", 
+            "Certification Name": "Certified Hospitality Accountant Executive", 
+            "Type": "Advanced", 
+            "Certification ID": "1342", 
+            "Certifying Organization": "Hospitality Financial & Technology Professionals"
+        }, 
+        {
+            "Acronym": "CSMBE", 
+            "Certification Name": "Certified Senior Money Service Business Examiner", 
+            "Type": "Advanced", 
+            "Certification ID": "8808", 
+            "Certifying Organization": "Conference of State Bank Supervisors"
+        }, 
+        {
+            "Acronym": "CEIC", 
+            "Certification Name": "Certified Examiner-In-Charge", 
+            "Type": "Core", 
+            "Certification ID": "8795", 
+            "Certifying Organization": "Conference of State Bank Supervisors"
+        }, 
+        {
+            "Acronym": "CISE", 
+            "Certification Name": "Certified Information Systems Examiner", 
+            "Type": "Advanced", 
+            "Certification ID": "8804", 
+            "Certifying Organization": "Conference of State Bank Supervisors"
+        }, 
+        {
+            "Acronym": "QPA", 
+            "Certification Name": "Qualified Pension Administrator", 
+            "Type": "Advanced", 
+            "Certification ID": "1356", 
+            "Certifying Organization": "American Society of Pension Professionals  and Actuaries"
+        }
+    ], 
+    "onet": "11303102"
+}

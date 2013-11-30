@@ -1,0 +1,342 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734582' xml:space='preserve'><contact><name><givenname>Thomas</givenname> <surname>Kagelmann</surname></name> 
+
+<address lat='34.0939' lon='118.38' majorcity='WEST HOLLYWOOD' state='CA'><street>858 Westbourne Drive, #4</street>
+<city>West Hollywood</city>, <state abbrev='CA'>CA</state> <postalcode>90069</postalcode></address>
+Cell:   001 - (310) - <phone type='cell'>933-7496</phone> 
+Home:   001 - (424) - <phone type='home'>204-9417</phone> 
+<email>tchurgin@mac.com</email></contact>  
+
+
+<summary>FINANCIAL MANAGEMENT PROFESSIONAL
+
+Objective:  <objective>Seeking in California and/or the globe, a full-time telecommuting opportunity in Finance or Information Technology (IT) that allows me to apply and demonstrate my strong Project Management, Finance &amp; Budget Analysis, and User Support skills to help succeed and accelerate the business goals of an existing team, or to build up a new team with service of excellence.</objective></summary> 
+
+<education>Education
+Education:
+<school id='16'><daterange><start days='732526' iso8601='2006-08-01'>8/06</start> - <end days='732648' iso8601='2006-12-01'>12/06</end></daterange>:		<institution>Erie County Community College</institution>, <address><city>Buffalo</city> <state abbrev='NY'>NY</state></address> (<major code='0704 2016'>Statistic &amp; Psychology</major></school>)
+<school id='17'><daterange><start days='732100' iso8601='2005-06-01'>6/05</start> - <end days='732434' iso8601='2006-05-01'>5/06</end></daterange>:		<institution>Long Beach Community College</institution> (<major code='2501 0703'>English &amp; Math</major></school>)
+<school id='18'><daterange><start days='724644' iso8601='1985-01-01'>1985</start> - <end days='725009' iso8601='1986-01-01'>1986</end></daterange>:		<major code='0402'>Computer Science</major> with focus on <major>development and infrastructure</major>.	
+<daterange><start days='720991' iso8601='1975-01-01'>1975</start> - <end days='722087' iso8601='1978-01-01'>1978</end></daterange>:		<degree>Apprenticeship with degree</degree> in <major code='4201'>Business Administration</major> at 	<institution>Kreisberufsschule Itzehoe College</institution>; equivalent to US <degree level='16' name='Bachelor of Science'>Bachelor of Science</degree>, 	<major code='4399'>General Business</major></school>.
+<completiondate days='720626' iso8601='1974-01-01'>1974</completiondate>:               <degree level='12'>High School Diploma</degree> <address><city>Itzehoe</city>, <country iso3='DEU'>Germany</country>.</address></education>
+
+<skills>Languages:		<languages>Fluent in English and German (native language).</languages></skills> 
+<statements>Volunteer:		<activities>Wells House Hospice
+7/10/2008:		American Citizenship, New Orleans, LA.</activities></statements>
+
+<experience end='present' start='722087'>Work Experience
+Employment History:			                  
+
+<job end='present' id='1' pos='1' start='732314'><employer>U.S.A.
+
+GPS World Solutions</employer>, <address><city>Beverly Hills</city>, <state abbrev='CA'>CA</state></address> (<daterange><start days='732314' iso8601='2006-01-01'>January 2006</start> to <end days='present' iso8601='2012-03-18'>present</end></daterange>)
+<title>Administrator</title>; this is a Start-up company:
+<description>Managed and created the entire Sales Information System in Excel for telecom sales team and medical billing recovery team, including budget to actual comparison in numbers and graphics.
+Managed and created budget process and compliance guidelines.
+Managed and created purchasing process with implementation in finance system Quick Books Professional.
+Created and generated for President and CEO of GPS World Solutions financial statements, feasibility assessments of telecom and medical contracts, budget and sales forecasting, and generating and monitoring budget compliance for all cost centers.
+Managed IT department with a staff of three, implemented with team a functional and stable IT infrastructure including third party services of Software as a Service (SaaS).
+Managing and support close down of business.</description></job>
+
+
+
+
+
+
+<job end='731949' id='2' inferred-to='4' naics='51223001' naics2='51' pos='3' sic='365298' sic2='36' start='729757'><employer>Warner Music Group</employer>, <address><city>Burbank</city>, <state abbrev='CA'>California</state></address> (<daterange><start days='729757' iso8601='1999-01-01'>1999</start> to <end days='731949' iso8601='2005-01-01'>2005</end></daterange></job>)
+<job end='732192' id='3' pos='2' start='731369'><title>Testing Manager</title> <daterange><start days='731369' iso8601='2003-06-01'>6/03</start> - <end days='732192' iso8601='2005-09-01'>9/05</end></daterange>: 
+<description>Managed Application Support Level I, II and III with a team of five to fifteen business analysts to assure best quality on E-Marketing project, including data warehouse, content management, websites and applications, data migration and conversion. Including support to implementation team during code moves through all environments and by validating the data base architecture and configuration changes (back-end) of all application components. 
+Managed implementation and trained all team members on E-Marketing application, Rational Unified Process (RUP), automated test tools, defect tracking system PVCS Tracker, business requirements management tool DOORS, and test case management tool 'Test-Director'.
+Implemented and managed the Change-Management-Process for E-Marketing, including compliance and verification of code versions, data base configurations and hardware changes through all environments during the project cycle, including roll back procedures upon a failed implementation and assurance of absolute compliance with the escalation process, informing senior management.
+Created and generated cost-benefit-trade-off analysis, gap analysis, ensuring budget compliance ($18M), and tracking and reporting project progress to senior management.
+Evaluated personnel and created job descriptions for all full-time employees and consultants.</description></job>
+<job end='731369' id='4' inferred-from='3' pos='4' sic='365298' sic2='36' start='730182'><title>Team Lead Testing</title> <daterange><start days='730182' iso8601='2000-03-01'>3/00</start> - <end days='731369' iso8601='2003-06-01'>6/03</end></daterange>: 
+<description>Responsible for the quality of data warehouse and web applications, as well as support to data base administrators verifying and validating data base architecture and configuration changes, for the areas of marketing and sales, generating and providing cost-benefit-trade-off analysis, gap analysis, ensuring budget compliance, and tracking and reporting project progress to application support manager.
+Managed Application Support Level I and II on E-Marketing issues with a staff of 4 to 10, incl. user training.
+Managed Change-Management-Process with focus of code version compliance, data base architecture and configuration changes and hardware changes through all environments, including roll back procedures upon a failed implementation and assurance of absolute compliance with the escalation process, informing senior management.</description></job>
+<job end='730182' id='5' pos='5' sic='6141' sic2='61' start='729816'><title>Business Analyst</title> <employer>Oracle Finance</employer> <daterange><start days='729816' iso8601='1999-03-01'>03/99</start> - <end days='730182' iso8601='2000-03-01'>03/00</end></daterange>:
+<description>Responsible as business analyst and application support staff Oracle Finance for General Ledger and Fixed Asset modules, with the responsibility of testing the customized areas, customer support first and second level, as well as testing Oracle System Patches and Upgrades. 
+Presenting code changes to GL and FA modules to Change Management Committee.</description></job>
+
+
+
+
+
+
+<job end='729788' id='6' pos='6' sic='641112' sic2='64' start='729392'><employer>Blue Shield of California</employer>, <address><city>San Francisco</city>, <state abbrev='CA'>California</state></address>
+<title>Provider Relations Manager</title> (<title>contractor</title>) <daterange><start days='729392' iso8601='1998-01-01'>1/98</start> - <end days='729788' iso8601='1999-02-01'>2/99</end></daterange>:
+<description>Data base and systems administrator for dental division. Tasks included development, implementation of relationship models to generate enhanced reports and queries requested by senior management. 
+Performing data merge with third party dental provider to strategize marketing campaigns and identify weak spots. 
+Perform provider relation's activities: contract negotiations, compliance review and credentialing.</description></job>
+
+
+<job end='729027' id='7' inferred-to='11,12' pos='10' start='725009'><employer>Germany
+
+Warner Music Group</employer>, <address><city>Hamburg</city>, <country iso3='DEU'>Germany</country></address> (<daterange><start days='725009' iso8601='1986-01-01'>1986</start> to <end days='729027' iso8601='1997-01-01'>1997</end></daterange></job>)
+<job end='729361' id='8' pos='7' start='728752'><title>IT Coordinator/Controller</title> <daterange><start days='728752' iso8601='1996-04-01'>4/96</start> - <end days='729361' iso8601='1997-12-01'>12/97</end></daterange>:
+<description>Managed project 'budget data base', an intranet application for the central European territories, reporting directly to the CFO. Managing and conducting user training, as well as first and second level user support, generating and monitoring budget compliance for corporate cost centers.  Responsible as liaison between German office and international Head Quarters in London for all budget related affairs.</description></job>
+<job end='729361' id='9' pos='8' start='728296'><title>Application Support Manager</title> <daterange><start days='728296' iso8601='1995-01-01'>1/95</start> - <end days='729361' iso8601='1997-12-01'>12/97</end></daterange>: 
+<description>Managed and supervised a full-time staff of 14 ensuring Network availability (LAN and WAN), Oracle DBA, Development (Marketing and Royalties), Desktop and Help Desk, and Customer support. 
+Responsible for IT guideline and budgetary compliance with reporting function to the head quarters WMG International in London. Prime contact on internal IT audits.</description></job>
+<job end='728265' id='10' inferred-from='10' pos='11' start='727990'><title>Network Administrator</title> <daterange><start days='727990' iso8601='1994-03-01'>3/94</start> - <end days='728265' iso8601='1994-12-01'>12/94</end></daterange>:
+<description>Managed and supervised network group with responsibility of daily network administration, configuration and hardware maintenance for support of 260+ user stations and 11 servers on a Banyan Vines network. Performed maintenance and user administration including monitoring system services, both backup and restorations. Managed hardware installations, performed maintenance on servers, conducted as a liaison between DELL and Time Warner International maintenance and service contracting matters.</description></job>
+<job end='729086' id='11' pos='9' start='725739'><title>Application Support Specialist</title> (<title>Level I, II, and III</title>) <daterange><start days='725739' iso8601='1988-01-01'>1/88</start> - <end days='729086' iso8601='1997-03-01'>3/97</end></daterange>:
+<description>Managed and resolved application issues Level III, the most difficult or advanced problems, such as data and business analysis, back-end (data base) problems as well as assisting both Level I and Level II personnel, including research and development of solutions to new or unknown issues.
+Managed and trained application support team, a staff of six, on Level I and II issues including issues with the finance interface, to support the MAIS user community of 100+ in four separate physical locations.
+Project 'Marketing Information System' (MAIS): Planned, strategized, developed, and programmed MAIS, using RDBMS PACE (Wang). Integrated GL interface for budget and actual expenditure feeds, as well as managing as project lead the implementation of the application on to the production environment including post implementation data audit and functional verification of the application.
+Generated as the responsible 'budget analyst' for the IT Manager the Budget for the areas of Finance and Warehouse.</description></job>
+<job end='725708' id='12' inferred-from='10' pos='12' start='725282'><title>Application Support Specialist</title> (Level I) <daterange><start days='725282' iso8601='1986-10-01'>10/86</start> - <end days='725708' iso8601='1987-12-01'>12/87</end></daterange>: 
+<description>Incident Logging and status reporting as well as User Administration - user setup, account maintenance and permissions. Processing 'Level I' support issues by gathering the customer's information and determine the customer's issue by analyzing the symptoms and figuring out the underlying problem occurring in GL, AP, AR, FA, Distribution and sub-systems. Forwarding higher ranked issues to support specialists' level II. Run daily production schedules for finance system and validate reports produced by the GL, Distribution and sub-systems before distributing to department heads.</description></job> 
+<job end='724644' id='13' pos='13' start='723913'><employer>Paech Brot</employer>, <address><city>Itzehoe</city>, <country iso3='DEU'>Germany</country></address> (<daterange><start days='723913' iso8601='1983-01-01'>1983</start> to <end days='724644' iso8601='1985-01-01'>1985</end></daterange>) 
+<title>Merchandiser</title>:
+<description>Managed and coordinated operations of 23 stores. Responsible for all merchandising, inventory control and ordering. Prepared daily and monthly sales report. Monitored key department store promotion activities.</description></job>
+Military Service, <job end='723913' id='14' pos='14' start='722452'><address><city>Hamburg</city>, <country iso3='DEU'>Germany</country></address> (<daterange><start days='722452' iso8601='1979-01-01'>1979</start> to <end days='723913' iso8601='1983-01-01'>1983</end></daterange>)
+<employer>Army Corporal Material Management Services</employer></job> (honorable discharge).
+
+<job id='15' sic='6531' sic2='65' start='722087'><employer>Groening Realtor GmbH</employer>, <address><city>Itzehoe</city>, <country iso3='DEU'>Germany</country></address> (<daterange><start days='722087' iso8601='1978-01-01'>1978</start></daterange>)
+<title>Administrative Assistant</title></job>.</experience>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='729086' experience='1' expidrefs='11' idrefs='11' lastused='1997' name='analysis' start='725739'>
+    <variant>analyst</variant>
+  </canonskill>
+  <canonskill experience='1' name='ap style'>
+    <variant>AP</variant>
+  </canonskill>
+  <canonskill experience='1' name='ar'>
+    <variant>AR</variant>
+  </canonskill>
+  <canonskill experience='1' name='backup'>
+    <variant>backup</variant>
+  </canonskill>
+  <canonskill experience='1' name='banyan vines'>
+    <variant>Banyan Vines</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,3,8,11' idrefs='1,3,8,11' lastused='2012' name='budgeting' start='725739'>
+    <variant>Budget</variant>
+    <variant>budget</variant>
+  </canonskill>
+  <canonskill end='730182' experience='1' expidrefs='5,11' idrefs='5,11' lastused='2000' name='business analysis' start='725739'>
+    <variant>business analyst</variant>
+    <variant>business analysis</variant>
+  </canonskill>
+  <canonskill end='732192' experience='1' expidrefs='3,5' idrefs='3,5' lastused='2005' name='change management' start='729816'>
+    <variant>Change Management</variant>
+    <variant>Change-Management</variant>
+  </canonskill>
+  <canonskill end='732192' experience='1' expidrefs='3' idrefs='3' lastused='2005' name='computer hardware' start='731369'>
+    <variant>hardware</variant>
+  </canonskill>
+  <canonskill end='732192' experience='1' expidrefs='3' idrefs='3' lastused='2005' name='content management' start='731369'>
+    <variant>content management</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,6' idrefs='1,6' lastused='2012' name='contract management' start='729392'>
+    <variant>contract negotiations</variant>
+    <variant>contracts</variant>
+  </canonskill>
+  <canonskill end='732192' experience='1' expidrefs='3' idrefs='3' lastused='2005' name='conversion' start='731369'>
+    <variant>conversion</variant>
+  </canonskill>
+  <canonskill end='730182' experience='1' expidrefs='5,9' idrefs='5,9' lastused='2000' name='customer support' start='728296'>
+    <variant>Customer support</variant>
+    <variant>customer support</variant>
+  </canonskill>
+  <canonskill end='732192' experience='1' expidrefs='3' idrefs='3' lastused='2005' name='data migration' start='731369'>
+    <variant>data migration</variant>
+  </canonskill>
+  <canonskill end='732192' experience='1' expidrefs='3' idrefs='3' lastused='2005' name='data warehousing' start='731369'>
+    <variant>data warehouse</variant>
+  </canonskill>
+  <canonskill end='732192' experience='1' expidrefs='3,6,8,11' idrefs='3,6,8,11' lastused='2005' name='database administration' start='725739'>
+    <variant>Data base</variant>
+    <variant>data base</variant>
+  </canonskill>
+  <canonskill experience='1' name='dell computers'>
+    <variant>DELL</variant>
+  </canonskill>
+  <canonskill end='732192' experience='1' expidrefs='3' idrefs='3' lastused='2005' name='doors' start='731369'>
+    <variant>DOORS</variant>
+  </canonskill>
+  <canonskill name='english'>
+    <variant>Fluent in English</variant>
+  </canonskill>
+  <canonskill end='732192' experience='1' expidrefs='3,6' idrefs='3,6' lastused='2005' name='executive management' start='729392'>
+    <variant>senior management</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,5,11' idrefs='1,5,11' lastused='2012' name='finance' start='725739'>
+    <variant>Finance</variant>
+    <variant>finance</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='financial statements' start='732314'>
+    <variant>financial statements</variant>
+  </canonskill>
+  <canonskill experience='1' name='focus'>
+    <variant>focus</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,11' idrefs='1,11' lastused='2012' name='functional' start='725739'>
+    <variant>functional</variant>
+  </canonskill>
+  <canonskill end='730182' experience='1' expidrefs='5' idrefs='5' lastused='2000' name='general ledger' start='729816'>
+    <variant>General Ledger</variant>
+  </canonskill>
+  <canonskill end='729361' experience='1' expidrefs='8' idrefs='8' lastused='1997' name='german' start='728752'>
+    <variant>German</variant>
+  </canonskill>
+  <canonskill end='730182' experience='1' expidrefs='5,11' idrefs='5,11' lastused='2000' name='gl' start='725739'>
+    <variant>GL</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='gps' start='732314'>
+    <variant>GPS</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='graphical user interface' start='732314'>
+    <variant>graphics</variant>
+  </canonskill>
+  <canonskill end='729361' experience='1' expidrefs='9' idrefs='9' lastused='1997' name='help desk support' start='728296'>
+    <variant>Help Desk</variant>
+  </canonskill>
+  <canonskill end='724644' experience='1' expidrefs='13' idrefs='13' lastused='1985' name='inventory management' start='723913'>
+    <variant>inventory control</variant>
+  </canonskill>
+  <canonskill end='729361' experience='1' expidrefs='9' idrefs='9' lastused='1997' name='lan' start='728296'>
+    <variant>LAN</variant>
+  </canonskill>
+  <canonskill name='languages'>
+    <variant>Languages</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,8,11' idrefs='1,8,11' lastused='2012' name='management' start='725739'>
+    <variant>Managing</variant>
+    <variant>managing</variant>
+  </canonskill>
+  <canonskill end='732192' experience='1' expidrefs='3,6,9,11' idrefs='3,6,9,11' lastused='2005' name='marketing' start='725739'>
+    <variant>marketing</variant>
+    <variant>Marketing</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='medical billing' start='732314'>
+    <variant>medical billing</variant>
+  </canonskill>
+  <canonskill end='724644' experience='1' expidrefs='13' idrefs='13' lastused='1985' name='merchandising' start='723913'>
+    <variant>merchandising</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='microsoft excel' start='732314'>
+    <variant>Excel</variant>
+  </canonskill>
+  <canonskill end='729361' experience='1' expidrefs='8' idrefs='8' lastused='1997' name='microsoft office' start='728752'>
+    <variant>office</variant>
+  </canonskill>
+  <canonskill experience='1' name='network administration'>
+    <variant>network administration</variant>
+  </canonskill>
+  <canonskill end='729361' experience='1' expidrefs='9' idrefs='9' lastused='1997' name='networking' start='728296'>
+    <variant>Network</variant>
+    <variant>network</variant>
+  </canonskill>
+  <canonskill end='730182' experience='1' expidrefs='5' idrefs='5' lastused='2000' name='oracle' start='729816'>
+    <variant>Oracle</variant>
+  </canonskill>
+  <canonskill end='729361' experience='1' expidrefs='9' idrefs='9' lastused='1997' name='oracle dba' start='728296'>
+    <variant>Oracle DBA</variant>
+  </canonskill>
+  <canonskill end='732192' experience='1' expidrefs='3,11' idrefs='3,11' lastused='2005' name='personnel' start='725739'>
+    <variant>personnel</variant>
+  </canonskill>
+  <canonskill end='730182' experience='1' expidrefs='5' idrefs='5' lastused='2000' name='presentation skills' start='729816'>
+    <variant>Presenting</variant>
+  </canonskill>
+  <canonskill end='729361' experience='1' expidrefs='9' idrefs='9' lastused='1997' name='prime' start='728296'>
+    <variant>Prime</variant>
+  </canonskill>
+  <canonskill end='732192' experience='1' expidrefs='3' idrefs='3' lastused='2005' name='progress' start='731369'>
+    <variant>progress</variant>
+  </canonskill>
+  <canonskill end='729086' experience='1' expidrefs='11' idrefs='11' lastused='1997' name='project management' start='725739'>
+    <variant>project lead</variant>
+  </canonskill>
+  <canonskill end='724644' experience='1' expidrefs='13' idrefs='13' lastused='1985' name='promotional materials' start='723913'>
+    <variant>promotion</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='purchasing' start='732314'>
+    <variant>purchasing</variant>
+  </canonskill>
+  <canonskill end='732192' experience='1' expidrefs='3' idrefs='3' lastused='2005' name='pvcs' start='731369'>
+    <variant>PVCS</variant>
+  </canonskill>
+  <canonskill end='732192' experience='1' expidrefs='3' idrefs='3' lastused='2005' name='quality' start='731369'>
+    <variant>quality</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='quickbooks' start='732314'>
+    <variant>Quick Books</variant>
+  </canonskill>
+  <canonskill end='729086' experience='1' expidrefs='11' idrefs='11' lastused='1997' name='rdbms' start='725739'>
+    <variant>RDBMS</variant>
+  </canonskill>
+  <canonskill end='732192' experience='1' expidrefs='3,8,9' idrefs='3,8,9' lastused='2005' name='reports' start='728296'>
+    <variant>reporting</variant>
+  </canonskill>
+  <canonskill end='729086' experience='1' expidrefs='11' idrefs='11' lastused='1997' name='research' start='725739'>
+    <variant>research</variant>
+  </canonskill>
+  <canonskill end='732192' experience='1' expidrefs='3' idrefs='3' lastused='2005' name='rup' start='731369'>
+    <variant>RUP</variant>
+    <variant>Rational Unified Process</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,13' idrefs='1,13' lastused='2012' name='sales' start='723913'>
+    <variant>Sales</variant>
+    <variant>sales</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='sales forecasting' start='732314'>
+    <variant>sales forecasting</variant>
+  </canonskill>
+  <canonskill experience='1' name='servers'>
+    <variant>servers</variant>
+  </canonskill>
+  <canonskill end='729361' experience='1' expidrefs='8' idrefs='8' lastused='1997' name='technical support' start='728752'>
+    <variant>user support</variant>
+  </canonskill>
+  <canonskill end='729361' experience='1' expidrefs='8' idrefs='8' lastused='1997' name='technical training' start='728752'>
+    <variant>user training</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='telecommunications' start='732314'>
+    <variant>telecom</variant>
+  </canonskill>
+  <canonskill end='732192' experience='1' expidrefs='3' idrefs='3' lastused='2005' name='test director' start='731369'>
+    <variant>Test-Director</variant>
+  </canonskill>
+  <canonskill end='732192' experience='1' expidrefs='3' idrefs='3' lastused='2005' name='test tools' start='731369'>
+    <variant>test tools</variant>
+  </canonskill>
+  <canonskill end='730182' experience='1' expidrefs='5' idrefs='5' lastused='2000' name='upgrades' start='729816'>
+    <variant>Upgrades</variant>
+  </canonskill>
+  <canonskill end='729361' experience='1' expidrefs='9' idrefs='9' lastused='1997' name='wan' start='728296'>
+    <variant>WAN</variant>
+  </canonskill>
+  <canonskill end='729086' experience='1' expidrefs='11' idrefs='11' lastused='1997' name='wang' start='725739'>
+    <variant>Wang</variant>
+  </canonskill>
+  <canonskill experience='1' name='web application development'>
+    <variant>web applications</variant>
+  </canonskill>
+  <canonskill end='732192' experience='1' expidrefs='3' idrefs='3' lastused='2005' name='web site production' start='731369'>
+    <variant>websites</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

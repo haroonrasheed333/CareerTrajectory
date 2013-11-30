@@ -1,0 +1,103 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Legal Secretary Specialist: Executive Legal Secretary", 
+            "Type": "Specialty", 
+            "Certification ID": "9327", 
+            "Certifying Organization": "Legal Secretaries International Inc."
+        }, 
+        {
+            "Acronym": "CL&sect;", 
+            "Certification Name": "Certified Legal Secretaty Specialist: Criminal Law", 
+            "Type": "Advanced", 
+            "Certification ID": "4761", 
+            "Certifying Organization": "Legal Secretaries International Inc."
+        }, 
+        {
+            "Acronym": "CLM", 
+            "Certification Name": "Certified Legal Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "1875", 
+            "Certifying Organization": "Association of Legal Administrators"
+        }, 
+        {
+            "Acronym": "CEDS", 
+            "Certification Name": "Certified Specialist in E-Discovery", 
+            "Type": "Specialty", 
+            "Certification ID": "9179", 
+            "Certifying Organization": "Association of Certified E-Discovery Specialists"
+        }, 
+        {
+            "Acronym": "CLSS", 
+            "Certification Name": "Certified Legal Secretary Specialist:  Real Estate", 
+            "Type": "Specialty", 
+            "Certification ID": "3068", 
+            "Certifying Organization": "Legal Secretaries International Inc."
+        }, 
+        {
+            "Acronym": "MOS", 
+            "Certification Name": "Microsoft Office Specialist (MOS): Microsoft Word 2010", 
+            "Type": "Core", 
+            "Certification ID": "7944", 
+            "Certifying Organization": "Microsoft Corporation"
+        }, 
+        {
+            "Acronym": "ALS", 
+            "Certification Name": "Accredited Legal Secretary", 
+            "Type": "Core", 
+            "Certification ID": "0326", 
+            "Certifying Organization": "National Association of Legal Secretaries Resource Center"
+        }, 
+        {
+            "Acronym": "PLS", 
+            "Certification Name": "Professional Legal Secretary", 
+            "Type": "Advanced", 
+            "Certification ID": "0325", 
+            "Certifying Organization": "National Association of Legal Secretaries Resource Center"
+        }, 
+        {
+            "Acronym": "CLSS", 
+            "Certification Name": "Certified Legal Secretary Specialist: Civil Litigation", 
+            "Type": "Specialty", 
+            "Certification ID": "0327", 
+            "Certifying Organization": "Legal Secretaries International Inc."
+        }, 
+        {
+            "Acronym": "CL&sect;", 
+            "Certification Name": "Certified Legal Secretary Specialist: Intellectual Property", 
+            "Type": "Advanced", 
+            "Certification ID": "4762", 
+            "Certifying Organization": "Legal Secretaries International Inc."
+        }, 
+        {
+            "Acronym": "CRR", 
+            "Certification Name": "Certified Realtime Reporter", 
+            "Type": "Core", 
+            "Certification ID": "0332", 
+            "Certifying Organization": "National Court Reporters Association"
+        }, 
+        {
+            "Acronym": "CLSS", 
+            "Certification Name": "Certified Legal Secretary Specialist:  Business Law", 
+            "Type": "Specialty", 
+            "Certification ID": "3069", 
+            "Certifying Organization": "Legal Secretaries International Inc."
+        }, 
+        {
+            "Acronym": "RPR", 
+            "Certification Name": "Registered Professional Reporter", 
+            "Type": "Core", 
+            "Certification ID": "0329", 
+            "Certifying Organization": "National Court Reporters Association"
+        }, 
+        {
+            "Acronym": "CLSS", 
+            "Certification Name": "Certified Legal Secretary Specialist: Probate", 
+            "Type": "Specialty", 
+            "Certification ID": "0328", 
+            "Certifying Organization": "Legal Secretaries International Inc."
+        }
+    ], 
+    "onet": "43601200"
+}

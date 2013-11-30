@@ -1,0 +1,19 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "SOC", 
+            "Certification Name": "System Operator Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "5723", 
+            "Certifying Organization": "North American Electric Reliability Corporation"
+        }, 
+        {
+            "Acronym": "CMVP", 
+            "Certification Name": "Certified Measurement and Verification Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "4008", 
+            "Certifying Organization": "Association of Energy Engineers"
+        }
+    ], 
+    "onet": "51801200"
+}

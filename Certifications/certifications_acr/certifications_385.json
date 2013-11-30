@@ -1,0 +1,110 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CSPI", 
+            "Certification Name": "Certification for Specialists in Poison Information", 
+            "Type": "Specialty", 
+            "Certification ID": "7450", 
+            "Certifying Organization": "American Association of Poison Control Centers"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Pharmacotherapy Specialty: Added Qualification in Infectious Diseases", 
+            "Type": "Specialty", 
+            "Certification ID": "9164", 
+            "Certifying Organization": "Board of Pharmacy Specialties"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Compounding Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "7953", 
+            "Certifying Organization": "National Pharmacy Technician Association"
+        }, 
+        {
+            "Acronym": "BCPT", 
+            "Certification Name": "Board Certified Pharmacotherapy Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "0993", 
+            "Certifying Organization": "Board of Pharmacy Specialties"
+        }, 
+        {
+            "Acronym": "BCACP", 
+            "Certification Name": "Board Certified Ambulatory Care Pharmacist", 
+            "Type": "Specialty", 
+            "Certification ID": "9162", 
+            "Certifying Organization": "Board of Pharmacy Specialties"
+        }, 
+        {
+            "Acronym": "FPGEC", 
+            "Certification Name": "Foreign Pharmacy Graduate Examination Committee Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "7456", 
+            "Certifying Organization": "National Association of Boards of Pharmacy"
+        }, 
+        {
+            "Acronym": "BCNSP", 
+            "Certification Name": "Board Certified Nutrition Support Pharmacist", 
+            "Type": "Specialty", 
+            "Certification ID": "0991", 
+            "Certifying Organization": "Board of Pharmacy Specialties"
+        }, 
+        {
+            "Acronym": "CNSC", 
+            "Certification Name": "Certified Nutrition Support Clinician", 
+            "Type": "Advanced", 
+            "Certification ID": "2437", 
+            "Certifying Organization": "National Board of Nutrition Support Certification, Inc."
+        }, 
+        {
+            "Acronym": "CPGP", 
+            "Certification Name": "Certified Pharmaceutical GMP Professional", 
+            "Type": "Specialty", 
+            "Certification ID": "6787", 
+            "Certifying Organization": "American Society for Quality"
+        }, 
+        {
+            "Acronym": "BCPP", 
+            "Certification Name": "Board Certified Psychiatric Pharmacist", 
+            "Type": "Specialty", 
+            "Certification ID": "0994", 
+            "Certifying Organization": "Board of Pharmacy Specialties"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Pharmacotherapy Specialty: Added Qualification in Cardiology", 
+            "Type": "Specialty", 
+            "Certification ID": "9163", 
+            "Certifying Organization": "Board of Pharmacy Specialties"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Chemotherapy Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "7952", 
+            "Certifying Organization": "National Pharmacy Technician Association"
+        }, 
+        {
+            "Acronym": "BCNP", 
+            "Certification Name": "Board Certified Nuclear Pharmacist", 
+            "Type": "Specialty", 
+            "Certification ID": "0990", 
+            "Certifying Organization": "Board of Pharmacy Specialties"
+        }, 
+        {
+            "Acronym": "BCOP", 
+            "Certification Name": "Board Certified Oncology Pharmacist", 
+            "Type": "Specialty", 
+            "Certification ID": "0992", 
+            "Certifying Organization": "Board of Pharmacy Specialties"
+        }, 
+        {
+            "Acronym": "CGP", 
+            "Certification Name": "Certified Geriatric Pharmacist", 
+            "Type": "Specialty", 
+            "Certification ID": "0988", 
+            "Certifying Organization": "Commission for Certification in Geriatric Pharmacy"
+        }
+    ], 
+    "onet": "29105100"
+}

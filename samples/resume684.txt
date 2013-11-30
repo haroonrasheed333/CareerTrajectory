@@ -1,0 +1,192 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734596' xml:space='preserve'><contact><name><surname>JP</surname> <givenname>Fredericks</givenname></name>
+<address lat='40.7632' lon='73.7744' majorcity='BAYSIDE' state='NY'><street>203-20 42nd Avenue</street> * <city>Bayside</city>, <state abbrev='NY'>New York</state> <postalcode>11361</postalcode></address> * <phone>(917) 842-3444</phone> * <email>jp09@usa.net</email></contact>
+
+***
+
+<summary>Summary of Qualifications:  Highly organized, detailed and articulate professional with a proven track record of providing strong support, streamlining procedures and increasing efficiency and productivity. Strong team player who communicates well with people from diverse backgrounds.</summary>
+
+<experience end='present' start='728661'>Professional Experience:  
+
+<job end='present' id='1' pos='1' sic='6552' sic2='65' start='734383'><employer>Housing Partnership Development Corporation</employer>, <address>NY, <state abbrev='NY'>NY</state></address>	        <daterange><start days='734383' iso8601='2011-09-01'>9/2011</start> to <end days='present' iso8601='2012-04-01'>present</end></daterange>
+
+<title>Assistant Controller</title>
+
+<description>Manage accounting functions for multi company non-profit organization including accounts receivable, accounts payable, cash management, wires, month end closing, general ledger analysis, P&amp;L reports, bank reconciliations for 31 accounts, annual audit support, assist with annual operating budgets and special ad hoc projects. Created and streamlined accounting files and procedures establishing an efficient department.</description></job>
+
+<job end='734383' id='2' pos='2' sic='594113' sic2='59' start='733865'><employer>Steve Goodman, EA</employer>, <address><city>Great Neck</city>, <state abbrev='NY'>NY</state></address> (<jobtype>Temporary</jobtype>)		<daterange><start days='733865' iso8601='2010-04-01'>4/2010</start> to <end days='734383' iso8601='2011-09-01'>9/2011</end></daterange>
+
+<title>Consultant</title>
+
+<description>General accounting analysis and support (bank reconciliations, account analysis and journey entries) for multiple clients.</description></job> 
+
+<job end='733500' id='3' inferred-to='3,5' pos='4' sic='504403' sic2='50' start='731004'><employer>Millennium Partners Sports Club Mgmt, LLC</employer>, <address>NY, <state abbrev='NY'>NY</state></address>  		<daterange><start days='731004' iso8601='2002-06-01'>6/2002</start> to <end days='733500' iso8601='2009-04-01'>4/2009</end></daterange></job>
+
+<job end='733500' id='4' inferred-from='4' pos='3' sic='504403' sic2='50' start='732314'><title>Regional Assistant Controller</title> (<daterange><start days='732314' iso8601='2006-01-01'>1/2006</start> to <end days='733500' iso8601='2009-04-01'>4/2009</end></daterange></job>)
+<job end='732283' id='5' inferred-from='4' pos='5' sic='504403' sic2='50' start='731004'><title>Assistant Controller</title> (<daterange><start days='731004' iso8601='2002-06-01'>6/2002</start> to <end days='732283' iso8601='2005-12-01'>12/2005</end></daterange></job>)
+
+Promoted to <job id='6'><title>Regional Assistant Controller</title>.  <description>Performed balance sheet analysis and adjusting entries. Periodic month end close and adjusting entries. P&amp;L review and comments. Accounts payable review and coding.  Payroll analysis and review.  Managed billing and invoicing for two large hotel accounts. Completed and balanced multiple bank accounts daily. Assisted in annual budget and quarterly forecasting.  Assisted in annual audit providing back up support.  Trained managers and assistants during company merger and acquisition regarding new financial software (e.g. biometric payroll, custom designed billing and A/R, FRx and Great Plains).  Conducted periodic internal payroll audits.  Supervised bank auditor and staff accountant. Managed daily cash receipts, returns, charge backs and miscellaneous treasury functions (bank wires, bank and merchant a/c setups and closures) for 6 large clubs. Key results: 
+
+Uncovered and saved $27,000 in overpayments during the implementation of a new internet based payroll system.
+Created and implemented an efficient daily cash monitoring system that significantly improved cash flow, reduced charge backs by 48% and reduced bank rec completion time by 75%. 
+Restructured and organized 55 merchant accounts (V/MC, AMEX and Discover) which improved efficiency, improved cash flow and reduced billing errors by 21%.
+Developed and implemented a standardized daily deposit log that improved timeliness of cash deposits and reduced write offs by 34%.
+Reduced bad debt write offs of two large hotel accounts by implementing an efficient daily reporting system.
+Completed on a monthly basis an in-depth review of payroll cost with managers and assistants of 8 departments reducing payroll errors.</description></job>
+
+<job end='730853' id='7' pos='6' start='728661'><employer>Liminal Resource Management</employer>, <address>NY, <state abbrev='NY'>NY</state></address>	<daterange><start days='728661' iso8601='1996-01-01'>1/1996</start> to <end days='730853' iso8601='2002-01-01'>1/2002</end></daterange>	
+
+<title>Accounting Manager</title>
+
+<description>Managed all accounting functions for small private trust including GL analysis, month and year end close, adjusting journal entries, P&amp;L review, AP, AR, payroll and cash management. Reconciled in a timely fashion domestic and international bank accounts.   Key results: 
+
+Updated and improved computer accounting system.
+Successfully reconciled and brought current 4 bank accounts(2 domestic and 2 int'l accounts)
+Introduced effective cost reduction strategies (i.e. renegotiated vender terms, outsourcing) reducing cost by 25%.</description></job></experience>
+  
+<skills>Skills:
+<skills>Excel, Word, Outlook, Great Plains ver 10, FRx, Kronos WFC, CSI, Windows 7 and Vista, QuickBooks 2009</skills></skills>
+
+<education>Education:
+<school id='8'><courses>Accounting certificate, 	CETA, Columbus, Ohio 							   Management Training, MP Sports Club Management</courses>, <institution>LLC</institution>, <address>NY, <state abbrev='NY'>NY</state></address></school>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2</education>
+
+</resume>
+
+<skillrollup version='1'>
+  <canonskill education='1' end='734579' experience='1' expidrefs='1,7' idrefs='1,7' lastused='2012' name='accountancy' start='728661'>
+    <variant>Accounting</variant>
+    <variant>accounting</variant>
+  </canonskill>
+  <canonskill end='734383' experience='1' expidrefs='2,6' idrefs='2,6' lastused='2011' name='accounting' start='733865'>
+    <variant>General accounting</variant>
+    <variant>accountant</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,6' idrefs='1,6' lastused='2012' name='accounts payable' start='734383'>
+    <variant>Accounts payable</variant>
+    <variant>accounts payable</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='accounts receivable' start='734383'>
+    <variant>accounts receivable</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='advertising' start='734383'>
+    <variant>ad</variant>
+  </canonskill>
+  <canonskill end='730853' experience='1' expidrefs='7' idrefs='7' lastused='2002' name='ap style' start='728661'>
+    <variant>AP</variant>
+  </canonskill>
+  <canonskill end='730853' experience='1' expidrefs='7' idrefs='7' lastused='2002' name='ar' start='728661'>
+    <variant>AR</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='6' idrefs='6' name='balance'>
+    <variant>balance sheet</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='bank reconciliation' start='733865'>
+    <variant>bank reconciliations</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='6' idrefs='6' name='billing'>
+    <variant>billing</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,6' idrefs='1,6' lastused='2012' name='budgeting' start='734383'>
+    <variant>budgets</variant>
+    <variant>budget</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='6' idrefs='6' name='c'>
+    <variant>c</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='6' idrefs='6' name='cash flow'>
+    <variant>cash flow</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,7' idrefs='1,7' lastused='2012' name='cash management' start='728661'>
+    <variant>cash management</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='closing' start='734383'>
+    <variant>closing</variant>
+  </canonskill>
+  <canonskill end='730853' experience='1' expidrefs='7' idrefs='7' lastused='2002' name='cost control' start='728661'>
+    <variant>cost reduction</variant>
+  </canonskill>
+  <canonskill end='734383' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='customer relations' start='733865'>
+    <variant>clients</variant>
+  </canonskill>
+  <canonskill end='730853' experience='1' expidrefs='7' idrefs='7' lastused='2002' name='fashion' start='728661'>
+    <variant>fashion</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='6' idrefs='6' name='financial'>
+    <variant>financial</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='6' idrefs='6' name='forecasting'>
+    <variant>forecasting</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='general ledger' start='734383'>
+    <variant>general ledger</variant>
+  </canonskill>
+  <canonskill end='730853' experience='1' expidrefs='7' idrefs='7' lastused='2002' name='gl' start='728661'>
+    <variant>GL</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='6' idrefs='6' name='great plains software'>
+    <variant>Great Plains</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='6' idrefs='6' name='invoicing'>
+    <variant>invoicing</variant>
+  </canonskill>
+  <canonskill name='kronos'>
+    <variant>Kronos</variant>
+  </canonskill>
+  <canonskill education='1' name='management training'>
+    <variant>Management Training</variant>
+  </canonskill>
+  <canonskill name='microsoft excel'>
+    <variant>Excel</variant>
+  </canonskill>
+  <canonskill name='microsoft outlook'>
+    <variant>Outlook</variant>
+  </canonskill>
+  <canonskill name='microsoft windows'>
+    <variant>Windows 7</variant>
+  </canonskill>
+  <canonskill name='microsoft word'>
+    <variant>Word</variant>
+  </canonskill>
+  <canonskill end='730853' experience='1' expidrefs='6,7' idrefs='6,7' lastused='2002' name='payroll processing' start='728661'>
+    <variant>Payroll</variant>
+    <variant>payroll</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='profit' start='734383'>
+    <variant>profit</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='6' idrefs='6' name='programming'>
+    <variant>coding</variant>
+  </canonskill>
+  <canonskill name='quickbooks'>
+    <variant>QuickBooks</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='6' idrefs='6' name='reports'>
+    <variant>reporting</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='6' idrefs='6' name='treasury'>
+    <variant>treasury</variant>
+  </canonskill>
+  <canonskill name='vista'>
+    <variant>Vista</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734597' xml:space='preserve'><contact><name><givenname>Andy</givenname> <givenname>H</givenname>. <surname>Pham</surname></name> - Radiology Technologist (Registered)
+<address lat='33.5868' lon='84.3261' majorcity='MORROW' state='GA'><street>6663 Peacock Blvd</street> * <city>Morrow</city>, <state abbrev='GA'>GA</state> <postalcode>30260</postalcode></address> * <phone>404-433-7573</phone> * <email>andyhpham05@gmail.com</email></contact> 
+
+<summary>OBJECTIVE: <objective>Currently pursuing a career in the field of Radiography and Medical Imaging in the New York metropolitan area.</objective> 
+AREAS OF EXCELLENCE:
+ <summary>Superb Customer Service	 Patient Care		 Strong Team Player		 Dependable and Dedicated
+ Radiologic Positioning &amp; Procedures  Radiation Safety	 Produce Quality Imaging 	 Radiologic Equipments</summary></summary>	 
+<education>EDUCATIONAL BACKGROUND: 
+<school id='5'><institution>Emory University</institution>					<address><city>Atlanta</city>, <state abbrev='GA'>GA</state></address>			<completiondate days='734565' iso8601='2012-03-01'>March 2012</completiondate>
+<courses>Certificate: Practical Approach to Digital Imaging</courses></school>			
+<school id='6'><institution>Institute of Allied Medical</institution> <address>Professions, <state>ARRT</state> 		<city>Atlanta</city>, <state abbrev='GA'>GA</state></address>			<daterange><start days='732557' iso8601='2006-09-01'>Sept 2006</start> - <end days='733288' iso8601='2008-09-01'>Sept 2008</end></daterange>
+<degree level='14' name='Associate of Science'>A.S</degree> <major code='1699'>Radiologic Technology</major></school></education>					
+<experience end='present' start='732618'>PROFESSIONAL EXPERIENCE:
+<job end='present' id='1' naics='62211002' naics2='62' pos='1' sic='804918' sic2='80' start='733288'><employer>Resurgens Orthopaedics, Saint Joseph's Hospital</employer>		<address><city>Atlanta</city>, <state abbrev='GA'>GA</state></address>			<daterange><start days='733288' iso8601='2008-09-01'>Sept 2008</start> - <end days='present' iso8601='2012-04-02'>Present</end></daterange>
+<title>Radiologic Technologist</title>									
+<description>Committed to providing high-quality diagnostic imaging and catering to patient or physician needs in the Radiology Department. Organized and quick-thinking technologist with more than four years of experience. Proficient in technical support tasks for wide variety of radiographic examinations and radiologic procedures. Observant of details during patient exams and image evaluation. Provide excellent patient care and recognize patient conditions essential for successful completion of exam. Able to accurately and calmly perform tasks with team under pressure in fast-paced environment. Performed radiographic exams (at least 40 per day) in compliance with hospital standards and practices. Help with on-job training of new staff, students, and give input to overseers regarding the training performance.
+Contributions:
+Exercise professional judgment in performance of radiography services and maintains a demeanor complementary to medical ethics.
+Commended for ensuring excellent patient care during stressful situations.</description></job>
+
+<job end='733288' id='2' pos='2' start='732952'><title>Radiologic Technology Intern</title> 				<address><city>Atlanta</city>, <state abbrev='GA'>GA</state></address>			<daterange><start days='732952' iso8601='2007-10-01'>Oct 2007</start> - <end days='733288' iso8601='2008-09-01'>Sept 2008</end></daterange>
+<description>Acquired well-rounded and thorough experience at state-of-the-art facility. Gained experience working with patients of all ages with a variety of medical conditions from pre-op to outpatient care. Completed diagnostic radiographic procedures in the Radiology Department. Establish exposure factors to get best imaging for the patients. Processed radiographic films. Maintain radiation dosages as low as possible in accordance to the ALARA concept. Hired after successful performance as an intern technologist</description></job>, <job end='733288' id='3' pos='3' start='732952'><daterange><start days='732952' iso8601='2007-10-01'>Oct 2007</start> - <end days='733288' iso8601='2008-09-01'>Sept 2008</end></daterange>.
+Contributions:
+<description>Perform radiation safety for patients and explain processes/procedures to individual patients. 
+Offered patient care service using specified modalities under control of physician but not needing continuous technical supervision.</description></job>
+CLINICAL EXPERIENCE: 
+<job end='733288' id='4' naics='62211002' naics2='62' pos='4' sic='806202' sic2='80' start='732618'><employer>Northside Hospital-Cherokee    |    Resurgens Orthopaedics    |    North Fulton Regional Hospital</employer>    |    <employer>Saint Joseph's Hospital</employer>
+<title>Student RT</title> Clinical Rotation				<address><city>Atlanta</city>, <state abbrev='GA'>GA</state></address>			<daterange><start days='732618' iso8601='2006-11-01'>Nov 2006</start> - <end days='733288' iso8601='2008-09-01'>Sept 2008</end></daterange>
+<description>Offered radiology services to the patients of every age. Developed solid understanding of imaging equipment and imaging, documentation software, including PACS Image Archive and DICOM storage. Collaborated with fellow interns and staff to focus on stellar patient accommodation and comfort. Assisted with Upper GI Series, Barium Enemas, Small Bowel Series, Esophagrams and Myelograms. Operated necessary stationary, fluoroscopic and portable diagnostic imaging equipment. Performed imaging procedures for the Diagnostic Imaging Department. Performed lower and upper extremities, spine and pelvis radiographic exams. Rotated through most Diagnostic Imaging sections, including CT, MRI, OR, ER, Interventional and General Radiology.</description></job></experience>
+<skills>CORE KNOWLEDGE AND TECHNICAL SKILLS: 
+Certification/Licensure:	<courses>ARRT Certification, NYS license from NYS DOH, CPR Certified.
+Equipment:		X-Ray Tubes: GE, Siemens, Philips, Fuji, Kodak, Sentry Three as well as conventional equipment.
+C-Arms:			OEC 9600, 9800, 9900
+Programs:		IDX, PACS, EMRs, HMED and McKesson Star Navigator.</courses></skills>
+</resume>
+
+<skillrollup version='1'>
+  <canonskill education='1' eduidrefs='5' idrefs='5' name='approach'>
+    <variant>Approach</variant>
+  </canonskill>
+  <canonskill end='733288' experience='1' expidrefs='2' idrefs='2' lastused='2008' name='art' start='732952'>
+    <variant>art</variant>
+  </canonskill>
+  <canonskill name='c'>
+    <variant>C</variant>
+  </canonskill>
+  <canonskill end='733288' experience='1' expidrefs='2' idrefs='2' lastused='2008' name='concept development' start='732952'>
+    <variant>concept</variant>
+  </canonskill>
+  <canonskill name='cpr certified'>
+    <variant>CPR Certified</variant>
+  </canonskill>
+  <canonskill name='department of health'>
+    <variant>DOH</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='5' idrefs='5' name='digital imaging'>
+    <variant>Digital Imaging</variant>
+  </canonskill>
+  <canonskill end='733288' experience='1' expidrefs='4' idrefs='4' lastused='2008' name='documentation' start='732618'>
+    <variant>documentation</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='fast' start='733288'>
+    <variant>fast</variant>
+  </canonskill>
+  <canonskill end='733288' experience='1' expidrefs='4' idrefs='4' lastused='2008' name='focus' start='732618'>
+    <variant>focus</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,4' idrefs='1,2,4' lastused='2012' name='imaging' start='732618'>
+    <variant>Image</variant>
+    <variant>image</variant>
+    <variant>Imaging</variant>
+    <variant>imaging</variant>
+  </canonskill>
+  <canonskill name='netscape navigator'>
+    <variant>Navigator</variant>
+  </canonskill>
+  <canonskill end='733288' experience='1' expidrefs='4' idrefs='4' lastused='2008' name='pacs' start='732618'>
+    <variant>PACS</variant>
+  </canonskill>
+  <canonskill end='733288' experience='1' expidrefs='3' idrefs='3' lastused='2008' name='process engineering' start='732952'>
+    <variant>processes</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='quality' start='733288'>
+    <variant>quality</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='quick' start='733288'>
+    <variant>quick</variant>
+  </canonskill>
+  <canonskill end='733288' experience='1' expidrefs='3' idrefs='3' lastused='2008' name='safety' start='732952'>
+    <variant>safety</variant>
+  </canonskill>
+  <canonskill name='siemens nixdorf hardware'>
+    <variant>Siemens</variant>
+  </canonskill>
+  <canonskill end='733288' experience='1' expidrefs='3' idrefs='3' lastused='2008' name='supervisory skills' start='732952'>
+    <variant>supervision</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='technical support' start='733288'>
+    <variant>technical support</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

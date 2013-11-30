@@ -1,0 +1,189 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734591' xml:space='preserve'>PK PANDA									    PAGE 2
+<contact><phone>949.939.4824</phone>
+
+
+<name><givenname>PRASANNA</givenname> (<nickname>PK</nickname>) <surname>PANDA</surname></name> 
+<address lat='33.6458' lon='117.669' majorcity='LAKE FOREST' state='CA'><street>24241 Angela</street>
+<city>Lake Forest</city>, <state abbrev='CA'>CA</state> <postalcode>92630</postalcode></address>
+<phone>949.939.4824</phone>
+<email>pk_panda@yahoo.com</email></contact>
+
+
+<summary>SUMMARY
+
+<summary>Project Manager and Business/Systems Analyst with proven success leading the development and implementation of IT solutions that increase organizational effectiveness. Solid hands-on experience in project implementation, system analysis, software development, administration and support. Key strengths include project management, applications development, web development and problem resolution. Has a strong working knowledge with Unisys A-series system and applications. Has international and multi-industry experience.</summary></summary>
+
+<experience end='present' start='729027'>PROFESSIONAL EXPERIENCE
+<job end='present' id='1' pos='1' start='733775'><employer>Global Renewable Energy</employer>						<daterange><start days='733775' iso8601='2010-01-01'>2010</start> - <end days='present' iso8601='2012-03-27'>Present</end></daterange>
+<jobtype>Independent</jobtype> <title>consultant</title>:  <description>Consulted and worked with several agencies to form a start up company and created an online learning environment in alternate energy. Consulting to create on-line sales and supply chain activity for LED lighting.</description></job> 
+
+<job end='733775' id='2' naics='54151104' naics2='54' pos='2' sic='641112' sic2='64' start='729027'><employer>UNISYS</employer>, <address><city>Mission Viejo</city>, <state abbrev='CA'>CA</state></address>	<daterange><start days='729027' iso8601='1997-01-01'>1997</start> - <end days='733775' iso8601='2010-01-01'>2010</end></daterange>
+<description>Leading computer manufacturing, information technology consulting services and solutions company.</description>
+
+<title>Business Analyst / Developer</title>
+
+<description>Transformed product reporting system from batch manual legacy to online web system. Designed, developed and implemented application that greatly improved accessibility and ease of use for the user community.
+During transition moving Unisys server manufacturing to NEC Japan, developed application that coordinated invoices in XML with Accounts Payable database, meeting challenging deadline.
+Accomplished substantial IT cost saving by managing the move of IT development to offshore company in India. Created technical documentation and provided training to offshore team.
+Replaced 3rd party job control BLSCHED system with custom in-house job control system, resulting in significant cost savings.
+Designed, developed and implemented client server adhoc reporting application for inventory and accounting system replacing a mainframe legacy system.
+Developed and implemented creation of automatic generation of vendor invoices using Shipping confirmation and purchase order using EDI protocol, eliminating manual entry and clerical errors.
+Created application providing company the ability to process all banking transactions online, including electronic fund transfers replacing manual check checks.  
+Provided world class day-to-day IT support to internal customers on Unisys ERP manufacturing applications.
+Supervised offshore IT team to develop product configuration and approval of Unisys product order from marketing and integrating with Unisys manufacturing application.</description></job></experience>
+
+
+
+<skills>TECHNICAL SKILLS
+
+<skills>Platforms:	Unisys mainframe, Windows, UNIX, ES7000, IBM mainframe</skills>
+Languages:	<skills>Visual Basic, C, Java, ASP, ASP.NET4, SQL, WFL, COBOL (68,74,85), XHTML, XML
+Databases:	DMS-II, SQL Server, Access, Oracle</skills></skills>
+
+
+<education>EDUCATION
+
+<school id='3'><degree level='16' name='Bachelor of Science'>B.S</degree>, <major code='1502'>Mechanical Engineering</major>,
+<institution>University College of Engineering</institution>, <address><city>Burla</city>, <country iso3='IND'>India</country></address>
+
+<courses>Certificate, Advanced Software Technologies
+University of California, Irvine (UCI), CA</courses></school></education>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</resume>
+
+<skillrollup version='1'>
+  <canonskill name='.net'>
+    <variant>ASP.NET4</variant>
+  </canonskill>
+  <canonskill experience='1' name='accountancy'>
+    <variant>accounting</variant>
+  </canonskill>
+  <canonskill experience='1' name='accounts payable'>
+    <variant>Accounts Payable</variant>
+  </canonskill>
+  <canonskill name='asp'>
+    <variant>ASP</variant>
+  </canonskill>
+  <canonskill experience='1' name='banking'>
+    <variant>banking</variant>
+  </canonskill>
+  <canonskill name='c'>
+    <variant>C</variant>
+  </canonskill>
+  <canonskill experience='1' name='clerical'>
+    <variant>clerical</variant>
+  </canonskill>
+  <canonskill experience='1' name='client/server'>
+    <variant>client server</variant>
+  </canonskill>
+  <canonskill name='cobol'>
+    <variant>COBOL</variant>
+  </canonskill>
+  <canonskill education='1' name='computer associates packages'>
+    <variant>CA</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='consulting' start='733775'>
+    <variant>Consulting</variant>
+    <variant>consulting</variant>
+  </canonskill>
+  <canonskill experience='1' name='database administration'>
+    <variant>Databases</variant>
+    <variant>database</variant>
+  </canonskill>
+  <canonskill experience='1' name='electronic data interchange'>
+    <variant>EDI</variant>
+  </canonskill>
+  <canonskill experience='1' name='erp'>
+    <variant>ERP</variant>
+  </canonskill>
+  <canonskill name='ibm mainframe'>
+    <variant>IBM mainframe</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='information technology' start='733775'>
+    <variant>information technology</variant>
+  </canonskill>
+  <canonskill experience='1' name='inventory management'>
+    <variant>inventory</variant>
+  </canonskill>
+  <canonskill name='java'>
+    <variant>Java</variant>
+  </canonskill>
+  <canonskill name='languages'>
+    <variant>Languages</variant>
+  </canonskill>
+  <canonskill experience='1' name='lighting'>
+    <variant>lighting</variant>
+  </canonskill>
+  <canonskill experience='1' name='mainframe'>
+    <variant>mainframe</variant>
+  </canonskill>
+  <canonskill experience='1' name='management'>
+    <variant>managing</variant>
+  </canonskill>
+  <canonskill experience='1' name='marketing'>
+    <variant>marketing</variant>
+  </canonskill>
+  <canonskill name='microsoft access'>
+    <variant>Access</variant>
+  </canonskill>
+  <canonskill name='microsoft windows'>
+    <variant>Windows</variant>
+  </canonskill>
+  <canonskill experience='1' name='nec'>
+    <variant>NEC</variant>
+  </canonskill>
+  <canonskill name='oracle'>
+    <variant>Oracle</variant>
+  </canonskill>
+  <canonskill experience='1' name='reports'>
+    <variant>reporting</variant>
+  </canonskill>
+  <canonskill experience='1' name='sales'>
+    <variant>sales</variant>
+  </canonskill>
+  <canonskill experience='1' name='shipping'>
+    <variant>Shipping</variant>
+  </canonskill>
+  <canonskill name='sql'>
+    <variant>SQL Server</variant>
+    <variant>SQL</variant>
+  </canonskill>
+  <canonskill experience='1' name='supply chain'>
+    <variant>supply chain</variant>
+  </canonskill>
+  <canonskill experience='1' name='technical writing'>
+    <variant>technical documentation</variant>
+  </canonskill>
+  <canonskill experience='1' name='unisys'>
+    <variant>Unisys</variant>
+  </canonskill>
+  <canonskill name='unix'>
+    <variant>UNIX</variant>
+  </canonskill>
+  <canonskill name='visual basic'>
+    <variant>Visual Basic</variant>
+  </canonskill>
+  <canonskill name='xhtml'>
+    <variant>XHTML</variant>
+  </canonskill>
+  <canonskill experience='1' name='xml'>
+    <variant>XML</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

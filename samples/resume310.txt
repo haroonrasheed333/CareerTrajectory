@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734592' xml:space='preserve'><contact><name><givenname>Dan</givenname> <surname>Malinsky</surname></name>
+<email>danmalinsky@gmail.com</email>								<address><street>40 N 13st</street></address> 
+<phone>(408) 957-4213</phone>									<address lat='37.3449' lon='121.885' majorcity='SAN JOSE' state='CA'><city>San Jose</city> <state abbrev='CA'>CA</state>, <postalcode>95112</postalcode></address></contact> 
+
+<summary>OBJECTIVE 		<objective>A position related to web programming and data analysis</objective></summary>
+
+<education>EDUCATION		<school id='5'><institution>Santa Clara University</institution>, <address><city>Santa Clara</city>, <state abbrev='CA'>California</state></address>	Graduated <completiondate days='734291' iso8601='2011-06-01'>June 2011</completiondate>
+			<degree level='16' name='Bachelor of Science'>Bachelor of Science</degree>, <major code='1203'>Biomolecular engineering
+Electrical Engineering</major> Minor
+
+	Senior Design Project: <honors>Developed a non-stick coating for PEAK Surgical's PlasmaBlade®</honors>
+
+Related Coursework: <courses>Web Programming, Logic Design, Probability &amp; Statistics, Differential Equations, Applied Programming in C, Linear Systems, Digital Integrated Circuit Design</courses></school></education>
+
+<skills>SKILLS	Comfortable working on <skills>Windows, Linux and Unix operating systems
+Proficient in Microsoft Office programs including Excel and Powerpoint
+Experienced with programming in C, HTML, JavaScript, Matlab, Mathematica SQL, PHP, Perl, vi and PowerShell
+Skilled in the use of Photoshop, Adobe Illustrator and Microsoft Expression Suite
+Website: http://fwoosh.atwebpages.com</skills></skills>
+
+<experience end='present' start='733349'>EXPERIENCE		<job end='present' id='1' pos='1' sic='508305' sic2='50' start='734321'><employer>Disco Corporation</employer>, <address><city>San Jose</city>, <state abbrev='CA'>CA</state></address>
+<title>Project Manager</title>					<daterange><start days='734321' iso8601='2011-07-01'>July 2011</start>- <end days='present' iso8601='2012-03-28'>present</end></daterange>
+<description>Boogie-woogie-oogied until I just couldn't boogie now more
+Lived the high life</description></job>
+
+                            <job end='734474' id='2' pos='2' sic='737103' sic2='73' start='734321'><employer>Computek Software Corporation</employer>, <address><city>San Jose</city>, <state abbrev='CA'>CA</state></address>
+<title>Web Design Intern</title>					<daterange><start days='734321' iso8601='2011-07-01'>July 2011</start>-<end days='734474' iso8601='2011-12-01'>December 2011</end></daterange>
+<description>Constructing web pages and illustrating graphic elements for websites
+Maintaining and enhancing a database of business card templates</description></job>
+
+<job end='734352' id='3' pos='3' start='734291'><employer>Hillview Prep</employer>, <address><city>Saratoga</city>, <state abbrev='CA'>CA</state></address>
+	<title>Private Contractor</title>					<daterange><start days='734291' iso8601='2011-06-01'>June 2011</start>-<end days='734352' iso8601='2011-08-01'>August 2011</end></daterange>
+<description>Coded e-mail login using PHP and MySQL</description></job> 
+
+<job end='734321' id='4' pos='4' sic='822101' sic2='82' start='733349'><employer>Santa Clara University</employer>, <address><city>Santa Clara</city>, <state abbrev='CA'>CA</state></address>
+	<title>IT Helpdesk</title>						<daterange><start days='733349' iso8601='2008-11-01'>November 2008</start>-<end days='734321' iso8601='2011-07-01'>July 2011</end></daterange>
+<description>Diagnosed and repaired problems related to computer viruses and malfunctions often using command-line scripting
+Provided computer tech support for the university's students, staff and faculty
+
+	Peer Review Session Leader			Fall Term 2010
+Tutored numerous students in organic chemistry
+Presented walkthroughs of problems to a group of students</description></job></experience>
+
+<statements>ACTIVITIES	<activities>Member: Bioengineering Club, IEEE, SWE; Volunteer: Oregon Zoo's Birds of Prey shows; Earned 2 Varsity letters in High School Tennis</activities></statements>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</resume>
+
+<skillrollup version='1'>
+  <canonskill name='adobe photoshop'>
+    <variant>Photoshop</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='5' idrefs='5' name='c'>
+    <variant>C</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='5' idrefs='5' name='circuit design'>
+    <variant>Circuit Design</variant>
+  </canonskill>
+  <canonskill name='com'>
+    <variant>com</variant>
+  </canonskill>
+  <canonskill end='734474' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='database administration' start='734321'>
+    <variant>database</variant>
+  </canonskill>
+  <canonskill end='734352' experience='1' expidrefs='3' idrefs='3' lastused='2011' name='email' start='734291'>
+    <variant>e-mail</variant>
+  </canonskill>
+  <canonskill end='734474' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='graphics software' start='734321'>
+    <variant>graphic</variant>
+  </canonskill>
+  <canonskill name='html'>
+    <variant>HTML</variant>
+  </canonskill>
+  <canonskill name='http'>
+    <variant>http</variant>
+  </canonskill>
+  <canonskill name='illustrator'>
+    <variant>Adobe Illustrator</variant>
+  </canonskill>
+  <canonskill name='javascript'>
+    <variant>JavaScript</variant>
+  </canonskill>
+  <canonskill name='linux'>
+    <variant>Linux</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='5' idrefs='5' name='logic'>
+    <variant>Logic</variant>
+  </canonskill>
+  <canonskill name='mathematica'>
+    <variant>Mathematica</variant>
+  </canonskill>
+  <canonskill name='matlab'>
+    <variant>Matlab</variant>
+  </canonskill>
+  <canonskill name='microsoft excel'>
+    <variant>Excel</variant>
+  </canonskill>
+  <canonskill name='microsoft office'>
+    <variant>Microsoft Office programs</variant>
+  </canonskill>
+  <canonskill name='microsoft powerpoint'>
+    <variant>Powerpoint</variant>
+  </canonskill>
+  <canonskill name='microsoft windows'>
+    <variant>Windows</variant>
+  </canonskill>
+  <canonskill end='734352' experience='1' expidrefs='3' idrefs='3' lastused='2011' name='mysql' start='734291'>
+    <variant>MySQL</variant>
+  </canonskill>
+  <canonskill name='operating systems'>
+    <variant>operating systems</variant>
+  </canonskill>
+  <canonskill name='perl'>
+    <variant>Perl</variant>
+  </canonskill>
+  <canonskill end='734352' experience='1' expidrefs='3' idrefs='3' lastused='2011' name='php' start='734291'>
+    <variant>PHP</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='5' idrefs='5' name='programming'>
+    <variant>Programming</variant>
+    <variant>programming</variant>
+  </canonskill>
+  <canonskill end='734321' experience='1' expidrefs='4' idrefs='4' lastused='2011' name='shell scripting' start='733349'>
+    <variant>scripting</variant>
+  </canonskill>
+  <canonskill name='sql'>
+    <variant>SQL</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='5' idrefs='5' name='statistics'>
+    <variant>Statistics</variant>
+  </canonskill>
+  <canonskill end='734321' experience='1' expidrefs='4' idrefs='4' lastused='2011' name='technical support' start='733349'>
+    <variant>tech support</variant>
+  </canonskill>
+  <canonskill name='unix'>
+    <variant>Unix</variant>
+  </canonskill>
+  <canonskill name='vi'>
+    <variant>vi</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='5' idrefs='5' name='web programming'>
+    <variant>Web Programming</variant>
+  </canonskill>
+  <canonskill end='734474' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='web site production' start='734321'>
+    <variant>Website</variant>
+    <variant>websites</variant>
+    <variant>web pages</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

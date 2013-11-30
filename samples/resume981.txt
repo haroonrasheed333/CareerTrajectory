@@ -1,0 +1,218 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734598' xml:space='preserve'>               <summary>Objective
+<objective>Vicki Ashley   A dedicated person looking for a position that allows me to utilize my technical and management skil
+               ls for achieving the target and delivery the best performance in the esteemed organization. I would li
+               ke to implement my innovative ideas, progressive experience, skills and creativity for accomplishing t
+               he projects.</objective>
+
+               Qualifications
+               <summary>I am an experienced and successful business systems administrator/web administer. I have experience
+                designing communication strategies for advertisements, pamphlets, newsletters, logos, business cards,
+                brochures, trade show marketing, web site design and online store maintenance and development. I a
+               lso have experience implementing new programs and business systems into a company and training al
+               l employees to use the system. One of my greatest strengths is my ability to work well with others,
+               maximizing opportunities for the team and the organization. I have extensive experience working wit
+               h computers as you will see below. I am an eager and extremely fast learner always looking for somet
+               hing new to learn and expand my skill set with.</summary></summary>
+
+               <experience end='present' start='728661'>Work History
+               <job end='present' id='1' pos='1' sic='508513' sic2='50' start='730853'><daterange><start days='730853' iso8601='2002-01-01'>2002</start>-<end days='present' iso8601='2012-04-03'>Present</end></daterange> <employer>AC Controls Co., Inc</employer>. <address lat='44.3093' lon='-73.2387' majorcity='CHARLOTTE' state='VT'><city>Charlotte</city>, <state abbrev='NC'>NC</state></address>
+               <title>Business Systems Administrator/Marketing</title>
+                        <description>Maintenance, Trouble Shooting and Updating ERP System
+                        Maintenance, Trouble Shooting and Updating CRM system
+                        Assitant to the IT Department
+                        Web Site Management and Design
+                        Marketing Material Design (brochures, catalogs, logos, LCD screen layout, mailers)
+                        Assistant to all Management, Outside Sales and Inside Sales Teams
+                        Meeting and Travel Arrangements
+                        Project Coordination (power point presentations, spreadsheet development)
+                        Computer Problem Solving and Setup
+                        Program Administration and Major Data Entry</description></job>
+                        <job end='730853' id='2' pos='2' start='730488'><title>Documentation Compliance Manager</title> (GE Documentation Requirments)
+
+               <daterange><start days='730488' iso8601='2001-01-01'>2001</start>-<end days='730853' iso8601='2002-01-01'>2002</end></daterange> <employer>Efird s Interiors, Inc</employer>. <address><city>Charlotte</city>, <state abbrev='NC'>NC</state></address></job>
+               <job id='3'><title>Bookkeeper</title>/Administration
+                       Accounts Receivables/Collection Management
+                       <description>Invoicing/Processing Purchase Orders
+                       Accounts Payable/Payroll
+                       Preparation of year end taxes (fed. From 941, NC/SC Sales Taxes, Payroll Tax)
+                       Year end close out and adjusting entries</description></job>
+
+               <job end='730488' id='4' pos='3' sic='422509' sic2='42' start='729757'><daterange><start days='729757' iso8601='1999-01-01'>1999</start>-<end days='730488' iso8601='2001-01-01'>2001</end></daterange> <employer>Salem Produce, Inc</employer>. <address><city>Monroe</city>, <state abbrev='NC'>NC</state></address>
+               <title>Safety Director</title>/Accounts Receivable
+                       <description>Maintained all driver files, drug testing, license, and physical updates
+                       Managed equipment inspection and maintenance
+                       Accounts Receivable Assistant (invoicing, collections, problem solving, payroll)
+                       General Office Duties (switchboard, filing, computer upkeep and setup)</description></job>
+
+               <job end='729757' id='5' pos='4' sic='152103' sic2='15' start='728661'><daterange><start days='728661' iso8601='1996-01-01'>1996</start>-<end days='729757' iso8601='1999-01-01'>1999</end></daterange> <employer>M.B. Kahn Construction Co., Inc</employer>. <address><city>Charlotte</city>, <state abbrev='NC'>NC</state></address>
+               <title>Administrative Assistant/Job Site Clerk</title>
+                       <description>Assistant to Project Managers
+                       Prepared Contracts and Close out documents
+                       Maintained Employee files, drug screens and MSDS information</description></job></experience>
+
+               <skills>Computer Skills
+               <skills>Infor SX.e Business System, Infor E-Store, Actinic E-Commerce, Adobe Acrobat, Adobe PageMaker
+               , Bold chat, Go-To-Meeting, Fax press, Media face, DISC, Access, Excel, Outlook, PowerPoint, Publish
+               er, Word, Tour de Force, ImageReady, Photoshop, Windows Movie Maker, Macromedia Contribute,
+               Macromedia FlashPaper, Lotus 123, Peachtree Accounting, QuickBooks, AAA Logo.</skills></skills>
+
+               <references>References
+               Charles DeBord Mathews Construction Co., Inc. Superintendent 704-814-0534</references>
+               <experience><job id='6' sic='7389' sic2='73'><employer>Allen Miller Efird's Interiors, Inc Warehouse Manager</employer> <description>704-376-5648</description></job>
+               <job id='7'><employer>Brian Johnson Sure Solutions, Inc</employer>. <description>Owner 732-673-2652</description></job></experience>
+</resume>
+
+<skillrollup version='1'>
+  <canonskill experience='1' expidrefs='3' idrefs='3' name='accounts payable'>
+    <variant>Accounts Payable</variant>
+  </canonskill>
+  <canonskill end='730488' experience='1' expidrefs='4' idrefs='4' lastused='2001' name='accounts receivable' start='729757'>
+    <variant>Accounts Receivable</variant>
+  </canonskill>
+  <canonskill name='adobe acrobat'>
+    <variant>Adobe Acrobat</variant>
+  </canonskill>
+  <canonskill name='adobe photoshop'>
+    <variant>Photoshop</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='brochure design' start='730853'>
+    <variant>brochures</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='catalogs' start='730853'>
+    <variant>catalogs</variant>
+  </canonskill>
+  <canonskill end='729757' experience='1' expidrefs='5' idrefs='5' lastused='1999' name='contract management' start='728661'>
+    <variant>Contracts</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='3' idrefs='3' name='counter terrorist check'>
+    <variant>SC</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='crm' start='730853'>
+    <variant>CRM</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='data entry' start='730853'>
+    <variant>Data Entry</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='department for constitutional affairs' start='730853'>
+    <variant>LCD</variant>
+  </canonskill>
+  <canonskill name='e - commerce'>
+    <variant>E-Commerce</variant>
+  </canonskill>
+  <canonskill name='ebusiness'>
+    <variant>e Business</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='erp' start='730853'>
+    <variant>ERP</variant>
+  </canonskill>
+  <canonskill name='fax'>
+    <variant>Fax</variant>
+  </canonskill>
+  <canonskill end='730488' experience='1' expidrefs='4' idrefs='4' lastused='2001' name='file management' start='729757'>
+    <variant>filing</variant>
+  </canonskill>
+  <canonskill end='730488' experience='1' expidrefs='4' idrefs='4' lastused='2001' name='general office duties' start='729757'>
+    <variant>General Office Duties</variant>
+  </canonskill>
+  <canonskill name='imageready'>
+    <variant>ImageReady</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='inside sales' start='730853'>
+    <variant>Inside Sales</variant>
+  </canonskill>
+  <canonskill end='730488' experience='1' expidrefs='3,4' idrefs='3,4' lastused='2001' name='invoicing' start='729757'>
+    <variant>Invoicing</variant>
+    <variant>invoicing</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='layout design' start='730853'>
+    <variant>layout</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='logo design' start='730853'>
+    <variant>logos</variant>
+    <variant>Logo</variant>
+  </canonskill>
+  <canonskill name='lotus 123'>
+    <variant>Lotus 123</variant>
+  </canonskill>
+  <canonskill name='macromedia'>
+    <variant>Macromedia</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='marketing' start='730853'>
+    <variant>Marketing</variant>
+  </canonskill>
+  <canonskill name='microsoft access'>
+    <variant>Access</variant>
+  </canonskill>
+  <canonskill name='microsoft excel'>
+    <variant>Excel</variant>
+  </canonskill>
+  <canonskill name='microsoft outlook'>
+    <variant>Outlook</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='microsoft powerpoint' start='730853'>
+    <variant>PowerPoint</variant>
+    <variant>power point</variant>
+  </canonskill>
+  <canonskill name='microsoft windows'>
+    <variant>Windows</variant>
+  </canonskill>
+  <canonskill name='microsoft word'>
+    <variant>Word</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='outside sales' start='730853'>
+    <variant>Outside Sales</variant>
+  </canonskill>
+  <canonskill name='pagemaker'>
+    <variant>Adobe PageMaker</variant>
+  </canonskill>
+  <canonskill end='730488' experience='1' expidrefs='3,4' idrefs='3,4' lastused='2001' name='payroll processing' start='729757'>
+    <variant>Payroll</variant>
+    <variant>payroll</variant>
+  </canonskill>
+  <canonskill name='peachtree accounting software'>
+    <variant>Peachtree Accounting</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='presentation skills' start='730853'>
+    <variant>presentations</variant>
+  </canonskill>
+  <canonskill name='press releases'>
+    <variant>press</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,4' idrefs='1,4' lastused='2012' name='problem solving' start='729757'>
+    <variant>problem solving</variant>
+    <variant>Problem Solving</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='project management' start='730853'>
+    <variant>Project Coordination</variant>
+  </canonskill>
+  <canonskill name='quickbooks'>
+    <variant>QuickBooks</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='3' idrefs='3' name='sales'>
+    <variant>Sales</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='spreadsheets' start='730853'>
+    <variant>spreadsheet</variant>
+  </canonskill>
+  <canonskill end='730488' experience='1' expidrefs='4' idrefs='4' lastused='2001' name='switchboard operator' start='729757'>
+    <variant>switchboard</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='3' idrefs='3' name='tax planning'>
+    <variant>Tax</variant>
+    <variant>Taxes</variant>
+    <variant>taxes</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='travel arrangements' start='730853'>
+    <variant>Travel Arrangements</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='troubleshooting' start='730853'>
+    <variant>Trouble Shooting</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='web site production' start='730853'>
+    <variant>Web Site</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

@@ -1,0 +1,555 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734598' xml:space='preserve'><contact><name><givenname>Dushun</givenname> <surname>Ballenger</surname></name>
+<address lat='29.5961' lon='95.515' majorcity='MISSOURI CITY' state='TX'><street>15523 Fall Briar Drive</street>
+<city>Missouri City</city>, <state abbrev='TX'>Texas</state> <postalcode>77489</postalcode></address>
+<phone>(773) 557-9969</phone>
+E-mail: <email>dballeng@yahoo.com</email></contact>
+
+<summary>Objective:	<objective>To obtain a position as a LAN/WAN Administrator/Support/Engineer where my experience, training and dedication will allow me the opportunity for professional growth.</objective>
+
+Career Summary:	<summary>Certified Information Technology (IT) Professional with 12 years of diversified IT experience as a LAN Administrator, Network Professional and Network Engineer with a strong LAN/WAN infrastructure background. Proficient with various Cisco network devices as well as Microsoft Windows platforms. A solid background in network installations, configurations, troubleshooting, network design, implementation and monitoring. Obtained Microsoft's and Cisco's certifications through job experience. An excellent team player, who works well independently, understands technology and a knack for resolving network problems, exhibiting extreme excellence in those regards.</summary></summary>  
+
+
+
+<skills>Knowledge and Skills:
+
+
+Routing Protocols Technology: <skills>IP, BGP4, OSPF, RIP, IGRP, EIGRP, ODR  
+
+Data Communications: PPP, Frac T1, T1, T3, OC-3 (SONET), E1, DSL, ATM, Frame Relay, ISDN,
+                                       POTS, MPLS, VPN
+
+TCP/IP Protocol Suite: OSI/DOD model, IP, TCP, UDP, ARP, ICMP, IP Addressing/Subnetting</skills></skills>
+
+<experience>Cisco Routers: 1600, 1700, 2600, 3600, 3700, 3800, 7200 and 7500 series
+
+Cisco LAN Switches: <description>2900XL, 3524XL , 3550XL, 3560, 3750, 4000, 4500, 5000, 6000 and 6500 series 
+
+3COM Switches: 600, 3300XL
+
+Foundry Server Irons: 400</description></experience>
+
+<skills>Tools:  <skills>TNG, TNG 2D MAP, NAI Sniffer Pro, Unicenter Service Desk, RouterPM, TREND, SNMP, 
+             DHCP, DNS, LMS, Router management (Cisco Works 3.0 &amp; 3.02, LMS), Netflow Analyzer 7
+
+LAN Topologies:  Ethernet, Fast Ethernet, Gigabit Ethernet,  Wireless 802.11a/b/g, FDDI
+
+Cisco Features: HSRP, VRRP, VLAN, VTP, STP, Access List, NAT/PAT, CDP, Multicast
+
+Software Applications: MS-OFFICE 2007 (Word, Excel, PowerPoint, Outlook, Visio)</skills></skills>
+
+
+
+
+
+
+
+<experience end='present' start='727717'>Professional Experience:
+
+<job end='present' id='1' pos='1' sic='781211' sic2='78' start='734383'><daterange><start days='734383' iso8601='2011-09-01'>09/11</start> - <end days='present' iso8601='2012-04-03'>Present</end></daterange>	<title>HP / Consultant</title> of Go Tech Now (<employer>GTN</employer></job>)
+		<job id='2'><title>Network Architect</title>
+<description>Responsible for the global data center migrations, consolidations and deployment at the enterprise level for HP clients worldwide 
+		Duties include:		
+     Schedule meetings with clients to fully understanding their existing network 
+       compartments and topology
+     Order new circuits for clients' and schedule installation and test and turn-up
+Review and submit firewall rules changes for new clients' firewall compartment
+Review and implement network changes for new clients' network compartment
+Review and submit cabling requests (fiber and cat6) for clients' server farm compartment
+Review and submit new IP subnet scheme for new clients' compartment
+Review and submit new DNS entries for new clients' compartment
+Create new Visio network topology diagram detailing new network topology for clients' compartment   
+Schedule connectivity testing with client to validate new network compartment build
+Schedule and coordinate equipment move to new data center and test connectivity
+Experience with MPLS networks
+Experience with Cisco Routers and Switches configurations and troubleshooting
+Solid understanding of all routing protocols (EIGRP, OSPF and BGP)</description></job>
+
+
+<job end='734383' id='3' pos='2' sic='519113' sic2='51' start='733865'><daterange><start days='733865' iso8601='2010-04-01'>04/10</start> - <end days='734383' iso8601='2011-09-01'>09/11</end></daterange>	<title>Walgreens / Consultant of Analyst</title> in Motion (<employer>AIM</employer></job>)
+		<job id='4'><title>Senior Network Technician</title>
+<description>Responsible for troubleshooting, maintaining and supporting all network systems to ensure overall availability of Walgreen's network 
+		Duties include:		
+     Identify, troubleshoot and work with Walgreens' DTR Personnel to resolve all  
+       network related problems and outages
+     Ticket handling, internal/external escalations, vendor engagement and    
+       communication
+Proactively monitor the LAN/WAN infrastructure for connectivity problems, performance issues and outages
+Experience with Mid-size to large size networks
+Configuration and troubleshooting of Cisco routers, switches, Hughes Satellite HN7700, Fortinet/FortiGate, Wireless Access Points, Wavelink WS2000 Wireless Switches equipment
+Experience with Domain Name System (DNS), Dynamic Host Configuration Protocol (DHCP), Hot Standby Router Protocol (HSRP), Network Address Translation (NAT), Virtual LANs (VLANS), Access List (ACL) and Layer 2 Ethernet switching
+Solid understanding of all routing protocols (EIGRP, OSPF and BGP)
+Experience troubleshooting Telco circuits (Frame Relay, T1, T3, OCx and MPLS)
+Knowledge of Cisco's Voice Over IP (VoIP) and Quality of Service (QoS) Technologies
+Experience with the following monitoring tools (EMC Smarts, SNMPc, Hughes Vision Elements)
+Working knowledge of the following Applications: MS-OFFICE 2010, Telnet, SSH, Network Authority, SNMPc, ZOC, BMC Remedy, Lotus Notes, Interaction Client, Hughes Vision Elements, DNS, DHCP, Managed Switch Port Mapping Tool,</description></job>
+
+<job end='733653' id='5' naics='54161401' naics2='54' pos='3' sic='637102' sic2='63' start='733257'><daterange><start days='733257' iso8601='2008-08-01'>08/08</start> - <end days='733653' iso8601='2009-09-01'>09/09</end></daterange>	<employer>Towers Perrin</employer> (<employer>TP</employer>) account of EDS
+                             <title>EDS Network Engineer</title>
+                             <description>Responsible for designing, implementing, supporting, troubleshooting and maintaining 			Towers Perrin (TP) LAN/WAN infrastructure.
+Duties include:
+    Identifying, diagnosing and resolving network problems.
+    Create and maintain comprehensive design packages for all TP implemented
+      networks.
+Assist in preparation of technical design proposal and solutions presentation.
+Maintain and support TP LAN/WAN environment
+Participate in discussions of all assigned projects 
+Planning and Implementing project work as well as incident/change requests.
+Coordinate, schedule and participate in scheduled maintenance window calls to implement a TP site.
+Ensuring the smooth operation of TP network in order to provide maximum performance and availability to the customer.
+Supported, implemented and configured the following platforms: Cisco IOS routers, wireless access points and switches, Cisco ACS, Cisco Works, Foundry (Layer 4) Server Irons, Netflow 7, MS Windows NT/XP/2000/2003, Checkpoint Firewall, VPN, TCP/IP, SNMP, DHCP and DNS.</description></job>  
+
+                      
+
+<job end='733257' id='6' pos='4' sic='801101' sic2='80' start='732130'><daterange><start days='732130' iso8601='2005-07-01'>07/05</start> - <end days='733257' iso8601='2008-08-01'>08/08</end></daterange>	<employer>United Airlines</employer> (<employer>UA</employer>) account of EDS - <address><city>Elk Grove Village</city>, <state abbrev='IL'>IL</state></address>
+		<title>EDS Network Engineer / Designer</title>
+<description>Responsible for creating design packages for the LAN Refresh, MPLS and Service Requests Projects at the various Airports, remote offices and 3rd Party facilities for United Airlines. 
+Duties include:
+    Create design packages that defines the design scope, standards, objectives and requirements of the project
+    Review existing site diagrams and site surveys and make recommendations on network equipment, LAN topologies, routing protocols and WAN technologies
+  Determine circuit provisioning requirements
+  Determine IP subnet requirements for each facility
+  Investigate, determine and order the necessary bill of materials for each facility
+  Design and create Visio diagrams and Word documentations that introduces the new technology at each facility
+  Compose procedural documentations for field representatives to follow when rack mounting or cabling the equipment
+  Create various configurations templates for Cisco routers and switches	
+  Determine network firewall rules for each facility and submit requests to security team to implement
+   Schedule and attend design peer review meetings to review designs before they are submitted to the Implementation team
+   Supported, implemented and configured the following platforms: Cisco IOS routers, wireless access points and switches, Cisco Works, Foundry (Layer 4) Server Irons, Netflow 7, MS Windows NT/XP/2000/2003, Checkpoint Firewall, VPN, TCP/IP, SNMP, DHCP and DNS.</description></job>  
+ 							
+
+
+
+
+
+<job end='732100' id='7' naics='45211101' naics2='45' pos='5' sic='616201' sic2='61' start='732069'><daterange><start days='732069' iso8601='2005-05-01'>05/05</start> - <end days='732100' iso8601='2005-06-01'>6/05</end></daterange>	<employer>Sears, Roebuck &amp; Co</employer>. - <address><city>Hoffman Estates</city>, <state abbrev='IL'>IL</state></address>
+		<title>Network Engineer</title>
+		<description>Responsible for the life cycle of the Sears/Kmart migration projects. Duties include:
+	Define and validate network needs and changes to support business applications projects
+    Define, recommend and implement network design standards for customer business
+      operations
+    Determine network routing, switching and load balancing requirements and solutions
+      for Sears Network
+    Determine network firewall and security requirements and solution per CSC IT
+      standards
+    Design, test and analyze LAN and WAN solutions for use in customers business
+      operations.
+    Work closely with Customers business contacts and Engineers to ensure a dependable
+      solution is deployed and transitioned to Network Management Center.
+    Provide 3rd tier support of various network solutions as part of CSC's Network
+      Engineering activities					Contractor for T.C.M.L.</description></job>
+		
+<job end='732039' id='8' naics='52421001' naics2='52' pos='6' sic='641112' sic2='64' start='730243'><daterange><start days='730243' iso8601='2000-05-01'>05/00</start> - <end days='732039' iso8601='2005-04-01'>04/05</end></daterange>	<employer>Allstate Insurance Co</employer>. - <address><city>Northbrook</city>, <state abbrev='IL'>IL.</state></address>
+		<employer>Network Professional</employer>	
+<description>Responsible for supporting 5 Data Centers and 3000 remote locations in a 24 by 7 operations. Duties includes:  monitoring, installation, maintenance, configuration and troubleshooting of Cisco Routers and Switches as well as other Layer 2 devices such as 3COM switches and foundry server irons.
+Responsibility involved:
+Troubleshoot and resolve all network related problems
+Monitor the LAN/WAN infrastructure for connectivity problems, performance issues and outages
+Ticket Handling, escalation, vendor engagement and communication
+Service restoration, break/fix activities and change control activities
+Perform DNS and DHCP changes and additions
+Perform sniffer traces on sites with performance problems
+Solid understanding of all routing protocols (OSPF, BGP, EIGRP, RIP)
+Experience with various Telco circuits (Frame Relay, ISDN, T1, PPP, SONET)</description></job>
+
+<job end='730243' id='9' pos='7' sic='737103' sic2='73' start='729573'><daterange><start days='729573' iso8601='1998-07-01'>7/98</start> - <end days='730243' iso8601='2000-05-01'>05/00</end></daterange>	<employer>Forsythe Solutions Group</employer> - <address><city>Skokie</city>, <state abbrev='IL'>IL.</state></address>
+		<title>LAN Administrator</title>
+		<description>Provided support for Microsoft's products and LAN/WAN administration.
+		Responsibility involved:
+Installation and configuration of DHCP, WINS, DNS, RAS and IIS Servers
+Traveled to remote offices and implemented company's network environment by configuring Cisco Routers to connect to 56K Frame Relay, T1 and ISDN lines to be routed back to main office.
+Understand dynamic and static configuration of TCP/IP protocols and subnetting.
+Generated and supported NT Servers and Workstations for various departments
+Perform daily backups on NT Servers using Cheyenne ArcServe for NT.
+Setup, configure and tested IBM ThinkPad and HP Vectras desktops for employees and consultants
+Migrated Novell Servers to NT Servers
+Created  accounts, logon scripts, user profiles and hardware profiles for various departments
+Supported 1000 users and client workstations</description></job>
+
+
+<job end='729300' id='10' pos='8' sic='999999' sic2='99' start='729270'><daterange><start days='729270' iso8601='1997-09-01'>9/97</start> - <end days='729300' iso8601='1997-10-01'>10/97</end></daterange>	<employer>Oppenheimer Inc</employer>. - <address><city>Chicago</city>, <state abbrev='IL'>IL.</state></address>
+	<title>Network Technician</title>
+	<description>Installation and configuration of Windows NT Workstations.
+	Install/configure TCP/IP and software applications.
+	Create/Modify/Delete user's accounts, profiles and logon scripts.
+	Troubleshoot LAN connectivity			Consultant for R.H.I.</description></job>
+
+<job end='729239' id='11' pos='9' sic='811103' sic2='81' start='729178'><daterange><start days='729178' iso8601='1997-06-01'>6/97</start> - <end days='729239' iso8601='1997-08-01'>8/97</end></daterange>	<employer>Sidley &amp; Austin</employer> - <address><city>Chicago</city>, <state abbrev='IL'>IL.</state></address>
+	Desktop Support
+	<description>Provide in-house support to users over the telephone with software and hardware issues.
+	Supported MS-OFFICE and WordPerfect Suite.	Consultant for Sierra Systems</description></job>
+
+<job end='729147' id='12' pos='10' sic='602101' sic2='60' start='729027'><daterange><start days='729027' iso8601='1997-01-01'>1/97</start> - <end days='729147' iso8601='1997-05-01'>5/97</end></daterange>	<employer>First Bank of Oak Park</employer> - <address><city>Oak Park</city>, <state abbrev='IL'>IL.</state></address>
+	AS/400 <title>Computer Operator</title>
+	<description>Responsible for performing system backups, report distribution and processing batch jobs.
+	Assisted network administrators with the setup, install, and configure of new desktop computers.</description></job>
+
+<job end='728996' id='13' pos='11' sic='822101' sic2='82' start='728661'><daterange><start days='728661' iso8601='1996-01-01'>1/96</start> - <end days='728996' iso8601='1996-12-01'>12/96</end></daterange>	<employer>Chicago State University</employer> - <address><city>Chicago</city>, <state abbrev='IL'>IL.</state></address>
+	<title>Computer Lab Assistant</title>
+	<description>Assisted students with software, hardware, online applications and printing questions and problems.
+	Trained students and faculty how to use word processors, databases, spreadsheets, Internet, programming languages and desktop publishing programs.
+	Maintained and repaired equipment</description></job>
+
+<job end='728508' id='14' pos='12' sic='733101' sic2='73' start='727717'><daterange><start days='727717' iso8601='1993-06-01'>6/93</start> - <end days='728508' iso8601='1995-08-01'>8/95</end></daterange>	<employer>Advance Presort Service</employer> - <address><city>Chicago</city>, <state abbrev='IL'>IL.</state></address>
+	<title>PC Technician</title>
+	<description>Responsible for install, setup, configure, upgrade and repair of various Microcomputers and printers.
+	Assisted departmental staff with various software and hardware issues.
+	Design and implemented programs for inventory control.</description></job></experience>
+
+<education>Education:	<school id='15'><degree level='16' name='Bachelor of Science'>Bachelor of Science</degree> in <major code='0402'>Computer Science</major>
+	<institution>Chicago State University</institution> - <address><city>Chicago</city>, <state abbrev='IL'>IL.</state></address>
+
+Certifications:
+<courses>A+ Certified Service Technician (Verification#  BC2DTT0810)
+Microsoft Certified Professional (MCP)
+Microsoft Certified Professional + Internet (MCP+I)
+Microsoft Certified System Engineer (MCSE) - (MCP ID# 1041000)
+Cisco Certified Network Associate (CCNA) - (Cisco ID# CSCO10069048)
+Cisco Certified Network Professional (CCNP) - (Cisco ID# CSCO10069048)</courses></school></education>
+
+<references>References:	Available upon request.</references>
+</resume>
+
+<skillrollup version='1'>
+  <canonskill education='1' eduidrefs='15' idrefs='15' name='a + certified'>
+    <variant>A+ Certified</variant>
+  </canonskill>
+  <canonskill end='730243' experience='1' expidrefs='9' idrefs='9' lastused='2000' name='arcserve' start='729573'>
+    <variant>ArcServe</variant>
+  </canonskill>
+  <canonskill name='atm'>
+    <variant>ATM</variant>
+  </canonskill>
+  <canonskill end='732039' experience='1' expidrefs='2,4,8' idrefs='2,4,8' lastused='2005' name='bgp' start='730243'>
+    <variant>BGP4</variant>
+    <variant>BGP</variant>
+  </canonskill>
+  <canonskill end='732100' experience='1' expidrefs='7' idrefs='7' lastused='2005' name='business operations' start='732069'>
+    <variant>business
+      operations</variant>
+  </canonskill>
+  <canonskill end='732100' experience='1' expidrefs='7' idrefs='7' lastused='2005' name='c' start='732069'>
+    <variant>C</variant>
+  </canonskill>
+  <canonskill end='733257' experience='1' expidrefs='2,6' idrefs='2,6' lastused='2008' name='cabling' start='732130'>
+    <variant>cabling</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='15' idrefs='15' name='ccna'>
+    <variant>CCNA</variant>
+    <variant>Cisco Certified Network Associate</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='15' idrefs='15' name='ccnp'>
+    <variant>CCNP</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='15' end='733653' experience='1' expidrefs='4,5' idrefs='4,5,15' lastused='2009' name='cisco' start='733257'>
+    <variant>Cisco</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='15' idrefs='15' name='cisco certified'>
+    <variant>Cisco Certified</variant>
+  </canonskill>
+  <canonskill end='733653' experience='1' expidrefs='5,6' idrefs='5,6' lastused='2009' name='cisco ios' start='732130'>
+    <variant>Cisco IOS</variant>
+  </canonskill>
+  <canonskill end='733257' experience='1' expidrefs='2,4,6,8,9' idrefs='2,4,6,8,9' lastused='2008' name='cisco routers' start='729573'>
+    <variant>Cisco Routers</variant>
+    <variant>Cisco routers</variant>
+  </canonskill>
+  <canonskill end='733653' experience='1' expidrefs='5,6' idrefs='5,6' lastused='2009' name='cisco works' start='732130'>
+    <variant>Cisco Works 3.0</variant>
+    <variant>Cisco Works</variant>
+  </canonskill>
+  <canonskill end='730243' experience='1' expidrefs='9,11,13,14' idrefs='9,11,13,14' lastused='2000' name='computer hardware' start='727717'>
+    <variant>hardware</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='4' idrefs='4' name='computer networking'>
+    <variant>network systems</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='2' idrefs='2' name='consolidations'>
+    <variant>consolidations</variant>
+  </canonskill>
+  <canonskill end='729300' experience='1' expidrefs='10,11' idrefs='10,11' lastused='1997' name='consulting' start='729178'>
+    <variant>Consultant</variant>
+  </canonskill>
+  <canonskill end='730243' experience='1' expidrefs='2,4,9' idrefs='2,4,9' lastused='2000' name='customer relations' start='729573'>
+    <variant>Client</variant>
+    <variant>client</variant>
+    <variant>clients</variant>
+  </canonskill>
+  <canonskill name='data communications'>
+    <variant>Data Communications</variant>
+  </canonskill>
+  <canonskill end='728996' experience='1' expidrefs='13' idrefs='13' lastused='1996' name='database administration' start='728661'>
+    <variant>databases</variant>
+  </canonskill>
+  <canonskill end='732100' experience='1' expidrefs='7' idrefs='7' lastused='2005' name='dependable' start='732069'>
+    <variant>dependable</variant>
+  </canonskill>
+  <canonskill end='733653' experience='1' expidrefs='5' idrefs='5' lastused='2009' name='design' start='733257'>
+    <variant>designing</variant>
+  </canonskill>
+  <canonskill end='730243' experience='1' expidrefs='9' idrefs='9' lastused='2000' name='desktop pc' start='729573'>
+    <variant>desktops</variant>
+  </canonskill>
+  <canonskill end='728996' experience='1' expidrefs='13' idrefs='13' lastused='1996' name='desktop publishing' start='728661'>
+    <variant>desktop publishing</variant>
+  </canonskill>
+  <canonskill end='733653' experience='1' expidrefs='4,5,6,8,9' idrefs='4,5,6,8,9' lastused='2009' name='dhcp' start='729573'>
+    <variant>DHCP</variant>
+    <variant>Dynamic Host Configuration Protocol</variant>
+  </canonskill>
+  <canonskill end='733653' experience='1' expidrefs='2,4,5,6,8,9' idrefs='2,4,5,6,8,9' lastused='2009' name='dns' start='729573'>
+    <variant>DNS</variant>
+  </canonskill>
+  <canonskill name='dsl'>
+    <variant>DSL</variant>
+  </canonskill>
+  <canonskill end='732039' experience='1' expidrefs='2,4,8' idrefs='2,4,8' lastused='2005' name='eigrp' start='730243'>
+    <variant>EIGRP</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='15' idrefs='15' name='engineering'>
+    <variant>Engineer</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='4' idrefs='4' name='ethernet'>
+    <variant>Ethernet</variant>
+  </canonskill>
+  <canonskill name='fast ethernet'>
+    <variant>Fast Ethernet</variant>
+  </canonskill>
+  <canonskill name='fddi'>
+    <variant>FDDI</variant>
+  </canonskill>
+  <canonskill name='features'>
+    <variant>Features</variant>
+  </canonskill>
+  <canonskill end='733653' experience='1' expidrefs='2,5,6,7' idrefs='2,5,6,7' lastused='2009' name='firewalls' start='732069'>
+    <variant>Firewall</variant>
+    <variant>firewall</variant>
+  </canonskill>
+  <canonskill end='732039' experience='1' expidrefs='4,8,9' idrefs='4,8,9' lastused='2005' name='frame relay' start='729573'>
+    <variant>Frame Relay</variant>
+  </canonskill>
+  <canonskill end='730243' experience='1' expidrefs='2,9' idrefs='2,9' lastused='2000' name='hewlett packard' start='729573'>
+    <variant>HP</variant>
+  </canonskill>
+  <canonskill end='730243' experience='1' expidrefs='9' idrefs='9' lastused='2000' name='ibm' start='729573'>
+    <variant>IBM</variant>
+  </canonskill>
+  <canonskill end='730243' experience='1' expidrefs='9' idrefs='9' lastused='2000' name='iis' start='729573'>
+    <variant>IIS</variant>
+  </canonskill>
+  <canonskill end='728508' experience='1' expidrefs='14' idrefs='14' lastused='1995' name='inventory management' start='727717'>
+    <variant>inventory control</variant>
+  </canonskill>
+  <canonskill end='733257' experience='1' expidrefs='2,6' idrefs='2,6' lastused='2008' name='ip' start='732130'>
+    <variant>IP</variant>
+  </canonskill>
+  <canonskill end='732039' experience='1' expidrefs='8,9' idrefs='8,9' lastused='2005' name='isdn' start='729573'>
+    <variant>ISDN</variant>
+  </canonskill>
+  <canonskill end='733653' experience='1' expidrefs='4,5,6,7,8,9,10' idrefs='4,5,6,7,8,9,10' lastused='2009' name='lan' start='729270'>
+    <variant>LANs</variant>
+    <variant>LAN</variant>
+  </canonskill>
+  <canonskill end='728996' experience='1' expidrefs='13' idrefs='13' lastused='1996' name='languages' start='728661'>
+    <variant>languages</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='4' idrefs='4' name='lotus notes'>
+    <variant>Lotus Notes</variant>
+  </canonskill>
+  <canonskill end='733257' experience='1' expidrefs='6' idrefs='6' lastused='2008' name='materials management' start='732130'>
+    <variant>materials</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='15' idrefs='15' name='mcp + i'>
+    <variant>MCP+I</variant>
+  </canonskill>
+  <canonskill end='733257' experience='1' expidrefs='2,6' idrefs='2,6' lastused='2008' name='meeting facilitation' start='732130'>
+    <variant>meetings</variant>
+  </canonskill>
+  <canonskill end='728508' experience='1' expidrefs='14' idrefs='14' lastused='1995' name='microcomputers' start='727717'>
+    <variant>Microcomputers</variant>
+  </canonskill>
+  <canonskill end='733653' experience='1' expidrefs='4,5,6' idrefs='4,5,6' lastused='2009' name='microsoft access' start='732130'>
+    <variant>Access</variant>
+    <variant>access</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='15' idrefs='15' name='microsoft certified professional'>
+    <variant>Microsoft Certified Professional</variant>
+    <variant>MCP</variant>
+    <variant>Microsoft Certified</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='15' idrefs='15' name='microsoft certified systems engineer'>
+    <variant>MCSE</variant>
+  </canonskill>
+  <canonskill name='microsoft excel'>
+    <variant>Excel</variant>
+  </canonskill>
+  <canonskill end='730243' experience='1' expidrefs='4,9,11' idrefs='4,9,11' lastused='2000' name='microsoft office' start='729178'>
+    <variant>MS-OFFICE</variant>
+    <variant>office</variant>
+  </canonskill>
+  <canonskill name='microsoft outlook'>
+    <variant>Outlook</variant>
+  </canonskill>
+  <canonskill name='microsoft powerpoint'>
+    <variant>PowerPoint</variant>
+  </canonskill>
+  <canonskill end='733653' experience='1' expidrefs='5' idrefs='5' lastused='2009' name='microsoft windows' start='733257'>
+    <variant>window</variant>
+  </canonskill>
+  <canonskill end='733653' experience='1' expidrefs='5,6' idrefs='5,6' lastused='2009' name='microsoft windows 2000' start='732130'>
+    <variant>2000</variant>
+  </canonskill>
+  <canonskill end='733653' experience='1' expidrefs='5,6,9,10' idrefs='5,6,9,10' lastused='2009' name='microsoft windows nt' start='729270'>
+    <variant>MS Windows NT</variant>
+    <variant>NT</variant>
+    <variant>Windows NT</variant>
+  </canonskill>
+  <canonskill end='733257' experience='1' expidrefs='6' idrefs='6' lastused='2008' name='microsoft word' start='732130'>
+    <variant>Word</variant>
+  </canonskill>
+  <canonskill end='732100' experience='1' expidrefs='7' idrefs='7' lastused='2005' name='migration' start='732069'>
+    <variant>migration</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='2' idrefs='2' name='netscape enterprise server'>
+    <variant>enterprise</variant>
+  </canonskill>
+  <canonskill end='732100' experience='1' expidrefs='7' idrefs='7' lastused='2005' name='network administration' start='732069'>
+    <variant>Network Management</variant>
+  </canonskill>
+  <canonskill end='732100' experience='1' expidrefs='7' idrefs='7' lastused='2005' name='network engineering' start='732069'>
+    <variant>Network
+      Engineering</variant>
+    <variant>network design</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='15' end='733653' experience='1' expidrefs='2,4,5,6,7,8,9,12' idrefs='2,4,5,6,7,8,9,12,15' lastused='2009' name='networking' start='729027'>
+    <variant>Network</variant>
+    <variant>network</variant>
+    <variant>networks</variant>
+  </canonskill>
+  <canonskill end='730243' experience='1' expidrefs='9' idrefs='9' lastused='2000' name='novell servers' start='729573'>
+    <variant>Novell Servers</variant>
+  </canonskill>
+  <canonskill end='730243' experience='1' expidrefs='9' idrefs='9' lastused='2000' name='nt servers' start='729573'>
+    <variant>NT Servers</variant>
+  </canonskill>
+  <canonskill name='osi'>
+    <variant>OSI</variant>
+  </canonskill>
+  <canonskill end='732039' experience='1' expidrefs='2,4,8' idrefs='2,4,8' lastused='2005' name='ospf' start='730243'>
+    <variant>OSPF</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='4' idrefs='4' name='personnel'>
+    <variant>Personnel</variant>
+  </canonskill>
+  <canonskill end='732039' experience='1' expidrefs='8' idrefs='8' lastused='2005' name='ppp' start='730243'>
+    <variant>PPP</variant>
+  </canonskill>
+  <canonskill end='728508' experience='1' expidrefs='14' idrefs='14' lastused='1995' name='printers' start='727717'>
+    <variant>printers</variant>
+  </canonskill>
+  <canonskill end='728996' experience='1' expidrefs='13' idrefs='13' lastused='1996' name='programming' start='728661'>
+    <variant>programming</variant>
+  </canonskill>
+  <canonskill end='733653' experience='1' expidrefs='5' idrefs='5' lastused='2009' name='proposal writing' start='733257'>
+    <variant>proposal</variant>
+  </canonskill>
+  <canonskill end='733257' experience='1' expidrefs='2,4,6,8,9' idrefs='2,4,6,8,9' lastused='2008' name='protocols' start='729573'>
+    <variant>Protocols</variant>
+    <variant>protocols</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='4' idrefs='4' name='quality'>
+    <variant>Quality</variant>
+  </canonskill>
+  <canonskill end='730243' experience='1' expidrefs='9' idrefs='9' lastused='2000' name='ras' start='729573'>
+    <variant>RAS</variant>
+  </canonskill>
+  <canonskill end='732039' experience='1' expidrefs='8' idrefs='8' lastused='2005' name='rip' start='730243'>
+    <variant>RIP</variant>
+  </canonskill>
+  <canonskill end='733653' experience='1' expidrefs='2,4,5,6,7,8' idrefs='2,4,5,6,7,8' lastused='2009' name='routers' start='730243'>
+    <variant>Router</variant>
+    <variant>routers</variant>
+    <variant>Routing</variant>
+    <variant>routing</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='2' idrefs='2' name='scheme'>
+    <variant>scheme</variant>
+  </canonskill>
+  <canonskill end='730243' experience='1' expidrefs='9' idrefs='9' lastused='2000' name='servers' start='729573'>
+    <variant>Servers</variant>
+  </canonskill>
+  <canonskill end='730243' experience='1' expidrefs='9,10' idrefs='9,10' lastused='2000' name='shell scripting' start='729270'>
+    <variant>scripts</variant>
+  </canonskill>
+  <canonskill end='733653' experience='1' expidrefs='5,6' idrefs='5,6' lastused='2009' name='snmp' start='732130'>
+    <variant>SNMP</variant>
+  </canonskill>
+  <canonskill end='732039' experience='1' expidrefs='8' idrefs='8' lastused='2005' name='sonet' start='730243'>
+    <variant>SONET</variant>
+  </canonskill>
+  <canonskill end='728996' experience='1' expidrefs='13' idrefs='13' lastused='1996' name='spreadsheets' start='728661'>
+    <variant>spreadsheets</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='4' idrefs='4' name='ssh'>
+    <variant>SSH</variant>
+  </canonskill>
+  <canonskill end='733653' experience='1' expidrefs='2,4,5,6,8' idrefs='2,4,5,6,8' lastused='2009' name='switches' start='730243'>
+    <variant>Switches</variant>
+    <variant>switches</variant>
+    <variant>Switch</variant>
+  </canonskill>
+  <canonskill end='732039' experience='1' expidrefs='4,8,9' idrefs='4,8,9' lastused='2005' name='t1' start='729573'>
+    <variant>T1</variant>
+  </canonskill>
+  <canonskill end='733653' experience='1' expidrefs='5,6,9,10' idrefs='5,6,9,10' lastused='2009' name='tcp/ip' start='729270'>
+    <variant>TCP/IP</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='15' idrefs='15' name='technician'>
+    <variant>Technician</variant>
+  </canonskill>
+  <canonskill end='729239' experience='1' expidrefs='11' idrefs='11' lastused='1997' name='telephone skills' start='729178'>
+    <variant>telephone</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='4' idrefs='4' name='telnet'>
+    <variant>Telnet</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='4' idrefs='4' name='translation'>
+    <variant>Translation</variant>
+  </canonskill>
+  <canonskill name='trend'>
+    <variant>TREND</variant>
+  </canonskill>
+  <canonskill end='733653' experience='1' expidrefs='2,4,5,8,10' idrefs='2,4,5,8,10' lastused='2009' name='troubleshooting' start='729270'>
+    <variant>Troubleshoot</variant>
+    <variant>troubleshoot</variant>
+    <variant>troubleshooting</variant>
+  </canonskill>
+  <canonskill end='728508' experience='1' expidrefs='14' idrefs='14' lastused='1995' name='upgrades' start='727717'>
+    <variant>upgrade</variant>
+  </canonskill>
+  <canonskill end='733257' experience='1' expidrefs='2,6' idrefs='2,6' lastused='2008' name='visio' start='732130'>
+    <variant>Visio</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='4' idrefs='4' name='vision'>
+    <variant>Vision</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='4' idrefs='4' name='voip'>
+    <variant>Voice Over IP</variant>
+    <variant>VoIP</variant>
+  </canonskill>
+  <canonskill end='733653' experience='1' expidrefs='5,6' idrefs='5,6' lastused='2009' name='vpn' start='732130'>
+    <variant>VPN</variant>
+  </canonskill>
+  <canonskill end='733653' experience='1' expidrefs='4,5,6,7,8,9' idrefs='4,5,6,7,8,9' lastused='2009' name='wan' start='729573'>
+    <variant>WAN</variant>
+  </canonskill>
+  <canonskill end='728996' experience='1' expidrefs='13' idrefs='13' lastused='1996' name='word processing' start='728661'>
+    <variant>word processors</variant>
+  </canonskill>
+  <canonskill end='729239' experience='1' expidrefs='11' idrefs='11' lastused='1997' name='wordperfect' start='729178'>
+    <variant>WordPerfect Suite</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734597' xml:space='preserve'>                                                         <contact><name><givenname>Alyssa</givenname> <surname>Ramirez</surname></name>
+                                                             <email>abr1@rice.edu</email>
+School Address:                                                                              Permanent Address:
+<address lat='29.7173' lon='95.4234' majorcity='HOUSTON' state='TX'><street>Wiess College.                                                                               516 Oakdale Ct.
+6340 Main St.</street>, <city>Houston</city>, <state abbrev='TX'>TX</state> <postalcode>77005</postalcode>                                                             <city>Burleson</city>, TX <postalcode>76028</postalcode></address>
+C: <phone type='cell'>(817)228-8350</phone>                                                                             H: <phone type='home'>(817)426-1567</phone></contact>   ___________
+<education>Education:         <school id='9'><institution>Rice University</institution>, <address><city>Houston</city>, <state abbrev='TX'>Texas</state></address>
+                   <degree level='16' name='Bachelor of Arts'>Bachelor of Arts</degree> in <major code='2016'>Psychology</major>                                            <completiondate>May 2012</completiondate>
+
+                   <description>Universidade Federal da Bahia, Salvador, Brazil
+                   Coursework in Portuguese Language and Brazilian Culture                   February 2011- June 2011</description></school></education>
+<experience end='present' start='733441'>Experience:
+<job end='present' id='1' naics='61131009' naics2='61' pos='1' sic='822101' sic2='82' start='733926'><employer>Rice University Recreation Center</employer> (<address><city>Houston</city>, <state abbrev='TX'>Texas</state></address>)                                       <daterange><start days='734321' iso8601='2011-07-01'>July 2011</start> ­ <end days='present' iso8601='2012-04-02'>Present</end></daterange>; <daterange><start days='733926' iso8601='2010-06-01'>June 2010</start> ­ <end days='734109' iso8601='2010-12-01'>December 2010</end></daterange>
+<title>Office Assistant</title>: <description>Facilitate the sale of memberships while handling payments and maintaining a membership database. Calculate
+monthly faculty and staff membership dues. Assist in maintenance of accounts receivable and accounts payable records. Prepare
+personnel action forms. Answer routine inquiries from phone callers and walk-in clients. Give tours of the facility. Assist in planning
+and organizing for the Summer Youth Activity Program.</description></job>
+
+<job end='733865' id='2' pos='4' sic='794103' sic2='79' start='733806'><employer>Houston Rockets</employer>                                                                     <daterange><start days='733806' iso8601='2010-02-01'>February 2010</start>-<end days='733865' iso8601='2010-04-01'>April 2010</end></daterange>
+<title>Human Resources Intern</title>: <description>Conducted orientations for Houston Rockets basketball players. Audited new hire and termination files to
+ensure legal compliance of required documentation.</description></job>
+
+<job end='733744' id='3' naics='61131009' naics2='61' pos='5' sic='822101' sic2='82' start='733622'><employer>Rice University Sports Medicine</employer> (<address><city>Houston</city>, <state abbrev='TX'>Texas</state></address>)                                        <daterange><start days='733622' iso8601='2009-08-01'>August 2009</start> ­ <end days='733744' iso8601='2009-12-01'>December 2009</end></daterange>
+<title>Student Athletic Trainer</title>: <description>Set up and broke down equipment for daily football practices and weekend football games. In charge of
+packing and unpacking equipment for each game. Assisted with and monitored pre-game IVs. Attended to needs of coaches and
+players during practices and games.</description></job>
+
+<job end='733591' id='4' naics='61131009' naics2='61' pos='6' sic='822101' sic2='82' start='733561'><employer>Rice University Recreation Center</employer> (<address><city>Houston</city>, <state abbrev='TX'>Texas</state></address>)                                  <daterange><start days='733561' iso8601='2009-06-01'>June 2009</start> ­ <end days='733591' iso8601='2009-07-01'>July 2009</end></daterange>
+Summer <title>Youth Activity Program Counselor</title>: <description>Supervised a group of twenty children throughout each activity. Assisted teachers with
+activities. Recognized as an outstanding counselor of a session.</description></job>
+
+Community Service and Volunteer Work:
+<job end='734291' id='5' pos='2' start='734199'><employer>Siloé Community Center</employer>                                                              <daterange><start days='734199' iso8601='2011-03-01'>March 2011</start> ­ <end days='734291' iso8601='2011-06-01'>June 2011</end></daterange>
+English as a Second Language <title>Co-instructor</title>: <description>Developed lesson plans aimed at improving the English skills of students (ages 6-8).
+Instructed students in the English language.</description></job>
+
+<job end='734109' id='6' pos='3' start='733987'><employer>Houston Texans</employer>                                                                       <daterange><start days='733987' iso8601='2010-08-01'>August 2010</start> ­ <end days='734109' iso8601='2010-12-01'>December 2010</end></daterange>
+<description>Community Affairs Silent Auction Volunteer: Set up and broke down silent auction booth for home football games. Answered
+routine inquiries from customers. Processed and handled payments of auctioned items.</description></job>
+
+<job id='7' sic='7532' sic2='75' start='733806'><employer>Love Your Body Monologues</employer> (<address><city>Houston</city>, <state abbrev='TX'>Texas</state></address>)                                           <daterange><start days='733806' iso8601='2010-02-01'>February 2010</start></daterange>
+LYBM <title>Co-coordinator</title>: <description>Selected pieces performed. Matched actors to each piece. Planned, organized, and managed the production
+and promotion of LYBM, which resulted in an increase of attendance from years past.</description></job>
+
+<job end='733591' id='8' naics='62211002' naics2='62' pos='7' sic='806202' sic2='80' start='733441'><employer>The Methodist Hospital</employer> (<address><city>Houston</city>, <state abbrev='TX'>Texas</state></address>)                                                 <daterange><start days='733441' iso8601='2009-02-01'>February 2009</start> ­ <end days='733591' iso8601='2009-07-01'>July 2009</end></daterange>
+<title>Caring Companion Volunteer</title>: <description>Acted as a liaison for patients. Planned and facilitated craft activities with patients.</description></job></experience>
+<skills>Language &amp; Software Skills:
+<languages>Proficient in Portuguese.</languages> Proficient in <skills>MS Word, PowerPoint, Outlook, and Excel. Working familiarity with Great Plains, Event
+Management Systems, THRIVA Management Systems, and CSI Member Management Software.</skills></skills>
+<statements>Awards and Activities:
+         <honors>Student of the Year (2005, 2006), National Honor Society (2006-2008), Standard of Excellence Award (2006- 2008)
+         Top 5% JHS (2006-2008), JHS Honor Roll (2006- 2008), UIL Texas State Piano (2008), UIL Texas State Spelling (2008)</honors>
+         <activities>UIL Marching Band, Varsity Volleyball High School, Rice Student Volunteer Program, Rice - Wiess College Powderpuff
+         Team, Recreation Staff Flag Football Team</activities></statements>
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='accounts payable' start='733926'>
+    <variant>accounts payable</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='accounts receivable' start='733926'>
+    <variant>accounts receivable</variant>
+  </canonskill>
+  <canonskill end='733591' experience='1' expidrefs='4' idrefs='4' lastused='2009' name='counseling' start='733561'>
+    <variant>counselor</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='customer relations' start='733926'>
+    <variant>clients</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='database administration' start='733926'>
+    <variant>database</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='documentation' start='733806'>
+    <variant>documentation</variant>
+  </canonskill>
+  <canonskill end='734291' experience='1' expidrefs='5' idrefs='5' lastused='2011' name='english' start='734199'>
+    <variant>English</variant>
+  </canonskill>
+  <canonskill name='event management'>
+    <variant>Event
+Management</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='forms' start='733926'>
+    <variant>forms</variant>
+  </canonskill>
+  <canonskill name='great plains software'>
+    <variant>Great Plains</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='legal' start='733806'>
+    <variant>legal</variant>
+  </canonskill>
+  <canonskill name='microsoft excel'>
+    <variant>Excel</variant>
+  </canonskill>
+  <canonskill name='microsoft outlook'>
+    <variant>Outlook</variant>
+  </canonskill>
+  <canonskill name='microsoft powerpoint'>
+    <variant>PowerPoint</variant>
+  </canonskill>
+  <canonskill name='microsoft word'>
+    <variant>MS Word</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='organizational skills' start='733926'>
+    <variant>organizing</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='personnel' start='733926'>
+    <variant>personnel</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='9' idrefs='9' name='portuguese'>
+    <variant>Portuguese</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='7' idrefs='7' name='promotional materials' start='733806'>
+    <variant>promotion</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='telephone skills' start='733926'>
+    <variant>phone</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

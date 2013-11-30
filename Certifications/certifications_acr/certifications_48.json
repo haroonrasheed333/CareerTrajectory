@@ -1,0 +1,110 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CPRP", 
+            "Certification Name": "Certified Park and Recreation Professional", 
+            "Type": "Core", 
+            "Certification ID": "0443", 
+            "Certifying Organization": "National Recreation and Park Association"
+        }, 
+        {
+            "Acronym": "CMCA", 
+            "Certification Name": "Certified Manager of Community Associations", 
+            "Type": "Advanced", 
+            "Certification ID": "5504", 
+            "Certifying Organization": "National Board of Certification for Community Association Managers"
+        }, 
+        {
+            "Acronym": "CCM", 
+            "Certification Name": "Certified Club Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "7984", 
+            "Certifying Organization": "Club Managers Association of America"
+        }, 
+        {
+            "Acronym": "CPSI", 
+            "Certification Name": "Certified Playground Safety Inspector", 
+            "Type": "Specialty", 
+            "Certification ID": "3132", 
+            "Certifying Organization": "National Recreation and Park Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Composting Program - Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "1467", 
+            "Certifying Organization": "Solid Waste Association of North America"
+        }, 
+        {
+            "Acronym": "CCUV", 
+            "Certification Name": "Certified Credit Union Volunteer", 
+            "Type": "Core", 
+            "Certification ID": "9231", 
+            "Certifying Organization": "Credit Union National Association"
+        }, 
+        {
+            "Acronym": "CEcD", 
+            "Certification Name": "Certified Economic Developer", 
+            "Type": "Advanced", 
+            "Certification ID": "1220", 
+            "Certifying Organization": "International Economic Development Council"
+        }, 
+        {
+            "Acronym": "CCS", 
+            "Certification Name": "Certified Clinical Supervisor", 
+            "Type": "Advanced", 
+            "Certification ID": "3534", 
+            "Certifying Organization": "International Certification & Reciprocity Consortium"
+        }, 
+        {
+            "Acronym": "ACCE,", 
+            "Certification Name": "Certified Chamber Executive", 
+            "Type": "Advanced", 
+            "Certification ID": "3578", 
+            "Certifying Organization": "The American Chamber of Commerce Executives"
+        }, 
+        {
+            "Acronym": "CPCM", 
+            "Certification Name": "Certified Professional Contracts Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "1421", 
+            "Certifying Organization": "National Contract Management Association"
+        }, 
+        {
+            "Acronym": "CVA", 
+            "Certification Name": "Certified in Volunteer Administration", 
+            "Type": "Core", 
+            "Certification ID": "2164", 
+            "Certifying Organization": "Council for Certification in Volunteer Administration"
+        }, 
+        {
+            "Acronym": "CAE", 
+            "Certification Name": "Certified Association Executive", 
+            "Type": "Advanced", 
+            "Certification ID": "1551", 
+            "Certifying Organization": "American Society of Association Executives"
+        }, 
+        {
+            "Acronym": "ISPI", 
+            "Certification Name": "Certified Performance Technologist", 
+            "Type": "Advanced", 
+            "Certification ID": "3699", 
+            "Certifying Organization": "International Society of Performance Improvement "
+        }, 
+        {
+            "Acronym": "CFCM", 
+            "Certification Name": "Certified Federal Contracts Manager", 
+            "Type": "Specialty", 
+            "Certification ID": "3418", 
+            "Certifying Organization": "National Contract Management Association"
+        }, 
+        {
+            "Acronym": "C-SWCM", 
+            "Certification Name": "Certified Social Work Case Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "3340", 
+            "Certifying Organization": "National Association of Social Workers"
+        }
+    ], 
+    "onet": "11915100"
+}

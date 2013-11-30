@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734595' xml:space='preserve'><contact><name><givenname>Kathy</givenname> <surname>Dobby</surname></name>
+<address lat='32.4646' lon='96.4056' majorcity='SCURRY' state='TX'><street>6500 Oak Trail</street>, <city>Scurry</city>, <state abbrev='TX'>TX</state> <postalcode>75158</postalcode></address>; <phone>(469) 595-9075</phone>; <email>bitsyd6500@yahoo.com</email></contact>
+<summary>Career Objective
+<objective>To continue a career path of progressively responsible healthcare achievement with a focus on obtaining employment in a professional medical setting providing diagnostic services and a range of healthcare needs to patients.</objective></summary>
+
+<education>Education
+<school id='4'><institution>Richland Community College</institution>	<courses>Phlebotomy Technician Program	
+					ASCP Certification</courses></school>
+<school id='5'><institution>St. Louis Community College</institution>		<degree level='14'>Associate of Applied Science Degree</degree>
+					<completiondate days='728630' iso8601='1995-12-01'>December 1995</completiondate>
+					With Academic Honors					
+<courses>The Learning Center			Microsoft Applications Certification</courses></school>
+					<completiondate days='730700' iso8601='2001-08-01'>August 2001</completiondate></education>
+
+<experience end='present' start='730943'>Employment
+<job end='present' id='1' pos='1' start='734199'><daterange><start days='734199' iso8601='2011-03-01'>March 2011</start> to <end days='present' iso8601='2012-03-31'>Present</end></daterange>:  <title>Laboratory Processor</title>, <employer>THR Medical Edge</employer>, <address><city>Dallas</city>, <state abbrev='TX'>TX</state></address>
+<description>Receive, process, and prepare specimens for testing, complete manifests, reports</description></job> 
+<job end='734079' id='2' pos='2' start='733410'><daterange><start days='733410' iso8601='2009-01-01'>January 2009</start> to <end days='734079' iso8601='2010-11-01'>November 2010</end></daterange>:  <title>Specimen Technician ll</title>, <employer>JPS Hospital</employer>, Fort Worth
+<description>Hospital phlebotomy; collections, distribution, preparation of samples, receiving, end of shift reports, LIS expert</description></job> 
+<job end='733379' id='3' pos='3' start='730943'><daterange><start days='730943' iso8601='2002-04-01'>April 2002</start> to <end days='733379' iso8601='2008-12-01'>December 2008</end></daterange>: <description>Family Planning Assistant lll, Planned Parenthood of North Texas
+Duties include all aspects of clinical experience, including Medicaid and insurance billing, phlebotomy, intramuscular injections, blood pressure monitoring, hematologic testing, well-women examinations and referrals.</description></job></experience> 
+<professional>Special Skills: <description>American Heart Association Healthcare Provider CPR/AED Certification. Strong experience in working with all aspects of patient care.
+Affiliations
+August 1991 to December 1997 Literacy Training Corp
+Recipient, Certificate of Recognition for Service to Community 
+Recipient, STRIVE FOR FIVE Award JPS Hospital 2009
+
+Special Skills
+Texas Department of Health PCPE Counselor Certification - completion of 28-hour course in Prevention Counseling Partner Elicitation, Arlington, Texas, February 2002
+Texas Department of Health STI Certification of Completion May 2004</description></professional>
+<skills>Three verifications of Proficiency in Venipuncture
+<skills>Microsoft Software Expert (10 years' experience)
+Microsoft Certificate of Completion Word 2000
+Advanced Certificate FrontPage 1998
+Intermediate Access 8.0; Excel 8.0; Advanced DOS 6.22; PowerPoint 8.0; Outlook 2000.</skills></skills>
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+</resume>
+
+<skillrollup version='1'>
+  <canonskill education='1' eduidrefs='5' idrefs='5' name='applications'>
+    <variant>Microsoft Applications</variant>
+  </canonskill>
+  <canonskill end='733379' experience='1' expidrefs='3' idrefs='3' lastused='2008' name='billing' start='730943'>
+    <variant>billing</variant>
+  </canonskill>
+  <canonskill name='frontpage'>
+    <variant>FrontPage</variant>
+  </canonskill>
+  <canonskill end='733379' experience='1' expidrefs='3' idrefs='3' lastused='2008' name='insurance' start='730943'>
+    <variant>insurance</variant>
+  </canonskill>
+  <canonskill name='microsoft'>
+    <variant>Microsoft Software</variant>
+  </canonskill>
+  <canonskill name='microsoft access'>
+    <variant>Access 8.0</variant>
+  </canonskill>
+  <canonskill name='microsoft excel'>
+    <variant>Excel 8.0</variant>
+  </canonskill>
+  <canonskill name='microsoft outlook 2000'>
+    <variant>Outlook 2000</variant>
+  </canonskill>
+  <canonskill name='microsoft powerpoint'>
+    <variant>PowerPoint 8.0</variant>
+  </canonskill>
+  <canonskill name='microsoft word 2000'>
+    <variant>Word 2000</variant>
+  </canonskill>
+  <canonskill name='ms dos 6.22'>
+    <variant>DOS 6.22</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='4' end='734079' experience='1' expidrefs='2,3' idrefs='4,2,3' lastused='2010' name='phlebotomy' start='730943'>
+    <variant>Phlebotomy</variant>
+    <variant>phlebotomy</variant>
+  </canonskill>
+  <canonskill end='734079' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='receiving' start='733410'>
+    <variant>receiving</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='4' idrefs='4' name='technician'>
+    <variant>Technician</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

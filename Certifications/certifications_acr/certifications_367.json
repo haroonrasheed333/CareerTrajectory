@@ -1,0 +1,26 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CAPF", 
+            "Certification Name": "Certified Applied Poetry Facilitator", 
+            "Type": "Specialty", 
+            "Certification ID": "7616", 
+            "Certifying Organization": "National Federation for Biblio/Poetry Therapy"
+        }, 
+        {
+            "Acronym": "CPT", 
+            "Certification Name": "Certified Poetry Therapist", 
+            "Type": "Specialty", 
+            "Certification ID": "0453", 
+            "Certifying Organization": "National Federation for Biblio/Poetry Therapy"
+        }, 
+        {
+            "Acronym": "RPT", 
+            "Certification Name": "Registered Poetry Therapist", 
+            "Type": "Specialty", 
+            "Certification ID": "0454", 
+            "Certifying Organization": "National Federation for Biblio/Poetry Therapy"
+        }
+    ], 
+    "onet": "27304305"
+}

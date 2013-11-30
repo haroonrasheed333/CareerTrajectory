@@ -1,0 +1,61 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "CIP Level 1 with Marine and Bridge Specialties", 
+            "Type": "Specialty", 
+            "Certification ID": "8107", 
+            "Certifying Organization": "NACE International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "CIP Level 2 with Bridge Specialty", 
+            "Type": "Specialty", 
+            "Certification ID": "8110", 
+            "Certifying Organization": "NACE International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "CIP Level 1 with Bridge Specialty", 
+            "Type": "Specialty", 
+            "Certification ID": "8106", 
+            "Certifying Organization": "NACE International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "CIP Level 3", 
+            "Type": "Core", 
+            "Certification ID": "9347", 
+            "Certifying Organization": "NACE International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "CIP Level 2 with Marine and Bridge Specialties", 
+            "Type": "Specialty", 
+            "Certification ID": "8111", 
+            "Certifying Organization": "NACE International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "CIP Level 1 with Marine Specialty", 
+            "Type": "Specialty", 
+            "Certification ID": "8108", 
+            "Certifying Organization": "NACE International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "CIP Level 1 Nuclear", 
+            "Type": "Advanced", 
+            "Certification ID": "9349", 
+            "Certifying Organization": "NACE International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "CP2 Maritime", 
+            "Type": "Core", 
+            "Certification ID": "9348", 
+            "Certifying Organization": "NACE International"
+        }
+    ], 
+    "onet": "51912200"
+}

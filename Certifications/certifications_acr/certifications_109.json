@@ -1,0 +1,68 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "RFP", 
+            "Certification Name": "Registered Financial Planner", 
+            "Type": "Advanced", 
+            "Certification ID": "8025", 
+            "Certifying Organization": "Registered Financial Planners Institute"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Microsoft Dynamics GP 2010 Financials", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7557", 
+            "Certifying Organization": "Microsoft Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Microsoft Dynamics GP 10.0 Financials", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7558", 
+            "Certifying Organization": "Microsoft Corporation"
+        }, 
+        {
+            "Acronym": "MFTA", 
+            "Certification Name": "Master of Financial Technical Analysis", 
+            "Type": "Advanced", 
+            "Certification ID": "7455", 
+            "Certifying Organization": "The International Federation of Technical Analysts Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Microsoft Dynamics AX 2009 Financials", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7546", 
+            "Certifying Organization": "Microsoft Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Microsoft Dynamics SL 7.0 Financials", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7587", 
+            "Certifying Organization": "Microsoft Corporation"
+        }, 
+        {
+            "Acronym": "CFTe", 
+            "Certification Name": "Certified Financial Technican", 
+            "Type": "Core", 
+            "Certification ID": "7454", 
+            "Certifying Organization": "The International Federation of Technical Analysts Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Microsoft Dynamics AX 2012 Financials", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7545", 
+            "Certifying Organization": "Microsoft Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Microsoft Dynamics SL 2011 Financials", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7586", 
+            "Certifying Organization": "Microsoft Corporation"
+        }
+    ], 
+    "onet": "13209901"
+}

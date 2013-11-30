@@ -1,0 +1,61 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CCS", 
+            "Certification Name": "Certified Customs Specialist", 
+            "Type": "Core", 
+            "Certification ID": "9117", 
+            "Certifying Organization": "The National Customs Brokers & Forwarders Association of America"
+        }, 
+        {
+            "Acronym": "CIP", 
+            "Certification Name": "Certified ITAR Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "5837", 
+            "Certifying Organization": "IIEI Certification"
+        }, 
+        {
+            "Acronym": "CUSIP", 
+            "Certification Name": "Certified U.S. Import Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "6844", 
+            "Certifying Organization": "IIEI Certification"
+        }, 
+        {
+            "Acronym": "CUSICO", 
+            "Certification Name": "Certified U.S. Import Compliance Officer", 
+            "Type": "Advanced", 
+            "Certification ID": "6845", 
+            "Certifying Organization": "IIEI Certification"
+        }, 
+        {
+            "Acronym": "CES", 
+            "Certification Name": "Certified Export Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "9118", 
+            "Certifying Organization": "The National Customs Brokers & Forwarders Association of America"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified U.S. Export Compliance Officer", 
+            "Type": "Advanced", 
+            "Certification ID": "5195", 
+            "Certifying Organization": "IIEI Certification"
+        }, 
+        {
+            "Acronym": "TIA", 
+            "Certification Name": "Transportation Intermediaries Association", 
+            "Type": "Core", 
+            "Certification ID": "8966", 
+            "Certifying Organization": "Transportation Intermediaries Association"
+        }, 
+        {
+            "Acronym": "CE", 
+            "Certification Name": "Certified Exporter", 
+            "Type": "Core", 
+            "Certification ID": "5194", 
+            "Certifying Organization": "IIEI Certification"
+        }
+    ], 
+    "onet": "13119903"
+}

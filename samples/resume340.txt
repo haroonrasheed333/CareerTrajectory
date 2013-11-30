@@ -1,0 +1,169 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734593' xml:space='preserve'><contact><name><givenname>Lydia</givenname> <givenname>M</givenname>. <surname>Clavel</surname></name>
+Cell: <phone type='cell'>305-903-0184</phone> | Email: <email>lmclavel@gmail.com</email> | LinkedIn: <website>http://www.linkedin.com/in/lydiaclavel1</website></contact> 
+	
+
+<summary>SUMMARY: 
+<summary>Over 10 years of experience in web development and programming with several years focused on mobile development. Five years management experience leading front-end teams. Proven understanding of web standards and cross platform user experience. Currently managing a front-end team and responsible for overseeing new front-end web projects that leverage HTML5. PMP certified.</summary></summary>
+
+
+<experience end='present' start='730122'>EXPERIENCE:
+
+<job end='present' id='1' pos='1' start='733075'><employer>Buongiorno USA</employer>									            <address lat='37.1719' lon='-121.975' majorcity='LOS GATOS' state='CA'><city>Los Gatos</city>, <state abbrev='CA'>CA</state></address> 
+<title>Manager</title>, Web Development (Promoted from <title>Project Manager</title>)                                          <daterange><start days='733075' iso8601='2008-02-01'>Feb 08</start> - <end days='present' iso8601='2012-03-29'>Present</end></daterange>
+
+Highlights: 
+<description>Currently manage a front-end web development team that oversees several mobile/web projects that generate over $15million in revenue
+Led the implementation of new web development standards to improve the company's ability to expand beyond feature phones and into smartphones/tablets (HTML5)
+Created flow diagrams, conducted product analysis and made recommendations to engineering on technical challenges 
+Work with department leadership to ensure all projects are communicated and managed efficiently with proper prioritization
+Spearhead internal meetings to discuss and collaborate on new ideas for web development practices and educate various teams on emerging trends</description></job>
+
+<job end='733044' id='2' pos='2' start='732648'><employer>Buongiorno USA</employer>					                                             <address><city>Miami</city>, <state abbrev='FL'>FL</state></address>
+<title>Project Manager</title>, Web (Promoted from Web Developer)		                                  <daterange><start days='732648' iso8601='2006-12-01'>Dec 06</start> - <end days='733044' iso8601='2008-01-01'>Jan 08</end></daterange>
+                    
+Highlights: 
+<description>Launched and managed a PC based consumer content portal that supported over 1million subscribers 
+Managed project priorities and negotiated product resources with international development teams
+Responsible for managing all carrier integrations including storefronts, mobile web portals and hosted services for Verizon Wireless, T-Mobile, AT&amp;T, Sprint, Boost and Virgin
+Gathered requirements from business development, product management and sales and created project plans to support new product roll outs
+Point project person with other department heads and managing customer-facing relationships</description></job>
+
+
+
+
+
+
+
+<job end='732618' id='3' pos='3' start='731949'><employer>Buongiorno USA</employer>					                                                                       <address><city>Miami</city>, <state abbrev='FL'>FL</state></address>
+<title>Web Developer</title>					                                                            <daterange><start days='731949' iso8601='2005-01-01'>Jan 05</start> - <end days='732618' iso8601='2006-11-01'>Nov 06</end></daterange>
+
+Highlights: 								       
+<description>Headed a project to improve existing WAP development standards; this included building requirements, formulating recommendations and securing management approval
+Oversaw development of four WAP portals in Turkey, Greece and USA; maintained weekly refreshes.
+Developed the US B2C web portal of a global brand that supported the interaction of several hundred thousand customers
+Delivered daily status reports and updates to management across multiple projects and deliverables
+Assisted services team on creating dozens of new short message service (SMS) subscription services for Latin American consumers in the US</description></job>
+
+<job end='731827' id='4' pos='4' start='731461'><employer>Eurosistemas Placcom S.L</employer>								       <address><city>Zaragoza</city>, <country iso3='ESP'>Spain</country></address>
+<title>Software Engineer</title>, Web Services             						    <daterange><start days='731461' iso8601='2003-09-01'>Sept 03</start> - <end days='731827' iso8601='2004-09-01'>Sept 04</end></daterange>		       		  
+Highlights: 
+<description>Provided programming of data transformation services (DTS) on SQL Server and reports using Crystal Reports for CRM systems
+Responsible for the programming of the corporate website including company intranet 
+Developed new skills in design by assisting design team and learning new software including Adobe Photoshop
+Worked in startup environment wearing multiple hats and provided assistance to other departments when needed
+Developed a good understanding of Customer Relationship Management (CRM) tools and was part of a team that expanded the tool offerings for use across the organization</description></job>
+
+<job end='731430' id='5' pos='5' start='730122'><employer>Interactive Multimedia Systems PLC</employer>						                      <address><state>Dublin</state>, <country iso3='IRL'>Ireland</country></address>
+<title>Web Developer</title>     								                     <daterange><start days='730122' iso8601='2000-01-01'>Jan 00</start> - <end days='731430' iso8601='2003-08-01'>Aug 03</end></daterange>
+
+Highlights:
+<description>Implemented development tasks using ASP, XML, HTML, JavaScript, and CSS 
+Built administration tool to manage several web portals for third party clients
+Worked with members of the IT team to facilitate projects for the corporate web site
+Trained production team members on creating HTML forms</description></job></experience>
+
+<education>EDUCATION: 
+<school id='6'><degree level='16' name='Bachelor of Science'>B.S</degree>. in <major code='1201'>Computing Engineering   					EUPLA</major> (<address><city>Zaragoza</city>, <country iso3='ESP'>Spain</country></address>)
+<degree level='18' name='Master of Science'>M.Sc</degree>. in Computing (Honors)			 		             <institution>Griffith College</institution> (<address><state>Dublin</state>, <country iso3='IRL'>Ireland</country></address>)
+
+CERTIFICATIONS: 
+<courses>Project Management Professional (PMP) 				2012</courses></school></education> 		 		
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='731827' experience='1' expidrefs='4' idrefs='4' lastused='2004' name='adobe photoshop' start='731461'>
+    <variant>Adobe Photoshop</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='analysis' start='733075'>
+    <variant>product analysis</variant>
+  </canonskill>
+  <canonskill end='731430' experience='1' expidrefs='5' idrefs='5' lastused='2003' name='asp' start='730122'>
+    <variant>ASP</variant>
+  </canonskill>
+  <canonskill end='733044' experience='1' expidrefs='2' idrefs='2' lastused='2008' name='business development' start='732648'>
+    <variant>business development</variant>
+  </canonskill>
+  <canonskill end='733044' experience='1' expidrefs='2' idrefs='2' lastused='2008' name='content management' start='732648'>
+    <variant>content</variant>
+  </canonskill>
+  <canonskill end='731827' experience='1' expidrefs='4' idrefs='4' lastused='2004' name='crm' start='731461'>
+    <variant>Customer Relationship Management</variant>
+    <variant>CRM</variant>
+  </canonskill>
+  <canonskill end='731827' experience='1' expidrefs='4' idrefs='4' lastused='2004' name='crystal reports' start='731461'>
+    <variant>Crystal Reports</variant>
+  </canonskill>
+  <canonskill end='731430' experience='1' expidrefs='5' idrefs='5' lastused='2003' name='css' start='730122'>
+    <variant>CSS</variant>
+  </canonskill>
+  <canonskill end='731430' experience='1' expidrefs='5' idrefs='5' lastused='2003' name='customer relations' start='730122'>
+    <variant>clients</variant>
+  </canonskill>
+  <canonskill end='731827' experience='1' expidrefs='4' idrefs='4' lastused='2004' name='data transformation service' start='731461'>
+    <variant>DTS</variant>
+  </canonskill>
+  <canonskill end='731430' experience='1' expidrefs='5' idrefs='5' lastused='2003' name='forms' start='730122'>
+    <variant>forms</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,5' idrefs='1,5' lastused='2012' name='html' start='730122'>
+    <variant>HTML5</variant>
+    <variant>HTML</variant>
+  </canonskill>
+  <canonskill end='731430' experience='1' expidrefs='5' idrefs='5' lastused='2003' name='javascript' start='730122'>
+    <variant>JavaScript</variant>
+  </canonskill>
+  <canonskill end='732618' experience='1' expidrefs='3' idrefs='3' lastused='2006' name='latin' start='731949'>
+    <variant>Latin</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='leadership' start='733075'>
+    <variant>leadership</variant>
+  </canonskill>
+  <canonskill end='733044' experience='1' expidrefs='2' idrefs='2' lastused='2008' name='management' start='732648'>
+    <variant>managing</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='meeting facilitation' start='733075'>
+    <variant>meetings</variant>
+  </canonskill>
+  <canonskill end='733044' experience='1' expidrefs='2' idrefs='2' lastused='2008' name='product management' start='732648'>
+    <variant>product management</variant>
+  </canonskill>
+  <canonskill end='731827' experience='1' expidrefs='4' idrefs='4' lastused='2004' name='programming' start='731461'>
+    <variant>programming</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='6' idrefs='6' name='project management'>
+    <variant>Project Management</variant>
+  </canonskill>
+  <canonskill end='733044' experience='1' expidrefs='2' idrefs='2' lastused='2008' name='project planning' start='732648'>
+    <variant>project plans</variant>
+  </canonskill>
+  <canonskill end='733044' experience='1' expidrefs='2' idrefs='2' lastused='2008' name='sales' start='732648'>
+    <variant>sales</variant>
+  </canonskill>
+  <canonskill end='732618' experience='1' expidrefs='3' idrefs='3' lastused='2006' name='sms' start='731949'>
+    <variant>SMS</variant>
+  </canonskill>
+  <canonskill end='731827' experience='1' expidrefs='4' idrefs='4' lastused='2004' name='sql' start='731461'>
+    <variant>SQL Server</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='telephone skills' start='733075'>
+    <variant>phones</variant>
+  </canonskill>
+  <canonskill end='732618' experience='1' expidrefs='3' idrefs='3' lastused='2006' name='wap' start='731949'>
+    <variant>WAP</variant>
+  </canonskill>
+  <canonskill end='732618' experience='1' expidrefs='3' idrefs='3' lastused='2006' name='web portal' start='731949'>
+    <variant>web portal</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,4,5' idrefs='1,4,5' lastused='2012' name='web site production' start='730122'>
+    <variant>web site</variant>
+    <variant>website</variant>
+    <variant>web development</variant>
+  </canonskill>
+  <canonskill end='731430' experience='1' expidrefs='5' idrefs='5' lastused='2003' name='xml' start='730122'>
+    <variant>XML</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

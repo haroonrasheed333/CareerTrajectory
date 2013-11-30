@@ -1,0 +1,159 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CAPM", 
+            "Certification Name": "Certified Associate in Project Management", 
+            "Type": "Core", 
+            "Certification ID": "3674", 
+            "Certifying Organization": "Project Management Institute"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Microsoft Office Specialist (MOS): Microsoft Office PowerPoint 2007", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7390", 
+            "Certifying Organization": "Microsoft Corporation"
+        }, 
+        {
+            "Acronym": "MOS", 
+            "Certification Name": "Microsoft Office Specialist (MOS): Microsoft Word 2010", 
+            "Type": "Core", 
+            "Certification ID": "7944", 
+            "Certifying Organization": "Microsoft Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Microsoft Technology Associate: Windows Operating System Fundamentals", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7486", 
+            "Certifying Organization": "Microsoft Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Microsoft Certified Technology Specialist: Windows Server 2008 R2, Server Virtualization", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7505", 
+            "Certifying Organization": "Microsoft Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Microsoft Office Specialist (MOS): Outlook 2010", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7381", 
+            "Certifying Organization": "Microsoft Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Microsoft Office Specialist: Microsoft Office Outlook 2007", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7391", 
+            "Certifying Organization": "Microsoft Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Microsoft Office Specialist: Microsoft Excel 2010", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7378", 
+            "Certifying Organization": "Microsoft Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Microsoft Office Specialist: Microsoft Office 2010", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "2715", 
+            "Certifying Organization": "Microsoft Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Microsoft Office Specialist (MOS): Access 2010", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7382", 
+            "Certifying Organization": "Microsoft Corporation"
+        }, 
+        {
+            "Acronym": "FPC", 
+            "Certification Name": "Fundamental Payroll Certification", 
+            "Type": "Core", 
+            "Certification ID": "3935", 
+            "Certifying Organization": "American Payroll Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Microsoft Office Specialist: Microsoft Office Word 2007", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7386", 
+            "Certifying Organization": "Microsoft Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Microsoft Technology Associate: Software Development Fundamentals", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7478", 
+            "Certifying Organization": "Microsoft Corporation"
+        }, 
+        {
+            "Acronym": "CAP", 
+            "Certification Name": "Certified Administrative Professional", 
+            "Type": "Core", 
+            "Certification ID": "3070", 
+            "Certifying Organization": "International Association of Administrative Professionals"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Microsoft Technology Associate: Windows Development Fundamentals", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7479", 
+            "Certifying Organization": "Microsoft Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Microsoft Technology Associate: Windows Server Administration Fundamentals", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7485", 
+            "Certifying Organization": "Microsoft Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Microsoft Office Specialist: Microsoft Office Access 2007", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7392", 
+            "Certifying Organization": "Microsoft Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Microsoft Office Specialist (MOS): PowerPoint 2010", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7380", 
+            "Certifying Organization": "Microsoft Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Microsoft Certified Technology Specialist: Windows Server 2008 R2, Desktop Virtualization", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7506", 
+            "Certifying Organization": "Microsoft Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Microsoft Office Specialist (MOS): OneNote 2010", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7384", 
+            "Certifying Organization": "Microsoft Corporation"
+        }, 
+        {
+            "Acronym": "CPS", 
+            "Certification Name": "Certified Professional Secretary", 
+            "Type": "Core", 
+            "Certification ID": "0385", 
+            "Certifying Organization": "International Association of Administrative Professionals"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Microsoft Technology Associate: Database Administration Fundamentals", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7481", 
+            "Certifying Organization": "Microsoft Corporation"
+        }
+    ], 
+    "onet": "43601400"
+}

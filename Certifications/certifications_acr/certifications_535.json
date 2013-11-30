@@ -1,0 +1,54 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "REH", 
+            "Certification Name": "Registered Executive Housekeeper", 
+            "Type": "Advanced", 
+            "Certification ID": "8955", 
+            "Certifying Organization": "International Executive Housekeeping Association"
+        }, 
+        {
+            "Acronym": "MAS", 
+            "Certification Name": "Mold Awareness Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "6700", 
+            "Certifying Organization": "National Registry of Environmental Professionals"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Hospitality Skill Certification for Guestroom Attendant", 
+            "Type": "Core", 
+            "Certification ID": "1167", 
+            "Certifying Organization": "American Hotel and Lodging Association Educational Institute"
+        }, 
+        {
+            "Acronym": "AHA", 
+            "Certification Name": "Certified Healthcare Environmental Services Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "3745", 
+            "Certifying Organization": "American Hospital Association"
+        }, 
+        {
+            "Acronym": "Master CEH", 
+            "Certification Name": "Master Certified Executive Housekeeper", 
+            "Type": "Advanced", 
+            "Certification ID": "8957", 
+            "Certifying Organization": "International Executive Housekeeping Association"
+        }, 
+        {
+            "Acronym": "Master REH", 
+            "Certification Name": "Master Registered Executive Housekeeper", 
+            "Type": "Advanced", 
+            "Certification ID": "8958", 
+            "Certifying Organization": "International Executive Housekeeping Association"
+        }, 
+        {
+            "Acronym": "CEH", 
+            "Certification Name": "Certified Executive Housekeeper", 
+            "Type": "Core", 
+            "Certification ID": "8956", 
+            "Certifying Organization": "International Executive Housekeeping Association"
+        }
+    ], 
+    "onet": "37201200"
+}

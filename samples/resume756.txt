@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734596' xml:space='preserve'><contact><name><givenname>James</givenname> <surname>Wilson</surname></name>
+                     <address lat='39.8296' lon='75.0152' majorcity='STRATFORD' state='NJ'><street>116 Wright Ave Apt K-89</street>  -  <city>Stratford</city>, <state abbrev='NJ'>NJ</state> <postalcode>08084</postalcode></address>
+              <email>jazznourmous@yahoo.com</email>  -  <phone>856-298-914 - 318-489-0173</phone></contact>
+
+
+                                   <summary>District Manager
+Highly accomplished professional with exceptional record of excellence in     continually improving district performance and driving significant growth.
+
+Talent for delivering success through effective strategic planning and operational oversight across multiple locations. Consistent history of maximizing profitability  and exceeding objectives by tracking profit and loss performance, analyzing operations , and controlling shrink. Dynamic leadership strengths and skill at building high performance teams; excel at coaching employees and facilitating advancement. Track record of ensuring continuing sales through maintaining the highest standards of customer service and promptly resolving issues.
+
+Operations and Management Strengths:
+
+- Sales Growth / Business Development        - Team Leadership &amp; Development
+- Business Plans &amp; Strategic Goals                - Inventory &amp; Shrink Control
+- P&amp;L / Financial Oversight                             - Vender Relations &amp; Negotiation
+- Customer Service Management                   - Coaching &amp; Mentoring
+- Performance Turnarounds                            - Policy &amp; Regulatory Compliance</summary>
+ 
+<experience end='present' start='726470'>Professional Experience
+<job end='present' id='1' naics='45211201' naics2='45' pos='1' sic='839907' sic2='83' start='732345'><employer>Dollar General</employer> - <address><city>Goodlettsville</city>, <state abbrev='TN'>TN</state></address>
+<title>District Manager</title> (<daterange><start days='732345' iso8601='2006-02-01'>2/2006</start> to <end days='present' iso8601='2012-04-01'>Present</end></daterange>)
+
+<description>Develop and execute plans to increase sales and profitability. Effectively build teams and mentor employees, directly supervising Store Managers for 21 locations. Manage P&amp;L for all stores. Conduct monthly shrink training class for Store Managers. Compile and analyze reports to identify issues and sales growth opportunities.
+Selected Contributions:
+Increased comp sales by 26.8% in 2008, achieving highest sales increase in company
+Ranked top District Manager in company out of 573 districts in 2008 and top in Division out of 149 in 2009.
+Successfully improved shrink by 210 basis points in 2008.</description></job>
+
+<job end='732345' id='2' naics='71329002' naics2='71' pos='2' sic='799302' sic2='79' start='728721'><employer>Isle of Capri Casino</employer> - <address><city>Bossier City</city>, <state abbrev='LA'>LA.</state></address>
+<title>Floor Supervisor</title> (<daterange><start days='728721' iso8601='1996-03-01'>3/1996</start> to <end days='732345' iso8601='2006-02-01'>2/2006</end></daterange>)
+
+<description>Maintained accountability for $500,000+ in daily cash transactions. Directed team operations to ensure efficiency and positive customer experience. Supervise Dealers and Surveillance teams at gaming tables. Trained new Dealers. Ensured compliance with state and federal gaming and banking laws. Resolved customer issues and addressed employee disputes. Operated software to identify potential fraud.
+Selected Contributions:
+Selected to supervise high-limit table games in 2001
+Initiated investigation leading to discovery of $200,000 in internal theft.</description></job>
+
+<job end='728721' id='3' naics='44512001' naics2='44' pos='3' sic='541103' sic2='54' start='727990'><employer>EZ Mart Stores</employer> - <address><city>Texarkana</city>, <state abbrev='TX'>TX.</state></address>
+<title>District Manager</title> ( <daterange><start days='727990' iso8601='1994-03-01'>3/1994</start> - <end days='728721' iso8601='1996-03-01'>3/1996</end></daterange>)
+
+<description>Managed all operations of ten retail stores with gas operations. Created business plans to ensure District was exceeding company goals and expectations. Ensured stores were operating efficiently and cost effectively by monitoring payroll, production, and store controllable non payroll expenses.
+Selected Contributions:
+Assigned the two worst performing districts in succession and completed turnarounds on both in less than a year.
+Coached and mentored my top management talent to promotions to upper management.
+Delivered double digit comp sales in back to back years.</description></job>
+
+<job end='727962' id='4' pos='4' start='726470'><employer>DSC Kingsaver</employer> - <address><city>Greenville</city>, <state abbrev='TX'>TX.</state></address>
+<title>Store Director</title> ( <daterange><start days='726470' iso8601='1990-01-01'>1/1990</start> - <end days='727962' iso8601='1994-02-01'>2/1994</end></daterange>)
+
+<description>Operated two different high volume supermarkets with multiple departments  (Pharmacy, Floral, Bakery-Deli, Video, Produce, Meat). Monitored the POS system, insuring correct pricing, inventory control, shelf allocation, sales and promotions, and employee production. Audited and managed each departments payroll, production, sales, merchandising, and expenses.
+Selected Contributions
+-     Recognized as one of the top 100 retailers by Progressive Grocers
+      Magazine.           
+-     Delivered double digit comp sales each year during my tenure.
+-     Promoted to highest volume store within 6 months of hire.
+-     Maintained less than a 1 percent shrink during my tenure.
+-     Increased customer transactions by 13 percent.</description></job>
+
+         Additional experience includes <title>Owner/Operator</title>, Wilson's Super Valu</experience>  
+
+
+
+
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='732345' experience='1' expidrefs='2' idrefs='2' lastused='2006' name='banking' start='728721'>
+    <variant>banking</variant>
+  </canonskill>
+  <canonskill end='728721' experience='1' expidrefs='3' idrefs='3' lastused='1996' name='business plans' start='727990'>
+    <variant>business plans</variant>
+  </canonskill>
+  <canonskill end='727962' experience='1' expidrefs='4' idrefs='4' lastused='1994' name='inventory management' start='726470'>
+    <variant>inventory control</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='mentoring' start='732345'>
+    <variant>mentor</variant>
+  </canonskill>
+  <canonskill end='727962' experience='1' expidrefs='4' idrefs='4' lastused='1994' name='merchandising' start='726470'>
+    <variant>merchandising</variant>
+  </canonskill>
+  <canonskill end='728721' experience='1' expidrefs='3,4' idrefs='3,4' lastused='1996' name='payroll processing' start='726470'>
+    <variant>payroll</variant>
+  </canonskill>
+  <canonskill end='727962' experience='1' expidrefs='4' idrefs='4' lastused='1994' name='pos' start='726470'>
+    <variant>POS</variant>
+  </canonskill>
+  <canonskill end='727962' experience='1' expidrefs='4' idrefs='4' lastused='1994' name='pricing' start='726470'>
+    <variant>pricing</variant>
+  </canonskill>
+  <canonskill end='728721' experience='1' expidrefs='3' idrefs='3' lastused='1996' name='retail' start='727990'>
+    <variant>retail</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,3,4' idrefs='1,3,4' lastused='2012' name='sales' start='726470'>
+    <variant>sales</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='supervisory skills' start='732345'>
+    <variant>supervising</variant>
+  </canonskill>
+  <canonskill end='732345' experience='1' expidrefs='2' idrefs='2' lastused='2006' name='tables' start='728721'>
+    <variant>tables</variant>
+  </canonskill>
+  <canonskill end='727962' experience='1' expidrefs='4' idrefs='4' lastused='1994' name='video' start='726470'>
+    <variant>Video</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

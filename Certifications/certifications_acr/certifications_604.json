@@ -1,0 +1,110 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "PRC", 
+            "Certification Name": "Physician Recruiting Consultants", 
+            "Type": "Advanced", 
+            "Certification ID": "7659", 
+            "Certifying Organization": "National Association of Personnel Services"
+        }, 
+        {
+            "Acronym": "CSCP", 
+            "Certification Name": "Certified Sales Compensation Professional", 
+            "Type": "Core", 
+            "Certification ID": "9030", 
+            "Certifying Organization": "WorldatWork"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Global Remuneration Professional", 
+            "Type": "Core", 
+            "Certification ID": "9027", 
+            "Certifying Organization": "WorldatWork"
+        }, 
+        {
+            "Acronym": "GPHR", 
+            "Certification Name": "Global Professional in Human Resources", 
+            "Type": "Advanced", 
+            "Certification ID": "4497", 
+            "Certifying Organization": "Human Resources Certification Institute"
+        }, 
+        {
+            "Acronym": "COP-GOV", 
+            "Certification Name": "Certified Outsourcing Professional- Outsourcing Governance", 
+            "Type": "Core", 
+            "Certification ID": "8673", 
+            "Certifying Organization": "International Association of Outsourcing Professionals"
+        }, 
+        {
+            "Acronym": "EVP", 
+            "Certification Name": "Earned Value Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "5331", 
+            "Certifying Organization": "AACE International, Inc."
+        }, 
+        {
+            "Acronym": "CBF", 
+            "Certification Name": "Certified Benefits Professional", 
+            "Type": "Core", 
+            "Certification ID": "9028", 
+            "Certifying Organization": "WorldatWork"
+        }, 
+        {
+            "Acronym": "CERS", 
+            "Certification Name": "Certified Employee Retention Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "8016", 
+            "Certifying Organization": "National Association of Personnel Services"
+        }, 
+        {
+            "Acronym": "CMA", 
+            "Certification Name": "Career Management Associate", 
+            "Type": "Core", 
+            "Certification ID": "9245", 
+            "Certifying Organization": "Institute of Career Certification International"
+        }, 
+        {
+            "Acronym": "WLCP", 
+            "Certification Name": "Work-Life Certified Professional", 
+            "Type": "Core", 
+            "Certification ID": "9029", 
+            "Certifying Organization": "WorldatWork"
+        }, 
+        {
+            "Acronym": "HRIP", 
+            "Certification Name": "Human Resource Information Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "9010", 
+            "Certifying Organization": "International Association for Human Resource Information Management"
+        }, 
+        {
+            "Acronym": "CCP", 
+            "Certification Name": "Certified Compensation Professional", 
+            "Type": "Core", 
+            "Certification ID": "9026", 
+            "Certifying Organization": "WorldatWork"
+        }, 
+        {
+            "Acronym": "CECP", 
+            "Certification Name": "Certified Executive Compensation Professional", 
+            "Type": "Core", 
+            "Certification ID": "9031", 
+            "Certifying Organization": "WorldatWork"
+        }, 
+        {
+            "Acronym": "COP-FP", 
+            "Certification Name": "Certified Outsourcing Specialist- Foundation Principles", 
+            "Type": "Core", 
+            "Certification ID": "8675", 
+            "Certifying Organization": "International Association of Outsourcing Professionals"
+        }, 
+        {
+            "Acronym": "COP-BD", 
+            "Certification Name": "Certified Outsourcing Professional- Business Development", 
+            "Type": "Core", 
+            "Certification ID": "8674", 
+            "Certifying Organization": "International Association of Outsourcing Professionals"
+        }
+    ], 
+    "onet": "43416100"
+}

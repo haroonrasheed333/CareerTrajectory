@@ -1,0 +1,240 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734588' xml:space='preserve'><contact><name><givenname>Bryan</givenname> <surname>Follins</surname></name>
+
+Citizenship : American
+
+
+
+Contact
+
+Tel : <phone>702-374-5087</phone>
+e-mail : <email>asalh@mindspring.com</email> 
+
+
+
+
+
+
+Address
+
+<address lat='36.3007' lon='115.235' majorcity='LAS VEGAS' state='NV'><street>4809 Violet Bay Court</street>, <city>Las Vegas</city>, <state abbrev='NV'>Nevada</state>, <postalcode>89131</postalcode></address></contact>
+
+
+
+
+
+
+<summary>Profile
+
+Objective
+<objective>I am seeking a position as a technical support specialist or technical writer.</objective></summary>
+
+<skills>Availability
+From  April 7, 2012
+
+
+
+
+
+
+
+
+Key Skills
+
+Proficient or familiar with a vast array of programming languages, concepts and technologies, including:
+Cocoa framework:
+Other Programming languages:
+<skills>Operating Systems: Windows XP, Windows 7, 32-bit; Linux Ubuntu; Mac OS 10
+Office Products: Microsoft Word, Excel, Powerpoint 2010; OpenOffice Writer, Calc, Impress
+
+Objective-C
+Python, Java</skills></skills>
+
+
+
+
+
+
+
+
+
+
+<education>Education
+
+<school id='4'><daterange><start days='732314' iso8601='2006-01-01'>2006</start> to <end days='present' iso8601='2012-03-24'>Present</end></daterange>
+<degree level='18'>Master's</degree> in <major code='0402'>Computer Science</major> (<completiondate days='732922' iso8601='2007-09-01'>September 2007</completiondate>) - &quot;<major code='4504'>Information Insurance</major>&quot;
+<institution>Columbus State University</institution>, <address><city>Columbus</city>, <state abbrev='GA'>GA</state>, <country iso3='USA'>United States</country></address></school>
+
+<school id='5'><daterange><start days='721722' iso8601='1977-01-01'>1977</start> to <end days='723183' iso8601='1981-01-01'>1981</end></daterange>
+<degree level='16'>Bachelor Broadcast Journalism</degree>
+<institution>Louisiana State University</institution>, <address><city>Baton Rouge</city>, <state abbrev='LA'>LA</state>, <country iso3='USA'>United States</country></address></school>.
+
+<school id='6'><daterange><start days='725009' iso8601='1986-01-01'>1986</start> to <end days='725374' iso8601='1987-01-01'>1987</end></daterange>
+One year specialized <degree level='13' name='Diploma'>diploma</degree> in computer programming - &quot;<institution>Baton Rouge School of Computers</institution>, <address><city>Baton Rouge</city>, <state abbrev='LA'>LA</state>, <country iso3='USA'>United States</country></address></school></education>
+
+
+
+
+
+
+
+
+<experience end='present' start='731857'>Work Experience
+
+<job end='present' id='1' pos='1' start='733834'><employer>Urban League of Las Vegas</employer>,  <address><city>Las Vegas</city>, <state abbrev='NV'>Nevada</state></address>
+
+
+<title>Computer Applications Instructor</title> 
+<daterange><start days='733834' iso8601='2010-03-01'>March 2010</start> to <end days='present' iso8601='2012-03-24'>Present</end></daterange>
+
+<description>Designed and implemented computer training programs for computer centers in
+urban Las Vegas. Subjects taught are Microsoft Office, introduction to hardware and software,
+introduction to operating systems, and introduction to information assurance.</description></job>
+
+<job end='733775' id='2' pos='2' sic='8211' sic2='82' start='732008'><employer>Desert Rose Adult School</employer>, <address><city>Las Vegas</city>, <state abbrev='NV'>Nevada</state></address>
+
+
+<title>Computer Applications Instructor</title>
+<daterange><start days='732008' iso8601='2005-03-01'>March 2005</start> to <end days='733775' iso8601='2010-01-01'>January 2010</end></daterange>
+
+<description>Designed and implemented computer training programs for adult school in
+urban Las Vegas. Subjects taught were Microsoft Office, introduction to hardware and software,
+introduction to operating systems, and introduction to information assurance.;
+
+ClientLogic, Las Vegas, Nevada
+Temp Job</description></job>
+
+<job end='732008' id='3' pos='3' start='731857'><title>Technical Support</title>, Level One
+<daterange><start days='731857' iso8601='2004-10-01'>October 2004</start> to <end days='732008' iso8601='2005-03-01'>March 2005</end></daterange>
+
+<description>Provided tier one technical support to ClientLogic customer DirectTV.</description></job></experience>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<summary>My background is 10 years of experience as a contractor in the information technology field. I have worked in Atlanta, Ga, and in the Silicon Valley in the fields of technical support, network support, and technical writing.  Information provided on request.</summary>
+
+<statements>Activities and Interests
+
+Military Experience:
+<personal>Served in the United States Air Force from 1982-1986 as a missile launch officer. Honorably discharged in 1986.
+
+Writing:
+I have written and published an ebook of short stories in the suspense, science fiction genere.
+
+Traveling
+Open to travel in Europe, West Africa, Asia, and Australia.</personal></statements>
+
+
+
+
+
+
+
+
+<skills>Languages
+
+<languages>English(native)
+German (basic)
+Spanish (basic)</languages></skills>
+
+
+
+
+
+
+
+
+
+
+
+</resume>
+
+<skillrollup version='1'>
+  <canonskill name='basic'>
+    <variant>basic</variant>
+  </canonskill>
+  <canonskill name='c'>
+    <variant>C</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='computer hardware' start='732008'>
+    <variant>hardware</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='computer training' start='732008'>
+    <variant>computer training</variant>
+  </canonskill>
+  <canonskill name='english'>
+    <variant>English</variant>
+  </canonskill>
+  <canonskill name='german'>
+    <variant>German</variant>
+  </canonskill>
+  <canonskill name='java'>
+    <variant>Java</variant>
+  </canonskill>
+  <canonskill name='languages'>
+    <variant>Languages</variant>
+    <variant>languages</variant>
+  </canonskill>
+  <canonskill name='linux'>
+    <variant>Linux</variant>
+  </canonskill>
+  <canonskill name='macintosh os'>
+    <variant>Mac OS</variant>
+  </canonskill>
+  <canonskill name='microsoft excel'>
+    <variant>Excel</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='microsoft office' start='732008'>
+    <variant>Microsoft Office</variant>
+    <variant>Office</variant>
+  </canonskill>
+  <canonskill name='microsoft powerpoint'>
+    <variant>Powerpoint</variant>
+  </canonskill>
+  <canonskill name='microsoft windows'>
+    <variant>Windows 7</variant>
+  </canonskill>
+  <canonskill name='microsoft windows xp'>
+    <variant>Windows XP</variant>
+  </canonskill>
+  <canonskill name='microsoft word'>
+    <variant>Microsoft Word</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='operating systems' start='732008'>
+    <variant>Operating Systems</variant>
+    <variant>operating systems</variant>
+  </canonskill>
+  <canonskill name='programming'>
+    <variant>Programming</variant>
+    <variant>programming</variant>
+  </canonskill>
+  <canonskill name='python'>
+    <variant>Python</variant>
+  </canonskill>
+  <canonskill name='spanish'>
+    <variant>Spanish</variant>
+  </canonskill>
+  <canonskill end='732008' experience='1' expidrefs='3' idrefs='3' lastused='2005' name='technical support' start='731857'>
+    <variant>technical support</variant>
+  </canonskill>
+  <canonskill name='writing'>
+    <variant>Writer</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

@@ -1,0 +1,144 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734587' xml:space='preserve'><contact><name><givenname>Richard</givenname> <givenname>N</givenname>. <surname>Miles</surname></name>
+<address lat='33.0284' lon='96.8764' majorcity='CARROLLTON' state='TX'><street>1810 Dew Valley Drive</street>, <city>Carrollton</city>, <state abbrev='TX'>TX</state> <postalcode>75010</postalcode></address>
+<phone type='cell'>(214) 232-8545</phone> Cell
+<email>Rick_Miles9@MSN.COM</email></contact>
+
+<summary>Summary:
+<summary>Sixteen years experience in mortgage banking including servicing and originations.
+Nine years experience in managing teams in REO Marketing, Loss Mitigation, REO Closing, Property Preservation and Evictions.</summary></summary>
+<education><school id='9'><degree level='16' name='Bachelor of Science'>Bachelor of Science</degree> in <major code='4201'>Management</major> from <institution>Golden Gate University</institution> (<completiondate days='726105' iso8601='1989-01-01'>1989</completiondate>)
+<courses>Military veteran US Air Force (1986 - 1990) Honorably Discharged</courses></school></education>
+
+<experience end='present' start='726470'>Experience:
+<job end='present' id='1' pos='1' sic='6162' sic2='61' start='729757'><daterange><start days='729757' iso8601='1999-01-01'>1999</start> - <end days='present' iso8601='2012-03-23'>Present</end></daterange>	<employer>Nationstar Mortgage</employer>				<address><city>Lewisville</city>, <state abbrev='TX'>TX</state></address>	
+
+Titles' Held:	Real Estate Owned (<employer>REO</employer>) <title>Marketing Manager / Loss Mit Manager / Closing Manager</title>
+Description:	<description>Responsible for managing multiple teams in servicing including REO, Loss Mit, and Closing</description></job>
+
+<job id='2'><title>REO Marketing Manager</title> - <description>Supervise fourteen marketing specialists in the disposition of REO assets.
+
+Instruct and train agents, attorneys and title companies on REO policies and procedures
+Develop and approve real estate marketing strategies around repairs and inspections, while monitoring repair timelines and costs associated with said repairs
+Review and approve negotiated sales contracts, monitor closings and maintain company and client relationships
+Responsible for staying current on state and federal guidelines around property preservation, foreclosure, and evictions
+Review contracts, appraisals, title and BPO's in an effort to determine market value and recovery revenue</description></job>
+
+<job id='3'><title>Loss Mitigation Manager</title> - <description>Successfully managed a team of thirteen Loss Mit specialists in an effort to drive SDQ (serious delinquent loan) rates down.  
+
+Reviewed and approved DIL's, short sales (pre-foreclosure sales), modifications, forbearance, and graceful exits for borrowers that do not qualify for home retention
+Responsible for ensuring that delinquent mortgage loans are serviced according to Nationstar's policies and procedures, including investor and government guidelines
+Set and achieved monthly, quarterly, and annual goals for loss mitigation area, in conjunction with corporate objectives
+Remained cognizant of regulations and company policies affecting loss mitigation strategies</description></job>	
+
+<job id='4'><title>Closing Manager</title> - <description>Managed a team of ten closers responsible for the execution of closing REO portfolio assets. 
+
+Authorized to convey assets to future buyers via Special Warranty Deed
+Stayed current on ever changing policies and procedures within state guidelines with respect to liquidating assets</description></job>
+
+<job end='729757' id='5' naics='55111101' naics2='55' pos='2' sic='628205' sic2='62' start='728661'><daterange><start days='728661' iso8601='1996-01-01'>1996</start> - <end days='729757' iso8601='1999-01-01'>1999</end></daterange> 		<employer>Countrywide Financial</employer>					<address><city>Plano</city>, <state abbrev='TX'>TX</state></address>
+
+Titles' Held:	<title>Underwriter / Sr. Processor / Account Executive</title>
+Description:	<description>Held various tiles within the organization on the prime originations side of mortgage banking
+
+Underwriter - Underwrote and approved buyers for FHA, VA, or conventional financing</description></job>
+
+<job id='6'><title>Sr. Processor</title> - <description>Reviewed and processed income documents and collateral information to be submitted to underwriting for approval</description></job>
+
+<job id='7'><title>Account Executive</title> - <description>Responsible for qualifying applicants, reviewing credit, quoting rates and ensuring our applicants fit within our Investor's guidelines.</description></job>  
+
+<job end='728661' id='8' pos='3' sic='871133' sic2='87' start='726470'><daterange><start days='726470' iso8601='1990-01-01'>1990</start> - <end days='728661' iso8601='1996-01-01'>1996</end></daterange>		<employer>ADI Technology Corp</employer>	 			<address><city>Alexandria</city>, <state abbrev='VA'>VA</state></address>
+
+<title>Financial Analyst</title> - <description>Reported directly to the Operations Center Manager providing daily financial briefings. 
+
+Identified, prioritized, and resolved contract discrepancies between ADI and The United States Navy's New Attack Submarine Program
+Managed an annual revenue budget of $30 million</description></job></experience> 
+
+<skills>Software:
+
+<skills>Program		Skill Level
+Fortracs 		expert
+LSAMS 		advanced
+Excel 			intermediate
+Word 			intermediate
+REMEDY 		intermediate
+Equator Pro 		intermediate
+Crystal Reporting 	beginner</skills></skills>
+</resume>
+
+<skillrollup version='1'>
+  <canonskill education='1' eduidrefs='9' idrefs='9' name='air force'>
+    <variant>Air Force</variant>
+  </canonskill>
+  <canonskill end='729757' experience='1' expidrefs='5' idrefs='5' lastused='1999' name='banking' start='728661'>
+    <variant>banking</variant>
+  </canonskill>
+  <canonskill end='728661' experience='1' expidrefs='8' idrefs='8' lastused='1996' name='budgeting' start='726470'>
+    <variant>budget</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,4' idrefs='1,4' lastused='2012' name='closing' start='729757'>
+    <variant>Closing</variant>
+    <variant>closing</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='2' idrefs='2' name='contract management'>
+    <variant>contracts</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='7' idrefs='7' name='credit'>
+    <variant>credit</variant>
+  </canonskill>
+  <canonskill name='crystal'>
+    <variant>Crystal</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='2' idrefs='2' name='customer relations'>
+    <variant>client</variant>
+  </canonskill>
+  <canonskill end='729757' experience='1' expidrefs='5' idrefs='5' lastused='1999' name='finance' start='728661'>
+    <variant>financing</variant>
+  </canonskill>
+  <canonskill end='728661' experience='1' expidrefs='8' idrefs='8' lastused='1996' name='financial' start='726470'>
+    <variant>financial</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='3' idrefs='3' name='government'>
+    <variant>government</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='management' start='729757'>
+    <variant>managing</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='2' idrefs='2' name='market planning'>
+    <variant>marketing strategies</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='2' idrefs='2' name='marketing'>
+    <variant>marketing</variant>
+    <variant>market</variant>
+  </canonskill>
+  <canonskill name='microsoft excel'>
+    <variant>Excel</variant>
+  </canonskill>
+  <canonskill name='microsoft word'>
+    <variant>Word</variant>
+  </canonskill>
+  <canonskill end='728661' experience='1' expidrefs='8' idrefs='8' lastused='1996' name='navy' start='726470'>
+    <variant>Navy</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='2,3,4' idrefs='2,3,4' name='policy analysis'>
+    <variant>policies</variant>
+  </canonskill>
+  <canonskill end='729757' experience='1' expidrefs='5' idrefs='5' lastused='1999' name='prime' start='728661'>
+    <variant>prime</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='2' idrefs='2' name='real estate'>
+    <variant>real estate</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='2' idrefs='2' name='repair'>
+    <variant>repairs</variant>
+  </canonskill>
+  <canonskill name='reports'>
+    <variant>Reporting</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='2,3' idrefs='2,3' name='sales'>
+    <variant>sales</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

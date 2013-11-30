@@ -1,0 +1,276 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734589' xml:space='preserve'><contact><name><givenname>John</givenname> <givenname>E</givenname>. <surname>Yencho</surname></name>
+<address lat='40.996' lon='75.5734' majorcity='ALBRIGHTSVILLE' state='PA'><street>178 Evergreen Road</street> 
+<city>Albrightsville</city>, <state abbrev='PA'>PA</state>. <postalcode>18210</postalcode></address>
+Phone: <phone>(570) 643 -1692</phone>
+Cell: <phone type='cell'>(570) 216-2036</phone>
+Email:<email>johnyencho@ymail.com</email></contact>
+<summary>Qualification
+
+<summary>Twenty-six years of Management and Technical experience in the telecommunications industry. Possess a complete understanding of LAN/WAN networks, Network Operations, Customer Service Delivery and Asset management. Maximize customer satisfaction and network availability through SLA's. Proficient with a wide range of network tools to help troubleshoot problems quickly and efficiently.</summary></summary>
+
+<skills>Software and Protocol 
+
+<skills>MPLS,Frame-Relay,ATM,IMA,HDLC,SDLC,POS,BGP,EIGRP,RIP,OSPF,Remedy, HP/OpenView, Sniffer, Wire Shark, Visual network, Concord, TCP/IP, OSI, Cisco, Paradyne, Unix, T-Bird</skills></skills>
+
+
+<experience end='present' start='724675'>Professional Experience
+
+<job end='present' id='1' naics='44312001' naics2='44' pos='1' sic='573407' sic2='57' start='730488'><employer>Hewlett- Packard</employer>     <daterange><start days='730488' iso8601='2001-01-01'>2001</start> - <end days='present' iso8601='2012-03-25'>Present</end></daterange>
+<title>Technology Consultant III</title> /   NOC
+<address><city>Wilkes-Barre</city>, <state abbrev='PA'>Pennsylvania</state></address>
+
+<description>I have migrated 8,000 network devices into new NMS Model.
+Maintain databases for monitoring and managing network devices using HPOV.
+Saved 1.5m by keeping accurate records of network assets for billing.
+Document operational tickets to meet and defined SLA requirements.
+Proactively monitored all Wan/Lan/WiFi Utilization interfaces to prevent possible outages using concord and visual networks. 
+Direct interface between the clients and vendors to resolve Network  issues.
+Migrated IP/DHCP to QIP supported DNS on UNIX, AIX and AD.
+Troubleshoot all types of WAN/LAN router and switches problems.
+Site install/support for the client's Data Center, troubleshoot wiring and network issues.
+I Supported the GNOC on network problems, dealing with carrier failures and escalations. 
+Used Wire Shark to troubleshoot LAN problems.
+Working knowledge with TCP/IP, OSI model, mainly in layers 1, 2 and 3.   Worked with application group on layers 5, 6 and 7 when needed. 
+HP Service Desk was used to open/close and track problem tickets.</description></job>
+
+<job end='730488' id='2' pos='2' sic='546107' sic2='54' start='729392'><employer>Nabisco</employer> -- <daterange><start days='729392' iso8601='1998-01-01'>1998</start> - <end days='730488' iso8601='2001-01-01'>2001</end></daterange>                                                                                                            
+<title>Senior Network Analyst</title> (NOC)
+<address><city>Wilkes</city>-Barre, <state abbrev='PA'>Pennsylvania</state></address>
+
+<description>Monitor all WAN/LAN networks on HPOV, troubleshot carries problems, interfaced with clients and vendors.
+Configured and Installed Routers, switches, wireless and other network devices. 
+Open/Closed and tracked tickets using remedy.
+Proactive monitored WAN/LAN utilization from concord.
+Used Sniffer to troubleshoot LAN problems.
+Installed T1's and tested with local carrier using T-bird.</description></job>
+
+<job end='729482' id='3' pos='3' sic='616201' sic2='61' start='727108'><employer>Beneficial</employer> - <daterange><start days='727108' iso8601='1991-10-01'>October 1991</start> - <end days='729482' iso8601='1998-04-01'>April 1998</end></daterange>
+<title>Network Technician / Supervisor</title> (NOC)
+<address><city>Peapack</city>, <state abbrev='NJ'>New Jersey</state></address> 
+
+<description>Network Operations supervisor responsible for the Day-to-Day Operation of a 24X7 Network and IT Monitoring Group.
+Responsibilities included network performance, availability, and fault escalation.
+Implemented and maintained 1000+ frame relay networks.
+Assisted in the migration of upgrading 10 campus Buildings from Token Ring to Ethernet.
+Tested DS1, DS3 OC3 circuits using Network Management tools and various test equipment including: HP protocol analyzers, DCS Digital Access and Cross Connect System (ACCUDACS), Nortel NMS, and General Data Comm DSU/CSU units.</description></job> 
+
+ 
+<job end='727108' id='4' naics='56133001' naics2='56' pos='4' sic='872106' sic2='87' start='725221'><employer>Automatic Data Processing</employer> (<employer>ADP</employer>) - <daterange><start days='725221' iso8601='1986-08-01'>August 1986</start> - <end days='727108' iso8601='1991-10-01'>October 1991</end></daterange>  
+<title>Network Analyst Technician</title> 			           
+<address><city>Roseland</city>, <state abbrev='NJ'>New Jersey</state></address> 
+
+<description>Installed routers/switches and hubs, also well as wiring of field offices.
+Direct interface with carries, vendors, on troubleshooting network Faults and Performance. 
+Responsible for the data collection and presentation of performance reports to manage teams.</description></job>  
+ 
+<job end='725221' id='5' naics='51821008' naics2='51' pos='5' sic='732301' sic2='73' start='724675'><employer>Dun and Bradstreet</employer> - <daterange><start days='724675' iso8601='1985-02-01'>February 1985</start> - <end days='725221' iso8601='1986-08-01'>August 1986</end></daterange> 
+<title>Network Operator</title> 
+<address>Berkley <city>Heights</city>, <state abbrev='NJ'>New Jersey</state></address> 
+
+<description>Monitored online communications, Troubleshoot circuits, maintained Multi-CPU environment, direct interface with clients, carries and vendors.</description></job></experience> 
+
+<skills>Certifications 
+
+<courses>Intro to Cisco Routers Configuration             Cabling Data &amp; Voice Networks     Concord Developer
+Advance Cisco Router Configuration            Sniffer Network Analyzer                Concord Design
+Cisco Catalyst Switches                                 Intro to Network Protocols               Concord advance reporting
+Cisco Internetworking Troubleshooting        Internetworking with TCP/IP           Concord fundamentals</courses></skills>
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='advertising' start='730488'>
+    <variant>AD</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='aix' start='730488'>
+    <variant>AIX</variant>
+  </canonskill>
+  <canonskill name='atm'>
+    <variant>ATM</variant>
+  </canonskill>
+  <canonskill name='bgp'>
+    <variant>BGP</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='billing' start='730488'>
+    <variant>billing</variant>
+  </canonskill>
+  <canonskill name='cabling'>
+    <variant>Cabling</variant>
+  </canonskill>
+  <canonskill name='cisco'>
+    <variant>Cisco</variant>
+  </canonskill>
+  <canonskill name='cisco routers'>
+    <variant>Cisco Routers</variant>
+    <variant>Cisco Router Configuration</variant>
+  </canonskill>
+  <canonskill end='725221' experience='1' expidrefs='5' idrefs='5' lastused='1986' name='cpu' start='724675'>
+    <variant>CPU</variant>
+  </canonskill>
+  <canonskill end='729482' experience='1' expidrefs='3' idrefs='3' lastused='1998' name='csu' start='727108'>
+    <variant>CSU</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,5' idrefs='1,2,5' lastused='2012' name='customer relations' start='724675'>
+    <variant>client</variant>
+    <variant>clients</variant>
+  </canonskill>
+  <canonskill end='727108' experience='1' expidrefs='4' idrefs='4' lastused='1991' name='data collection' start='725221'>
+    <variant>data collection</variant>
+  </canonskill>
+  <canonskill end='729482' experience='1' expidrefs='3' idrefs='3' lastused='1998' name='data communications' start='727108'>
+    <variant>Data Comm</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='database administration' start='730488'>
+    <variant>databases</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='dhcp' start='730488'>
+    <variant>DHCP</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='dns' start='730488'>
+    <variant>DNS</variant>
+  </canonskill>
+  <canonskill end='729482' experience='1' expidrefs='3' idrefs='3' lastused='1998' name='dsu' start='727108'>
+    <variant>DSU</variant>
+  </canonskill>
+  <canonskill name='eigrp'>
+    <variant>EIGRP</variant>
+  </canonskill>
+  <canonskill end='729482' experience='1' expidrefs='3' idrefs='3' lastused='1998' name='ethernet' start='727108'>
+    <variant>Ethernet</variant>
+  </canonskill>
+  <canonskill end='729482' experience='1' expidrefs='3' idrefs='3' lastused='1998' name='frame relay' start='727108'>
+    <variant>Frame-Relay</variant>
+    <variant>frame relay</variant>
+  </canonskill>
+  <canonskill name='hdlc'>
+    <variant>HDLC</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,3' idrefs='1,3' lastused='2012' name='hewlett packard' start='727108'>
+    <variant>HP</variant>
+  </canonskill>
+  <canonskill name='hp openview'>
+    <variant>HP/OpenView</variant>
+  </canonskill>
+  <canonskill end='727108' experience='1' expidrefs='4' idrefs='4' lastused='1991' name='hubs' start='725221'>
+    <variant>hubs</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='ip' start='730488'>
+    <variant>IP</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='lan' start='729392'>
+    <variant>Lan</variant>
+    <variant>LAN</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='management' start='730488'>
+    <variant>managing</variant>
+  </canonskill>
+  <canonskill end='729482' experience='1' expidrefs='3' idrefs='3' lastused='1998' name='microsoft access' start='727108'>
+    <variant>Access</variant>
+  </canonskill>
+  <canonskill end='729482' experience='1' expidrefs='3' idrefs='3' lastused='1998' name='migration' start='727108'>
+    <variant>migration</variant>
+  </canonskill>
+  <canonskill end='729482' experience='1' expidrefs='3' idrefs='3' lastused='1998' name='network administration' start='727108'>
+    <variant>Network Management</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,3,4' idrefs='1,2,3,4' lastused='2012' name='networking' start='725221'>
+    <variant>Network</variant>
+    <variant>network</variant>
+    <variant>Networks</variant>
+    <variant>networks</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,3' idrefs='1,3' lastused='2012' name='nms' start='727108'>
+    <variant>NMS</variant>
+  </canonskill>
+  <canonskill end='729482' experience='1' expidrefs='3' idrefs='3' lastused='1998' name='nortel' start='727108'>
+    <variant>Nortel</variant>
+  </canonskill>
+  <canonskill name='oracle developer 2000'>
+    <variant>Developer</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='osi' start='730488'>
+    <variant>OSI</variant>
+  </canonskill>
+  <canonskill name='ospf'>
+    <variant>OSPF</variant>
+  </canonskill>
+  <canonskill name='pos'>
+    <variant>POS</variant>
+  </canonskill>
+  <canonskill name='protocols'>
+    <variant>Protocols</variant>
+  </canonskill>
+  <canonskill name='reports'>
+    <variant>reporting</variant>
+  </canonskill>
+  <canonskill name='rip'>
+    <variant>RIP</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,4' idrefs='1,2,4' lastused='2012' name='routers' start='725221'>
+    <variant>router</variant>
+    <variant>Routers</variant>
+    <variant>routers</variant>
+  </canonskill>
+  <canonskill name='sdlc'>
+    <variant>SDLC</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='sla' start='730488'>
+    <variant>SLA</variant>
+  </canonskill>
+  <canonskill end='729482' experience='1' expidrefs='3' idrefs='3' lastused='1998' name='supervisory skills' start='727108'>
+    <variant>supervisor</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,4' idrefs='1,2,4' lastused='2012' name='switches' start='725221'>
+    <variant>Switches</variant>
+    <variant>switches</variant>
+  </canonskill>
+  <canonskill end='730488' experience='1' expidrefs='2' idrefs='2' lastused='2001' name='t1' start='729392'>
+    <variant>T1</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='tcp/ip' start='730488'>
+    <variant>TCP/IP</variant>
+  </canonskill>
+  <canonskill end='729482' experience='1' expidrefs='3' idrefs='3' lastused='1998' name='test equipment' start='727108'>
+    <variant>test equipment</variant>
+  </canonskill>
+  <canonskill end='729482' experience='1' expidrefs='3' idrefs='3' lastused='1998' name='token ring' start='727108'>
+    <variant>Token Ring</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,4,5' idrefs='1,2,4,5' lastused='2012' name='troubleshooting' start='724675'>
+    <variant>Troubleshoot</variant>
+    <variant>troubleshoot</variant>
+    <variant>Troubleshooting</variant>
+    <variant>troubleshooting</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='unix' start='730488'>
+    <variant>UNIX</variant>
+    <variant>Unix</variant>
+  </canonskill>
+  <canonskill end='729482' experience='1' expidrefs='3' idrefs='3' lastused='1998' name='upgrades' start='727108'>
+    <variant>upgrading</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='wan' start='729392'>
+    <variant>WAN</variant>
+    <variant>Wan</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,4' idrefs='1,4' lastused='2012' name='wiring' start='725221'>
+    <variant>wiring</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

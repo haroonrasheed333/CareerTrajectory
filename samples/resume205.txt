@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734588' xml:space='preserve'>           <contact><name><givenname>Austin</givenname> <surname>Lawrence</surname></name>                                                                                         <phone>(404) 849-9255</phone>
+              <address lat='33.9683' lon='84.4394' majorcity='MARIETTA' state='GA'><street>1406 Waterford Green Drive</street>, <city>Marietta</city>, <state abbrev='GA'>GA</state> <postalcode>30068</postalcode></address>		                       <email>Austin@ALawren.com</email></contact>                                               
+<summary><objective>Cyber Security Engineer</objective>
+<summary>Software engineer with experience as a web application and network systems auditor. Ability to leverage a keen eye for security to provide a holistic view of an organization's security posture.</summary></summary>
+<experience end='present' start='732465'>Work History
+<job end='present' id='1' pos='1' sic='7374' sic2='73' start='733196'><title>Global Security Engineer, Intern</title> <employer>IBM Internet Security Systems</employer>, <daterange><start days='733196' iso8601='2008-06-01'>June 2008</start> - <end days='present' iso8601='2012-03-24'>Present</end></daterange>. <description>Developed in Perl, PHP, Java, JavaScript, SQL, and C++. Supported the Global Threat Operations Center by developing intelligence reporting systems, and working with internal system auditing teams.
+
+Worked with a team of three software engineers to create dynamic, web-based intelligence reporting systems which allowed management to have a clear picture of the current threat landscape. This project included the creation of an automated integration testing and code deployment system.
+
+Also worked with a four person internal penetration testing team as an assistant auditor. Systems that were tested include, but are not limited to, web applications, Linux servers, MySQL databases, and VOIP systems. Vulnerabilities that were discovered include XSS, SQL injection, server misconfigurations, and authentication bypasses. Advised management on potential risks and mitigation strategies. Helped develop security processes and best practices for future system development projects.
+
+Engineered a web-based virtualized attack laboratory. This system was created to dynamically spawn a choice of network capable operating systems, and easily launch  exploits against the sandboxed victim systems. Security software and hardware could be added to the laboratory for testing purposes. A reporting system was implemented to gauge the effectiveness of the security product.
+Technologies Used: Nagios, Cisco VOIP, Hudson, JUnit, VMWare, ExtJS, MySQL, SQL Server, Maven, Tomcat, Git, Selenium, LDAP, Remedy, Windows Server 2008, Red Hat Enterprise Linux, Metasploit, Nmap, Nessus, IBM AppScan, IDA Pro, OllyDbg, Medusa, Ettercap, Wireshark, Burp Suite</description></job>
+
+<job end='732891' id='2' pos='2' start='732557'><title>Technical Manager</title>, <employer>The New Media Arena</employer>, <daterange><start days='732557' iso8601='2006-09-01'>September 2006</start> - <end days='732891' iso8601='2007-08-01'>August 2007</end></daterange>. <jobtype>Part-time</jobtype> employment. <description>Managed this on-line computer gaming establishment, fixed equipment, interfaced with customers, and oversaw all aspects during night long lock-ins and general daytime hours. Developed and deployed a server-based disk emulation distribution system designed to share ISOs over a local area network.
+Technologies Used: SmartLaunch, Daemon Tools, Windows Server 2000, NFS</description></job>
+
+<job end='732526' id='3' pos='3' start='732465'><title>Technical Assistant</title>, <employer>Allure Digital Media, Inc</employer>. <daterange><start days='732465' iso8601='2006-06-01'>June 2006</start> - <end days='732526' iso8601='2006-08-01'>August 2006</end></daterange>. <description>Inventoried all equipment and repaired used computers. Loaded digital content for several clients and set up computer systems and displays in the conference room and showroom. Set up database systems for direct mail and email marketing programs.
+Technologies Used: MySQL, WordPress</description></job></experience>
+
+<education>Education
+<school id='4'><degree level='16' name='Bachelor of Science'>B.S</degree>. <major code='0402'>Computer Science</major> - <institution>Georgia Southern University</institution>. Projected graduation <completiondate>August 2012</completiondate>.
+<courses>Currently Learning Python, Windows API, x86 Assembly, and Reverse Engineering.</courses></school></education>
+
+<statements>Professional Associations
+<activities>Achieved the rank of Eagle Scout in the Boy Scouts of America.
+Vice President of the Georgia Southern chapter of the Association of Computing Machinery.</activities></statements>
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='auditing' start='733196'>
+    <variant>auditing</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='c + +' start='733196'>
+    <variant>C++</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='cisco' start='733196'>
+    <variant>Cisco</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='computer hardware' start='733196'>
+    <variant>hardware</variant>
+  </canonskill>
+  <canonskill end='732526' experience='1' expidrefs='3' idrefs='3' lastused='2006' name='content management' start='732465'>
+    <variant>content</variant>
+  </canonskill>
+  <canonskill end='732526' experience='1' expidrefs='3' idrefs='3' lastused='2006' name='customer relations' start='732465'>
+    <variant>clients</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,3' idrefs='1,3' lastused='2012' name='database administration' start='732465'>
+    <variant>databases</variant>
+    <variant>database</variant>
+  </canonskill>
+  <canonskill end='732526' experience='1' expidrefs='3' idrefs='3' lastused='2006' name='direct mail' start='732465'>
+    <variant>direct mail</variant>
+  </canonskill>
+  <canonskill end='732526' experience='1' expidrefs='3' idrefs='3' lastused='2006' name='email' start='732465'>
+    <variant>email</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='ibm' start='733196'>
+    <variant>IBM</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='java' start='733196'>
+    <variant>Java</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='javascript' start='733196'>
+    <variant>JavaScript</variant>
+  </canonskill>
+  <canonskill end='732891' experience='1' expidrefs='2' idrefs='2' lastused='2007' name='lan' start='732557'>
+    <variant>local area network</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='ldap' start='733196'>
+    <variant>LDAP</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='linux' start='733196'>
+    <variant>Linux</variant>
+  </canonskill>
+  <canonskill end='732526' experience='1' expidrefs='3' idrefs='3' lastused='2006' name='marketing' start='732465'>
+    <variant>marketing</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='microsoft windows' start='732557'>
+    <variant>Windows</variant>
+  </canonskill>
+  <canonskill end='732891' experience='1' expidrefs='2' idrefs='2' lastused='2007' name='microsoft windows 2000' start='732557'>
+    <variant>2000</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,3' idrefs='1,3' lastused='2012' name='mysql' start='732465'>
+    <variant>MySQL</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='netscape enterprise server' start='733196'>
+    <variant>Enterprise</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='networking' start='733196'>
+    <variant>network</variant>
+  </canonskill>
+  <canonskill end='732891' experience='1' expidrefs='2' idrefs='2' lastused='2007' name='nfs' start='732557'>
+    <variant>NFS</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='operating systems' start='733196'>
+    <variant>operating systems</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='perl' start='733196'>
+    <variant>Perl</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='php' start='733196'>
+    <variant>PHP</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='process engineering' start='733196'>
+    <variant>processes</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='4' idrefs='4' name='python'>
+    <variant>Python</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='red hat linux' start='733196'>
+    <variant>Red Hat</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='reports' start='733196'>
+    <variant>reporting</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='servers' start='733196'>
+    <variant>servers</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='sql' start='733196'>
+    <variant>SQL Server</variant>
+    <variant>SQL</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='tomcat' start='733196'>
+    <variant>Tomcat</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='voip' start='733196'>
+    <variant>VOIP</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='web application development' start='733196'>
+    <variant>web applications</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='4' idrefs='4' name='windows programming'>
+    <variant>Windows API</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='4' idrefs='4' name='x86 assembly'>
+    <variant>x86 Assembly</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

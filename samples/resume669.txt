@@ -1,0 +1,144 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734596' xml:space='preserve'><contact><address lat='29.7217' lon='95.6314' majorcity='HOUSTON' state='TX'><street>3703 LUTON PARK DRIVE</street> * <city>HOUSTON</city>, <state abbrev='TX'>TEXAS</state> <postalcode>77082</postalcode></address>	
+
+PHONE <phone>832 722 1875</phone> * FAX <phone type='fax'>281-293-9323</phone> * E-MAIL <email>KATHY50502@AOL.COM</email>	
+
+<name><givenname>C</givenname>. <givenname>KATHERINE</givenname> <surname>AGUMAGU</surname></name></contact>
+<summary>OBJECTIVE:
+<objective>To secure a position that will enable me to use my strong organizational skills, educational background, and ability to work well with people.</objective></summary>
+
+<education>EDUCATION:
+<school id='7'><degree level='18' name='Master of Business Administration'>MBA</degree>, <major code='4001'>Accounting</major> - <institution>University of Phoenix</institution>; Expected Graduation: <completiondate>Fall 2012</completiondate></school>
+<school id='8'><degree level='16' name='Bachelor of Business Administration'>BBA</degree>, <major code='4001'>Accounting</major>; <institution>University of Houston</institution>-<major>Downtown</major>; <completiondate days='733410' iso8601='2009-01-01'>2009</completiondate></school></education>
+
+<experience end='present' start='730761'>WORK EXPERIENCE:
+
+<job end='present' id='1' pos='1' sic='596301' sic2='59' start='734474'><employer>Concierge</employer> (Rice Post Lofts). <employer>Snelling Staffing Services</employer>; <address><city>Houston</city>, <state abbrev='TX'>Texas</state></address>; <daterange><start days='734474' iso8601='2011-12-01'>12/2011</start> - <end days='present' iso8601='2012-04-01'>present</end></daterange>
+<description>Serve as liaison between property management and tenants
+Maintain building activity/lobby logs
+Manage and direct all company calls
+Create a welcoming, secure, and professional presence in the lobby</description></job>
+
+<job end='734474' id='2' pos='2' start='734383'><title>Marketing Coordinator</title>. The Top Gun Executive Group; <address><city>Houston</city>, <state abbrev='TX'>Texas</state></address>; <daterange><start days='734383' iso8601='2011-09-01'>09/2011</start> - <end days='734474' iso8601='2011-12-01'>12/2011</end></daterange>
+<description>Managed 15+ executive client files
+Cold called C-level executives to initiate projects and new business
+Developed qualified leads for clients
+Created client profiles and marketing strategy per candidate requirements
+Worked closely with clients to ensure that contractual service expectations are exceeded
+Researched executive job opportunities nationally and globally
+Screened prospects and sourced for candidates
+Built consistent customer relationships
+Collaborated with team and managers on specific critical projects
+Handled all incoming calls into firm</description></job>
+
+
+<job end='734383' id='3' pos='3' sic='549901' sic2='54' start='733744'><title>Case Manager</title>. <employer>Optimum Health Services</employer>; <address><city>Houston</city>, <state abbrev='TX'>Texas</state></address>; <daterange><start days='733744' iso8601='2009-12-01'>12/2009</start> - <end days='734383' iso8601='2011-09-01'>09/2011</end></daterange>
+<description>Provided family-centered, neighborhood-based case management services to caseload approximately 40 families identified as having a high potential for abuse, neglect or dependency.</description></job>
+
+
+
+
+
+WORK EXPERIENCE (CONTINUED):
+
+
+<job end='733744' id='4' pos='4' sic='599301' sic2='59' start='733561'><title>Inventory Clerk Intern</title>. <employer>Cigar Cigar, LLC</employer>; <address><city>Sugar Land</city>, <state abbrev='TX'>Texas</state></address>; <daterange><start days='733561' iso8601='2009-06-01'>6/2009</start> - <end days='733744' iso8601='2009-12-01'>12/2009</end></daterange>
+<description>Assisted in inventory management systems control
+Conducted physical count of inventory
+Documented inventory using Quickbooks software
+Invoiced/ordered products
+Assisted in outlining and documenting 
+Utilized retail operations process
+Scanned/copied/outlined documents</description></job>
+
+
+<job end='733441' id='5' pos='5' sic='562101' sic2='56' start='732404'><title>Retail Sales Associate</title>. <employer>The Limited</employer>; <address><city>Houston</city>, <state abbrev='TX'>Texas</state></address>; <daterange><start days='732404' iso8601='2006-04-01'>4/2006</start> - <end days='733441' iso8601='2009-02-01'>2/2009</end></daterange>
+<description>Assisted customers and provided quality customer service
+Demonstrated initiative while suggesting sales and new promotions to customers
+Ensured a consistent/quality store experience
+Strengthened the image of customer service
+Cashiered/checked out customers</description></job>
+
+<job end='732465' id='6' pos='6' sic='581208' sic2='58' start='730761'><title>Cashier/Cook</title>. <employer>Schlotzsky's Deli</employer>; <address><city>Houston</city>, <state abbrev='TX'>Texas</state></address>; <daterange><start days='730761' iso8601='2001-10-01'>10/2001</start> - <end days='732465' iso8601='2006-06-01'>6/2006</end></daterange>
+<description>Responsible for placing customer food orders and provided exceptional customer service
+Suggested sales and new promotions to increase sales activity
+Trained new hires</description></job></experience>	
+
+
+<skills>KEY TECHNICAL SKILLS:
+
+<skills>Microsoft Applications (Windows, Word, Excel, PowerPoint, Outlook)
+Intuit Quickbooks
+Peachtree Accounting Systems
+Adobe Applications (various)</skills></skills>
+
+
+<references>REFERENCES:
+
+Supplied upon request</references>
+</resume>
+
+<skillrollup version='1'>
+  <canonskill name='adobe'>
+    <variant>Adobe</variant>
+  </canonskill>
+  <canonskill name='applications'>
+    <variant>Microsoft Applications</variant>
+  </canonskill>
+  <canonskill end='734474' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='c' start='734383'>
+    <variant>C</variant>
+  </canonskill>
+  <canonskill end='734474' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='customer relations' start='734383'>
+    <variant>client</variant>
+    <variant>clients</variant>
+  </canonskill>
+  <canonskill end='733441' experience='1' expidrefs='5,6' idrefs='5,6' lastused='2009' name='customer service' start='730761'>
+    <variant>customer service</variant>
+  </canonskill>
+  <canonskill end='733441' experience='1' expidrefs='5' idrefs='5' lastused='2009' name='imaging' start='732404'>
+    <variant>image</variant>
+  </canonskill>
+  <canonskill end='733744' experience='1' expidrefs='4' idrefs='4' lastused='2009' name='inventory management' start='733561'>
+    <variant>inventory management</variant>
+    <variant>inventory</variant>
+  </canonskill>
+  <canonskill end='734474' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='market planning' start='734383'>
+    <variant>marketing strategy</variant>
+  </canonskill>
+  <canonskill name='microsoft excel'>
+    <variant>Excel</variant>
+  </canonskill>
+  <canonskill name='microsoft outlook'>
+    <variant>Outlook</variant>
+  </canonskill>
+  <canonskill name='microsoft powerpoint'>
+    <variant>PowerPoint</variant>
+  </canonskill>
+  <canonskill name='microsoft windows'>
+    <variant>Windows</variant>
+  </canonskill>
+  <canonskill name='microsoft word'>
+    <variant>Word</variant>
+  </canonskill>
+  <canonskill name='peachtree accounting software'>
+    <variant>Peachtree Accounting</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='property management' start='734474'>
+    <variant>property management</variant>
+  </canonskill>
+  <canonskill end='733441' experience='1' expidrefs='5' idrefs='5' lastused='2009' name='quality' start='732404'>
+    <variant>quality</variant>
+  </canonskill>
+  <canonskill end='733744' experience='1' expidrefs='4' idrefs='4' lastused='2009' name='quickbooks' start='733561'>
+    <variant>Quickbooks</variant>
+  </canonskill>
+  <canonskill end='733744' experience='1' expidrefs='4' idrefs='4' lastused='2009' name='retail' start='733561'>
+    <variant>retail</variant>
+  </canonskill>
+  <canonskill end='733441' experience='1' expidrefs='5,6' idrefs='5,6' lastused='2009' name='sales' start='730761'>
+    <variant>sales</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

@@ -1,0 +1,473 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734594' xml:space='preserve'><contact><name><givenname>Tania</givenname> <surname>Mazza</surname></name>
+<address lat='38.9018' lon='94.6334' majorcity='LEAWOOD' state='KS'><street>12862 Sagamore Rd.</street>, <city>Leawood</city>, <state abbrev='KS'>KS</state>, <postalcode>66209</postalcode></address>
+<phone>913-832-6431</phone>
+<email>tdeblauwe@yahoo.com</email></contact>
+
+
+
+<experience end='present' start='729392'>Professional Experience 
+
+
+<job end='present' id='1' pos='1' start='733410'><employer>MOBITV, Inc</employer>., <address><city>Overland Park</city>, <state abbrev='KS'>KS</state></address>
+<title>Sr. Solutions Architect</title>
+<daterange><start days='733410' iso8601='2009-01-01'>2009</start> - <end days='present' iso8601='2012-03-30'>Present</end></daterange>
+
+<description>Reporting to CTO with strategic and tactical responsibility for providing technical solutions that align with our technology roadmap and business goals.
+Providing pre-sales, field engineering, and on-site customer support and working as a liaison for MobiTV's technical organization for troubleshooting and problem resolution across internal groups - Sales, Product, Engineering, and Operations - and externally to OEMs, Carriers, Content Providers, and Strategic Partners.  
+Working into US and European mobile operators and MNOs including AT&amp;T, Verizon, Sprint, T-Mobile, Clear, and Deutche Telecom and partnering closely with OEMs, CDNs, Apple and Google. 
+Created, staffed, and operated a satellite office in Overland Park, KS responsible for mobile development and quality assurance engineers driving $55m+ annual revenue
+Architecting mobile device solutions and driving application development across multiple device platforms - Android, IOS, BREW, JAVA, WP7, Palm, and RIM
+Designing and delivering open, standard's based technologies, distributed multi-tier architectures, and applications with specific expertise in all of the following:
+
+* LBS, MMS, WAP, RTSP, PGDL, FMP4 and HTTP 
+* Provisioning and billing back-office systems
+* Web proxy interfaces and APIs
+* Vending platform, DRM, Ad Insertion, and Content Delivery Systems</description></job>
+
+
+
+<job end='733410' id='2' pos='2' start='732679'><employer>FIBROGEN</employer>, <address><city>San Francisco</city>, <state abbrev='CA'>CA</state></address>
+<title>Director</title>, Information Technology
+<daterange><start days='732679' iso8601='2007-01-01'>2007</start>-<end days='733410' iso8601='2009-01-01'>2009</end></daterange>
+
+
+
+
+
+
+
+ 
+<description>Reported to CFO with primary responsibility for overall Enterprise Architecture and direction for three internal teams:  Network Infrastructure, Application Development, and Corporate Help Desk.    
+Primary Enterprise Architecture responsibility for developing and implementing strategic direction and managing the activities of information management systems, local area computer network, voice, and data telecommunication systems, Internet and intranet systems and information systems support.
+Responsible for support of 300+ end users for all hardware, software, and telephony issues including remote users in China, Japan, and across the US.  Developed and managed $20+ million annual capital and expense budget.
+Lead the RFP, vendor selection, and customized deployment of Documentum - document management and workflow process tool - to manage all documents across all departments.  Created specialized module for validated system documents and FDA submissions. 
+Responsibility for planning and deployment of the entire IT infrastructure migration to the company's new facility in San Francisco - including designing a new data center and migration of all of the company's data to the new $10M Cisco VOIP, Data, and Wireless infrastructure.</description></job>
+
+
+
+<job end='732679' id='3' pos='3' sic='481207' sic2='48' start='732314'><employer>US CELLULAR</employer>, <address><city>Chicago</city>, <state abbrev='IL'>IL</state></address>
+<title>Director</title>, Advanced Technology 
+
+
+<daterange><start days='732314' iso8601='2006-01-01'>2006</start>-<end days='732679' iso8601='2007-01-01'>2007</end></daterange>
+
+<description>Created, staffed, and lead a new team of Engineers in the Advanced Technology and Strategic Planning group responsible for developing requirements for wireless data projects, creating the architectures, discovering the requirements, developing the product development plan, and managing the end-to-end development and deployment of the product. Primary goals of the team include:
+Developed and launched wireless products and services - major product / project launches in 2006 include EVDO Rev.A, IP Backhaul, OTA Device Management, Streaming Audio / Video, Location Based Services, and a full deployment of BREW / uiOne. 
+Partnered closely with Qualcomm to develop and launch new uiOne BREW wireless products and services for existing handsets and to develop new location-based and music apps for the launch of the EVDO data network. 
+Developed and managed $30 million annual capital and expense budgets for new technology investment and ongoing network operations.</description></job> 
+
+
+
+<job end='732314' id='4' inferred-to='4,6,7,8,9' naics='51721201' naics2='51' pos='5' sic='481304' sic2='48' start='729392'><employer>SPRINT</employer>, <address><city>Overland Park</city>, <state abbrev='KS'>KS</state></address>
+<daterange><start days='729392' iso8601='1998-01-01'>1998</start>-<end days='732314' iso8601='2006-01-01'>2006</end></daterange></job>
+
+
+
+                                                                                   
+
+<job end='732314' id='5' inferred-from='5' pos='4' sic='481304' sic2='48' start='731949'><title>Senior Manager</title>, Wireless Product Management, <daterange><start days='731949' iso8601='2005-01-01'>2005</start> - <end days='732314' iso8601='2006-01-01'>2006</end></daterange>
+
+
+<description>Responsible for leading a team of senior wireless data product managers responsible for the business development of key cross-platform wireless capabilities such as Content Management, DRM, Presence, Profile Management, Policy Management, and Authentication across Digital Media and Messaging product lanes to develop wireless data products and services for the Sprint's 1XRTT and EVDO Data Networks.    
+Drove cross product initiatives for wireless data products and services including Multimedia Messaging (MMS), Text Messaging (SMS), Streaming Multimedia (RTSP), Wireless Web (WAP), Java Downloads (Ringers / Wallpaper / Apps), IPTV, Location-Based Services (LBS), and others. 
+Conducted cross-platform concept assessment and assessment of vendor solutions via RFI / RFP process -- triaged for vendor proposed solutions that span product lanes</description></job>
+
+<job end='731949' id='6' inferred-from='5' pos='6' sic='481304' sic2='48' start='731583'><title>Senior Network Manager</title>, Wireless Data Planning, <daterange><start days='731583' iso8601='2004-01-01'>2004</start> - <end days='731949' iso8601='2005-01-01'>2005</end></daterange>
+
+<description>Owned planning and development responsibility for 14 network platforms including Multimedia gateway, WAP gateways, Handspring gateway, BMI Compression, F5 Big IP's, DataLink, and Data CALEA platforms
+Drove Network efforts for MVNO's:  Architect solutions for Sprint MVNO customers. Lead the development of Sprint's generic MVNO data network and developed Sprint's network approach for Virgin Mobile, Qwest, AT&amp;T, and Bell Mobility MVNOs.  
+Negotiated a $30m Total Cost of Ownership savings for Sprint by designing, developing, and launching a new WAP 2.0 gateway platform to support EVDO traffic. Successfully rolled this distributed system (14 sites X 25 servers per site X 4 interfaces per server) utilizing cutting-edge Linux Blade technology to support 25 million EVDO / WAP 2.0 subscribers.</description></job>  
+
+<job end='731583' id='7' inferred-from='5' pos='7' sic='481304' sic2='48' start='730488'><title>Principal Network Design Engineer</title>, Wireless Data Planning, <daterange><start days='730488' iso8601='2001-01-01'>2001</start>-<end days='731583' iso8601='2004-01-01'>2004</end></daterange>
+
+
+<description>Overall responsibility for a 3 year / $50+ million development project to design, build, test, and implement the first CDMA2000 3G Wireless Web Gateway in North America. 
+Designed and developed open, standards-based Web Applications and Services based on WAP 2.0, HTTP 1.1, TCP / IP, Java technologies, and OMA / W3C Standards to develop and deploy data products such as Gaming, Messaging, Multimedia, Digital Imaging, and the Java Vending Machine. 
+Provided strategic direction, planning, forecasting, and costing for a variety of wireless data Value Added Services projects.
+Led an eleven-month engagement to design and deploy twelve Wireless Internet Gateways and provide nationwide web access and Vision services for all 3G Sprint PCS customers. 
+Responsible for designing, developing, testing, and implementing nationwide wireless data services for 1XRTT and EVDO networks</description></job> 
+
+<job end='730488' id='8' inferred-from='5' pos='8' sic='481304' sic2='48' start='729757'><title>Advanced Technology Development,  Manager</title>, <daterange><start days='729757' iso8601='1999-01-01'>1999</start> - <end days='730488' iso8601='2001-01-01'>2001</end></daterange>
+ 
+<description>Managed a team of 14 software engineers and project analyst responsible for developing and testing Service-layer client / server and web applications for Sprint ION. 
+Matrix-managed a large group of diverse development project teams - Web development projects, Java *Development projects, C++ Development projects - directing the activity of 14-20 developers
+Lead development team in the design and implementation of a C++ distributed object framework. Used Universal Modeling Language (UML) with RationalRose to model designs. 
+Led the design, development, testing, and deployment of the Service Manager Manager -- Sprint ION Network interface into the Telcordia Service Manager (Class 5 Virtual Switch).</description></job>  			
+
+<job end='729757' id='9' inferred-from='5' pos='9' sic='481304' sic2='48' start='729392'><title>QA Engineer</title>, Information Technology, <daterange><start days='729392' iso8601='1998-01-01'>1998</start>-<end days='729757' iso8601='1999-01-01'>1999</end></daterange>
+
+<description>Initiated Business Process Re-engineering principles to improve internal relationships, promoting procedures and processes to better align IT with the SEI/CMM model of software development and as well as adherence to ISO 9000 and IEEE standards.  
+Lead the RFP, vendor selection, and deployment of a knowledge management system -- Documentum - for Sprint PCS.  
+Lead Y2K analysis for all Sprint PCS ITS systems.</description></job></experience>
+
+
+<education>Education:
+
+<school id='10'><institution>Boston University</institution>, <address><city>Boston</city> <state abbrev='MA'>MA</state></address>, <degree level='18' name='Master of Education'>M.Ed</degree>.<completiondate days='727566' iso8601='1993-01-01'>1993</completiondate></school>
+<school id='11'><institution>Baylor University</institution>, <address><city>Waco</city>, <state abbrev='TX'>TX</state></address>, <degree level='16' name='Bachelor of Arts'>B.A</degree>.,<completiondate days='724644' iso8601='1985-01-01'>1985</completiondate></school></education>
+
+
+<professional>Patents:
+
+<publications>Patent # 7545762  - &quot;Method and System for Network Presence Notification&quot; Issued July 9, 2009
+Patent  # 7602795 -- &quot;Method and System for Identifying a Mobile Station to a Content Server&quot; Issued Oct 13, 2009  
+Patent #7900245 - &quot;Method and System for Non-repeating User Identification in a Communication System &quot; Issued March 1, 2011
+Patent Pending  - &quot;Method and Procedure for Network Level MDN / NAI Discovery and Insertion into the HTTP Header&quot;</publications></professional>  
+
+<skills>Technology
+
+
+<skills>Video -- Video Encoding and Streaming platforms, IPTV, MPEG-2, MPEG-4, h.264, VOD, Live Streaming, Clip Linear, RTSP / RTP, UDP, Progressive Download, HSL, FMP4, ATSC-M/H, DYLE
+Networking - Client And Proxy Mobile IP, Packet Data Networks, Circuit Switched Data Networks, 3G, 4G, LTE, WiMax, WIFI, GSM, CDMA
+Operating Systems - Windows, Linux, IOS 
+Hardware - Cisco Routers, VPN, PDSN, HA, AAA, LDAP, AD, RAID, SAN, Firewalls
+Protocols -- TCP/IP, HTTP, SIP, WAP, Frame Relay, RTSP / UDP, RTP, FMP4
+Mark-up Languages -- HTML, XML, XHTML, WML
+Databases - SQL, Oracle, Informix, MS Access
+Standards - SOX, 21 CFR h.264, , SEI-CMM, ITIL, OMA, W3C
+Dev Methodology - SDLC, Agile, SEI-CMM, ITIL</skills></skills>
+</resume>
+
+<skillrollup version='1'>
+  <canonskill experience='1' name='3g'>
+    <variant>3G</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='advertising' start='733410'>
+    <variant>AD</variant>
+    <variant>Ad</variant>
+  </canonskill>
+  <canonskill name='agile'>
+    <variant>Agile</variant>
+  </canonskill>
+  <canonskill experience='1' name='analysis'>
+    <variant>analyst</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='apple' start='733410'>
+    <variant>Apple</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='application development' start='732679'>
+    <variant>Application Development</variant>
+    <variant>application development</variant>
+  </canonskill>
+  <canonskill experience='1' name='approach'>
+    <variant>approach</variant>
+  </canonskill>
+  <canonskill experience='1' name='architecture'>
+    <variant>Architect</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='audio' start='732314'>
+    <variant>Audio</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='billing' start='733410'>
+    <variant>billing</variant>
+  </canonskill>
+  <canonskill end='733410' experience='1' expidrefs='2,3' idrefs='2,3' lastused='2009' name='budgeting' start='732314'>
+    <variant>budgets</variant>
+    <variant>budget</variant>
+  </canonskill>
+  <canonskill experience='1' name='business development'>
+    <variant>business development</variant>
+  </canonskill>
+  <canonskill experience='1' name='business process'>
+    <variant>Business Process Re-engineering</variant>
+  </canonskill>
+  <canonskill experience='1' name='c + +'>
+    <variant>C++</variant>
+  </canonskill>
+  <canonskill experience='1' name='capability maturity model'>
+    <variant>CMM</variant>
+  </canonskill>
+  <canonskill end='733410' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='cisco' start='732679'>
+    <variant>Cisco</variant>
+  </canonskill>
+  <canonskill name='cisco routers'>
+    <variant>Cisco Routers</variant>
+  </canonskill>
+  <canonskill experience='1' name='client/server'>
+    <variant>client / server</variant>
+  </canonskill>
+  <canonskill end='733410' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='computer hardware' start='732679'>
+    <variant>Hardware</variant>
+    <variant>hardware</variant>
+  </canonskill>
+  <canonskill experience='1' name='concept development'>
+    <variant>concept</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='content management' start='733410'>
+    <variant>Content Management</variant>
+    <variant>Content</variant>
+  </canonskill>
+  <canonskill name='customer relations'>
+    <variant>Client</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='customer support' start='733410'>
+    <variant>customer support</variant>
+  </canonskill>
+  <canonskill name='database administration'>
+    <variant>Databases</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='dec mms' start='733410'>
+    <variant>MMS</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='delivery' start='733410'>
+    <variant>Delivery</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='design' start='732679'>
+    <variant>Designing</variant>
+    <variant>designing</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='development' start='732314'>
+    <variant>product development</variant>
+  </canonskill>
+  <canonskill experience='1' name='digital imaging'>
+    <variant>Digital Imaging</variant>
+  </canonskill>
+  <canonskill end='733410' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='directing' start='732679'>
+    <variant>directing</variant>
+    <variant>direction</variant>
+  </canonskill>
+  <canonskill end='733410' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='document management' start='732679'>
+    <variant>document management</variant>
+  </canonskill>
+  <canonskill end='733410' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='documentum' start='732679'>
+    <variant>Documentum</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='driving' start='733410'>
+    <variant>driving</variant>
+  </canonskill>
+  <canonskill experience='1' name='edge'>
+    <variant>edge</variant>
+  </canonskill>
+  <canonskill name='firewalls'>
+    <variant>Firewalls</variant>
+  </canonskill>
+  <canonskill experience='1' name='forecasting'>
+    <variant>forecasting</variant>
+  </canonskill>
+  <canonskill name='frame relay'>
+    <variant>Frame Relay</variant>
+  </canonskill>
+  <canonskill experience='1' name='gateway'>
+    <variant>Gateways</variant>
+    <variant>gateways</variant>
+    <variant>Gateway</variant>
+    <variant>gateway</variant>
+  </canonskill>
+  <canonskill name='gsm'>
+    <variant>GSM</variant>
+  </canonskill>
+  <canonskill end='733410' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='help desk support' start='732679'>
+    <variant>Help Desk</variant>
+  </canonskill>
+  <canonskill name='html'>
+    <variant>HTML</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='http' start='733410'>
+    <variant>HTTP 1.1</variant>
+    <variant>HTTP</variant>
+  </canonskill>
+  <canonskill end='733410' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='information systems' start='732679'>
+    <variant>information systems</variant>
+  </canonskill>
+  <canonskill name='informix'>
+    <variant>Informix</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='ip' start='732314'>
+    <variant>IP</variant>
+  </canonskill>
+  <canonskill experience='1' name='iso 9000'>
+    <variant>ISO 9000</variant>
+  </canonskill>
+  <canonskill name='itil'>
+    <variant>ITIL</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='java' start='733410'>
+    <variant>Java</variant>
+    <variant>JAVA</variant>
+  </canonskill>
+  <canonskill experience='1' name='knowledge management'>
+    <variant>knowledge management</variant>
+  </canonskill>
+  <canonskill name='languages'>
+    <variant>Languages</variant>
+  </canonskill>
+  <canonskill name='ldap'>
+    <variant>LDAP</variant>
+  </canonskill>
+  <canonskill experience='1' name='linux'>
+    <variant>Linux</variant>
+  </canonskill>
+  <canonskill end='733410' experience='1' expidrefs='2,3' idrefs='2,3' lastused='2009' name='management' start='732314'>
+    <variant>managing</variant>
+  </canonskill>
+  <canonskill name='mark'>
+    <variant>Mark</variant>
+  </canonskill>
+  <canonskill experience='1' name='messaging'>
+    <variant>Messaging</variant>
+  </canonskill>
+  <canonskill experience='1' name='microsoft access'>
+    <variant>access</variant>
+    <variant>MS Access</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='microsoft backoffice' start='733410'>
+    <variant>back-office</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='microsoft office' start='733410'>
+    <variant>office</variant>
+  </canonskill>
+  <canonskill name='microsoft windows'>
+    <variant>Windows</variant>
+  </canonskill>
+  <canonskill experience='1' name='microsoft windows 2000'>
+    <variant>2000 3</variant>
+  </canonskill>
+  <canonskill end='733410' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='migration' start='732679'>
+    <variant>migration</variant>
+  </canonskill>
+  <canonskill experience='1' name='modeling'>
+    <variant>Modeling</variant>
+  </canonskill>
+  <canonskill experience='1' name='multimedia'>
+    <variant>Multimedia</variant>
+  </canonskill>
+  <canonskill end='733410' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='netscape enterprise server' start='732679'>
+    <variant>Enterprise</variant>
+  </canonskill>
+  <canonskill end='733410' experience='1' expidrefs='2,3' idrefs='2,3' lastused='2009' name='networking' start='732314'>
+    <variant>Network</variant>
+    <variant>network</variant>
+    <variant>Networking</variant>
+    <variant>Networks</variant>
+    <variant>networks</variant>
+  </canonskill>
+  <canonskill name='operating systems'>
+    <variant>Operating Systems</variant>
+  </canonskill>
+  <canonskill name='oracle'>
+    <variant>Oracle</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='problem solving' start='733410'>
+    <variant>problem resolution</variant>
+  </canonskill>
+  <canonskill experience='1' name='process engineering'>
+    <variant>processes</variant>
+  </canonskill>
+  <canonskill name='protocols'>
+    <variant>Protocols</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='proxy server' start='733410'>
+    <variant>Proxy</variant>
+    <variant>proxy</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='quality control' start='733410'>
+    <variant>quality assurance</variant>
+  </canonskill>
+  <canonskill name='raid'>
+    <variant>RAID</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='reports' start='733410'>
+    <variant>Reporting</variant>
+  </canonskill>
+  <canonskill experience='1' name='rfi'>
+    <variant>RFI</variant>
+  </canonskill>
+  <canonskill end='733410' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='rfp' start='732679'>
+    <variant>RFP</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='sales' start='733410'>
+    <variant>Sales</variant>
+    <variant>sales</variant>
+  </canonskill>
+  <canonskill end='733410' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='san' start='732679'>
+    <variant>SAN</variant>
+    <variant>San</variant>
+  </canonskill>
+  <canonskill name='sdlc'>
+    <variant>SDLC</variant>
+  </canonskill>
+  <canonskill experience='1' name='servers'>
+    <variant>servers</variant>
+  </canonskill>
+  <canonskill experience='1' name='sms'>
+    <variant>SMS</variant>
+  </canonskill>
+  <canonskill experience='1' name='software development'>
+    <variant>software development</variant>
+  </canonskill>
+  <canonskill name='sql'>
+    <variant>SQL</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='strategic' start='732679'>
+    <variant>Strategic</variant>
+    <variant>strategic</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='strategic planning' start='732314'>
+    <variant>Strategic Planning</variant>
+  </canonskill>
+  <canonskill experience='1' name='switches'>
+    <variant>Switch</variant>
+  </canonskill>
+  <canonskill experience='1' name='tcp/ip'>
+    <variant>TCP / IP</variant>
+    <variant>TCP/IP</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='telecommunications' start='732679'>
+    <variant>Telecom</variant>
+    <variant>telecommunication</variant>
+  </canonskill>
+  <canonskill end='733410' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='telephone skills' start='732679'>
+    <variant>telephony</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='troubleshooting' start='733410'>
+    <variant>troubleshooting</variant>
+  </canonskill>
+  <canonskill experience='1' name='unified modeling language'>
+    <variant>UML</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='video' start='732314'>
+    <variant>Video</variant>
+  </canonskill>
+  <canonskill experience='1' name='vision'>
+    <variant>Vision</variant>
+  </canonskill>
+  <canonskill end='733410' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='voip' start='732679'>
+    <variant>VOIP</variant>
+  </canonskill>
+  <canonskill name='vpn'>
+    <variant>VPN</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='wap' start='733410'>
+    <variant>WAP 2.0</variant>
+    <variant>WAP</variant>
+  </canonskill>
+  <canonskill experience='1' name='web application development'>
+    <variant>Web Applications</variant>
+    <variant>web applications</variant>
+  </canonskill>
+  <canonskill experience='1' name='web site production'>
+    <variant>Web development</variant>
+  </canonskill>
+  <canonskill name='wml'>
+    <variant>WML</variant>
+  </canonskill>
+  <canonskill end='733410' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='workflow analysis' start='732679'>
+    <variant>workflow</variant>
+  </canonskill>
+  <canonskill experience='1' name='x 25'>
+    <variant>X 25</variant>
+  </canonskill>
+  <canonskill name='xhtml'>
+    <variant>XHTML</variant>
+  </canonskill>
+  <canonskill name='xml'>
+    <variant>XML</variant>
+  </canonskill>
+  <canonskill experience='1' name='year 2000'>
+    <variant>Y2K</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

@@ -1,0 +1,89 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Brocade Certified FCoE Professional", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "6254", 
+            "Certifying Organization": "Brocade Communications Systems, Inc."
+        }, 
+        {
+            "Acronym": "WCM", 
+            "Certification Name": "Wireless Communications Electronics Technician", 
+            "Type": "Core", 
+            "Certification ID": "3683", 
+            "Certifying Organization": "ETA International"
+        }, 
+        {
+            "Acronym": "CST", 
+            "Certification Name": "Computer Service Technician", 
+            "Type": "Core", 
+            "Certification ID": "0516", 
+            "Certifying Organization": "ETA International"
+        }, 
+        {
+            "Acronym": "CNCT", 
+            "Certification Name": "Certified Network Computer Technician", 
+            "Type": "Core", 
+            "Certification ID": "3037", 
+            "Certifying Organization": "ETA International"
+        }, 
+        {
+            "Acronym": "AVD", 
+            "Certification Name": "Certified Audio Video Distribution Technician", 
+            "Type": "Core", 
+            "Certification ID": "3038", 
+            "Certifying Organization": "ETA International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Apple Certified Macintosh Technician", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "3509", 
+            "Certifying Organization": "Apple Computer, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Alcatel-Lucent Network Routing Specialist", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "2907", 
+            "Certifying Organization": "Alcatel"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Alcatel-Lucent Network Routing Specialist II", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "2906", 
+            "Certifying Organization": "Alcatel"
+        }, 
+        {
+            "Acronym": "CET", 
+            "Certification Name": "Certified Electronics Technician - Journeyman-Level - Computer", 
+            "Type": "Specialty", 
+            "Certification ID": "0506", 
+            "Certifying Organization": "International Society of Certified Electronics Technicians"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Brocade Certified Network Professional", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "6256", 
+            "Certifying Organization": "Brocade Communications Systems, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Brocade Certified Layer 4-7 Engineer", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "6257", 
+            "Certifying Organization": "Brocade Communications Systems, Inc."
+        }, 
+        {
+            "Acronym": "FOTC", 
+            "Certification Name": "Fiber Optics Technician", 
+            "Type": "Specialty", 
+            "Certification ID": "0519", 
+            "Certifying Organization": "ETA International"
+        }
+    ], 
+    "onet": "49201100"
+}

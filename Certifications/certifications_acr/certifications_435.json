@@ -1,0 +1,26 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "ASCP)", 
+            "Certification Name": "Cytotechnologist", 
+            "Type": "Core", 
+            "Certification ID": "1823", 
+            "Certifying Organization": "American Society for Clinical Pathology"
+        }, 
+        {
+            "Acronym": "CG", 
+            "Certification Name": "Technologist in Cytogenetics", 
+            "Type": "Core", 
+            "Certification ID": "6312", 
+            "Certifying Organization": "American Society for Clinical Pathology"
+        }, 
+        {
+            "Acronym": "IAC)", 
+            "Certification Name": "Certified Cytotechnologist", 
+            "Type": "Core", 
+            "Certification ID": "1837", 
+            "Certifying Organization": "International Academy of Cytology"
+        }
+    ], 
+    "onet": "29201101"
+}

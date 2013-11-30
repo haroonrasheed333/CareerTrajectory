@@ -1,0 +1,54 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Collection Systems - Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "5350", 
+            "Certifying Organization": "Solid Waste Association of North America"
+        }, 
+        {
+            "Acronym": "PTP", 
+            "Certification Name": "Professional Transportation Planner", 
+            "Type": "Advanced", 
+            "Certification ID": "6168", 
+            "Certifying Organization": "Transportation Professional Certification Board, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified GIS/LIS Technologist", 
+            "Type": "Core", 
+            "Certification ID": "3944", 
+            "Certifying Organization": "American Society for Photogrammetry and Remote Sensing - Imaging & Geospatial Information Society"
+        }, 
+        {
+            "Acronym": "RCA", 
+            "Certification Name": "Responsible Care Auditor", 
+            "Type": "Advanced", 
+            "Certification ID": "6263", 
+            "Certifying Organization": "Board of Environmental Health and Safety Auditor Certification"
+        }, 
+        {
+            "Acronym": "ZI", 
+            "Certification Name": "Zoning Inspector", 
+            "Type": "Core", 
+            "Certification ID": "3401", 
+            "Certifying Organization": "International Code Council"
+        }, 
+        {
+            "Acronym": "ND", 
+            "Certification Name": "LEED AP Neighborhood Development", 
+            "Type": "Advanced", 
+            "Certification ID": "6274", 
+            "Certifying Organization": "Green Building Certification Institute"
+        }, 
+        {
+            "Acronym": "AICP", 
+            "Certification Name": "Certified Planner", 
+            "Type": "Advanced", 
+            "Certification ID": "1327", 
+            "Certifying Organization": "American Institute of Certified Planners"
+        }
+    ], 
+    "onet": "19406101"
+}

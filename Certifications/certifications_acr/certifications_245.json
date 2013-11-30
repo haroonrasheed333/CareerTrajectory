@@ -1,0 +1,124 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "Diplomate", 
+            "Certification Name": "Certified Vocational Expert (Diplomate)", 
+            "Type": "Advanced", 
+            "Certification ID": "1415", 
+            "Certifying Organization": "American Board of Vocational Experts"
+        }, 
+        {
+            "Acronym": "Fellow", 
+            "Certification Name": "Certified Vocational Expert (Fellow)", 
+            "Type": "Advanced", 
+            "Certification ID": "1414", 
+            "Certifying Organization": "American Board of Vocational Experts"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Board Certified Specialist in Cognitive & Behavioral Psychology", 
+            "Type": "Specialty", 
+            "Certification ID": "2119", 
+            "Certifying Organization": "American Board of Professional Psychology"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification in Cognitive Therapy", 
+            "Type": "Core", 
+            "Certification ID": "8670", 
+            "Certifying Organization": "Academy of Cognitive Therapy"
+        }, 
+        {
+            "Acronym": "NCSP", 
+            "Certification Name": "Nationally Certified School Psychologist", 
+            "Type": "Advanced", 
+            "Certification ID": "2176", 
+            "Certifying Organization": "National Association of School Psychologists"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Board Certified Specialist in Clinical Health Psychology", 
+            "Type": "Specialty", 
+            "Certification ID": "2125", 
+            "Certifying Organization": "American Board of Professional Psychology"
+        }, 
+        {
+            "Acronym": "ASPPB,", 
+            "Certification Name": "Examination for Professional Practice in Psychology", 
+            "Type": "Advanced", 
+            "Certification ID": "3648", 
+            "Certifying Organization": "Association of State and Provincial Psychology Boards "
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Board Certified Specialist in Group Psychology", 
+            "Type": "Specialty", 
+            "Certification ID": "2126", 
+            "Certifying Organization": "American Board of Professional Psychology"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Board Certified Specialist in School Psychology", 
+            "Type": "Specialty", 
+            "Certification ID": "2129", 
+            "Certifying Organization": "American Board of Professional Psychology"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Board Certified Specialist in Clinical Psychology", 
+            "Type": "Specialty", 
+            "Certification ID": "2120", 
+            "Certifying Organization": "American Board of Professional Psychology"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Board Certified Specialist in Psychoanalysis in Psychology", 
+            "Type": "Specialty", 
+            "Certification ID": "2127", 
+            "Certifying Organization": "American Board of Professional Psychology"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Board Certified Specialist in Rehabilitation Psychology", 
+            "Type": "Specialty", 
+            "Certification ID": "2128", 
+            "Certifying Organization": "American Board of Professional Psychology"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Board Certified Specialist in Clinical Neuropsychology", 
+            "Type": "Specialty", 
+            "Certification ID": "2121", 
+            "Certifying Organization": "American Board of Professional Psychology"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Board Certified Specialist in Counseling  Psychology", 
+            "Type": "Specialty", 
+            "Certification ID": "2123", 
+            "Certifying Organization": "American Board of Professional Psychology"
+        }, 
+        {
+            "Acronym": "BCAB", 
+            "Certification Name": "Board Certified Behavior Analyst", 
+            "Type": "Advanced", 
+            "Certification ID": "5983", 
+            "Certifying Organization": "Behavior Analyst Certification Board"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Board Certified Specialist in Forensic Psychology", 
+            "Type": "Specialty", 
+            "Certification ID": "2124", 
+            "Certifying Organization": "American Board of Professional Psychology"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Board Certified Specialist in Clinical Child and Adolescent Psychology", 
+            "Type": "Specialty", 
+            "Certification ID": "3527", 
+            "Certifying Organization": "American Board of Professional Psychology"
+        }
+    ], 
+    "onet": "19303101"
+}

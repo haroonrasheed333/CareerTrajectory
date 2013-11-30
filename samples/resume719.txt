@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734596' xml:space='preserve'> <contact><name><givenname>LAURIE</givenname> <givenname>B</givenname>. <surname>CLARK</surname></name>
+<address lat='42.1288' lon='70.7371' majorcity='MARSHFIELD' state='MA'><street>63 Carlton Road</street> * <city>Marshfield</city>, <state abbrev='MA'>MA</state>  <postalcode>02050</postalcode></address>
+<email>laurie_321@yahoo.com</email>
+<phone>321.682.0187</phone></contact>
+
+
+<summary><objective>MEDICAL ASSISTANT * CERTIFIED PHLEBOTOMIST
+
+Professional Representation    Results- Oriented    Interpersonal and Teamwork Skills    Customer Service Excellence</objective>   
+
+
+SKILLS SUMMARY
+  
+<summary>Medical Terminology  Microsoft  Trained in Front Office Skills  Scheduling Appointments   Basic Billing and Coding
+Chart patient information  Taking Supply Inventory  Obtain Vitals  Trained in Phlebotomy  Glucose Testing  Urinalysis
+BAT  Urine Drug Testing  Perform EKG's  Clinical Asepsis  OSHA and HIPAA Trained  First Aide/CPR Certified</summary></summary>
+
+<education>EDUCATION
+
+<school id='6'><institution>Sanford Brown Institute</institution>                                                                                                                                                <address><city>Orlando</city>, <state abbrev='FL'>FL</state></address> <completiondate days='733775' iso8601='2010-01-01'>2010</completiondate>
+<courses>Medical Assistant Program</courses></school></education>
+
+<experience end='present' start='728021'>PROFESSIONAL EXPERIENCE
+
+
+<job end='present' id='1' pos='1' start='734291'><employer>Pembrooke/Med-eScreen</employer>                                                                                                                                                    <address><city>Allston</city>, <state abbrev='MA'>MA</state></address>	
+<employer>Harvard University</employer>, SAPP		
+<title>Staff Collector, DOT Breath Alcohol/ Urine Drug Testing Technician</title>                                                                           <daterange><start days='734291' iso8601='2011-06-01'>06/2011</start> - <end days='present' iso8601='2012-04-01'>Present</end></daterange>
+  <description>DOT Certified BAT /Urine Drug Testing
+Quest Intercept Drug Testing
+Administer eScreen eCup and lab based urine drug tests and breath alcohol tests using eScreen software.
+Follow Lab procedures for specimen collecting, handling, processing, test analysis, reporting, and maintaining records.
+Administrator for Harvard University Construction Substance Abuse Prevention Program (CSAPP)
+Enter Data into eDrug Virtual Portal Network	
+Record data and prepare reports for General Contractors</description></job>
+
+<job end='734067' id='2' pos='3' sic='801101' sic2='80' start='731857'><employer>Cardiovascular Services, LLC</employer> 	<address><city>Inverness</city>, <state abbrev='FL'>FL</state></address>
+<title>Externship/Medical Assistant</title>	<daterange><start days='731857' iso8601='2004-10-01'>10/04</start> - <end days='734067' iso8601='2010-10-20'>10/20 2010</end></daterange>
+<description>Provided overall support for Physician and office operations in both front and back office.</description></job>
+
+<job end='734048' id='3' sic='801101' sic2='80'><employer>Prime Care Medical, Inc</employer>.	 <address><city>Orlando</city>, <state abbrev='FL'>FL</state></address>
+<title>Externship/Medical Assistant</title>	<daterange><start>09/15</start> - <end days='734048' iso8601='2010-10-01'>10/01 2010</end></daterange>
+<description>Front Desk Duties -. Answered incoming calls, scheduled appointments, prepared charts, verified insurance, filed charts and entered data into patient records on the computer.
+Back Office Duties - Prepared exam rooms, obtained patient histories and vitals, performed EKG's, phlebotomy, urinalysis and assisted physician with procedures as needed.</description></job>
+
+<job end='733806' id='4' pos='4' sic='602101' sic2='60' start='733044'><employer>Capital City Bank</employer>	                                                                                                                                                      <address><city>Inverness</city>, <state abbrev='FL'>FL</state></address>
+<title>Teller/Personal Banker</title>	                                                                                                                                               <daterange><start days='733044' iso8601='2008-01-01'>01/2008</start> - <end days='733806' iso8601='2010-02-01'>02/2010</end></daterange>
+* <description>Performed a variety of transactions as requested by client.
+* Responsible for balancing each day's transactions and maintaining a cash drawer providing quality client service.
+* Opened new accounts, ordered checks, ATM/debit cards and provided materials needed.
+* Researched and resolved problems and responded to client inquiries on accounts.
+* Responsible for selling, cross-selling and referring bank products and services.</description></job>
+
+<job end='734474' id='5' pos='2' sic='6531' sic2='65' start='728021'><employer>Sunset Realty &amp; Investments</employer>	                                                                                                                                       <address><city>Hernando</city>, <state abbrev='FL'>FL</state></address>
+<title>Broker/Owner</title>	                                                                                                                                                            <daterange><start days='728021' iso8601='1994-04-01'>04/1994</start> - <end days='734474' iso8601='2011-12-01'>12/2011</end></daterange>
+* <description>Researched markets to develop incorporate positioning strategies for new business.
+* Negotiated and coordinated all purchase and sales contracts as the Broker between Buyers and Sellers.
+* Demonstrated an ability to develop immediate rapport with all types and ages of potential buyers and customers.
+* Readily championed customer satisfaction.</description></job></experience>
+
+
+
+
+
+
+
+
+
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='733806' experience='1' expidrefs='4' idrefs='4' lastused='2010' name='atm' start='733044'>
+    <variant>ATM</variant>
+  </canonskill>
+  <canonskill end='734048' experience='1' expidrefs='3' idrefs='3' lastused='2010' name='charts'>
+    <variant>charts</variant>
+  </canonskill>
+  <canonskill end='734474' experience='1' expidrefs='5' idrefs='5' lastused='2011' name='contract management' start='728021'>
+    <variant>contracts</variant>
+  </canonskill>
+  <canonskill end='733806' experience='1' expidrefs='4' idrefs='4' lastused='2010' name='customer relations' start='733044'>
+    <variant>client</variant>
+  </canonskill>
+  <canonskill end='734474' experience='1' expidrefs='5' idrefs='5' lastused='2011' name='customer satisfaction' start='728021'>
+    <variant>customer satisfaction</variant>
+  </canonskill>
+  <canonskill end='733806' experience='1' expidrefs='4' idrefs='4' lastused='2010' name='debit' start='733044'>
+    <variant>debit</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='harvard' start='734291'>
+    <variant>Harvard</variant>
+  </canonskill>
+  <canonskill end='734048' experience='1' expidrefs='3' idrefs='3' lastused='2010' name='insurance'>
+    <variant>insurance</variant>
+  </canonskill>
+  <canonskill end='733806' experience='1' expidrefs='4' idrefs='4' lastused='2010' name='materials management' start='733044'>
+    <variant>materials</variant>
+  </canonskill>
+  <canonskill end='734067' experience='1' expidrefs='2,3' idrefs='2,3' lastused='2010' name='microsoft office' start='731857'>
+    <variant>Office</variant>
+    <variant>office</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='networking' start='734291'>
+    <variant>Network</variant>
+  </canonskill>
+  <canonskill end='734048' experience='1' expidrefs='3' idrefs='3' lastused='2010' name='phlebotomy'>
+    <variant>phlebotomy</variant>
+  </canonskill>
+  <canonskill end='734474' experience='1' expidrefs='5' idrefs='5' lastused='2011' name='positioning' start='728021'>
+    <variant>positioning</variant>
+  </canonskill>
+  <canonskill end='733806' experience='1' expidrefs='4' idrefs='4' lastused='2010' name='quality' start='733044'>
+    <variant>quality</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='quest' start='734291'>
+    <variant>Quest</variant>
+  </canonskill>
+  <canonskill end='734474' experience='1' expidrefs='5' idrefs='5' lastused='2011' name='rapport' start='728021'>
+    <variant>rapport</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='reports' start='734291'>
+    <variant>reporting</variant>
+  </canonskill>
+  <canonskill end='734474' experience='1' expidrefs='4,5' idrefs='4,5' lastused='2011' name='sales' start='728021'>
+    <variant>selling</variant>
+    <variant>sales</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

@@ -1,0 +1,796 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Technology Module", 
+            "Type": "Core", 
+            "Certification ID": "9530", 
+            "Certifying Organization": "International Code Council"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Green Building - Residential Examiner", 
+            "Type": "Advanced", 
+            "Certification ID": "4629", 
+            "Certifying Organization": "International Code Council"
+        }, 
+        {
+            "Acronym": "GMR", 
+            "Certification Name": "Graduate Master Remodeler", 
+            "Type": "Advanced", 
+            "Certification ID": "5884", 
+            "Certifying Organization": "National Association of Home Builders"
+        }, 
+        {
+            "Acronym": "PCSI", 
+            "Certification Name": "Prestressed Concrete Special Inspector", 
+            "Type": "Advanced", 
+            "Certification ID": "3410", 
+            "Certifying Organization": "International Code Council"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "National Board Inservice Inspector Commission", 
+            "Type": "Advanced", 
+            "Certification ID": "7872", 
+            "Certifying Organization": "The National Board of Boiler and Pressure Vessel Inspectors"
+        }, 
+        {
+            "Acronym": "AHC", 
+            "Certification Name": "Architectural Hardware Consultants", 
+            "Type": "Advanced", 
+            "Certification ID": "8012", 
+            "Certifying Organization": "Door and Hardware Institute"
+        }, 
+        {
+            "Acronym": "CDC", 
+            "Certification Name": "Certified Door Consultants", 
+            "Type": "Advanced", 
+            "Certification ID": "8013", 
+            "Certifying Organization": "Door and Hardware Institute"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Building Plans Examiner", 
+            "Type": "Advanced", 
+            "Certification ID": "8571", 
+            "Certifying Organization": "International Association of Plumbing and Mechanical Officials"
+        }, 
+        {
+            "Acronym": "CTCI", 
+            "Certification Name": "Concrete Transportation Construction Inspector", 
+            "Type": "Core", 
+            "Certification ID": "0802", 
+            "Certifying Organization": "American Concrete Institute International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Bridge Safety Inspection - Level I", 
+            "Type": "Core", 
+            "Certification ID": "5370", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "CBCP", 
+            "Certification Name": "Certified Building Commissioning Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "4009", 
+            "Certifying Organization": "Association of Energy Engineers"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Code Specialist", 
+            "Type": "\u00a0", 
+            "Certification ID": "9123", 
+            "Certifying Organization": "American Construction Inspectors Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Commercial Electrical Inspector", 
+            "Type": "Advanced", 
+            "Certification ID": "8575", 
+            "Certifying Organization": "International Association of Plumbing and Mechanical Officials"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Commercial Mechanical Inspector", 
+            "Type": "Advanced", 
+            "Certification ID": "8146", 
+            "Certifying Organization": "International Association of Plumbing and Mechanical Officials"
+        }, 
+        {
+            "Acronym": "PMTLevel", 
+            "Certification Name": "Custom Pipeline Maintenance Inspector", 
+            "Type": "Advanced", 
+            "Certification ID": "8215", 
+            "Certifying Organization": "National Center for Construction Education and Research"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Technician Level III", 
+            "Type": "Advanced", 
+            "Certification ID": "8810", 
+            "Certifying Organization": "Electrical Testing Technician Certification Institute"
+        }, 
+        {
+            "Acronym": "CEI-M", 
+            "Certification Name": "Certified Electrical Inspector - Master", 
+            "Type": "Advanced", 
+            "Certification ID": "3804", 
+            "Certifying Organization": "International Association of Electrical Inspectors"
+        }, 
+        {
+            "Acronym": "CDP", 
+            "Certification Name": "Certified Development, Design & Construction Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "9389", 
+            "Certifying Organization": "International Council of Shopping Centers"
+        }, 
+        {
+            "Acronym": "BPE", 
+            "Certification Name": "Building Plans Examiner", 
+            "Type": "Core", 
+            "Certification ID": "3403", 
+            "Certifying Organization": "International Code Council"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Disaster Response Inspector", 
+            "Type": "Advanced", 
+            "Certification ID": "4630", 
+            "Certifying Organization": "International Code Council"
+        }, 
+        {
+            "Acronym": "G2", 
+            "Certification Name": "IgCC Commercial Inspector", 
+            "Type": "Specialty", 
+            "Certification ID": "6915", 
+            "Certifying Organization": "International Code Council"
+        }, 
+        {
+            "Acronym": "PT", 
+            "Certification Name": "Permit Technician", 
+            "Type": "Core", 
+            "Certification ID": "3408", 
+            "Certifying Organization": "International Code Council"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Structural Masonry Special Inspector", 
+            "Type": "Specialty", 
+            "Certification ID": "0149", 
+            "Certifying Organization": "International Code Council"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Structural Steel and Bolting Special Inspector", 
+            "Type": "Advanced", 
+            "Certification ID": "5179", 
+            "Certifying Organization": "International Code Council"
+        }, 
+        {
+            "Acronym": "EBCP", 
+            "Certification Name": "Existing Building Commissioning Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "6800", 
+            "Certifying Organization": "Association of Energy Engineers"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Elevator Inspector", 
+            "Type": "Advanced", 
+            "Certification ID": "8578", 
+            "Certifying Organization": "International Association of Plumbing and Mechanical Officials"
+        }, 
+        {
+            "Acronym": "CPMP", 
+            "Certification Name": "Commissioning Process Management Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "5849", 
+            "Certifying Organization": "American Society of Heating, Refrigerating and Air-Conditioning Engineers"
+        }, 
+        {
+            "Acronym": "GMB", 
+            "Certification Name": "Graduate Master Builder", 
+            "Type": "Advanced", 
+            "Certification ID": "3791", 
+            "Certifying Organization": "National Association of Home Builders"
+        }, 
+        {
+            "Acronym": "CFTT", 
+            "Certification Name": "Concrete Field Testing Technician - Grade I", 
+            "Type": "Core", 
+            "Certification ID": "0797", 
+            "Certifying Organization": "American Concrete Institute International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Residential Plumbing Inspector", 
+            "Type": "Advanced", 
+            "Certification ID": "8143", 
+            "Certifying Organization": "International Association of Plumbing and Mechanical Officials"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Residential Combination Inspector", 
+            "Type": "Advanced", 
+            "Certification ID": "8568", 
+            "Certifying Organization": "International Association of Plumbing and Mechanical Officials"
+        }, 
+        {
+            "Acronym": "CCP", 
+            "Certification Name": "Certified Commissioning Professional", 
+            "Type": "Core", 
+            "Certification ID": "6275", 
+            "Certifying Organization": "Building Commission Association"
+        }, 
+        {
+            "Acronym": "SSI", 
+            "Certification Name": "Substrate/Subfloor Inspector", 
+            "Type": "Core", 
+            "Certification ID": "2353", 
+            "Certifying Organization": "Institute of Inspection Cleaning and Restoration Certification"
+        }, 
+        {
+            "Acronym": "CBI", 
+            "Certification Name": "Commercial Building Inspector", 
+            "Type": "Core", 
+            "Certification ID": "3392", 
+            "Certifying Organization": "International Code Council"
+        }, 
+        {
+            "Acronym": "EPE", 
+            "Certification Name": "Electrical Plans Examiner", 
+            "Type": "Core", 
+            "Certification ID": "3404", 
+            "Certifying Organization": "International Code Council"
+        }, 
+        {
+            "Acronym": "01", 
+            "Certification Name": "Legal/Management Module", 
+            "Type": "Core", 
+            "Certification ID": "8647", 
+            "Certifying Organization": "International Code Council"
+        }, 
+        {
+            "Acronym": "MPE", 
+            "Certification Name": "Mechanical Plans Examiner", 
+            "Type": "Core", 
+            "Certification ID": "3405", 
+            "Certifying Organization": "International Code Council"
+        }, 
+        {
+            "Acronym": "PPE", 
+            "Certification Name": "Plumbing Plans Examiner", 
+            "Type": "Advanced", 
+            "Certification ID": "3406", 
+            "Certifying Organization": "International Code Council"
+        }, 
+        {
+            "Acronym": "RBI", 
+            "Certification Name": "Residential Building Inspector", 
+            "Type": "Core", 
+            "Certification ID": "3388", 
+            "Certifying Organization": "International Code Council"
+        }, 
+        {
+            "Acronym": "REI", 
+            "Certification Name": "Residential Electrical Inspector", 
+            "Type": "Core", 
+            "Certification ID": "3389", 
+            "Certifying Organization": "International Code Council"
+        }, 
+        {
+            "Acronym": "REI-PE", 
+            "Certification Name": "Residential Energy Inspector/Plans Examiner", 
+            "Type": "Core", 
+            "Certification ID": "3398", 
+            "Certifying Organization": "International Code Council"
+        }, 
+        {
+            "Acronym": "RPI", 
+            "Certification Name": "Residential Plumbing Inspector", 
+            "Type": "Core", 
+            "Certification ID": "3391", 
+            "Certifying Organization": "International Code Council"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Master Certified Green Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "6817", 
+            "Certifying Organization": "National Association of Home Builders"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Combination Plans Examiner", 
+            "Type": "Advanced", 
+            "Certification ID": "8573", 
+            "Certifying Organization": "International Association of Plumbing and Mechanical Officials"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "LEED Green Associate", 
+            "Type": "Core", 
+            "Certification ID": "6025", 
+            "Certifying Organization": "Green Building Certification Institute"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Building Code Official", 
+            "Type": "Core", 
+            "Certification ID": "5145", 
+            "Certifying Organization": "International Code Council"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "CIP Level 3", 
+            "Type": "Core", 
+            "Certification ID": "9347", 
+            "Certifying Organization": "NACE International"
+        }, 
+        {
+            "Acronym": "RCSI", 
+            "Certification Name": "Reinforced Concrete Special Inspector", 
+            "Type": "Advanced", 
+            "Certification ID": "3409", 
+            "Certifying Organization": "International Code Council"
+        }, 
+        {
+            "Acronym": "CSI-UPCS", 
+            "Certification Name": "Certified Specialist of Inspection Uniform Physical Condition Standards", 
+            "Type": "Specialty", 
+            "Certification ID": "7445", 
+            "Certifying Organization": "National Association of Housing and Redevelopment Officials"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Stormwater and Wastewater System Inspection - Level IV", 
+            "Type": "Advanced", 
+            "Certification ID": "7842", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "CFPE", 
+            "Certification Name": "Certified Fire Plan Examiner I", 
+            "Type": "Core", 
+            "Certification ID": "3504", 
+            "Certifying Organization": "National Fire Protection Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Bridge Safety Inspection - Level III", 
+            "Type": "Advanced", 
+            "Certification ID": "7817", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "NRPP", 
+            "Certification Name": "National Radon Proficiency Program", 
+            "Type": "Advanced", 
+            "Certification ID": "1122", 
+            "Certifying Organization": "The American Association of Radon Scientists and Technologists"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Green Advantage - Commercial/Residential", 
+            "Type": "Core", 
+            "Certification ID": "5901", 
+            "Certifying Organization": "Green Advantage"
+        }, 
+        {
+            "Acronym": "NHI", 
+            "Certification Name": "Certified National Home Inspector", 
+            "Type": "Core", 
+            "Certification ID": "6023", 
+            "Certifying Organization": "Examination Board of Professional Home Inspectors"
+        }, 
+        {
+            "Acronym": "CCI", 
+            "Certification Name": "Associate Concrete Transportation Construction Inspector", 
+            "Type": "Core", 
+            "Certification ID": "0801", 
+            "Certifying Organization": "American Concrete Institute International"
+        }, 
+        {
+            "Acronym": "CRI", 
+            "Certification Name": "Certified Real Estate Inspector", 
+            "Type": "Core", 
+            "Certification ID": "6192", 
+            "Certifying Organization": "National Association of Home Inspectors, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Commercial Inspector", 
+            "Type": "Advanced", 
+            "Certification ID": "9134", 
+            "Certifying Organization": "National Wood Flooring Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Senior Technician Level IV", 
+            "Type": "Advanced", 
+            "Certification ID": "8811", 
+            "Certifying Organization": "Electrical Testing Technician Certification Institute"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Building Analyst  Professional", 
+            "Type": "Core", 
+            "Certification ID": "5830", 
+            "Certifying Organization": "Building Performance Institute"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "MultiFamily Professional", 
+            "Type": "Core", 
+            "Certification ID": "5831", 
+            "Certifying Organization": "Building Performance Institute"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Green Advantage - Commercial", 
+            "Type": "Specialty", 
+            "Certification ID": "5899", 
+            "Certifying Organization": "Green Advantage"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "CIP Level 2 with Marine and Bridge Specialties", 
+            "Type": "Specialty", 
+            "Certification ID": "8111", 
+            "Certifying Organization": "NACE International"
+        }, 
+        {
+            "Acronym": "CMI", 
+            "Certification Name": "Commercial Mechanical Inspector", 
+            "Type": "Core", 
+            "Certification ID": "3394", 
+            "Certifying Organization": "International Code Council"
+        }, 
+        {
+            "Acronym": "RMI", 
+            "Certification Name": "Residential Mechanical Inspector", 
+            "Type": "Core", 
+            "Certification ID": "3390", 
+            "Certifying Organization": "International Code Council"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Spray-Applied Fireproofing Special Inspector", 
+            "Type": "Specialty", 
+            "Certification ID": "0151", 
+            "Certifying Organization": "International Code Council"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Structural Welding Special Inspector", 
+            "Type": "Specialty", 
+            "Certification ID": "0150", 
+            "Certifying Organization": "International Code Council"
+        }, 
+        {
+            "Acronym": "CDT", 
+            "Certification Name": "Construction Documents Technologist", 
+            "Type": "Core", 
+            "Certification ID": "1425", 
+            "Certifying Organization": "Construction Specifications Institute"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Concrete Construction Special Inspector", 
+            "Type": "Advanced", 
+            "Certification ID": "3902", 
+            "Certifying Organization": "American Concrete Institute International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Registered Construction Inspector in Engineering", 
+            "Type": "Specialty", 
+            "Certification ID": "9119", 
+            "Certifying Organization": "American Construction Inspectors Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Traffic Signal Inspector Level I", 
+            "Type": "Advanced", 
+            "Certification ID": "8759", 
+            "Certifying Organization": "International Municipal Signal Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IAPMO Plumbing Inspector", 
+            "Type": "Core", 
+            "Certification ID": "6135", 
+            "Certifying Organization": "National Inspection, Testing and Certification Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IAPMO Plumbing Plans Examiner", 
+            "Type": "Core", 
+            "Certification ID": "6136", 
+            "Certifying Organization": "National Inspection, Testing and Certification Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Mechanical Plans Examiner", 
+            "Type": "Advanced", 
+            "Certification ID": "8570", 
+            "Certifying Organization": "International Association of Plumbing and Mechanical Officials"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Residential Building Inspector", 
+            "Type": "Advanced", 
+            "Certification ID": "8566", 
+            "Certifying Organization": "International Association of Plumbing and Mechanical Officials"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Plumbing Plans Examiner", 
+            "Type": "Advanced", 
+            "Certification ID": "8569", 
+            "Certifying Organization": "International Association of Plumbing and Mechanical Officials"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Commercial Building Inspector", 
+            "Type": "Advanced", 
+            "Certification ID": "8574", 
+            "Certifying Organization": "International Association of Plumbing and Mechanical Officials"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IAPMO Accessibility Inspector Certification", 
+            "Type": "Core", 
+            "Certification ID": "6137", 
+            "Certifying Organization": "National Inspection, Testing and Certification Corporation"
+        }, 
+        {
+            "Acronym": "Construction", 
+            "Certification Name": "WSO - Certified Safety Manager (Construction)", 
+            "Type": "Specialty", 
+            "Certification ID": "6851", 
+            "Certifying Organization": "World Safety Organization"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "CIP Level 1 Nuclear", 
+            "Type": "Advanced", 
+            "Certification ID": "9349", 
+            "Certifying Organization": "NACE International"
+        }, 
+        {
+            "Acronym": "CEI", 
+            "Certification Name": "Commercial Electrical Inspector", 
+            "Type": "Core", 
+            "Certification ID": "3393", 
+            "Certifying Organization": "International Code Council"
+        }, 
+        {
+            "Acronym": "CPI", 
+            "Certification Name": "Commercial Plumbing Inspector", 
+            "Type": "Core", 
+            "Certification ID": "3395", 
+            "Certifying Organization": "International Code Council"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Bridge Safety Inspection - Level II", 
+            "Type": "Core", 
+            "Certification ID": "7816", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Bridge Safety Inspection - Level IV", 
+            "Type": "Advanced", 
+            "Certification ID": "7818", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Registered Construction Inspector in Building", 
+            "Type": "Specialty", 
+            "Certification ID": "9120", 
+            "Certifying Organization": "American Construction Inspectors Association"
+        }, 
+        {
+            "Acronym": "CMVP", 
+            "Certification Name": "Certified Measurement and Verification Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "4008", 
+            "Certifying Organization": "Association of Energy Engineers"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Residential Mechanical Inspector", 
+            "Type": "Advanced", 
+            "Certification ID": "8145", 
+            "Certifying Organization": "International Association of Plumbing and Mechanical Officials"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Accessibility Inspector", 
+            "Type": "Advanced", 
+            "Certification ID": "8577", 
+            "Certifying Organization": "International Association of Plumbing and Mechanical Officials"
+        }, 
+        {
+            "Acronym": "RRS", 
+            "Certification Name": "Radon Mitigation Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "2163", 
+            "Certifying Organization": "National Radon Safety Board"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Wood Flooring Inspectors", 
+            "Type": "Advanced", 
+            "Certification ID": "9137", 
+            "Certifying Organization": "National Wood Flooring Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Registered Construction Inspector in Public Works", 
+            "Type": "Specialty", 
+            "Certification ID": "9122", 
+            "Certifying Organization": "American Construction Inspectors Association"
+        }, 
+        {
+            "Acronym": "GCP", 
+            "Certification Name": "Green Certified Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "6063", 
+            "Certifying Organization": "National Association of the Remodeling Industry"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Green Advantage - Residential", 
+            "Type": "Specialty", 
+            "Certification ID": "5900", 
+            "Certifying Organization": "Green Advantage"
+        }, 
+        {
+            "Acronym": "CEI-R", 
+            "Certification Name": "Certified Electrical Inspector - Residential", 
+            "Type": "Core", 
+            "Certification ID": "3803", 
+            "Certifying Organization": "International Association of Electrical Inspectors"
+        }, 
+        {
+            "Acronym": "CEPE", 
+            "Certification Name": "Commercial Energy Plans Examiner", 
+            "Type": "Core", 
+            "Certification ID": "3399", 
+            "Certifying Organization": "International Code Council"
+        }, 
+        {
+            "Acronym": "G5", 
+            "Certification Name": "IgCC Plan Examiner with ASHRAE 189.1", 
+            "Type": "Specialty", 
+            "Certification ID": "6918", 
+            "Certifying Organization": "International Code Council"
+        }, 
+        {
+            "Acronym": "G4", 
+            "Certification Name": "IgCC Plans Examiner", 
+            "Type": "Specialty", 
+            "Certification ID": "6917", 
+            "Certifying Organization": "International Code Council"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Residential Electrical Inspector", 
+            "Type": "Advanced", 
+            "Certification ID": "8567", 
+            "Certifying Organization": "International Association of Plumbing and Mechanical Officials"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Commercial Plumbing Inspector", 
+            "Type": "Advanced", 
+            "Certification ID": "8144", 
+            "Certifying Organization": "International Association of Plumbing and Mechanical Officials"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Commercial Combination Inspector", 
+            "Type": "Advanced", 
+            "Certification ID": "8576", 
+            "Certifying Organization": "International Association of Plumbing and Mechanical Officials"
+        }, 
+        {
+            "Acronym": "CPC", 
+            "Certification Name": "Certified Professional Constructor", 
+            "Type": "Advanced", 
+            "Certification ID": "7683", 
+            "Certifying Organization": "American Institute of Constructors & Constructor Certification Commission"
+        }, 
+        {
+            "Acronym": "CVI", 
+            "Certification Name": "Certified Ventilation System Inspector", 
+            "Type": "Advanced", 
+            "Certification ID": "4790", 
+            "Certifying Organization": "National Air Ducts Cleaning Association"
+        }, 
+        {
+            "Acronym": "CSI", 
+            "Certification Name": "Certified Specialist of Inspection Housing Quality Standards", 
+            "Type": "Specialty", 
+            "Certification ID": "7444", 
+            "Certifying Organization": "National Association of Housing and Redevelopment Officials"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "National Board New Construction Inspector Commission", 
+            "Type": "Advanced", 
+            "Certification ID": "7873", 
+            "Certifying Organization": "The National Board of Boiler and Pressure Vessel Inspectors"
+        }, 
+        {
+            "Acronym": "NCPCCI", 
+            "Certification Name": "National Certification Program Construction Code Inspector", 
+            "Type": "Advanced", 
+            "Certification ID": "4623", 
+            "Certifying Organization": "International Association of Electrical Inspectors"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Coastal and Flood Plains Construction Inspector", 
+            "Type": "Advanced", 
+            "Certification ID": "4641", 
+            "Certifying Organization": "International Code Council"
+        }, 
+        {
+            "Acronym": "AIPE", 
+            "Certification Name": "Accessibility Inspector/Plans Examiner", 
+            "Type": "Core", 
+            "Certification ID": "3400", 
+            "Certifying Organization": "International Code Council"
+        }, 
+        {
+            "Acronym": "G3", 
+            "Certification Name": "IgCC Commercial Inspector with ASHRAE 189.1", 
+            "Type": "Specialty", 
+            "Certification ID": "6916", 
+            "Certifying Organization": "International Code Council"
+        }, 
+        {
+            "Acronym": "CPII", 
+            "Certification Name": "Certified Public Infrastructure Inspector", 
+            "Type": "Core", 
+            "Certification ID": "6172", 
+            "Certifying Organization": "American Public Works Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Registered Construction Inspector in a Specialty", 
+            "Type": "Specialty", 
+            "Certification ID": "9121", 
+            "Certifying Organization": "American Construction Inspectors Association"
+        }, 
+        {
+            "Acronym": "HHS", 
+            "Certification Name": "Healthy Homes Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "7638", 
+            "Certifying Organization": "National Environmental Health Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IAPMO Mechanical Inspector", 
+            "Type": "Core", 
+            "Certification ID": "5647", 
+            "Certifying Organization": "National Inspection, Testing and Certification Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Assistant Technician Level II", 
+            "Type": "Core", 
+            "Certification ID": "8809", 
+            "Certifying Organization": "Electrical Testing Technician Certification Institute"
+        }
+    ], 
+    "onet": "47401100"
+}

@@ -1,0 +1,47 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "REM", 
+            "Certification Name": "Registered Environmental Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "1115", 
+            "Certifying Organization": "National Registry of Environmental Professionals"
+        }, 
+        {
+            "Acronym": "REP", 
+            "Certification Name": "Registered Environmental Professional", 
+            "Type": "Core", 
+            "Certification ID": "1121", 
+            "Certifying Organization": "National Registry of Environmental Professionals"
+        }, 
+        {
+            "Acronym": "QEP", 
+            "Certification Name": "Qualified Environmental Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "1125", 
+            "Certifying Organization": "Institute of Professional Environmental Practice"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Chemical Hygiene Officer", 
+            "Type": "Core", 
+            "Certification ID": "3715", 
+            "Certifying Organization": "National Registry of Certified Chemists"
+        }, 
+        {
+            "Acronym": "CMAR", 
+            "Certification Name": "Certified Manager Animal Resources", 
+            "Type": "Core", 
+            "Certification ID": "2367", 
+            "Certifying Organization": "American Association for Laboratory Animal Science"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Molecular Diagnostics", 
+            "Type": "Advanced", 
+            "Certification ID": "2063", 
+            "Certifying Organization": "American Board of Clinical Chemistry"
+        }
+    ], 
+    "onet": "11912100"
+}

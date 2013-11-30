@@ -1,0 +1,426 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734596' xml:space='preserve'><contact><name><givenname>Swarna</givenname> <givenname>PM</givenname> <surname>Dewage</surname></name>
+Visa Status-Green Card
+<email>Email-swarnapadmaseeli@yahoo.com</email>
+Mobile-<phone type='cell'>703 785 2935</phone></contact> 
+
+
+<summary><summary>Skilled IT professional with over 7 years in Quality Assurance 
+Experience of both the Client/Server and Web-Based Applications.
+Strong Experienced in  Manual Testing with executing Automated test scripts.
+Detailed understanding of QA methodology (Agile, Waterfall) to ensure quality of the application.
+Proficient in different phases of Testing like Black Box Testing,  Functionality Testing, Unit Testing, Integration Testing, System Testing, Modular Testing, Backend Testing, Stress Testing, Regression Testing and User Acceptance testing.
+Proficient in preparing the test cases and scripts by analyzing Business Requirements and Specifications and able to Work closely with Development team and Business Analysts to analyze the test scenarios.
+Experience with writing and utilizing SQL queries for data verification.
+Extensive knowledge and experience in all stages of the Software Development Life Cycle (SDLC), beginning from initiation and definition to deployment and support.
+Experience in functional testing with a complete QA cycle from testing, defect logging and verification of fixed bugs. 
+Strong time management skills, ability to multi-task &amp; handle multiple test assignments &amp; prioritize them.
+Experienced working with onshore and offshore resources.
+Experience in working in test lab environment to maintain HIPAA standards.</summary>
+<personalstatements>Experienced with various domains such as Financial, Health care, Pharmacy and Insurance.
+Excellent Analytical skills and a Team Player with good communication skills.</personalstatements></summary>
+
+<education>Education:
+<school id='6'><degree level='16' name='Bachelor of Arts'>BA</degree> in <major code='1801 0704'>Economics and Statistics</major> -(<institution>University of Sri-Jayawardhanapura  - Sri-Lanka</institution></school>) 
+<school id='7'><degree level='13' name='Diploma'>Diploma</degree> in <major code='0405'>Computer Application</major> (<institution>University of  Sri-Jayawardhanapura- Sri-Lanka</institution></school>)
+<school id='8'><degree level='13' name='Diploma'>Diploma</degree> in <major code='4'>Education</major>- (<institution>Open University of Sri-Lanka</institution></school>)</education>
+
+
+
+<skills>Skills:
+<skills>Business Domains
+Financial, Health Care, Insurance Services and Pharmacy  
+Testing Tools
+ Mercury Quality Center, Quick Test Pro,  Rational Clear Quest 
+RDBMS
+Oracle 11g/10g/9i/8i/, MS SQLServer , UDB DB2 9.x,  MS Access 7.0</skills></skills> 
+<experience end='present' start='731949'>Web Technologies
+<job end='present' id='1' pos='1' start='734140'><description>JavaScript, Web Logic, HTML 4.0, and DHTML, Java, J2ee 
+Environment
+UNIX,LINUX, WINDOWS NT/2000/98/95/XP</description> 
+
+
+
+
+<employer>CVS caremark</employer>, <address lat='42.0016' lon='-71.5015' majorcity='WOONSOCKET' state='RI'><city>Woonsocket</city>,<state abbrev='RI'>RI</state></address>   
+<title>Senior QA  Analyst</title>; <daterange><start days='734140' iso8601='2011-01-01'>January 2011</start>- <end days='present' iso8601='2012-04-01'>Present</end></daterange>
+
+<description>CVS caremark is the largest Pharmacy care provider in United States. Their Pharmacy Management Application which was developed on Java is an integrated and flexible enterprise system that supports from basic price check  to business critical report generating and decision making with complete integration with day to day business operations and full HIPAA compliance . The solution automates the entire operations, virtually eliminating paper work.</description> 
+
+Roles &amp; Responsibilities: 
+
+<description>Prepared and executed Test Cases manually  according to the BRD, Technical Specification, Functional Design and Use Case documents, identifying application's functionality, test requirements and coverage.
+Performed regression testing against the various builds of the application.
+Wrote SQL queries and tested front end developed data in the databases.
+Executed automated test scripts using QTP to perform through testing.
+Performed Configuration and compatibility testing, verified the application on different operating systems.
+Interfaced with developers to resolve technical issues and investigated software faults.
+Prepared RTM Document to ensure that all the requirements had sufficient coverage for through testing.
+Defects were tracked, reviewed, analyzed and reported using Quality Center.
+Tested the reports developed in the system as per company standards and requirements.
+Prepared documentation of the Prescription fulfillment and management module for management review and project presentations. 
+Responsible for giving demonstrations and presentation to the management and mentoring other junior team members.
+Involved in auditing documentation for CMMI certification.
+
+Environment: 	SQL, HP Quality Center, , Windows XP, Quick Test Professional , JSP, Java, MS Excel, MS Office, VM ware, Oracle 10g.</description></job>
+
+<job end='734109' id='2' naics='52211002' naics2='52' pos='2' sic='614101' sic2='61' start='733714'><employer>Citizens Bank</employer>, <address><city>Providence</city>,<state abbrev='RI'>RI</state></address>                                                   
+<title>Senior QA Analyst</title> ; <daterange><start days='733714' iso8601='2009-11-01'>November 2009</start> - <end days='734109' iso8601='2010-12-01'>December 2010</end></daterange>
+<description>The purpose of this project was to test the software which provided solutions to customers to manage their finances conveniently and easily, anytime. The main modules of this application were customer info, accounts summary, insurance, pay bills, fund transfer, stop payment on checks, receive balance alert, view checks online,  debit card/credit card transactions, loan information and profit and loss analysis reports for the fiscal year and various other reports. 
+
+Roles &amp; Responsibilities: 
+
+Wrote detailed test plans and test cases/test scenarios based on functional specifications and project requirements.   
+Tested formulas for various loan, interest calculations, and currency conversions required for reporting purposes.
+Tested functionality of interest data issued and gained from different customers by the bank.
+Coordinated with developers, Business Analysts, Domain Experts  and project managers to build test cases and scenarios. 
+Involved in creating reusable test data ensuring integrity and mapping various modules and requirements in the application for smooth test case execution.
+ Logged defects and explained the severity of the defect to the QA lead and developers involved on the project.
+Worked with offshore resources as a contact person for the team and module.
+Performed Backend testing of the application writing and executing SQL.
+Wrote daily statues report, weekly test summery reports and test evaluation reports.
+Participated in walkthroughs meetings ,Project status meetings, Requirement analysis and  various other project presentations. 
+
+Environment: 	SQL, PL/SQL, HP Quality Center 8.2,SoapUi Load Runner , MS Excel, MS Word, Oracle 10G, Putty, Toad, JAVA,  HTML, XML, Web Logic</description></job>
+
+
+<job end='733683' id='3' naics='52421001' naics2='52' pos='3' sic='811103' sic2='81' start='733410'><employer>Liberty Mutual</employer>, <address><city>Boston</city>,<state abbrev='MA'>MA</state></address>                                                   
+<title>QA Analyst</title>  <daterange><start days='733410' iso8601='2009-01-01'>January 2009</start> - <end days='733683' iso8601='2009-10-01'>October 2009</end></daterange>
+<description>The Liberty Mutual insurance  provides personal automobile insurance and other specialty property-casualty insurance and related services throughout the United States.This application was designed to serve direct customers in getting auto insurance quotes online, compare rates with other top competitive companies and marketing the Liberty auto insurance products.
+
+Responsibilities:
+
+Prepared and executed Test Cases manually for different modules according to the SRD, Technical Specification, Functional Design and Use Case documents.
+Involved in testing the application manually before automating the desired test cases.
+Performed Black Box Testing for functional flow of the applications.
+Also involved in the development of test cases for various stages like Smoke, Integration testing, ,Regression testing, User Acceptance Testing, Usability Testing, Beta testing, Performance testing, Sanity testing, Ad-hoc testing.
+Executed Quick Test Pro test scripts  and performed  Regression Testing.              
+Participated in meetings and walkthroughs.
+Tests Cases were designed and managed using Quality Center.
+Responsible for reporting bugs to the bug tracking system and verified known bugs against new builds.
+The application was tested on databases like Oracle and SQL Server.
+Documented various test reports.
+
+Environment: QTP, Quality Center,  VB Script, JavaScript, XML,  MS-Office, SQL, SQL Server, MS Access and Oracle, Web Logic Server ,ASP.Net, HTML, Windows XP.</description></job>
+
+<job end='733379' id='4' naics='54161201' naics2='54' pos='4' sic='738959' sic2='73' start='732587'><employer>First Health</employer>, <address><city>Sacramento</city>, <state abbrev='CA'>CA</state></address>                                       
+<title>QA Analyst / Tester</title>; <daterange><start days='732587' iso8601='2006-10-01'>October 2006</start> - <end days='733379' iso8601='2008-12-01'>December 2008</end></daterange>
+<description>First Health is one of the largest consumer health organizations, offering individuals, employers and Medicare beneficiaries a variety of consumer-driven health care and insurance  products. Specialty operations include behavioral health, dental and vision, life insurance and complete  medical management through its wholly owned subsidiary, Prescription Solutions. Common Portal is a web application; it provides members &amp; providers information, eligibility, benefits, claims, health programs, doctor Information, prescription Information etc.
+
+Roles and Responsibilities:
+
+Performed manual testing, automated testing, defect tracking, resolution of applications and solutions.
+Developed Use Cases to highlight different requirements from the SRS (Software Requirement Specification and SDS (Software Design Specification).
+Written Test Cases and Performed Manual Testing like Positive testing, negative Testing and Black Box Testing.
+Involved in writing comprehensive test plans based on business requirements and technical specifications.
+Prepared and developed test cases, test scripts, and test approach documents.
+Created test cases and test procedures based on Functional Requirement.
+Created tests using recording mode inserting  checkpoints like GUI, Bitmap and Database, to check the behavior of the application.
+Involved in Writing Test Plans using Test Director
+Performed GUI Test, Functional testing, Smoke testing, Unit testing, User Acceptance testing (UAT) and System testing, 
+Involved in testing the Claim processing Data.
+Extensive experience with Members/Subscribers, Products, Providers, Claims processing and Billing modules. 
+Used Win Runner  for testing the compatibility of the application with different platforms
+Defects were tracked, reviewed, analyzed and compared using Test Director.
+Worked with developers using Test Director to fix the defects.
+
+Environment: 	Win Runner, Quick test pro, Test Director, Manual Testing, DB2, Java, J2EE, Web Logic Server, JSP, EJB, VB, .Net, XML, Oracle, SQL, Ms Office, Unix and Windows NT/2000/XP</description></job>
+
+
+
+
+
+
+
+
+
+
+<job end='732557' id='5' pos='5' sic='606101' sic2='60' start='731949'><employer>The Golden 1 Credit Union</employer>, <address><city>Sacramento</city>, <state abbrev='CA'>CA</state></address>                                      
+ <title>Test Engineer</title>; <daterange><start days='731949' iso8601='2005-01-01'>January 2005</start> - <end days='732557' iso8601='2006-09-01'>September 2006</end></daterange>
+
+<description>The Golden 1 Credit Union is California's leading financial cooperative, and the sixth largest credit union in the U.S. with more than $7 billion in assets and nearly 600,000 members. It has more than 80 branches, 270ATMs and 28,000 network ATMs nationwide. Their online banking application Provides customers various banking needs as fund transfer, bill payment, View statement and loan application etc.
+
+Roles and Responsibilities;
+
+Analyzed Business requirements, Functional Specifications and various ARTIFACTS to develop test cases and Test Scenarios.
+Developed use cases for the application.
+Executed various scripts using Winrunner for functional &amp; Regression Testing of the applications.
+Logged the traced defects in Test Director and created defect summery reports to analyze the defects.
+Created various reports for documentation purposes.
+Created Traceability matrix between requirements and Test Cases.
+Tests were planned and managed using Test Director.
+Wrote and executed SQL queries by comparing front developed data with database. 
+Performed user acceptance testing, functional testing, integration testing, system testing and database testing.
+Participated in walkthroughs and meetings throughout the project.
+
+
+Environment:: Winrunner, Test Director, WINDOWS NT/2000/XP, ASP, HTML, SQL Server.</description></job></experience>
+
+
+
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='733683' experience='1' expidrefs='3,4' idrefs='3,4' lastused='2009' name='.net' start='732587'>
+    <variant>ASP.Net</variant>
+    <variant>.Net</variant>
+  </canonskill>
+  <canonskill end='733683' experience='1' expidrefs='3' idrefs='3' lastused='2009' name='advertising' start='733410'>
+    <variant>Ad</variant>
+  </canonskill>
+  <canonskill end='733379' experience='1' expidrefs='4' idrefs='4' lastused='2008' name='approach' start='732587'>
+    <variant>approach</variant>
+  </canonskill>
+  <canonskill end='732557' experience='1' expidrefs='5' idrefs='5' lastused='2006' name='asp' start='731949'>
+    <variant>ASP</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='auditing' start='734140'>
+    <variant>auditing</variant>
+  </canonskill>
+  <canonskill end='734109' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='balance' start='733714'>
+    <variant>balance</variant>
+  </canonskill>
+  <canonskill end='732557' experience='1' expidrefs='5' idrefs='5' lastused='2006' name='banking' start='731949'>
+    <variant>banking</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='basic' start='734140'>
+    <variant>basic</variant>
+  </canonskill>
+  <canonskill end='733379' experience='1' expidrefs='4' idrefs='4' lastused='2008' name='benefits administration' start='732587'>
+    <variant>benefits</variant>
+  </canonskill>
+  <canonskill end='733379' experience='1' expidrefs='4' idrefs='4' lastused='2008' name='billing' start='732587'>
+    <variant>Billing</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='business operations' start='734140'>
+    <variant>business operations</variant>
+  </canonskill>
+  <canonskill end='733683' experience='1' expidrefs='3' idrefs='3' lastused='2009' name='competitive' start='733410'>
+    <variant>competitive</variant>
+  </canonskill>
+  <canonskill end='734109' experience='1' expidrefs='2,5' idrefs='2,5' lastused='2010' name='credit' start='731949'>
+    <variant>Credit</variant>
+    <variant>credit</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='cvs' start='734140'>
+    <variant>CVS</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,3,4,5' idrefs='1,3,4,5' lastused='2012' name='database administration' start='731949'>
+    <variant>databases</variant>
+    <variant>Database</variant>
+    <variant>database</variant>
+  </canonskill>
+  <canonskill end='734109' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='debit' start='733714'>
+    <variant>debit</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='decision making' start='734140'>
+    <variant>decision making</variant>
+  </canonskill>
+  <canonskill experience='1' name='dhtml'>
+    <variant>DHTML</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,5' idrefs='1,5' lastused='2012' name='documentation' start='731949'>
+    <variant>documentation</variant>
+  </canonskill>
+  <canonskill end='733379' experience='1' expidrefs='4' idrefs='4' lastused='2008' name='enterprise java beans' start='732587'>
+    <variant>EJB</variant>
+  </canonskill>
+  <canonskill end='732557' experience='1' expidrefs='5' idrefs='5' lastused='2006' name='financial' start='731949'>
+    <variant>Financial</variant>
+    <variant>financial</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,3,4,5' idrefs='1,2,3,4,5' lastused='2012' name='functional' start='731949'>
+    <variant>Functional</variant>
+    <variant>functional</variant>
+  </canonskill>
+  <canonskill end='733379' experience='1' expidrefs='4' idrefs='4' lastused='2008' name='graphical user interface' start='732587'>
+    <variant>GUI</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='hewlett packard' start='733714'>
+    <variant>HP</variant>
+  </canonskill>
+  <canonskill end='734109' experience='1' expidrefs='2,3,5' idrefs='2,3,5' lastused='2010' name='html' start='731949'>
+    <variant>HTML 4.0</variant>
+    <variant>HTML</variant>
+  </canonskill>
+  <canonskill end='733379' experience='1' expidrefs='4' idrefs='4' lastused='2008' name='ibm db/2' start='732587'>
+    <variant>DB2</variant>
+    <variant>DB2 9.x</variant>
+  </canonskill>
+  <canonskill end='734109' experience='1' expidrefs='2,3,4' idrefs='2,3,4' lastused='2010' name='insurance' start='732587'>
+    <variant>Insurance</variant>
+    <variant>insurance</variant>
+  </canonskill>
+  <canonskill experience='1' name='j2ee'>
+    <variant>J2ee</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,4' idrefs='1,2,4' lastused='2012' name='java' start='732587'>
+    <variant>Java</variant>
+    <variant>JAVA</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,4' idrefs='1,4' lastused='2012' name='java server pages' start='732587'>
+    <variant>JSP</variant>
+  </canonskill>
+  <canonskill end='733683' experience='1' expidrefs='3' idrefs='3' lastused='2009' name='javascript' start='733410'>
+    <variant>JavaScript</variant>
+  </canonskill>
+  <canonskill experience='1' name='linux'>
+    <variant>LINUX</variant>
+  </canonskill>
+  <canonskill end='734109' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='load runner' start='733714'>
+    <variant>Load Runner</variant>
+  </canonskill>
+  <canonskill end='734109' experience='1' expidrefs='2,3,4' idrefs='2,3,4' lastused='2010' name='logic' start='732587'>
+    <variant>Logic</variant>
+  </canonskill>
+  <canonskill end='733683' experience='1' expidrefs='3' idrefs='3' lastused='2009' name='marketing' start='733410'>
+    <variant>marketing</variant>
+  </canonskill>
+  <canonskill end='734109' experience='1' expidrefs='2,3,5' idrefs='2,3,5' lastused='2010' name='meeting facilitation' start='731949'>
+    <variant>meetings</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='mentoring' start='734140'>
+    <variant>mentoring</variant>
+  </canonskill>
+  <canonskill end='733683' experience='1' expidrefs='3' idrefs='3' lastused='2009' name='microsoft access' start='733410'>
+    <variant>MS Access 7.0</variant>
+    <variant>MS Access</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='microsoft excel' start='733714'>
+    <variant>MS Excel</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,3,4' idrefs='1,3,4' lastused='2012' name='microsoft office' start='732587'>
+    <variant>MS Office</variant>
+    <variant>Ms Office</variant>
+    <variant>MS-Office</variant>
+  </canonskill>
+  <canonskill end='733379' experience='1' expidrefs='4,5' idrefs='4,5' lastused='2008' name='microsoft windows 2000' start='731949'>
+    <variant>2000</variant>
+  </canonskill>
+  <canonskill experience='1' name='microsoft windows 98'>
+    <variant>98</variant>
+  </canonskill>
+  <canonskill end='733379' experience='1' expidrefs='4,5' idrefs='4,5' lastused='2008' name='microsoft windows nt' start='731949'>
+    <variant>WINDOWS NT</variant>
+    <variant>Windows NT</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,3' idrefs='1,3' lastused='2012' name='microsoft windows xp' start='733410'>
+    <variant>Windows XP</variant>
+  </canonskill>
+  <canonskill end='734109' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='microsoft word' start='733714'>
+    <variant>MS Word</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='netscape enterprise server' start='734140'>
+    <variant>enterprise</variant>
+  </canonskill>
+  <canonskill end='732557' experience='1' expidrefs='5' idrefs='5' lastused='2006' name='networking' start='731949'>
+    <variant>network</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='operating systems' start='734140'>
+    <variant>operating systems</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,3,4' idrefs='1,2,3,4' lastused='2012' name='oracle' start='732587'>
+    <variant>Oracle</variant>
+  </canonskill>
+  <canonskill end='734109' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='oracle pl/sql' start='733714'>
+    <variant>PL/SQL</variant>
+  </canonskill>
+  <canonskill end='733683' experience='1' expidrefs='3' idrefs='3' lastused='2009' name='oracle sql' start='733410'>
+    <variant>Oracle and SQL</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='presentation skills' start='733714'>
+    <variant>presentations</variant>
+  </canonskill>
+  <canonskill end='734109' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='profit and loss' start='733714'>
+    <variant>profit and loss</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,3' idrefs='1,3' lastused='2012' name='qtp' start='733410'>
+    <variant>QTP</variant>
+    <variant>Quick Test Professional</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,3' idrefs='1,2,3' lastused='2012' name='quality' start='733410'>
+    <variant>Quality</variant>
+  </canonskill>
+  <canonskill end='734109' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='quality control' start='733714'>
+    <variant>QA</variant>
+  </canonskill>
+  <canonskill name='quest'>
+    <variant>Quest</variant>
+  </canonskill>
+  <canonskill end='733683' experience='1' expidrefs='3,4' idrefs='3,4' lastused='2009' name='quick' start='732587'>
+    <variant>Quick</variant>
+  </canonskill>
+  <canonskill name='rdbms'>
+    <variant>RDBMS</variant>
+  </canonskill>
+  <canonskill end='733379' experience='1' expidrefs='4' idrefs='4' lastused='2008' name='recording' start='732587'>
+    <variant>recording</variant>
+  </canonskill>
+  <canonskill end='734109' experience='1' expidrefs='2,3' idrefs='2,3' lastused='2010' name='reports' start='733410'>
+    <variant>reporting</variant>
+  </canonskill>
+  <canonskill end='734109' experience='1' expidrefs='2,4' idrefs='2,4' lastused='2010' name='requirements' start='732587'>
+    <variant>Requirement</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,3,4,5' idrefs='1,3,4,5' lastused='2012' name='shell scripting' start='731949'>
+    <variant>scripts</variant>
+  </canonskill>
+  <canonskill end='733379' experience='1' expidrefs='4' idrefs='4' lastused='2008' name='software architecture' start='732587'>
+    <variant>Software Design</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,3,4' idrefs='1,3,4' lastused='2012' name='specification' start='732587'>
+    <variant>Specification</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,3,4,5' idrefs='1,2,3,4,5' lastused='2012' name='sql' start='731949'>
+    <variant>SQL Server</variant>
+    <variant>SQL</variant>
+  </canonskill>
+  <canonskill name='sqlserver'>
+    <variant>SQLServer</variant>
+  </canonskill>
+  <canonskill end='733379' experience='1' expidrefs='4,5' idrefs='4,5' lastused='2008' name='test director' start='731949'>
+    <variant>Test Director</variant>
+  </canonskill>
+  <canonskill end='734109' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='toad' start='733714'>
+    <variant>Toad</variant>
+  </canonskill>
+  <canonskill name='udb'>
+    <variant>UDB</variant>
+  </canonskill>
+  <canonskill end='733379' experience='1' expidrefs='4' idrefs='4' lastused='2008' name='unix' start='732587'>
+    <variant>UNIX</variant>
+    <variant>Unix</variant>
+  </canonskill>
+  <canonskill end='733683' experience='1' expidrefs='3' idrefs='3' lastused='2009' name='usability testing' start='733410'>
+    <variant>Usability Testing</variant>
+  </canonskill>
+  <canonskill end='733683' experience='1' expidrefs='3' idrefs='3' lastused='2009' name='vbscript' start='733410'>
+    <variant>VB Script</variant>
+  </canonskill>
+  <canonskill end='734109' experience='1' expidrefs='2,5' idrefs='2,5' lastused='2010' name='view' start='731949'>
+    <variant>View</variant>
+    <variant>view</variant>
+  </canonskill>
+  <canonskill end='733379' experience='1' expidrefs='4' idrefs='4' lastused='2008' name='vision' start='732587'>
+    <variant>vision</variant>
+  </canonskill>
+  <canonskill end='733379' experience='1' expidrefs='4' idrefs='4' lastused='2008' name='visual basic' start='732587'>
+    <variant>VB</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='vm' start='734140'>
+    <variant>VM</variant>
+  </canonskill>
+  <canonskill end='733379' experience='1' expidrefs='4,5' idrefs='4,5' lastused='2008' name='winrunner' start='731949'>
+    <variant>Winrunner</variant>
+    <variant>Win Runner</variant>
+  </canonskill>
+  <canonskill end='733379' experience='1' expidrefs='4' idrefs='4' lastused='2008' name='writing' start='732587'>
+    <variant>Written</variant>
+  </canonskill>
+  <canonskill end='734109' experience='1' expidrefs='2,3,4' idrefs='2,3,4' lastused='2010' name='xml' start='732587'>
+    <variant>XML</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

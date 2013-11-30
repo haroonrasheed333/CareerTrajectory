@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734595' xml:space='preserve'><contact><name><givenname>Marybeth</givenname> <surname>Lanier</surname></name>
+<address lat='34.1014' lon='83.9759' majorcity='BUFORD' state='GA'><street>2470 Whitebluff Way</street>
+<city>Buford</city>, <state abbrev='GA'>Georgia</state> <postalcode>30519</postalcode></address>
+<phone>(770) 932-2507</phone></contact>
+
+
+<skills>Software:		<skills>Microsoft Windows XP &amp; Vista; MS Word; internet</skills></skills>
+
+<education>Education:		<school id='7'><institution>Kean College</institution>, <address>Union, <state abbrev='NJ'>New Jersey</state></address>
+			Attended 2 years, <daterange><start days='720626' iso8601='1974-01-01'>1974</start> - <end days='721356' iso8601='1976-01-01'>1976</end></daterange></school></education>
+
+<experience end='present' start='724399'>Work Experience:
+
+<job end='present' id='1' naics='45211101' naics2='45' pos='1' sic='531102' sic2='53' start='733744'><daterange><start days='733744' iso8601='2009-12-01'>12/2009</start> - <end days='present' iso8601='2012-03-31'>Present</end></daterange>	<employer>MACY'S</employer> <address><city>Buford</city>, <state abbrev='GA'>GA.</state></address>
+			<title>Sales Associate</title>
+<description>Responsibilities include sales, customer service, and opening/closing registers including preparation of bank deposits.</description></job>
+
+<job end='present' id='2' pos='2' sic='738110' sic2='73' start='733469'><daterange><start days='733469' iso8601='2009-03-01'>3/2009</start> - <end days='present' iso8601='2012-03-31'>Present</end></daterange>	<employer>CHECKMATE INVESTIGATIONS, LLC</employer> <address><city>Atlanta</city>, <state abbrev='GA'>GA.</state></address> 
+			<jobtype>Part-time</jobtype> <title>Administrative Assistant</title>/As needed basis
+<description>Responsibilities include answering telephones, dispatching calls to owner, customer service, and preparation of reports.  This position is on a &quot;as needed&quot; basis.</description></job>
+
+<job end='733410' id='3' pos='3' sic='571929' sic2='57' start='731491'><daterange><start days='731491' iso8601='2003-10-01'>10/2003</start> - <end days='733410' iso8601='2009-01-01'>1/2009</end></daterange>	<employer>POTTERY BARN</employer>, <address><city>Buford</city>, <state abbrev='GA'>GA.</state></address>
+			<title>Customer Service Manager</title>
+<description>Responsibilities included solving customer service problems, ordering furniture, greeting customers, use of cash register, stocking of inventory, displays, and unloading deliveries.  Taught designing classes, provided training for coordinators and sales associates as well as monthly reports for furniture sales and in-house catalog orders.</description></job>
+
+<job end='731491' id='4' pos='4' sic='871115' sic2='87' start='731096'><daterange><start days='731096' iso8601='2002-09-01'>9/2002</start> - <end days='731491' iso8601='2003-10-01'>10/2003</end></daterange>	<employer>BROCK &amp; ASSOCIATES, INC</employer>., <address><city>Atlanta</city>, <state abbrev='GA'>GA.</state></address>
+			<jobtype>Part-time</jobtype> <title>Receptionist</title> (as needed)
+			<description>Responsibilities included answering telephones and filing on an as-needed basis.</description></job>
+
+<job end='727625' id='5' pos='5' sic='508448' sic2='50' start='725374'><daterange><start days='725374' iso8601='1987-01-01'>1/1987</start> - <end days='727625' iso8601='1993-03-01'>3/1993</end></daterange>		<employer>MORELAND MERROW CO</employer>., <address><city>Doraville</city>, <state abbrev='GA'>GA.</state></address>
+			<title>Office Manager</title>
+<description>Responsibilities included taking orders, typing correspondence, filing invoices, answering telephones, and putting up stock.</description></job>
+
+<job end='725343' id='6' pos='6' sic='874102' sic2='87' start='724399'><daterange><start days='724399' iso8601='1984-05-01'>5/1984</start> - <end days='725343' iso8601='1986-12-01'>12/1986</end></daterange>	<employer>SERVISCO CO</employer>., <address>Union, <state abbrev='NJ'>NJ.</state></address>
+			<title>Assistant Fleet Manager</title>
+			<description>Responsibilities included typing correspondence, filing and answering telephones.</description></job></experience>
+
+<references>References:		Available upon request.</references>
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='733410' experience='1' expidrefs='3' idrefs='3' lastused='2009' name='cashier' start='731491'>
+    <variant>cash register</variant>
+  </canonskill>
+  <canonskill end='733410' experience='1' expidrefs='3' idrefs='3' lastused='2009' name='catalogs' start='731491'>
+    <variant>catalog</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='closing' start='733744'>
+    <variant>closing</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,3' idrefs='1,2,3' lastused='2012' name='customer service' start='731491'>
+    <variant>customer service</variant>
+  </canonskill>
+  <canonskill end='733410' experience='1' expidrefs='3' idrefs='3' lastused='2009' name='design' start='731491'>
+    <variant>designing</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='dispatching' start='733469'>
+    <variant>dispatching</variant>
+  </canonskill>
+  <canonskill end='731491' experience='1' expidrefs='4,5,6' idrefs='4,5,6' lastused='2003' name='file management' start='724399'>
+    <variant>filing</variant>
+  </canonskill>
+  <canonskill end='733410' experience='1' expidrefs='3' idrefs='3' lastused='2009' name='inventory management' start='731491'>
+    <variant>inventory</variant>
+  </canonskill>
+  <canonskill name='microsoft windows xp'>
+    <variant>Microsoft Windows XP</variant>
+  </canonskill>
+  <canonskill name='microsoft word'>
+    <variant>MS Word</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,3' idrefs='1,3' lastused='2012' name='sales' start='731491'>
+    <variant>sales</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2,4,5,6' idrefs='2,4,5,6' lastused='2012' name='telephone skills' start='724399'>
+    <variant>telephones</variant>
+  </canonskill>
+  <canonskill end='727625' experience='1' expidrefs='5,6' idrefs='5,6' lastused='1993' name='typing' start='724399'>
+    <variant>typing</variant>
+  </canonskill>
+  <canonskill name='vista'>
+    <variant>Vista</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

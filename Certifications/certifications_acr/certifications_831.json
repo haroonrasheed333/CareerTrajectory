@@ -1,0 +1,47 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CAM", 
+            "Certification Name": "Certified Aviation Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "6080", 
+            "Certifying Organization": "National Business Aviation Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Airmen Certification", 
+            "Type": "Core", 
+            "Certification ID": "5136", 
+            "Certifying Organization": "Federal Aviation Administration"
+        }, 
+        {
+            "Acronym": "CDS", 
+            "Certification Name": "Certified Director of Safety", 
+            "Type": "Advanced", 
+            "Certification ID": "3999", 
+            "Certifying Organization": "North American Transportation Management Institute"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Safety Supervisor", 
+            "Type": "Advanced", 
+            "Certification ID": "4001", 
+            "Certifying Organization": "North American Transportation Management Institute"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Medical Certification", 
+            "Type": "Core", 
+            "Certification ID": "5137", 
+            "Certifying Organization": "Federal Aviation Administration"
+        }, 
+        {
+            "Acronym": "FOE", 
+            "Certification Name": "Foreign Object Elimination", 
+            "Type": "Advanced", 
+            "Certification ID": "7875", 
+            "Certifying Organization": "National Center for Aerospace & Transportation Technologies"
+        }
+    ], 
+    "onet": "53605101"
+}

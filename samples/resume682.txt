@@ -1,0 +1,162 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734596' xml:space='preserve'><contact><name><givenname>Jerold</givenname> (<nickname>Jerry</nickname>) <surname>Stasulis</surname></name>
+
+
+
+
+<address lat='32.8197' lon='80.0545' majorcity='CHARLESTON' state='SC'><street>1000 Bonieta Harrold Drive, Apt. 10204</street> * <city>Charleston</city>, <state abbrev='SC'>SC</state> <postalcode>29414</postalcode></address> * <phone>(757) 560-2485</phone> *   <email>jstasul@gmail.com</email></contact>	
+
+
+
+SOFTWARE
+<experience end='present' start='732039'>WORK EXPERIENCE:	<job end='present' id='1' naics='33451103' naics2='33' pos='1' sic='348398' sic2='34' start='733865'><employer>Northrop Grumman</employer>
+<title>Embedded Software Engineer II</title>
+<description>Broad Area Maritime Surveillance Project - Naval Reconnaissance via Unmanned Aerial Vehicle
+Java-based development geared to distributing information from external endpoints via XMPP (XML-based messaging protocol)
+C#-based development integrated with SQL-Server using .netTiers code generation
+Moved project to more abstracted solution by creating better separation between Messaging and Business Layer in the application
+Worked on prototyping to create a functional environment for customer demonstrations prior to system integration	Charleston, SC</description>
+<daterange><start days='733865' iso8601='2010-04-01'>April 2010</start>-
+<end days='present' iso8601='2012-04-01'>Present</end></daterange></job>	
+
+
+
+
+<job end='733865' id='2' naics='33451103' naics2='33' pos='2' sic='348398' sic2='34' start='732860'><employer>Northrop Grumman</employer>
+<title>Embedded Software Engineer I</title>
+<description>NEXGEN Project - Multi-node chart radar for naval craft
+Held position of Build Meister, responsible for keeping status of releases as well as merging code with the base SDK as needed
+Performed on-site installation for Coast Guard Icebreaker
+Assisted product engineering department by updating engineering drawings and plans</description>
+
+
+<address><city>Charlottesville</city>, <state abbrev='VA'>VA</state></address>
+<daterange><start days='732860' iso8601='2007-07-01'>July 2007</start>-
+<end days='733865' iso8601='2010-04-01'>April 2010</end></daterange>
+
+
+
+
+
+
+
+<description>Norfolk Southern Railroad
+Intermodal Co-Op
+Technical assistant to the Intermodal Marketing department
+Created and managed relational Access databases with VBA backing
+Updated co-op manual with additional tasks and explanations to facilitate productivity of new co-ops and minimize manager-led training time	Norfolk, VA</description></job>
+<job end='732314' id='3' pos='3' start='732039'><daterange><start days='732039' iso8601='2005-04-01'>Summer 2005</start>, Spring <end days='732314' iso8601='2006-01-01'>2006</end></daterange></job></experience>	
+
+
+
+
+
+
+
+
+
+<education>EDUCATION:	<school id='5'><degree level='16' name='Bachelor of Science'>B.S</degree>. <major code='0402'>Computer Science</major>
+<institution>Clemson University</institution>
+Minor: <minor code='4201'>Business Administration</minor></school>
+<school id='6'><institution>Calhoun Honors College</institution>	<address><city>Clemson</city>, <state abbrev='SC'>SC</state></address> <completiondate days='732799' iso8601='2007-05-01'>May 2007</completiondate>  
+<gpa max='4' value='3.5'>3.5</gpa></school> GPR	
+
+
+<school id='7'><institution>IN-SCHOOL</institution></school></education>
+<experience start='731765'>WORK EXPERIENCE:	<job id='4' sic='822101' sic2='82' start='731765'><employer>Clemson University</employer>
+<title>Undergraduate Assistant</title>
+<description>Helped answer questions from students in larger sections of the Data Structures and Algorithms course	Clemson, SC</description>
+<daterange><start days='731765' iso8601='2004-07-01'>Spring 2004</start></daterange></job></experience>	
+
+
+
+<skills>SKILLS:	Proficiencies: <skills>C#, Java, Visual Basic, SQL Server, XML, XML Schemas, MS Office
+Some Experience: C, C++, Python, PROLOG, UNIX, Linux
+Department of Defense Secret Clearance</skills></skills>	
+
+
+<statements>ACTIVITIES:	<activities>Clemson Club Fencing (2005-2007)
+WORTHY High School Mentorship Program (2008-2009)
+Recreational Soccer, Ultimate Frisbee, Running</activities></statements>		
+
+
+
+</resume>
+
+<skillrollup version='1'>
+  <canonskill name='c'>
+    <variant>C</variant>
+  </canonskill>
+  <canonskill name='c + +'>
+    <variant>C++</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,4' idrefs='1,4' lastused='2012' name='counter terrorist check' start='731765'>
+    <variant>SC</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='database administration' start='732860'>
+    <variant>databases</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='functional' start='733865'>
+    <variant>functional</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='java' start='733865'>
+    <variant>Java</variant>
+  </canonskill>
+  <canonskill name='linux'>
+    <variant>Linux</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='marketing' start='732860'>
+    <variant>Marketing</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='messaging' start='733865'>
+    <variant>Messaging</variant>
+    <variant>messaging</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='microsoft access' start='732860'>
+    <variant>Access</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='microsoft c #' start='733865'>
+    <variant>C#</variant>
+  </canonskill>
+  <canonskill name='microsoft office'>
+    <variant>MS Office</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='ministry of defence' start='732860'>
+    <variant>radar</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='navy' start='732860'>
+    <variant>Naval</variant>
+    <variant>naval</variant>
+  </canonskill>
+  <canonskill name='prolog'>
+    <variant>PROLOG</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='prototyping' start='733865'>
+    <variant>prototyping</variant>
+  </canonskill>
+  <canonskill name='python'>
+    <variant>Python</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='sql' start='733865'>
+    <variant>SQL-Server</variant>
+    <variant>SQL Server</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='systems integration' start='733865'>
+    <variant>system integration</variant>
+  </canonskill>
+  <canonskill name='unix'>
+    <variant>UNIX</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='vba' start='732860'>
+    <variant>VBA</variant>
+  </canonskill>
+  <canonskill name='visual basic'>
+    <variant>Visual Basic</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='xml' start='733865'>
+    <variant>XML</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

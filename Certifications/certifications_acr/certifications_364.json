@@ -1,0 +1,75 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CPMM", 
+            "Certification Name": "Certified Product Marketing Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "9045", 
+            "Certifying Organization": "Association of International Product Marketing and Management"
+        }, 
+        {
+            "Acronym": "CSEP", 
+            "Certification Name": "Certified Special Events Professional", 
+            "Type": "Core", 
+            "Certification ID": "2232", 
+            "Certifying Organization": "International Special Events Society"
+        }, 
+        {
+            "Acronym": "IP", 
+            "Certification Name": "Incentive Professional", 
+            "Type": "Core", 
+            "Certification ID": "9034", 
+            "Certifying Organization": "Incentive Marketing Association"
+        }, 
+        {
+            "Acronym": "CPIM", 
+            "Certification Name": "Certified Professional of Incentive Management", 
+            "Type": "Advanced", 
+            "Certification ID": "9035", 
+            "Certifying Organization": "Incentive Marketing Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Recycling Systems - Technical Associate", 
+            "Type": "Core", 
+            "Certification ID": "1472", 
+            "Certifying Organization": "Solid Waste Association of North America"
+        }, 
+        {
+            "Acronym": "CSP", 
+            "Certification Name": "Certified Speaking Professional", 
+            "Type": "Core", 
+            "Certification ID": "1322", 
+            "Certifying Organization": "National Speakers Association"
+        }, 
+        {
+            "Acronym": "FAHP", 
+            "Certification Name": "Fellow of the Association for Healthcare Philanthropy", 
+            "Type": "Advanced", 
+            "Certification ID": "2207", 
+            "Certifying Organization": "Association for Healthcare Philanthropy"
+        }, 
+        {
+            "Acronym": "PR", 
+            "Certification Name": "Accreditation in Public Relations", 
+            "Type": "Core", 
+            "Certification ID": "0307", 
+            "Certifying Organization": "Public Relations Society of America"
+        }, 
+        {
+            "Acronym": "CPM", 
+            "Certification Name": "Certified Product Manager", 
+            "Type": "Core", 
+            "Certification ID": "9044", 
+            "Certifying Organization": "Association of International Product Marketing and Management"
+        }, 
+        {
+            "Acronym": "CUCME", 
+            "Certification Name": "Credit Union Certified Marketing Executive", 
+            "Type": "Advanced", 
+            "Certification ID": "9234", 
+            "Certifying Organization": "Credit Union National Association"
+        }
+    ], 
+    "onet": "27303100"
+}

@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734597' xml:space='preserve'><contact><name><givenname>WILLIAM</givenname> <givenname>G</givenname>. <surname>HANSON</surname> <namesuffix>Jr</namesuffix></name>.
+<email>hansonwg@dukes.jmu.edu</email> * <phone>804-690-7429</phone> * <address lat='37.4843' lon='77.6615' majorcity='MIDLOTHIAN' state='VA'><street>1006 Kingham Drive</street>, Midlothian, <state abbrev='VA'>VA</state> <postalcode>23114</postalcode></address></contact>
+<summary>OBJECTIVE
+<objective>To obtain a position in management and further develop my creative problem solving, graphics editing, and upper-level decision-making.</objective></summary>
+
+<education>EDUCATION
+<school id='4'><institution>James Madison University</institution>, <address><city>Harrisonburg</city>, <state abbrev='VA'>VA</state></address>
+College of Business, <completiondate>May 2014</completiondate>
+Major: <major code='4201'>Management</major>     Minor: <minor code='4505'>Film Studies</minor></school></education>
+
+<experience end='present' start='733288'>WORK EXPERIENCE
+Construction Administration (CA) <job end='present' id='1' pos='1' sic='874201' sic2='87' start='734260'><title>Intern</title>, <employer>HKS Inc</employer>.
+<daterange><start days='734260' iso8601='2011-05-01'>May 2011</start>-<end days='present' iso8601='2012-04-02'>present</end></daterange>
+<description>Organized project submittals, samples, and documents electronically into the company's new servers
+Collaborated with colleagues to design organizational solutions for past architectural projects so that files can be easily found and looked over
+
+Cashier and Salesman, Best Buy</description></job>
+<job end='734291' id='2' pos='2' start='733683'><daterange><start days='733683' iso8601='2009-10-01'>October 2009</start>-<end days='734291' iso8601='2011-06-01'>June 2011</end></daterange>
+<description>Underwent interpersonal skills training, where customer objections and behaviors were dissected and strategic approaches to these different scenarios were taught to make people the most happy
+Faced long-term goals that taught the responsibility to be detail-oriented and to be collaborative</description></job>
+
+<job end='733591' id='3' pos='3' sic='832218' sic2='83' start='733288'><title>Intern</title>, <employer>Multiple Sclerosis Society</employer>, Richmond Chapter
+<daterange><start days='733288' iso8601='2008-09-01'>September 2008</start>-<end days='733591' iso8601='2009-07-01'>July 2009</end></daterange>
+<description>Organized both BikeMS and WalkMS, the chapter's two primary fundraisers, and observed the organizational properties a non-profit organization undergoes year-round in preparation for a fundraising event
+Designed awareness posters and handouts using Adobe InDesign</description></job></experience>
+
+<skills>SKILLS
+Computer Software: <skills>Intermediate/ Advanced understanding of Adobe Photoshop, Dreamweaver, InDesign, Flash, Acrobat, After Effects, Premiere, Sony Vegas Pro, Microsoft Office</skills>
+Foreign Language: <languages>Basic understanding of Spanish</languages>
+
+OTHER
+<description>Semester Study Abroad trip - Accepted to attend the College of Business in Antwerp, Belgium in the spring of 2013
+James Madison Men's Volleyball - Currently leading 11 teammates on a very successful and highly regarded club team</description></skills>
+</resume>
+
+<skillrollup version='1'>
+  <canonskill name='adobe acrobat'>
+    <variant>Acrobat</variant>
+  </canonskill>
+  <canonskill name='adobe aftereffects'>
+    <variant>After Effects</variant>
+  </canonskill>
+  <canonskill name='adobe photoshop'>
+    <variant>Adobe Photoshop</variant>
+  </canonskill>
+  <canonskill name='adobe premiere'>
+    <variant>Premiere</variant>
+  </canonskill>
+  <canonskill name='basic'>
+    <variant>Basic</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='cashier' start='734260'>
+    <variant>Cashier</variant>
+  </canonskill>
+  <canonskill end='734291' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='communication skills' start='733683'>
+    <variant>interpersonal skills</variant>
+  </canonskill>
+  <canonskill end='734291' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='detail oriented' start='733683'>
+    <variant>detail-oriented</variant>
+  </canonskill>
+  <canonskill name='dreamweaver'>
+    <variant>Dreamweaver</variant>
+  </canonskill>
+  <canonskill name='flash'>
+    <variant>Flash</variant>
+  </canonskill>
+  <canonskill end='733591' experience='1' expidrefs='3' idrefs='3' lastused='2009' name='fundraising' start='733288'>
+    <variant>fundraising</variant>
+  </canonskill>
+  <canonskill end='733591' experience='1' expidrefs='3' idrefs='3' lastused='2009' name='indesign' start='733288'>
+    <variant>InDesign</variant>
+    <variant>Adobe InDesign</variant>
+  </canonskill>
+  <canonskill name='microsoft office'>
+    <variant>Microsoft Office</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,3' idrefs='1,3' lastused='2012' name='organizational skills' start='733288'>
+    <variant>organizational</variant>
+  </canonskill>
+  <canonskill end='733591' experience='1' expidrefs='3' idrefs='3' lastused='2009' name='posters' start='733288'>
+    <variant>posters</variant>
+  </canonskill>
+  <canonskill end='733591' experience='1' expidrefs='3' idrefs='3' lastused='2009' name='profit' start='733288'>
+    <variant>profit</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='servers' start='734260'>
+    <variant>servers</variant>
+  </canonskill>
+  <canonskill name='spanish'>
+    <variant>Spanish</variant>
+  </canonskill>
+  <canonskill end='734291' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='strategic' start='733683'>
+    <variant>strategic</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

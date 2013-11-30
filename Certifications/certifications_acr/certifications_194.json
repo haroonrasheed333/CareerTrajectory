@@ -1,0 +1,306 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CETsr", 
+            "Certification Name": "Senior Certified Electronics Technician", 
+            "Type": "Advanced", 
+            "Certification ID": "6842", 
+            "Certifying Organization": "ETA International"
+        }, 
+        {
+            "Acronym": "CCST", 
+            "Certification Name": "Certified Control Systems Technician Level II", 
+            "Type": "Advanced", 
+            "Certification ID": "7662", 
+            "Certifying Organization": "International Society of Automation"
+        }, 
+        {
+            "Acronym": "RESI", 
+            "Certification Name": "Residential Electronics Systems Integrator - Environmental Control", 
+            "Type": "Specialty", 
+            "Certification ID": "7624", 
+            "Certifying Organization": "ETA International"
+        }, 
+        {
+            "Acronym": "IND", 
+            "Certification Name": "Industrial Electronics Technician", 
+            "Type": "Core", 
+            "Certification ID": "4362", 
+            "Certifying Organization": "ETA International"
+        }, 
+        {
+            "Acronym": "CCT", 
+            "Certification Name": "Certified Calibration Technician", 
+            "Type": "Core", 
+            "Certification ID": "3945", 
+            "Certifying Organization": "American Society for Quality"
+        }, 
+        {
+            "Acronym": "WCM", 
+            "Certification Name": "Wireless Communications Electronics Technician", 
+            "Type": "Core", 
+            "Certification ID": "3683", 
+            "Certifying Organization": "ETA International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Traffic Signal Senior Bench Technician Level III", 
+            "Type": "Advanced", 
+            "Certification ID": "0399", 
+            "Certifying Organization": "International Municipal Signal Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Traffic Signal Technician Level I", 
+            "Type": "Core", 
+            "Certification ID": "0397", 
+            "Certifying Organization": "International Municipal Signal Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Roadway Lighting Technician Level I", 
+            "Type": "Core", 
+            "Certification ID": "0393", 
+            "Certifying Organization": "International Municipal Signal Association"
+        }, 
+        {
+            "Acronym": "RESI", 
+            "Certification Name": "Residential Electronics Systems Integrator - Computer Networking", 
+            "Type": "Specialty", 
+            "Certification ID": "7621", 
+            "Certifying Organization": "ETA International"
+        }, 
+        {
+            "Acronym": "BDS", 
+            "Certification Name": "Broadband Distribution Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "0853", 
+            "Certifying Organization": "Society of Cable Telecommunications Engineers"
+        }, 
+        {
+            "Acronym": "CETa", 
+            "Certification Name": "Associate Certified Electronics Technician", 
+            "Type": "Core", 
+            "Certification ID": "5346", 
+            "Certifying Organization": "ETA International"
+        }, 
+        {
+            "Acronym": "EST II", 
+            "Certification Name": "Electronic Systems Technician II", 
+            "Type": "Core", 
+            "Certification ID": "6951", 
+            "Certifying Organization": "Custom Electronic Design and Installation Association"
+        }, 
+        {
+            "Acronym": "CSEP", 
+            "Certification Name": "Certified Systems Engineering Professional", 
+            "Type": "Core", 
+            "Certification ID": "8962", 
+            "Certifying Organization": "International Council on Systems Engineering"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Traffic Signal Bench Technician Level II", 
+            "Type": "Advanced", 
+            "Certification ID": "0398", 
+            "Certifying Organization": "International Municipal Signal Association"
+        }, 
+        {
+            "Acronym": "CAP", 
+            "Certification Name": "Certified Automation Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "3687", 
+            "Certifying Organization": "International Society of Automation"
+        }, 
+        {
+            "Acronym": "RESIma", 
+            "Certification Name": "Master Residential Electronics Systems Integrator", 
+            "Type": "Advanced", 
+            "Certification ID": "6841", 
+            "Certifying Organization": "ETA International"
+        }, 
+        {
+            "Acronym": "CTM", 
+            "Certification Name": "Certified Technology Manager", 
+            "Type": "Core", 
+            "Certification ID": "0859", 
+            "Certifying Organization": "Association of Technology, Management, and Applied Engineering"
+        }, 
+        {
+            "Acronym": "FDR", 
+            "Certification Name": "RF Line Sweeping", 
+            "Type": "Core", 
+            "Certification ID": "4369", 
+            "Certifying Organization": "ETA International"
+        }, 
+        {
+            "Acronym": "EST", 
+            "Certification Name": "Electronic Systems Technician III", 
+            "Type": "Advanced", 
+            "Certification ID": "6952", 
+            "Certifying Organization": "Custom Electronic Design and Installation Association"
+        }, 
+        {
+            "Acronym": "CCST", 
+            "Certification Name": "Certified Control Systems Technicians Level III", 
+            "Type": "Advanced", 
+            "Certification ID": "7663", 
+            "Certifying Organization": "International Society of Automation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Engineering Technician - Audio Systems", 
+            "Type": "Core", 
+            "Certification ID": "3530", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "High School Level", 
+            "Certification Name": "Student Electronics Technician (High School Level)", 
+            "Type": "Core", 
+            "Certification ID": "4365", 
+            "Certifying Organization": "ETA International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Traffic Signal Inspector Level I", 
+            "Type": "Advanced", 
+            "Certification ID": "8759", 
+            "Certifying Organization": "International Municipal Signal Association"
+        }, 
+        {
+            "Acronym": "RESI-SS", 
+            "Certification Name": "Residential Electronics Systems Integrator - Security/Surveillance", 
+            "Type": "Specialty", 
+            "Certification ID": "7623", 
+            "Certifying Organization": "ETA International"
+        }, 
+        {
+            "Acronym": "EST", 
+            "Certification Name": "Certified  Electronic Systems Technician", 
+            "Type": "Core", 
+            "Certification ID": "6945", 
+            "Certifying Organization": "Electronic Systems Professional Alliance"
+        }, 
+        {
+            "Acronym": "CQT", 
+            "Certification Name": "Certified Quality Technician", 
+            "Type": "Core", 
+            "Certification ID": "0793", 
+            "Certifying Organization": "American Society for Quality"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Traffic Signal Field Technician Level II", 
+            "Type": "Advanced", 
+            "Certification ID": "8756", 
+            "Certifying Organization": "International Municipal Signal Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Traffic Signal Construction Technician Level II", 
+            "Type": "Advanced", 
+            "Certification ID": "8754", 
+            "Certifying Organization": "International Municipal Signal Association"
+        }, 
+        {
+            "Acronym": "Electrostatic Discharge", 
+            "Certification Name": "ESD (Electrostatic Discharge) Technician", 
+            "Type": "Advanced", 
+            "Certification ID": "2279", 
+            "Certifying Organization": "National Association of Radio and Telecommunications Engineers, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Microprocessors in Traffic Signals Technician", 
+            "Type": "Core", 
+            "Certification ID": "8758", 
+            "Certifying Organization": "International Municipal Signal Association"
+        }, 
+        {
+            "Acronym": "RESI", 
+            "Certification Name": "Residential Electronics Systems Integrator - Closed Circuit TV", 
+            "Type": "Specialty", 
+            "Certification ID": "7622", 
+            "Certifying Organization": "ETA International"
+        }, 
+        {
+            "Acronym": "CCST", 
+            "Certification Name": "Certified Control Systems Technician   Level I", 
+            "Type": "Core", 
+            "Certification ID": "1107", 
+            "Certifying Organization": "International Society of Automation"
+        }, 
+        {
+            "Acronym": "Electromagnetic Compatibility", 
+            "Certification Name": "EMC (Electromagnetic Compatibility) Technician", 
+            "Type": "Advanced", 
+            "Certification ID": "2277", 
+            "Certifying Organization": "National Association of Radio and Telecommunications Engineers, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Senior Telecommunications Technician", 
+            "Type": "Advanced", 
+            "Certification ID": "2666", 
+            "Certifying Organization": "National Association of Radio and Telecommunications Engineers, Inc."
+        }, 
+        {
+            "Acronym": "CETma", 
+            "Certification Name": "Master Certified Electronics Technician", 
+            "Type": "Advanced", 
+            "Certification ID": "6843", 
+            "Certifying Organization": "ETA International"
+        }, 
+        {
+            "Acronym": "RESI-AV", 
+            "Certification Name": "Residential Electronics Systems Integrator - Audio/Video", 
+            "Type": "Specialty", 
+            "Certification ID": "7620", 
+            "Certifying Organization": "ETA International"
+        }, 
+        {
+            "Acronym": "CFPS", 
+            "Certification Name": "Fluid Power Electronic Controls Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "2611", 
+            "Certifying Organization": "International Fluid Power Society"
+        }, 
+        {
+            "Acronym": "CSTM", 
+            "Certification Name": "Certified Senior Technology Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "0860", 
+            "Certifying Organization": "Association of Technology, Management, and Applied Engineering"
+        }, 
+        {
+            "Acronym": "RESI", 
+            "Certification Name": "Residential Electronics Systems Integrator", 
+            "Type": "Core", 
+            "Certification ID": "6840", 
+            "Certifying Organization": "ETA International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Traffic Signal Design/Engineering Technician Level II", 
+            "Type": "Advanced", 
+            "Certification ID": "8755", 
+            "Certifying Organization": "International Municipal Signal Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Master Telecommunications Technician", 
+            "Type": "Advanced", 
+            "Certification ID": "2668", 
+            "Certifying Organization": "National Association of Radio and Telecommunications Engineers, Inc."
+        }, 
+        {
+            "Acronym": "RAD", 
+            "Certification Name": "RADAR Electronics Technician", 
+            "Type": "Advanced", 
+            "Certification ID": "4367", 
+            "Certifying Organization": "ETA International"
+        }
+    ], 
+    "onet": "17302301"
+}

@@ -1,0 +1,54 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CPSP", 
+            "Certification Name": "Certified Professional Salesperson Level I", 
+            "Type": "Core", 
+            "Certification ID": "9418", 
+            "Certifying Organization": "National Association of Sales Professionals"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "National Professional Certification in Sales", 
+            "Type": "Core", 
+            "Certification ID": "5264", 
+            "Certifying Organization": "National Retail Federation Foundation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Service Manager", 
+            "Type": "Core", 
+            "Certification ID": "6950", 
+            "Certifying Organization": "Professional Service Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Oracle Retail Demand Forecasting 13.3 Functional Implementer Certified Implementation Specialist", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8510", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "CMD", 
+            "Certification Name": "Certified Master Dealer", 
+            "Type": "Advanced", 
+            "Certification ID": "6186", 
+            "Certifying Organization": "National Independent Automobile Dealers Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Oracle Retail Predictive Application Server 13 Configuration Certified Implementation Specialist", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8506", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "CCR", 
+            "Certification Name": "Certified Collegiate Retailer", 
+            "Type": "Core", 
+            "Certification ID": "0850", 
+            "Certifying Organization": "National Association of College Bookstores"
+        }
+    ], 
+    "onet": "41101100"
+}

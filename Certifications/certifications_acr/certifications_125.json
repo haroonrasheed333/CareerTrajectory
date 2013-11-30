@@ -1,0 +1,726 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Apple Certified Associate - Mac Integration 10.7", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "3511", 
+            "Certifying Organization": "Apple Computer, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "HDI Desktop Support Technician", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "5486", 
+            "Certifying Organization": "HDI"
+        }, 
+        {
+            "Acronym": "HDI", 
+            "Certification Name": "HDI Support Center Director", 
+            "Type": "Advanced", 
+            "Certification ID": "5488", 
+            "Certifying Organization": "HDI"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "ICMI Professional Certification", 
+            "Type": "Core", 
+            "Certification ID": "8776", 
+            "Certifying Organization": "International Customer Management Institute"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Advanced Deployment Professional - IBM Service Management Service Delivery and Process", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9514", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "HP Support Certified - LaserJet Solutions [2013]", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7231", 
+            "Certifying Organization": "Hewlett Packard Certification and Learning"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Master ASE - HP NonStop Systems Support [2007]", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7245", 
+            "Certifying Organization": "Hewlett Packard Certification and Learning"
+        }, 
+        {
+            "Acronym": "GCIH", 
+            "Certification Name": "GIAC Certified Incident Handler", 
+            "Type": "Core", 
+            "Certification ID": "2820", 
+            "Certifying Organization": "Global Information Assurance Certification"
+        }, 
+        {
+            "Acronym": "VolP", 
+            "Certification Name": "Broadband Voice over Internet Protocol", 
+            "Type": "Core", 
+            "Certification ID": "4359", 
+            "Certifying Organization": "ETA International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "HP Advanced Sales Certified - ITPS Operations Solutions [2012]", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8921", 
+            "Certifying Organization": "Hewlett Packard Certification and Learning"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Service Management Service Availability and Performance Management V4", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9540", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Deployment Professional - Sterling Configurator V9.1", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9317", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Operator - AIX 6.1 Basic Operations", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "5073", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Novell Academic Instructor", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "5152", 
+            "Certifying Organization": "Novell, Inc. - Education"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "HP Master ASE - Software for Cloud Management V1", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8851", 
+            "Certifying Organization": "Hewlett Packard Certification and Learning"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Apple Certified Technical Coordinator", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8825", 
+            "Certifying Organization": "Apple Computer, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Apple Certified Support Professional", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8824", 
+            "Certifying Organization": "Apple Computer, Inc."
+        }, 
+        {
+            "Acronym": "AIT", 
+            "Certification Name": "Associate in Information Technology", 
+            "Type": "Core", 
+            "Certification ID": "9082", 
+            "Certifying Organization": "The Institutes"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "HP Advanced Sales Certified - ITPS Applications Solutions [2012]", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8919", 
+            "Certifying Organization": "Hewlett Packard Certification and Learning"
+        }, 
+        {
+            "Acronym": "HDI", 
+            "Certification Name": "HDI Certified Customer Service Representative", 
+            "Type": "Core", 
+            "Certification ID": "5485", 
+            "Certifying Organization": "HDI"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "RSA Certified Administrator - SecurID", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "2816", 
+            "Certifying Organization": "RSA Security, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Linux Professional Institute Certification - Level 1", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "1668", 
+            "Certifying Organization": "Linux Professional Institute"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "HP Advanced Sales Certified - Client Virtualization [2012]", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8889", 
+            "Certifying Organization": "Hewlett Packard Certification and Learning"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "HP Support Certified - Desktops, Workstations and Notebooks [2013]", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8893", 
+            "Certifying Organization": "Hewlett Packard Certification and Learning"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "HP Advanced Sales Certified - ITPS Cloud Builder Solutions [2012]", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8920", 
+            "Certifying Organization": "Hewlett Packard Certification and Learning"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Microsoft Certified IT Professional: Enterprise Support Technician on Windows Vista", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7462", 
+            "Certifying Organization": "Microsoft Corporation"
+        }, 
+        {
+            "Acronym": "CTT+", 
+            "Certification Name": "Certified Technical Trainer Certification", 
+            "Type": "Core", 
+            "Certification ID": "2484", 
+            "Certifying Organization": "Computing Technology Industry Association (CompTIA)"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Linux Professional Institute Certification - Level 2", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "2988", 
+            "Certifying Organization": "Linux Professional Institute"
+        }, 
+        {
+            "Acronym": "CWDP", 
+            "Certification Name": "Certified Wireless Design Professional", 
+            "Type": "Core", 
+            "Certification ID": "6339", 
+            "Certifying Organization": "Certified Wireless Network Professional"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "CompTIA Strata IT Fundamentals Certification", 
+            "Type": "Core", 
+            "Certification ID": "7373", 
+            "Certifying Organization": "Computing Technology Industry Association (CompTIA)"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Novell  Certified Engineer Enterprise Services", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "0363", 
+            "Certifying Organization": "Novell, Inc. - Education"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "BMC Certified Operator: BMC BladeLogic Server Automation 8.1", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "5654", 
+            "Certifying Organization": "BMC Software, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "APS - Networking [2010]", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7234", 
+            "Certifying Organization": "Hewlett Packard Certification and Learning"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Specialist - Retail Store Solutions: Windows Technical Solutions", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7036", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "CWTS", 
+            "Certification Name": "Certified Wireless Technology Specialist", 
+            "Type": "Advanced", 
+            "Certification ID": "3765", 
+            "Certifying Organization": "Certified Wireless Network Professional"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified System Administrator - WebSphere Application Server Network Deployment V7.0", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "5046", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Systems Expert - High Availability for AIX Technical Support and Administration", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "5056", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "APS - HP ProLiant ML/DL/SL Servers [2010]", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8916", 
+            "Certifying Organization": "Hewlett Packard Certification and Learning"
+        }, 
+        {
+            "Acronym": "CST", 
+            "Certification Name": "Computer Service Technician", 
+            "Type": "Core", 
+            "Certification ID": "0516", 
+            "Certifying Organization": "ETA International"
+        }, 
+        {
+            "Acronym": "GAWN", 
+            "Certification Name": "GIAC Assessing Wireless Networks", 
+            "Type": "Core", 
+            "Certification ID": "4396", 
+            "Certifying Organization": "Global Information Assurance Certification"
+        }, 
+        {
+            "Acronym": "CITC", 
+            "Certification Name": "Certified IT Consultant", 
+            "Type": "Core", 
+            "Certification ID": "7174", 
+            "Certifying Organization": "Institute for the Certification of Computing Professionals"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Specialist - Retail Store Solutions: 4690 Technical Solutions", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7037", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Symantec Certified Specialist", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9177", 
+            "Certifying Organization": "Symantec"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Oracle User Productivity Kit 11 Certified Implementation Specialist", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8473", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Deployment Professional - Tivoli Change and Configuration Management Database V7.1.1", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "5018", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Apple Certified Associate - Mac Integration 10.8", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8826", 
+            "Certifying Organization": "Apple Computer, Inc."
+        }, 
+        {
+            "Acronym": "HDI", 
+            "Certification Name": "HDI Certified Support Center Team Lead", 
+            "Type": "Core", 
+            "Certification ID": "5487", 
+            "Certifying Organization": "HDI"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Service Management Service Availability and Performance Management V3", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9518", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "RSA Certified Systems Engineer - ClearTrust", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "3495", 
+            "Certifying Organization": "RSA Security, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Specialist - Cognos 8 BI", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "3713", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "CCNP Service Provider", 
+            "Type": "Core", 
+            "Certification ID": "8691", 
+            "Certifying Organization": "Cisco Systems, Inc."
+        }, 
+        {
+            "Acronym": "CCP", 
+            "Certification Name": "Certified Computing Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "0014", 
+            "Certifying Organization": "Institute for the Certification of Computing Professionals"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Microsoft Certified Learning Consultant", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "4945", 
+            "Certifying Organization": "Microsoft Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Server+ Certification", 
+            "Type": "Core", 
+            "Certification ID": "2387", 
+            "Certifying Organization": "Computing Technology Industry Association (CompTIA)"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "HP ASE - Advanced Server Administrator V8", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8865", 
+            "Certifying Organization": "Hewlett Packard Certification and Learning"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "HP Sales Certified - Application Lifecycle Management [2012]", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8922", 
+            "Certifying Organization": "Hewlett Packard Certification and Learning"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Microsoft Office Specialist: Windows Vista for the Business Worker", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7385", 
+            "Certifying Organization": "Microsoft Corporation"
+        }, 
+        {
+            "Acronym": "ISP", 
+            "Certification Name": "Information Systems Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "3545", 
+            "Certifying Organization": "Institute for the Certification of Computing Professionals"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Microsoft Office Specialist: Microsoft Office 2010", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "2715", 
+            "Certifying Organization": "Microsoft Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Linux Professional Institute Certification - Level 3", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "2989", 
+            "Certifying Organization": "Linux Professional Institute"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Application Developer - WebSphere ILOG JRules V7.0", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "4995", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Microsoft Office Specialist (MOS): Access 2010", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7382", 
+            "Certifying Organization": "Microsoft Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Developer - InfoSphere MDM Server v9.0", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9396", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "HP ASE - Wireless Networks Implementer V1", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8860", 
+            "Certifying Organization": "Hewlett Packard Certification and Learning"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "HP ATA - Connected Devices V1", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8859", 
+            "Certifying Organization": "Hewlett Packard Certification and Learning"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "A+ Certification", 
+            "Type": "Core", 
+            "Certification ID": "0019", 
+            "Certifying Organization": "Computing Technology Industry Association (CompTIA)"
+        }, 
+        {
+            "Acronym": "ACP", 
+            "Certification Name": "Associate Computing Professional", 
+            "Type": "Core", 
+            "Certification ID": "0857", 
+            "Certifying Organization": "Institute for the Certification of Computing Professionals"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Service Management Network and Service Assurance V3", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9517", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Citrix Certified Enterprise Engineer", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "1598", 
+            "Certifying Organization": "Citrix Systems Incorporated"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "HP Technical Certified I - Implementing SaaS Solutions [2013]", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8926", 
+            "Certifying Organization": "Hewlett Packard Certification and Learning"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified System Administrator - WebSphere Application Server, Network Deployment V6.1", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "5026", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "HP AIS - Thin Client Solutions [2011]", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7180", 
+            "Certifying Organization": "Hewlett Packard Certification and Learning"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "AIS - HP Integrity Server Systems [2006]", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7197", 
+            "Certifying Organization": "Hewlett Packard Certification and Learning"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Microsoft Certified Technology Specialist: Configuring Microsoft Windows Vista Client", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7402", 
+            "Certifying Organization": "Microsoft Corporation"
+        }, 
+        {
+            "Acronym": "PDI+", 
+            "Certification Name": "CompTIA Printing and Document Imaging Certification", 
+            "Type": "Core", 
+            "Certification ID": "3498", 
+            "Certifying Organization": "Computing Technology Industry Association (CompTIA)"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Microsoft Technology Associate: Windows Development Fundamentals", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7479", 
+            "Certifying Organization": "Microsoft Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Microsoft Office Specialist: Microsoft Office Access 2007", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7392", 
+            "Certifying Organization": "Microsoft Corporation"
+        }, 
+        {
+            "Acronym": "HDI", 
+            "Certification Name": "HDI Support Center Analyst", 
+            "Type": "Core", 
+            "Certification ID": "3429", 
+            "Certifying Organization": "HDI"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "AIS - HP BSM Operations Manager For Windows v9", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7206", 
+            "Certifying Organization": "Hewlett Packard Certification and Learning"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Oracle Certified Expert, Siebel Customer Relationship Management (CRM) 8 Business Analyst", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8467", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Check Point Advanced IPS", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8845", 
+            "Certifying Organization": "Check Point Software Technologies, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Apple Certified Macintosh Technician", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "3509", 
+            "Certifying Organization": "Apple Computer, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Juniper Networks Certified Internet Professional", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "4748", 
+            "Certifying Organization": "Juniper Networks"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "HP ATP - BladeSystem Solutions Integrator V8.1", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8850", 
+            "Certifying Organization": "Hewlett Packard Certification and Learning"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "APS - HP BladeSystem Solutions [2010]", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8915", 
+            "Certifying Organization": "Hewlett Packard Certification and Learning"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "HP Technical Certified I - SMB Solutions [2012]", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8887", 
+            "Certifying Organization": "Hewlett Packard Certification and Learning"
+        }, 
+        {
+            "Acronym": "KCS", 
+            "Certification Name": "Knowledge Management Foundations: Knowledge-Centered Support Principles", 
+            "Type": "Advanced", 
+            "Certification ID": "5489", 
+            "Certifying Organization": "HDI"
+        }, 
+        {
+            "Acronym": "CWS", 
+            "Certification Name": "Certified Web Specialist", 
+            "Type": "Core", 
+            "Certification ID": "3036", 
+            "Certifying Organization": "ETA International"
+        }, 
+        {
+            "Acronym": "HDI", 
+            "Certification Name": "HDI Support Center Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "1742", 
+            "Certifying Organization": "HDI"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Service Management Network and Service Assurance V2", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9524", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Microsoft Certified IT Professional: SharePoint Administrator 2010", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7470", 
+            "Certifying Organization": "Microsoft Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "3Com Certified Wireless Expert", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "3880", 
+            "Certifying Organization": "3Com"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Juniper Networks Certified Internet Associate", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "4749", 
+            "Certifying Organization": "Juniper Networks"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Microsoft Certified IT Professional: Consumer Support Technician on Windows Vista", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7461", 
+            "Certifying Organization": "Microsoft Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Network+ Certification", 
+            "Type": "Core", 
+            "Certification ID": "0642", 
+            "Certifying Organization": "Computing Technology Industry Association (CompTIA)"
+        }, 
+        {
+            "Acronym": "CCNA", 
+            "Certification Name": "CCNA Service Provider Operations", 
+            "Type": "Core", 
+            "Certification ID": "8692", 
+            "Certifying Organization": "Cisco Systems, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "HP Technical Certified II - Enterprise Solutions [2012]", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8888", 
+            "Certifying Organization": "Hewlett Packard Certification and Learning"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "APS - HP P2000 StorageWorks Solutions [2010]", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7232", 
+            "Certifying Organization": "Hewlett Packard Certification and Learning"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified SOA Associate [2008]", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "5474", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "GREM", 
+            "Certification Name": "GAIC Reverse Engineering Malware", 
+            "Type": "Advanced", 
+            "Certification ID": "4372", 
+            "Certifying Organization": "Global Information Assurance Certification"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Deployment Professional - Tivoli Identity Manager V5.1", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "5024", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Specialist - Retail Store Solutions Sales V4", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "5096", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Check Point Certified Specialist - Integrity", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "5814", 
+            "Certifying Organization": "Check Point Software Technologies, Inc."
+        }
+    ], 
+    "onet": "15115100"
+}

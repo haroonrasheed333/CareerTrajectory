@@ -1,0 +1,40 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Aerospace Technician", 
+            "Type": "Advanced", 
+            "Certification ID": "5618", 
+            "Certifying Organization": "SpaceTEC"
+        }, 
+        {
+            "Acronym": "AET", 
+            "Certification Name": "Aircraft Electronics Technician", 
+            "Type": "Advanced", 
+            "Certification ID": "7874", 
+            "Certifying Organization": "National Center for Aerospace & Transportation Technologies"
+        }, 
+        {
+            "Acronym": "CET", 
+            "Certification Name": "Certified Electronics Technician - Associate-Level", 
+            "Type": "Specialty", 
+            "Certification ID": "0503", 
+            "Certifying Organization": "International Society of Certified Electronics Technicians"
+        }, 
+        {
+            "Acronym": "AVN", 
+            "Certification Name": "Avionics Electronics Technician", 
+            "Type": "Core", 
+            "Certification ID": "0467", 
+            "Certifying Organization": "ETA International"
+        }, 
+        {
+            "Acronym": "RAD", 
+            "Certification Name": "RADAR Electronics Technician", 
+            "Type": "Advanced", 
+            "Certification ID": "4367", 
+            "Certifying Organization": "ETA International"
+        }
+    ], 
+    "onet": "49209100"
+}

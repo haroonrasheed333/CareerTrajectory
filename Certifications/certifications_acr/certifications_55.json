@@ -1,0 +1,138 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CFSSP", 
+            "Certification Name": "Certified Financial Services Security Professional", 
+            "Type": "Specialty", 
+            "Certification ID": "1550", 
+            "Certifying Organization": "Institute of Certified Bankers"
+        }, 
+        {
+            "Acronym": "CCBSO", 
+            "Certification Name": "Certified Community Bank Security Officer", 
+            "Type": "Core", 
+            "Certification ID": "9241", 
+            "Certifying Organization": "Independent Community Bankers of America"
+        }, 
+        {
+            "Acronym": "CSC", 
+            "Certification Name": "Certified Security Consultant", 
+            "Type": "Advanced", 
+            "Certification ID": "8965", 
+            "Certifying Organization": "International Association of Professional Security Consultants"
+        }, 
+        {
+            "Acronym": "CFE", 
+            "Certification Name": "Certified Fraud Examiner", 
+            "Type": "Core", 
+            "Certification ID": "1245", 
+            "Certifying Organization": "Association of Certified Fraud Examiners"
+        }, 
+        {
+            "Acronym": "CHS-I", 
+            "Certification Name": "Certified in Homeland Security Level I", 
+            "Type": "Core", 
+            "Certification ID": "6267", 
+            "Certifying Organization": "American Board for Certification in Homeland Security"
+        }, 
+        {
+            "Acronym": "CHPS", 
+            "Certification Name": "Certified in Healthcare Privacy and Security", 
+            "Type": "Advanced", 
+            "Certification ID": "6302", 
+            "Certifying Organization": "American Health Information Management Association"
+        }, 
+        {
+            "Acronym": "CHS", 
+            "Certification Name": "Certified Homeland Security V - Prevention, Response and Mitigation", 
+            "Type": "Advanced", 
+            "Certification ID": "7436", 
+            "Certifying Organization": "American Board for Certification in Homeland Security"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Airport Certified Employee - Security", 
+            "Type": "Specialty", 
+            "Certification ID": "5606", 
+            "Certifying Organization": "American Association of Airport Executives"
+        }, 
+        {
+            "Acronym": "CHS II", 
+            "Certification Name": "Certified in Homeland Security Level II", 
+            "Type": "Core", 
+            "Certification ID": "7849", 
+            "Certifying Organization": "American Board for Certification in Homeland Security"
+        }, 
+        {
+            "Acronym": "CDP-I", 
+            "Certification Name": "Certified in Disaster Preparedness I", 
+            "Type": "Advanced", 
+            "Certification ID": "7437", 
+            "Certifying Organization": "American Board for Certification in Homeland Security"
+        }, 
+        {
+            "Acronym": "CNTA", 
+            "Certification Name": "Certified National Threat Analyst", 
+            "Type": "Advanced", 
+            "Certification ID": "7438", 
+            "Certifying Organization": "American Board for Certification in Homeland Security"
+        }, 
+        {
+            "Acronym": "CPP", 
+            "Certification Name": "Certified Protection Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "1477", 
+            "Certifying Organization": "ASIS"
+        }, 
+        {
+            "Acronym": "BSCP", 
+            "Certification Name": "Building Security Certified Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "8774", 
+            "Certifying Organization": "Building Security Certification Program"
+        }, 
+        {
+            "Acronym": "CHS-II", 
+            "Certification Name": "Certified in Homeland Security - Preparedness", 
+            "Type": "Advanced", 
+            "Certification ID": "7433", 
+            "Certifying Organization": "American Board for Certification in Homeland Security"
+        }, 
+        {
+            "Acronym": "CHS-III", 
+            "Certification Name": "Certified Homeland Security III - Mitigation", 
+            "Type": "Advanced", 
+            "Certification ID": "7434", 
+            "Certifying Organization": "American Board for Certification in Homeland Security"
+        }, 
+        {
+            "Acronym": "CHS IV", 
+            "Certification Name": "Certified Home Security IV - Response and Recovery", 
+            "Type": "Advanced", 
+            "Certification ID": "7435", 
+            "Certifying Organization": "American Board for Certification in Homeland Security"
+        }, 
+        {
+            "Acronym": "SSIC", 
+            "Certification Name": "Sensitive Security Information", 
+            "Type": "Core", 
+            "Certification ID": "6266", 
+            "Certifying Organization": "American Board for Certification in Homeland Security"
+        }, 
+        {
+            "Acronym": "PCI", 
+            "Certification Name": "Professional Certified Investigator", 
+            "Type": "Core", 
+            "Certification ID": "3743", 
+            "Certifying Organization": "ASIS"
+        }, 
+        {
+            "Acronym": "ASC", 
+            "Certification Name": "Anti-Sabatoge, Certified", 
+            "Type": "Advanced", 
+            "Certification ID": "7439", 
+            "Certifying Organization": "American Board for Certification in Homeland Security"
+        }
+    ], 
+    "onet": "11919907"
+}

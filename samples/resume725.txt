@@ -1,0 +1,199 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734596' xml:space='preserve'><contact><name><givenname>Lisa</givenname> <givenname>E</givenname>. <surname>Ganino</surname></name>
+<address lat='42.0239' lon='-71.1279' majorcity='EASTON' state='MA'><city>Easton</city>, <state abbrev='CT'>CT</state></address>
+<phone>(203) 273-8175</phone>
+<email>lganino@aol.com</email></contact>
+
+
+<summary>OBJECTIVE
+Highly self-motivated, extremely organized administrative assistant with superior interpersonal skills, concrete follow-up, and the ability to prioritize numerous duties.   Experienced in assisting top level management by utilizing Microsoft Office, Salesforce, and more; advanced Word and Outlook skills, intermediate Excel and PowerPoint skills.</summary>  
+
+<experience end='present' start='731338'>WORK EXPERIENCE
+
+<job end='present' id='1' pos='1' sic='5511' sic2='55' start='734230'><employer>Tuozzoli Bros. Auto Sales</employer>; <address><city>Bridgeport</city>, <state abbrev='CT'>CT</state></address>                                                                                                                       <daterange><start days='734230' iso8601='2011-04-01'>April 2011</start>-<end days='present' iso8601='2012-04-01'>Current</end></daterange>
+	<title>Administrative Assistant</title> 
+<description>Performed daily administrative duties in a highly organized fashion: organized necessary documentation for wholesale auction, retail sales, tax and DMV regulatory purposes
+Scheduled appointments, answered phones with polished professional etiquette, responded to client inquiries in person and over phone, performed inventory searches based on specific criteria desired by client
+Maintained inventory records:  maintenance, parts, services, labor, wholesale cost, wholesale/individual buyer and seller information, retail price, mileage, Vehicle Identification Numbers, etc.; completed titles per DMV regulations and printed invoices for sale
+Maintained bank accounts via checkbook and online banking; reconciled checking regarding inventory payments, accounts payable, accounts receivable, paid monthly operating expenses (utilities, etc.)</description></job>
+
+<job end='733865' id='2' pos='2' sic='621101' sic2='62' start='731491'><employer>Merrill Lynch</employer>; (<employer>Greenwich</employer> &amp;) <address><city>Fairfield</city>, <state abbrev='CT'>CT</state></address>                                                                                                           <daterange><start days='731491' iso8601='2003-10-01'>October 2003</start>-<end days='733865' iso8601='2010-04-01'>April 2010</end></daterange>
+	<title>Assistant</title> to Vice President of Advisory Team 
+	<title>Registered Client Associate</title>
+	<description>Previously Licensed Series 7 and 66
+Provided administrative support to 2 executives in Global Wealth Management Private Client Division; including the recipient of Institutional Investor's 2009 Rising Star of Foundations and Endowments Award
+Made domestic travel arrangements for client meetings and seminars utilizing Outlook Calendar; created and executed expense reports, coordinated breakfast, lunch, and dinner for such events for upwards to 80 guests
+Answered telephone calls using a high level of discernment in screening calls, scheduled client appointments (client net worth between $250,000 to $40 Million); utilized Outlook and Word
+Prepared presentations, meeting packets, and arranged gifts for client events and seminars using PowerPoint and binding supplies, collaborated with other departments regarding ordering materials, shipped items for meetings, ensured client contact by being proactive in preparing reports, follow-up on client concerns, maintained records including email lists; utilized Excel and Salesforce
+Generated wealth management reports/portfolio reviews and prospective investment information; collaborated in0house and with third parties: accountants, attorneys, trustees; utilized Salesforce, PowerPoint, Word, Thomson Financial Wealth Management Workstation; gathered information at client request to provide current investment news, communicated information through email and fax/scan; utilizing Thomson Financial software, fax2mail, etc.
+Reviewed daily trading activity to ensure proper execution, administered compliance regulations (ie: Rule 144, etc.), contacted clients to satisfy margin calls; entered orders daily (ie: stocks, bonds, options, alternative investments, etc.), sent out domestic and international wires (which included buying and selling currencies), provided clients with online assistance: Merrill Lynch Online, Merrill Lynch Web Bill Pay, or Merrill Lynch Direct Deposit, etc.; answered questions regarding account materials (credit cards, check books, fraud issues), opened various types of accounts including: retirement, business (LP, LLC, Inc.), estate, loans, cash management accounts, and Endowment Management accounts
+Earned 2006 awards: &quot;Client Associate of the Northeast Division&quot; and &quot;Client Associate of the Month (October 2006); Earned 4 awards for top performance in 2004, 2005, and 2006 for Promotion of Merrill Lynch Online, Merrill Lynch Web Bill Pay, Merrill Lynch Direct, and Gold Service Award overall; results were based on management reviews, client online surveys</description></job>
+
+<job end='731461' id='3' pos='3' start='731338'><employer>Portonova &amp; Rutigliano</employer>; <address><city>Bridgeport</city>, <state abbrev='CT'>CT</state></address>                                                                                                             <daterange><start days='731338' iso8601='2003-05-01'>May 2003</start>-<end days='731461' iso8601='2003-09-01'>September 2003</end></daterange>
+	<title>Bookkeeper</title>
+<description>Assisted 4 attorneys and 3 paralegals in preparing for short calendar/ trials, arbitration/depositions; prepared documentation while acting as a witness in such meetings and will signings
+Performed administrative duties in a highly organized fashion: typed arbitration rulings, wills, prepared faxes, copies, maintained office supplies; tracked and organized accounts receivables and payables for over 150 clients using TimeSlips software; maintained client files as well as an extremely high level of confidentiality
+Maintained 3 bank accounts: attorney, trustee/escrow, and payroll valuing up to $2 Million through Microsoft Excel, reconciling, performing retainer transfers, and signing over money in holding</description></job></experience>
+
+<education>EDUCATION
+
+<school id='4'><institution>Boston University School of Management</institution>; <address><city>Boston</city>, <state abbrev='MA'>MA</state></address>                                                                            <daterange><start days='730000' iso8601='1999-09-01'>September 1999</start>-<end days='731338' iso8601='2003-05-01'>May 2003</end></daterange>
+	<degree level='16' name='Bachelor of Science'>Bachelor of Science</degree> in <major code='4201'>Business Administration</major>
+	       Concentration in <major code='4001'>Accounting</major></school></education>
+
+<skills>SKILLS
+<skills>Microsoft Office: Outlook, Word, Excel, PowerPoint; PCOE, Thomson Financial Wealth Management Workstation, Salesforce, GoldMine, ACT!, ProSeries, QuickBooks, Sage, TimeSlips</skills></skills>  
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='accounts payable' start='734230'>
+    <variant>accounts payable</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,3' idrefs='1,3' lastused='2012' name='accounts receivable' start='731338'>
+    <variant>accounts receivable</variant>
+    <variant>accounts receivables</variant>
+  </canonskill>
+  <canonskill name='act'>
+    <variant>ACT!</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,3' idrefs='1,3' lastused='2012' name='administration' start='731338'>
+    <variant>administrative</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='administrative support' start='731491'>
+    <variant>administrative support</variant>
+  </canonskill>
+  <canonskill end='731461' experience='1' expidrefs='3' idrefs='3' lastused='2003' name='arbitration' start='731338'>
+    <variant>arbitration</variant>
+  </canonskill>
+  <canonskill end='731461' experience='1' expidrefs='3' idrefs='3' lastused='2003' name='attorney' start='731338'>
+    <variant>attorney</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='banking' start='734230'>
+    <variant>banking</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='bonds' start='731491'>
+    <variant>bonds</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='cash management' start='731491'>
+    <variant>cash management</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='credit' start='731491'>
+    <variant>credit</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,3' idrefs='1,2,3' lastused='2012' name='customer relations' start='731338'>
+    <variant>Client</variant>
+    <variant>client</variant>
+    <variant>clients</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,3' idrefs='1,3' lastused='2012' name='documentation' start='731338'>
+    <variant>documentation</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='email' start='731491'>
+    <variant>email</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,3' idrefs='1,3' lastused='2012' name='fashion' start='731338'>
+    <variant>fashion</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='2,3' idrefs='2,3' lastused='2010' name='fax' start='731338'>
+    <variant>faxes</variant>
+    <variant>fax</variant>
+    <variant>fax2</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='financial' start='731491'>
+    <variant>Financial</variant>
+  </canonskill>
+  <canonskill name='goldmine'>
+    <variant>GoldMine</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='internet explorer' start='731491'>
+    <variant>ie</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='inventory management' start='734230'>
+    <variant>inventory</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='investments' start='731491'>
+    <variant>investments</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='materials management' start='731491'>
+    <variant>materials</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='2,3' idrefs='2,3' lastused='2010' name='meeting facilitation' start='731338'>
+    <variant>meetings</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='2,3' idrefs='2,3' lastused='2010' name='microsoft excel' start='731338'>
+    <variant>Microsoft Excel</variant>
+    <variant>Excel</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='microsoft mail' start='731491'>
+    <variant>mail</variant>
+  </canonskill>
+  <canonskill end='731461' experience='1' expidrefs='3' idrefs='3' lastused='2003' name='microsoft money' start='731338'>
+    <variant>money</variant>
+  </canonskill>
+  <canonskill end='731461' experience='1' expidrefs='3' idrefs='3' lastused='2003' name='microsoft office' start='731338'>
+    <variant>Microsoft Office</variant>
+    <variant>office</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='microsoft outlook' start='731491'>
+    <variant>Outlook</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='microsoft powerpoint' start='731491'>
+    <variant>PowerPoint</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='microsoft word' start='731491'>
+    <variant>Word</variant>
+  </canonskill>
+  <canonskill end='731461' experience='1' expidrefs='3' idrefs='3' lastused='2003' name='payables' start='731338'>
+    <variant>payables</variant>
+  </canonskill>
+  <canonskill end='731461' experience='1' expidrefs='3' idrefs='3' lastused='2003' name='payroll processing' start='731338'>
+    <variant>payroll</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='presentation skills' start='731491'>
+    <variant>presentations</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='promotional materials' start='731491'>
+    <variant>Promotion</variant>
+  </canonskill>
+  <canonskill name='quickbooks'>
+    <variant>QuickBooks</variant>
+  </canonskill>
+  <canonskill end='731461' experience='1' expidrefs='3' idrefs='3' lastused='2003' name='reconciling' start='731338'>
+    <variant>reconciling</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='retail' start='734230'>
+    <variant>retail</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='retail sales' start='734230'>
+    <variant>retail sales</variant>
+  </canonskill>
+  <canonskill name='sage'>
+    <variant>Sage</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='sales' start='731491'>
+    <variant>selling</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='seminars' start='731491'>
+    <variant>seminars</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='tax planning' start='734230'>
+    <variant>tax</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='telephone skills' start='731491'>
+    <variant>telephone</variant>
+    <variant>phones</variant>
+    <variant>phone</variant>
+  </canonskill>
+  <canonskill end='731461' experience='1' expidrefs='3' idrefs='3' lastused='2003' name='timeslips' start='731338'>
+    <variant>TimeSlips</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='travel arrangements' start='731491'>
+    <variant>travel arrangements</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='utilities' start='734230'>
+    <variant>utilities</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

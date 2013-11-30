@@ -1,0 +1,54 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "NCPT", 
+            "Certification Name": "Nationally Certified Psychiatric Technician 3", 
+            "Type": "Advanced", 
+            "Certification ID": "0377", 
+            "Certifying Organization": "American Association of Psychiatric Technicians, Inc."
+        }, 
+        {
+            "Acronym": "CPRP", 
+            "Certification Name": "Certified Psychiatric Rehabilitation Practitioner", 
+            "Type": "Specialty", 
+            "Certification ID": "6109", 
+            "Certifying Organization": "US Psychiatric Rehabilitation Association"
+        }, 
+        {
+            "Acronym": "NCPCT", 
+            "Certification Name": "Nationally Certified Patient Care Technician", 
+            "Type": "Core", 
+            "Certification ID": "6293", 
+            "Certifying Organization": "National Center for Competency Testing"
+        }, 
+        {
+            "Acronym": "NCPT", 
+            "Certification Name": "Nationally Certified Psychiatric Technician 2", 
+            "Type": "Core", 
+            "Certification ID": "0376", 
+            "Certifying Organization": "American Association of Psychiatric Technicians, Inc."
+        }, 
+        {
+            "Acronym": "NCPT", 
+            "Certification Name": "Nationally Certified Psychiatric Technician 4", 
+            "Type": "Advanced", 
+            "Certification ID": "0378", 
+            "Certifying Organization": "American Association of Psychiatric Technicians, Inc."
+        }, 
+        {
+            "Acronym": "NCPT", 
+            "Certification Name": "Nationally Certified Psychiatric Technician 1", 
+            "Type": "Core", 
+            "Certification ID": "0375", 
+            "Certifying Organization": "American Association of Psychiatric Technicians, Inc."
+        }, 
+        {
+            "Acronym": "CAEd", 
+            "Certification Name": "Certified Alzheimer Educator", 
+            "Type": "Specialty", 
+            "Certification ID": "8682", 
+            "Certifying Organization": "National Certification Board for Alzheimer Care"
+        }
+    ], 
+    "onet": "31101300"
+}

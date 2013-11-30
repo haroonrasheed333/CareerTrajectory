@@ -1,0 +1,261 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734598' xml:space='preserve'><contact><name><givenname>Alexander</givenname> <surname>Pilosov</surname></name>                                                                            <email>alexandrSTR@aol.com</email>
+<address lat='40.7232' lon='73.8455' majorcity='FOREST HILLS' state='NY'><street>102-30 Queens Blvd</street> <city>Forest Hills</city>, <state abbrev='NY'>NY</state> <postalcode>11375</postalcode></address> * <phone>917.376.5348</phone> * linkedin.com/pub/alexander-pilosov/47/b1/b</contact><skills>01                                                         
+
+<skills>Microsoft Certified Solution Developer with experience in design, development, implementation and maintenance of client/server and Web-based applications utilizing ASP/VB.NET and ASP Classic technologies, VISUAL BASIC and MS SQL Server, HTML, DHTML, CSS and JAVA SCRIPT. Experience in data analysis and modeling design of relational databases.
+
+Languages/Scripts: ASP Classic, ASP/VB.NET 2005/2010, Visual InterDev Enterprise, Visual Basic 6.0, SQL, PHP, VBScript, Java, Java Script, DHTML, HTML, CSS
+RDBMS: MS SQL Server/2005/2008, MS Access 8.0,2000
+Technologies: MTS, COM+, COM/DCOM, IIS, ActiveX, ADO/ADO.NET, ODBC,
+Platforms: MS Windows 95/98/2000/2003/2008/NT, MS DOS
+Software: Visual Studio/Visual Studio.NET 2008/2010, VSS, Red Dot CMS, Authorise.NET, Adobe Photoshop, MS Front Page, MS Office (Word Access, Excel, Outlook), Crystal Reports (Seagate Software) 8.0</skills></skills>
+
+<experience end='present' start='731949'>EXPERIENCE
+
+<job end='present' id='1' pos='1' sic='549901' sic2='54' start='732314'><employer>HEALTH PLUS INC</employer>., <address><city>New York</city>, <state abbrev='NY'>NY</state></address>                                                                                                             <daterange><start days='732314' iso8601='2006-01-01'>2006</start>-<end days='present' iso8601='2012-04-03'>Present</end></daterange>
+<title>Web Developer</title>
+<description>Developed and administered the entire internet and intranet websites for one of the largest health insurance
+   companies in New York - Health Plus.       
+Converted web pages to Red Dot CMS templates to facilitate users' easy updates to the sites.
+Trained and guided users to utilize the CMS. 
+Designed online premium payment application using T-SQL, ASP.Net and Authorize.net. 
+Created the Provider Service Center web application to support participating physicians' verification of member 
+    eligibility and optometry benefits, referral status and claims inquiries (coded in ASP.NET/T-SQL).
+Resolved all aspects of cross browser compatibility and security issues of web applications. 
+Using SQL, VB.NET and ASP.NET designed an application which facilitated automated phone calls to all
+   current employees of the company.  
+Implementing VB.NET and ASP.Net created a Directory Portal Application - a quick way of looking up
+   information about employees based on MS Outlook employee directory.  
+Incorporated a Google search within a website to help users search the entire site. 
+Created a Strategic Planning - ASP.NET application with a personalization feature which rendered specific web
+   pages to specific users based on their groups in Active Directory.</description></job> 
+
+<job end='732314' id='2' pos='2' start='731949'><employer>OPENTEXT INC</employer>. (formerly <employer>RED DOT INC</employer>.), <address><city>New York</city>, <state abbrev='NY'>NY</state></address>                                                                   <daterange><start days='731949' iso8601='2005-01-01'>2005</start>-<end days='732314' iso8601='2006-01-01'>2006</end></daterange>
+<title>Web Developer/Product Specialist</title>
+<description>Using OpenText CMS developed an Internet Applications for GMAC, a leading mortgage corporation and 
+   Yamaha (digital music note book), multimedia internet service (utilized: ASP.NET, HTML, CSS &amp; JAVA Script).
+Expedited whole site administration - analysis of user requirements, coding, testing and implementation.
+Designed a structure of the applications providing top and left navigation functionalities as well as center and 
+   footer sections for displaying content.  Created many modules providing user-friendly experience.
+Created workflows, user accounts and provided them with appropriate permissions</description></job>
+
+<job id='3' sic='508522' sic2='50' start='731949'><employer>REFCO INC</employer>., <address><city>New York</city>, <state abbrev='NY'>NY</state></address>                                                                                                                             <daterange><start days='731949' iso8601='2005-01-01'>2005</start></daterange>
+<title>Web Developer</title>
+<description>Assisted in development of ASP.NET application which generated financial information about daily trading activities of users. Created DB tables and stored procedures which gathered, displayed and emailed necessary information about financial transactions. Created an administrative portion of DB/application where users were rendered information pertaining specifically to them based on groups and roles. Designed an application which collected data from Excel files and updated DB tables based on the files.</description></job></experience>
+
+<education>EDUCATION: <school id='4'><degree level='16'>Bachelor Degree</degree>, <institution>Queens College</institution>, <address><city>Queens</city>, <state abbrev='NY'>NY</state></address> 
+
+CERTIFICATION: <courses>MCSD-Microsoft Certified Solution Developer</courses></school></education>
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='734579' experience='1' expidrefs='1,2,3' idrefs='1,2,3' lastused='2012' name='.net' start='731949'>
+    <variant>ASP.Net</variant>
+    <variant>VB.NET</variant>
+    <variant>.NET</variant>
+    <variant>.net</variant>
+    <variant>ASP.NET</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='active directory' start='732314'>
+    <variant>Active Directory</variant>
+  </canonskill>
+  <canonskill name='activex'>
+    <variant>ActiveX</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='3' idrefs='3' name='administration' start='731949'>
+    <variant>administrative</variant>
+  </canonskill>
+  <canonskill name='ado'>
+    <variant>ADO</variant>
+  </canonskill>
+  <canonskill name='adobe photoshop'>
+    <variant>Adobe Photoshop</variant>
+  </canonskill>
+  <canonskill name='asp'>
+    <variant>ASP</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='benefits administration' start='732314'>
+    <variant>benefits</variant>
+  </canonskill>
+  <canonskill end='732314' experience='1' expidrefs='2' idrefs='2' lastused='2006' name='books' start='731949'>
+    <variant>book</variant>
+  </canonskill>
+  <canonskill name='client/server'>
+    <variant>client/server</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='cms' start='731949'>
+    <variant>CMS</variant>
+  </canonskill>
+  <canonskill name='com'>
+    <variant>COM</variant>
+    <variant>COM+</variant>
+  </canonskill>
+  <canonskill end='732314' experience='1' expidrefs='2' idrefs='2' lastused='2006' name='content management' start='731949'>
+    <variant>content</variant>
+  </canonskill>
+  <canonskill name='crystal reports'>
+    <variant>Crystal Reports</variant>
+  </canonskill>
+  <canonskill end='732314' experience='1' expidrefs='2' idrefs='2' lastused='2006' name='css' start='731949'>
+    <variant>CSS</variant>
+  </canonskill>
+  <canonskill name='data modeling'>
+    <variant>data analysis and modeling</variant>
+  </canonskill>
+  <canonskill name='dcom'>
+    <variant>DCOM</variant>
+  </canonskill>
+  <canonskill name='dhtml'>
+    <variant>DHTML</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='3' idrefs='3' name='financial' start='731949'>
+    <variant>financial</variant>
+  </canonskill>
+  <canonskill name='frontpage'>
+    <variant>MS Front Page</variant>
+  </canonskill>
+  <canonskill end='732314' experience='1' expidrefs='2' idrefs='2' lastused='2006' name='html' start='731949'>
+    <variant>HTML</variant>
+  </canonskill>
+  <canonskill name='iis'>
+    <variant>IIS</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='insurance' start='732314'>
+    <variant>insurance</variant>
+  </canonskill>
+  <canonskill end='732314' experience='1' expidrefs='2' idrefs='2' lastused='2006' name='internet software' start='731949'>
+    <variant>Internet Applications</variant>
+  </canonskill>
+  <canonskill name='java'>
+    <variant>Java</variant>
+  </canonskill>
+  <canonskill end='732314' experience='1' expidrefs='2' idrefs='2' lastused='2006' name='javascript' start='731949'>
+    <variant>JAVA Script</variant>
+    <variant>Java Script</variant>
+    <variant>JAVA SCRIPT</variant>
+  </canonskill>
+  <canonskill name='languages'>
+    <variant>Languages</variant>
+  </canonskill>
+  <canonskill name='microsoft access'>
+    <variant>MS Access 8.0</variant>
+    <variant>Access</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='4' idrefs='4' name='microsoft certified professional'>
+    <variant>Microsoft Certified</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='4' idrefs='4' name='microsoft certified systems developer'>
+    <variant>MCSD</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='3' idrefs='3' name='microsoft excel' start='731949'>
+    <variant>Excel</variant>
+  </canonskill>
+  <canonskill name='microsoft office'>
+    <variant>MS Office</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='microsoft outlook' start='732314'>
+    <variant>MS Outlook</variant>
+    <variant>Outlook</variant>
+  </canonskill>
+  <canonskill name='microsoft windows 2000'>
+    <variant>2000</variant>
+  </canonskill>
+  <canonskill name='microsoft windows 95'>
+    <variant>MS Windows 95</variant>
+  </canonskill>
+  <canonskill name='microsoft windows 98'>
+    <variant>98</variant>
+  </canonskill>
+  <canonskill name='microsoft windows nt'>
+    <variant>NT</variant>
+  </canonskill>
+  <canonskill name='microsoft word'>
+    <variant>Word</variant>
+  </canonskill>
+  <canonskill name='ms dos'>
+    <variant>MS DOS</variant>
+  </canonskill>
+  <canonskill name='mts'>
+    <variant>MTS</variant>
+  </canonskill>
+  <canonskill end='732314' experience='1' expidrefs='2' idrefs='2' lastused='2006' name='multimedia' start='731949'>
+    <variant>multimedia</variant>
+  </canonskill>
+  <canonskill name='netscape enterprise server'>
+    <variant>Enterprise</variant>
+  </canonskill>
+  <canonskill end='732314' experience='1' expidrefs='2' idrefs='2' lastused='2006' name='netscape navigator' start='731949'>
+    <variant>navigation</variant>
+  </canonskill>
+  <canonskill name='odbc'>
+    <variant>ODBC</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='3' idrefs='3' name='oracle dba' start='731949'>
+    <variant>DB</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='4' idrefs='4' name='oracle developer 2000'>
+    <variant>Developer</variant>
+  </canonskill>
+  <canonskill name='php'>
+    <variant>PHP</variant>
+  </canonskill>
+  <canonskill end='732314' experience='1' expidrefs='2' idrefs='2' lastused='2006' name='programming' start='731949'>
+    <variant>coding</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='quick' start='732314'>
+    <variant>quick</variant>
+  </canonskill>
+  <canonskill name='rdbms'>
+    <variant>RDBMS</variant>
+  </canonskill>
+  <canonskill name='relational databases'>
+    <variant>relational databases</variant>
+  </canonskill>
+  <canonskill name='shell scripting'>
+    <variant>Scripts</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='sql' start='732314'>
+    <variant>MS SQL Server</variant>
+    <variant>SQL</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='strategic planning' start='732314'>
+    <variant>Strategic Planning</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='3' idrefs='3' name='tables' start='731949'>
+    <variant>tables</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='telephone skills' start='732314'>
+    <variant>phone</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='transact sql' start='732314'>
+    <variant>T-SQL</variant>
+  </canonskill>
+  <canonskill name='vbscript'>
+    <variant>VBScript</variant>
+  </canonskill>
+  <canonskill name='visual basic'>
+    <variant>VISUAL BASIC</variant>
+  </canonskill>
+  <canonskill name='visual basic 6.0'>
+    <variant>Visual Basic 6.0</variant>
+  </canonskill>
+  <canonskill name='visual interdev'>
+    <variant>Visual InterDev</variant>
+  </canonskill>
+  <canonskill name='visual studio'>
+    <variant>Visual Studio</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='web application development' start='732314'>
+    <variant>web applications</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='web site production' start='732314'>
+    <variant>website</variant>
+    <variant>web
+   pages</variant>
+    <variant>websites</variant>
+    <variant>web pages</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

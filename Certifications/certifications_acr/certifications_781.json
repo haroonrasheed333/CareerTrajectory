@@ -1,0 +1,68 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Public Power Manager", 
+            "Type": "Core", 
+            "Certification ID": "6196", 
+            "Certifying Organization": "American Public Power Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Public Power Governance Certificate Program", 
+            "Type": "Core", 
+            "Certification ID": "9534", 
+            "Certifying Organization": "American Public Power Association"
+        }, 
+        {
+            "Acronym": "CPS", 
+            "Certification Name": "Certified Plant Supervisor", 
+            "Type": "Advanced", 
+            "Certification ID": "5101", 
+            "Certifying Organization": "Association for Facilities Engineering"
+        }, 
+        {
+            "Acronym": "KPPAE", 
+            "Certification Name": "Key Account Certificate Program", 
+            "Type": "Core", 
+            "Certification ID": "9536", 
+            "Certifying Organization": "American Public Power Association"
+        }, 
+        {
+            "Acronym": "SOC", 
+            "Certification Name": "System Operator Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "5723", 
+            "Certifying Organization": "North American Electric Reliability Corporation"
+        }, 
+        {
+            "Acronym": "PPCSM", 
+            "Certification Name": "Public Power Customer Service Manager", 
+            "Type": "Core", 
+            "Certification ID": "6195", 
+            "Certifying Organization": "American Public Power Association"
+        }, 
+        {
+            "Acronym": "CPMM", 
+            "Certification Name": "Certified Plant Maintenance Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "5099", 
+            "Certifying Organization": "Association for Facilities Engineering"
+        }, 
+        {
+            "Acronym": "Boiler", 
+            "Certification Name": "High Capacity Fossil Fuel Fired Plant (Boiler) Operator", 
+            "Type": "Advanced", 
+            "Certification ID": "2155", 
+            "Certifying Organization": "American Society of Mechanical Engineers International"
+        }, 
+        {
+            "Acronym": "EEMCP", 
+            "Certification Name": "Energy Efficiency Management Certificate Program", 
+            "Type": "Core", 
+            "Certification ID": "9535", 
+            "Certifying Organization": "American Public Power Association"
+        }
+    ], 
+    "onet": "51801300"
+}

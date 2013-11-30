@@ -1,0 +1,96 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "DMT", 
+            "Certification Name": "Diver Medic Technician", 
+            "Type": "Specialty", 
+            "Certification ID": "5664", 
+            "Certifying Organization": "National Board of Diving and Hyperbaric Medical Technology"
+        }, 
+        {
+            "Acronym": "FPC", 
+            "Certification Name": "Flight Paramedic Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "7634", 
+            "Certifying Organization": "Board for Critical Care Transport Paramedic Certification"
+        }, 
+        {
+            "Acronym": "EMT", 
+            "Certification Name": "Emergency Medical Technician - Paramedic", 
+            "Type": "Core", 
+            "Certification ID": "0293", 
+            "Certifying Organization": "National Registry of Emergency Medical Technicians"
+        }, 
+        {
+            "Acronym": "VA-BC", 
+            "Certification Name": "Vascular Access-Board Certified", 
+            "Type": "Core", 
+            "Certification ID": "9533", 
+            "Certifying Organization": "Vascular Access Certification Corporation"
+        }, 
+        {
+            "Acronym": "CMI", 
+            "Certification Name": "Certified Medical Interpreter", 
+            "Type": "Core", 
+            "Certification ID": "6037", 
+            "Certifying Organization": "The National Board of Certification for Medical Interpreters"
+        }, 
+        {
+            "Acronym": "CCP", 
+            "Certification Name": "Critical Care Paramedics", 
+            "Type": "Specialty", 
+            "Certification ID": "7635", 
+            "Certifying Organization": "Board for Critical Care Transport Paramedic Certification"
+        }, 
+        {
+            "Acronym": "EMT", 
+            "Certification Name": "Emergency Medical Technician - Basic", 
+            "Type": "Core", 
+            "Certification ID": "0291", 
+            "Certifying Organization": "National Registry of Emergency Medical Technicians"
+        }, 
+        {
+            "Acronym": "CHEP", 
+            "Certification Name": "Certified Healthcare Emergency Professional", 
+            "Type": "Core", 
+            "Certification ID": "8581", 
+            "Certifying Organization": "International Board for Certification of Safety Managers"
+        }, 
+        {
+            "Acronym": "CHT", 
+            "Certification Name": "Certified Hyperbaric Technologist", 
+            "Type": "Specialty", 
+            "Certification ID": "5663", 
+            "Certifying Organization": "National Board of Diving and Hyperbaric Medical Technology"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "First Responder", 
+            "Type": "Core", 
+            "Certification ID": "0290", 
+            "Certifying Organization": "National Registry of Emergency Medical Technicians"
+        }, 
+        {
+            "Acronym": "AEMT", 
+            "Certification Name": "Advanced Emergency Medical Technician", 
+            "Type": "Advanced", 
+            "Certification ID": "7947", 
+            "Certifying Organization": "National Registry of Emergency Medical Technicians"
+        }, 
+        {
+            "Acronym": "EMT85", 
+            "Certification Name": "Emergency Medical Technician - Intermediate 85", 
+            "Type": "Core", 
+            "Certification ID": "0292", 
+            "Certifying Organization": "National Registry of Emergency Medical Technicians"
+        }, 
+        {
+            "Acronym": "EMY99", 
+            "Certification Name": "Emergency Medical Technician - Intermediate 99", 
+            "Type": "Specialty", 
+            "Certification ID": "5779", 
+            "Certifying Organization": "National Registry of Emergency Medical Technicians"
+        }
+    ], 
+    "onet": "29204100"
+}

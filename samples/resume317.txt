@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734593' xml:space='preserve'><contact><name><givenname>Matthew</givenname> <surname>Oyer</surname></name>
+<address lat='37.7626' lon='84.3022' majorcity='RICHMOND' state='KY'><street>1076 Raintree Dr. Apt. 4	859-358-3464</street>
+<city>Richmond</city>, <state abbrev='KY'>KY</state> <postalcode>40475</postalcode></address>	<email>matthew_oyer1@eku.edu</email></contact>
+                                                                                         
+                                                                                          
+                    
+<summary>SKILLS PROFILE   
+Local Government Program Coordination - City of Berea, Kentucky: City Administrator
+Intern. This position included organizing and coordinating a public initiative to create
+local economic development strategies. Began as an unpaid intern and was later hired as
+part-time employee.</summary> 
+-
+<skills>Communication Skills - <description>Interacts well with city officials, media and citizens -
+communicate by phone, email and in-person all groups. Experience attending and
+participating local government meetings. 
+-
+-Research Skills - Research experience as a Graduate Assistant at Eastern Kentucky
+University, assisting with projects on local government related topics. Included data
+analyzes, presentation of findings and submission of papers to academic conferences. 
+-</description>
+-Computer Skills - <skills>Proficient with PC and the full Microsoft Office Suite. Experience in
+data entry, producing Excel spreadsheets, website design using Word-Press software, and
+using social media for marketing purposes.</skills></skills>
+
+
+<education>ACADEMIC BACKGROUND  
+
+<school id='3'><degree level='16'>Masters of Public Administration			Bachelors of Science</degree>: <major code='2202'>Criminal Justice</major> 
+<institution>Eastern Kentucky University				Eastern Kentucky University</institution>
+Anticipated Graduation <completiondate>May 2012</completiondate>			Graduated <completiondate days='733895' iso8601='2010-05-01'>May 2010</completiondate> 
+GPA: <gpa max='4' value='3.9'>3.9</gpa>						GPA: <gpa max='4' value='3.76'>3.76</gpa> <honors>Magma Cum Laud</honors></school></education>	
+-								 
+
+<experience end='present' start='733987'>RELATED EXPERIENCE  
+<job end='present' id='1' pos='1' sic='506333' sic2='50' start='734352'><title>Office of the City Administrator Intern</title>, <employer>City of Berea, Berea, Kentucky</employer>, <daterange><start days='734352' iso8601='2011-08-01'>8/2011</start> - <end days='present' iso8601='2012-03-29'>Present</end></daterange>
+?	<description>Designed Advertisement campaign for publicly facilitated economic development
+initiative
+?	Worked with citizen groups on creating economic development strategies
+?	Researched and organized information used to create municipal statues
+?	Attended and presented in various city functions, including city council, staff
+meetings, public forums and city official works sessions.</description></job> 
+-
+
+<job end='present' id='2' naics='61131009' naics2='61' pos='2' sic='822101' sic2='82' start='733987'><title>Graduate Assistant</title>, <employer>Eastern Kentucky University</employer> <department>Department of Government</department>, <address><city>Richmond</city>, <state abbrev='KY'>KY</state></address>,
+<daterange><start days='733987' iso8601='2010-08-01'>August 2010</start>-<end days='present' iso8601='2012-03-29'>Present</end></daterange>
+?	<description>Co-authored a paper on economic development strategies in Kentucky and submitted it to
+an academic journal for review
+?	Developed and implemented a survey of Kentucky municipal drug policies, presented
+findings at 2011 Southeastern Conference for Public Administration
+?	Served as a recruitment representative for the MPA program at various functions
+?	Tutored and Lectured undergraduate courses</description></job></experience>
+-
+
+<statements>VOLUNTEER ACTIVITIES  
+<activities>Big Brother for &quot;Bluegrass Big Brothers Big Sisters Program&quot;. Arranged activities and
+mentored a local adolescent.
+-Assistant Track Coach for Model High School, Richmond, Kentucky. Volunteered for two
+springs as coach for boys and girls teams.</activities></statements> 
+
+<professional>PROFESSIONAL ASSOCIATIONS/HONORS  
+
+?	<affiliations>Member of Pi Sigma Alpha: National Political Science Honor Society
+?	ICMA Local Government Management Fellowship 2012 Finalist</affiliations></professional>
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='academic' start='733987'>
+    <variant>academic</variant>
+  </canonskill>
+  <canonskill name='communication skills'>
+    <variant>Communication Skills</variant>
+  </canonskill>
+  <canonskill name='conferences'>
+    <variant>conferences</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='council' start='734352'>
+    <variant>council</variant>
+  </canonskill>
+  <canonskill name='data entry'>
+    <variant>data entry</variant>
+  </canonskill>
+  <canonskill name='email'>
+    <variant>email</variant>
+  </canonskill>
+  <canonskill name='local government'>
+    <variant>local government</variant>
+  </canonskill>
+  <canonskill name='marketing'>
+    <variant>marketing</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='meeting facilitation' start='734352'>
+    <variant>meetings</variant>
+  </canonskill>
+  <canonskill name='microsoft excel'>
+    <variant>Excel spreadsheets</variant>
+  </canonskill>
+  <canonskill name='microsoft office'>
+    <variant>Microsoft Office Suite</variant>
+  </canonskill>
+  <canonskill name='microsoft word'>
+    <variant>Word</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='microsoft works' start='734352'>
+    <variant>works</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='policy analysis' start='733987'>
+    <variant>policies</variant>
+  </canonskill>
+  <canonskill name='press releases'>
+    <variant>Press</variant>
+  </canonskill>
+  <canonskill name='production'>
+    <variant>producing</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='recruiting' start='733987'>
+    <variant>recruitment</variant>
+  </canonskill>
+  <canonskill name='research'>
+    <variant>Research</variant>
+  </canonskill>
+  <canonskill name='telephone skills'>
+    <variant>phone</variant>
+  </canonskill>
+  <canonskill name='web site production'>
+    <variant>website design</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

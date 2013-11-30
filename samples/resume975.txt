@@ -1,0 +1,154 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734598' xml:space='preserve'><contact><name><givenname>OSSIE</givenname> <surname>WHITE</surname> <namesuffix>III</namesuffix></name>
+
+<address><street>517 K Street</street>, <state abbrev='NE'>NE</state></address>                                                                                                       <phone>(202) 409-6406</phone>
+<address lat='38.9039' lon='76.9909' majorcity='WASHINGTON' state='DC'><city>Washington</city>, <state abbrev='DC'>DC</state> <postalcode>20002</postalcode></address>                                                                 		  <email>ossiew3@gmail.com</email></contact>
+
+<summary>OBJECTIVE
+<objective>Seeking personal growth and positive outcomes for myself in any way that may be possible. Prefer an entry level position that will utilize my excellent customer service, recording, editing, production, and office skills.</objective></summary>
+
+<experience end='present' start='732039'>WORK EXPERIENCE
+
+
+<job end='present' id='1' pos='1' start='734230'><employer>The Michael Eric Dyson Show</employer> 						<daterange><start days='734230' iso8601='2011-04-01'>Summer 2011</start></daterange>
+<address>1700 E Coldspring Lane, 
+<city>Baltimore</city>, <state abbrev='MD'>Maryland</state></address> 
+<employer>Communications Center, WEAA 88.9 FM</employer>
+<title>Intern Show Runner/ Audio Editor</title>
+<description>Recording and editing interview segments
+Recording and editing of spots and headers
+Contacting and connecting show guest to audio board via ISDN
+Uploading completed shows to WEAA automated system
+Setting up for live studio performances</description></job>
+
+
+<job end='733775' id='2' pos='2' start='733135'><employer>DC City Council HR</employer>                                                                                  <daterange><start days='733135' iso8601='2008-04-01'>Summer 2008</start> -<end days='733775' iso8601='2010-01-01'>Winter 2010</end></daterange>
+<address>1350 Pennsylvania Avenue, <state abbrev='NW'>NW</state>                                                                        
+<city>Washington</city>, DC</address>
+<title>Intern Human Resources Specialist</title>
+<description>Respond to customer concerns and complaints
+Graphing City Council Office salaries 
+Perform employee terminations for Councilmember's and Secretary of the City Council
+Perform payrolls duties
+Assisting on entry and exit interviews</description></job>
+
+
+<job id='3' sic='483201' sic2='48' start='733044'><employer>WEAA 88.9 Morgan State University Public Radio</employer> 			<daterange><start days='733044' iso8601='2008-01-01'>Winter 2008</start>	
+1700</daterange> <employer>E Coldspring Lane</employer>, 
+<address><city>Baltimore</city>, <state abbrev='MD'>Maryland</state></address> 
+<employer>Communications Center</employer>, WEAA 88.9 FM
+<title>Intern Station Manager Assistant</title>
+<description>Recording and Editing Brief Case Radio
+Recording and Editing spots for Brief Case Radio
+Uploading completed shows and spots to WEAA automation systems.
+Editing Spots for Fiesta Musical
+Assisting station manager in live broadcast of Listen Up
+Setting up equipment for in studio performances and interviews.
+Setting up and testing the levels of the microphones and show host</description></job>
+
+
+
+
+<job end='733410' id='4' pos='3' sic='9121' sic2='91' start='732769'><employer>DC City Council Office of the Secretary</employer>			            <daterange><start days='732769' iso8601='2007-04-01'>Summer 2007</start>-<end days='733410' iso8601='2009-01-01'>Winter 2009</end></daterange>
+<address>1350 Pennsylvania Avenue, <state abbrev='NW'>NW</state>                                                                                         
+<city>Washington</city>, DC</address>
+<title>Intern Administrative Assistant</title>
+<description>The organization and filing of  public records 
+Assisting the Secretary of the Council carry out day to day duties
+Respond to customer concerns and complaints
+Going over Bills, Public Resolutions, and Contracts which required the signature of the Chairman of the Council and making sure they all were signed.</description></job> 
+
+
+<job end='732314' id='5' pos='4' start='732039'><employer>Office of Boards and Commissions</employer>                                                                   <daterange><start days='732039' iso8601='2005-04-01'>Summer 2005</start> - <end days='732314' iso8601='2006-01-01'>2006</end></daterange>
+441 4th Street, NW
+Washington, DC
+<title>Intern Clerk</title>
+<description>Handled constituents issues 
+Swearing in qualified applicants on behalf of the Office of Board of Commissions
+Respond to service complaints</description></job></experience> 
+
+
+
+
+
+
+<skills>AWARDS AND SKILLS
+
+<skills>MS Word, MS Excel, MS Power Point, Adobe Audition 1.5, 2.0, SCOTTS Automated Radio Station Software, ISDN Software</skills></skills>
+
+
+
+
+
+<education>EDUCATION
+ 
+	
+<school id='6'><institution>Morgan State University</institution>                                                   <daterange><start days='732891' iso8601='2007-08-01'>August 2007</start> - <end days='734474' iso8601='2011-12-01'>December 2011</end></daterange>
+1700 East Coal Spring Lane
+<address lat='39.3414' lon='76.5836' majorcity='BALTIMORE' state='MD'><city>Baltimore</city>, <state abbrev='MD'>Maryland</state> <postalcode>21251</postalcode></address>
+<degree level='16' name='Bachelor of Arts'>BA Diploma</degree> - <major code='0499'>Communications</major></school>
+
+
+
+
+<school id='7'><institution>McKinley Senior High School</institution>			                   <daterange><start days='731735' iso8601='2004-06-01'>June 2004</start> - <end days='732830' iso8601='2007-06-01'>June 2007</end></daterange>
+<address>151 T Street, <state abbrev='NE'>NE</state></address>
+Washington, DC 20002
+<degree level='13' name='Diploma'>Diploma</degree></school></education> 
+
+<references>REFERENCES AVAILABLE UPON REQUEST</references>
+
+
+</resume>
+
+<skillrollup version='1'>
+  <canonskill name='adobe'>
+    <variant>Adobe</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='audio' start='734230'>
+    <variant>audio</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='3' idrefs='3' name='automation' start='733044'>
+    <variant>automation</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='3' idrefs='3' name='broadcast' start='733044'>
+    <variant>broadcast</variant>
+  </canonskill>
+  <canonskill end='733410' experience='1' expidrefs='4' idrefs='4' lastused='2009' name='contract management' start='732769'>
+    <variant>Contracts</variant>
+  </canonskill>
+  <canonskill end='733775' experience='1' expidrefs='2,4' idrefs='2,4' lastused='2010' name='council' start='732769'>
+    <variant>Council</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,3' idrefs='1,3' lastused='2012' name='editing' start='733044'>
+    <variant>Editing</variant>
+    <variant>editing</variant>
+  </canonskill>
+  <canonskill end='733410' experience='1' expidrefs='4' idrefs='4' lastused='2009' name='file management' start='732769'>
+    <variant>filing</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='isdn' start='734230'>
+    <variant>ISDN</variant>
+  </canonskill>
+  <canonskill name='microsoft excel'>
+    <variant>MS Excel</variant>
+  </canonskill>
+  <canonskill end='733775' experience='1' expidrefs='2,5' idrefs='2,5' lastused='2010' name='microsoft office' start='732039'>
+    <variant>Office</variant>
+  </canonskill>
+  <canonskill name='microsoft powerpoint'>
+    <variant>MS Power Point</variant>
+  </canonskill>
+  <canonskill name='microsoft word'>
+    <variant>MS Word</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='3' idrefs='3' name='radio' start='733044'>
+    <variant>Radio</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,3' idrefs='1,3' lastused='2012' name='recording' start='733044'>
+    <variant>Recording</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

@@ -1,0 +1,211 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734579' xml:space='preserve'><contact><name><givenname>Amit</givenname> <surname>Joshi</surname></name>
+<address lat='37.775' lon='-122.418' majorcity='SAN FRANCISCO' state='CA'><street>2815A Pierce Street</street>    <city>San Francisco</city>, <state abbrev='CA'>CA</state></address>    <email>the.amit.joshi@gmail.com</email>    <phone>(415) 894-2573</phone></contact>
+
+
+<skills>Technical Synopsis
+
+	Languages: <skills>C++, C, Java, Objective-C, PHP, SQL/MySQL, HTML, CSS, XML, JavaScript
+	Platforms: Linux, UNIX, Windows, iPhone, Mac OS X, Solaris, PowerMAX, PowerHawk, RedHawk, LynxOS, VxWorks
+	Environments: Eclipse, XCode, MS Visual Studio, ClearCase, Perforce, Subversion, GCC, GDB, LAMP, Drupal
+	Design: Agile/SCRUM, OOP/OOD, Network socket programming (TCP, UDP), real-time programming, multithreading, POSIX</skills></skills>
+
+<experience end='present' start='731827'>Experience
+
+Independent Projects										<job end='present' id='1' pos='1' start='733683'><daterange><start days='733683' iso8601='2009-10-01'>October 2009</start> - <end days='present' iso8601='2012-03-15'>Present</end></daterange>
+<description>Currently architecting social media mobile application for iPhone: Objective-C using XCode
+Designed and currently implementing browser based game integrating with Twitter: PHP, HTML, CSS, and MySQL</description></job>
+
+
+<job end='733530' id='2' pos='2' start='732922'><employer>Forterra Systems Inc</employer>, <title>Software Engineer</title>							<daterange><start days='732922' iso8601='2007-09-01'>September 2007</start> - <end days='733530' iso8601='2009-05-01'>May 2009</end></daterange>
+<description>Development Environment: C++ and XML for Windows and Linux using Agile development processes
+
+Extended proprietary platform and developed new user facing features using asynchronous distributed programming technologies for a multi-user virtual world engine powering There.com (a second life competitor) as well as customer-specific situation simulators in an agile programming environment
+Contributed to effort to establish and roll out Agile/SCRUM-like process ahead of company-wide integration
+Conceived a scalable login information system driving in-world buddy list and social-networking (status, privacy) features
+Developed in-world training systems enabling users in the virtual world to launch and attend training modules hosted on customer LMS implementations
+Introduced support for creating and replaying interactive virtual combat scenarios with customizable environments and user-specified participant roles, position, inventory, and health models
+Implemented an end to end simulation of a Sarin gas attack with a sophisticated medical model calculating realistic health conditions and providing treatment options, allowing an in-world user to triage a victim's exposure and administer treatment
+Designed virtual conferencing capabilities with support for real-time sharing of PowerPoint presentations, videos, and whiteboard between in-world users
+Replaced legacy mechanism for distributed communication with a lightweight P2P service and trained engineers on its use</description></job>
+
+
+<job end='732891' id='3' naics='33451103' naics2='33' pos='3' sic='737415' sic2='73' start='731827'><employer>Lockheed Martin</employer>, <title>Software Engineer</title>							<daterange><start days='731827' iso8601='2004-09-01'>September 2004</start> - <end days='732891' iso8601='2007-08-01'>August 2007</end></daterange>
+Development Environment: <description>C, C++, Java JNI, c-shell scripting for Solaris, Linux, PowerMAX, LynxOS, RedHawk, and VxWorks
+
+Designed and implemented functionality for real-time, mission critical infrastructure software supporting various defensive systems aboard Navy ships
+Mentored new developers, identified system requirements and specifications, created technical designs, and supported QA
+Produced, tested, and installed build for Enterprise Configuration Management, serving as primary point of technical info for ECM
+Designed, implemented, and tested new information relay services to broadcast event log data from multi-threaded local environments to network destinations via multi-cast ports and listen for and consume those events at remote locations
+Developed resource management tools such as virtual resource allocation and cleanup services, heartbeat monitoring, process management services, and data analysis of received network messages for profiling systems
+Optimized network communication service using a combination of aggregators, buffer allocation managers, and compression algorithms for ultra-high speed data extraction and recording
+Developed thread-safe library for data extraction integration project
+Spearheaded porting effort for migration of middleware from Solaris to new operating systems and hardware configurations: C for Linux, LynxOS, VxWorks, and OpenVMS platforms
+Developed Java JNI APIs to extend existing interfaces for daemon management in an object oriented environment to Linux</description></job></experience>
+
+<education>Education
+
+<school id='4'><institution>University of Maryland</institution> Baltimore County								Graduated <completiondate days='731704' iso8601='2004-05-01'>May 2004</completiondate>
+<degree level='16' name='Bachelor of Science'>Bachelor of Science</degree>: <major code='0402'>Computer Science</major>, Cumulative GPA: <gpa max='4' value='3.48'>3.48 / 4.00</gpa>
+<honors>Received University Fellows Scholarship (Awarded Full Tuition, Room, and Board)</honors></school></education>
+<professional><description>Upsilon Pi Epsilon Member (International Computer Science Honor Society)
+
+Special Projects
+Designed and implemented database backend and tools for Kwoopon.com: PHP &amp; MySQL
+Led four-person design team for custom exam generation software project and implemented final product: C++ for Linux</description></professional>
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='733530' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='agile' start='732922'>
+    <variant>Agile</variant>
+    <variant>agile</variant>
+  </canonskill>
+  <canonskill end='732891' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='broadcast' start='731827'>
+    <variant>broadcast</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,3' idrefs='1,3' lastused='2012' name='c' start='731827'>
+    <variant>C</variant>
+    <variant>c</variant>
+  </canonskill>
+  <canonskill end='733530' experience='1' expidrefs='2,3' idrefs='2,3' lastused='2009' name='c + +' start='731827'>
+    <variant>C++</variant>
+  </canonskill>
+  <canonskill name='clearcase'>
+    <variant>ClearCase</variant>
+  </canonskill>
+  <canonskill end='733530' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='com' start='732922'>
+    <variant>com</variant>
+  </canonskill>
+  <canonskill end='732891' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='computer hardware' start='731827'>
+    <variant>hardware</variant>
+  </canonskill>
+  <canonskill end='732891' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='configuration management' start='731827'>
+    <variant>Configuration Management</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='css' start='733683'>
+    <variant>CSS</variant>
+  </canonskill>
+  <canonskill end='732891' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='data analysis' start='731827'>
+    <variant>data analysis</variant>
+  </canonskill>
+  <canonskill end='733530' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='driving' start='732922'>
+    <variant>driving</variant>
+  </canonskill>
+  <canonskill name='eclipse'>
+    <variant>Eclipse</variant>
+  </canonskill>
+  <canonskill end='733530' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='features' start='732922'>
+    <variant>features</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='html' start='733683'>
+    <variant>HTML</variant>
+  </canonskill>
+  <canonskill end='733530' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='inventory management' start='732922'>
+    <variant>inventory</variant>
+  </canonskill>
+  <canonskill end='732891' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='java' start='731827'>
+    <variant>Java</variant>
+  </canonskill>
+  <canonskill name='javascript'>
+    <variant>JavaScript</variant>
+  </canonskill>
+  <canonskill name='languages'>
+    <variant>Languages</variant>
+  </canonskill>
+  <canonskill end='733530' experience='1' expidrefs='2,3' idrefs='2,3' lastused='2009' name='linux' start='731827'>
+    <variant>Linux</variant>
+  </canonskill>
+  <canonskill name='macintosh os'>
+    <variant>Mac OS</variant>
+  </canonskill>
+  <canonskill end='733530' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='microsoft powerpoint' start='732922'>
+    <variant>PowerPoint presentations</variant>
+  </canonskill>
+  <canonskill end='733530' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='microsoft windows' start='732922'>
+    <variant>Windows</variant>
+  </canonskill>
+  <canonskill end='732891' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='middleware' start='731827'>
+    <variant>middleware</variant>
+  </canonskill>
+  <canonskill end='732891' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='migration' start='731827'>
+    <variant>migration</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='mysql' start='733683'>
+    <variant>MySQL</variant>
+  </canonskill>
+  <canonskill end='732891' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='navy' start='731827'>
+    <variant>Navy</variant>
+  </canonskill>
+  <canonskill end='732891' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='netscape enterprise server' start='731827'>
+    <variant>Enterprise</variant>
+  </canonskill>
+  <canonskill end='733530' experience='1' expidrefs='2,3' idrefs='2,3' lastused='2009' name='networking' start='731827'>
+    <variant>Network</variant>
+    <variant>network</variant>
+    <variant>networking</variant>
+  </canonskill>
+  <canonskill end='732891' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='object oriented design' start='731827'>
+    <variant>object oriented</variant>
+    <variant>OOD</variant>
+  </canonskill>
+  <canonskill name='object oriented programming'>
+    <variant>OOP</variant>
+  </canonskill>
+  <canonskill end='732891' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='openvms' start='731827'>
+    <variant>OpenVMS</variant>
+  </canonskill>
+  <canonskill end='732891' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='operating systems' start='731827'>
+    <variant>operating systems</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='php' start='733683'>
+    <variant>PHP</variant>
+  </canonskill>
+  <canonskill name='posix'>
+    <variant>POSIX</variant>
+  </canonskill>
+  <canonskill end='733530' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='process engineering' start='732922'>
+    <variant>processes</variant>
+  </canonskill>
+  <canonskill end='732891' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='process management' start='731827'>
+    <variant>process management</variant>
+  </canonskill>
+  <canonskill end='733530' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='programming' start='732922'>
+    <variant>programming</variant>
+  </canonskill>
+  <canonskill end='732891' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='quality control' start='731827'>
+    <variant>QA</variant>
+  </canonskill>
+  <canonskill end='733530' experience='1' expidrefs='2,3' idrefs='2,3' lastused='2009' name='real time' start='731827'>
+    <variant>real-time</variant>
+  </canonskill>
+  <canonskill end='732891' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='recording' start='731827'>
+    <variant>recording</variant>
+  </canonskill>
+  <canonskill end='732891' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='shell scripting' start='731827'>
+    <variant>shell scripting</variant>
+  </canonskill>
+  <canonskill end='733530' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='simulation' start='732922'>
+    <variant>simulation</variant>
+  </canonskill>
+  <canonskill end='732891' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='solaris' start='731827'>
+    <variant>Solaris</variant>
+  </canonskill>
+  <canonskill name='sql'>
+    <variant>SQL</variant>
+  </canonskill>
+  <canonskill name='unix'>
+    <variant>UNIX</variant>
+  </canonskill>
+  <canonskill name='visual studio'>
+    <variant>MS Visual Studio</variant>
+  </canonskill>
+  <canonskill end='732891' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='vxworks' start='731827'>
+    <variant>VxWorks</variant>
+  </canonskill>
+  <canonskill end='733530' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='xml' start='732922'>
+    <variant>XML</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

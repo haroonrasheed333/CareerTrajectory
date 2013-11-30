@@ -1,0 +1,176 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734597' xml:space='preserve'><contact><name><givenname>Nevzad</givenname> <surname>Sabir</surname></name>	
+
+<address lat='42.047' lon='87.8908' majorcity='DES PLAINES' state='IL'><street>9631 Bay Colony Drive</street> - <city>Des Plaines</city>, <state abbrev='IL'>Illinois</state> <postalcode>60016</postalcode></address> 
+Cell: <phone type='cell'>847.877.0525</phone> E-mail: <email>nevzad@sbcglobal.net</email></contact>
+
+
+
+
+
+
+
+
+
+
+
+<experience end='present' start='727291'>Experience	<job end='present' id='1' pos='1' start='733987'><title>Senior Graphic Designer/ Pad Printer</title>
+(<daterange><start days='733987' iso8601='2010-08-01'>08-01-10</start> to <end days='present' iso8601='2012-04-02'>present</end></daterange>) <employer>Sourcery Solutions</employer>, <address><city>Arlington Heights</city>, <state abbrev='IL'>IL</state></address>
+<description>Create virtual proofs and layout for promotional products
+Prepare multi-color plates for printing
+Oversee and handle all product inventory receipt and shipping</description></job>
+<job end='733987' id='2' pos='2' start='732679'><jobtype>Freelance</jobtype> <title>Graphic Designer</title>
+(<daterange><start days='732679' iso8601='2007-01-01'>01-01-07</start> to <end days='733987' iso8601='2010-08-01'>08-01-10</end></daterange>) <employer>Artwork Express</employer>, <address><city>Des Plaines</city>, <state abbrev='IL'>IL</state></address>
+<description>Utilized Adobe Illustrator software to primarily transform rasterized images into vector-based files.  
+Trapping multi PMS (Pantone Match System) color images, color separation, and outputting.
+Created corporate logos and branding.
+Designed corporate promotional materials - including brochures, product catalogues, business cards, and postcards</description></job> 	
+
+
+
+<job end='732679' id='3' pos='3' start='727291'><title>Senior Art Director</title>
+(<daterange><start days='727291' iso8601='1992-04-01'>04-01-92</start> to <end days='732679' iso8601='2007-01-01'>01-01-07</end></daterange>) A La Carte Line, <address><city>Chicago</city>, <state abbrev='IL'>IL</state></address>
+<description>Screen printing for promotional products.
+Utilized the Flexographic printing method to handle flexible and non-flexible packaging items.  
+Pad printing promotional products.
+Vectorizing raster images for printing.</description></job></experience>	
+
+<skills>Vocational Training	
+Attended and completed Adobe software seminars.
+Completed company-sponsored pre-press and printing seminars.	
+
+Software Experience:
+
+
+
+
+<skills>Proficient knowledge in the following computer software:
+Adobe Creative Suite (Photoshop, Illustrator, InDesign, Acrobat)
+Quark Express
+Microsoft Office (Word, Excel, Powerpoint)</skills>	
+
+Language Skills:	
+<languages>Fluent in oral and written English, Arabic (Iraqi dialect), and Turkish 
+Arabic-English</languages> <description>Interpreter for newly-arrived Arab immigrants for World Relief Immigration Services.
+Worked for one year as a linguist for US Army in Iraq in 2011.</description></skills>	
+
+<statements>Other Skills &amp; Credentials:	
+<activities>Obtained a ten-year DoD Secret security clearance (on Sept. 28, 2010) 
+Proficient knowledge of both Mac and PC-based computers
+Internet Networking &amp; Troubleshooting
+Professional Arabic Calligraphist
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+Your Name	
+
+Address, phone, fax, email</activities></statements>		
+
+
+</resume>
+
+<skillrollup version='1'>
+  <canonskill name='adobe'>
+    <variant>Adobe software</variant>
+    <variant>Adobe</variant>
+  </canonskill>
+  <canonskill name='adobe acrobat'>
+    <variant>Acrobat</variant>
+  </canonskill>
+  <canonskill name='adobe photoshop'>
+    <variant>Photoshop</variant>
+  </canonskill>
+  <canonskill name='arabic'>
+    <variant>Arabic</variant>
+  </canonskill>
+  <canonskill name='army'>
+    <variant>Army</variant>
+  </canonskill>
+  <canonskill end='733987' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='brand management' start='732679'>
+    <variant>branding</variant>
+  </canonskill>
+  <canonskill end='733987' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='brochure design' start='732679'>
+    <variant>brochures</variant>
+  </canonskill>
+  <canonskill end='733987' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='business cards' start='732679'>
+    <variant>business cards</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='color' start='732679'>
+    <variant>color</variant>
+  </canonskill>
+  <canonskill name='communication skills'>
+    <variant>oral</variant>
+  </canonskill>
+  <canonskill name='english'>
+    <variant>English</variant>
+  </canonskill>
+  <canonskill end='733987' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='illustrator' start='732679'>
+    <variant>Illustrator</variant>
+    <variant>Adobe Illustrator</variant>
+  </canonskill>
+  <canonskill name='indesign'>
+    <variant>InDesign</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='inventory management' start='733987'>
+    <variant>inventory</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='layout design' start='733987'>
+    <variant>layout</variant>
+  </canonskill>
+  <canonskill end='733987' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='logo design' start='732679'>
+    <variant>logos</variant>
+  </canonskill>
+  <canonskill name='microsoft excel'>
+    <variant>Excel</variant>
+  </canonskill>
+  <canonskill name='microsoft office'>
+    <variant>Microsoft Office</variant>
+  </canonskill>
+  <canonskill name='microsoft powerpoint'>
+    <variant>Powerpoint</variant>
+  </canonskill>
+  <canonskill name='microsoft word'>
+    <variant>Word</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='packaging' start='727291'>
+    <variant>packaging</variant>
+  </canonskill>
+  <canonskill name='pre - press production'>
+    <variant>pre-press</variant>
+  </canonskill>
+  <canonskill end='733987' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='promotional materials' start='732679'>
+    <variant>promotional materials</variant>
+  </canonskill>
+  <canonskill name='quark xpress'>
+    <variant>Quark Express</variant>
+  </canonskill>
+  <canonskill name='seminars'>
+    <variant>seminars</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='shipping' start='733987'>
+    <variant>shipping</variant>
+  </canonskill>
+  <canonskill name='turkish'>
+    <variant>Turkish</variant>
+  </canonskill>
+  <canonskill name='writing'>
+    <variant>written</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

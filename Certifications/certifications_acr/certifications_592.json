@@ -1,0 +1,33 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CSC2", 
+            "Certification Name": "Advanced Court Security Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "8001", 
+            "Certifying Organization": "National Sheriffs' Association"
+        }, 
+        {
+            "Acronym": "CSM", 
+            "Certification Name": "Court Security Manager", 
+            "Type": "Specialty", 
+            "Certification ID": "8003", 
+            "Certifying Organization": "National Sheriffs' Association"
+        }, 
+        {
+            "Acronym": "CSC1", 
+            "Certification Name": "Basic Court Security Certification", 
+            "Type": "Core", 
+            "Certification ID": "8000", 
+            "Certifying Organization": "National Sheriffs' Association"
+        }, 
+        {
+            "Acronym": "CSC3", 
+            "Certification Name": "Master of Court Security Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "8002", 
+            "Certifying Organization": "National Sheriffs' Association"
+        }
+    ], 
+    "onet": "43403101"
+}

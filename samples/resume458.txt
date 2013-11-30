@@ -1,0 +1,292 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734594' xml:space='preserve'><contact><name><givenname>Kenneth</givenname> <givenname>A</givenname>. <surname>Kuznicki</surname></name>
+<address lat='42.8381' lon='83.2888' majorcity='OXFORD' state='MI'><street>535 Sandhurst St.</street>
+<city>Oxford</city>, <state abbrev='MI'>MI</state>    <postalcode>48371</postalcode></address>
+Cell: 	<phone type='cell'>586-360-6238</phone>
+Email: 	<email>kenkuznicki@hotmail.com</email></contact>
+
+__________________________________________________________________________________________
+
+<summary>Objective: 
+<objective>Obtain a leadership position within the Information Technology industry where my professional expertise &amp; business acumen can be leveraged to best serve the goals of the organization, as well as continue to grow on both a professional &amp; personal level.</objective>  
+
+Areas of Expertise:
+<summary>Leadership
+Track record of leading direct &amp; leveraged organizations to successfully execute complex, integrated projects and delivery of services through the use of detailed project plans and data driven metrics, which have resulted in exceeding client expectations
+Direct Leadership experience ranging from local teams of 10 to global organizations greater than 100 team members over the last 15 years
+Ensure that client-defined metrics/SLAs are met or exceeded; Define &amp; drive improvement plans, as needed
+
+Business
+Managed P&amp;Ls ranging from $5M/year to $40M/year
+Implemented cost saving efforts to increase account profitability through both business growth &amp; expense management
+Service Delivery Lead for several sales pursuits in excess of $100M TCV
+
+Technical
+Leadership knowledge of server, storage/BUR (including data replication), network, &amp; client/end user experience services
+Extensive experience in ITIL, especially related to Incident, Problem, and Change Management</summary></summary>
+
+<experience end='present' start='728782'>Experience:
+	<job end='present' id='1' pos='1' sic='811103' sic2='81' start='734140'><employer>HP Enterprise Services</employer>			
+	Enterprise Systems Management (<employer>ESM</employer>) <title>Service Line Leader</title>		<daterange><start days='734140' iso8601='2011-01-01'>Jan '11</start> - <end days='present' iso8601='2012-03-30'>Present</end></daterange>
+<description>Integration of ESM tools across global, leveraged Engineering, Operations, &amp; Project Management teams for the GM OnLine (end user computing) environment
+ESM including Software Deployment tools, Security tools, &amp; Monitoring/Management tools
+Development and execution of Technical Roadmap plan that integrates project plans to deploy ESM products/technology (new, replacement, &amp; upgrades) over the course of the next 12-18 months
+Work with the client to ensure common understanding of expectations around requirements and deployment timing
+Develop integrated plan among the project managers, Engineering Teams, and Delivery Teams to meet/exceed the client's expectations 
+Resolve issues/constraints with meeting client expectations through working with all appropriate teams (HP, Client, Vendors) to define remediation plans
+Ensure proper communication of status for all projects to client, HP, and vendors in proper forums (i.e. Client/HP Senior Management Program Reviews, weekly ESM Customer Meetings, &amp; escalations)
+Manage financials to ensure profitability for ESM Service Line, through alignment of resource management plans, hardware/software expenses, and comparison to point-of-sale model
+Implementation of operational improvements to the ESM Delivery Team through implementation of additional automation
+Improvements included monitoring enhancements, ability to deploy software/patches, &amp; operational metrics
+Continuously enhance relationships with leadership across client, vendors, and HP
+Work with HP Tools Transformation Team to migrate to HP Corporate future mode of operations  tools</description></job>
+
+	<job end='734109' id='2' pos='2' sic='811103' sic2='81' start='733895'><employer>HP Enterprise Services</employer>			
+	Account Delivery Executive/Windows7 <title>Operations Leader</title>		<daterange><start days='733895' iso8601='2010-05-01'>May '10</start> - <end days='734109' iso8601='2010-12-01'>Dec '10</end></daterange>
+<description>Led the integration between the various HP Service Delivery Teams, related to the global operational support of the Windows7 deployment across General Motors
+Responsible for ensuring global common processes are rolled out and understood so that the most effective and efficient way of raising issues, engaging the appropriate teams, (GM, HP Delivery, HP Engineering, and Vendors), and resolving issues is followed
+Participate in weekly meetings with the GM CIO to communicate the status of the Windows7 deployment, GM's most important project for 2010
+Collaborated with the Windows7 Deployment Team on the deployment process framework, timing, and response to operational issues
+
+	HP Enterprise Services / EDS, an HP Company</description></job>				
+	<job end='733865' id='3' pos='3' start='733044'><title>Service Delivery Executive</title>						<daterange><start days='733044' iso8601='2008-01-01'>Jan '08</start> - <end days='733865' iso8601='2010-04-01'>Apr '10</end></daterange>
+<description>Client industry experience: Manufacturing; Communications; Energy, Consumer Industry &amp; Retail
+Interface with all levels of client (including CIO) and EDS/HP organizations to review business/financial performance
+Work with Account team to significantly elevate the financial performance of the account
+Annual revenue: ~$18M	
+Work with the Account team, client, and HP teams to solution and price client focused initiatives
+Coordinate with Delivery Teams to save the Account team $150K/mo. through better alignment of Delivery resources/services, while ensuring operational risk to the client was mitigated
+Leadership responsibilities for all Delivery activities (i.e. Project integration &amp; execution, incidents, etc.), with the support of Tower Leads and leveraged Delivery Teams; Escalation contact to ensure engagement of appropriate resources across the leveraged, global EDS/HP team, as well as vendors
+Built rapport with client and multiple leveraged EDS/HP teams to define processes, as well as identify process improvement opportunities, to ensure that all teams work effectively and efficiently, which resulted in building trust-based rapport with both the client &amp; HP teams
+Implemented multiple activities &amp; integrated projects that continued to demonstrate EDS'/HP's ability to successfully execute project plans to accelerated timelines
+Implemented Program Management Meetings with client, EDS/HP, and vendors to review status of work orders/projects (from documented request through project implementation) to ensure individual projects are on-track and address issues that may put projects at risk
+Deployed data replication solution  between two HP data centers in support of disaster recovery efforts for the client's most critical global systems, as well as supported execution of business continuity tests for balance of the environment
+Migrated client mainframe workload from client data center to EDS/HP Service Management Center (SMC), which included procurement of new hardware, coordination of shipments of a variety of equipment, vendor training of new technologies, &amp; financial management
+Demonstrated operational success through development of operational metrics to share with the client's CIO and Executive staff at bi-weekly Governance Meetings, as well as exceeding defined, monthly Service Level Agreement (SLA) metrics
+Implemented internal reviews of SLAs, to ensure that measures would be met, as well as definition of mitigating actions, as required
+Service delivery lead for various new sales pursuit opportunities
+Ensure operational excellence by EDS/HP to the client through the use &amp; adherence of repeatable processes by the leveraged teams, based on the ITIL framework that ensures repeatable execution
+Led account start-up initiative, which included the transition of the client's mainframe workload and services from their data center to an EDS/HP Service Management Center (SMC)
+Led various Delivery initiatives across EDS/HP accounts
+Certified as a Lean Six Sigma - Green Belt</description></job>
+				
+Server Hosting Operations/<job end='733013' id='4' pos='4' start='732434'><title>Service Delivery Executive</title>		<daterange><start days='732710' iso8601='2007-02-01'>Feb '07</start> - <end days='733013' iso8601='2007-12-01'>Dec '07</end></daterange>
+<description>Responsible for service delivery of General Motors North America Server Operations
+Interfaced with global General Motors executive leadership in order to identify, coordinate, and reconcile server hosting operational/business issues 
+Ensured premier service levels for the client, while simultaneously balancing financial interests of EDS' organization directives
+Demonstrated financial experience, including sales and operations planning for GM North America Server Hosting account (Annual revenue: $38M)
+Interfaced with all levels of GM, EDS, other Performing Suppliers, and Vendors in order to improve existing processes, streamline workflow, and identify efficiencies within the GM North America account
+Ensured integration across all operational Capability Teams (UNIX, Wintel, Database, Security, Middleware, etc.), as it relates to projects, incidents, and escalations
+Worked directly with client on project pipeline to ensure common understanding of business priorities, timing expectations, workload, &amp; funding
+Led Global Operations Technology Office (GOTO) Team which facilitated operational assurance of new tools &amp; processes
+
+	Global Asset &amp; Software License Management Tower Lead</description>		<daterange><start days='732434' iso8601='2006-05-01'>May '06</start> - <end days='732679' iso8601='2007-01-01'>Jan '07</end></daterange> 
+<description>Responsible for Asset &amp; Software License Management across the global GM account
+Managed ~(140) people comprised of team-members in North America, Europe, AP, and LAAM that were responsible for the process development, deployment, and operational execution for Global General GM asset and software license management
+Worked with GM and EDS-Internal teams to understand current state asset management processes opportunities for improvement, &amp; identified gaps
+Developed integrated plan with all impacted parties to address gaps &amp; opportunities for improvement, which included process improvements &amp; development of automation tools
+Improvements led to cost savings for client &amp; EDS through identification &amp; reduction of under-utilized hardware &amp; software 
+Strategic profit improvement through the utilization of Offshore, automation, &amp; workload balancing 
+Presented solutions-based recommendations to General Motors executive leadership</description></job>
+	
+	<job end='732434' id='5' pos='5' start='730061'><title>Client Delivery Manager</title> /		          				<daterange><start days='730061' iso8601='1999-11-01'>Nov '99</start> - <end days='732434' iso8601='2006-05-01'>May '06</end></daterange></job>
+	<job id='6'><title>Business Development &amp; Operations Manager</title>
+<description>Managed customer relationship and responsible for growth of $25M piece of business within the GM North America (GMNA) Product Development organization
+Performed as the Operations Leader for EDS, in support of GMNA Product Development
+Client Delivery Manager for the GMNA Product Development Data Centers, which included interfacing with GM, EDS On-Site &amp; Leveraged Delivery Teams, as well as a multi-vendor environment (HP, AT&amp;T, Cisco, and others)
+Demonstrated, through the role of EDS Operations Manager for GMNA Product Development Data Centers, successful transition from EDS management to Hewlett Packard (HP) support (Summer 2004)
+Led Project Managers in the coordination of activities associated with the migration of Data Center support services
+Integrated plan ensured that all required milestones/tollgates were identified, timing defined, &amp; communication of status to all parties was executed
+Ensured all EDS resources were able to find a new position, while coordinating the transition activities to ensure that there was no impact to services
+Received GM CIO Award for transition that resulted in no business impact to GM
+Worked with GM, HP, and EDS to define and implement operational processes to ensure customer satisfaction in a multi-vendor environment
+Responsible for people care for (19) direct employees including compensation &amp; career development</description></job>
+
+	Dimensional Data Management/<job end='730061' id='7' pos='6' start='728782'><title>Team Leader</title>				<daterange><start days='728782' iso8601='1996-05-01'>May '96</start> - <end days='730061' iso8601='1999-11-01'>Nov '99</end></daterange>
+		-	<description>Managed (15) person team, including software development and support in the dimensional engineering area for a $4 million General Motors account
+		-	Project/customer liaison for web-based solution for GM Common Dimensional Information System (CDIS) that supported both the Engineering and Manufacturing communities</description></job></experience>
+
+<education>Education:	
+	<school id='8'><institution>University of Michigan</institution> - Ann Arbor Campus				Graduated <completiondate days='728782' iso8601='1996-05-01'>May '96</completiondate>	
+	<degree level='16' name='Bachelor of Science'>Bachelor of Science</degree> in <major code='1102'>Engineering (Civil - Structural)</major>			<address><city>Ann Arbor</city>, <state abbrev='MI'>MI</state></address></school></education>
+
+	<professional><description>Electronic Data Systems (EDS) Technical Training			Graduated Jul '97 
+	Fundamentals of Integrated Product Development (FIPD)		
+Developed industry knowledge through academic and interactive experience with the Product Development Life Cycle, including idea initiation, prototype development, manufacturing, sales, &amp; marketing
+
+	Electronic Data Systems (EDS) Leadership Training			Graduated Apr '02
+Analyzed current processes, developed solutions-based recommendations, presented and implemented a value-based proposal for client's executive leadership that resulted in shortening delivery times and reducing client's cost
+Further developed overall business acumen including people care responsibilities, financial analysis, problem solving, and consultative sales strategies 
+
+	ITIL Foundations Certified						Feb '07</description></professional>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='733013' experience='1' expidrefs='4' idrefs='4' lastused='2007' name='adobe premiere' start='732434'>
+    <variant>premier</variant>
+  </canonskill>
+  <canonskill end='733013' experience='1' expidrefs='4' idrefs='4' lastused='2007' name='adobe streamline' start='732434'>
+    <variant>streamline</variant>
+  </canonskill>
+  <canonskill end='733013' experience='1' expidrefs='4' idrefs='4' lastused='2007' name='ap style' start='732434'>
+    <variant>AP</variant>
+  </canonskill>
+  <canonskill end='733013' experience='1' expidrefs='4' idrefs='4' lastused='2007' name='asset management' start='732434'>
+    <variant>asset management</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,4' idrefs='1,4' lastused='2012' name='automation' start='732434'>
+    <variant>automation</variant>
+  </canonskill>
+  <canonskill end='733013' experience='1' expidrefs='4' idrefs='4' lastused='2007' name='automation tools' start='732434'>
+    <variant>automation tools</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='3' idrefs='3' lastused='2010' name='balance' start='733044'>
+    <variant>balance</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='3' idrefs='3' lastused='2010' name='business intelligence' start='733044'>
+    <variant>bi</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='6' idrefs='6' name='cisco'>
+    <variant>Cisco</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,3,4' idrefs='1,3,4' lastused='2012' name='computer hardware' start='732434'>
+    <variant>hardware</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,3,4,6,7' idrefs='1,3,4,6,7' lastused='2012' name='customer relations' start='728782'>
+    <variant>Client</variant>
+    <variant>client</variant>
+    <variant>customer liaison</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='6' idrefs='6' name='customer satisfaction'>
+    <variant>customer satisfaction</variant>
+  </canonskill>
+  <canonskill end='733013' experience='1' expidrefs='4' idrefs='4' lastused='2007' name='database administration' start='732434'>
+    <variant>Database</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,3,4,6' idrefs='1,2,3,4,6' lastused='2012' name='delivery' start='732434'>
+    <variant>Delivery</variant>
+    <variant>delivery</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='6' idrefs='6' name='development'>
+    <variant>Product Development</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='3' idrefs='3' lastused='2010' name='disaster recovery planning' start='733044'>
+    <variant>disaster recovery</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='executive management' start='734140'>
+    <variant>Senior Management</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='finance' start='734140'>
+    <variant>financials</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='3,4' idrefs='3,4' lastused='2010' name='financial' start='732434'>
+    <variant>financial</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='3' idrefs='3' lastused='2010' name='financial management' start='733044'>
+    <variant>financial management</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,3,6' idrefs='1,2,3,6' lastused='2012' name='hewlett packard' start='733044'>
+    <variant>Hewlett Packard</variant>
+    <variant>HP</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='3' idrefs='3' lastused='2010' name='itil' start='733044'>
+    <variant>ITIL</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,3,4' idrefs='1,3,4' lastused='2012' name='leadership' start='732434'>
+    <variant>Leadership</variant>
+    <variant>leadership</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='3' idrefs='3' lastused='2010' name='mainframe' start='733044'>
+    <variant>mainframe</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,3' idrefs='1,2,3' lastused='2012' name='meeting facilitation' start='733044'>
+    <variant>Meetings</variant>
+    <variant>meetings</variant>
+  </canonskill>
+  <canonskill end='733013' experience='1' expidrefs='4' idrefs='4' lastused='2007' name='microsoft office' start='732434'>
+    <variant>Office</variant>
+  </canonskill>
+  <canonskill end='734109' experience='1' expidrefs='2,4' idrefs='2,4' lastused='2010' name='microsoft windows' start='732434'>
+    <variant>Wintel</variant>
+    <variant>Windows7</variant>
+  </canonskill>
+  <canonskill end='733013' experience='1' expidrefs='4' idrefs='4' lastused='2007' name='middleware' start='732434'>
+    <variant>Middleware</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='6' idrefs='6' name='migration'>
+    <variant>migration</variant>
+  </canonskill>
+  <canonskill end='734109' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='netscape enterprise server' start='733895'>
+    <variant>Enterprise</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='next' start='734140'>
+    <variant>next</variant>
+  </canonskill>
+  <canonskill end='734109' experience='1' expidrefs='2,3,4,6' idrefs='2,3,4,6' lastused='2010' name='process engineering' start='732434'>
+    <variant>process development</variant>
+    <variant>process improvement</variant>
+    <variant>processes</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='3' idrefs='3' lastused='2010' name='procurement' start='733044'>
+    <variant>procurement</variant>
+  </canonskill>
+  <canonskill end='733013' experience='1' expidrefs='4' idrefs='4' lastused='2007' name='profit' start='732434'>
+    <variant>profit</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='3' idrefs='3' lastused='2010' name='program management' start='733044'>
+    <variant>Program Management</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='project management' start='734140'>
+    <variant>Project Management</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,3' idrefs='1,3' lastused='2012' name='project planning' start='733044'>
+    <variant>project plans</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='3' idrefs='3' lastused='2010' name='rapport' start='733044'>
+    <variant>rapport</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='3' idrefs='3' lastused='2010' name='retail' start='733044'>
+    <variant>Retail</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='3,4' idrefs='3,4' lastused='2010' name='sales' start='732434'>
+    <variant>sales</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='3' idrefs='3' lastused='2010' name='six sigma' start='733044'>
+    <variant>Six Sigma</variant>
+  </canonskill>
+  <canonskill end='733865' experience='1' expidrefs='3' idrefs='3' lastused='2010' name='sla' start='733044'>
+    <variant>Service Level Agreement</variant>
+    <variant>SLA</variant>
+  </canonskill>
+  <canonskill end='733013' experience='1' expidrefs='4' idrefs='4' lastused='2007' name='strategic' start='732434'>
+    <variant>Strategic</variant>
+  </canonskill>
+  <canonskill end='730061' experience='1' expidrefs='7' idrefs='7' lastused='1999' name='technical support' start='728782'>
+    <variant>software development and support</variant>
+  </canonskill>
+  <canonskill end='733013' experience='1' expidrefs='4' idrefs='4' lastused='2007' name='unix' start='732434'>
+    <variant>UNIX</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='upgrades' start='734140'>
+    <variant>upgrades</variant>
+  </canonskill>
+  <canonskill end='733013' experience='1' expidrefs='4' idrefs='4' lastused='2007' name='workflow analysis' start='732434'>
+    <variant>workflow</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

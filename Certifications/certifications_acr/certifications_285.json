@@ -1,0 +1,19 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "OSW-C", 
+            "Certification Name": "Oncology Social Work Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "9510", 
+            "Certifying Organization": "Board of Oncology Social Work Certification"
+        }, 
+        {
+            "Acronym": "CEAP", 
+            "Certification Name": "Certified Employee Assistance Professional", 
+            "Type": "Core", 
+            "Certification ID": "1375", 
+            "Certifying Organization": "International Employee Assistance Professionals Association"
+        }
+    ], 
+    "onet": "21102900"
+}

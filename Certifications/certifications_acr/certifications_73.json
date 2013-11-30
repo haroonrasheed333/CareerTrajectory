@@ -1,0 +1,82 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CPSWQ", 
+            "Certification Name": "Certified Professional in Storm Water Quality", 
+            "Type": "Advanced", 
+            "Certification ID": "5836", 
+            "Certifying Organization": "CPESC, Inc."
+        }, 
+        {
+            "Acronym": "RAC", 
+            "Certification Name": "Regulatory Affairs Certification - US", 
+            "Type": "Advanced", 
+            "Certification ID": "6103", 
+            "Certifying Organization": "Regulatory Affairs Professionals Society"
+        }, 
+        {
+            "Acronym": "CIPP", 
+            "Certification Name": "The Certified Information Privacy Professional", 
+            "Type": "Core", 
+            "Certification ID": "6336", 
+            "Certifying Organization": "International Association of Privacy Professionals"
+        }, 
+        {
+            "Acronym": "ARC", 
+            "Certification Name": "Associate in Regulation and Compliance", 
+            "Type": "Core", 
+            "Certification ID": "3110", 
+            "Certifying Organization": "The Institutes"
+        }, 
+        {
+            "Acronym": "IRB", 
+            "Certification Name": "Certification for Institutional Review Board (IRB) Professionals", 
+            "Type": "Advanced", 
+            "Certification ID": "6872", 
+            "Certifying Organization": "Public Responsibility in Medicine and Research"
+        }, 
+        {
+            "Acronym": "CFCP", 
+            "Certification Name": "Certified FISMA Compliance Practitioner", 
+            "Type": "Core", 
+            "Certification ID": "6330", 
+            "Certifying Organization": "Federal Information Security Management Act Center"
+        }, 
+        {
+            "Acronym": "CIPP/G", 
+            "Certification Name": "The Certified Information Privacy Professional/Government", 
+            "Type": "Core", 
+            "Certification ID": "6337", 
+            "Certifying Organization": "International Association of Privacy Professionals"
+        }, 
+        {
+            "Acronym": "CESSWI", 
+            "Certification Name": "Certified Erosion, Sediment and Storm Water Inspector", 
+            "Type": "Core", 
+            "Certification ID": "5835", 
+            "Certifying Organization": "CPESC, Inc."
+        }, 
+        {
+            "Acronym": "CPIA", 
+            "Certification Name": "Certified Professional IACUC Administrator", 
+            "Type": "Advanced", 
+            "Certification ID": "6873", 
+            "Certifying Organization": "Public Responsibility in Medicine and Research"
+        }, 
+        {
+            "Acronym": "RCA", 
+            "Certification Name": "Responsible Care Auditor", 
+            "Type": "Advanced", 
+            "Certification ID": "6263", 
+            "Certifying Organization": "Board of Environmental Health and Safety Auditor Certification"
+        }, 
+        {
+            "Acronym": "AHCFI", 
+            "Certification Name": "Accredited Health Care Fraud Investigator", 
+            "Type": "Specialty", 
+            "Certification ID": "6870", 
+            "Certifying Organization": "National Health Care Anti-Fraud Association"
+        }
+    ], 
+    "onet": "13104107"
+}

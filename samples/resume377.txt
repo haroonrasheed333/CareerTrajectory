@@ -1,0 +1,211 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734593' xml:space='preserve'><contact><name><givenname>Cornell</givenname> <surname>Monroe</surname></name>
+Page Two
+
+
+Cornell Monroe
+<address><street>24931 Haverford Road</street></address>
+<phone>(281) 516-0337</phone>
+<address lat='30.0475' lon='95.5322' majorcity='SPRING' state='TX'><city>Spring</city>, <state abbrev='TX'>Texas</state>, <postalcode>77389</postalcode></address>
+<email>cornell.monroe@hotmail.com</email></contact>
+
+<summary>PROFESSIONAL PROFILE
+
+A highly effective IT Management Professional, who meets challenges head-on and creates positive change.  An accomplished leader with exceptional technical skills, and a proven track record of success building high-performing teams and leading them to create practical, reliable, and stable solutions, in rapidly changing business environments.  An articulate, quality-focused individual, with the proven ability to communicate effectively across all levels of an organization, and bridge the gap between technology and customer issues.    
+
+BACKGROUND SUMMARY
+<summary>More than twenty years of Information Technology experience includes:
+
+System Design
+Graphics Design
+System Administration
+Web Apps Development
+System Performance Management
+NOC Design
+Budgets and Forecasting
+Systems Roll-Out
+Bids &amp; Proposals
+Market Penetration 
+Systems Development
+Website Development
+Cost Management
+Network Design
+Equipment Selection
+Equipment Configuration
+Employee Training / Coaching
+Change Management</summary></summary>
+
+
+
+
+
+<experience end='present' start='720626'>EMPLOYMENT HISTORY
+
+<job end='present' id='1' pos='1' sic='6531' sic2='65' start='733775'><employer>Nextage Corali Realty, LLC</employer>, <address><city>Houston</city>, <state abbrev='TX'>Texas</state></address>
+<daterange><start days='733775' iso8601='2010-01-01'>2010</start> - <end days='present' iso8601='2012-03-29'>Present</end></daterange>
+<title>Director</title> of Information Systems / Marketing
+<description>Manage the IT infrastructure and information systems for this real estate firm specializing in foreclosure properties and short sales.  
+Developed database applications and systems to allow the company to perform in-depth analyses of the available properties to assist in identifying properties offering optimal marketability and value. 
+Currently developing a lead-capture system that pushes targeted advertising to high-probability buyers and potential real estate brokers, based on social media patterns and internet usage.</description></job>
+
+<job end='733775' id='2' naics='22131003' naics2='22' pos='2' sic='641112' sic2='64' start='726470'><employer>Veolia Water, North America</employer>, <address><city>Houston</city>, <state abbrev='TX'>Texas</state></address>
+<daterange><start days='726470' iso8601='1990-01-01'>1990</start> - <end days='733775' iso8601='2010-01-01'>2010</end></daterange>
+<title>Manager</title>, Information Systems
+<description>Managed an annual operating budget of $2MM, directed the efforts of three IT Techs and supported a user base of more than 300 people a plant sites and 100 local nodes, across the US.  Managed the IT assets and evaluated equipment for use on-site.  Provided 24/7 help desk support.
+Designed and rolled out the LAN/WAN system for the organization
+Designed and implemented a web-based, automated procurement application for IT equipment acquisition.  The program tracked equipment and identified equipment that was becoming out of date or obsolete.  The new system also tracked and totaled all IT equipment expenditures across the company to facilitate budget compliance.
+Developed a comprehensive pricing model to assist in the valuation and economic viability analysis of potential acquisition.  The new approach sped up economic analyses and improved the acquisition selection process.</description></job> 
+<job id='3'><title>Manager</title>, <description>Information Systems, Veolia Water, North America, continued
+Managed the entire telecom system, including VoIP protocols, video conference management, and billing / system optimization for the communication systems.
+Designed and managed the company's system security and SOX compliance processes.</description></job>
+
+<job id='4'><title>Technical Service Specialist</title>
+<description>Hired by Veolia to assist in acquisition due diligence.  Became the de facto IT manager due to my interest and talents with computers.  
+Designed and deployed the first LAN at the Veolia's US corporate headquarters in the early 90's, and championed the use of computers throughout Veolia.
+Managed the installation or directly installed and configured all of the on-site IT equipment on-site throughout all of Veolia's offices.
+Designed and implemented a company-wide Disaster Recovery / Business Continuity Plan.</description></job>
+
+
+<job end='726470' id='5' pos='3' sic='951104' sic2='95' start='720626'><employer>Gary Sanitary District</employer>, <address><city>Gary</city>, <state abbrev='IN'>Indiana</state></address>
+<daterange><start days='720626' iso8601='1974-01-01'>1974</start> - <end days='726470' iso8601='1990-01-01'>1990</end></daterange>
+<title>Plant Superintendent</title>
+<description>Managed all of the plant processes for Gary Indiana's main water treatment facility, processing and treating  60mgd of waste water.  Supervised a plant operations staff of 19 process technicians, Quality Control Technicians and Administrative Support staff.
+Construction Liaison
+Selected to serve as the Owner's Representative and work directly with outside construction personnel in extensive, two-year modernization project that impacted every operating system in the plant.</description></job> 
+<job id='6'><title>Laboratory Assistant</title>
+<description>Conducted regular sampling and testing activities at this high-volume waste water treatment facility</description></job>
+<job id='7'><title>Operations Supervisor</title>
+<description>Shift supervisor for this 24/7 operation.</description></job></experience>
+
+
+<education>EDUCATION
+
+<school id='8'><degree level='16' name='Bachelor of Science'>BS</degree>, <major code='1699 0499'>Information Technology/Multimedia and Visual Communication</major> 
+<institution>University of Phoenix</institution></school>
+
+
+MILITARY SERVICE
+
+<school id='9'><institution>United States Air Force</institution>, 
+<daterange><start days='719165' iso8601='1970-01-01'>1970</start> - <end days='720626' iso8601='1974-01-01'>1974</end></daterange>
+<description>Sergeant, Minot Air Force Base, Minot, North Dakota</description></school></education>
+
+
+<skills>OTHER TRAINING / 	 CERTIFICATIONS
+
+<courses>Certified Novell Administrator
+
+Netware 3 - 4.1 Update * Netware Administration * Advanced Netware Advanced 
+Supporting Microsoft Windows * Networking Technologies
+Netware Service and Support 
+Netware installation and Configuration Workshop</courses></skills>
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='726470' experience='1' expidrefs='5' idrefs='5' lastused='1990' name='administrative support' start='720626'>
+    <variant>Administrative Support</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='advertising' start='733775'>
+    <variant>advertising</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='9' idrefs='9' name='air force'>
+    <variant>Air Force</variant>
+  </canonskill>
+  <canonskill end='733775' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='approach' start='726470'>
+    <variant>approach</variant>
+  </canonskill>
+  <canonskill end='733775' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='billing systems' start='726470'>
+    <variant>billing / system</variant>
+  </canonskill>
+  <canonskill end='733775' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='budgeting' start='726470'>
+    <variant>budget</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='database administration' start='733775'>
+    <variant>database applications</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='4' idrefs='4' name='disaster recovery planning'>
+    <variant>Disaster Recovery</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='4' idrefs='4' name='due diligence'>
+    <variant>due diligence</variant>
+  </canonskill>
+  <canonskill end='733775' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='help desk support' start='726470'>
+    <variant>help desk support</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='information systems' start='726470'>
+    <variant>Information Systems</variant>
+    <variant>information systems</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='internet software' start='733775'>
+    <variant>internet usage</variant>
+  </canonskill>
+  <canonskill end='733775' experience='1' expidrefs='2,4' idrefs='2,4' lastused='2010' name='lan' start='726470'>
+    <variant>LAN</variant>
+  </canonskill>
+  <canonskill name='microsoft windows'>
+    <variant>Microsoft Windows</variant>
+  </canonskill>
+  <canonskill name='networking'>
+    <variant>Networking</variant>
+  </canonskill>
+  <canonskill name='novell netware'>
+    <variant>Netware</variant>
+  </canonskill>
+  <canonskill name='novell netware 4.1'>
+    <variant>Netware 3 - 4.1</variant>
+  </canonskill>
+  <canonskill name='novell network'>
+    <variant>Certified Novell Administrator</variant>
+  </canonskill>
+  <canonskill end='726470' experience='1' expidrefs='5' idrefs='5' lastused='1990' name='operating systems' start='720626'>
+    <variant>operating system</variant>
+  </canonskill>
+  <canonskill end='733775' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='optimization' start='726470'>
+    <variant>optimization</variant>
+  </canonskill>
+  <canonskill end='726470' experience='1' expidrefs='5' idrefs='5' lastused='1990' name='personnel' start='720626'>
+    <variant>personnel</variant>
+  </canonskill>
+  <canonskill end='733775' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='pricing' start='726470'>
+    <variant>pricing</variant>
+  </canonskill>
+  <canonskill end='733775' experience='1' expidrefs='2,5' idrefs='2,5' lastused='2010' name='process engineering' start='720626'>
+    <variant>processes</variant>
+  </canonskill>
+  <canonskill end='733775' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='procurement' start='726470'>
+    <variant>procurement</variant>
+  </canonskill>
+  <canonskill end='733775' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='protocols' start='726470'>
+    <variant>protocols</variant>
+  </canonskill>
+  <canonskill end='726470' experience='1' expidrefs='5' idrefs='5' lastused='1990' name='quality control' start='720626'>
+    <variant>Quality Control</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='real estate' start='733775'>
+    <variant>real estate</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='sales' start='733775'>
+    <variant>sales</variant>
+  </canonskill>
+  <canonskill experience='1' name='supervisory skills'>
+    <variant>supervisor</variant>
+  </canonskill>
+  <canonskill end='733775' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='telecommunications' start='726470'>
+    <variant>telecom</variant>
+  </canonskill>
+  <canonskill end='733775' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='valuation' start='726470'>
+    <variant>valuation</variant>
+  </canonskill>
+  <canonskill end='733775' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='video' start='726470'>
+    <variant>video</variant>
+  </canonskill>
+  <canonskill end='733775' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='voip' start='726470'>
+    <variant>VoIP</variant>
+  </canonskill>
+  <canonskill end='733775' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='wan' start='726470'>
+    <variant>WAN</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734597' xml:space='preserve'><contact><name><givenname>DAVID</givenname> <surname>MCCULLEY</surname></name>
+<address lat='35.9466' lon='84.0178' majorcity='KNOXVILLE' state='TN'><street>1311 Sutters Mill</street>   <city>Knoxville</city>, <state abbrev='TN'>TN</state> <postalcode>37909</postalcode></address> 	<phone>(865) 588-8434</phone>	<email>drmcculley1@yahoo.com</email></contact>
+
+<skills>SOFTWARE KNOWLEDGE
+		
+<skills>After Affects (pb+), Light Wave, Adobe Photoshop, and Illustrator, Flash and Dreamweaver CS, Premier, Excel, Reel DVD, Corel Ray Dream Studio, Extreme 3D, QuarkXpress, X-res and FreeHand, Bryce 3D.</skills></skills> 
+<experience end='present' start='725009'>EXPERIENCE
+
+	<job end='present' id='1' pos='1' sic='7812' sic2='78' start='730519'><employer>Digital Animator/Video Graphics</employer>/Web Design - <daterange><start days='730519' iso8601='2001-02-01'>February 2001</start>- <end days='present' iso8601='2012-04-02'>Present</end></daterange>
+                        Tennessee Production Center/Big Mamas Digital Entertainment. <address><city>Seymour</city>, <state abbrev='TN'>TN</state></address>
+<description>Design and develop 2D/3D graphic elements, combine elements for commercial spots
+Design custom graphics for customers CD's and DVD's .
+Designed all aspects of video elements for Television shows and client recordings  
+Assisted with design of corporate identity elements</description></job> 
+
+	Senior Animator - <job end='730457' id='2' pos='2' sic='573602' sic2='57' start='729847'><daterange><start days='729847' iso8601='1999-04-01'>April 1999</start>- <end days='730457' iso8601='2000-12-01'>December 2000</end></daterange>
+                        <employer>Kimball Home Entertainment</employer>.  <address><city>Knoxville</city>, <state abbrev='TN'>TN</state></address>
+<description>3D character animation
+Video compositing of scene elements 
+2D graphics design and animation
+Audio layout and synchronization
+Production design and supervision
+Training junior animators
+Storyboard layout and organization
+Maintain system and production materials 
+Digital video and audio recording</description></job>
+
+	<job end='729788' id='3' pos='3' sic='276101' sic2='27' start='729696'><title>Intern/&quot;Type Setter</title>&quot; - <daterange><start days='729696' iso8601='1998-11-01'>November 1998</start> - <end days='729788' iso8601='1999-02-01'>February 1999</end></daterange>
+<employer>United Graphics</employer>.  <address><city>Knoxville</city>, <state abbrev='TN'>TN</state></address>
+<description>Gained experience in:		
+Set and design layouts
+Sending to film
+Proofing</description></job>
+<job end='728204' id='4' pos='4' sic='999977' sic2='99' start='725009'><employer>Reconstruction</employer>
+
+<title>Radio Intelligence Analyst</title> - <daterange><start days='725009' iso8601='1986-01-01'>January 1986</start>- <end days='728204' iso8601='1994-10-01'>October 1994</end></daterange></job>
+<job id='5' naics='92811003' naics2='92' sic='971101' sic2='97'><employer>United States Air Force</employer>
+<description>Analysis, manipulation and reporting of raw and refined intelligence data
+Management and supervision of personnel</description>
+<title>Safety Supervisor</title>
+<description>Security Augment
+Mission Section NCOIC
+Produced Office Newsletter
+Unit Photographer</description></job></experience>
+
+<education>EDUCATION
+<school id='6'><degree level='14' name='Associate of Science'>Associate of Science</degree>, <major code='0502'>Applied Science</major> in <major code='1202'>Communication Graphics Technology</major>
+<institution>Pellissippi State Technical Community College</institution>
+<completiondate days='729757' iso8601='1999-01-01'>1999</completiondate></school></education>  
+
+
+
+
+
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='3d' start='729847'>
+    <variant>3D</variant>
+  </canonskill>
+  <canonskill name='adobe photoshop'>
+    <variant>Adobe Photoshop</variant>
+  </canonskill>
+  <canonskill name='adobe premiere'>
+    <variant>Premier</variant>
+  </canonskill>
+  <canonskill end='730457' experience='1' expidrefs='2' idrefs='2' lastused='2000' name='animation' start='729847'>
+    <variant>animation</variant>
+  </canonskill>
+  <canonskill end='730457' experience='1' expidrefs='2' idrefs='2' lastused='2000' name='audio' start='729847'>
+    <variant>Audio</variant>
+    <variant>audio</variant>
+  </canonskill>
+  <canonskill name='bryce'>
+    <variant>Bryce 3</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='cd' start='730519'>
+    <variant>CD</variant>
+  </canonskill>
+  <canonskill name='corel office'>
+    <variant>Corel</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='corporate identity' start='730519'>
+    <variant>corporate identity</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='customer relations' start='730519'>
+    <variant>client</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='5' idrefs='5' name='data management'>
+    <variant>data
+Management</variant>
+  </canonskill>
+  <canonskill end='730457' experience='1' expidrefs='2' idrefs='2' lastused='2000' name='digital video' start='729847'>
+    <variant>Digital video</variant>
+  </canonskill>
+  <canonskill name='dreamweaver'>
+    <variant>Dreamweaver</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='dvd' start='730519'>
+    <variant>DVD</variant>
+  </canonskill>
+  <canonskill end='729788' experience='1' expidrefs='3' idrefs='3' lastused='1999' name='film production' start='729696'>
+    <variant>film</variant>
+  </canonskill>
+  <canonskill name='flash'>
+    <variant>Flash</variant>
+  </canonskill>
+  <canonskill name='freehand'>
+    <variant>FreeHand</variant>
+  </canonskill>
+  <canonskill end='730457' experience='1' expidrefs='2' idrefs='2' lastused='2000' name='graphic design' start='729847'>
+    <variant>graphics design</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='graphical user interface' start='730519'>
+    <variant>graphics</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='graphics software' start='730519'>
+    <variant>graphic</variant>
+  </canonskill>
+  <canonskill name='illustrator'>
+    <variant>Illustrator</variant>
+  </canonskill>
+  <canonskill end='730457' experience='1' expidrefs='2' idrefs='2' lastused='2000' name='layout design' start='729847'>
+    <variant>layout</variant>
+  </canonskill>
+  <canonskill end='730457' experience='1' expidrefs='2' idrefs='2' lastused='2000' name='materials management' start='729847'>
+    <variant>materials</variant>
+  </canonskill>
+  <canonskill name='microsoft excel'>
+    <variant>Excel</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='5' idrefs='5' name='microsoft office'>
+    <variant>Office</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='5' idrefs='5' name='newsletters'>
+    <variant>Newsletter</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='5' idrefs='5' name='personnel'>
+    <variant>personnel</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='5' idrefs='5' name='photography'>
+    <variant>Photographer</variant>
+  </canonskill>
+  <canonskill end='729788' experience='1' expidrefs='3' idrefs='3' lastused='1999' name='proofing' start='729696'>
+    <variant>Proofing</variant>
+  </canonskill>
+  <canonskill name='quark xpress'>
+    <variant>QuarkXpress</variant>
+  </canonskill>
+  <canonskill name='ray dream studio'>
+    <variant>Ray Dream Studio</variant>
+  </canonskill>
+  <canonskill end='730457' experience='1' expidrefs='2' idrefs='2' lastused='2000' name='recording' start='729847'>
+    <variant>recording</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='5' idrefs='5' name='reports'>
+    <variant>reporting</variant>
+  </canonskill>
+  <canonskill end='730457' experience='1' expidrefs='2,5' idrefs='2,5' lastused='2000' name='supervisory skills' start='729847'>
+    <variant>supervision</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='television' start='730519'>
+    <variant>Television</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='video' start='729847'>
+    <variant>Video</variant>
+    <variant>video</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

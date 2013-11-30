@@ -1,0 +1,631 @@
+
+Senior Business Objects Lead/Developer 
+
+PROFILE:
+Nine Plus (9+) Years of Total IT experience.
+Nine Plus (9+) of Business Objects experience.
+Strong experience in Data Modeling.
+Strong experience in Data Analysis. 
+
+SUMMARY:
+Over Nine years of experience in Information technology with experience in complete life cycle of Software products involving Analysis, Design, Development, Implementation, Testing and support for various data warehousing applications including experience in using DSS/OLAP (Data Warehousing) tools i.e. BOXI 3.1 (Designer, DESKI, WEBI, CMC), Performance Manager, Dashboard Manager, Voyager.
+Experience in Designing/Developing Universes/Data-Model, Developing Canned/Ad-hoc Reports, Scheduling 
+Of reports. 
+Strong experience in Business Objects installation, configuration of BO tools and maintenance of Business Objects Enterprise environment, creating and managing groups and user profiles.
+Experienced in developing Dashboards and Scorecard using Dashboard manager to effectively represent KPI's and visually accentuate critical business controls.
+Extensive experience in developing static and dynamic dashboards using Crystal Xcelsius via the web service connectors like QAAWS, Live Office.
+Sound knowledge in designing and implementing Multi Dimensional data models.
+Strong understanding of RDBMS and Data warehousing concepts. Knowledge in Data mart development, ER Modeling and Data-Flow diagrams.
+Extensively used Pl/sql and sql for report creation and testing the reports.
+Integrated business objects product suite with SAP BI (SAP cubes and BEX queries).
+Used stored procedures to create Crystal reports.
+Fixed the migration defects of Deski, WEBI reports.
+Worked closely in UAT with Business owners in defect and problem handling.
+Involved in the training BO XI and Siebel Analytics users.
+Experience in Working with Off-shore team.
+Experience in SAP S&amp;D, Siebel Analytics and Cognos.
+
+EDUCATION:
+Post Graduate Diploma in Computer Engineering
+  
+TECHNICAL SKILLS:
+Business Intelligence Tools	Business Objects 5.0/5.1.4/6.1b/6.5/XIR2/R3.1 Supervisor, Designer, 
+Broadcast Agent, Web Intelligence 2.6/2.7/6.x/6.5/ XIR2/ XIR3.1- Desktop intelligence, Performance Manager, Crystal reports, Crystal Xcelsius, CMC, QWAAS, Voyager, Gadgets, Live Office, SAP BW, Siebel Analytics, Cognos.	
+
+Operating Systems	UNIX, LINUX, Windows NT, Windows 98/XP/2000/2003/2007, VM ware, Citrix.	
+
+Languages	C, C++, Unix shell scripting,.net, ASP.net.	
+
+Internet applications	ASP2.0/3.0, J2EE, HTML, JavaScript, and VB Script, ADO.net, C#.	
+
+Front end tools	Embarcadero, TOAD, SQL plus.	
+
+RDBMS	Oracle 10g/ 9i/ 8i, SQL Server 2000/2005, Ms Access, Mysql 5.0, SAP BW 7.0	
+
+Data Modeling	Erwin Star Schema Modeling, Snowflakes Modeling, ER Studio	
+
+Project Management	MS Project, MS Access, MS Visio, MS Excel, Rational Requisite Pro, Rational Rose, Buzz saw	
+
+
+PROFESSIONAL EXPERIENCE:                                                                                                                   
+
+Parkland Health and Hospital System, Dallas, TX                                           Apr 2011-Dec 2011                              
+Lead Business Objects Developer and data modeler                    
+
+Parkland is dedicated to the health and well-being of individuals and communities. For 16 consecutive years, Parkland was named one of "America's Best Hospitals" by U.S. News &amp; World Report.It has the distinction of delivering more infants under one roof than any other hospital in the nation, averaging 15-16,000 deliveries per year. In the current project, the chronicles data was in centralized in Oracle data ware house, the project was to design, develop data model and star schema based on requirements in SQL Server 2005 and develop Business Objects universes, reports and dashboards.
+
+Responsibilities:
+Involved in requirements gathering from end users. Business information needs were well-defined in to data requirements including business measures, reference data, business data definitions and mockup reports
+Work comprehensively on Logical schemas, Physical schemas, Physical Data models, in creating facts and dimensions to make sure that it serves purpose of the business needs and follow the business guidelines and logics.
+Created a data model in SQL server 2005 based on the requirements and clarity model made in oracle 10g. 
+Designed Work-flow and data flow, to implement the ETL logic for transaction data for WISH.
+Prepared technical documentation on designed data model and Universe design based on the requirements
+Analyzed operational metrics in using SQL and PLSQL developed star schema in SQL server 2005.
+Designed and developed reports from various contexts and multiple data providers.
+Created and designed monthly, annual reports for L&amp;D in WEBI using cross tabs, charts and forms, alerters, and ranks.
+Maintained epic universes in BOE.
+Trained users on the usage of info view and WEBI.
+Applied Row level and Object level security in the Universes to make the sensitive data secure.
+Created summary and detail reports that allow for in-depth drilling on specific data and created On-Demand links between reports using Open Document.
+Created Custom Hierarchies in the universes and exported to the repository.
+Created a Data model in Oracle 10g on WISH project requirements, based on analysis of the operational Metrics/requirements.
+Tested the data for accuracy in Epic Hyperspace in patient encounter details, Record Viewer and hyperspace reports.
+Created dashboards in Xcelsius on surgery elapsed times, elective non elective surgeries, readmits with complications, admissions and deliveries by department and year month etc , used Line Charts, Pie Charts, stacked column charts, bar Charts along with Single value components, Containers and Selectors
+Loaded the ETL code in SQL server 2005 to create reports in Business objects, the final code is used to generate data flow in Business Objects Data Integrator to maintain a standard ETL process.
+Created and modified crystal reports based on the requirements. Created Cross tabs, sub reports and inserted charts. 
+Attempted to fix the data entry issues with the teams, made a document on the data entry issues which could generate improper reporting with respect to WISH.
+Suggested new fields/ data entry points to the epic front end have a better data in epic on L&amp;D based on the analysis of the requirements.
+ Promoted the tested content form Development to IT, QA and Production using Life-Cycle Manager.
+Member of the Production Support team and provided support to keep the environment up and running and monitor, tune and upgrade the environment.
+Successfully installed and configured Business Objects 3.1 on Staging Environment, Applied Service Pack and fix pack.
+Environment: Business objects XIR 3.1, Crystal Xcelsius 2008, Crystal reports 2008, SQL Plus, Epic 2009, Oracle 10g, SQL server 2005, Data services Designer 12.2, and Business view Manager, MS Visio 2007, Microsoft Visual Studio Express.
+
+University of Iowa Hospitals &amp; Clinics (UIHC), Iowa City, IA                                      Sep 2009- Mar 2011 
+Sr. Business Objects Developer      
+                                                             
+University of Iowa Hospitals &amp; Clinics to provide patient-focused care to every person, around the clock, in an environment devoted to innovative care and excellent service. 
+In the current project, the data from the Epic System will be extracted onto a centralized Data Warehouse - Clarity Database which was on SQL Server. The project was to design and develop various universes and reports for RADIOLOGY, OBGYN, PSYCHAITRY and CARDIOLOGY modules of the Epic System.
+
+Responsibilities:
+Involved in gathering the requirements and preparing the technical specification documents for the universes and Reports.
+Created Universes using SQL Server 2005 as data source.
+Maintained and Updated the existing Universes for the Clinical Application Division and Created universes for the Radiology, ObGyn, Cardiology and Psychiatry modules using Business Objects Designer
+Resolved loops by creating aliases and contexts.  Went through the Epic Data base models for these modules in Epic User web.
+Maintained, modified and created complex Reports for Epic - RADIOLOGY, OBGYN, PSYCHAITRY and CARDIANT modules of the Epic System.
+Created various reports on Room Utilization for different department categories in Radiology. And calculated weekly volumes, monthly volumes, percentages, charts.
+Developed hierarchies to support drill down reports.
+Created Detail design documents for all the reports and universes.
+Created different types of reports such as Master/Detail, Cross Tab and Chart, use of Filters, Conditions, and Calculations
+Created reports, setup alerts, ranking, graphs, and report level variables.
+Synchronized queries from multiple data providers by linking the common dimensions using merge dimensions option in Webi.
+Developed dashboards and scoreboards for detailed analysis using different analytics like Speedometer, Interactive Metric Trends, and Barometers
+Extensively worked on creating OLAP Universes on top of SAP BI/ BEx queries, InfoCubes. 
+Used data for building reports using crystal reports from SAP BW queries.
+Used QaaWs (Query as a Web Service) and Live Office to feed data into Xcelsius.
+Developed complex Reports in Crystal Reports using multiple sub reports and drilldown features
+Made effective use of Dynamic Cascading Parameters in the report to create flexible reports.
+Involved in migration of reports from Business Objects XI R2 to Business Objects XI.3.1.
+Involved in the testing phase.
+Resolved Migration issues both in Designer, Reporter and created test cases to check the Migrated Reports issues.  
+Environment: Business Objects XI R3.1/R2,SAP BW, Designer XI R2, Web Intelligence XI R2, SQL Server 2005, Microsoft Visual Studio Express, Windows 2003 Server, Crystal Reports XI, Business view Manager, Xcelsius,SAP BW 3.5
+
+GE-Energy, Atlanta, GA                                                                                                         Jun 2008- Jul 2009
+Lead Report developer     
+                                                      
+GE has a strong set of global businesses in infrastructure, finance and media aligned to meet today's needs, including the demand for global infrastructure; growing and changing demographics that need access to healthcare, finance, and information and entertainment; and environmental technologies.
+The project was to Create Dashboards and reports for the GE Energy sales teams to monitor the sales and Revenues. This involved  interacting with various Business Regional users ,develop KPI definitions ,develop and design reports in Siebel Analytics dashboards , Siebel Analytics Answers, Business Objects, Excel, Crystal reports and made interactive charts in Crystal Xcelsius.
+
+Responsibilities:
+Worked for GE Energy Head Quarters Sales and Marketing team to develop reports in Siebel Analytics, Crystal reports, Excel and Business objects.
+Manage and create rights of Business Objects and Siebel analytics users.
+Publish the weekly sales reports to users and train the users on the usability.
+Develop the reports (include Dashboard reports) based on the new enhancements and interpret the data (Business Intelligence Report writing).
+Interact with the regional managers to identify the most important metrics and conduct meetings to define the philosophy and data flow for the dashboard.
+An Excel Data Template was designed and distributed to the regional Managers. The regional Managers then populated this data sheet which was embedded into a Crystal Xcelsius Dashboard model to generate the first manual version of the dashboard.
+Updated the static models with live data connecting via the Web Service connectors like QAAWS, Live Office.
+Support and train the users on the reporting tools and the business logics.
+Involved in Functional Acceptance Testing (FAT) and User Acceptance Testing (UAT) Created Test cases, reviewed and maintained test scripts, analyzing bugs, worked with development team and ETL team members in fixing defects and validating the solutions.
+Created universes using SAP BW cubes and BEX Queries as Backend.
+Created complex reports by linking data from multiple data providers, using free hand SQL and functionalities like Combined Queries. 
+Imported and exported universes to the Repository for making resources available to the users.
+Developed and scheduled both Full Client and Web I reports. 
+Involved in Business Objects reports query optimization. 
+Worked and coordinated with Off-shore team in design and development.
+Extensively used SQL and PL/SQL scripts to test the reports and to create the reports.
+Performed end to end testing from Siebel CRM and SAP S&amp;D to Business Objects Reports. 
+Create and maintain user access in Siebel Analytics.
+Used IBOT to publish reports to the users
+Environment: Siebel Analytics, Business Objects 6.5 and XI R2, Crystal reports XI, Excel, Oracle, Mysql 5.0,PL/SQL, Xcelsius 2008, SAP BW 3.5.
+
+PRTM - CA                                                                                                                            Feb 2008-May 2008 
+Business Objects Consultant   
+
+PRTM's management consultants define and shape operational strategies to give you a competitive advantage to companies to hit the mark in your industry.
+The project is to restore the business objects universes and reports on the modified Oracle database. Test Universe and reports against Oracle Database.
+
+Responsibilities:
+Business objects universes were modified based on the modification of oracle database.
+New reports were created based on the business requirements in Business objects and crystal reports
+Trained the new users on Business objects reports usage.
+Created Contexts and Aliases for resolving loops and checked the integrity of the Universe.
+Involved in Creation of Alerters with various conditions.
+Created Dashboards using Dashboard Manager.
+Used Informatica to load flat files data into target database(Oracle)
+Managed business objects servers
+Managed rights for business objects users in CMC.
+Interact with the Business users and gather the requirements.
+Documentation of requirements and solutions.
+Used Business views to develop Crystal reports
+Test the created reports and Universe
+Test the reports for source to target data
+Test the reports on DB.
+Test the universe objects for the quantity and quality of the data.
+Environment: Business Objects XI R2, CMC, Crystal reports XI, Oracle 9i, Informatica 7.1.3, Mercury Quality Centre.
+
+Autodesk - San Rafael, CA                                                                                                 Oct 2006- Jan 2008
+Lead Business Objects Consultant     
+
+Autodesk, Inc. is an American multinational corporation that focuses on 2D and 3D design software for use in architecture, engineering and building construction, manufacturing, and media and entertainment  
+Project 1: The Migration project was to upgrade Business Objects 6.1 to XI R2. The Corporate reports and personal Business reports were migrated and compared for accuracy. Few DeskI reports were converted to WEBI reports. The users were trained on the upgraded version of Business Objects.
+Project 2: The project (SOE) is to change the source input as per project plan and keep existing reporting architecture intact. The new data marts are created and new universes are developed. New reports are created based on the business requirements, for all the project enhancements
+
+Responsibilities:   
+Installed and configured the Business Objects Development client. 
+Installed monthly hot fix packs and packs.
+Part of the team that maintained the Business Objects Server cluster. Monitored the Web Intelligence cluster to maintain a 24 x 7 availability, watching loads and performance tuned the environment to take advantage of the cluster.
+Created Repositories for various projects and created User groups and assigned privileges to each user for appropriate access.
+Administered user's logon, Enable/Disable a user, Resetting passwords, changing a user profile among other user administration functions.
+Reviewed the strategy and architecture of the BI deployment in BO 6.1 version and implement migration process to Business Objects XI R2.
+Established user groups and users and assigned privileges.
+Worked closely with business owners in migrating personal documents to BO XI R2 using import wizard and report conversion tool.
+Designed multiple Universes using Business Objects XIR2. Created custom dimensions and measures that aggregated the data at the universe level, for enhancing report performance.
+Designed and developed Dashboard reports and published in the corporate portal.
+Created and validated reports against source system tables. (SAP).
+Created corporate reports using WEBI, DESKI and Crystal reports.
+The two core partner reports (Subscriptions and renewal extract) were developed and tested with the source system data, which will be published for the partners in the partner portal of Autodesk.
+Fixed all the defects tracking mercury quality centre, coordinating with QA team.
+Worked closely with Business owners in User Acceptance Testing.
+Worked with Off-shore team on Business Objects Universe development.
+Trained Business owners in using BO XI R2
+Scheduled the reports based on business requirements.
+Environment: Business Objects XI R2, (CMC,Desktop intelligence, Info view, Web intelligence, Dashboard, Crystal Reports , Crystal Xcelsius) , pl/sql developer, MS Excel, SAP S&amp;D, Siebel Analytics, Unix, Sql server 2005.,Oracle 9i , Windows 2000/XP, UNIX, Mercury Quality Center 9.0.
+
+Electric Insurance, Beverly, MA                                                                                     Mar 2006 - Aug 2006
+Business Objects Designer/Developer     
+
+Electric Insurance Company is a national writer of personal insurance products including auto, homeowners, renters, condo and umbrella.  
+Electric Insurance is a huge insurance company with a wide range of Business Objects users with a large number of BO 5.1 reports to be migrated to BO XI R2.Migation of reports, rebuilding the schedules, setting up the folder structure according to the functionality &amp; departments. 
+
+Responsibilities:
+Worked the CMC to deploy reports, configure security, tune servers and manage licensing.
+Used Report Conversion Tool to convert all available Desktop Intelligence documents to Web Intelligence documents..
+Worked with ETL Team for Data Extraction, Transformation &amp; Loading into target SQL Server Database using Informatica ETL tool.
+Migrated 5.1 reports to XI R2 using the Import Wizard
+Worked on the Folder Structure for various departments and functionalities.
+Defined the user rights according to the functionality, department by groups &amp; folders.
+Recreated &amp; Rebuilt BCA schedules and macro functionalities in XI R2 
+Trained users to get accustomed to the new environment and functionalities.
+Worked with the server environment to set up CCM.
+Worked on the development on some complex reports in XI R2
+Handled migration issues with Linked Universes.
+
+Environment: Business Objects XI R2 (Designer, CMC, Web Intelligence, Desktop Intelligence, Info view), Informatica ETL 6.1,DB2.
+
+Genworth Financials, India                                                                                           Jul 2005- Mar 2006
+Business Objects Developer                          
+
+Genworth Financial is an international financial services organization that offers a portfolio of primarily consumer-focused products through its various companies, including annuities, combination products, investment services, life insurance, long term care insurance, medicare supplement insurance, mortgage insurance, and payment protection insurance.
+Project was to develop Business Objects Reports for GenWorth Financials, on existing universes.
+
+Responsibilities:
+ Modified Universes based on new policies in the organization.
+Created reports based on Policy updates and adjustments on total benefits paid on claim coverage. 
+The reports were based on claim numbers, where the payment and expense details were incorporated.
+Personal reports were created for analysts on total benefits paid to each claim number and ids
+Created the reports using the universe as the main data provider and wrote the complex queries including sub-queries, unions, intersect and aliases. 
+Formatted the Reports as per the Users requirements using all the facilities in Business Objects, which allows the users to analyze the data 
+Developed Reports with multiple parameter fields, multiple expressions and multiple grouping for different hierarchy levels. 
+Created parameterized reports and customized existing reports. Developed various Sub-reports 
+Successfully involved in inclusion of linked as well as unlinked Sub-Reports along with the primary reports.
+Environment: Business Objects 5.1 (Designer, Info view, Business Query), SQL Server, Windows NT, Crystal reports.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    ASP.net
+    .net
+  
+  
+    3D design
+  
+  
+    ADO
+  
+  
+    ASP2.0
+  
+  
+    balance
+  
+  
+    BCA
+  
+  
+    benefits
+  
+  
+    Broadcast Agent
+  
+  
+    BI
+    Business Intelligence
+  
+  
+    Business Objects 3.1
+    Business Objects 5.0
+    Business Objects 5.1
+    Business Objects 6.1
+    Business Objects 6.5
+    Business Objects
+    Business objects
+    business objects
+  
+  
+    C
+  
+  
+    C++
+  
+  
+    Charts
+    charts
+  
+  
+    Citrix
+  
+  
+    Cognos
+  
+  
+    competitive
+  
+  
+    content
+  
+  
+    Conversion
+    conversion
+  
+  
+    CRM
+  
+  
+    Crystal
+  
+  
+    Crystal Reports
+    Crystal reports
+    crystal reports
+  
+  
+    Client
+    client
+  
+  
+    data entry
+  
+  
+    Data Modeling
+  
+  
+    Data Warehouse
+  
+  
+    Data base
+    Database
+    database
+  
+  
+    debugging
+  
+  
+    dimensions
+  
+  
+    Documentation
+  
+  
+    Erwin
+  
+  
+    ETL
+    ETL 6.1
+  
+  
+    FAT
+  
+  
+    features
+  
+  
+    Financials
+    finance
+  
+  
+    Financial
+    financial
+  
+  
+    forms
+  
+  
+    free hand
+  
+  
+    Functional
+  
+  
+    graphs
+  
+  
+    HTM
+    HTML
+  
+  
+    DB2
+  
+  
+    ids
+  
+  
+    Informatica 7.1.3
+    Informatica
+    informatica
+  
+  
+    Insurance
+    insurance
+  
+  
+    Internet applications
+  
+  
+    JavaScript
+  
+  
+    Languages
+  
+  
+    LINUX
+  
+  
+    logic
+  
+  
+    mark
+  
+  
+    Marketing
+  
+  
+    meetings
+  
+  
+    Access
+    access
+    MS Access
+    Ms Access
+  
+  
+    C#
+  
+  
+    MS Excel
+    Excel
+    excel
+  
+  
+    Office
+  
+  
+    MS Project
+  
+  
+    Windows
+  
+  
+    Windows 2000
+    2000
+  
+  
+    3.1
+  
+  
+    Windows 98
+  
+  
+    Windows NT
+  
+  
+    Migration
+    migration
+  
+  
+    Modeling
+  
+  
+    Mysql 5.0
+  
+  
+    ODS
+  
+  
+    OLAP
+  
+  
+    Operating Systems
+  
+  
+    optimization
+  
+  
+    Oracle 9
+    Oracle
+    oracle
+  
+  
+    Oracle database
+    oracle database
+    DB
+    Oracle Database
+  
+  
+    developer
+  
+  
+    PLSQL
+    PL/SQL
+    pl/sql
+  
+  
+    philosophy
+  
+  
+    policies
+  
+  
+    Project Management
+  
+  
+    Quality
+    quality
+  
+  
+    QA
+  
+  
+    Express
+  
+  
+    Rational Rose
+  
+  
+    RDBMS
+  
+  
+    Report writing
+  
+  
+    reporting
+    Reporter
+  
+  
+    requirements gathering
+  
+  
+    Sales
+    sales
+  
+  
+    SAP
+  
+  
+    SAP BW
+    SAP BW 3.5
+    SAP BW 7.0
+  
+  
+    servers
+  
+  
+    scripts
+  
+  
+    Siebel
+  
+  
+    specification
+  
+  
+    Sql server
+    sql
+    SQL Plus
+    SQL plus
+    SQL Server
+    SQL server
+    SQL
+  
+  
+    SQL Server 2000
+  
+  
+    strategy
+  
+  
+    Supervisor
+  
+  
+    tables
+  
+  
+    technical documentation
+  
+  
+    TOAD
+  
+  
+    UNIX
+    Unix
+  
+  
+    Unix shell scripting
+  
+  
+    upgrade
+  
+  
+    VB Script
+  
+  
+    view
+  
+  
+    Visio
+  
+  
+    Microsoft Visual Studio
+  
+  
+    VM
+  
+  
+    Web Intelligence 2.6
+    Web Intelligence
+    Web intelligence
+  
+  
+    Work-flow
+  
+  
+    writer
+  
+  
+    annual reports
+  
+
+

@@ -1,0 +1,316 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734597' xml:space='preserve'><contact><address lat='37.6765' lon='122.482' majorcity='DALY CITY' state='CA'><street>1Yuri Galashov</street> 
+<city>Daly City</city>, <state abbrev='CA'>CA</state> <postalcode>94015</postalcode></address>							
+Cell:	<phone type='cell'>415-307-8982</phone>
+Email:	<email>ygalashov@yahoo.com</email></contact>
+
+__________________________________________________________________
+
+<summary>SR. SOFTWARE QA ENGINEER
+
+SUMMARY OF QUALIFICATIONS:
+*	<summary>12+ years of experience in testing Windows and Web applications at all stages of SDLC 
+*	Strong knowledge of Software QA methodology, Agile, Scrum and Waterfall development
+models 
+*	Understanding of web technologies and architecture, experience in black/grey/white box
+testing
+*	Excellent organizational, analytical, time management, interpersonal and communication
+skills
+*	Ability to multi-task, adapt and operate in fast paced environment with changing
+priorities
+*	Willingness to learn application architecture to support more effective testing</summary></summary>
+
+<skills>TECHNICAL SUMMARY:
+<skills>Platforms:		Windows 7/Vista/XP, MAC OS and UNIX/LINUX
+Languages:		Java/J2EE, C++, HTML, JavaScript, SQL, XML, HL7 
+Test Automation:	Selenium, SilkTest, QuickTest Pro, JMeter, TestComplete 
+Database:		Oracle, MS SQL Server, MS Access
+Test management:	HP Quality Center/Test Director
+Protocols:		TCP/IP, FTP, HTTP
+Other:	Visual Studio, Remedy, ClearQuest, Continuous Tracker, Bugzilla, TeamCity,
+YouTrack, FireBug</skills></skills>
+
+<experience end='present' start='729847'>PROFESSIONAL EXPERIENCE:
+
+<job end='present' id='1' naics='44312001' naics2='44' pos='1' sic='573407' sic2='57' start='734474'><daterange><start days='734474' iso8601='2011-12-01'>12/11</start> - <end days='present' iso8601='2012-04-02'>Present</end></daterange>		<title>Lead QA Engineer</title>, <employer>Hewlett-Packard</employer>, <address><city>Palo Alto</city>, <state abbrev='CA'>CA</state></address>
+*	<description>Develop and lead QA processes for configuration, submission, processing, printing and
+delivery of orders via HP label and packaging order automation service within diversified
+developing team 
+*	Execute functional testing of products in agile environment using test driven
+development model
+*	Conduct white box and grey box testing, write and review  test scenarios and test
+scripts  
+*	Design and execute test plans, test cases, analyze requirements for ambiguities
+*	Maintain test demographics, create work flow diagrams and matrices, plan for
+localization testing
+*	Write, modify and execute SQL queries for integrated applications
+*	Execute initial manual testing of new features, architect and implement automation 
+*	Create, log and track defect reports through YouTrack, verified bug fixes
+*	Design and execute automated testing with Selenium test framework
+*	Identify missing test cases and refine existing scripts for modularity and automation</description></job> 
+
+
+<job end='present' id='2' pos='2' start='733196'><daterange><start days='733196' iso8601='2008-06-01'>06/08</start> - <end days='present' iso8601='2012-04-02'>Present</end></daterange>		<title>QA Senior Analyst</title>, <employer>Dugsbery, Inc</employer>., <address><city>Novato</city>, <state abbrev='CA'>CA</state></address>
+*	<description>Reviewed functional specifications to ensure complete testing coverage of web-based
+application.
+*	Identified missing test cases and refined existing scripts for modularity and
+automation 
+*	Estimated and prioritized QA activities for optimal risk mitigation and identified risk
+based regression
+*	Provided feedback for technical assessment of development work product, and tools used
+*	Allocated workload across internal testers and external elastic QA resources, including
+off-shore team
+*	Collaborated with engineering, product and business teams to achieve measurable results</description></job>
+
+<job end='733196' id='3' naics='62111107' naics2='62' pos='3' sic='641112' sic2='64' start='730973'><daterange><start days='730973' iso8601='2002-05-01'>05/02</start> - <end days='733196' iso8601='2008-06-01'>06/08</end></daterange>		<title>Senior/Lead QA Engineer</title>, <employer>Kaiser Permanente</employer>, <address><city>Emeryville</city>, <state abbrev='CA'>CA</state></address>
+*	<description>Led team of eight testers in performing system testing of integrated management scheme
+*	Performed hands-on testing of web-based and legacy emergency care applications
+*	Ran workflow integration and regression tests with end-to-end flow of data and multiple
+systems, interfaces, batch jobs and procedures in compliance with time constraints
+*	Managed development, execution and communication of entire project lifecycle
+*	Maintained open communication with project stakeholders to resolve issues
+*	Supported use of streamlined processes, standardized automation testing strategy
+*	Provided analysis and diagnosis of identified software defects for development review
+*	Modified test scripts for automated suites, wrote and monitored automated tests
+*	Worked with product managers and developers to translate requirements into design that
+could be implemented in code for action
+*	Maintained schedule and resource allocation of onshore and offshore teams</description></job>
+
+<job end='730884' id='4' pos='4' start='730639'><daterange><start days='730639' iso8601='2001-06-01'>6/01</start> - <end days='730884' iso8601='2002-02-01'>2/02</end></daterange>		<title>Quality Assurance Engineer</title>, Ensera, <address><city>Redwood Shores</city>, <state abbrev='CA'>CA</state></address>
+*	<description>Tested e-communication for Internet- and CD-based products for a variety of platforms
+that provided information transfer and digital and electronic file management
+*	Analyzed users' requests interacted with users to stay abreast of their needs
+*	Extracted relevant data from relational databases, proprietary tools and transactional
+logs
+*	Worked with development and operations teams to assess delivered products
+*	Provided project team with testing progress and continuous risk assessment
+*	Designed/performed black and gray box tests for UI functionality and usability
+*	Participated in product requirement document review meetings
+*	Wrote and executed SQL queries for backend testing
+*	Tested database update scripts with respect to constraints and order of operations
+*	Established system test environments and regression test suites
+*	Verified communication and interface with imaging applications
+*	Created and customized database-driven learning materials of end-to-end open system
+*	Reviewed product documentation and wrote knowledge-based technical documentation
+*	Assisted in producing functional specs, design specs, business requirements</description></job>
+
+<job end='730639' id='5' pos='5' sic='359903' sic2='35' start='729847'><daterange><start days='729847' iso8601='1999-04-01'>4/99</start> - <end days='730639' iso8601='2001-06-01'>6/01</end></daterange>		<title>Software QA Engineer</title>, <employer>Ultimate Technology, Inc</employer>., <address><city>San Jose</city>, <state abbrev='CA'>CA</state></address>
+*	<description>Performed gray and black box testing on both UNIX and Windows platforms for multiple
+products
+*	Provided demo of newly developed functions throughout the cycle of design, development
+and delivery of the Web-based application that provided high-powered, end-to-end
+networking services
+*	Supported IT team validating production defects, drove root cause to validate
+resolution
+*	Performed detailed analysis of test results and adjusted test cases accordingly
+*	Analyzed test results to ensure existing functionality and recommended corrective
+action
+*	Maintained test documentation to plan and execute debugging and modification of
+software
+*	Reviewed requirements, system designs to identify gaps and design defects
+*	Executed system, integration, acceptance tests, hardware/software setup
+*	Debriefed testing results with development, ensured resolution of issues and user
+training
+*	Prepared hierarchical outline of individual tests and groups of tests
+*	Identified test cases amenable for automation, led implementation of automated test
+*	Reviewed User's manuals, Operations manuals, training materials, online help
+*	Worked with clients during testing, identified, logged and managed bugs</description></job></experience>
+
+<education>EDUCATION &amp; TRAINING:
+<school id='6'><degree level='16' name='Bachelor of Arts'>BA</degree> in <major code='2903'>Mathematical Linguistics</major>, <institution>Odessa State University</institution>, <address><country iso3='UKR'>Ukraine</country></address> 
+<courses>Silk Certified Engineer, Segue Certified Training Course
+Advanced Quality Assurance Engineering, Computer Educational Center, CA
+C++ programming</courses>, <institution>City College of San</institution> <address><city>Francisco</city>, <state abbrev='CA'>CA</state></address></school></education>
+
+<references>REFERENCES AVAILABLE UPON REQUEST</references>
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='agile' start='734474'>
+    <variant>agile</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='architecture' start='734474'>
+    <variant>architect</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,3,5' idrefs='1,2,3,5' lastused='2012' name='automation' start='729847'>
+    <variant>Automation</variant>
+    <variant>automation</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='6' idrefs='6' name='c + +'>
+    <variant>C++</variant>
+    <variant>C++ programming</variant>
+  </canonskill>
+  <canonskill end='730884' experience='1' expidrefs='4' idrefs='4' lastused='2002' name='cd' start='730639'>
+    <variant>CD</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='6' idrefs='6' name='computer associates packages'>
+    <variant>CA</variant>
+  </canonskill>
+  <canonskill end='730639' experience='1' expidrefs='5' idrefs='5' lastused='2001' name='computer hardware' start='729847'>
+    <variant>hardware</variant>
+  </canonskill>
+  <canonskill end='730639' experience='1' expidrefs='5' idrefs='5' lastused='2001' name='customer relations' start='729847'>
+    <variant>clients</variant>
+  </canonskill>
+  <canonskill end='730884' experience='1' expidrefs='4' idrefs='4' lastused='2002' name='database administration' start='730639'>
+    <variant>Database</variant>
+    <variant>database</variant>
+  </canonskill>
+  <canonskill end='730639' experience='1' expidrefs='5' idrefs='5' lastused='2001' name='debugging' start='729847'>
+    <variant>debugging</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,5' idrefs='1,5' lastused='2012' name='delivery' start='729847'>
+    <variant>delivery</variant>
+  </canonskill>
+  <canonskill end='733196' experience='1' expidrefs='3' idrefs='3' lastused='2008' name='diagnosis' start='730973'>
+    <variant>diagnosis</variant>
+  </canonskill>
+  <canonskill end='730884' experience='1' expidrefs='4,5' idrefs='4,5' lastused='2002' name='documentation' start='729847'>
+    <variant>documentation</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='6' idrefs='6' name='engineering'>
+    <variant>Engineer</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='features' start='734474'>
+    <variant>features</variant>
+  </canonskill>
+  <canonskill end='730884' experience='1' expidrefs='4' idrefs='4' lastused='2002' name='file management' start='730639'>
+    <variant>file management</variant>
+  </canonskill>
+  <canonskill name='ftp'>
+    <variant>FTP</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,4' idrefs='1,2,4' lastused='2012' name='functional' start='730639'>
+    <variant>functional</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='hewlett packard' start='734474'>
+    <variant>HP</variant>
+  </canonskill>
+  <canonskill name='html'>
+    <variant>HTML</variant>
+  </canonskill>
+  <canonskill name='http'>
+    <variant>HTTP</variant>
+  </canonskill>
+  <canonskill end='730884' experience='1' expidrefs='4' idrefs='4' lastused='2002' name='imaging' start='730639'>
+    <variant>imaging</variant>
+  </canonskill>
+  <canonskill name='java'>
+    <variant>Java</variant>
+  </canonskill>
+  <canonskill name='javascript'>
+    <variant>JavaScript</variant>
+  </canonskill>
+  <canonskill name='languages'>
+    <variant>Languages</variant>
+  </canonskill>
+  <canonskill name='linux'>
+    <variant>LINUX</variant>
+  </canonskill>
+  <canonskill name='macintosh os'>
+    <variant>MAC OS</variant>
+  </canonskill>
+  <canonskill end='730884' experience='1' expidrefs='4' idrefs='4' lastused='2002' name='materials management' start='730639'>
+    <variant>materials</variant>
+  </canonskill>
+  <canonskill end='730884' experience='1' expidrefs='4' idrefs='4' lastused='2002' name='meeting facilitation' start='730639'>
+    <variant>meetings</variant>
+  </canonskill>
+  <canonskill name='microsoft access'>
+    <variant>MS Access</variant>
+  </canonskill>
+  <canonskill end='730639' experience='1' expidrefs='5' idrefs='5' lastused='2001' name='microsoft windows' start='729847'>
+    <variant>Windows 7</variant>
+    <variant>Windows</variant>
+  </canonskill>
+  <canonskill end='730639' experience='1' expidrefs='5' idrefs='5' lastused='2001' name='networking' start='729847'>
+    <variant>networking</variant>
+  </canonskill>
+  <canonskill end='730639' experience='1' expidrefs='5' idrefs='5' lastused='2001' name='online help' start='729847'>
+    <variant>online help</variant>
+  </canonskill>
+  <canonskill name='oracle'>
+    <variant>Oracle</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='packaging' start='734474'>
+    <variant>packaging</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,3' idrefs='1,3' lastused='2012' name='process engineering' start='730973'>
+    <variant>processes</variant>
+  </canonskill>
+  <canonskill end='730884' experience='1' expidrefs='4' idrefs='4' lastused='2002' name='production' start='730639'>
+    <variant>producing</variant>
+  </canonskill>
+  <canonskill end='730884' experience='1' expidrefs='4' idrefs='4' lastused='2002' name='progress' start='730639'>
+    <variant>progress</variant>
+  </canonskill>
+  <canonskill name='protocols'>
+    <variant>Protocols</variant>
+  </canonskill>
+  <canonskill name='quality'>
+    <variant>Quality</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='6' end='734579' experience='1' expidrefs='1,2' idrefs='1,2,6' lastused='2012' name='quality control' start='733196'>
+    <variant>QA</variant>
+    <variant>Quality Assurance</variant>
+  </canonskill>
+  <canonskill end='730884' experience='1' expidrefs='4' idrefs='4' lastused='2002' name='relational databases' start='730639'>
+    <variant>relational databases</variant>
+  </canonskill>
+  <canonskill end='730884' experience='1' expidrefs='4' idrefs='4' lastused='2002' name='requirements' start='730639'>
+    <variant>requirement</variant>
+  </canonskill>
+  <canonskill end='730884' experience='1' expidrefs='4' idrefs='4' lastused='2002' name='risk assessment' start='730639'>
+    <variant>risk assessment</variant>
+  </canonskill>
+  <canonskill end='733196' experience='1' expidrefs='3' idrefs='3' lastused='2008' name='scheme' start='730973'>
+    <variant>scheme</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,3,4' idrefs='1,2,3,4' lastused='2012' name='shell scripting' start='730639'>
+    <variant>scripts</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='6' idrefs='6' name='silk performer'>
+    <variant>Silk</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,4' idrefs='1,4' lastused='2012' name='sql' start='730639'>
+    <variant>MS SQL Server</variant>
+    <variant>SQL</variant>
+  </canonskill>
+  <canonskill end='733196' experience='1' expidrefs='3' idrefs='3' lastused='2008' name='strategic' start='730973'>
+    <variant>strategy</variant>
+  </canonskill>
+  <canonskill name='tcp/ip'>
+    <variant>TCP/IP</variant>
+  </canonskill>
+  <canonskill end='730639' experience='1' expidrefs='5' idrefs='5' lastused='2001' name='technical training' start='729847'>
+    <variant>user
+training</variant>
+  </canonskill>
+  <canonskill end='730884' experience='1' expidrefs='4' idrefs='4' lastused='2002' name='technical writing' start='730639'>
+    <variant>technical documentation</variant>
+  </canonskill>
+  <canonskill name='test director'>
+    <variant>Test Director</variant>
+  </canonskill>
+  <canonskill end='730639' experience='1' expidrefs='5' idrefs='5' lastused='2001' name='training materials' start='729847'>
+    <variant>training materials</variant>
+  </canonskill>
+  <canonskill end='730639' experience='1' expidrefs='5' idrefs='5' lastused='2001' name='unix' start='729847'>
+    <variant>UNIX</variant>
+  </canonskill>
+  <canonskill name='vista'>
+    <variant>Vista</variant>
+  </canonskill>
+  <canonskill name='visual studio'>
+    <variant>Visual Studio</variant>
+  </canonskill>
+  <canonskill end='733196' experience='1' expidrefs='3' idrefs='3' lastused='2008' name='workflow analysis' start='730973'>
+    <variant>workflow</variant>
+  </canonskill>
+  <canonskill name='xml'>
+    <variant>XML</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

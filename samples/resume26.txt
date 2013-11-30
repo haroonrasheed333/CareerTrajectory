@@ -1,0 +1,176 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734580' xml:space='preserve'>                                          <contact><name><givenname>DANIEL</givenname> <surname>MALMER</surname></name>
+                              Belmont, California | <email>malmer@malmer.com</email></contact>
+<summary>OBJECTIVE
+<objective>To obtain a position in software management where I can use my experience with cross platform
+development and software development processes to deliver outstanding software products.</objective>
+PROFESSIONAL PROFILE
+<summary>Well-rounded, versatile software professional who has shipped world-class software to millions of
+customers. Dedication to repeatable process, best practices and definable metrics to ensure on-time and
+low-defect deliverables. Excellent technical capabilities as well as business skills, engineering/project
+management and talent acquisition. Broad range of technical knowledge and established track record of
+learning new technologies quickly and making an immediate impact. Experience with both large
+organizations and startup environments. Good communication skills, able to work independently or
+direct the efforts of a team.</summary></summary>
+<skills>LANGUAGES &amp; TECHNOLOGIES
+<skills>C/C++, Windows/Mac/Linux, Open Source, VOIP, Android OS, PHP, Python/Django, Java/JSP,
+C#/ASP.NET, HTML/CSS/JavaScript, SQL, Facebook API, various other web technologies.</skills></skills>
+<experience end='present' start='728661'>PROFESSIONAL EXPERIENCE
+<job end='present' id='1' pos='1' start='733775'><employer>Sgiggle, Inc</employer>, <address lat='37.4433' lon='-122.15' majorcity='PALO ALTO' state='CA'><city>Palo Alto</city>, <state abbrev='CA'>CA</state></address>                                                              <daterange><start days='733775' iso8601='2010-01-01'>2010</start> - <end days='present' iso8601='2012-03-16'>Present</end></daterange>
+<title>Sr. Software Engineer</title>
+    · <description>Developed a video chat application for mobile devices on Android.</description></job>
+<job end='733775' id='2' pos='2' start='733044'><employer>Tentrex Systems</employer>, <address><city>Palo Alto</city>, <state abbrev='CA'>CA</state></address>                                                              <daterange><start days='733044' iso8601='2008-01-01'>2008</start> - <end days='733775' iso8601='2010-01-01'>2010</end></daterange>
+<description>Freelance Facebook Application Development
+    · Built Facebook applications using the Facebook API and Python/Django, HTML/FBML/CSS,
+        JavaScript/jQuery/FBJS, MySQL, Google Maps API, on Unix and Windows.</description></job>
+<job end='732679' id='3' pos='3' start='730488'><employer>Toltec Engineering</employer>, <address><city>Palo Alto</city>, <state abbrev='CA'>CA</state></address>                                                          <daterange><start days='730488' iso8601='2001-01-01'>2001</start> to <end days='732679' iso8601='2007-01-01'>2007</end></daterange>
+<title>Co-Founder, Chief Technical Officer, Principal Consultant</title>
+    · <description>Built a professional services company that provided engineering consulting services to a
+        number of clients including AOL, Netscape, PayPal, eBay and Netflix.
+    · Recruited, hired, managed team of 30 employees across multiple projects.
+    · Designed, planned, and developed AOL Communicator, a desktop email/instant messaging suite
+        that inspired Mozilla Thunderbird, using C++ and wxWidgets on Linux/Mac/Windows.
+    · Shipped last three versions of the Netscape Communicator web browser.</description></job>
+<job end='730122' id='4' pos='4' start='729757'><employer>Geocast Network Systems</employer>, <address><city>Menlo Park</city>, <state abbrev='CA'>CA</state></address>                                                    <daterange><start days='729757' iso8601='1999-01-01'>1999</start> to <end days='730122' iso8601='2000-01-01'>2000</end></daterange>
+<title>Member of Technical Staff</title>
+    · <description>Designed and built server software for a service that broadcast data over satellite and the ATSC
+        digital television spectrum using C/C++ on Linux.</description></job>
+<job end='729757' id='5' pos='5' sic='573407' sic2='57' start='728661'><employer>Netscape Communications</employer>, <address><city>Mountain View</city>, <state abbrev='CA'>CA</state></address>                                                 <daterange><start days='728661' iso8601='1996-01-01'>1996</start> to <end days='729757' iso8601='1999-01-01'>1999</end></daterange>
+<title>Member of Technical Staff</title>
+    · <description>Designed and implemented enterprise features for Navigator/Communicator web browsers
+        using C/C++ on various Unix platforms (Linux, SunOS, IRIX, HP-UX, OSF/1, etc.).</description></job></experience>
+<education>EDUCATION
+<school id='6'><institution>Stanford University</institution>, <address><city>Stanford</city>, <state abbrev='CA'>California</state></address>                <degree level='18' name='Master of Science'>Master of Science</degree> in <major code='0402'>Computer Science</major>, <completiondate days='728296' iso8601='1995-01-01'>1995</completiondate></school>
+<school id='7'><institution>University of Illinois</institution>, <address><city>Urbana</city>-Champaign, <state abbrev='IL'>Illinois</state></address>      <degree level='16' name='Bachelor of Science'>Bachelor of Science</degree> in <major code='0402'>Computer Science</major>, <completiondate days='726835' iso8601='1991-01-01'>1991</completiondate>
+                                                                                               <daterange><start days='733775' iso8601='2010-01-01'>2010</start>-<end days='732404' iso8601='2006-04-01'>04-06</end></daterange></school>-T</education>
+</resume>
+
+<skillrollup version='1'>
+  <canonskill name='.net'>
+    <variant>ASP.NET</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='america online' start='730488'>
+    <variant>AOL</variant>
+  </canonskill>
+  <canonskill end='733775' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='api' start='733044'>
+    <variant>API</variant>
+  </canonskill>
+  <canonskill end='733775' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='application development' start='733044'>
+    <variant>Application Development</variant>
+  </canonskill>
+  <canonskill end='730122' experience='1' expidrefs='4' idrefs='4' lastused='2000' name='broadcast' start='729757'>
+    <variant>broadcast</variant>
+  </canonskill>
+  <canonskill end='730122' experience='1' expidrefs='4,5' idrefs='4,5' lastused='2000' name='c' start='728661'>
+    <variant>C</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='3,4,5' idrefs='3,4,5' lastused='2007' name='c + +' start='728661'>
+    <variant>C++</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='consulting' start='730488'>
+    <variant>consulting</variant>
+  </canonskill>
+  <canonskill end='733775' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='css' start='733044'>
+    <variant>CSS</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='customer relations' start='730488'>
+    <variant>clients</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='email' start='730488'>
+    <variant>email</variant>
+  </canonskill>
+  <canonskill end='729757' experience='1' expidrefs='5' idrefs='5' lastused='1999' name='features' start='728661'>
+    <variant>features</variant>
+  </canonskill>
+  <canonskill end='733775' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='freelance graphics' start='733044'>
+    <variant>Freelance</variant>
+  </canonskill>
+  <canonskill end='729757' experience='1' expidrefs='5' idrefs='5' lastused='1999' name='hp - ux' start='728661'>
+    <variant>HP-UX</variant>
+  </canonskill>
+  <canonskill end='733775' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='html' start='733044'>
+    <variant>HTML</variant>
+  </canonskill>
+  <canonskill end='729757' experience='1' expidrefs='5' idrefs='5' lastused='1999' name='irix' start='728661'>
+    <variant>IRIX</variant>
+  </canonskill>
+  <canonskill name='java'>
+    <variant>Java</variant>
+  </canonskill>
+  <canonskill name='java server pages'>
+    <variant>JSP</variant>
+  </canonskill>
+  <canonskill end='733775' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='javascript' start='733044'>
+    <variant>JavaScript</variant>
+  </canonskill>
+  <canonskill name='languages'>
+    <variant>LANGUAGES</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='3,4,5' idrefs='3,4,5' lastused='2007' name='linux' start='728661'>
+    <variant>Linux</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='macintosh' start='730488'>
+    <variant>Mac</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='messaging' start='730488'>
+    <variant>messaging</variant>
+  </canonskill>
+  <canonskill name='microsoft c #'>
+    <variant>C#</variant>
+  </canonskill>
+  <canonskill end='733775' experience='1' expidrefs='2,3' idrefs='2,3' lastused='2010' name='microsoft windows' start='730488'>
+    <variant>Windows</variant>
+  </canonskill>
+  <canonskill end='733775' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='mysql' start='733044'>
+    <variant>MySQL</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='netscape' start='730488'>
+    <variant>Netscape</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='3,5' idrefs='3,5' lastused='2007' name='netscape communicator' start='728661'>
+    <variant>Netscape Communicator</variant>
+    <variant>Communicator</variant>
+  </canonskill>
+  <canonskill end='729757' experience='1' expidrefs='5' idrefs='5' lastused='1999' name='netscape enterprise server' start='728661'>
+    <variant>enterprise</variant>
+  </canonskill>
+  <canonskill end='729757' experience='1' expidrefs='5' idrefs='5' lastused='1999' name='netscape navigator' start='728661'>
+    <variant>Navigator</variant>
+  </canonskill>
+  <canonskill name='operating systems'>
+    <variant>OS</variant>
+  </canonskill>
+  <canonskill end='729757' experience='1' expidrefs='5' idrefs='5' lastused='1999' name='osf' start='728661'>
+    <variant>OSF</variant>
+  </canonskill>
+  <canonskill name='php'>
+    <variant>PHP</variant>
+  </canonskill>
+  <canonskill end='733775' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='python' start='733044'>
+    <variant>Python</variant>
+  </canonskill>
+  <canonskill name='sql'>
+    <variant>SQL</variant>
+  </canonskill>
+  <canonskill end='729757' experience='1' expidrefs='5' idrefs='5' lastused='1999' name='sunos' start='728661'>
+    <variant>SunOS</variant>
+  </canonskill>
+  <canonskill end='730122' experience='1' expidrefs='4' idrefs='4' lastused='2000' name='television' start='729757'>
+    <variant>television</variant>
+  </canonskill>
+  <canonskill end='733775' experience='1' expidrefs='2,5' idrefs='2,5' lastused='2010' name='unix' start='728661'>
+    <variant>Unix</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='video' start='733775'>
+    <variant>video</variant>
+  </canonskill>
+  <canonskill name='voip'>
+    <variant>VOIP</variant>
+  </canonskill>
+  <canonskill end='729757' experience='1' expidrefs='5' idrefs='5' lastused='1999' name='web browsers' start='728661'>
+    <variant>web browsers</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

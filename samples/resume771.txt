@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734597' xml:space='preserve'> <contact><address lat='34.1473' lon='118.433' majorcity='SHERMAN OAKS' state='CA'><street>4500 Woodman Ave</street>
+<city>Sherman Oaks</city>, <state abbrev='CA'>CA</state> <postalcode>91423</postalcode></address>
+<email>Suzan11080@yahoo.com</email>
+				<phone>818-621-3671</phone>                         
+<name><givenname>Sulafa</givenname> <surname>Alhunaty</surname></name></contact>											__
+<summary>Objective:
+	     <objective>I am an enthusiastic, goal and detail oriented individual who is looking to obtain
+a position with a professional firm where I can use my knowledge and experience to serve
+the company to the highest level.</objective></summary>
+<skills>Skills:
+<skills>v	Great writing and organizational skills
+v	Experienced in using Microsoft word, Excel and outlook
+v	Computer and Internet literate
+v	Outstanding people and customer service skills
+v	Hired and trained new staff members
+v	Supervised call center 
+	v	Team player attitude</skills></skills>
+<experience end='present' start='731338'>Experience:
+	 <job end='present' id='1' pos='1' start='731614'><jobtype>Self Employed</jobtype>							         		    <daterange><start days='731614' iso8601='2004-02-01'>02/2004</start>-<end days='present' iso8601='2012-04-02'>Present</end></daterange>
+	 <employer>eBay Retailer</employer>							     	            <address><city>Sherman Oaks</city>, <state abbrev='CA'>CA</state></address>
+               <employer>8 Buy</employer>, Market and sell a product to variety of customers
+	   8 Create, list and upload pictures for each item
+	   8 Do some eBay research for price comparison
+	   8    Offering one or more items for sale for a specified number of days
+    8 Establish a reserve price
+    8 <description>Offering one or more items for sale at a Buy It Now price 
+               8 Communicate and answer all customers e-mails promptly
+               8 Ship all items out to the winner
+	8 Make sure all customers are completely satisfied for a positive feedback</description></job> 
+
+	 <job end='733987' id='2' pos='2' sic='6141' sic2='61' start='733013'><employer>Trading Financial Credit LLC</employer>.		       		      	        		   <daterange><start days='733013' iso8601='2007-12-01'>12/2007</start>-<end days='733987' iso8601='2010-08-01'>08/2010</end></daterange>
+             <title>Assistant Manager</title> (<department>Collection Dept.</department>)		                                		  
+<address><city>Los Angeles</city>, <state abbrev='CA'>CA</state></address>       <description>8 Handling high volume of incoming / outgoing collection calls
+               8    Make out bound calls on past due accounts
+    8 Monitor front end / back end collection accounts
+    8 Assigned accounts over 30 days past due for repossession
+    8 Assisted Manager with reports and projects 
+    8 Handled difficult accounts for the dept. 
+    8 Responsible for past due accounts from 5-119 days 
+	   8 Skip Tracing</description></job> 
+
+	 <job end='732738' id='3' pos='3' sic='723101' sic2='72' start='732314'><employer>Thibiant International</employer>                                                                 
+       		   <daterange><start days='732314' iso8601='2006-01-01'>01/2006</start>-<end days='732738' iso8601='2007-03-01'>03/2007</end></daterange>	 <title>Project Coordinator</title>                                          
+                             		    <address><city>Chatsworth</city>, <state abbrev='CA'>CA</state></address>                                         
+                                                            
+    8 <description>Create charts for organizational purposes
+    8 Assisting the Research and Development directors 
+    8 Organizing presentations on charts and Lab work orders
+    8 Entering procedures and formulas for chemists in QAD</description></job>
+
+	 <job end='732314' id='4' pos='4' sic='822101' sic2='82' start='731338'><employer>Casa Loma College</employer>                                                                      
+   		   <daterange><start days='731338' iso8601='2003-05-01'>05/2003</start>-<end days='732314' iso8601='2006-01-01'>01/2006</end></daterange>                                         
+ <title>Administrative Assistant / Director's Assistant</title>                                         
+       <description>Van Nuys, CA            	   8 Data Entry	
+    	   8    In charge of preparing all paperwork for graduates
+    8 Manage and Coordinate Events and Graduation
+    8 Answering heavy incoming calls</description></job></experience>
+<education>Education:
+*	Working on a <school id='5'><degree level='16'>Bachelors Degree</degree> in <major code='4304'>Fashion Marketing</major>
+*	 <institution>Los Angeles Valley College</institution>, <address><city>Valley Glen</city>, <state abbrev='CA'>CA</state></address> - <degree level='14' name='Associate of Arts'>AA Degree</degree></school></education>
+<references>References:
+  References Available upon request</references>
+</resume>
+
+<skillrollup version='1'>
+  <canonskill name='call center'>
+    <variant>call center</variant>
+  </canonskill>
+  <canonskill end='732738' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='charts' start='732314'>
+    <variant>charts</variant>
+  </canonskill>
+  <canonskill end='732314' experience='1' expidrefs='4' idrefs='4' lastused='2006' name='computer associates packages' start='731338'>
+    <variant>CA            	   8</variant>
+  </canonskill>
+  <canonskill name='customer service skills'>
+    <variant>customer service skills</variant>
+  </canonskill>
+  <canonskill end='732314' experience='1' expidrefs='4' idrefs='4' lastused='2006' name='data entry' start='731338'>
+    <variant>Data Entry</variant>
+  </canonskill>
+  <canonskill name='internet software'>
+    <variant>Internet literate</variant>
+  </canonskill>
+  <canonskill name='microsoft excel'>
+    <variant>Excel</variant>
+  </canonskill>
+  <canonskill name='microsoft outlook'>
+    <variant>outlook</variant>
+  </canonskill>
+  <canonskill name='microsoft word'>
+    <variant>Microsoft word</variant>
+  </canonskill>
+  <canonskill end='732738' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='organizational skills' start='732314'>
+    <variant>organizational skills</variant>
+    <variant>Organizing</variant>
+    <variant>organizational</variant>
+  </canonskill>
+  <canonskill end='732738' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='presentation skills' start='732314'>
+    <variant>presentations</variant>
+  </canonskill>
+  <canonskill end='732738' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='research' start='732314'>
+    <variant>Research</variant>
+  </canonskill>
+  <canonskill name='teamwork'>
+    <variant>Team player</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

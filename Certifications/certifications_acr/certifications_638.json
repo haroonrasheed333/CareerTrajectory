@@ -1,0 +1,40 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CMAR", 
+            "Certification Name": "Certified Manager of Animal Resources", 
+            "Type": "Advanced", 
+            "Certification ID": "4572", 
+            "Certifying Organization": "Institute of Certified Professional Managers"
+        }, 
+        {
+            "Acronym": "LATG", 
+            "Certification Name": "Laboratory Animal Technologist", 
+            "Type": "Advanced", 
+            "Certification ID": "2368", 
+            "Certifying Organization": "American Association for Laboratory Animal Science"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Board Certified in Animal Food Science", 
+            "Type": "Advanced", 
+            "Certification ID": "9375", 
+            "Certifying Organization": "American Registry of Professional Animal Scientists"
+        }, 
+        {
+            "Acronym": "LAT", 
+            "Certification Name": "Laboratory Animal Technician", 
+            "Type": "Core", 
+            "Certification ID": "2369", 
+            "Certifying Organization": "American Association for Laboratory Animal Science"
+        }, 
+        {
+            "Acronym": "EFM", 
+            "Certification Name": "Level - 4 Equine Facility Manager Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "4234", 
+            "Certifying Organization": "Certified Horsemanship Association"
+        }
+    ], 
+    "onet": "45101108"
+}

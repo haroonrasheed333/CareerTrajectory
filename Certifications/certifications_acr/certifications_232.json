@@ -1,0 +1,19 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CBM", 
+            "Certification Name": "Certified Broadcast Meteorologist", 
+            "Type": "Advanced", 
+            "Certification ID": "3920", 
+            "Certifying Organization": "American Meteorological Society"
+        }, 
+        {
+            "Acronym": "CCM", 
+            "Certification Name": "Certified Consulting Meteorologist", 
+            "Type": "Core", 
+            "Certification ID": "0119", 
+            "Certifying Organization": "American Meteorological Society"
+        }
+    ], 
+    "onet": "19202100"
+}

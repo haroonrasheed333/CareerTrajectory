@@ -1,0 +1,33 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "VA-BC", 
+            "Certification Name": "Vascular Access-Board Certified", 
+            "Type": "Core", 
+            "Certification ID": "9533", 
+            "Certifying Organization": "Vascular Access Certification Corporation"
+        }, 
+        {
+            "Acronym": "CAC", 
+            "Certification Name": "Certified Alzheimer Caregiver", 
+            "Type": "Specialty", 
+            "Certification ID": "8681", 
+            "Certifying Organization": "National Certification Board for Alzheimer Care"
+        }, 
+        {
+            "Acronym": "CHT", 
+            "Certification Name": "Certified Hemodialysis Technologist/Technician", 
+            "Type": "Core", 
+            "Certification ID": "9492", 
+            "Certifying Organization": "Board of Nephrology Examiners Technology Nursing"
+        }, 
+        {
+            "Acronym": "CAEd", 
+            "Certification Name": "Certified Alzheimer Educator", 
+            "Type": "Specialty", 
+            "Certification ID": "8682", 
+            "Certifying Organization": "National Certification Board for Alzheimer Care"
+        }
+    ], 
+    "onet": "31909900"
+}

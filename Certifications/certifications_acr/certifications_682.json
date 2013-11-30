@@ -1,0 +1,89 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CHMM", 
+            "Certification Name": "Certified Hazardous Materials Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "0920", 
+            "Certifying Organization": "Institute of Hazardous Materials Management"
+        }, 
+        {
+            "Acronym": "CMP", 
+            "Certification Name": "Certified Mold Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "4011", 
+            "Certifying Organization": "Restoration Industry Association"
+        }, 
+        {
+            "Acronym": "RHSS", 
+            "Certification Name": "Registered Hazardous Substances Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "0125", 
+            "Certifying Organization": "National Environmental Health Association"
+        }, 
+        {
+            "Acronym": "RET", 
+            "Certification Name": "Registered Environmental Technician", 
+            "Type": "Core", 
+            "Certification ID": "0126", 
+            "Certifying Organization": "National Environmental Health Association"
+        }, 
+        {
+            "Acronym": "CHMP", 
+            "Certification Name": "Certified Hazardous Materials Practitioner", 
+            "Type": "Core", 
+            "Certification ID": "6032", 
+            "Certifying Organization": "Institute of Hazardous Materials Management"
+        }, 
+        {
+            "Acronym": "CHCM", 
+            "Certification Name": "Certified Hazard Control Manager", 
+            "Type": "Specialty", 
+            "Certification ID": "7878", 
+            "Certifying Organization": "International Board for Certification of Safety Managers"
+        }, 
+        {
+            "Acronym": "WSO-CHMT", 
+            "Certification Name": "WSO - Certified Hazardous Materials Technician Level II", 
+            "Type": "Advanced", 
+            "Certification ID": "1010", 
+            "Certifying Organization": "World Safety Organization"
+        }, 
+        {
+            "Acronym": "WSO-CHMS", 
+            "Certification Name": "WSO - Certified Hazardous Materials Supervisor", 
+            "Type": "Specialty", 
+            "Certification ID": "1011", 
+            "Certifying Organization": "World Safety Organization"
+        }, 
+        {
+            "Acronym": "WSO-CST", 
+            "Certification Name": "WSO - Certified Safety Technician", 
+            "Type": "Specialty", 
+            "Certification ID": "0999", 
+            "Certifying Organization": "World Safety Organization"
+        }, 
+        {
+            "Acronym": "CR", 
+            "Certification Name": "Certified Restorer", 
+            "Type": "Advanced", 
+            "Certification ID": "4012", 
+            "Certifying Organization": "Restoration Industry Association"
+        }, 
+        {
+            "Acronym": "WSO-CHMT", 
+            "Certification Name": "WSO - Certified Hazardous Materials Technician I", 
+            "Type": "Core", 
+            "Certification ID": "1009", 
+            "Certifying Organization": "World Safety Organization"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Hazardous Waste Incinerator Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "2156", 
+            "Certifying Organization": "American Society of Mechanical Engineers International"
+        }
+    ], 
+    "onet": "47404100"
+}

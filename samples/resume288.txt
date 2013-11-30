@@ -1,0 +1,122 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734591' xml:space='preserve'>    <contact><name><givenname>Timothy</givenname> <surname>Carlough</surname></name>
+<address lat='41.133' lon='73.7855' majorcity='PLEASANTVILLE' state='NY'><street>15 Old School Lane</street>
+<city>Pleasantville</city>, <state abbrev='NY'>NY</state> <postalcode>10570</postalcode></address>
+Phone: <phone>(914) 806-7432</phone>     Email: <email>carlought@gmail.com</email></contact>
+
+<education>Education 
+<school id='11'><institution>Lyndon State College</institution>, <address><city>Lyndonville</city>, <state abbrev='VT'>VT</state></address>
+<degree level='16' name='Bachelor of Science'>B.S</degree>. <major>Television Studies</major> with concentration in <major code='9303'>production</major>, <completiondate days='733895' iso8601='2010-05-01'>May 2010</completiondate></school></education>
+
+<skills>Software &amp; Production Proficiency in:
+
+<skills>Avid NewsCutter 
+Final Cut 
+Adobe premiere suite  
+DVC pro cameras
+HD cameras
+Garage Band			
+Non-linear editing 
+Microsoft Excel
+Microsoft Power Point
+Microsoft Word 
+Photoshop</skills></skills>
+
+
+<experience end='present' start='731583'>Television Experience 
+<job end='present' id='1' pos='2' sic='8211' sic2='82' start='734352'><title>Consultant</title>, <employer>Pleasantville Union Free School District</employer>, <daterange><start days='734352' iso8601='2011-08-01'>August 2011</start>-<end days='present' iso8601='2012-03-27'>present</end></daterange> 
+<description>Provide expertise and assistance to current Television Production students and Production Club at Pleasantville High School.  Filming and editing preformed when needed.</description></job> 
+
+<job end='734321' id='2' pos='3' sic='8211' sic2='82' start='734230'><employer>MSG Varsity, Pleasantville Union Free School District</employer>, <daterange><start days='734230' iso8601='2011-04-01'>April 2011</start>- <end days='734321' iso8601='2011-07-01'>July 2011</end></daterange> 
+<description>Led Pleasantville High School's Television Production Team in gathering interviews and filming varsity sports and school events. Wrote scripts and edited footage to produce final shows which were shown on MSG Varsity and Pleasantville Community Television.</description></job>     
+
+<job id='3' sic='8299' sic2='82' start='733500'><employer>Jacob Burns Film Center &amp; Media Arts Lab</employer>, <address><city>Pleasantville</city>, <state abbrev='NY'>NY</state></address>, <daterange><start days='733500' iso8601='2009-04-01'>Summer 2009</start></daterange>
+<description>Internship in World Crew Program - Part of a three-person team that conceived, wrote, filmed, and edited a documentary, &quot;Taiwan Next Door&quot; about Taiwanese immigrants in Queens, New York. Responsible for the sound work and filming of a major sequence in the film.</description></job> 
+
+<job end='733775' id='4' naics='51512001' naics2='51' pos='5' sic='822101' sic2='82' start='732679'><employer>News 7, Lyndon State College</employer>, <address><city>Lyndonville</city>, <state abbrev='VT'>VT</state></address> <daterange><start days='732679' iso8601='2007-01-01'>2007</start>-<end days='733775' iso8601='2010-01-01'>2010</end></daterange>
+<description>Contributed to daily half-hour newscast.  Filmed and edited stories on Northeast Vermont.                       Stories included book readings, town and school board meetings, and other community events.</description></job> 
+	
+<job id='5' start='731674'><employer>Jacob Burns Film Center</employer>, <address><city>Pleasantville</city>, <state abbrev='NY'>NY</state></address>, <daterange><start days='731674' iso8601='2004-04-01'>Summer 2004</start></daterange>
+<description>Participated in &quot;Unscripted&quot; class, which produced a documentary about a local clock maker.
+Responsible for filming and editing.</description></job>
+
+<job end='731949' id='6' pos='7' start='731583'><employer>Pleasantville Educational Channel</employer>, <daterange><start days='731583' iso8601='2004-01-01'>2004</start>-<end days='731949' iso8601='2005-01-01'>2005</end></daterange>
+<description>Filmed and edited Board of Education Meetings, school events, interviews and presentations.</description></job>
+
+<job id='7' sic='484101' sic2='48' start='731583'><employer>PCTV</employer> (<employer>Pleasantville Community Television</employer>), <daterange><start days='731583' iso8601='2004-01-01'>2004</start></daterange>
+<description>Filmed portions of Tsunami Fundraiser (Indian Ocean)
+
+Additional employment</description></job>  
+<job end='present' id='8' pos='1' start='734474'><title>Substitute teacher aide</title>, call-in, <employer>Pleasantville UFSD</employer>, <daterange><start days='734474' iso8601='2011-12-01'>12/11</start>-<end days='present' iso8601='2012-03-27'>present</end></daterange></job> 
+<job end='733683' id='9' pos='6' sic='541105' sic2='54' start='732434'><employer>Key Food</employer>, <address><city>Pleasantville</city>, <state abbrev='NY'>New York</state></address>, <department>Deli Department</department>, <daterange><start days='732434' iso8601='2006-05-01'>5/06</start>-<end days='733683' iso8601='2009-10-01'>10/09</end></daterange></job>
+<job end='733895' id='10' pos='4' sic='822101' sic2='82' start='733075'><employer>Lyndon State College</employer>, <department>Public Safety Department</department>, <title>Student Officer</title>, <daterange><start days='733075' iso8601='2008-02-01'>2/08</start>-<end days='733895' iso8601='2010-05-01'>5/10</end></daterange></job></experience>
+
+</resume>
+
+<skillrollup version='1'>
+  <canonskill name='adobe photoshop'>
+    <variant>Photoshop</variant>
+  </canonskill>
+  <canonskill name='adobe premiere'>
+    <variant>Adobe premiere</variant>
+  </canonskill>
+  <canonskill name='avid media composer'>
+    <variant>Avid</variant>
+  </canonskill>
+  <canonskill end='733775' experience='1' expidrefs='4' idrefs='4' lastused='2010' name='books' start='732679'>
+    <variant>book</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,5' idrefs='1,5' lastused='2012' name='editing' start='731674'>
+    <variant>editing</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='3' idrefs='3' name='film production' start='733500'>
+    <variant>film</variant>
+  </canonskill>
+  <canonskill end='733775' experience='1' expidrefs='4,6' idrefs='4,6' lastused='2010' name='meeting facilitation' start='731583'>
+    <variant>Meetings</variant>
+    <variant>meetings</variant>
+  </canonskill>
+  <canonskill name='microsoft excel'>
+    <variant>Microsoft Excel</variant>
+  </canonskill>
+  <canonskill name='microsoft powerpoint'>
+    <variant>Microsoft Power Point</variant>
+  </canonskill>
+  <canonskill name='microsoft word'>
+    <variant>Microsoft Word</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='3' idrefs='3' name='next' start='733500'>
+    <variant>Next</variant>
+  </canonskill>
+  <canonskill name='non - linear editing'>
+    <variant>Non-linear editing</variant>
+  </canonskill>
+  <canonskill name='photography'>
+    <variant>cameras</variant>
+  </canonskill>
+  <canonskill end='731949' experience='1' expidrefs='6' idrefs='6' lastused='2005' name='presentation skills' start='731583'>
+    <variant>presentations</variant>
+  </canonskill>
+  <canonskill end='734321' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='shell scripting' start='734230'>
+    <variant>scripts</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='3' idrefs='3' name='sound' start='733500'>
+    <variant>sound</variant>
+  </canonskill>
+  <canonskill end='733775' experience='1' expidrefs='4' idrefs='4' lastused='2010' name='stories' start='732679'>
+    <variant>Stories</variant>
+    <variant>stories</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='3' idrefs='3' name='taiwanese' start='733500'>
+    <variant>Taiwanese</variant>
+  </canonskill>
+  <canonskill end='734321' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='television' start='734230'>
+    <variant>Television</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='television production' start='734230'>
+    <variant>Television Production</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

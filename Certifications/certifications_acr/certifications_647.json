@@ -1,0 +1,33 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "PWS", 
+            "Certification Name": "Professional Wetland Scientist", 
+            "Type": "Advanced", 
+            "Certification ID": "1033", 
+            "Certifying Organization": "Society of Wetland Scientists"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Range Management Consultant", 
+            "Type": "Core", 
+            "Certification ID": "1315", 
+            "Certifying Organization": "Society for Range Management"
+        }, 
+        {
+            "Acronym": "WPIT", 
+            "Certification Name": "Wetland Professional in Training", 
+            "Type": "Advanced", 
+            "Certification ID": "1034", 
+            "Certifying Organization": "Society of Wetland Scientists"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Professional in Rangeland Management", 
+            "Type": "Advanced", 
+            "Certification ID": "3503", 
+            "Certifying Organization": "Society for Range Management"
+        }
+    ], 
+    "onet": "45401100"
+}

@@ -1,0 +1,19 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "FPC", 
+            "Certification Name": "Fisheries Professional Certified", 
+            "Type": "Advanced", 
+            "Certification ID": "8046", 
+            "Certifying Organization": "American Fisheries Society"
+        }, 
+        {
+            "Acronym": "FPE", 
+            "Certification Name": "Fisheries Professional Emeritus", 
+            "Type": "Advanced", 
+            "Certification ID": "8047", 
+            "Certifying Organization": "American Fisheries Society"
+        }
+    ], 
+    "onet": "11901303"
+}

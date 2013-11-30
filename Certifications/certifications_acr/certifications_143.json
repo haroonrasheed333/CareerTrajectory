@@ -1,0 +1,19 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CCDM", 
+            "Certification Name": "Certified Clinical Data  Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "6758", 
+            "Certifying Organization": "Society for Clinical Data Management"
+        }, 
+        {
+            "Acronym": "CBP", 
+            "Certification Name": "Certified Biometrics Professional", 
+            "Type": "Core", 
+            "Certification ID": "6046", 
+            "Certifying Organization": "Institute of Electrical and Electronics Engineers"
+        }
+    ], 
+    "onet": "15204101"
+}

@@ -1,0 +1,169 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734596' xml:space='preserve'><contact><name><givenname>KATHLEEN</givenname> <givenname>A</givenname>. <surname>BRITTELL</surname></name>
+<address lat='42.7833' lon='73.9386' majorcity='SCHENECTADY' state='NY'><street>3094 E. Old State Rd.</street> 
+<city>Schenectady</city>, <state abbrev='NY'>NY</state> <postalcode>12303</postalcode></address> 
+<phone>(518) 366-1258</phone> 
+<email>kabrittell@hotmail.com</email></contact> 
+<summary>CAREER PROFILE
+<objective>A highly equipped Administrative Assistant/Assistant Controller with experience in performing a variety of administrative, staff support, and accounting duties for a project oriented flooring construction company and has strong interpersonal and organizational skills with a strong ability to multitask a variety of challenges and responsibilities.</objective></summary>
+<skills>SKILLS AND PROFICIENCIES
+
+<skills>Microsoft Office (Word and Excel)
+Planning and Scheduling
+Accounting Software (Peachtree)
+Written Communication
+Purchasing
+Customer Service
+Inter-project Coordination
+Telephone Reception
+Research</skills></skills>
+<experience end='present' start='728296'>EMPLOYMENT HISTORY OR DUTIES AND ACCOMPLISHMENTS
+<job end='present' id='1' pos='1' sic='571305' sic2='57' start='729392'><employer>Landmark Flooring Concepts, Inc</employer>., <address><city>Albany</city>, <state abbrev='NY'>NY</state></address>    <daterange><start days='729392' iso8601='1998-01-01'>1998</start> - <end days='present' iso8601='2012-04-01'>Present</end></daterange>
+<title>Executive Administrative Assistant/Assistant Controller</title> 
+
+Contract Correspondence
+<description>Processing Change Orders
+Insurance Documentations and Requests 
+Process, Maintain and Job Cost All Purchases 
+Daily Interaction With Vendor Sales Reps 
+Update Daily Cash Report 
+Assist With Accounts Receivable Billing 
+Assist With Accounts Payable 
+Assist With General Ledger Maintenance 
+Assist With Payroll Process Through Outside Payroll Company 
+Prepare and Process Quarterly Financial Reports 
+Implemented The Use Of Computerized Accounting Package in 1998 
+Trained Personnel On Use Of Computers 
+Prepare Company Templates 
+Proficient in MS Word, Excel and Peachtree 
+Other Duties As Requested</description></job> 
+
+
+
+<job end='729392' id='2' pos='2' sic='516916' sic2='51' start='729027'><employer>Albany Molecular Research</employer>, <address><city>Albany</city>, <state abbrev='NY'>NY</state></address>    <daterange><start days='729027' iso8601='1997-01-01'>1997</start> - <end days='729392' iso8601='1998-01-01'>1998</end></daterange>
+<title>Accounting Assistant</title> 
+
+<description>Prepare and Processed Payroll for Over 90 Employees 
+Prepared and Executed Job-Costing Reports 
+Reconciled Bank and Investment Statements 
+Maintained Necessary Work Papers and Schedule of Maintenance For Quarterly  Financials 
+Updated Weekly Cash Report 
+Record Customer Invoices and Payment on a Daily Basis.</description></job> 
+
+
+
+
+<job end='729027' id='3' pos='3' sic='653108' sic2='65' start='728296'><employer>Mercer Management Inc</employer>., <address><city>Albany</city>, <state abbrev='NY'>NY</state></address>    <daterange><start days='728296' iso8601='1995-01-01'>1995</start> - <end days='729027' iso8601='1997-01-01'>1997</end></daterange>
+<title>Staff Accountant</title> 
+
+<description>Reconcile Bank and Trust Statements 
+Maintain Work Papers and Schedule Maintenance 
+Analyze, Maintain and Review General Ledger 
+Produce Financial Statements, Statement of Changes, Balance Sheets, Operating and                                                                  Comparative Statements. 
+Update Cash and Income Project Spreadsheets 
+Maintain Accounts Payable and Accounts Receivable 
+Prepare and Submit Quarterly Sales Tax Return 
+Prepare Monthly Financial Statement for Not-For-Profit Agency</description></job></experience>
+<education>EDUCATION
+<school id='4'><degree level='14'>Associate Degree</degree> in <major code='4001'>Accounting</major> - <institution>Bryant &amp; Stratton Business Inst</institution>., <address><city>Albany</city>, <state abbrev='NY'>NY</state></address> - <honors>Deans List '91 - '93</honors></school></education>
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='accounting' start='729392'>
+    <variant>Computerized Accounting</variant>
+  </canonskill>
+  <canonskill name='accounting software'>
+    <variant>Accounting Software</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,3' idrefs='1,3' lastused='2012' name='accounts payable' start='728296'>
+    <variant>Accounts Payable</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,3' idrefs='1,3' lastused='2012' name='accounts receivable' start='728296'>
+    <variant>Accounts Receivable</variant>
+  </canonskill>
+  <canonskill end='729027' experience='1' expidrefs='3' idrefs='3' lastused='1997' name='assets recovery' start='728296'>
+    <variant>Agency</variant>
+  </canonskill>
+  <canonskill end='729027' experience='1' expidrefs='3' idrefs='3' lastused='1997' name='balance sheet' start='728296'>
+    <variant>Balance Sheets</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='billing' start='729392'>
+    <variant>Billing</variant>
+  </canonskill>
+  <canonskill name='customer service'>
+    <variant>Customer Service</variant>
+  </canonskill>
+  <canonskill end='729392' experience='1' expidrefs='2' idrefs='2' lastused='1998' name='finance' start='729027'>
+    <variant>Financials</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,3' idrefs='1,3' lastused='2012' name='financial' start='728296'>
+    <variant>Financial</variant>
+  </canonskill>
+  <canonskill end='729027' experience='1' expidrefs='3' idrefs='3' lastused='1997' name='financial statements' start='728296'>
+    <variant>Financial Statements</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,3' idrefs='1,3' lastused='2012' name='general ledger' start='728296'>
+    <variant>General Ledger</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='insurance' start='729392'>
+    <variant>Insurance</variant>
+  </canonskill>
+  <canonskill end='729392' experience='1' expidrefs='2' idrefs='2' lastused='1998' name='job costing' start='729027'>
+    <variant>Job-Costing</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='microsoft excel' start='729392'>
+    <variant>Excel</variant>
+  </canonskill>
+  <canonskill name='microsoft office'>
+    <variant>Microsoft Office</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='microsoft word' start='729392'>
+    <variant>Word</variant>
+    <variant>MS Word</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='payroll processing' start='729027'>
+    <variant>Payroll</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='peachtree' start='729392'>
+    <variant>Peachtree</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='personnel' start='729392'>
+    <variant>Personnel</variant>
+  </canonskill>
+  <canonskill end='729027' experience='1' expidrefs='3' idrefs='3' lastused='1997' name='profit' start='728296'>
+    <variant>Profit</variant>
+  </canonskill>
+  <canonskill name='project management'>
+    <variant>project Coordination</variant>
+  </canonskill>
+  <canonskill name='purchasing'>
+    <variant>Purchasing</variant>
+  </canonskill>
+  <canonskill name='receptionist'>
+    <variant>Reception</variant>
+  </canonskill>
+  <canonskill name='research'>
+    <variant>Research</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,3' idrefs='1,3' lastused='2012' name='sales' start='728296'>
+    <variant>Sales</variant>
+  </canonskill>
+  <canonskill name='scheduling'>
+    <variant>Scheduling</variant>
+  </canonskill>
+  <canonskill end='729027' experience='1' expidrefs='3' idrefs='3' lastused='1997' name='spreadsheets' start='728296'>
+    <variant>Spreadsheets</variant>
+  </canonskill>
+  <canonskill end='729027' experience='1' expidrefs='3' idrefs='3' lastused='1997' name='tax planning' start='728296'>
+    <variant>Tax</variant>
+  </canonskill>
+  <canonskill name='telephone skills'>
+    <variant>Telephone</variant>
+  </canonskill>
+  <canonskill name='writing'>
+    <variant>Written Communication</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

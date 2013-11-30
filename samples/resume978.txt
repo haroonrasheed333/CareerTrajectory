@@ -1,0 +1,204 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734598' xml:space='preserve'><contact><name><givenname>KIM</givenname> <surname>THACKER</surname></name>
+<address lat='40' lon='83.0667' majorcity='COLUMBUS' state='OH'><street>2797 Bethel Rd</street>, <city>COLUMBUS</city>, <state abbrev='OH'>OH</state> <postalcode>43220</postalcode></address>
+<phone>614-538-8764</phone>, Ext 108</contact>
+
+
+<experience end='present' start='730547'>PROFESSIONAL EXPERIENCE
+
+
+<job end='present' id='1' pos='2' sic='7361' sic2='73' start='732769'><employer>Adecco Employment Agencies</employer>, <title>Contractor</title>, <address><state>Dublin</state>, <state abbrev='OH'>OH</state></address> (<daterange><start days='732769' iso8601='2007-04-01'>4/07</start>-<end days='present' iso8601='2012-04-03'>present</end></daterange></job>)
+
+<job end='present' id='2' naics='42421014' naics2='42' pos='1' sic='512203' sic2='51' start='732983'><employer>Cardinal Health</employer> - <address><state>Dublin</state>, <state abbrev='OH'>OH</state></address> (<daterange><start days='732983' iso8601='2007-11-01'>11/07</start>-<end days='present' iso8601='2012-04-03'>present</end></daterange>)
+<title>Information Analyst</title>, MDM, <department>Data Management Department</department>
+<description>Data research, database consolidation, data analysis and data cleansing. Use Purisma software program, Cardinal Health MDM UI, and Excel to; consolidate, enhance, relocate, and develop client files into a hierarchal structure for use by different departments within the company. Ensure data integrity within existing structures. Client internet research. Approve/note file merge data transfer between Purisma versions using Access database. Responsible for new hire orientation. Department/Operations Trainer and point of contact. Assist in developing Department Training Manual. Assign daily work to peers. Department Auditor. Schedule meetings for department. Inter-departmental communication through Microsoft Outlook, Microsoft Messenger. Self-supervised.</description></job>
+
+<job end='732983' id='3' naics='52211002' naics2='52' pos='3' sic='602101' sic2='60' start='732769'><employer>National City Bank</employer> - <address><city>Columbus</city>, <state abbrev='OH'>OH</state></address> (<daterange><start days='732769' iso8601='2007-04-01'>4/07</start>-<end days='732983' iso8601='2007-11-01'>11/07</end></daterange>)
+ATM/<department>Imaging Department and Proof Department</department>
+<description>ATM imaging and deposit corrections with ATM balancing software. Nightly reports, cash-outs, adjustments, file posting, company email communications and nightly balancing/closing procedures. faxing, copying and preparing incoming paperwork. Bank proof work/balancing on proof machine - encoding bank documents.</description></job> 
+
+
+<job end='732738' id='4' pos='4' sic='671201' sic2='67' start='732648'><employer>Alpine Banks of Colorado</employer>., <address><city>Denver</city>, <state abbrev='CO'>CO</state></address> (<daterange><start days='732648' iso8601='2006-12-01'>12/2006</start> - <end days='732738' iso8601='2007-03-01'>3/2007</end></daterange>)
+
+	<department>PROOF OPERATOR/Denver Item Processing Department</department>
+<description>Various forms of data entry. Sort through incoming batches of daily paper transactions delivered by couriers. Process batches through bank Proof Sorter machine. Research and correct invalid items, incomplete or unreadable bank information as well as Foreign Items. Balance debits and credits. Complete MICR corrections. Process validation and completed information transfer programs through bank intranet software. Direct bank interoffice mail. Re-package paper transactions for night courier pickup. Communication through Lotus Notes.</description></job> 
+
+
+<job end='732373' id='5' pos='5' sic='287301' sic2='28' start='730547'><employer>Ontario Harvest Plant Food, Inc</employer>., <address><city>Albion</city>, <state abbrev='NY'>NY</state></address> (<daterange><start days='730547' iso8601='2001-03-01'>3/2001</start> - <end days='732373' iso8601='2006-03-01'>3/2006</end></daterange> Plant Closed)
+
+	<title>OFFICE MANAGER</title>
+<description>Manage small office for retail bulk fertilizer distribution company. Administrative Assistant to owner. Customer and vendor assistance/correspondence. Internet product/supply ordering and regulation. Report, statement, form, survey &amp; collection letter design and distribution. Bookkeeping, banking, AR/AP, HR, invoicing, monthly billing, some aspects of payroll, IRA payments/reports, and some fiscal year-end duties. DOT and DEC reports, compliance and inspections. State/Federal Agency report compliance. General insurance audit compliance. Company records management, inventory control, pull and load customer orders and some product delivery. Tow Motor and Backhoe operation. Release Hazmat containers/railcars. Assist seasonal employees, co-manage up to 5 employees including office assistant. All general office duties. Peachtree Accountant 2005.</description></job></experience>
+<contact><name><givenname>KIM</givenname> <surname>THACER</surname></name>
+<address lat='40' lon='83.0667' majorcity='COLUMBUS' state='OH'><street>2797 Bethel Rd,</street>, <city>COLUMBUS</city>, <state abbrev='OH'>OH</state> <postalcode>43220</postalcode></address>
+<phone>614-538-8764</phone>, Ext 108</contact>
+
+
+
+
+
+<professional>SKILLS &amp; EDUCATION
+
+
+<description>Word, Excel and Outlook (2000, 2003, 2007). Access, Purisma, In-house company UI. Light Web Page Design, Microsoft Communicator and Yahoo Messenger, Lotus Notes, Email, Internet savvy
+Small Landlord (2004-2006), Auto Repossession Agent's Assistant (2002-2004), Ebay Seller 2006
+Poet; Artist; Nature lover
+Former Volunteer Board member of the New York Farm Bureau for 3 years (WNY Division)
+Two semesters with Bryant &amp; Stratton in Business Management (3.9) 2000
+Training experience, organized, responsible, great work ethic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2</description></professional>
+
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='732373' experience='1' expidrefs='5' idrefs='5' lastused='2006' name='accounting' start='730547'>
+    <variant>Accountant</variant>
+  </canonskill>
+  <canonskill end='732373' experience='1' expidrefs='5' idrefs='5' lastused='2006' name='administrative assistant' start='730547'>
+    <variant>Administrative Assistant</variant>
+  </canonskill>
+  <canonskill end='732373' experience='1' expidrefs='5' idrefs='5' lastused='2006' name='ap style' start='730547'>
+    <variant>AP</variant>
+  </canonskill>
+  <canonskill end='732373' experience='1' expidrefs='5' idrefs='5' lastused='2006' name='ar' start='730547'>
+    <variant>AR</variant>
+  </canonskill>
+  <canonskill end='732373' experience='1' expidrefs='5' idrefs='5' lastused='2006' name='assets recovery' start='730547'>
+    <variant>Agency</variant>
+  </canonskill>
+  <canonskill end='732983' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='atm' start='732769'>
+    <variant>ATM</variant>
+  </canonskill>
+  <canonskill end='732373' experience='1' expidrefs='5' idrefs='5' lastused='2006' name='backhoe' start='730547'>
+    <variant>Backhoe</variant>
+  </canonskill>
+  <canonskill end='732738' experience='1' expidrefs='4' idrefs='4' lastused='2007' name='balance' start='732648'>
+    <variant>Balance</variant>
+  </canonskill>
+  <canonskill end='732373' experience='1' expidrefs='5' idrefs='5' lastused='2006' name='banking' start='730547'>
+    <variant>banking</variant>
+  </canonskill>
+  <canonskill end='732373' experience='1' expidrefs='5' idrefs='5' lastused='2006' name='billing' start='730547'>
+    <variant>billing</variant>
+  </canonskill>
+  <canonskill end='732373' experience='1' expidrefs='5' idrefs='5' lastused='2006' name='bookkeeping' start='730547'>
+    <variant>Bookkeeping</variant>
+  </canonskill>
+  <canonskill end='732983' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='closing' start='732769'>
+    <variant>closing</variant>
+  </canonskill>
+  <canonskill end='732983' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='copy' start='732769'>
+    <variant>copying</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='customer relations' start='732983'>
+    <variant>Client</variant>
+    <variant>client</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='data analysis' start='732983'>
+    <variant>data analysis</variant>
+  </canonskill>
+  <canonskill end='732738' experience='1' expidrefs='4' idrefs='4' lastused='2007' name='data entry' start='732648'>
+    <variant>data entry</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='data transfer' start='732983'>
+    <variant>data transfer</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='database administration' start='732983'>
+    <variant>database</variant>
+  </canonskill>
+  <canonskill end='732373' experience='1' expidrefs='5' idrefs='5' lastused='2006' name='dec' start='730547'>
+    <variant>DEC</variant>
+  </canonskill>
+  <canonskill end='732373' experience='1' expidrefs='5' idrefs='5' lastused='2006' name='delivery' start='730547'>
+    <variant>delivery</variant>
+  </canonskill>
+  <canonskill end='732983' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='email' start='732769'>
+    <variant>email</variant>
+  </canonskill>
+  <canonskill end='732983' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='fax' start='732769'>
+    <variant>faxing</variant>
+  </canonskill>
+  <canonskill end='732738' experience='1' expidrefs='4' idrefs='4' lastused='2007' name='forms' start='732648'>
+    <variant>forms</variant>
+  </canonskill>
+  <canonskill end='732373' experience='1' expidrefs='5' idrefs='5' lastused='2006' name='general office duties' start='730547'>
+    <variant>general office duties</variant>
+  </canonskill>
+  <canonskill end='732373' experience='1' expidrefs='5' idrefs='5' lastused='2006' name='human resources' start='730547'>
+    <variant>HR</variant>
+  </canonskill>
+  <canonskill end='732983' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='imaging' start='732769'>
+    <variant>imaging</variant>
+  </canonskill>
+  <canonskill end='732373' experience='1' expidrefs='5' idrefs='5' lastused='2006' name='insurance' start='730547'>
+    <variant>insurance</variant>
+  </canonskill>
+  <canonskill end='732373' experience='1' expidrefs='5' idrefs='5' lastused='2006' name='inventory management' start='730547'>
+    <variant>inventory control</variant>
+  </canonskill>
+  <canonskill end='732373' experience='1' expidrefs='5' idrefs='5' lastused='2006' name='invoicing' start='730547'>
+    <variant>invoicing</variant>
+  </canonskill>
+  <canonskill end='732738' experience='1' expidrefs='4' idrefs='4' lastused='2007' name='lotus notes' start='732648'>
+    <variant>Lotus Notes</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='meeting facilitation' start='732983'>
+    <variant>meetings</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='microsoft access' start='732983'>
+    <variant>Access database</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='microsoft excel' start='732983'>
+    <variant>Excel</variant>
+  </canonskill>
+  <canonskill end='732738' experience='1' expidrefs='4' idrefs='4' lastused='2007' name='microsoft mail' start='732648'>
+    <variant>mail</variant>
+  </canonskill>
+  <canonskill end='732373' experience='1' expidrefs='5' idrefs='5' lastused='2006' name='microsoft office' start='730547'>
+    <variant>office</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='microsoft outlook' start='732983'>
+    <variant>Microsoft Outlook</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='online research' start='732983'>
+    <variant>internet research</variant>
+  </canonskill>
+  <canonskill end='732373' experience='1' expidrefs='5' idrefs='5' lastused='2006' name='payroll processing' start='730547'>
+    <variant>payroll</variant>
+  </canonskill>
+  <canonskill end='732373' experience='1' expidrefs='5' idrefs='5' lastused='2006' name='peachtree' start='730547'>
+    <variant>Peachtree</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2,4' idrefs='2,4' lastused='2012' name='research' start='732648'>
+    <variant>Research</variant>
+    <variant>research</variant>
+  </canonskill>
+  <canonskill end='732373' experience='1' expidrefs='5' idrefs='5' lastused='2006' name='retail' start='730547'>
+    <variant>retail</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='training' start='732983'>
+    <variant>Trainer</variant>
+  </canonskill>
+  <canonskill end='732738' experience='1' expidrefs='4' idrefs='4' lastused='2007' name='validation' start='732648'>
+    <variant>validation</variant>
+  </canonskill>
+  <canonskill end='732373' experience='1' expidrefs='5' idrefs='5' lastused='2006' name='year end accounts' start='730547'>
+    <variant>year-end</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

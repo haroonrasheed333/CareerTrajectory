@@ -1,0 +1,359 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734594' xml:space='preserve'><contact><name><givenname>TAVIS</givenname> <surname>CURRY</surname></name>
+<address lat='35.8257' lon='80.2777' majorcity='LEXINGTON' state='NC'><street>3199 Holloway Church Rd.</street>   *   <city>Lexington</city>, <state abbrev='NC'>NC</state> <postalcode>27292</postalcode></address>   *   <email>tc10284@gmail.com</email>   *   <phone>(336) 239-2399</phone></contact>   
+
+<summary><summary>Progressive experience as a Business Owner, System Administrator, and Network Administrator with hands-on technical design, repair, maintenance, and installation skills leading high-priority, secured systems.</summary>
+SUMMARY OF QUALIFICATIONS
+<summary>Established business ownership skills, with an attitude to accomplish goals, meet or beat deadlines, track paperwork, and attract new customers, all while attaining the most cost-effective solution. 
+Proven Linux and Windows System Administrator with hands on experience with system architecture, server builds, configuration, backups, patches and new disk technology.
+Comprehensive experience as a Linux and Windows Administrator, a Network Administrator (enterprise and SOHO), Desktop Support Specialist, Data Recovery &amp; Destruction Specialist, and Software &amp; Hardware Support Specialist.
+Demonstrated ability to integrate computer skills, customer support experience, and related education to exceed technical, business, and customer requirements. 
+Experience in installing, troubleshooting and repairing hardware, software and peripherals, plus training of end users.
+Imaged multiple workstations at once using Symantec Ghost and Acronis TrustImage.
+Deployed multiple servers with Windows Server 2000, 2003, and 2008 with DNS, Active Directory, RRAS for VPN, File services, and IIS for FTP/Web. 
+Highly motivated with strong capabilities to optimize the network, servers, and desktops ensuring efficiently running systems with minimal downtime.</summary></summary>  
+
+<skills>CERTIFICATIONS
+<courses>Cisco CCNP Certified, 2010, Active, Cisco CCNA Certified, Active
+Red Hat Certified Technician (Red Hat Certified System Administrator), Active
+CompTIA A+ Certified, Active</courses></skills> 
+<experience end='present' start='731614'>PROFESSIONAL EXPERIENCE
+<job end='present' id='1' pos='1' start='733591'><title>CEO AND PRESIDENT</title>	<daterange><start days='733591' iso8601='2009-07-01'>July 2009</start> - <end days='present' iso8601='2012-03-30'>Present</end></daterange>
+<employer>ZERODATASTRESS</employer>	<address><city>Lexington</city>, <state abbrev='NC'>NC</state></address>
+<description>Responsible for all aspects of business information technology services of multiple business and residential customers.  
+Provide all aspects of outsourced information technology services, including server and workstation support, network support, remote support, data backup, and offsite backup. 
+Primary support for various businesses and residential clients in different cities - Lexington, Winston-Salem, Charlotte, Greensboro, Salisbury, Charleston, SC, and others.
+Lead setup and configuration of Windows Server 2003 for Active Directory, AD replication, user accounts, shared folders, shared printers, Misys, and Peachtree Quantum for office and production floor employees.
+Firsthand phone support for businesses under contract for support for Windows XP, Vista, 7, and Mac OS.
+Spearheaded setup of Mac OS X Snow Leopard servers for shared folders, Open Directory user accounts, OD replication over VPN coast to coast, FTP server, Kerio Connect email server, VPN for remote access, configured pfSense routers for site-to-site VPN, and setup all Mac workstations/laptops, including ongoing remote support.
+Rescued businesses and helped individuals by recovering data from failed hard drives or by accidental deletion.
+Consult with clients on low cost suggestions for new servers, workstations, networking equipment, or WAN connection. 
+Directed the move and disassembly of all medical lab servers and workstations from Winston-Salem, NC to Charleston, SC, punchdown patch panels, reconnect all networking equipment, servers, and workstations, ensure all equipment was in working order after move.
+Address all business paperwork - scheduling, client meetings, travel, payments, and expenses. 
+Conduct hands-on diagnostics and replacement of failed CPU fans, hard drives, RAM, and power supplies onsite.</description></job> 
+<job end='733591' id='2' naics='51821018' naics2='51' pos='2' start='732952'><title>DATACENTER TECHNICIAN</title>, LEVEL 1	<daterange><start days='732952' iso8601='2007-10-01'>October 2007</start> - <end days='733591' iso8601='2009-07-01'>July 2009</end></daterange>
+<employer>GOOGLE</employer>	<address><city>Lenoir</city>, <state abbrev='NC'>NC</state></address>
+<description>Accountable for the maintenance, diagnosis, repair and replacement of the secure data erase and destruction, Linux cluster build outs and servers, and all industrial networking equipment for the Lenoir location 
+Support services including Google Search, Gmail, iGoogle home page, Picasa, Maps, Book Search, YouTube, Google Toolbar and Calendar for 1000's of machines.
+Directed the collaboration with external contacts for Linux cluster build outs, including deployment of 100's of machines, communicating issues and progress, and completing the project ahead of schedule.
+Lead Technician for all new hardware testing including a new storage controller, ensuring proper hardware with exact firmware for configuration, document anomalies, temperature readings, installations of operating systems, and communicating repairs for stress testing.
+Spearheaded the testing of a new platform for failures, monitoring and documenting temperature and relative humidity levels, physically checking unreachable systems, and total tracking for several months.
+Authored new procedures for Erasing Hard Drives, increasing security of the drives with a central location, and capturing a 100% accountability of drives since implementation.
+Developed extensive working knowledge of Gmail including filters and labels, Google Docs and Calendar.
+Conduct hands-on diagnostics and replacement of failed DIMMs, motherboards, CPUs, CPU heatsinks/fans, hard drives, power supplies, network switches, run/label CAT5e, SM/MM fiber, rack backbone routers, high-end switches, and VPN switches. 
+Originally on contract to Google through WorkforceLogic, and permanently hired by Google in May 2008.</description></job>
+<job end='732952' id='3' pos='3' start='732830'><title>PC/NETWORK/ONSITE TECHNICIAN</title>	<daterange><start days='732830' iso8601='2007-06-01'>June 2007</start> - <end days='732952' iso8601='2007-10-01'>October 2007</end></daterange>
+<employer>SOUTH DAVIDSON TECHNOLOGIES</employer>	<address><city>Denton</city>, <state abbrev='NC'>NC</state></address>
+<description>Responsible for the maintenance, repair, installation, and troubleshooting for onsite and off site servers and workstations, working closely with large and small companies to quickly resolve issues, provide highest level of customer service.
+Charged with rebuilding a highly critical RAID 5 array for a nursing home including replacing the drive and regenerating the lost data, successfully achieving operational performance within a couple hours.
+Upgraded the DHCP service on a nursing home router, enabling workstations to login more quickly by using the LAN DNS server.
+Designed and implemented a wireless network for a nursing home, separating the residents and the employee network, ensuring tighter security of confidential information, and mitigating risk of virus/worm outbreaks.
+Assisted Supervisor on &quot;how to&quot; implement a city-wide wireless access point for city residents, enabling the access point to display a license agreement page for acceptance prior to use.
+Technologies included LogMeln, VNC, Remote Desktop, Microsoft SQL Server, Windows Server backups, RAID 5, RAID 1, firewall port forwarding, MAC filtering, wireless, wireless security, Windows 2000/XP/Vista, IPCop, and BrazilFW</description></job>
+<job end='732830' id='4' pos='4' sic='822101' sic2='82' start='731704'><title>ADJUNCT PC TECHNICIAN</title> (<jobtype>part-time</jobtype>)	<daterange><start days='731704' iso8601='2004-05-01'>May 2004</start> - <end days='732830' iso8601='2007-06-01'>June 2007</end></daterange>
+<employer>DAVIDSON COUNTY COMMUNITY COLLEGE</employer>	<address><city>Lexington</city>, <state abbrev='NC'>NC</state></address>
+<description>Directed the maintenance and administration of the workstations, servers, networks, and telecommunications equipment performing hands-on installation, configuration, troubleshooting, and resolution.
+Assisted end users troubleshooting and installation utilizing Microsoft Sysprep utility for Microsoft Windows imaging and multicast Symantec Ghost images.
+Conducted due diligence on new equipment and kept abreast of changing technology trends, researching pricing and making recommendations to supervisors for replacement equipment.
+Technologies included Cisco routers and switches, firewall port forwarding and MAC filtering, Microsoft Sysprep, multicast Symantec Ghost images, RAM, and hard drives.</description></job>
+
+
+
+<job end='731674' id='5' naics='33232204' naics2='33' pos='5' sic='344403' sic2='34' start='731614'><title>PC TECHNICIAN, INTERNSHIP</title>	<daterange><start days='731614' iso8601='2004-02-01'>February 2004</start> - <end days='731674' iso8601='2004-04-01'>April 2004</end></daterange>
+<employer>MORTON METALCRAFT</employer>	<address><city>Welcome</city>, <state abbrev='NC'>NC</state></address>
+<description>Responsible for the maintenance, troubleshooting, and administration of workstations, networking and cabling, and applications on the production floor.
+Successfully set up Windows NT4, 98, 2000, XP and other business applications, installed IBM Client Access Express, ran CAT5e cables to patch panels, and installed rack-mounted network switches.
+Recognized for excellent technical capabilities and work ethic, and offered an extension of the internship.</description></job></experience>
+<education>EDUCATION AND DEVELOPMENT
+<school id='7'><degree>PURSUING BS</degree> IN <major code='1201'>INDUSTRIAL COMPUTER TECHNOLOGY	Present</major>
+<institution>EAST CAROLINA UNIVERSITY</institution></school>	
+<school id='8'><degree level='14' name='Associate in Arts and Sciences'>AAS</degree>, <major code='1699'>NETWORKING TECHNOLOGY</major>	<completiondate days='732314' iso8601='2006-01-01'>2006</completiondate>
+<degree level='14' name='Associate in Arts and Sciences'>AAS</degree>, <institution>INFORMATION SYSTEMS TECHNOLOGY</institution>	            <completiondate days='731949' iso8601='2005-01-01'>2005</completiondate></school></education>
+<experience><job id='6' sic='822101' sic2='82'><employer>DAVIDSON COUNTY COMMUNITY COLLEGE</employer>	
+<description>PLATFORMS AND TOOLS
+SOFTWARE:   MICROSOFT OFFICE SUITE, OUTLOOK, OUTLOOK EXPRESS, OPENOFFICE SUITE, VMWARE, VIRTUALBOX, VIRTUAL PC, GMAIL, GOOGLE CALENDER, GOOGLE DOCS, INTERNET EXPLORER, FIREFOX, GOOGLE CHROME, OPERA, NERO, CDBURNERXP, ANTIMALWARE UTILTIES, FILEZILLA SERVER/CLIENT, JEDIT, GNS3, NORTON ANTIVIRUS, GHOST, AND SYSTEM UTILITIES, AVG ANTIVIRUS, CLAMWIN ANTIVIRUS, REMOTE DESKTOP, VNC, LOGMEIN, WINDOWS BACKUP, DATA RECOVERY UTILITIES, WINSCP, PUTTY, SYSTEM RESCUE CD, PARTITION MANAGERS, DEFRAG UTILITIES, BOINC, FOXIT/ADOBE READER, HARDWARE ANALYSIS AND REPORTING TOOLS.</description></job></experience>
+<professional><description>LANGUAGES:  SLIGHT USE WITH JAVA, VISUAL BASIC, BASIC BASH SCRIPTING AND BATCH FILES.
+OPERATING SYSTEMS:    WINDOWS 95, 98, ME, 2000, XP, 2003, VISTA, AND 7 INCLUDING WINDOWS 2000, 2003, AND 2008 SERVER, LINUX DISTRIBUTIONS - FEDORA, CENTOS, REDHAT ENTERPRISE LINUX, AND UBUNTU
+HARDWARE:   MOTHERBOARDS, CPUS, RAM, HARD DRIVES, VIDEO CARDS, OPTICAL DRIVES, FLOPPY DRIVES, AND ENCLOSURES, RAID ARRAYS - BOTH ONBOARD RAID, RAID EXPANSION CARDS, SOFTWARE RAID AND CONFIGURATION OF BIOS ON MOTHERBOARDS
+NETWORKS:   SMALL HOME NETWORKS THROUGH ENTERPRISE WIDE NETWORKS, FIBER OPTIC SAFETY, NETWORK CARDS, CAT5E/CAT6, IPCOP, UNTANGLE, BRAZILFW, PFSENSE, LINKSYS, D-LINK, AND NETGEAR ROUTERS, CISCO ROUTERS AND SWITCHES.</description></professional>
+
+
+
+
+
+
+</resume>
+
+<skillrollup version='1'>
+  <canonskill name='a + certified'>
+    <variant>A+ Certified</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='active directory' start='733591'>
+    <variant>Active Directory</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='6' idrefs='6' name='adobe'>
+    <variant>ADOBE</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='advertising' start='733591'>
+    <variant>AD</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='6' idrefs='6' name='anti virus'>
+    <variant>ANTIVIRUS</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,6' idrefs='1,6' lastused='2012' name='backup' start='733591'>
+    <variant>BACKUP</variant>
+    <variant>backup</variant>
+  </canonskill>
+  <canonskill end='733591' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='books' start='732952'>
+    <variant>Book</variant>
+  </canonskill>
+  <canonskill end='731674' experience='1' expidrefs='5' idrefs='5' lastused='2004' name='cabling' start='731614'>
+    <variant>cables</variant>
+    <variant>cabling</variant>
+  </canonskill>
+  <canonskill end='733591' experience='1' expidrefs='2,5' idrefs='2,5' lastused='2009' name='cat5' start='731614'>
+    <variant>CAT5</variant>
+  </canonskill>
+  <canonskill name='ccna'>
+    <variant>CCNA</variant>
+  </canonskill>
+  <canonskill name='ccnp'>
+    <variant>CCNP</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='6' idrefs='6' name='cd'>
+    <variant>CD</variant>
+  </canonskill>
+  <canonskill name='cisco'>
+    <variant>Cisco</variant>
+  </canonskill>
+  <canonskill end='732830' experience='1' expidrefs='4' idrefs='4' lastused='2007' name='cisco routers' start='731704'>
+    <variant>Cisco routers</variant>
+  </canonskill>
+  <canonskill end='733591' experience='1' expidrefs='2,6' idrefs='2,6' lastused='2009' name='computer hardware' start='732952'>
+    <variant>HARDWARE</variant>
+    <variant>hardware</variant>
+  </canonskill>
+  <canonskill end='733591' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='control' start='732952'>
+    <variant>controller</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='counter terrorist check' start='733591'>
+    <variant>SC</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='cpu' start='732952'>
+    <variant>CPU</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,6' idrefs='1,6' lastused='2012' name='customer relations' start='733591'>
+    <variant>client</variant>
+    <variant>clients</variant>
+    <variant>CLIENT</variant>
+  </canonskill>
+  <canonskill end='732952' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='customer service' start='732830'>
+    <variant>customer service</variant>
+  </canonskill>
+  <canonskill end='732952' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='dhcp' start='732830'>
+    <variant>DHCP</variant>
+  </canonskill>
+  <canonskill end='733591' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='diagnosis' start='732952'>
+    <variant>diagnosis</variant>
+  </canonskill>
+  <canonskill end='732952' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='dns' start='732830'>
+    <variant>DNS</variant>
+  </canonskill>
+  <canonskill end='732830' experience='1' expidrefs='4' idrefs='4' lastused='2007' name='due diligence' start='731704'>
+    <variant>due diligence</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='email' start='733591'>
+    <variant>email</variant>
+  </canonskill>
+  <canonskill end='732952' experience='1' expidrefs='3,4' idrefs='3,4' lastused='2007' name='firewalls' start='731704'>
+    <variant>firewall</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='ftp' start='733591'>
+    <variant>FTP</variant>
+  </canonskill>
+  <canonskill end='732830' experience='1' expidrefs='4,6' idrefs='4,6' lastused='2007' name='ghost' start='731704'>
+    <variant>GHOST</variant>
+    <variant>Ghost</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,4' idrefs='1,2,4' lastused='2012' name='hard drives' start='731704'>
+    <variant>Hard Drives</variant>
+    <variant>hard drives</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='help desk support' start='733591'>
+    <variant>phone support</variant>
+  </canonskill>
+  <canonskill end='731674' experience='1' expidrefs='5' idrefs='5' lastused='2004' name='ibm client access' start='731614'>
+    <variant>IBM Client Access</variant>
+  </canonskill>
+  <canonskill end='732830' experience='1' expidrefs='4' idrefs='4' lastused='2007' name='imaging' start='731704'>
+    <variant>imaging</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='information technology' start='733591'>
+    <variant>information technology</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='6' idrefs='6' name='internet explorer'>
+    <variant>INTERNET EXPLORER</variant>
+  </canonskill>
+  <canonskill end='732952' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='lan' start='732830'>
+    <variant>LAN</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='laptop computers' start='733591'>
+    <variant>laptops</variant>
+  </canonskill>
+  <canonskill end='733591' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='linux' start='732952'>
+    <variant>Linux</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,3,4' idrefs='1,3,4' lastused='2012' name='macintosh' start='731704'>
+    <variant>MAC</variant>
+    <variant>Mac</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='macintosh os' start='733591'>
+    <variant>Mac OS</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='meeting facilitation' start='733591'>
+    <variant>meetings</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,3' idrefs='1,3' lastused='2012' name='microsoft access' start='732830'>
+    <variant>access</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,6' idrefs='1,6' lastused='2012' name='microsoft office' start='733591'>
+    <variant>office</variant>
+    <variant>MICROSOFT OFFICE SUITE</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='6' idrefs='6' name='microsoft outlook'>
+    <variant>OUTLOOK</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='6' idrefs='6' name='microsoft outlook express'>
+    <variant>OUTLOOK EXPRESS</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,3,4,6' idrefs='1,3,4,6' lastused='2012' name='microsoft windows' start='731704'>
+    <variant>WINDOWS</variant>
+    <variant>Microsoft Windows</variant>
+    <variant>Windows</variant>
+  </canonskill>
+  <canonskill end='732952' experience='1' expidrefs='3,5' idrefs='3,5' lastused='2007' name='microsoft windows 2000' start='731614'>
+    <variant>Windows 2000</variant>
+    <variant>2000</variant>
+  </canonskill>
+  <canonskill end='731674' experience='1' expidrefs='5' idrefs='5' lastused='2004' name='microsoft windows 98' start='731614'>
+    <variant>98</variant>
+  </canonskill>
+  <canonskill end='731674' experience='1' expidrefs='5' idrefs='5' lastused='2004' name='microsoft windows nt 4.0' start='731614'>
+    <variant>Windows NT4</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='microsoft windows xp' start='733591'>
+    <variant>Windows XP</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='misys' start='733591'>
+    <variant>Misys</variant>
+  </canonskill>
+  <canonskill end='733591' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='motherboards' start='732952'>
+    <variant>motherboards</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='network support' start='733591'>
+    <variant>network support</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,3,4,5' idrefs='1,2,3,4,5' lastused='2012' name='networking' start='731614'>
+    <variant>network</variant>
+    <variant>networking</variant>
+    <variant>networks</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='6' idrefs='6' name='norton antivirus'>
+    <variant>NORTON ANTIVIRUS</variant>
+  </canonskill>
+  <canonskill end='732952' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='nursing' start='732830'>
+    <variant>nursing</variant>
+  </canonskill>
+  <canonskill end='733591' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='operating systems' start='732952'>
+    <variant>operating systems</variant>
+  </canonskill>
+  <canonskill end='733591' experience='1' expidrefs='2,3' idrefs='2,3' lastused='2009' name='page' start='732830'>
+    <variant>page</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='peachtree' start='733591'>
+    <variant>Peachtree</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='power supplies' start='732952'>
+    <variant>power supplies</variant>
+  </canonskill>
+  <canonskill end='732830' experience='1' expidrefs='4' idrefs='4' lastused='2007' name='pricing' start='731704'>
+    <variant>pricing</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='printers' start='733591'>
+    <variant>printers</variant>
+  </canonskill>
+  <canonskill end='733591' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='progress' start='732952'>
+    <variant>progress</variant>
+  </canonskill>
+  <canonskill end='731674' experience='1' expidrefs='5' idrefs='5' lastused='2004' name='quark xpress' start='731614'>
+    <variant>Express</variant>
+  </canonskill>
+  <canonskill end='732952' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='raid' start='732830'>
+    <variant>RAID 1</variant>
+    <variant>RAID 5</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,4' idrefs='1,4' lastused='2012' name='ram' start='731704'>
+    <variant>RAM</variant>
+  </canonskill>
+  <canonskill name='red hat linux'>
+    <variant>Red Hat</variant>
+  </canonskill>
+  <canonskill end='733591' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='repair' start='732952'>
+    <variant>repairs</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='6' idrefs='6' name='reports'>
+    <variant>REPORTING</variant>
+  </canonskill>
+  <canonskill end='732830' experience='1' expidrefs='4' idrefs='4' lastused='2007' name='research' start='731704'>
+    <variant>researching</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,3' idrefs='1,2,3' lastused='2012' name='routers' start='732830'>
+    <variant>router</variant>
+    <variant>routers</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='scheduling' start='733591'>
+    <variant>scheduling</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,3,4' idrefs='1,2,3,4' lastused='2012' name='servers' start='731704'>
+    <variant>servers</variant>
+  </canonskill>
+  <canonskill end='732952' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='sql' start='732830'>
+    <variant>Microsoft SQL Server</variant>
+  </canonskill>
+  <canonskill end='732952' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='supervisory skills' start='732830'>
+    <variant>Supervisor</variant>
+  </canonskill>
+  <canonskill end='733591' experience='1' expidrefs='2,4,5' idrefs='2,4,5' lastused='2009' name='switches' start='731614'>
+    <variant>switches</variant>
+  </canonskill>
+  <canonskill end='732830' experience='1' expidrefs='4' idrefs='4' lastused='2007' name='symantec packages' start='731704'>
+    <variant>Symantec</variant>
+  </canonskill>
+  <canonskill name='system administration'>
+    <variant>System Administrator</variant>
+  </canonskill>
+  <canonskill end='733591' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='technician' start='732952'>
+    <variant>Technician</variant>
+  </canonskill>
+  <canonskill end='732830' experience='1' expidrefs='4' idrefs='4' lastused='2007' name='telecommunications' start='731704'>
+    <variant>telecommunications</variant>
+  </canonskill>
+  <canonskill end='732952' experience='1' expidrefs='3,4,5' idrefs='3,4,5' lastused='2007' name='troubleshooting' start='731614'>
+    <variant>troubleshooting</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='6' idrefs='6' name='utilities'>
+    <variant>UTILITIES</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,3' idrefs='1,3' lastused='2012' name='vista' start='732830'>
+    <variant>Vista</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='vpn' start='732952'>
+    <variant>VPN</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='wan' start='733591'>
+    <variant>WAN</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

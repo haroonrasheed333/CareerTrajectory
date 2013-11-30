@@ -1,0 +1,355 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734596' xml:space='preserve'><contact><name><givenname>Kedar</givenname> <surname>Kulkarni</surname></name>
+	<email>Kedar.kv@gmail.com</email>
+	<phone>001-651-434-7753.</phone></contact>
+ 								Current Employer: L&amp;T InfoTech Ltd. 	                                                                                    
+<summary>Summary:
+<summary>Application Software Development, Maintenance and Production Support experience for over 7 years.
+Over 4 Years of Functional experience in Personal and P &amp; C Insurance domain. 
+Proficient in all phases of Requirement Management, including gathering, analyzing, detailing and tracking requirements.
+Expertise in technologies PHP, Java Script, VB,ASP
+Experience in Designing, Modeling and Development of Database using Oracle and SQL Server2005. Have worked on highly complex SQL queries.
+Proven expertise in building and implementing Policy Administration System for personal lines of insurance(Auto/Home/Umbrella)
+Ability to work on Iterative projects using  waterfall project plan (which Business Understands) and doing development using Agile Concepts (Scrum Framework) in form of sprints within Iterations
+Hands on experience on supporting large environments 24/7 and to maintain high availability of applications
+Ability to handle Critical Situations in technically challenging and politically hot circumstances.
+Expert in project transition from vendors using transition status report, KT score card to generate knowledge capture documents
+Experience in preparing User Manuals, Technical Documentation and Training. 
+Excellent communication skills and Performance equally good when independent as well as in team
+Worked as onsite coordinator and team lead for big team as of 11</summary></summary>
+<skills>Skills: 
+<skills>Databases	 	Oracle 9i,MS SQL Server 2000/2005, 
+Web Technologies	PHP, Java Script HTML                                                                                                                                                                                                  
+O S 			WINDOWS 95/98/NT/2000/XP/2003
+Tools	COM, Visual Source Safe, IIS 5.0, Remedy 6.11, Crystal Report 9.0, TFS, Tortoise SVN
+GUI 	                             Visual Basic 6.0, ASP
+Languages	               C++,VC++
+
+Achievements:
+Has won &quot;Star Performer&quot; award for Personal Lines Policy Decisions project at L&amp;T Infotech.</skills></skills>
+<education><description>Completed INS 21 (AICPCU) certification. 
+Has won two successive team awards for learning new domain in record short time at Honeywell.
+Successfully completed the 6-Months E-commerce Diploma from APTECH Pune with distinction.</description>
+Currently undergoing through <degree level='17'>Post Graduate Diploma</degree> in <major code='4201'>Business Administration</major> (PGDBA) course.</education>
+
+<experience end='present' start='731369'>Professional Experience:
+<job end='present' id='1' pos='1' start='733469'><employer>Policy Decisions Personal</employer> (LexisNexis/Insurity)				                Location: <address lat='41.3334' lon='-75.9622' majorcity='DALLAS' state='PA'><city>Dallas</city>, <state abbrev='TX'>TX</state></address>	
+
+<daterange><start days='733469' iso8601='2009-03-01'>March 2009</start> to <end days='present' iso8601='2012-04-01'>till date</end></daterange>
+<description>From core platform capabilities to deployment flexibility, Policy Decisions Personal is a complete personal lines solution, automatically handling administration and proactively initiating activities, including:
+* All lines of business  		* Fully integrated with underwriting data products	* Rating &amp; Web quoting     * Underwriting			* Customized workflow	* Policy issuance		* Full lifecycle processing  * Endorsements			* Out-of-sequence processing	* Cancellations	* Reinstatements	               * Automated renewals		* Regulatory compliance
+Gathering business requirements and converting them into functional requirement specifications and user requirement specifications
+Worked as a Project Lead and part of development team to get functional requirements implemented.
+Logical and methodical troubleshooting and problem solving both technically and on an interpersonal level.
+Good written and verbal Communication skills with customers, internal, stakeholders and third party vendors.
+Involved and Managed all Knowledge transition phases.  
+Involved in Analysis and Implementation of critical functionalities like Carfax Interface, Converting system from ISO to HLDI VIN system, Optimizing transaction interface to avoid critical interface failures.
+Coordinated with other IT groups(QA/BA) as well as external support organizations(Choicepoint) to get required dependencies for development team  
+Responsible for responding to end-user questions, concerns, and requests from sales team.
+Client Implementations -Farmers Insurance, Affirmative Insurance, Tokio-Marine Insurance.
+
+Environment: Zend Server/Apache, Windows 9X,PHP, Java  Script, HTML,Oracle9i, Apogee, TFS, SVN Tortoise.</description></job> 
+<job end='733441' id='2' pos='2' sic='641112' sic2='64' start='733318'><employer>TechXpress - Commercial Lines</employer> (Travelers)					Location: <address><city>St.Paul</city>, <state abbrev='MN'>MN</state></address>	
+
+<title>Period</title> - <daterange><start days='733318' iso8601='2008-10-01'>Oct 2008</start> - <end days='733441' iso8601='2009-02-01'>Feb 2009</end></daterange>
+<description>A traveller is the nation's leader in insurance coverage for global technology companies. They have customized products designed to address the evolving risks of a fast-paced industry Line of business - General Liability, Commercial Auto, Workers' Compensation, Umbrella.
+Being at client side, I was responsible for requirement capturing, analysis, developing and resolving e2e integration related issues.
+Responsible for designing, analysis and developing UI and business rules module for GL and Umbrella LOB.
+Responsible for Trouble shooting various environmental and system issues faced in integration of the TechXpress.
+Participate/Lead in activities like internal / external  quality audits 
+Coordinating with internal integration team for the development of changes and customization proposed by client in base system.
+Providing demo of the System, Work-flow, and Functionalities to business users from client side.
+Maintaining SLA's for all cases as per agreement with customer. 
+Getting involved initial investigations and preparing RCA's for all faults.
+
+Environment: ASP, VB, SQL Server 2005, Crystal Report, IIS 5.0
+
+Loss Sensitive Pricing - Commercial Lines (Travelers)				Location: Pune/India</description></job>	
+
+Period - <job end='733318' id='3' pos='3' start='732983'><daterange><start days='732983' iso8601='2007-11-01'>Nov 2007</start> - <end days='733318' iso8601='2008-10-01'>Oct 2008</end></daterange>
+<description>The client server application which produces the insurance rating plan for which the final premium is dependent on the actual losses during the period the plan is in effect. This type of plan provides an incentive for insureds to emphasize safety and loss control activities. Deductible plans, retrospective rating plans, dividend plans, and retention plans are all examples of loss sensitive plans. The Loss Sensitive Pricing (LSP) tool has been designed to replace the multitude of disconnected pricing exhibits and systems that have historically been used in the Commercial Lines' National Accounts organizations to price loss sensitive deals.
+Created Win form for entering Exposure and Loss pick data
+Modified existing VB forms as per the new enhancement
+Worked extensively in Database -SQL 2000- Creation of SPs and, tables and Performance tuning using Profiler.
+Responsible for the entire delivery of software from offshore.
+Participate/Lead in activities like internal / external quality / security audits, PMR and Defect Prevention meetings. 
+Responsible for handling &amp; reporting issues over regular Conference call with Clients, Support Teams.
+
+Environment: VB6.0, SQL Server 2000, COM, Crystal Report</description></job>
+General Motors						                       Location: <job end='732983' id='4' pos='4' start='732404'><address><city>Mumbai</city>, <country iso3='IND'>India</country></address>/<address><city>London</city>, <country iso3='GBR'>UK</country></address>	
+
+Period - <daterange><start days='732404' iso8601='2006-04-01'>April 2006</start> - <end days='732983' iso8601='2007-11-01'>Nov 2007</end></daterange>
+<description>Gathering of orders of dealers on delivery of spare parts; Granting of the information to dealers; the forecast of sales; the reporting on retails; the publication of educational, analytical and other materials for dealers; It is &quot;Corporate Computerized Wholesale and Retail Sales Management System for Goods and Products Distributed through GM CIS and GM DAT Distribution Networks - Dealers.
+Involved in the Knowledge transfer phase of the application.
+Involved in critical phase of application loading in development/test environment.
+Responsible for the entire delivery of software from offshore.
+Analyse requirements, raise queries, prepare/review the Requirements document/High Level Design (HLD)
+Providing support to various test phases and Production environment for various old and ongoing developments. 
+Participate in Release Planning Meetings, Estimation discussions with various components and scope definition for various releases for impacted platforms.
+Environment: VB6.0, SQL Server 2000, COM, Crystal Report
+
+Load Rack Computer (LRC) for terminal automation system	               Location: Pune, India</description></job>	
+
+<job end='732404' id='5' pos='5' sic='259901' sic2='25' start='731765'><employer>Period</employer>-<daterange><start days='731765' iso8601='2004-07-01'>July2004</start>-<end days='732404' iso8601='2006-04-01'>Apr 2006</end></daterange>
+<description>The application built for 'Terminal Automation' (TA) defines the automatic control systems and their Implementation in the marketing and distribution terminals of petrochemical companies, like BPCL, IOCL and HPCL. Load Rack Computer (LRC) mainly concerned with Tank Truck Loading (TTL). The whole product consists of software to interact with the various Third Party Vendor instruments such as 
+Card Reader, Access Control Units, Batch Controller, and Terminal Server. 
+
+Responsible for Development of interface for new Contrec Batch Controller Device (Third party device).
+Responsible for Development and Customization of interface for Access control unit device.
+Responsible for Customization of- Loading Sequences, Weighbridge Application, Barrier Gate Application, of Tank Farm Management System.
+Environment: C++, ATLCOM, SQL Server 2000, Visual Basic6.0, COM, Plantscape R500 (SCADA). 
+
+
+&quot;Quansoft&quot; GUI For Instrument Quantica.	                                                                        Location: Pune, India</description></job>	
+
+<job end='731735' id='6' pos='6' start='731369'><title>Period</title>-<daterange><start days='731369' iso8601='2003-06-01'>June2003</start>-<end days='731735' iso8601='2004-06-01'>June 2004</end></daterange>.
+<description>The Bioinformatics Product consists of Instrument (Thermal Cycler) and wizard based software to interact with the instrument. The instrument and driver for that instrument is developed at and by Techne, UK and software for interacting with the instrument is build at TATA Infotech, Pune. 
+
+Responsible for Development and Customization of home page module, results editor module, Turbo Wizard module.
+
+
+Overall Responsibilities as Project Lead-
+Single point of Contact for client for communication within team.
+Facilitate resolution of operational issues at Dallas either directly or route it to the right individual  Awareness and compliance to &quot;code of conduct&quot; and other onsite related guidelines for team
+Ensuring adherence to time booking deadlines 
+Onsite Leave Tracking and working with offshore project managers to ensure backfilling during leave period or making up for lost hours 
+New Consultant Planning and Transition</description></job></experience>
+
+<education>EDUCATION:
+
+<school id='7'><degree level='18'>Master Of Computer Science</degree>(<institution>MCS) University of Pune</institution>, <address><country iso3='IND'>India</country></address> <completiondate days='730853' iso8601='2002-01-01'>2002</completiondate></school></education>
+
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='apache webserver' start='733469'>
+    <variant>Apache</variant>
+  </canonskill>
+  <canonskill end='733441' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='asp' start='733318'>
+    <variant>ASP</variant>
+  </canonskill>
+  <canonskill end='732983' experience='1' expidrefs='4,5' idrefs='4,5' lastused='2007' name='automation' start='731765'>
+    <variant>Automation</variant>
+    <variant>automation</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='ba' start='733469'>
+    <variant>BA</variant>
+  </canonskill>
+  <canonskill end='732404' experience='1' expidrefs='5' idrefs='5' lastused='2006' name='c + +' start='731765'>
+    <variant>C++</variant>
+  </canonskill>
+  <canonskill end='733318' experience='1' expidrefs='3' idrefs='3' lastused='2008' name='client/server' start='732983'>
+    <variant>client server</variant>
+  </canonskill>
+  <canonskill end='733318' experience='1' expidrefs='3,4,5' idrefs='3,4,5' lastused='2008' name='com' start='731765'>
+    <variant>COM</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='communication skills' start='733469'>
+    <variant>interpersonal</variant>
+  </canonskill>
+  <canonskill end='731735' experience='1' expidrefs='6' idrefs='6' lastused='2004' name='consulting' start='731369'>
+    <variant>Consultant</variant>
+  </canonskill>
+  <canonskill end='732404' experience='1' expidrefs='5' idrefs='5' lastused='2006' name='control' start='731765'>
+    <variant>Controller</variant>
+  </canonskill>
+  <canonskill end='733441' experience='1' expidrefs='2,3,4' idrefs='2,3,4' lastused='2009' name='crystal reports' start='732404'>
+    <variant>Crystal Report 9.0</variant>
+    <variant>Crystal Report</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,3,6' idrefs='1,2,3,6' lastused='2012' name='customer relations' start='731369'>
+    <variant>Client</variant>
+    <variant>client</variant>
+    <variant>Clients</variant>
+  </canonskill>
+  <canonskill end='733318' experience='1' expidrefs='3' idrefs='3' lastused='2008' name='database administration' start='732983'>
+    <variant>Databases</variant>
+    <variant>Database</variant>
+  </canonskill>
+  <canonskill end='733318' experience='1' expidrefs='3,4' idrefs='3,4' lastused='2008' name='delivery' start='732404'>
+    <variant>delivery</variant>
+  </canonskill>
+  <canonskill end='733441' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='design' start='733318'>
+    <variant>designing</variant>
+  </canonskill>
+  <canonskill education='1' name='e - commerce'>
+    <variant>E-commerce</variant>
+  </canonskill>
+  <canonskill end='731735' experience='1' expidrefs='6' idrefs='6' lastused='2004' name='editing' start='731369'>
+    <variant>editor</variant>
+  </canonskill>
+  <canonskill end='733441' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='fast' start='733318'>
+    <variant>fast</variant>
+  </canonskill>
+  <canonskill end='733318' experience='1' expidrefs='3' idrefs='3' lastused='2008' name='forms' start='732983'>
+    <variant>forms</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='functional' start='733469'>
+    <variant>functional</variant>
+  </canonskill>
+  <canonskill end='733441' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='gl' start='733318'>
+    <variant>GL</variant>
+  </canonskill>
+  <canonskill end='732404' experience='1' expidrefs='5' idrefs='5' lastused='2006' name='graphical user interface' start='731765'>
+    <variant>GUI</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='html' start='733469'>
+    <variant>HTML</variant>
+  </canonskill>
+  <canonskill end='733441' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='iis' start='733318'>
+    <variant>IIS 5.0</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,3' idrefs='1,2,3' lastused='2012' name='insurance' start='732983'>
+    <variant>Insurance</variant>
+    <variant>insurance</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='iso' start='733469'>
+    <variant>ISO</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='javascript' start='733469'>
+    <variant>Java Script</variant>
+    <variant>Java  Script</variant>
+  </canonskill>
+  <canonskill name='languages'>
+    <variant>Languages</variant>
+  </canonskill>
+  <canonskill end='732404' experience='1' expidrefs='5' idrefs='5' lastused='2006' name='marketing' start='731765'>
+    <variant>marketing</variant>
+  </canonskill>
+  <canonskill end='732983' experience='1' expidrefs='4' idrefs='4' lastused='2007' name='materials management' start='732404'>
+    <variant>materials</variant>
+  </canonskill>
+  <canonskill end='733318' experience='1' expidrefs='3,4' idrefs='3,4' lastused='2008' name='meeting facilitation' start='732404'>
+    <variant>Meetings</variant>
+    <variant>meetings</variant>
+  </canonskill>
+  <canonskill end='732404' experience='1' expidrefs='5' idrefs='5' lastused='2006' name='microsoft access' start='731765'>
+    <variant>Access</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,3' idrefs='1,3' lastused='2012' name='microsoft windows' start='732983'>
+    <variant>Windows 9</variant>
+    <variant>Win</variant>
+  </canonskill>
+  <canonskill name='microsoft windows 2000'>
+    <variant>2000</variant>
+  </canonskill>
+  <canonskill name='microsoft windows 95'>
+    <variant>WINDOWS 95</variant>
+  </canonskill>
+  <canonskill name='microsoft windows 98'>
+    <variant>98</variant>
+  </canonskill>
+  <canonskill name='microsoft windows nt'>
+    <variant>NT</variant>
+  </canonskill>
+  <canonskill end='732983' experience='1' expidrefs='4' idrefs='4' lastused='2007' name='networking' start='732404'>
+    <variant>Networks</variant>
+  </canonskill>
+  <canonskill name='operating systems'>
+    <variant>O S</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='oracle' start='733469'>
+    <variant>Oracle 9</variant>
+    <variant>Oracle9</variant>
+  </canonskill>
+  <canonskill end='731735' experience='1' expidrefs='6' idrefs='6' lastused='2004' name='page' start='731369'>
+    <variant>page</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='php' start='733469'>
+    <variant>PHP</variant>
+  </canonskill>
+  <canonskill end='733318' experience='1' expidrefs='3' idrefs='3' lastused='2008' name='pick' start='732983'>
+    <variant>pick</variant>
+  </canonskill>
+  <canonskill end='733441' experience='1' expidrefs='2,3' idrefs='2,3' lastused='2009' name='pricing' start='732983'>
+    <variant>Pricing</variant>
+    <variant>pricing</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='problem solving' start='733469'>
+    <variant>problem solving</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,6' idrefs='1,6' lastused='2012' name='project management' start='731369'>
+    <variant>Project Lead</variant>
+  </canonskill>
+  <canonskill end='732983' experience='1' expidrefs='4' idrefs='4' lastused='2007' name='publicity' start='732404'>
+    <variant>publication</variant>
+  </canonskill>
+  <canonskill end='733441' experience='1' expidrefs='2,3' idrefs='2,3' lastused='2009' name='quality' start='732983'>
+    <variant>quality</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='quality control' start='733469'>
+    <variant>QA</variant>
+  </canonskill>
+  <canonskill end='733318' experience='1' expidrefs='3,4' idrefs='3,4' lastused='2008' name='reports' start='732404'>
+    <variant>reporting</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='requirements' start='733318'>
+    <variant>requirement</variant>
+  </canonskill>
+  <canonskill end='732983' experience='1' expidrefs='4' idrefs='4' lastused='2007' name='retail sales' start='732404'>
+    <variant>Retail Sales</variant>
+  </canonskill>
+  <canonskill end='733318' experience='1' expidrefs='3' idrefs='3' lastused='2008' name='safety' start='732983'>
+    <variant>safety</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,4' idrefs='1,4' lastused='2012' name='sales' start='732404'>
+    <variant>sales</variant>
+  </canonskill>
+  <canonskill end='732404' experience='1' expidrefs='5' idrefs='5' lastused='2006' name='scada' start='731765'>
+    <variant>SCADA</variant>
+  </canonskill>
+  <canonskill end='733318' experience='1' expidrefs='3' idrefs='3' lastused='2008' name='sharepoint portal server' start='732983'>
+    <variant>SPs</variant>
+  </canonskill>
+  <canonskill end='733441' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='sla' start='733318'>
+    <variant>SLA</variant>
+  </canonskill>
+  <canonskill name='sourcesafe'>
+    <variant>Visual Source Safe</variant>
+  </canonskill>
+  <canonskill end='733441' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='sql' start='733318'>
+    <variant>MS SQL Server</variant>
+    <variant>SQL Server</variant>
+  </canonskill>
+  <canonskill end='733318' experience='1' expidrefs='3,4,5' idrefs='3,4,5' lastused='2008' name='sql server 2000' start='731765'>
+    <variant>SQL Server 2000</variant>
+    <variant>SQL 2000</variant>
+  </canonskill>
+  <canonskill end='733318' experience='1' expidrefs='3' idrefs='3' lastused='2008' name='tables' start='732983'>
+    <variant>tables</variant>
+  </canonskill>
+  <canonskill end='732404' experience='1' expidrefs='5' idrefs='5' lastused='2006' name='terminal server' start='731765'>
+    <variant>Terminal Server</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='troubleshooting' start='733318'>
+    <variant>Trouble shooting</variant>
+    <variant>troubleshooting</variant>
+  </canonskill>
+  <canonskill end='733318' experience='1' expidrefs='3' idrefs='3' lastused='2008' name='typing' start='732983'>
+    <variant>type</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='verbal communication skills' start='733469'>
+    <variant>verbal Communication skills</variant>
+  </canonskill>
+  <canonskill end='733441' experience='1' expidrefs='2,3' idrefs='2,3' lastused='2009' name='visual basic' start='732983'>
+    <variant>VB</variant>
+  </canonskill>
+  <canonskill end='733318' experience='1' expidrefs='3,4,5' idrefs='3,4,5' lastused='2008' name='visual basic 6.0' start='731765'>
+    <variant>VB6.0</variant>
+    <variant>Visual Basic 6.0</variant>
+    <variant>Visual Basic6.0</variant>
+  </canonskill>
+  <canonskill name='visual c + +'>
+    <variant>VC++</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='workflow analysis' start='733318'>
+    <variant>Work-flow</variant>
+    <variant>workflow</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='writing' start='733469'>
+    <variant>written</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

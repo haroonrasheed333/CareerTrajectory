@@ -1,0 +1,26 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "NCLE-AC", 
+            "Certification Name": "National Contact Lens Examiners Advanced Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "3634", 
+            "Certifying Organization": "American Board of Opticianry  and the National Contact Lens Examiners"
+        }, 
+        {
+            "Acronym": "COMT", 
+            "Certification Name": "Certified Ophthalmic Medical Technologist", 
+            "Type": "Core", 
+            "Certification ID": "1028", 
+            "Certifying Organization": "Joint Commission on Allied Health Personnel in Ophthalmology"
+        }, 
+        {
+            "Acronym": "ROUB", 
+            "Certification Name": "Registered Ophthalmic Ultrasound Biometrist", 
+            "Type": "Specialty", 
+            "Certification ID": "4746", 
+            "Certifying Organization": "Joint Commission on Allied Health Personnel in Ophthalmology"
+        }
+    ], 
+    "onet": "29209905"
+}

@@ -1,0 +1,314 @@
+
+Patrick J. Cush
+1593 E HWY 114 Boyd, TX 76023
+C: (321) 202-5695 * iceman3@airmail.net
+Network Security Engineer/Senior Architect
+Track record of leading global-scale, multimillion-dollar IT projects to successful fruition; manage and maintain technical teams as large as 80 cross-functional members with a focused approach. 
+Innovate enterprise-wide IT solutions to complex business problems using a cross-pollination of technologies to streamline operations, improve efficiencies, and cut costs
+Build project engagement and cohesion toward common goals across diverse groups of staff, management, customers, and vendors
+Accomplished IT professional offering 10+ years of documented achievements across a broad range of technologies, industries, and global marketplaces. Track record of performance at the highest levels to fully achieve company, customer, and project objectives. Strong work ethic. Excellent skill in management fields. Areas of expertise include:
+IT Strategy Planning &amp; Management
+Project Lifecycle Management
+Enterprise System Development
+Team Building &amp; Leadership
+System Implementation &amp; Integration
+E-Commerce &amp; Workflow Solutions
+Software Design &amp; Engineering
+Security / Identity Management Systems
+End-User Training
+Business Requirements Analysis
+Client &amp; Vendor Relationships
+Operational Improvements
+Professional Highlights
+Astrum, Inc., Dallas, TX 2007-2009
+Senior Engineer/Architect
+Direct teams of in-house and outside consultants in design and development of Linux based security solutions. Responsible for scoping projects while maintaining a budget of $500,000 annually. Development of white papers and testing procedures as well as lectures for prospective clients as well as trade shows. Reported to the President and presented weekly updates of various projects based on project plans and budget updates for investors.
+Some of the major components of the solution were an identity management backbone constructed through a BI policy filter which made calls to a cipher broker based upon a HSM card for security. The appliance itself was tested to work in a multi operating system environment so I used my knowledge of Microsoft and *ix technologies to make it operate without the need to change client topologies.
+Code was written in Java and C with drivers being developed for the Suse Linux Enterprise Server 64 version.
+Novell, Inc., Dallas, TX 2002-2007
+Senior Architect / Technical Project &amp; Team Leader
+Direct teams of in-house and outside consultants in large-scale projects to implement a broad range of Novell software solutions in client companies. Involved in development of the core architecture to optimize performance of the Novell business solutions. Liaison with clients; provide on-site technical training to client staff. Write custom solutions in multiple programming languages to extend the software capability for clients. Selected projects include: 
+Dell: Architected and Integrated a Linux server configuration management system for ease of deployment for various distributions of Linux, Unix and Microsoft servers in there center. Developed custom pre and post install shell scripts to perform various tasks at the appropriate time.
+DoD (Sandia): Installed two different configuration management systems. The first system was allowed to use dhcp so I integrated with the pxe boot for loading various server images at boot time other additions/subtractions were done by a scheduled cron job deploying to the server. The second was a static ip based configuration management system, because of security, in this sub infrastructure I was able to push configurations based on xml data which held the configuration data for the specific servers to be configured.
+Oracle Install Scripts: Developed a set of scripts that wrapped around the oracle silent install and read a config file that was produced by question response offered to the user when installing oracle on the server.  
+The Gap: Led a cross functional team consisting of customer, IBM and Novell personal in a POS deployment architecture. Integrated existing directory solution and new IRES 2.0 technology from IBM along with POS software in order to develop, integrate and launch a successful new POS system for the Gap at a global level.  Wrote custom perl and shell scripts to configure thin client machines from the Linux deployment server.
+UrbanOutfitters: Led a team of technical staff to deploy a new POS solution. Brought into the project with three weeks until rollout. Due to technical issues once I was onsite I evaluated the executive required timelines and reviewed the issues technical staff was having with the POS rollout. Being able to understand both the business requirements from the executives and well as the technical issues was able to restructure the project to exceed the rollout by three days finishing the project on time and under budget.
+AAFES: Oversaw a team from IBM to develop and integrate a new POS system for all PX?s worldwide. Though the project was able to direct to staffing the required skill sets needed by the project and time frame of each task due to the ability to understand and bring together the business requirements and the complex infrastructure already in place. Since placing the right technical skill at the right time on site was able to shorten development and deployment.  
+Daimler Chrysler: Formed and led a cross-functional team in developing a $4 million CRM/sales solution that included an identity management solution, back-end database, and web interface. Enabled a 50% reduction in on-hand inventory at dealer locations; ease of access to customer data allowed for more targeted marketing initiatives. 
+Commerce Bank: Led a team of technical staff to create a system for secure user transactions with a centralized repository for customer data. Integrated with HR and other business systems throughout the banking enterprise. Served as the foundation for the bank to offer a customized ATM solution for customers. Designed a JBoss solution middle layer for the systems to utilize to see acceptable levels of ROI.  
+Pareto Systems: Launched a customized solution with a more fault-tolerant architecture and introduced best-of-breed principals for software design and engineering. Increased architecture uptime to 98% and cut time to sync new features into the product by 40% through automation and integration of best architectural practices. 
+Carlson Marketing Group: Oversaw a $7 million project to develop and implement the SOAP architecture for a new infrastructure. Decreased on-site maintenance by 85% by improving logistics between staff and vendor groups. Utilized JBoss as the middle tier in this solution and provided JBoss training to Carlson for developing future solutions utilizing JBoss. 
+Devon Energy: Project managed the architecture, installation, and configuration of an identity management and password synchronization solution. Lowered help desk calls by 95%, improved staff efficiency, and increased system usability for staff, saving the company thousands of dollars. 
+Western Union: Deployed a JBoss application server to illustrate the power of JBoss as a middleware piece in their new solution for a Datacenter refresh currently underway. Presented java code to developers to illustrate the ease of running JBoss in their current environment.
+X Generation Design, Inc., Dallas, Texas 1991-2002
+Programmer / Analyst  Consultant
+Managed a diverse range of IT development, implementation, and reengineering projects; directed technical teams in client organizations. Specialized in intranet, e-commerce, and client/server solutions. 
+Designed and developed a front end website for an e-commerce company that included the ability to auto complete and validate required form fields. Increased site usability and improved the user purchasing experience. 
+Developed and deployed a Palm application for doctors at a local health clinic to simplify entry and management of client information. Decreased data entry time by 40%. 
+Marconi Telecommunications: Leveraged existing technologies to create a solution to gather, process, and search test engineering data from the field for use by corporate to control costs. Built real-time client/server applications to monitor product quality. Enabled early resolution of problems and lowered costs from rework by 85%.   
+University Medical Center:
+Managed a group of 10 developers and network personnel to create and implement back-end technology (to utilize transaction, certification, and application servers), data storage solutions, automation tools, and workflow solutions. Optimized current technologies at a zero net cost for deployment. Trained staff on new technologies to optimize ROI. 
+Evaluated a set of technologies to provide a remote working solution with secure access to patient data for medical transcriptionists and physicians. Coordinated team of network staff in developing a new infrastructure backbone for data sharing between systems. Increased ROI by 80%, decreased staff workload by 50%, and cut overhead costs. 
+Led project to design an automated workflow system, dramatically reducing operating costs and increasing the efficiency of processes by 60% while maintaining full HIPPA compliance. 
+Education and Training
+Bachelor of Science
+University of North Texas, Denton, Texas
+Extensive technical certifications and professional development training
+GUIDE 2.0 Certified
+API 2.0 Certified
+Mosaix Supervisor Training
+JBoss Certified Consultant
+Java Certified
+Sentinel 7administration
+Novell Identity Manager Password Synchronization and Management
+Introduction to Novell Identity Manager Roles Based Provisioning Module 3.7
+Introduction to Novell Sentinel Log Manager
+Novell Identity Manager Entitlements from Creation to Completion
+Installation and Configuration of SecureLogin 7.0
+SOPHOS Encryption Appliance and Architecture
+Linux
+Advanced technical expertise across a broad range of technologies including various operating systems, integrated networking solutions, programming languages, enterprise-class software, enterprise architecture, and software. Full listing available upon request.  
+
+
+
+  
+    API 2.0
+  
+  
+    Architect
+  
+  
+    ATM
+  
+  
+    automation
+  
+  
+    automation tools
+  
+  
+    banking
+  
+  
+    budget
+  
+  
+    BI
+  
+  
+    business solutions
+  
+  
+    business systems
+  
+  
+    C
+  
+  
+    client/server
+  
+  
+    configuration management
+    config
+  
+  
+    Consultant
+  
+  
+    CRM
+  
+  
+    client
+    clients
+  
+  
+    data entry
+  
+  
+    database
+  
+  
+    cipher
+  
+  
+    Dell
+  
+  
+    dhcp
+  
+  
+    drivers
+  
+  
+    e-commerce
+  
+  
+    features
+  
+  
+    frame
+  
+  
+    functional
+  
+  
+    help desk
+  
+  
+    HR
+  
+  
+    IBM
+  
+  
+    inventory
+  
+  
+    ip
+  
+  
+    Java
+    java
+  
+  
+    JBoss
+  
+  
+    languages
+  
+  
+    Linux
+  
+  
+    listening
+  
+  
+    logistics
+  
+  
+    Marconi
+  
+  
+    marketing
+    Marketing
+  
+  
+    access
+  
+  
+    98
+  
+  
+    middleware
+  
+  
+    Enterprise
+    enterprise
+  
+  
+    network
+  
+  
+    Novell
+  
+  
+    operating system
+  
+  
+    Oracle
+    oracle
+  
+  
+    PCI
+  
+  
+    perl
+  
+  
+    personnel
+  
+  
+    POS
+  
+  
+    processes
+  
+  
+    programming
+  
+  
+    project plans
+  
+  
+    purchasing
+  
+  
+    pxe
+  
+  
+    quality
+  
+  
+    read
+  
+  
+    real-time
+  
+  
+    reengineering
+  
+  
+    sales
+  
+  
+    server configuration
+  
+  
+    servers
+  
+  
+    Scripts
+    scripts
+    shell scripts
+  
+  
+    SOAP
+  
+  
+    software design and engineering
+  
+  
+    staffing
+  
+  
+    Supervisor
+  
+  
+    technical training
+  
+  
+    white papers
+  
+  
+    Telecommunications
+  
+  
+    trade shows
+  
+  
+    Unix
+  
+  
+    website
+  
+  
+    workflow
+  
+  
+    written
+  
+  
+    xml
+  
+
+

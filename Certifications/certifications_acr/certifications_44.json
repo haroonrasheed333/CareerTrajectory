@@ -1,0 +1,75 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CCDM", 
+            "Certification Name": "Certified Clinical Data  Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "6758", 
+            "Certifying Organization": "Society for Clinical Data Management"
+        }, 
+        {
+            "Acronym": "CPRA", 
+            "Certification Name": "Certified Pre-Award Research Administrator", 
+            "Type": "Advanced", 
+            "Certification ID": "6882", 
+            "Certifying Organization": "Research Administrators Certification Council"
+        }, 
+        {
+            "Acronym": "IRB", 
+            "Certification Name": "Certification for Institutional Review Board (IRB) Professionals", 
+            "Type": "Advanced", 
+            "Certification ID": "6872", 
+            "Certifying Organization": "Public Responsibility in Medicine and Research"
+        }, 
+        {
+            "Acronym": "CRA", 
+            "Certification Name": "Certified Research Administrator", 
+            "Type": "Advanced", 
+            "Certification ID": "6881", 
+            "Certifying Organization": "Research Administrators Certification Council"
+        }, 
+        {
+            "Acronym": "CCRA", 
+            "Certification Name": "Certified Clinical Research Associate", 
+            "Type": "Core", 
+            "Certification ID": "5979", 
+            "Certifying Organization": "Association of Clinical Research Professionals"
+        }, 
+        {
+            "Acronym": "CCRC", 
+            "Certification Name": "Certified Clinical Research Coordinator", 
+            "Type": "Advanced", 
+            "Certification ID": "5980", 
+            "Certifying Organization": "Association of Clinical Research Professionals"
+        }, 
+        {
+            "Acronym": "CPIA", 
+            "Certification Name": "Certified Professional IACUC Administrator", 
+            "Type": "Advanced", 
+            "Certification ID": "6873", 
+            "Certifying Organization": "Public Responsibility in Medicine and Research"
+        }, 
+        {
+            "Acronym": "CTI", 
+            "Certification Name": "Clinical Trial Investigator", 
+            "Type": "Advanced", 
+            "Certification ID": "5982", 
+            "Certifying Organization": "Association of Clinical Research Professionals"
+        }, 
+        {
+            "Acronym": "CCTI", 
+            "Certification Name": "Certified Clinical Trial Investigator", 
+            "Type": "Advanced", 
+            "Certification ID": "6690", 
+            "Certifying Organization": "Association of Clinical Research Professionals"
+        }, 
+        {
+            "Acronym": "CPI", 
+            "Certification Name": "Certified Physician Investigator", 
+            "Type": "Specialty", 
+            "Certification ID": "5981", 
+            "Certifying Organization": "Association of Clinical Research Professionals"
+        }
+    ], 
+    "onet": "11912101"
+}

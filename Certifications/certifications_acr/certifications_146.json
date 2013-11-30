@@ -1,0 +1,61 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CCS", 
+            "Certification Name": "Certified Construction Specifier", 
+            "Type": "Advanced", 
+            "Certification ID": "1426", 
+            "Certifying Organization": "Construction Specifications Institute"
+        }, 
+        {
+            "Acronym": "CGIA", 
+            "Certification Name": "Certified Golf Irrigation Auditor", 
+            "Type": "Specialty", 
+            "Certification ID": "3188", 
+            "Certifying Organization": "Irrigation Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Golf Course Builder", 
+            "Type": "Specialty", 
+            "Certification ID": "6884", 
+            "Certifying Organization": "Golf Course Builders Association of America"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Designated Design-Build Professional Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "6183", 
+            "Certifying Organization": "Design-Build Institute of America"
+        }, 
+        {
+            "Acronym": "CID", 
+            "Certification Name": "Certified Irrigation Designer", 
+            "Type": "Advanced", 
+            "Certification ID": "1459", 
+            "Certifying Organization": "Irrigation Association"
+        }, 
+        {
+            "Acronym": "CLARB", 
+            "Certification Name": "Certified Landscape Architect", 
+            "Type": "Advanced", 
+            "Certification ID": "9428", 
+            "Certifying Organization": "Council of Landscape Architectural Registration Boards"
+        }, 
+        {
+            "Acronym": "CLWM", 
+            "Certification Name": "Certified Landscape Water Managers", 
+            "Type": "Specialty", 
+            "Certification ID": "1461", 
+            "Certifying Organization": "Irrigation Association"
+        }, 
+        {
+            "Acronym": "CLIA", 
+            "Certification Name": "Certified Landscape Irrigation Auditor", 
+            "Type": "Specialty", 
+            "Certification ID": "1458", 
+            "Certifying Organization": "Irrigation Association"
+        }
+    ], 
+    "onet": "17101200"
+}

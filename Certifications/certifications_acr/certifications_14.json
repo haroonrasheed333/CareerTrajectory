@@ -1,0 +1,159 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "MBB", 
+            "Certification Name": "Certified Master Black Belt", 
+            "Type": "Advanced", 
+            "Certification ID": "6786", 
+            "Certifying Organization": "American Society for Quality"
+        }, 
+        {
+            "Acronym": "CRE", 
+            "Certification Name": "Certified Reliability Engineer", 
+            "Type": "Advanced", 
+            "Certification ID": "0792", 
+            "Certifying Organization": "American Society for Quality"
+        }, 
+        {
+            "Acronym": "SSGB", 
+            "Certification Name": "Six Sigma Green Belt Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "6811", 
+            "Certifying Organization": "Society for Manufacturing Engineers"
+        }, 
+        {
+            "Acronym": "CIAQM", 
+            "Certification Name": "Certified Indoor Air Quality Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "3516", 
+            "Certifying Organization": "National Registry of Environmental Professionals"
+        }, 
+        {
+            "Acronym": "MQM", 
+            "Certification Name": "Master Quality Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "9497", 
+            "Certifying Organization": "American Academy of Project Management"
+        }, 
+        {
+            "Acronym": "IRB", 
+            "Certification Name": "Certification for Institutional Review Board (IRB) Professionals", 
+            "Type": "Advanced", 
+            "Certification ID": "6872", 
+            "Certifying Organization": "Public Responsibility in Medicine and Research"
+        }, 
+        {
+            "Acronym": "CSSBB", 
+            "Certification Name": "Certified Six Sigma Blackbelt", 
+            "Type": "Advanced", 
+            "Certification ID": "2602", 
+            "Certifying Organization": "American Society for Quality"
+        }, 
+        {
+            "Acronym": "CPGP", 
+            "Certification Name": "Certified Pharmaceutical GMP Professional", 
+            "Type": "Specialty", 
+            "Certification ID": "6787", 
+            "Certifying Organization": "American Society for Quality"
+        }, 
+        {
+            "Acronym": "RDSS", 
+            "Certification Name": "Robust Design for Six Sigma", 
+            "Type": "Advanced", 
+            "Certification ID": "6812", 
+            "Certifying Organization": "Society for Manufacturing Engineers"
+        }, 
+        {
+            "Acronym": "CHCM", 
+            "Certification Name": "Certified Hazard Control Manager", 
+            "Type": "Specialty", 
+            "Certification ID": "7878", 
+            "Certifying Organization": "International Board for Certification of Safety Managers"
+        }, 
+        {
+            "Acronym": "CHSP", 
+            "Certification Name": "Certified Healthcare Safety Professional", 
+            "Type": "Specialty", 
+            "Certification ID": "0662", 
+            "Certifying Organization": "International Board for Certification of Safety Managers"
+        }, 
+        {
+            "Acronym": "EFD", 
+            "Certification Name": "Emergency Fire Dispatch - Q Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "9450", 
+            "Certifying Organization": "International Academies of Emergency Dispatch"
+        }, 
+        {
+            "Acronym": "CPIA", 
+            "Certification Name": "Certified Professional IACUC Administrator", 
+            "Type": "Advanced", 
+            "Certification ID": "6873", 
+            "Certifying Organization": "Public Responsibility in Medicine and Research"
+        }, 
+        {
+            "Acronym": "CPHQ", 
+            "Certification Name": "Certified Professional in Healthcare Quality", 
+            "Type": "Core", 
+            "Certification ID": "9207", 
+            "Certifying Organization": "National Association for Healthcare Quality"
+        }, 
+        {
+            "Acronym": "EPD - Q", 
+            "Certification Name": "Emergency Police Dispatcher - Q Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "9451", 
+            "Certifying Organization": "International Academies of Emergency Dispatch"
+        }, 
+        {
+            "Acronym": "RCA", 
+            "Certification Name": "Responsible Care Auditor", 
+            "Type": "Advanced", 
+            "Certification ID": "6263", 
+            "Certifying Organization": "Board of Environmental Health and Safety Auditor Certification"
+        }, 
+        {
+            "Acronym": "EMD-Q", 
+            "Certification Name": "Emergency Medical Dispatch - Q Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "9449", 
+            "Certifying Organization": "International Academies of Emergency Dispatch"
+        }, 
+        {
+            "Acronym": "SSBB", 
+            "Certification Name": "Six Sigma Black Belt Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "6810", 
+            "Certifying Organization": "Society for Manufacturing Engineers"
+        }, 
+        {
+            "Acronym": "GDTP", 
+            "Certification Name": "Geometric Dimensioning & Tolerancing Professional - Technologist", 
+            "Type": "Advanced", 
+            "Certification ID": "2153", 
+            "Certifying Organization": "American Society of Mechanical Engineers International"
+        }, 
+        {
+            "Acronym": "OMA", 
+            "Certification Name": "Oil Monitoring Analyst", 
+            "Type": "Core", 
+            "Certification ID": "2108", 
+            "Certifying Organization": "Society of Tribologists and Lubrication Engineers"
+        }, 
+        {
+            "Acronym": "CQE", 
+            "Certification Name": "Certified Quality Engineer", 
+            "Type": "Advanced", 
+            "Certification ID": "0790", 
+            "Certifying Organization": "American Society for Quality"
+        }, 
+        {
+            "Acronym": "CMQ/OE", 
+            "Certification Name": "Certified Manager of Quality/Organizational Excellence", 
+            "Type": "Advanced", 
+            "Certification ID": "0795", 
+            "Certifying Organization": "American Society for Quality"
+        }
+    ], 
+    "onet": "11305101"
+}

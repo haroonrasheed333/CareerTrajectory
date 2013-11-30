@@ -1,0 +1,19 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Dental Technician", 
+            "Type": "Core", 
+            "Certification ID": "5633", 
+            "Certifying Organization": "National Board for Certification in Dental Laboratory Technology"
+        }, 
+        {
+            "Acronym": "BCB", 
+            "Certification Name": "Board Certified in Biofeedback", 
+            "Type": "Specialty", 
+            "Certification ID": "2318", 
+            "Certifying Organization": "Biofeedback Certification International Alliance"
+        }
+    ], 
+    "onet": "29202100"
+}

@@ -1,0 +1,169 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734593' xml:space='preserve'><contact><name><givenname>Kevin</givenname> <surname>Berish</surname></name>
+<address lat='36.1863' lon='82.3415' majorcity='UNICOI' state='TN'><street>110 Oaks Road</street>
+<city>Unicoi</city>, <state abbrev='TN'>TN</state> <postalcode>37692</postalcode></address>
+<phone>423-220-0124</phone>
+<email>Kevin@berish.us</email>
+<website>http://www.berish.us</website></contact>
+
+
+<summary>SUMMARY
+     <summary>More than 9 years programming and application development experience.</summary></summary>
+
+
+<skills>COMPUTER SKILLS
+     Languages
+        Proficient in: <skills>Microsoft Visual VB .Net, ASP .Net
+        Familiar with: C#, Javascript</skills>
+     Software
+        Database: <skills>Microsoft SQL Server and Microsoft Access
+        Platforms: Microsoft Windows® 2000 through Windows 7, Windows Server 2000 ­ 2008
+     Technologies
+        Familiar with LINQ, DotNetNuke module development, Entity Framework</skills></skills>
+
+
+<experience end='present' start='729877'>EXPERIENCE
+     <job end='present' id='1' pos='1' start='734352'><employer>VB .Net / C</employer># Developer                                                              <daterange><start days='734352' iso8601='2011-08-01'>8/2011</start>-<end days='present' iso8601='2012-03-29'>Current</end></daterange>
+     <employer>Associates International</employer> ­ <address><city>Lexington</city>, <state abbrev='KY'>KY</state></address>
+        <description>Develop and maintain Web applications using VB .Net / ASP .Net .
+        Develop and maintain Web Services using VB .Net and C#.
+        Create and modify SQL Server 2008 tables, databases , and stored procedures.
+        Create and modify Crystal Reports and SSRS for various projects.
+        Create and maintain DotNetNuke website/portals.
+        Develop and maintain Entity Framework web sites.</description></job>
+
+     <job end='734140' id='2' pos='2' sic='481302' sic2='48' start='733895'><title>VB .Net Developer</title>                                                                    <daterange><start days='733895' iso8601='2010-05-01'>5/2010</start>-<end days='734140' iso8601='2011-01-01'>1/2011</end></daterange>
+     <employer>Tele-Optics, Inc</employer>. ­ <address><city>Kingsport</city>, <state abbrev='TN'>TN</state></address>
+        <description>Developed and maintained Web applications using VB .Net / ASP .Net.
+        Developed and tested the HR intranet web applications.
+        Repaired break-fixes on various C# / ASP .Net HR sites
+        Developed and modified VB .Net Web Services.
+        Create and modified SQL Server 2008 tables, databases , and stored procedures.
+        Created and modified Crystal Reports printing HR statistics.</description></job>
+
+     <job end='733895' id='3' pos='3' start='733379'><title>Systems Analyst</title>                                                                     <daterange><start days='733379' iso8601='2008-12-01'>12/2008</start>-<end days='733895' iso8601='2010-05-01'>5/2010</end></daterange>
+     <employer>LabConnect, LLC</employer> ­ <address><city>Johnson City</city>, <state abbrev='TN'>TN</state></address>
+        <description>Developed and maintained BPOS SharePoint Sits and Portals (Lists,
+        Workflows, Libraries, etc...)
+        Created and modified SQL Server 2008 tables, databases, and stored
+        procedures.
+        Created and modified Crystal Reports that print medical studies.
+        Maintained and modified websites using VB .Net / ASP .Net.
+        Maintained and modified company in house Windows application
+        (TrialReach).</description></job>
+    <job end='733196' id='4' pos='4' start='732710'><title>Applications/Systems Analyst II</title>                                                       <daterange><start days='732710' iso8601='2007-02-01'>2/2007</start>-<end days='733196' iso8601='2008-06-01'>6/2008</end></daterange>
+    <employer>Technipak, LLC</employer> ­ <address><city>Gray</city>, <state abbrev='TN'>TN</state></address>
+       <description>Developed and maintained SQL Server 2000 Databases, t ables, stored procedures.
+       Created and modified Crystal Reports.
+       Developed and maintained web site using VB .Net / ASP .Net
+       Developed and maintained EDI system using BOOMI software.
+       Developed console applications using VB .Net</description></job>
+    <job end='731918' id='5' pos='5' start='731218'><title>Information Resource Support Specialist III</title>                                          <daterange><start days='731218' iso8601='2003-01-01'>1/2003</start>-<end days='731918' iso8601='2004-12-01'>12/2004</end></daterange>
+    <department>State of TN Dept. of Corrections</department> ­ <address><city>Mountain City</city>, <state abbrev='TN'>TN</state></address>
+       <description>Developed and maintained SQL Server 2000 Databases, tables, stored procedures.
+       Developed VB 6, VB .Net applications.
+       Maintained and developed Microsoft Access database fo rms and reports.</description></job>
+    <job end='731126' id='6' naics='42349018' naics2='42' pos='6' sic='506318' sic2='50' start='729877'><title>Information Technology Supervisor</title>                                                    <daterange><start days='729877' iso8601='1999-05-01'>5/1999</start>-<end days='731126' iso8601='2002-10-01'>10/2002</end></daterange>
+    <employer>Osram Sylvania, Inc</employer>. ­ <address><city>Juarez</city>, <country iso3='MEX'>Mexico</country></address>
+       <description>Developed and maintained SQL Server 7 Quality and R&amp;D databases.
+       Developed Windows applications using VB 5 / VB 6
+       Created reports for use using Crystal Reports and Microsoft Access.
+       Migrated Microsoft Access databases to SQL Server 7</description></job></experience>
+
+
+<education>EDUCATION
+    <school id='7'><institution>East Tennessee State University</institution>                                                            <completiondate days='729361' iso8601='1997-12-01'>12/1997</completiondate>
+    <address><city>Johnson City</city>, <state abbrev='TN'>TN</state></address>
+       <degree level='16' name='Bachelor of Science'>B.S</degree>., <major code='0402'>Computer Science</major></school>
+MILITARY
+    <school id='8'><institution>United States Navy</institution>                                                                         <completiondate days='726743' iso8601='1990-10-01'>10/1990</completiondate>
+    <description>USS Ticonderoga CG-47
+       Received Armed Forces Expeditionary Medal
+       Received Meritorious Unit Accommodation</description></school></education>
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='734579' experience='1' expidrefs='1,2,3,4,5' idrefs='1,2,3,4,5' lastused='2012' name='.net' start='731218'>
+    <variant>ASP .Net</variant>
+    <variant>VB .Net</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='8' idrefs='8' name='army'>
+    <variant>Armed Forces</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,3,4,6' idrefs='1,2,3,4,6' lastused='2012' name='crystal reports' start='729877'>
+    <variant>Crystal Reports</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,3,4,5,6' idrefs='1,2,3,4,5,6' lastused='2012' name='database administration' start='729877'>
+    <variant>Databases</variant>
+    <variant>databases</variant>
+    <variant>Database</variant>
+    <variant>database</variant>
+  </canonskill>
+  <canonskill end='733196' experience='1' expidrefs='4' idrefs='4' lastused='2008' name='electronic data interchange' start='732710'>
+    <variant>EDI</variant>
+  </canonskill>
+  <canonskill end='734140' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='human resources' start='733895'>
+    <variant>HR</variant>
+  </canonskill>
+  <canonskill name='javascript'>
+    <variant>Javascript</variant>
+  </canonskill>
+  <canonskill name='languages'>
+    <variant>Languages</variant>
+  </canonskill>
+  <canonskill end='731918' experience='1' expidrefs='5,6' idrefs='5,6' lastused='2004' name='microsoft access' start='729877'>
+    <variant>Microsoft Access</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='microsoft c #' start='733895'>
+    <variant>C#</variant>
+  </canonskill>
+  <canonskill end='731126' experience='1' expidrefs='6' idrefs='6' lastused='2002' name='microsoft visual basic 5.0' start='729877'>
+    <variant>VB 5</variant>
+  </canonskill>
+  <canonskill end='733895' experience='1' expidrefs='3,6' idrefs='3,6' lastused='2010' name='microsoft windows' start='729877'>
+    <variant>Windows 7</variant>
+    <variant>Windows</variant>
+    <variant>Windows applications</variant>
+  </canonskill>
+  <canonskill name='microsoft windows 2000'>
+    <variant>2000</variant>
+  </canonskill>
+  <canonskill end='731126' experience='1' expidrefs='6' idrefs='6' lastused='2002' name='quality' start='729877'>
+    <variant>Quality</variant>
+  </canonskill>
+  <canonskill end='731918' experience='1' expidrefs='5' idrefs='5' lastused='2004' name='rms' start='731218'>
+    <variant>rms</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,3' idrefs='1,2,3' lastused='2012' name='sql' start='733379'>
+    <variant>Microsoft SQL Server</variant>
+    <variant>SQL Server</variant>
+  </canonskill>
+  <canonskill end='733196' experience='1' expidrefs='4,5' idrefs='4,5' lastused='2008' name='sql server 2000' start='731218'>
+    <variant>SQL Server 2000</variant>
+  </canonskill>
+  <canonskill end='731126' experience='1' expidrefs='6' idrefs='6' lastused='2002' name='sql server7' start='729877'>
+    <variant>SQL Server 7</variant>
+  </canonskill>
+  <canonskill end='734140' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='statistics' start='733895'>
+    <variant>statistics</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,3,5' idrefs='1,2,3,5' lastused='2012' name='tables' start='731218'>
+    <variant>tables</variant>
+  </canonskill>
+  <canonskill end='731918' experience='1' expidrefs='5,6' idrefs='5,6' lastused='2004' name='visual basic 6.0' start='729877'>
+    <variant>VB 6</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='web application development' start='733895'>
+    <variant>Web applications</variant>
+    <variant>web applications</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,3,4' idrefs='1,3,4' lastused='2012' name='web site production' start='732710'>
+    <variant>web site</variant>
+    <variant>website</variant>
+    <variant>web sites</variant>
+    <variant>websites</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

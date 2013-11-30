@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734594' xml:space='preserve'><contact><name><givenname>Julie</givenname> <givenname>A</givenname>. <surname>Neapolitan</surname></name>								<address lat='41.552' lon='88.1116' majorcity='JOLIET' state='IL'><street>1420 N. May Street</street>
+										<city>Joliet</city>, <state abbrev='IL'>Illinois</state> <postalcode>60435</postalcode></address>
+										<phone>815.560.7273</phone>
+										<email>Jn5283@yahoo.com</email></contact>
+<summary><objective>My objective is to obtain a position that will allow me to use my extensive knowledge in logistics management in order to move freight expeditiously and reduce costs.</objective></summary>
+<experience end='present' start='730030'><job end='present' id='1' pos='1' sic='421201' sic2='42' start='734140'><employer>Badger Express</employer>, <address><city>Joliet</city>,Ilinois</address>
+<title>Driver Manager</title>/Customer Service <daterange><start days='734140' iso8601='2011-01-01'>January 2011</start>- <end days='present' iso8601='2012-03-30'>Current</end></daterange>
+<description>Assisting customer service with inventory and/or delivery issues
+Accurately plan and dispatch deliveries
+Review freight payments so that correct party is charged.
+Prepare orders for warehouse team, reviewed shipments, prepare bills of lading and verify trailer contents.
+Maintained pick-up and delivery schedules, and managed and resolved complaints regarding shipment errors or damages.</description></job>
+<job end='733683' id='2' pos='2' start='733288'><employer>SPX Service Solutions</employer>, <address><city>Romeoville</city>, <state abbrev='IL'>Illinois</state></address>
+<title>Traffic Planner</title> ,  <daterange><start days='733288' iso8601='2008-09-01'>Sept 2008</start> - <end days='733683' iso8601='2009-10-01'>Oct 2009</end></daterange>
+<description>Assisting customer service with inventory and/or delivery issues
+Ensuring customer fill rates and correct transportation guidelines are followed to avoid compliance issues.
+Research inbound and outbound shipment damages and shortages.
+Review freight payments so that correct party is charged.
+Coordinate outbound transportation.
+Prepared orders for warehouse team, reviewed shipments, prepare bills of lading and verify trailer contents.
+Maintained pick-up and delivery schedules, and managed and resolved complaints regarding shipment errors or damages.</description></job>
+<job end='733075' id='3' pos='3' start='731857'><employer>YRC Logistics</employer>, <address><city>Bolingbrook</city>, <state abbrev='IL'>Illinois</state></address>
+<title>Operations Supervisor</title>, <daterange><start days='731857' iso8601='2004-10-01'>Oct 2004</start> - <end days='733075' iso8601='2008-02-01'>Feb 2008</end></daterange>
+<description>Responsible for inbound and outbound freight including inventory functions.
+Shipping, receiving, delivery, pick-pack, distribution, customer service and physical inventory.
+Transportation management related claims, compliance to claim handling procedures, and coordination of continuous improvement initiatives.
+Oversaw product returns, stock rotations and inbound freight damaged or associated with returned product.
+Review transportation management claims and determine appropriate resolution.
+Coordinated training of claims processing and theft procedures, early detection and prevention.
+Communicate claims performance metrics, carrier claim resolution.
+Responsible for up to 50 employees depending on workload and season.</description></job>
+<job end='731857' id='4' pos='4' start='731522'><title>Returns Analyst</title>, <daterange><start days='731522' iso8601='2003-11-01'>Nov 2003</start> - <end days='731857' iso8601='2004-10-01'>Oct 2004</end></daterange>
+<description>Responsible for day to day analysis of over, short and damaged freight issues.
+Resolving issues with transportation carriers ensuring freight is delivered without exceptions.
+Inspect damaged freight claims and resolve inventory issues. Daily customer service issues.
+Scheduled transportation for returned or claimed  product.
+Various reports to ensure returns are posted to inventory correctly in SAP and WMS system.
+Researched mis-shipped freight and inventory discrepancies. Maintaining claims files ensuring files are up to date.</description></job>
+<job end='731096' id='5' pos='5' sic='421309' sic2='42' start='730030'><employer>Consolidated Freightways</employer>, <daterange><start days='730030' iso8601='1999-10-01'>Oct 1999</start> - <end days='731096' iso8601='2002-09-01'>Sept  2002</end></daterange>
+<title>OSAD Clerk</title>
+<description>Resolving daily customer service issues regarding lost or damaged freight.
+Research damaged and refused freight and problem solving. 
+Assist with city and line haul dispatch when needed.
+Prepare driver paperwork verifying trailer contents, HAZMAT and placard verification.
+Freight Billing, routing, data entry, tracking and tracing outbound and inbound freight.</description></job></experience>
+<skills>Administrative Skills include -	<skills>Microsoft Office (Word , Excel, PowerPoint, Access ), SAP, WMS, AS400, Other various transportation and logistics software.</skills></skills>
+</resume>
+
+<skillrollup version='1'>
+  <canonskill name='administration'>
+    <variant>Administrative Skills</variant>
+  </canonskill>
+  <canonskill name='as/400'>
+    <variant>AS400</variant>
+  </canonskill>
+  <canonskill end='731096' experience='1' expidrefs='5' idrefs='5' lastused='2002' name='billing' start='730030'>
+    <variant>Billing</variant>
+  </canonskill>
+  <canonskill end='733075' experience='1' expidrefs='3' idrefs='3' lastused='2008' name='continuous improvement' start='731857'>
+    <variant>continuous improvement</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,3,4,5' idrefs='1,2,3,4,5' lastused='2012' name='customer service' start='730030'>
+    <variant>customer service</variant>
+  </canonskill>
+  <canonskill end='731096' experience='1' expidrefs='5' idrefs='5' lastused='2002' name='data entry' start='730030'>
+    <variant>data entry</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,3' idrefs='1,2,3' lastused='2012' name='delivery' start='731857'>
+    <variant>delivery</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,3,4' idrefs='1,2,3,4' lastused='2012' name='inventory management' start='731522'>
+    <variant>inventory</variant>
+  </canonskill>
+  <canonskill name='logistics'>
+    <variant>logistics</variant>
+  </canonskill>
+  <canonskill name='microsoft access'>
+    <variant>Access</variant>
+  </canonskill>
+  <canonskill name='microsoft excel'>
+    <variant>Excel</variant>
+  </canonskill>
+  <canonskill name='microsoft office'>
+    <variant>Microsoft Office</variant>
+  </canonskill>
+  <canonskill name='microsoft powerpoint'>
+    <variant>PowerPoint</variant>
+  </canonskill>
+  <canonskill name='microsoft word'>
+    <variant>Word</variant>
+  </canonskill>
+  <canonskill end='731857' experience='1' expidrefs='4' idrefs='4' lastused='2004' name='mis' start='731522'>
+    <variant>mis</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,3' idrefs='1,2,3' lastused='2012' name='pick' start='731857'>
+    <variant>pick</variant>
+  </canonskill>
+  <canonskill end='731096' experience='1' expidrefs='5' idrefs='5' lastused='2002' name='problem solving' start='730030'>
+    <variant>problem solving</variant>
+  </canonskill>
+  <canonskill end='733075' experience='1' expidrefs='3' idrefs='3' lastused='2008' name='receiving' start='731857'>
+    <variant>receiving</variant>
+  </canonskill>
+  <canonskill end='733683' experience='1' expidrefs='2,5' idrefs='2,5' lastused='2009' name='research' start='730030'>
+    <variant>Research</variant>
+  </canonskill>
+  <canonskill end='731096' experience='1' expidrefs='5' idrefs='5' lastused='2002' name='routers' start='730030'>
+    <variant>routing</variant>
+  </canonskill>
+  <canonskill end='731857' experience='1' expidrefs='4' idrefs='4' lastused='2004' name='sap' start='731522'>
+    <variant>SAP</variant>
+  </canonskill>
+  <canonskill end='733075' experience='1' expidrefs='3' idrefs='3' lastused='2008' name='shipping' start='731857'>
+    <variant>Shipping</variant>
+  </canonskill>
+  <canonskill end='733683' experience='1' expidrefs='2,3,4' idrefs='2,3,4' lastused='2009' name='transportation' start='731522'>
+    <variant>Transportation</variant>
+    <variant>transportation</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

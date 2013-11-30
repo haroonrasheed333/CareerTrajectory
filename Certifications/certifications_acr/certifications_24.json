@@ -1,0 +1,110 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CSCP", 
+            "Certification Name": "Certified Sales Compensation Professional", 
+            "Type": "Core", 
+            "Certification ID": "9030", 
+            "Certifying Organization": "WorldatWork"
+        }, 
+        {
+            "Acronym": "CEBS", 
+            "Certification Name": "Certified Employee Benefit Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "0102", 
+            "Certifying Organization": "International Foundation of Employee Benefit Plans"
+        }, 
+        {
+            "Acronym": "CMS", 
+            "Certification Name": "Compensation Management Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "8135", 
+            "Certifying Organization": "International Foundation of Employee Benefit Plans"
+        }, 
+        {
+            "Acronym": "GBA", 
+            "Certification Name": "Group Benefits Associate", 
+            "Type": "Specialty", 
+            "Certification ID": "8136", 
+            "Certifying Organization": "International Foundation of Employee Benefit Plans"
+        }, 
+        {
+            "Acronym": "SPHR", 
+            "Certification Name": "Senior Professional in Human Resources", 
+            "Type": "Advanced", 
+            "Certification ID": "0090", 
+            "Certifying Organization": "Human Resources Certification Institute"
+        }, 
+        {
+            "Acronym": "PHR", 
+            "Certification Name": "Professional in Human Resources", 
+            "Type": "Advanced", 
+            "Certification ID": "0089", 
+            "Certifying Organization": "Human Resources Certification Institute"
+        }, 
+        {
+            "Acronym": "k", 
+            "Certification Name": "Qualified 401(k) Administrator", 
+            "Type": "Advanced", 
+            "Certification ID": "3983", 
+            "Certifying Organization": "American Society of Pension Professionals  and Actuaries"
+        }, 
+        {
+            "Acronym": "CFC", 
+            "Certification Name": "Certified in Flexible Compensation", 
+            "Type": "Core", 
+            "Certification ID": "6177", 
+            "Certifying Organization": "Employers Council on Flexible Compensation"
+        }, 
+        {
+            "Acronym": "GPHR", 
+            "Certification Name": "Global Professional in Human Resources", 
+            "Type": "Advanced", 
+            "Certification ID": "4497", 
+            "Certifying Organization": "Human Resources Certification Institute"
+        }, 
+        {
+            "Acronym": "RPA", 
+            "Certification Name": "Retirement Plans Associate", 
+            "Type": "Core", 
+            "Certification ID": "8137", 
+            "Certifying Organization": "International Foundation of Employee Benefit Plans"
+        }, 
+        {
+            "Acronym": "CBF", 
+            "Certification Name": "Certified Benefits Professional", 
+            "Type": "Core", 
+            "Certification ID": "9028", 
+            "Certifying Organization": "WorldatWork"
+        }, 
+        {
+            "Acronym": "CCP", 
+            "Certification Name": "Certified Compensation Professional", 
+            "Type": "Core", 
+            "Certification ID": "9026", 
+            "Certifying Organization": "WorldatWork"
+        }, 
+        {
+            "Acronym": "CFCI", 
+            "Certification Name": "Certified in Flexible Compensation Instruction", 
+            "Type": "Advanced", 
+            "Certification ID": "6178", 
+            "Certifying Organization": "Employers Council on Flexible Compensation"
+        }, 
+        {
+            "Acronym": "CRSP", 
+            "Certification Name": "Certified Retirement Services Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "1545", 
+            "Certifying Organization": "Institute of Certified Bankers"
+        }, 
+        {
+            "Acronym": "QPA", 
+            "Certification Name": "Qualified Pension Administrator", 
+            "Type": "Advanced", 
+            "Certification ID": "1356", 
+            "Certifying Organization": "American Society of Pension Professionals  and Actuaries"
+        }
+    ], 
+    "onet": "11311100"
+}

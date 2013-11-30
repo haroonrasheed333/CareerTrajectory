@@ -1,0 +1,54 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CIPS", 
+            "Certification Name": "Certified International Property Specialist", 
+            "Type": "Core", 
+            "Certification ID": "8232", 
+            "Certifying Organization": "National Association of Realtors"
+        }, 
+        {
+            "Acronym": "MAI", 
+            "Certification Name": "MAI Designation", 
+            "Type": "Advanced", 
+            "Certification ID": "9192", 
+            "Certifying Organization": "Appraisal Institute"
+        }, 
+        {
+            "Acronym": "RES", 
+            "Certification Name": "Residential Evaluation Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "1337", 
+            "Certifying Organization": "International Association of Assessing Officers"
+        }, 
+        {
+            "Acronym": "SRA", 
+            "Certification Name": "SRA Designation", 
+            "Type": "Core", 
+            "Certification ID": "9193", 
+            "Certifying Organization": "Appraisal Institute"
+        }, 
+        {
+            "Acronym": "PPS", 
+            "Certification Name": "Personal Property Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "1339", 
+            "Certifying Organization": "International Association of Assessing Officers"
+        }, 
+        {
+            "Acronym": "HCCP", 
+            "Certification Name": "Housing Credit Certified Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "3798", 
+            "Certifying Organization": "National Association of Home Builders"
+        }, 
+        {
+            "Acronym": "CAE", 
+            "Certification Name": "Certified Assessment Evaluator", 
+            "Type": "Advanced", 
+            "Certification ID": "1336", 
+            "Certifying Organization": "International Association of Assessing Officers"
+        }
+    ], 
+    "onet": "13202101"
+}

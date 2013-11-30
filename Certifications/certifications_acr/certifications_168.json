@@ -1,0 +1,110 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "MBB", 
+            "Certification Name": "Certified Master Black Belt", 
+            "Type": "Advanced", 
+            "Certification ID": "6786", 
+            "Certifying Organization": "American Society for Quality"
+        }, 
+        {
+            "Acronym": "CRE", 
+            "Certification Name": "Certified Reliability Engineer", 
+            "Type": "Advanced", 
+            "Certification ID": "0792", 
+            "Certifying Organization": "American Society for Quality"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Materials Selection/Design Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "1148", 
+            "Certifying Organization": "NACE International"
+        }, 
+        {
+            "Acronym": "OCAT", 
+            "Certification Name": "OCAT Technician", 
+            "Type": "Advanced", 
+            "Certification ID": "8582", 
+            "Certifying Organization": "NACE International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Internal Corrosion Technologist", 
+            "Type": "Advanced", 
+            "Certification ID": "8586", 
+            "Certifying Organization": "NACE International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Welding Supervisor", 
+            "Type": "Core", 
+            "Certification ID": "3987", 
+            "Certifying Organization": "American Welding Society"
+        }, 
+        {
+            "Acronym": "CSSBB", 
+            "Certification Name": "Certified Six Sigma Blackbelt", 
+            "Type": "Advanced", 
+            "Certification ID": "2602", 
+            "Certifying Organization": "American Society for Quality"
+        }, 
+        {
+            "Acronym": "CPGP", 
+            "Certification Name": "Certified Pharmaceutical GMP Professional", 
+            "Type": "Specialty", 
+            "Certification ID": "6787", 
+            "Certifying Organization": "American Society for Quality"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Highway Materials - Level I", 
+            "Type": "Core", 
+            "Certification ID": "5374", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "CMRP", 
+            "Certification Name": "Certified Maintenance & Reliability Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "7991", 
+            "Certifying Organization": "Society for Maintenance & Reliability Professionals"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Corrosion Specialist", 
+            "Type": "Advanced", 
+            "Certification ID": "1152", 
+            "Certifying Organization": "NACE International"
+        }, 
+        {
+            "Acronym": "CMRP", 
+            "Certification Name": "Certified Materials & Resource Professional", 
+            "Type": "Core", 
+            "Certification ID": "3746", 
+            "Certifying Organization": "Association for Healthcare Resource & Materials Management"
+        }, 
+        {
+            "Acronym": "PCMH", 
+            "Certification Name": "Professional Certified in Materials Handling", 
+            "Type": "Core", 
+            "Certification ID": "1430", 
+            "Certifying Organization": "Materials Handling and Management Society"
+        }, 
+        {
+            "Acronym": "GDTP", 
+            "Certification Name": "Geometric Dimensioning & Tolerancing Professional - Technologist", 
+            "Type": "Advanced", 
+            "Certification ID": "2153", 
+            "Certifying Organization": "American Society of Mechanical Engineers International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Welding Engineer", 
+            "Type": "Advanced", 
+            "Certification ID": "3988", 
+            "Certifying Organization": "American Welding Society"
+        }
+    ], 
+    "onet": "17213100"
+}

@@ -1,0 +1,117 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "ROT", 
+            "Certification Name": "Registered Orthopedic Technologist", 
+            "Type": "Core", 
+            "Certification ID": "5659", 
+            "Certifying Organization": "American Society of Orthopedic Professionals"
+        }, 
+        {
+            "Acronym": "BCO", 
+            "Certification Name": "Board Certified Ocularist", 
+            "Type": "Core", 
+            "Certification ID": "2315", 
+            "Certifying Organization": "National Examining Board of Ocularists, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Orthotic and Prosthetic Technician", 
+            "Type": "Core", 
+            "Certification ID": "5736", 
+            "Certifying Organization": "American Board for Certification in Orthotics, Prosthetics and Pedorthics, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Orthotic Fitter", 
+            "Type": "Core", 
+            "Certification ID": "5737", 
+            "Certifying Organization": "American Board for Certification in Orthotics, Prosthetics and Pedorthics, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Orthotist", 
+            "Type": "Core", 
+            "Certification ID": "9488", 
+            "Certifying Organization": "American Board for Certification in Orthotics, Prosthetics and Pedorthics, Inc."
+        }, 
+        {
+            "Acronym": "BOC-COF", 
+            "Certification Name": "Orthotic Fitter Certification", 
+            "Type": "Core", 
+            "Certification ID": "3638", 
+            "Certifying Organization": "Board of Certification/Accreditation International"
+        }, 
+        {
+            "Acronym": "FAAOP", 
+            "Certification Name": "Fellow of the American Academy of Orthotists and Prosthetists", 
+            "Type": "Core", 
+            "Certification ID": "2228", 
+            "Certifying Organization": "American Academy of Orthotists and Prosthetists"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Prosthetist", 
+            "Type": "Core", 
+            "Certification ID": "2231", 
+            "Certifying Organization": "American Board for Certification in Orthotics, Prosthetics and Pedorthics, Inc."
+        }, 
+        {
+            "Acronym": "CMF", 
+            "Certification Name": "Certified Mastectomy Fitter", 
+            "Type": "Core", 
+            "Certification ID": "5441", 
+            "Certifying Organization": "American Board for Certification in Orthotics, Prosthetics and Pedorthics, Inc."
+        }, 
+        {
+            "Acronym": "BOCP", 
+            "Certification Name": "Prosthetist Certification", 
+            "Type": "Core", 
+            "Certification ID": "3637", 
+            "Certifying Organization": "Board of Certification/Accreditation International"
+        }, 
+        {
+            "Acronym": "CCA", 
+            "Certification Name": "Certified Clinical Anaplastologist", 
+            "Type": "Advanced", 
+            "Certification ID": "9422", 
+            "Certifying Organization": "Board for Certification In Clinical Anaplastology"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Therapeutic Shoe Fitter", 
+            "Type": "Specialty", 
+            "Certification ID": "5874", 
+            "Certifying Organization": "American Board for Certification in Orthotics, Prosthetics and Pedorthics, Inc."
+        }, 
+        {
+            "Acronym": "BOCO", 
+            "Certification Name": "Orthotist Certification", 
+            "Type": "Core", 
+            "Certification ID": "3636", 
+            "Certifying Organization": "Board of Certification/Accreditation International"
+        }, 
+        {
+            "Acronym": "BOPCD", 
+            "Certification Name": "Pedorthist Certification", 
+            "Type": "Core", 
+            "Certification ID": "5755", 
+            "Certifying Organization": "Board of Certification/Accreditation International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Pedorthist", 
+            "Type": "Core", 
+            "Certification ID": "2301", 
+            "Certifying Organization": "American Board for Certification in Orthotics, Prosthetics and Pedorthics, Inc."
+        }, 
+        {
+            "Acronym": "CMF", 
+            "Certification Name": "Mastectomy Fitter Certification", 
+            "Type": "Core", 
+            "Certification ID": "3639", 
+            "Certifying Organization": "Board of Certification/Accreditation International"
+        }
+    ], 
+    "onet": "29209100"
+}

@@ -1,0 +1,697 @@
+
+Marc A. Pahr
+
+
+EXECUTIVE SUMMARY
+Marc graduated from college in 1980 and his first job out of school was with International Harvester; he was involved with creation of COBOL programs.  After that he worked at PMSC doing updates and new development to online and batch COBOL programs and continued on in Mainframe development for the next 2 decades. Marc also has knowledge specific to the insurance industry having tested on INS21 General Principles, INS22 Property and INS23 Casualty Insurance. At this point in his career, COBOL development has become routine for Marc. More recently, Marc has made an effort to update his skill set attempting to become more relevant in today's competitive IT market. He's received training on PL/SQL development and has recently been exposed to C#.NET. Marc is available to interview immediately but he requires 1-2 weeks before he can start an assignment. His additional career highlights are bulleted below. 
+
+The Data Analyst is responsible for creating reports and interpreting trends from a variety of data sources to assist the Vehicle Technical Service group in making business decisions to improve vehicle quality. This position requires strong knowledge of automotive or manufacturing statistical methods for quality analysis and reporting. The position is responsible for taking data from various systems and sources and creating methods to interpret and summarize conclusions that are actionable and relevant. The position supports the Vehicle Technical Service quality improvement process and is responsible for assisting with  ad-hoc reporting requests from many business units.
+Prior to 2001 I worked 10 years as a Mainframe Developer in COBOL, PL, IDMS, DB2, IMS, SAS and CICS.
+Used Identity Management and Oracle Security Token Service as an enterprise-level solution that facilitates Token exchange, Identity propagation and end-to-end Security across web services through a Token based identity
+I'm familiar with UNIX and its commands/utilities at the user level. Can edit files using more than one editor. Uses at least two shells one of them being UNIX.
+Used PowerBuilder and data-handling object called a DataWindow, which is used to create, edit, and display data from the database.
+Use of packages helps with organized code management and act like containers for related subprograms, and items. 
+Published Applications across a WAN. Ability to understand and apply the inter-relationships of servers and applications in the work environment.
+Used (APEX) as an entirely web-based development framework that is built into every edition of Oracle Database.
+Used Apex to addresses globalization, scalability, security, and other concerns of enterprise-level development. 
+Oracle APEX allows a fast development cycle to be achieved to create web based applications. 
+Oracle ADF is based on the Model-View-Controller (MVC) design pattern. Separating applications into these layers simplifies maintenance and reuse of components across applications. The independence of each layer from the other results in a loosely coupled Service Oriented Architecture (SOA). Oracle ADF implements MVC and further separates the model layer from the business services to enable service-oriented development of applications
+Oracle ADF is the tool that enables a single design-time environment for Oracle SOA Suite 11g is JDeveloper. JDeveloper is a mature, award-winning design and development tool that has been proven and hardened over the years. JDeveloper is not only used to create SCA assembly models, but also to create SCA deployment modules, BPEL processes, Mediator configurations, dashboards, traditional Java applications, web and portal applications and more.
+Oracle provides a complete SOA software solution - Oracle SOA Suite, is an integrated, productive environment that is a leader in its category.
+This includes the service-oriented development of applications, service-oriented integration of applications and IT systems, and business process management (BPM). The components of the suite benefit from common capabilities including a single deployment and management model, consistent tooling, end-to-end security, and unified metadata management.
+As a business analyst collected useful requirements to design the user approval and entitlement executive system. Planned Test-Cases &amp; -Scripts based on the URD.
+Utilized Quality Center for directing, tracking and outlining needs during a project SDLC. Sr. analyst on the data migration projects to combine client information from the distributed policy resource systems into Enterprise Customer Info File (CIF).  Produced complete data mappings and data conversion need documents for CIF to ECIF migrations. Carried out regular triage meetings to recognize and determine critical testing faults.
+Technical lead for software development of a mezzanine card solution. Responsible for content and presentation of documents at System Functional Review (SFR), Preliminary Design Review (PDR), and Customer Design Review (CDR) to customers - Successfully communicated and accepted by the customers. Responsible for derived requirements from Systems Engineering (SE) Verification Cross Reference Matrix (VCRM). Designed, implemented, and integrated tested Application software to the comply with customer requirements.  Abided by software safety standards and conventions that were specified by customer and diagnostic engineering department for multiple programs. Participated in Preliminary Design Review (PDR) with customer. Done market &amp; competitive due diligences for $7 M investment in 2 early phase tech companies. Ready price &amp; revenue statements and performed financial assessment for the investments in such companies. Helped CFO with a fund-raising for novel $150M fund. Ready Due Diligence survey and audited Term Sheet for the Series B sequence of financing.
+(UCM) Content Server is the foundation for a variety of Oracle content management products. It provides a     flexible, secure, centralized, web-based repository that manages all phases of the content life cycle: from creation and approval to publishing, searching, expiration, and archival or disposition. Every contributor throughout the organization can easily contribute content from native desktop applications, efficiently manage business content via rich library services, and securely access that content anywhere using a web browser. All content, regardless of content type, is stored in the web repository or database for management, reuse and access. While stored in the repository, all types of content-ranging from e-mail, discussions, documents, reports, spreadsheets and records to images, multimedia or other digital formats-receive the same set of fundamental core services.
+Strong analytical and problem solving skills with the ability to set targets, design improvement plans and ascertain best methodologies.
+Wrote technical documentations for related infrastructure and installs which will include, but not limited by, the following technologies:
+Clustering, Filesystem, Volume Manager, Disksuite, ZFS, OS: Redhat Linux, Oracle Solaris
+Worked on integrating the companies ERP system using public and private APIs. 
+Preformed application programming from 1996 through 2011. Doing programming, testing, debugging, implementation and documentation used SDLC as my guide. Worked with Oracle application framework and procurement, Account receivable, accounts payable and Manufacturing Replenish Planning. . 
+I have strong data analysis skills along with using MS office and Word, Excel, and Outlook. I possess an incredible attention to detail.
+Used the principals of OOP such as Inheritance, polymorphism, In contrast, using object-oriented analysis, design, and programming techniques, the focus remains on the real-world objects throughout the development cycle. Although there is no clear winner in object-oriented analysis an overlap between each of the three development steps. The analyst and the programmer are both interested in development of usable (and reusable) objects. These programming objects (referred to as class declarations), once tested and made available to other programmers, do not have to be retested and redesigned every time changes are made to the data layout.
+Used Oracle for cash transactions that were to be reconciled &amp; received. These cash transactions were to be reconciled &amp; accounted from Oracle Receivables
+The ApexLib Development Framework give you lot of possibilities to tweak and enhance your Oracle APEX application. The Oracle APEX Builder Plugin is a productivity and usability enhancement tool for the development environment of Oracle Application Express (APEX). It integrates with Firefox and Internet Explorer to put a wealth of new features to your favorite development tool. 
+Used MySQL as a relational database management system (RDBMS) that runs as a server providing multi-user access to a number of databases.
+
+Oracle Developer
+
+AIM methodology, Oracle A.I.M. Methodology encompasses a project management methodology with documentation templates that support the life cycle of an implementation. The life cycle methodology and documentation templates allow A.I.M. to be a very useful tool for managing implementation projects successfully. The A.I.M. methodology can actually be used for any type IT software implementations however the value of A.I.M is within the documentation template. The software includes the documentation templates, manuals and an html website to manage these templates
+Used Cursor processing which is a variable that runs through the tuples of some relation. This relation can be a stored table, or it can be the answer to some query. By fetching into the cursor each tuple of the relation, we can write a program to read and process the value of each such tuple. If the relation is stored, we can also update or delete the tuple at the current cursor position.
+Oracle PL/SQL is a highly structured, strongly typed programming language that uses natural language constructs to make it easy to understand and use. 
+PL/SQL combines the data-manipulating power of SQL with the processing power of procedural languages. You can control program flow with statements like IF and LOOP. As with other procedural programming languages, you can declare variables, define procedures and functions, and trap runtime errors.
+PL/SQL lets you break complex problems down into easily understandable procedural code, and reuse this code across multiple applications. When a problem can be solved through plain SQL, you can issue SQL commands directly inside your PL/SQL programs, without learning new APIs. PL/SQL's data types correspond with SQL's column types, making it easy to interchange PL/SQL variables with data inside a table.
+Used Oracle Agile in the supply chain re-engineering for end-to-end product lifecycle management (PLM) solution, Oracle's Agile PLM helps companies accelerate profitable innovation. Used Agile PLM to enables access to your Agile data via a service platform connected to your Agile server in a secured environment. To intuitive, familiar interface so you can be immediately productive. To view attachments from your device (.pdf, MS Office, .jpg and many others). To see the status of other approvers for the same change order and to works natively with your device's existing capabilities, so there is no need for any special programming.  
+JOB TITLE: SYSTEM ANALYST:
+BI Publisher data and report template development experience a Cognos is IBM's business intelligence (BI) and performance management software suite. The software is designed to enable business users without technical knowledge to extract corporate data, analyze it and assemble reports.  Cognos is composed of nearly three dozen software products. Because Cognos is built on open standards, the software products can be used with relational and multidimensional data sources from multiple vendors, including Microsoft, NCR Teradata.Oracle BI Publisher.
+Used Cognos Express Reporter for ad hoc reporting.
+Used Extract, transform and load (ETL) to extracting data from outside sources; transforming it to fit operational needs and loading it to fit operational needs used in data warehousing.
+Oracle XML Publisher (XMLP) is Oracle Corporation's new reporting technology. It was originally developed to solve the reporting problems faced by Oracle Applications. It was first released with Oracle E-Business Suite 11.5.10 in 2003. XML Publisher Enterprise with no dependency on Oracle Applications. When XML Publisher became part of the Oracle BI Enterprise Edition Suite it was re-branded as Oracle BI Publisher. BI Publisher separates the creation of data (XML) from the process of formatting it for different uses. The engine can format any well-formed XML data, allowing integration with any system that can generate XML, including Web Services or any data source available through JDBC BI Publisher can merge multiple data sources into a single output document.
+During an Oracle Applications implementation, additional configuration, design, or programming requirements are necessary to satisfy functional requirements and achieve the desired functionality. The objective during any implementation would be to keep new object development to an absolute minimum. RICE objects represent requirements not currently supported within the core functionality of an Oracle Application Module being implemented and thus require additional technical development to satisfy the functional requirement of a organization. During an Implementation development of RICE components involves:  Enhancements (or extensions) to the existing system to add additional functionality to existing system without disturbing the core software functionality of the system. 
+I'm experienced in all phases of the system development life cycle from specifications, analysis, logical design, physical design, programming, testing, installation, documentation and user training. 
+As a technical writer or professional writer I designed, created and maintained technical documentation. This documentation includes online help, and user guides.   
+Writing Shell scripts using ksh, bash, PERL for process automation of databases, applications, backup and scheduling. 
+I'm experienced in performing DBA tasks including creating users, roles, tables, table spaces, imports and exports for development of databases
+Used PL/SQL (Procedural Language/Structured Query Language) for Oracle's corporation procedural extension language for SQL and the Oracle relational database. 
+EDUCATION and CERTIFICATIONS
+
+Northeastern Illinois University 1985 MA Master's Degree in History
+Northeastern Illinois University 1980 BS Computer Science
+Oakton College 1998 AA International Business
+Harper College 2002 Senior Network Specialist 
+Harper College 2004 Certificate in Advanced LAN Mgmt.
+Harper College, May 2008 Senior Network Administrator 
+Harper College, May 2008 Computer Information Sys .TECH cert 
+
+TECHNICAL CRITERIA 
+
+COBOL, CICS, Application Development Workstation, FileAid, DB2, IMS DB, PL/1, MicroFocus COBOL, TSO/ISPF, JCL, VSAM, PANVALET, Access, Excel, IFPS,DOS/VSE, SAS, HTML , SYNON ,MS Visio, Windows XP/98/95, ICCF, Desk-top Suite of Utilities, Roscoe, REXX, Oracle, Windows XP, Windows, UNISYS 1190, IBM RS6000, 3090, 308x, 4341, Apple IIE, AS 400 ,COMPAQ, Dell PC and IBM Compatible PCs
+
+EXPERIENCE
+
+Nicor Gas, Naperville, IL	 01/01 - 10/07
+Oracle Developer / Systems Administrator / Consultant
+I used Oracle Application Express (Oracle APEX) as a rapid web application development tool for the Oracle database. I supported Shell scripting in a UNIX setting; used basic UNIX commands like LS to list files. I also used OAF development which can be split in two major categories namely: Personalization refers to the ability to declaratively alter the UI to suit user or business needs and Extensibility refers to the ability to programmatically extend an application's functionality. Used Oracle Applications - Apps E-Business Suite (also known as Applications/Apps or EB-Suite/EBS) to collect enterprise resource planning (ERP), customer relationship management (CRM), and supply-chain management (SCM) computer applications either developed by or acquired by Oracle. Worked on testing AP, AR, GL, FA, CE and other financial modules. Worked with CC&amp;B Customer Care &amp; Billing System in a UNIX environment; accessed Oracle table through the use of structure and efficient SQL. I used BizTalk to promote XML as the common data exchange language for e-commerce and application integration on the Internet. Worked in a TSO/ISPF environment. 
+
+Prior to this I worked as a Programmer Analyst for Allstate, Motorola, Caremark and Metpath doing maintenance, updates to and creation of application software using Cobol,CICS,DB2 and mainframes. I used SAS and utilities to accomplish my work/assignments.     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4
+
+
+
+
+  
+    C#.NET
+  
+  
+    accounts payable
+  
+  
+    ad
+  
+  
+    Agile
+  
+  
+    Analyst
+    analyst
+  
+  
+    AP
+  
+  
+    Apple
+  
+  
+    Application Development
+  
+  
+    AR
+  
+  
+    A.I.
+  
+  
+    AS 400
+  
+  
+    assembly
+  
+  
+    attention to detail
+  
+  
+    automation
+  
+  
+    automotive
+  
+  
+    backup
+  
+  
+    bash
+  
+  
+    basic
+  
+  
+    Billing System
+  
+  
+    BizTalk
+  
+  
+    business analyst
+  
+  
+    BI
+    business intelligence
+  
+  
+    business planning
+  
+  
+    business process
+  
+  
+    CICS
+  
+  
+    CISCO routers
+  
+  
+    Clustering
+  
+  
+    COBOL
+    Cobol
+  
+  
+    Cognos
+  
+  
+    COMPAQ
+  
+  
+    competitive
+  
+  
+    computer applications
+  
+  
+    content
+    content management
+    Content
+  
+  
+    Controller
+  
+  
+    credit
+  
+  
+    customer relationship management
+    CRM
+  
+  
+    client
+  
+  
+    Customer Care
+  
+  
+    data analysis
+  
+  
+    data conversion
+  
+  
+    data migration
+  
+  
+    databases
+    Database
+    database
+  
+  
+    data warehousing
+  
+  
+    debugging
+  
+  
+    decision making
+  
+  
+    decision support
+  
+  
+    Delivery
+  
+  
+    Dell
+  
+  
+    directing
+  
+  
+    documentation
+  
+  
+    DOS/VSE
+  
+  
+    Due Diligence
+  
+  
+    e-commerce
+  
+  
+    E-Business
+  
+  
+    edit
+    editor
+  
+  
+    e-mail
+  
+  
+    ERP
+    enterprise resource planning
+  
+  
+    ETL
+  
+  
+    fast
+  
+  
+    features
+  
+  
+    FileAid
+  
+  
+    financing
+  
+  
+    financial
+  
+  
+    focus
+  
+  
+    forecasting
+  
+  
+    Functional
+    functional
+  
+  
+    fund-raising
+  
+  
+    GL
+  
+  
+    HTML
+    html
+  
+  
+    IBM
+  
+  
+    IBM Compatible PCs
+  
+  
+    DB2
+  
+  
+    IDMS
+  
+  
+    IMS
+  
+  
+    IMS DB
+  
+  
+    innovation
+  
+  
+    Insurance
+    insurance
+  
+  
+    Internet Explorer
+  
+  
+    investments
+  
+  
+    Java
+  
+  
+    JCL
+  
+  
+    JDBC
+  
+  
+    Korn shell
+    ksh
+  
+  
+    LAN
+  
+  
+    languages
+  
+  
+    layout
+  
+  
+    Mainframe
+    mainframes
+  
+  
+    Mgmt
+    managing
+  
+  
+    market
+  
+  
+    Mars
+  
+  
+    meetings
+  
+  
+    MicroFocus COBOL
+  
+  
+    Access
+    access
+  
+  
+    Excel
+  
+  
+    exchange
+  
+  
+    MS Office
+    MS office
+  
+  
+    Outlook
+  
+  
+    Publisher
+  
+  
+    Windows
+  
+  
+    98
+  
+  
+    Windows XP
+  
+  
+    Word
+  
+  
+    works
+  
+  
+    Motorola
+  
+  
+    multimedia
+  
+  
+    MVC
+  
+  
+    MySQL
+  
+  
+    natural
+  
+  
+    Enterprise
+    enterprise
+  
+  
+    Network Administrator
+  
+  
+    Network
+    networking
+  
+  
+    next 2
+  
+  
+    novel
+  
+  
+    object-oriented analysis
+  
+  
+    OOP
+  
+  
+    ODS
+  
+  
+    online help
+  
+  
+    OS
+  
+  
+    Oracle
+  
+  
+    Oracle Applications
+  
+  
+    Oracle database
+    DBA
+    Oracle Database
+  
+  
+    Developer
+  
+  
+    Oracle PL/SQL
+    PL/SQL
+  
+  
+    Oracle SQL
+  
+  
+    PANVALET
+  
+  
+    pdf
+  
+  
+    performance management
+  
+  
+    PERL
+  
+  
+    PL
+  
+  
+    PL/1
+  
+  
+    PLM
+  
+  
+    PowerBuilder
+  
+  
+    problem solving skills
+  
+  
+    processes
+  
+  
+    procurement
+  
+  
+    coding
+    Programmer
+    programmer
+    programming
+  
+  
+    project management
+  
+  
+    Quality
+    quality
+  
+  
+    quality improvement
+  
+  
+    Express
+  
+  
+    relational database management system
+    RDBMS
+  
+  
+    read
+  
+  
+    Redhat Linux
+  
+  
+    re-engineering
+  
+  
+    relational database
+  
+  
+    reporting
+    Reporter
+  
+  
+    requirement
+  
+  
+    REXX
+  
+  
+    Roscoe
+  
+  
+    router
+  
+  
+    RS6000
+  
+  
+    safety
+  
+  
+    SAS
+  
+  
+    scheduling
+  
+  
+    SDLC
+  
+  
+    servers
+  
+  
+    Scripts
+    scripts
+    script
+    Shell scripts
+    Shell scripting
+  
+  
+    software development
+  
+  
+    Solaris
+  
+  
+    spreadsheets
+  
+  
+    SQL
+    Structured Query Language
+  
+  
+    statistical analysis
+  
+  
+    structured
+  
+  
+    supply chain
+  
+  
+    supply-chain management
+  
+  
+    switches
+  
+  
+    SYNON
+  
+  
+    Systems Engineering
+  
+  
+    tables
+  
+  
+    user training
+  
+  
+    technical documentation
+    technical writer
+  
+  
+    Teradata
+  
+  
+    troubleshooting
+  
+  
+    TSO/ISPF
+  
+  
+    TYPE
+    type
+  
+  
+    UNISYS
+  
+  
+    UNIX
+  
+  
+    UNIX shell
+  
+  
+    Utilities
+    utilities
+  
+  
+    View
+    view
+  
+  
+    Visio
+  
+  
+    VSAM
+  
+  
+    WAN
+  
+  
+    web application development
+  
+  
+    website
+  
+  
+    professional writer I
+  
+  
+    XML
+  
+
+

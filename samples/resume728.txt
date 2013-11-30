@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734596' xml:space='preserve'><contact><name><givenname>Jessica</givenname> <givenname>R</givenname>. <surname>Dinwoodie</surname></name>
+<address><street>6007 S Cliff Ave.  Apt 216</street></address>  							       <phone>(605)521-0214</phone>   
+<address lat='43.472' lon='96.6888' majorcity='SIOUX FALLS' state='SD'><city>Sioux Falls</city>, <state abbrev='SD'>SD</state> <postalcode>57108</postalcode></address> 					             <email>jessicadinwoodie@gmx.com</email></contact>
+<skills>Summary of Skills
+
+<skills>Front Office Management
+Written Correspondence  
+Report Generation
+   Microsoft Office
+   QuickBooks 
+   Great Plains Acct. Software</skills>
+Accounts Payable
+Accounts Receivable
+            Interpersonal Skills</skills>
+<education>Education
+<school id='6'><institution>Kilian Community College</institution>    					     <degree level='14'>Associates Degree</degree> in <major code='4001'>Accounting</major> 
+<address><city>Sioux Falls</city>, <state abbrev='SD'>SD</state></address> 											    <completiondate days='734140' iso8601='2011-01-01'>2011</completiondate></school> 
+<school id='7'><institution>Kilian Community College</institution> 					           <degree level='14'>Associates Degree</degree> in <major code='0299'>Social Services</major>
+<address><city>Sioux Falls</city>, <state abbrev='SD'>SD</state></address> 											    <completiondate days='732679' iso8601='2007-01-01'>2007</completiondate> 
+<description>President of Students In Free Enterprise (SIFE) organization on campus for two years.</description></school></education>
+
+<experience end='present' start='730731'>Work Experience  						  
+<job end='present' id='1' pos='1' start='731980'><title>Midco Connections							  Receptionist and Clerical Assistant</title>
+<address><city>Sioux Falls</city>, <state abbrev='SD'>SD</state></address>   								           <daterange><start days='731980' iso8601='2005-02-01'>February 2005</start>-<end days='present' iso8601='2012-04-01'>Present</end></daterange>
+<description>Processed reports for payroll and accounting departments.  Ordered supplies.  Greeted Visitors.  Managed benefit programs including cable reimbursements and funding associate reward accounts.  Audited timecards and other payroll records, making corrections as needed.  Promoted numerous times during my tenure with Midco, including serving as a Team Lead before moving into the Receptionist and Clerical role.  Successfully completed Accounting Internship that included reporting, ledger entries, entering and making deposits, accounts payable, accounts receivable, end of year accounting, balancing accounts, and creating financial statements.</description></job>  
+<job end='734596' id='2' pos='2' sic='729101' sic2='72' start='734505'><employer>Jackson Hewitt                                                                                                                Tax</employer> <title>Receptionist</title>
+<address><city>Sioux Falls</city>, <state abbrev='SD'>SD</state></address>                                                                                                   <daterange><start days='734505' iso8601='2012-01-01'>January 2012</start>-<end days='734596' iso8601='2012-04-01'>April 2012</end></daterange>	                <description>Answered incoming calls, made appointments, greeted guests, Made outgoing calls regarding client taxes, Maintained a high level of confidentiality</description></job>
+
+<job end='731857' id='3' pos='3' start='731674'><title>ShopKo									Customer Service Supervisor</title>
+<address><city>Sioux Falls</city>, <state abbrev='SD'>SD</state></address>								       <daterange><start days='731674' iso8601='2004-04-01'>April 2004</start>-<end days='731857' iso8601='2004-10-01'>October 2004</end></daterange>
+<description>Supervised cashiers and employees at customer service counter.  Balanced cash receipts in safe daily.  Assisted in departments as needed.</description></job>
+<job end='731704' id='4' pos='4' start='731308'><employer>JoAnn Fabrics  							          Fabric</employer> <title>Merchandise Manager</title>
+<address><city>Sioux Falls</city>, <state abbrev='SD'>SD</state></address> 									 <daterange><start days='731308' iso8601='2003-04-01'>April 2003</start>-<end days='731704' iso8601='2004-05-01'>May 2004</end></daterange>
+<description>Sent in Payroll reports and sales records.  Supervised departmental staff.  Assisted with scheduling employee shifts.  Arranged fabric according to plan-o-grams.</description></job>  
+<job end='731126' id='5' pos='5' start='730731'><title>Citibank								     Customer Service Representative</title>
+<address><city>Sioux Falls</city>, <state abbrev='SD'>SD</state></address> 							          <daterange><start days='730731' iso8601='2001-09-01'>September 2001</start>-<end days='731126' iso8601='2002-10-01'>October 2002</end></daterange>
+<description>Answered credit card members questions regarding their statements and performed other necessary tasks.  Promoted sales and provided excellent customer service.</description></job></experience>
+
+ <statements>Community Involvement
+<activities>Volunteer for Community Outreach assisting individuals with their budgets.  Also actively volunteer and fundraise for United Way, American Heart Association, The Banquet, American Cancer Society, Volunteers of America, Junior Achievement, and Humane Society.</activities></statements>
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='accountancy' start='731980'>
+    <variant>Accounting</variant>
+    <variant>accounting</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='accounts payable' start='731980'>
+    <variant>accounts payable</variant>
+    <variant>Accounts Payable</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='accounts receivable' start='731980'>
+    <variant>Accounts Receivable</variant>
+    <variant>accounts receivable</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='cabling' start='731980'>
+    <variant>cable</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='clerical' start='731980'>
+    <variant>Clerical</variant>
+  </canonskill>
+  <canonskill name='communication skills'>
+    <variant>Interpersonal Skills</variant>
+  </canonskill>
+  <canonskill end='731126' experience='1' expidrefs='5' idrefs='5' lastused='2002' name='credit' start='730731'>
+    <variant>credit</variant>
+  </canonskill>
+  <canonskill end='734596' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='customer relations' start='734505'>
+    <variant>client</variant>
+  </canonskill>
+  <canonskill end='731857' experience='1' expidrefs='3,5' idrefs='3,5' lastused='2004' name='customer service' start='730731'>
+    <variant>excellent customer service</variant>
+    <variant>customer service</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='financial statements' start='731980'>
+    <variant>financial statements</variant>
+  </canonskill>
+  <canonskill name='front office'>
+    <variant>Front Office</variant>
+  </canonskill>
+  <canonskill name='great plains software'>
+    <variant>Great Plains</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='leadership' start='731980'>
+    <variant>Team Lead</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='ledger' start='731980'>
+    <variant>ledger</variant>
+  </canonskill>
+  <canonskill name='microsoft office'>
+    <variant>Microsoft Office</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='7' idrefs='7' name='netscape enterprise server'>
+    <variant>Enterprise</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,4' idrefs='1,4' lastused='2012' name='payroll processing' start='731308'>
+    <variant>Payroll</variant>
+    <variant>payroll</variant>
+  </canonskill>
+  <canonskill name='quickbooks'>
+    <variant>QuickBooks</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='receptionist' start='731980'>
+    <variant>Receptionist</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='reports' start='731980'>
+    <variant>reporting</variant>
+  </canonskill>
+  <canonskill end='731704' experience='1' expidrefs='4,5' idrefs='4,5' lastused='2004' name='sales' start='730731'>
+    <variant>sales</variant>
+  </canonskill>
+  <canonskill end='731704' experience='1' expidrefs='4' idrefs='4' lastused='2004' name='scheduling' start='731308'>
+    <variant>scheduling</variant>
+  </canonskill>
+  <canonskill end='734596' experience='1' expidrefs='2' idrefs='2' lastused='2012' name='tax planning' start='734505'>
+    <variant>taxes</variant>
+  </canonskill>
+  <canonskill name='writing'>
+    <variant>Written</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

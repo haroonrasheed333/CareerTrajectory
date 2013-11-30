@@ -1,0 +1,189 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734595' xml:space='preserve'><contact><name><givenname>Brandon</givenname> <surname>Adams</surname></name>
+<address lat='47.0012' lon='120.543' majorcity='ELLENSBURG' state='WA'><street>1002 N. Vista Rd.</street> <city>Ellensburg</city>, <state abbrev='WA'>WA</state> <postalcode>98926</postalcode></address>
+Phone: <phone>509-435-7553</phone>
+E-mail: <email>brandon3191@gmail.com</email></contact>
+
+
+
+
+
+
+<summary>Objectives
+<objective>A position within a dynamic workforce with an emphasis in the field of Information Technology</objective></summary>
+<education>Education
+<school id='5'><degree level='16' name='Bachelor of Science'>Bachelor of Science</degree> in <major code='1699'>Information Technology</major> (<completiondate days='733469' iso8601='2009-03-01'>March 2009</completiondate>)
+Specialty: <major code='4201'>Administrative Management</major> 
+<institution>Central Washington University</institution>, <address><city>Ellensburg</city>, <state abbrev='WA'>WA</state></address>
+<honors>Dean's List recipient for outstanding academic performance (</honors><courses>Fall 2008) and (Winter 2009)
+The Administrative Management specialty has offered me a solid background in IT applications. Courses such as Project Management, Human Resource Management, Administrative Management and Leadership and Supervision have given me a strong managerial structure while Systems Analysis/Design, Internet Security and Ethics, Web Site Construction, Project in Database and Principles of Retailing have equipped me with a completely rounded understanding of the Information Technology field.
+CompTIA A+ certification (Received November 2011)
+CompTIA Project+ certification (Projected finish</courses> <completiondate>April 2012</completiondate></school>)</education>
+
+<experience end='present' start='733104'>Experience
+   
+<job end='present' id='1' pos='1' start='733865'><title>Information Technology Specialist</title> (<daterange><start days='733865' iso8601='2010-04-01'>April 2010</start> - <end days='present' iso8601='2012-03-31'>Present</end></daterange>)
+<employer>The Dolsen Companies</employer> (<address lat='46.6079' lon='120.468' majorcity='YAKIMA' state='WA'>301 N. 3rd St. <city>Yakima</city>, <state abbrev='WA'>WA</state> <postalcode>98901</postalcode></address>)
+<description>Provide helpdesk, technical support to the companies 85 users
+Manage projects specific to the IT department
+Including network restructuring from point to point T1's to MPLS, pc refresh, and equipment upgrades
+Manage and approve department expenses
+Support warehouse handheld devices running Windows Mobile platform</description></job>
+
+
+
+<job end='733469' id='2' pos='2' sic='822101' sic2='82' start='733288'><title>Student Help Desk Assistant</title> (<daterange><start days='733288' iso8601='2008-09-01'>September 2008</start> - <end days='733469' iso8601='2009-03-01'>March 2009</end></daterange>)
+<employer>Central Washington University</employer> (<employer>400 E. University Way</employer> <address lat='47.0012' lon='120.543' majorcity='ELLENSBURG' state='WA'><city>Ellensburg</city>, <state abbrev='WA'>WA</state> <postalcode>98926</postalcode></address>)
+<description>Monitor campus computer labs. Primarily working with PCs 
+Assist students with desktop and software support
+Perform every day miscellaneous maintenance</description></job>
+
+
+
+
+
+
+<job end='733257' id='3' pos='3' sic='738959' sic2='73' start='733196'><title>Information Technology Intern</title> (<daterange><start days='733196' iso8601='2008-06-01'>June 2008</start> - <end days='733257' iso8601='2008-08-01'>August 2008</end></daterange>)
+<employer>Merlin Information Services</employer> (<address lat='48.2094' lon='114.297' majorcity='KALISPELL' state='MT'>215 S. Complex Drive <city>Kalispell</city>, <state abbrev='MT'>MT</state> <postalcode>59901</postalcode></address>)
+<description>Performed desktop and software support services
+Executed a project plan for an equipment room re-development. Responsibilities included development of project plan, construction of Visio diagram, delegation of tasks, and participation of execution 
+Attended project meetings in preparation for go-live
+Gained an understanding of the scheduling of work within an IT infrastructure
+Assisted in the repair of dysfunctional workstations, specifically removing functional RAM and added this to working computers in preparation for company auction 
+Teamed with Network Administrators in inventorying data center</description></job>
+
+
+
+<job end='733196' id='4' pos='4' sic='822101' sic2='82' start='733104'><title>Project Manager</title> (<daterange><start days='733104' iso8601='2008-03-01'>March 2008</start> - <end days='733196' iso8601='2008-06-01'>June 2008</end></daterange>)
+<employer>Central Washington University</employer> (<employer>400 E. University Way</employer> <address lat='47.0012' lon='120.543' majorcity='ELLENSBURG' state='WA'><city>Ellensburg</city>, <state abbrev='WA'>WA</state> <postalcode>98926</postalcode></address>)
+<description>Position was held as part of Project Management course 
+Managed a course long project consisting of 5 team members
+Objective of project was to create a mock park for the city of Ellensburg
+Manager duties included:
+Creation of project charters
+Scheduling of team meetings and deadlines
+Delegation of weekly tasks
+Review and editing of project deliverables
+One on one meetings with project sponsor (class professor)</description></job></experience>
+
+<skills>Skills/Software
+Computer: <skills>Windows XP/7, Microsoft Office 2003/2007/2010, Microsoft Visio and Microsoft Project, Active Directory, Exchange 2010, familiar with Windows Mobile and Android platforms, some past experience in Flash CS3 Professional, Fireworks CS3, Dreamweaver CS3, Flex Builder 3, and ActionScript 3.0</skills></skills>
+
+<statements>Personal: <activities>Punctual, problem-solver, creative, social, ethical, diligent</activities></statements>  
+
+
+
+
+
+</resume>
+
+<skillrollup version='1'>
+  <canonskill education='1' eduidrefs='5' idrefs='5' name='a + certified'>
+    <variant>A+ certification</variant>
+  </canonskill>
+  <canonskill name='actionscript'>
+    <variant>ActionScript 3.0</variant>
+  </canonskill>
+  <canonskill name='active directory'>
+    <variant>Active Directory</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='5' idrefs='5' name='administration'>
+    <variant>Administrative</variant>
+  </canonskill>
+  <canonskill end='733257' experience='1' expidrefs='3' idrefs='3' lastused='2008' name='adobe go live' start='733196'>
+    <variant>go-live</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='5' idrefs='5' name='database administration'>
+    <variant>Database</variant>
+  </canonskill>
+  <canonskill name='dreamweaver'>
+    <variant>Dreamweaver</variant>
+  </canonskill>
+  <canonskill end='733196' experience='1' expidrefs='4' idrefs='4' lastused='2008' name='editing' start='733104'>
+    <variant>editing</variant>
+  </canonskill>
+  <canonskill name='fireworks'>
+    <variant>Fireworks</variant>
+  </canonskill>
+  <canonskill name='flash'>
+    <variant>Flash</variant>
+  </canonskill>
+  <canonskill end='733257' experience='1' expidrefs='3' idrefs='3' lastused='2008' name='functional' start='733196'>
+    <variant>functional</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='5' idrefs='5' name='human resources'>
+    <variant>Human Resource</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='5' idrefs='5' name='information technology'>
+    <variant>Information Technology</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='5' idrefs='5' name='internet security'>
+    <variant>Internet Security</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='5' idrefs='5' name='leadership'>
+    <variant>Leadership</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='5' idrefs='5' name='management'>
+    <variant>managerial</variant>
+  </canonskill>
+  <canonskill end='733257' experience='1' expidrefs='3,4' idrefs='3,4' lastused='2008' name='meeting facilitation' start='733104'>
+    <variant>meetings</variant>
+  </canonskill>
+  <canonskill name='microsoft exchange'>
+    <variant>Exchange</variant>
+  </canonskill>
+  <canonskill name='microsoft office'>
+    <variant>Microsoft Office</variant>
+  </canonskill>
+  <canonskill name='microsoft project'>
+    <variant>Microsoft Project</variant>
+  </canonskill>
+  <canonskill name='microsoft visio'>
+    <variant>Microsoft Visio</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='microsoft windows' start='733865'>
+    <variant>Windows</variant>
+  </canonskill>
+  <canonskill name='microsoft windows xp'>
+    <variant>Windows XP</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,3' idrefs='1,3' lastused='2012' name='networking' start='733196'>
+    <variant>Network</variant>
+    <variant>network</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='5' end='733196' experience='1' expidrefs='4' idrefs='5,4' lastused='2008' name='project management' start='733104'>
+    <variant>Project Management</variant>
+  </canonskill>
+  <canonskill end='733257' experience='1' expidrefs='3' idrefs='3' lastused='2008' name='ram' start='733196'>
+    <variant>RAM</variant>
+  </canonskill>
+  <canonskill end='733257' experience='1' expidrefs='3,4' idrefs='3,4' lastused='2008' name='scheduling' start='733104'>
+    <variant>Scheduling</variant>
+    <variant>scheduling</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='5' idrefs='5' name='supervisory skills'>
+    <variant>Supervision</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='5' idrefs='5' name='system architecture'>
+    <variant>Systems Analysis/Design</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='t1' start='733865'>
+    <variant>T1</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,3' idrefs='1,2,3' lastused='2012' name='technical support' start='733196'>
+    <variant>technical support</variant>
+    <variant>software support</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='upgrades' start='733865'>
+    <variant>upgrades</variant>
+  </canonskill>
+  <canonskill end='733257' experience='1' expidrefs='3' idrefs='3' lastused='2008' name='visio' start='733196'>
+    <variant>Visio</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='5' idrefs='5' name='web site production'>
+    <variant>Web Site</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

@@ -1,0 +1,168 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734597' xml:space='preserve'>                                                                                       <contact><name><givenname>DHANAJI</givenname> <surname>SHINDE</surname></name>
+                                                                                  <address lat='40.339' lon='75.9816' majorcity='READING' state='PA'><street>1701 State Hill Rd, Apt P6</street>
+                                                                                    <city>Wyomissing</city>, <state abbrev='PA'>PA</state>-<postalcode>19610</postalcode></address>
+                                                                                    Mobile no. <phone type='cell'>4847720987</phone>
+                                                                                  <email>dhanajishinde@gmail.com</email></contact>
+
+
+<experience end='present' start='732557'><job end='present' id='1' pos='1' start='734140'><title>Senior Auditor</title> :-
+ <description>Proven success in planning, supervision and execution of external/financial audits. Extensive understanding
+ and experience of auditing the banking Institutions and other industries. Consistent track record of good
+ performance and quality work. Good understanding of International Audit approach, US GAAP, SOX
+ compliances. Application of knowledge of relevant GAAP to identify accounting issues for discussion with
+ client management and challenges their conclusions. Acted as guide for auditing staff and team. Responsible
+ for co-ordination of between the audit clients and engagement team. Contributes to a culture of learning,
+ thereby developing own and others' knowledge of relevant standards and requirements through both
+ facilitation of formal learning activities and leading on the job learning during audit engagements.</description>
+
+
+Auditing Excellence/Experience :
+ Audit Senior: - <employer>Deloitte &amp; Touche LLP</employer> (Philadelphia Office)                     <daterange><start days='734140' iso8601='2011-01-01'>January 2011</start> to <end days='present' iso8601='2012-04-02'>Present</end></daterange>
+
+ <description>Acting as senior and responsible for management and execution of audit engagements (specially banking
+ SEC client, compliance audits (HUD, USAP, and GNMA). Good understanding of auditing, accounting
+ technical skills, internal control (SOX) testing. Worked and reviewed most of areas of bank financials
+ (Investments, Borrowings, derivatives, deposits, treasury controls, and loans).</description></job>
+
+ <job end='734109' id='2' pos='2' start='732830'><title>Deputy Manager</title>: - <employer>Deloitte Haskins &amp; Sells LLP</employer> (India Office)                        <daterange><start days='732830' iso8601='2007-06-01'>June, 2007</start> to <end days='734109' iso8601='2010-12-01'>Dec 2010</end></daterange>
+
+ <description>Worked as supervisory role on US GAAP SEC ICFR audit of major banking client in India. Performed the
+ responsibility of senior and reporting to manager. Reviewed the testing for deposits, loans, loan loss
+ allowances, Investment payroll, retirement benefits, other assets and liabilities. Testing of SOX controls
+ (design and operating effective) for Entity Level controls (ELC), loans, bank deposits, bullions and
+ commodity, borrowing, loan loss allowances.</description></job>
+
+ <job end='732738' id='3' pos='3' start='732557'><title>Assistant Manager</title>: - India member firm of <employer>BDO International</employer>                   <daterange><start days='732557' iso8601='2006-09-01'>September, 2006</start> to <end days='732738' iso8601='2007-03-01'>March 2007</end></daterange>
+
+ <description>Worked as audit staff on various audit engagements after passing chartered accountancy examination from</description></job></experience>
+ <summary>ICAI, India.
+
+
+Career Achievements:-
+
+         Received the performance rating of Exceeded expectation in previous year and consistent good
+         performance in earlier years.
+         Conducted audit training for Audit Interns.
+         Strong auditing and accounting skills with years of experience.
+         Good at maintaining good relations with clients and staff.
+Educational / Professional Qualifications :</summary>
+
+
+
+ <education>EDUCATION                                     <school id='4'><institution>YEAR OF PASSING         INSTITUTE/ UNIVERSITY</institution>
+
+
+ <courses>Certified Information System Auditor(CISA)</courses>   <completiondate days='733622' iso8601='2009-08-01'>August, 2009</completiondate>        <institution>CISA Institute</institution>
+
+
+ <degree level='13' name='Diploma'>Diploma</degree> in <major>IFRS</major>                              <completiondate days='733410' iso8601='2009-01-01'>January 2009</completiondate>        <address>ACCA, <country iso3='GBR'>UK</country></address></school>.
+
+
+ <school id='5'><courses>Certified Public Accountant (CPA)            December, 2007      Colorado state board of Accountancy
+
+
+ Chartered Accountant (CA)                    May, 2006           ICAI (INDIA)</courses>
+
+
+ <degree level='18'>Master of Commerce (M.COM)</degree>                   <completiondate days='732039' iso8601='2005-04-01'>April, 2005</completiondate>         <institution>UNIVERSITY OF MUMBAI (INDIA)</institution></school>.
+
+
+ <school id='6'><degree level='16'>Bachelor of Commerce (B.COM)</degree>.                <completiondate days='730578' iso8601='2001-04-01'>April, 2001</completiondate>         <institution>UNIVERSITY OF MUMBAI (INDIA)</institution>.
+
+
+
+ * <courses>Planning to take Certified Internal Auditor examination (CIA) in 2012.</courses></school></education>
+
+
+
+<skills>Technical Skills:-
+
+          <skills>Good knowledge of Audit Software 2 , Excel, ACL, word, PowerPoint.
+          Good Soft skills.
+          Have good understanding and testing of IT controls during SOX.
+          Completed Diploma in Software programming during graduation.</skills></skills>
+</resume>
+
+<skillrollup version='1'>
+  <canonskill education='1' end='734579' experience='1' expidrefs='1,3' idrefs='1,3' lastused='2012' name='accountancy' start='732557'>
+    <variant>accountancy</variant>
+    <variant>accounting</variant>
+    <variant>Accountancy</variant>
+  </canonskill>
+  <canonskill education='1' name='accounting'>
+    <variant>Accountant</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='approach' start='734140'>
+    <variant>approach</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='auditing' start='734140'>
+    <variant>auditing</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='banking' start='732830'>
+    <variant>banking</variant>
+  </canonskill>
+  <canonskill end='734109' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='benefits administration' start='732830'>
+    <variant>benefits</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='4' idrefs='4' name='cisa'>
+    <variant>CISA</variant>
+  </canonskill>
+  <canonskill education='1' name='computer associates packages'>
+    <variant>CA</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='contact management' start='734140'>
+    <variant>client management</variant>
+  </canonskill>
+  <canonskill education='1' name='cpa'>
+    <variant>Certified Public Accountant</variant>
+    <variant>CPA</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='customer relations' start='732830'>
+    <variant>client</variant>
+    <variant>clients</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='derivatives' start='734140'>
+    <variant>derivatives</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='finance' start='734140'>
+    <variant>financials</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='financial' start='734140'>
+    <variant>financial</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='investments' start='734140'>
+    <variant>Investments</variant>
+  </canonskill>
+  <canonskill name='microsoft excel'>
+    <variant>Excel</variant>
+  </canonskill>
+  <canonskill name='microsoft powerpoint'>
+    <variant>PowerPoint</variant>
+  </canonskill>
+  <canonskill name='microsoft word'>
+    <variant>word</variant>
+  </canonskill>
+  <canonskill end='734109' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='payroll processing' start='732830'>
+    <variant>payroll</variant>
+  </canonskill>
+  <canonskill name='programming'>
+    <variant>programming</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='quality' start='734140'>
+    <variant>quality</variant>
+  </canonskill>
+  <canonskill end='734109' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='reports' start='732830'>
+    <variant>reporting</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='supervisory skills' start='732830'>
+    <variant>supervisory</variant>
+    <variant>supervision</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='treasury' start='734140'>
+    <variant>treasury</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

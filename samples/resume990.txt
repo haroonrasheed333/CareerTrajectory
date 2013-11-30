@@ -1,0 +1,198 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734598' xml:space='preserve'><contact><name><givenname>Mark</givenname> <givenname>D</givenname>. <surname>Sherman</surname></name>, BS, MA
+<address lat='42.4655' lon='83.1974' majorcity='OAK PARK' state='MI'><street>13675 Lincoln</street>
+<city>Oak Park</city>, <state abbrev='MI'>MI</state> <postalcode>48237</postalcode></address>
+(248).<phone type='cell'>933.3666</phone> (Cell)
+<email>markdsherman@yahoo.com</email></contact>
+
+<summary>Objective: <objective>To obtain a challenging position utilizing my communication and
+interpersonal skills within a progressive office setting offering unique betterment
+and serious advancement opportunities.</objective></summary>
+
+<education>Education: <school id='6'><degree level='18'>Master of Arts Degree</degree> ­ <completiondate days='725739' iso8601='1988-01-01'>1988</completiondate> <institution>Wayne State University</institution></school>
+           <school id='7'><degree level='16'>Bachelor of Science Degree</degree> ­ <completiondate days='724278' iso8601='1984-01-01'>1984</completiondate> <institution>Wayne State University</institution></school></education>
+
+<experience end='present' start='728296'>Experience: <job end='present' id='1' pos='1' start='731218'><daterange><start days='731218' iso8601='2003-01-01'>2003</start> ­ <end days='present' iso8601='2012-04-03'>Present</end></daterange> <employer>Destinations Unlimited Transportation</employer>
+         <title>Manager/Customer Service Rep</title>. <address><city>Waterford</city>, <state abbrev='MI'>Michigan</state></address>
+<description>Operate all facets of a Luxury Sedan transportation service located in Waterford,
+Michigan, and servicing the Greater Detroit Metropolitan area, as well as
+Lansing, Flint, Ann Arbor, and Windsor, Ontario, Canada. Involved in all aspects
+of the business including customer service, phones, dispatching, scheduling,
+marketing, purchasing, advertising, vehicle maintenance, hiring and training of
+chauffeurs, crisis management, maintaining licensing, insurance and conforming
+with state regulations.</description></job>
+
+<job end='734474' id='2' pos='2' sic='7363' sic2='73' start='734230'><daterange><start days='734230' iso8601='2011-04-01'>4/2011</start> ­ <end days='734474' iso8601='2011-12-01'>12/2011</end></daterange> <employer>One Source Talent, Inc</employer>. <address><city>Troy</city>, <state abbrev='MI'>Michigan</state></address>
+<description>Phone room appointment setter for a national casting company for models and
+actors. New talent recruitment and interview scheduling for 10 nationwide offices
+using PC based proprietary software. Handled both incoming and outgoing calls
+on computer using BRIA VOIP software. Provided a wide range of customer
+support services including giving information regarding company services and
+policies, giving directions to various locations, handling difficult clients (crisis
+management), and problem resolution.</description></job>
+
+<job end='734199' id='3' pos='3' sic='599972' sic2='59' start='734048'><daterange><start days='734048' iso8601='2010-10-01'>10/2010</start> ­ <end days='734199' iso8601='2011-03-01'>3/2011</end></daterange> <employer>United Memorial Group</employer>
+Telemarketer ­ <address><city>Plymouth</city>, <state abbrev='MI'>Michigan</state></address>
+<description>Cold calling to set appointments and schedule salesperson visits for counselors
+pre-selling cemetery property at United Memorial Gardens Cemetery in
+Plymouth, Michigan and Washtenong Memorial Park and Mausoleum in Ann
+Arbor, Michigan.</description></job>
+
+<job end='731218' id='4' pos='4' sic='6061' sic2='60' start='730488'><daterange><start days='730488' iso8601='2001-01-01'>2001</start> ­ <end days='731218' iso8601='2003-01-01'>2003</end></daterange> <employer>Kinko's / Fed-Ex</employer>
+<title>Customer Service / Retail Team Member</title>
+<address><city>Lathrup Village</city>, <state abbrev='MI'>Michigan</state></address>
+<description>Greeted customers, operated and maintained office machinery (copiers, PC's,
+fax machines, scanners, specialized duplication machines, banner makers,
+binders, etc.) Took special orders from customers both in-store and by
+telephone, requiring attention to fine details, assisting in design and problem
+solving. Operated cash register, answered telephones and took telephone and
+computer orders. Worked all shifts in a 7 day, 24 hour retail establishment.</description></job>
+
+<job end='730488' id='5' pos='5' sic='152105' sic2='15' start='728296'><daterange><start days='728296' iso8601='1995-01-01'>1995</start> ­ <end days='730488' iso8601='2001-01-01'>2001</end></daterange> <employer>Mural Stone Construction Company</employer>
+Call Center / Customer Service
+<address><city>Southfield</city>, <state abbrev='MI'>Michigan</state></address>
+<description>Made and received phone calls for a home improvement / building company.
+Troubleshooting / problem-solving and conflict resolution, sales and service
+appointments, cold calling to set new client appointments and scheduling
+salesperson visits. Handled questions and complaints.</description></job></experience>
+
+<skills>Other Skills: <description>I have extensive call center, sales and customer service
+experience. I have telemarketing and management experience, both face to face
+and on the telephone. I am computer literate and able to troubleshoot hardware
+and software problems. I am familiar with most office machines. I am familiar
+with most aspects of running a small business, including payroll, marketing and
+advertising, spreadsheets, billing and hiring.</description></skills>
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='advertising' start='731218'>
+    <variant>advertising</variant>
+  </canonskill>
+  <canonskill name='billing'>
+    <variant>billing</variant>
+  </canonskill>
+  <canonskill name='call center'>
+    <variant>call center</variant>
+  </canonskill>
+  <canonskill end='731218' experience='1' expidrefs='4' idrefs='4' lastused='2003' name='cashier' start='730488'>
+    <variant>cash register</variant>
+  </canonskill>
+  <canonskill end='734199' experience='1' expidrefs='3,5' idrefs='3,5' lastused='2011' name='cold calling' start='728296'>
+    <variant>Cold calling</variant>
+    <variant>cold calling</variant>
+  </canonskill>
+  <canonskill name='computer hardware'>
+    <variant>hardware</variant>
+  </canonskill>
+  <canonskill name='computer skills'>
+    <variant>computer literate</variant>
+  </canonskill>
+  <canonskill end='730488' experience='1' expidrefs='5' idrefs='5' lastused='2001' name='conflict management' start='728296'>
+    <variant>conflict resolution</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='crisis management' start='731218'>
+    <variant>crisis management</variant>
+    <variant>crisis
+management</variant>
+  </canonskill>
+  <canonskill end='734474' experience='1' expidrefs='2,5' idrefs='2,5' lastused='2011' name='customer relations' start='728296'>
+    <variant>client</variant>
+    <variant>clients</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='customer service' start='731218'>
+    <variant>customer service
+experience</variant>
+    <variant>customer service</variant>
+  </canonskill>
+  <canonskill end='734474' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='customer support' start='734230'>
+    <variant>customer
+support</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='dispatching' start='731218'>
+    <variant>dispatching</variant>
+  </canonskill>
+  <canonskill end='731218' experience='1' expidrefs='4' idrefs='4' lastused='2003' name='fax' start='730488'>
+    <variant>fax machines</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='hiring' start='731218'>
+    <variant>hiring</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='insurance' start='731218'>
+    <variant>insurance</variant>
+  </canonskill>
+  <canonskill end='731218' experience='1' expidrefs='4' idrefs='4' lastused='2003' name='machinery' start='730488'>
+    <variant>machinery</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='marketing' start='731218'>
+    <variant>marketing</variant>
+  </canonskill>
+  <canonskill end='731218' experience='1' expidrefs='4' idrefs='4' lastused='2003' name='microsoft office' start='730488'>
+    <variant>office</variant>
+  </canonskill>
+  <canonskill name='office equipment'>
+    <variant>office machines</variant>
+  </canonskill>
+  <canonskill name='payroll processing'>
+    <variant>payroll</variant>
+  </canonskill>
+  <canonskill end='731218' experience='1' expidrefs='4' idrefs='4' lastused='2003' name='pc' start='730488'>
+    <variant>PC's</variant>
+  </canonskill>
+  <canonskill end='731218' experience='1' expidrefs='4' idrefs='4' lastused='2003' name='photocopier' start='730488'>
+    <variant>copiers</variant>
+  </canonskill>
+  <canonskill end='734474' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='policy analysis' start='734230'>
+    <variant>policies</variant>
+  </canonskill>
+  <canonskill end='734474' experience='1' expidrefs='2,4,5' idrefs='2,4,5' lastused='2011' name='problem solving' start='728296'>
+    <variant>problem resolution</variant>
+    <variant>problem
+solving</variant>
+    <variant>problem-solving</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='purchasing' start='731218'>
+    <variant>purchasing</variant>
+  </canonskill>
+  <canonskill end='734474' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='recruiting' start='734230'>
+    <variant>recruitment</variant>
+  </canonskill>
+  <canonskill end='731218' experience='1' expidrefs='4' idrefs='4' lastused='2003' name='retail' start='730488'>
+    <variant>retail</variant>
+  </canonskill>
+  <canonskill end='734199' experience='1' expidrefs='3,5' idrefs='3,5' lastused='2011' name='sales' start='728296'>
+    <variant>selling</variant>
+    <variant>sales</variant>
+  </canonskill>
+  <canonskill end='731218' experience='1' expidrefs='4' idrefs='4' lastused='2003' name='scanners' start='730488'>
+    <variant>scanners</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,5' idrefs='1,2,5' lastused='2012' name='scheduling' start='728296'>
+    <variant>scheduling</variant>
+  </canonskill>
+  <canonskill name='spreadsheets'>
+    <variant>spreadsheets</variant>
+  </canonskill>
+  <canonskill name='telemarketing'>
+    <variant>telemarketing</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,4,5' idrefs='1,2,4,5' lastused='2012' name='telephone skills' start='728296'>
+    <variant>telephone</variant>
+    <variant>telephones</variant>
+    <variant>phones</variant>
+    <variant>Phone</variant>
+    <variant>phone</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='transportation' start='731218'>
+    <variant>transportation</variant>
+  </canonskill>
+  <canonskill end='730488' experience='1' expidrefs='5' idrefs='5' lastused='2001' name='troubleshooting' start='728296'>
+    <variant>troubleshoot</variant>
+    <variant>Troubleshooting</variant>
+  </canonskill>
+  <canonskill end='734474' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='voip' start='734230'>
+    <variant>VOIP</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

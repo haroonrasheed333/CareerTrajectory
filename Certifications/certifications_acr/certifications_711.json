@@ -1,0 +1,26 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CFPMHM", 
+            "Certification Name": "Fluid Power Mobile Hydraulic Mechanic", 
+            "Type": "Advanced", 
+            "Certification ID": "0893", 
+            "Certifying Organization": "International Fluid Power Society"
+        }, 
+        {
+            "Acronym": "CFPIHM", 
+            "Certification Name": "Fluid Power Industrial Hydraulic Mechanic", 
+            "Type": "Advanced", 
+            "Certification ID": "0894", 
+            "Certifying Organization": "International Fluid Power Society"
+        }, 
+        {
+            "Acronym": "CFPPM", 
+            "Certification Name": "Fluid Power Pneumatic Mechanic", 
+            "Type": "Advanced", 
+            "Certification ID": "0895", 
+            "Certifying Organization": "International Fluid Power Society"
+        }
+    ], 
+    "onet": "49304100"
+}

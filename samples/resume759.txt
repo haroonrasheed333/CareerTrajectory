@@ -1,0 +1,475 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734596' xml:space='preserve'>Résumé of
+<contact><name><givenname>Rashel</givenname> <surname>Rana</surname></name> 
+
+<address lat='40.4634' lon='-80.6111' majorcity='TORONTO' state='OH'>Bilingual (English &amp; French)	<street>2 Secord Avenue, Apt#</street> <postalcode>1904</postalcode>, <city>Toronto</city>, <state abbrev='ON'>ON</state></address>, M4C 2C3
+Email: <email>rashelcse@gmail.com</email> |Phone: <phone>(647) 862 8511</phone></contact>	
+
+
+
+<summary>Career Objective
+<objective>I am an energetic person, searching for a suitable role in the IT Sector and waiting to perform sophisticated software development in Database application development.</objective>
+
+Professional Summary
+
+<summary>+7 years of professional experience in SDLC with Oracle Technology (10g series of DB, AS&amp; DS). 
+Expert in Analysis, Project Management, Oracle Database Administration and Design, Application Development, Data migration, purging and conversions, abstraction, encapsulation, messaging, polymorphism, and inheritance.
+Complex client-server, multi-tier database designer, back-end &amp; front-end developer, driven web based projects using Oracle database technology.
+Expert in business solution using Oracle DB, Forms and Reports, PL/SQL packages, stored procedures, functions, database triggers, indexing, query optimization.
+Strong ability to translate business reporting specifications into complex matrix and interactive graphic Reports with drill-down to detail Reports on web front presentation layer.</summary></summary>
+<skills><skills>Object-oriented programming (OOP) Design and debugging skills in advance SQL and PL/SQL, table functions, dynamic SQL, collections, analytical functions, ref. Cursors, SQL Loader, Shell Scripting and UNIX programming.
+Database performance tuning and SQL optimization using Hints, restructuring tables, materialized views, table partitioning and indexing techniques.
+Skills in Oracle Architecture, space management, physical data organization, memory structures and monitoring tools.
+Extensively worked with the Oracle Forms and Reports - Web Front end 10g and Developer 2000. Server / backend programming on Oracle PL/SQL  
+Server Manageability by SQL access/ tuning advisors, DBMS_ADVISOR, Quick Tune and DBMS_SQLTUNE packages.
+Exposure of development and administration of Oracle advance queuing DBMS_AQ, DBMS_AQADM. 
+Expert in GUI development for data transfer &amp; loading using PL/SQL programs, SQL*Loader and UNIX shell scripting.
+Project DFD, technical documentation &amp; user manuals, users Training and UA testing and Implementation.
+Easily adaptable in versatile environment, Team player - Motivated, driven, and dedicated, Logical Problem-solving and decision making skills.
+
+
+Skills &amp; Tools
+
+SQL, SQL*PLUS, PL/SQL, C, C++, VB6.0, Java 2.0, XML, UML 2.0
+Oracle Database 7/8/8i/9i/10g/11g
+Oracle Developer 2000/6i/9i/10g, Oracle 9i/10g Portal, Oracle 10g HTMLDB
+Oracle Report Developer 2000/6i/9i/10g
+Oracle Application Server 3.0, 4.0, 9.0.1, 9.0.2, 10g
+Oracle Designer 6i, 9i, 10g
+TOAD 7.6/8.5
+Visio 2000/2003
+Adobe Photoshop 
+MS DOS, Windows OS / Server / Windows Advance Server
+Red Hat Linux 9/10, Red Hat Linux ES 3.1/4
+
+Networking: Win NT/Linux in LAN/WAN (Ethernet) environment.</skills></skills>
+
+
+
+
+
+
+<experience end='present' start='731583'>Professional Experiences &amp; Activities
+
+<job end='present' id='1' pos='1' start='734048'><employer>MONAMIE sprl</employer>, <title>Kinshasa, Rep Dem Congo</title>.						<daterange><start days='734048' iso8601='2010-10-01'>Oct 2010</start> -   <end days='present' iso8601='2012-04-01'>Present</end></daterange></job>
+<job id='2'><title>Oracle Consultant</title> (Remote)   
+
+<description>Monamie SPRL is one of the largest European Medicine Distributor and Manufacturer Company for RD Congo, Angola and Tanzania. Company's Head office is in Belgium, Financial office is in UK and Distribution unit is in Congo.
+Responsibilities:		
+Oracle Database Administration and Transactional security control.
+Background Check for modification, deletion or any manipulation of data in the database.
+Oracle Database and Application security and access control.
+Investigate and fix bugs, defects, data issues, etc.
+Day to Day advice and guideline for fetching technical and business needs.</description></job>
+
+<job end='734018' id='3' pos='2' start='733013'><title>MONAMIE sprl, Kinshasa, Rep Dem Congo</title> 						<daterange><start days='733013' iso8601='2007-12-01'>Dec 2007</start> -     <end days='734018' iso8601='2010-09-01'>Sep 2010</end></daterange></job>
+<job end='733926' id='4' pos='3' start='733013'><title>Head</title> of Research &amp;Development (IT) &amp; Business Intelligence		        
+
+(<daterange><start days='733013' iso8601='2007-12-01'>Dec 2007</start> to <end days='733926' iso8601='2010-06-01'>Jun 2010</end></daterange>)  <description>ERP for CONCORD CONGO sprl with ORACLE 10G / 10G DS/ WINDOWS XP/Multi-user
+Responsibilities:
+Oracle Database Administration, Analysis, API Design &amp; development, Data migration, Data integrity and backup.
+To deploy Business Intelligence and Decision Support system in the ERP for Pharmaceutical Manufacturing and Distribution Process.
+Network mapping, Monitoring and maintenance.
+Having 4 direct (Finance /Marketing / HR / Sales Manager) reporting of 100 indirect.
+By Transmitting old system into new ERP I have blocked wholes (Stealing, Over/Under payment, wrong importation and by controlling expiry of product) of the company and saved revenue 400K$/year.
+Better business view from any corner made easy and fast decision control system and in a year the business growth was 200%.</description></job>
+
+
+<job end='732983' id='5' inferred-to='5' pos='4' sic='573401' sic2='57' start='732710'><employer>TCL</employer> (<employer>Technohaven Company Limited</employer>), <address><city>Dhaka</city>, <country iso3='BGD'>Bangladesh</country></address> 				<daterange><start days='732710' iso8601='2007-02-01'>Feb 2007</start> - <end days='732983' iso8601='2007-11-01'>Nov 2007</end></daterange>
+<title>Sr. Programmer</title> 	 			 
+
+<description>TECHNOHAVEN is an independent ISO 9001 certified software development and system integration companies in Bangladesh. Technohaven Consulting provides world class least-cost software development, web development, maintenance and BPO services to clients in North America, European Union and Asia.</description></job>	
+			 
+(<job end='732983' id='6' inferred-from='4' pos='5' sic='573401' sic2='57' start='732710'><daterange><start days='732710' iso8601='2007-02-01'>Feb 2007</start>- <end days='732983' iso8601='2007-11-01'>Nov 2007</end></daterange>)	<description>Domestic Gas Customers Ledger Keeping System for Titas Gas Distributed Company Limited with ORACLE 10G /10G DS / Linux ES /Multi-user.
+Responsibilities:	
+Oracle Database Administration, Requirement Analysis, Design &amp; Development, Data capturing and migration.
+To install and upgrade Oracle database in 14 different zone.
+Database Performance tuning, backup and recovery.
+Change request and amendment for the new requirements.
+Converting and capturing of 5 years historical data for 10 million gas customers.</description></job>
+
+
+<job end='732679' id='7' pos='6' sic='553111' sic2='55' start='731796'><employer>ATI (Advance Technologies Innovation) LTD</employer>, <address><city>Dhaka</city>, <country iso3='BGD'>Bangladesh</country></address> 				<daterange><start days='731796' iso8601='2004-08-01'>Aug 2004</start> - <end days='732679' iso8601='2007-01-01'>Jan 2007</end></daterange>
+<title>Programmer</title> 	
+
+<description>ATI Limited is an ISO 9001:2008 / ISO 2000:2005 certified software development, IT consulting &amp; IT Service Management Company especially in Oracle Technology. International Business Affiliation as Oracle Gold Partner/ IBM Business Partner/ DELL ISV partner. 
+
+Responsibilities:
+
+Oracle Database Administration, Analysis, Architecture, API, UI &amp; Reports design &amp; modification, Software development. 
+Database triggers, function and procedures creation, testing, debugging using PL/SQL.
+Database installation, upgrade, progress monitoring, Performance tuning and backup.
+API for Data extraction and migration and machine synchronization.
+Managing and distributing Jr. Programmer's tasks and overall technical management in every step of SDLC.
+Re-Engineering, Production Acceptance Testing, Change request and amendment for the new requirements.</description></job>
+
+
+~~ (<job end='732679' id='8' pos='7' start='731583'><daterange><start days='731583' iso8601='2004-01-01'>Jan 2004</start>- <end days='732679' iso8601='2007-01-01'>Jan 2007</end></daterange>)	ATI MEDiTOP: <description>A Complete ERP of Hospital Information System 
+
+Stunning Features: Automated with external devices like Bar Code Reader, information transfer from LIS M/C to Database, PC to Mobile communication, Content capturing facility with OCR, Security and Admin based on famous RBAC theory, Seamless integration with PACS, fully compliant with HL7 adapter, Strong and robust search engine, multilingual support, stunning MIS, analytical, graphical &amp; statistical reports and many more. 
+
+Modules: OPD, IPD, Emergency, Pathology and Blood Bank, HR and Payroll, Scheduling and Rostering, Transport Services, Material Management and Inventory Control, Fixed Asset Management and Maintenance, Security and Administration, Financial Accounting, MIS, OT Management, Diagnostic Services, Physiotherapy, Package, Snack Bar/Gift Shop, Food and Nutrition, Information Desk, House-Keeping, RIS (Radiology Information System), LIS (Laboratory Information System), Pharmacy, Laundry and Linen Management, EMR (Electronic Medical Records), Content Capturing, Web Based Information Portal and so on.</description></job></experience>
+<skills>Technologies: 
+<skills>Oracle 10g Database Server: Rel-1 / Oracle 10g Application Server Rel-2/ Oracle Developer Suite 10g Rel-1/ Red Hat Linux ES 3.1/Application Model: 3-Tier/ VB 6.0, PHP, Java 2.0/Oracle RAC, Data guard, Automatic Content Capturing from Scanned Image.
+International Standards: HIPPA, IHE, ACR, ICD 10, HL7, PACS</skills></skills>
+<professional><description>Technical Strength	:	14
+
+
+ (Mar 2006-Sep2006)	Radiology Information System (RIS) for Rajavithi Hospital, Bangkok, Thailand with ORACLE 10G /10G DS/ Win 2003 Server/Multi-user
+
+  RIS is complete application for Paper less digital Management of Radiology &amp; Imaging Department/Centre. The RIS is based on 3 tier architecture and completely web enabled for remote access billing and insurance authentication, viewing and Report writing. The RIS solution enhances faster work*ow from registration to acquisition of images and to switch between modality and fast disposal of Report, increasing patient satisfaction to maximum level, manoeuvrability for Radiologist work list, technologist work list, quick disposal of patients for Oinicians, quicker turn around time and efficient handling of patients for administrative staff, which results into improved and efficient practice's *ow and diagnostic capabilities. RBRIS can turn the dream of a paperless, integrated radiology centre into higher portability by increasing signi*cant cost control.
+
+ (Aug 2004- Oct 2004)	Accounting Software for Sincos Engineers, Dhaka, Bangladesh with ORACLE 9i / Forms 6i/ Win 2000/ Multi-user
+Features			: 
+General Ledger Management, Controlling and Budget Management, Cash Management, Financial Forecasting, Fixed Asset Management, Compliance Management.
+
+
+ (Oct 2004- Dec 2004)	Fish &amp; Shrimp Export Management Software with ORACLE 9i/ Forms 6i/ Win 2000/Multi-user	
+ (Jan 2005 -Mar 2005)	Garments Management ERP for Elite Garments with ORACLE 9i/9i DS/ Win 2000/Multi-user
+
+(Jan 2004 - Jun 2004)	Inventory Control System 
+With Oracle 9i Database Server: Rel-2 (9.0.2)/ Windows XP/Oracle 9i Application Server/ Oracle Forms 9i</description></professional>
+
+
+<education>Education, Training &amp; Certification
+
+<school id='9'><completiondate days='731583' iso8601='2004-01-01'>2004</completiondate>	<degree level='16' name='Bachelor of Science'>B.Sc. Engineering</degree> in <major code='0402'>Computer</major>, <institution>Darul Ihsan University</institution></school>, Bangladesh-1st Class
+
+<school id='10'><completiondate days='729757' iso8601='1999-01-01'>1999</completiondate>	<courses>Higher Secondary Certificate</courses>, <institution>New Govt. Degree College</institution></school>, Bangladesh-1st Division
+
+<school id='11'><completiondate days='729027' iso8601='1997-01-01'>1997</completiondate>	<courses>Secondary School Certificate</courses>, from <institution>Bhangoora Union High School</institution></school>, Bangladesh-1st Division
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		   2 | Page</education>
+
+</resume>
+
+<skillrollup version='1'>
+  <canonskill name='adobe photoshop'>
+    <variant>Adobe Photoshop</variant>
+  </canonskill>
+  <canonskill end='733926' experience='1' expidrefs='4,7' idrefs='4,7' lastused='2010' name='api' start='731796'>
+    <variant>API</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='8' idrefs='8' lastused='2007' name='asset management' start='731583'>
+    <variant>Asset Management</variant>
+  </canonskill>
+  <canonskill end='733926' experience='1' expidrefs='4,7' idrefs='4,7' lastused='2010' name='backup' start='731796'>
+    <variant>backup</variant>
+  </canonskill>
+  <canonskill end='733926' experience='1' expidrefs='4' idrefs='4' lastused='2010' name='business intelligence' start='733013'>
+    <variant>Business Intelligence</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='8' idrefs='8' lastused='2007' name='c' start='731583'>
+    <variant>C</variant>
+  </canonskill>
+  <canonskill name='c + +'>
+    <variant>C++</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='7' idrefs='7' lastused='2007' name='consulting' start='731796'>
+    <variant>Consulting</variant>
+    <variant>consulting</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='8' idrefs='8' lastused='2007' name='content management' start='731583'>
+    <variant>Content</variant>
+  </canonskill>
+  <canonskill experience='1' name='customer relations'>
+    <variant>clients</variant>
+  </canonskill>
+  <canonskill end='733926' experience='1' expidrefs='4' idrefs='4' lastused='2010' name='data migration' start='733013'>
+    <variant>Data migration</variant>
+  </canonskill>
+  <canonskill name='data transfer'>
+    <variant>data transfer</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='2,7,8' idrefs='2,7,8' lastused='2007' name='database administration' start='731583'>
+    <variant>Database</variant>
+    <variant>database</variant>
+  </canonskill>
+  <canonskill name='database management system'>
+    <variant>DBMS</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='7' idrefs='7' lastused='2007' name='debugging' start='731796'>
+    <variant>debugging</variant>
+  </canonskill>
+  <canonskill name='decision making'>
+    <variant>decision making</variant>
+  </canonskill>
+  <canonskill end='733926' experience='1' expidrefs='4' idrefs='4' lastused='2010' name='decision support' start='733013'>
+    <variant>Decision Support</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='7' idrefs='7' lastused='2007' name='dell computers' start='731796'>
+    <variant>DELL</variant>
+  </canonskill>
+  <canonskill end='733926' experience='1' expidrefs='4,8' idrefs='4,8' lastused='2010' name='erp' start='731583'>
+    <variant>ERP</variant>
+    <variant>ERP I</variant>
+  </canonskill>
+  <canonskill name='ethernet'>
+    <variant>Ethernet</variant>
+  </canonskill>
+  <canonskill end='733926' experience='1' expidrefs='4' idrefs='4' lastused='2010' name='fast' start='733013'>
+    <variant>fast</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='8' idrefs='8' lastused='2007' name='features' start='731583'>
+    <variant>Features</variant>
+  </canonskill>
+  <canonskill end='733926' experience='1' expidrefs='4' idrefs='4' lastused='2010' name='finance' start='733013'>
+    <variant>Finance</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='2' idrefs='2' name='financial'>
+    <variant>Financial</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='8' idrefs='8' lastused='2007' name='financial accounting' start='731583'>
+    <variant>Financial Accounting</variant>
+  </canonskill>
+  <canonskill name='forms'>
+    <variant>Forms</variant>
+  </canonskill>
+  <canonskill name='graphical user interface'>
+    <variant>GUI</variant>
+  </canonskill>
+  <canonskill end='733926' experience='1' expidrefs='4,8' idrefs='4,8' lastused='2010' name='human resources' start='731583'>
+    <variant>HR</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='7' idrefs='7' lastused='2007' name='ibm' start='731796'>
+    <variant>IBM</variant>
+  </canonskill>
+  <canonskill name='imaging'>
+    <variant>Image</variant>
+  </canonskill>
+  <canonskill name='indexing'>
+    <variant>indexing</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='7' idrefs='7' lastused='2007' name='international business' start='731796'>
+    <variant>International Business</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='8' idrefs='8' lastused='2007' name='inventory management' start='731583'>
+    <variant>Inventory Control</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='7' idrefs='7' lastused='2007' name='iso' start='731796'>
+    <variant>ISO</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='7' idrefs='7' lastused='2007' name='iso 9000' start='731796'>
+    <variant>ISO 9001</variant>
+  </canonskill>
+  <canonskill name='java 2'>
+    <variant>Java 2</variant>
+  </canonskill>
+  <canonskill name='lan'>
+    <variant>LAN</variant>
+  </canonskill>
+  <canonskill experience='1' name='ledger'>
+    <variant>Ledger</variant>
+  </canonskill>
+  <canonskill experience='1' name='linux'>
+    <variant>Linux</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='7' idrefs='7' lastused='2007' name='management' start='731796'>
+    <variant>Managing</variant>
+  </canonskill>
+  <canonskill end='733926' experience='1' expidrefs='4' idrefs='4' lastused='2010' name='marketing' start='733013'>
+    <variant>Marketing</variant>
+  </canonskill>
+  <canonskill name='memory'>
+    <variant>memory</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='2' idrefs='2' name='microsoft access'>
+    <variant>access</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='2' idrefs='2' name='microsoft office'>
+    <variant>office</variant>
+  </canonskill>
+  <canonskill name='microsoft windows'>
+    <variant>Windows</variant>
+    <variant>Windows OS</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='7' idrefs='7' lastused='2007' name='microsoft windows 2000' start='731796'>
+    <variant>2000</variant>
+  </canonskill>
+  <canonskill name='microsoft windows 3.1'>
+    <variant>3.1</variant>
+  </canonskill>
+  <canonskill name='microsoft windows nt'>
+    <variant>Win NT</variant>
+  </canonskill>
+  <canonskill end='733926' experience='1' expidrefs='4' idrefs='4' lastused='2010' name='microsoft windows xp' start='733013'>
+    <variant>WINDOWS XP</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='7' idrefs='7' lastused='2007' name='migration' start='731796'>
+    <variant>migration</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='8' idrefs='8' lastused='2007' name='mis' start='731583'>
+    <variant>MIS</variant>
+  </canonskill>
+  <canonskill name='ms dos'>
+    <variant>MS DOS</variant>
+  </canonskill>
+  <canonskill end='733926' experience='1' expidrefs='4' idrefs='4' lastused='2010' name='networking' start='733013'>
+    <variant>Network</variant>
+    <variant>Networking</variant>
+  </canonskill>
+  <canonskill name='object oriented programming'>
+    <variant>OOP</variant>
+    <variant>Object-oriented programming</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='8' idrefs='8' lastused='2007' name='ocr' start='731583'>
+    <variant>OCR</variant>
+  </canonskill>
+  <canonskill name='optimization'>
+    <variant>optimization</variant>
+  </canonskill>
+  <canonskill end='733926' experience='1' expidrefs='4,7' idrefs='4,7' lastused='2010' name='oracle' start='731796'>
+    <variant>Oracle 9</variant>
+    <variant>ORACLE</variant>
+    <variant>Oracle</variant>
+  </canonskill>
+  <canonskill name='oracle applications'>
+    <variant>Oracle Application Server 3.0</variant>
+  </canonskill>
+  <canonskill end='733926' experience='1' expidrefs='2,4,7' idrefs='2,4,7' lastused='2010' name='oracle dba' start='731796'>
+    <variant>Oracle database</variant>
+    <variant>Oracle Database 7</variant>
+    <variant>Oracle Database</variant>
+  </canonskill>
+  <canonskill name='oracle designer 2000'>
+    <variant>Oracle Designer 6</variant>
+  </canonskill>
+  <canonskill name='oracle developer 2000'>
+    <variant>Developer 2000</variant>
+    <variant>Oracle Developer 2000</variant>
+    <variant>Oracle Developer</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='7' idrefs='7' lastused='2007' name='oracle pl/sql' start='731796'>
+    <variant>Oracle PL/SQL</variant>
+    <variant>PL/SQL</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='8' idrefs='8' lastused='2007' name='pacs' start='731583'>
+    <variant>PACS</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='8' idrefs='8' lastused='2007' name='payroll processing' start='731583'>
+    <variant>Payroll</variant>
+  </canonskill>
+  <canonskill name='php'>
+    <variant>PHP</variant>
+  </canonskill>
+  <canonskill name='problem solving'>
+    <variant>Problem-solving</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='7' idrefs='7' lastused='2007' name='programming' start='731796'>
+    <variant>Programmer</variant>
+    <variant>programming</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='7' idrefs='7' lastused='2007' name='progress' start='731796'>
+    <variant>progress</variant>
+  </canonskill>
+  <canonskill name='quick'>
+    <variant>Quick</variant>
+  </canonskill>
+  <canonskill name='red hat linux'>
+    <variant>Red Hat Linux 9</variant>
+    <variant>Red Hat Linux</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='7' idrefs='7' lastused='2007' name='reengineering' start='731796'>
+    <variant>Re-Engineering</variant>
+  </canonskill>
+  <canonskill end='733926' experience='1' expidrefs='4' idrefs='4' lastused='2010' name='reports' start='733013'>
+    <variant>reporting</variant>
+  </canonskill>
+  <canonskill experience='1' name='requirements'>
+    <variant>Requirement</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='8' idrefs='8' lastused='2007' name='ris' start='731583'>
+    <variant>RIS</variant>
+  </canonskill>
+  <canonskill end='733926' experience='1' expidrefs='4' idrefs='4' lastused='2010' name='sales management' start='733013'>
+    <variant>Sales Manager</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='8' idrefs='8' lastused='2007' name='scheduling' start='731583'>
+    <variant>Scheduling</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='7' idrefs='7' lastused='2007' name='sdlc' start='731796'>
+    <variant>SDLC</variant>
+  </canonskill>
+  <canonskill name='shell scripting'>
+    <variant>Shell Scripting</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='7' idrefs='7' lastused='2007' name='software development' start='731796'>
+    <variant>Software development</variant>
+    <variant>software development</variant>
+  </canonskill>
+  <canonskill name='sql'>
+    <variant>SQL</variant>
+  </canonskill>
+  <canonskill name='sql*loader'>
+    <variant>SQL Loader</variant>
+  </canonskill>
+  <canonskill experience='1' name='systems integration'>
+    <variant>system integration</variant>
+  </canonskill>
+  <canonskill name='tables'>
+    <variant>tables</variant>
+  </canonskill>
+  <canonskill name='teamwork'>
+    <variant>Team player</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='7' idrefs='7' lastused='2007' name='technical management' start='731796'>
+    <variant>technical management</variant>
+  </canonskill>
+  <canonskill name='technical writing'>
+    <variant>user manuals</variant>
+    <variant>technical documentation</variant>
+  </canonskill>
+  <canonskill name='toad'>
+    <variant>TOAD 7.6</variant>
+  </canonskill>
+  <canonskill name='unified modeling language'>
+    <variant>UML 2.0</variant>
+  </canonskill>
+  <canonskill name='unix'>
+    <variant>UNIX</variant>
+  </canonskill>
+  <canonskill name='unix shell scripting'>
+    <variant>UNIX shell scripting</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='7' idrefs='7' lastused='2007' name='upgrades' start='731796'>
+    <variant>upgrade</variant>
+  </canonskill>
+  <canonskill end='733926' experience='1' expidrefs='4' idrefs='4' lastused='2010' name='view' start='733013'>
+    <variant>view</variant>
+  </canonskill>
+  <canonskill name='visio 2000'>
+    <variant>Visio 2000</variant>
+  </canonskill>
+  <canonskill name='visual basic 6.0'>
+    <variant>VB6.0</variant>
+    <variant>VB 6.0</variant>
+  </canonskill>
+  <canonskill name='wan'>
+    <variant>WAN</variant>
+  </canonskill>
+  <canonskill experience='1' name='web site production'>
+    <variant>web development</variant>
+  </canonskill>
+  <canonskill name='xml'>
+    <variant>XML</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

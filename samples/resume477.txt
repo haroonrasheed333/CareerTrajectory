@@ -1,0 +1,171 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734594' xml:space='preserve'><contact><name><givenname>Lucille</givenname> <surname>Rickman</surname></name>
+<address lat='40.6313' lon='74.437' majorcity='PLAINFIELD' state='NJ'><street>944 Carnegie Avenue</street>, <city>Plainfield</city>, <state abbrev='NJ'>NJ</state> <postalcode>07060</postalcode></address>  Cell: <phone type='cell'>201-892-3996</phone>  E-mail: <email>Neferrickman07@aol.com</email></contact>
+
+<summary>Professional Profile
+<personalstatements>Quick study with strong work ethic
+Committed team player
+Strong communication and interpersonal skills</personalstatements></summary>
+
+<education>Education &amp; Qualification
+<school id='4'><institution>Saint Peter's College</institution>, <address><city>Jersey City</city>, <state abbrev='NJ'>NJ</state></address>	           						<daterange><start days='730488' iso8601='2001-01-01'>2001</start>- <end days='present' iso8601='2012-03-30'>Present</end></daterange>
+<degree level='18' name='Master of Business Administration'>MBA</degree> concentration in <major code='4303'>Management Information Systems</major>, and minor in <minor code='2999'>Human Resource</minor>, <completiondate>May 2012</completiondate></school>
+<degree level='16' name='Bachelor of Arts'>Dural Degree BA</degree>/<degree level='16' name='Bachelor of Science'>BS</degree> <major code='4303'>Management Information Systems</major> <completiondate days='733530' iso8601='2009-05-01'>May 2009</completiondate>
+		
+Honors and Awards
+<honors>Dean's List, Saint Peter's College: Undergraduate	  				 2006-2007</honors></education>
+
+<experience>Internship Experience - <employer>Saint Peter's College</employer>
+Summer <jobtype>Internship</jobtype>, <description>a one on one session on how to create and launch my small business webpage entitle, 
+&quot;Pamper Me 2 Children's Wear&quot;, creating customer made children clothing since 2001.</description></experience>
+	
+<skills>Skills Summary
+<skills>Proficient in CRM, SRM, Saleforce, and Datatel Database Management (Spirit)
+Oracle: SQL, SQL*Plus, C++, and HTML
+SPSS Social Science Statistical Software, and Flash MX
+Expert in Microsoft Office Suite (Word, Outlook, Excel, Access, PowerPoint); Windows XP and
+ Mac OS, and Google Mail</skills>
+Language: <languages>Intermediate Sign Language, and some Spanish</languages></skills> 
+
+<experience end='present' start='727200'>Professional Experience
+<job end='present' id='1' inferred-to='2' pos='1' start='730488'><title>Admission Specialist/Work-Studies Supervisor</title> 					<daterange><start days='730488' iso8601='2001-01-01'>2001</start>- <end days='present' iso8601='2012-03-30'>Present</end></daterange> 
+<employer>Saint Peter's College</employer>, <address>New <city>Jersey City</city>, <state abbrev='NJ'>NJ</state></address>	 Lee House Office of Undergraduate Admission,	
+<description>Evaluate over 2,000 applicants annually from across the country as well as internationally 
+Receive applicant's application by way of electronic application, e-mail, or by postal mail
+Prepare and code applicant's application, inquiry forms, and campus visits to be enter online using Saleforce-Student Recruitment Manager (SRM) technology by Target X, also use the Datatel Database (Spirit)
+Implement varieties of office projects such as preparing and processing Accepts, Scholarship Awards,
+Rejection letters, also participated in Student Transfer Day. 
+Assist in all logistical preparation for the Fall and Spring Open House- engage in over 500 visitors
+Conduct outreach, and follow-up of prospective students to recruit by means of SRM, telephone are email communication.
+Perform SRM online transmission to find cancellations and withdraws 
+Supervising, training, and overseeing the day to day duties of 15-17 student-workers
+Ensuring the management and administrators that projects are being completed 
+Commendations received from supervisors regarding applications turn around time, and received accolades for great organizational skills of work, and handling of the students.</description></job>
+
+<job end='730488' id='2' inferred-from='1' pos='2' start='730488'><title>Legal Secretary</title> 						     			<daterange><start days='730488' iso8601='2001-01-01'>2001</start>- <end days='730488' iso8601='2001-01-01'>2001</end></daterange>
+<department>New York Insurance Department</department>, <address><city>New York</city>, <state abbrev='NY'>NY</state></address> 		
+<description>Provided office support for two attorneys in the Fraud and Scams Department, and the General Counsel Department; drafted and finalized documents, initiate data input of fraud reports and insurance forms.  In addition, monitored the phones and scheduled meetings
+Researched projects performed for the attorneys upon request</description></job>
+
+
+
+
+
+
+
+
+
+<job end='730488' id='3' pos='3' sic='999977' sic2='99' start='727200'><title>Administrative Assistant</title>					     			<daterange><start days='727200' iso8601='1992-01-01'>1992</start>-<end days='730488' iso8601='2001-01-01'>2001</end></daterange>	
+<employer>Housing Development Corporation</employer>, <address><city>New York</city>, <state abbrev='NY'>NY</state></address> 		
+<description>Provided high-level administrative support to the Vice President and Assistant Vice President of Compliance, successfully resolved people complaints regarding housing issues
+Utilized and applied knowledge of the Oracles Application Navigator for requisitions of special orders,
+and office supplies for various departments
+Utilized Excel to prepare forms for the HDC Inspection Department, and the U.S. Department of Housing
+ 	&amp; Urban Development
+Received accolades regularly for great organizational skills and contribution of new ideas</description></job></experience>
+
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='730488' experience='1' expidrefs='3' idrefs='3' lastused='2001' name='administrative support' start='727200'>
+    <variant>administrative support</variant>
+  </canonskill>
+  <canonskill name='c + +'>
+    <variant>C++</variant>
+  </canonskill>
+  <canonskill name='crm'>
+    <variant>CRM</variant>
+  </canonskill>
+  <canonskill experience='1' name='database administration'>
+    <variant>Database Management</variant>
+    <variant>Database</variant>
+  </canonskill>
+  <canonskill experience='1' name='email'>
+    <variant>e-mail</variant>
+    <variant>email</variant>
+  </canonskill>
+  <canonskill name='flash'>
+    <variant>Flash</variant>
+  </canonskill>
+  <canonskill end='730488' experience='1' expidrefs='3' idrefs='3' lastused='2001' name='forms' start='727200'>
+    <variant>forms</variant>
+  </canonskill>
+  <canonskill name='html'>
+    <variant>HTML</variant>
+  </canonskill>
+  <canonskill experience='1' name='insurance'>
+    <variant>insurance</variant>
+  </canonskill>
+  <canonskill experience='1' name='letters'>
+    <variant>letters</variant>
+  </canonskill>
+  <canonskill name='macintosh os'>
+    <variant>Mac OS</variant>
+  </canonskill>
+  <canonskill experience='1' name='meeting facilitation'>
+    <variant>meetings</variant>
+  </canonskill>
+  <canonskill name='microsoft access'>
+    <variant>Access</variant>
+  </canonskill>
+  <canonskill end='730488' experience='1' expidrefs='3' idrefs='3' lastused='2001' name='microsoft excel' start='727200'>
+    <variant>Excel</variant>
+  </canonskill>
+  <canonskill experience='1' name='microsoft mail'>
+    <variant>Mail</variant>
+    <variant>mail</variant>
+  </canonskill>
+  <canonskill end='730488' experience='1' expidrefs='3' idrefs='3' lastused='2001' name='microsoft office' start='727200'>
+    <variant>Microsoft Office Suite</variant>
+    <variant>office</variant>
+  </canonskill>
+  <canonskill name='microsoft outlook'>
+    <variant>Outlook</variant>
+  </canonskill>
+  <canonskill name='microsoft powerpoint'>
+    <variant>PowerPoint</variant>
+  </canonskill>
+  <canonskill name='microsoft windows xp'>
+    <variant>Windows XP</variant>
+  </canonskill>
+  <canonskill name='microsoft word'>
+    <variant>Word</variant>
+  </canonskill>
+  <canonskill end='730488' experience='1' expidrefs='3' idrefs='3' lastused='2001' name='netscape navigator' start='727200'>
+    <variant>Navigator</variant>
+  </canonskill>
+  <canonskill name='oracle'>
+    <variant>Oracle</variant>
+  </canonskill>
+  <canonskill end='730488' experience='1' expidrefs='3' idrefs='3' lastused='2001' name='organizational skills' start='727200'>
+    <variant>organizational skills</variant>
+  </canonskill>
+  <canonskill experience='1' name='recruiting'>
+    <variant>Recruitment</variant>
+  </canonskill>
+  <canonskill name='sign language'>
+    <variant>Sign Language</variant>
+  </canonskill>
+  <canonskill name='spanish'>
+    <variant>some Spanish</variant>
+  </canonskill>
+  <canonskill name='spss'>
+    <variant>SPSS</variant>
+  </canonskill>
+  <canonskill name='sql'>
+    <variant>SQL</variant>
+  </canonskill>
+  <canonskill experience='1' name='supervisory skills'>
+    <variant>Supervising</variant>
+  </canonskill>
+  <canonskill experience='1' name='telephone skills'>
+    <variant>telephone</variant>
+    <variant>phones</variant>
+  </canonskill>
+  <canonskill experience='1' name='transmission'>
+    <variant>transmission</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

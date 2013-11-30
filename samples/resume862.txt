@@ -1,0 +1,228 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734597' xml:space='preserve'><contact><name><givenname>HOWARD</givenname> <surname>RAMM</surname></name>
+<address lat='30.8386' lon='97.7903' majorcity='FLORENCE' state='TX'><street>250 Ramms Drive</street>
+<city>Florence</city>, <state abbrev='TX'>TX</state>  <postalcode>76527</postalcode></address>
+<website>www.linkedin.com/pub/howard-ramm/33/2a4/433</website>
+<phone>512.773.3415</phone>	<email>hramm@pmwifi.com</email></contact>
+
+<summary>SUMMARY
+
+<summary>Senior Lotus Domino Administrator highly adept at building, configuring, upgrading and resolving Domino servers and related software issues.  Proficient in multiple virus / spam content filtering programs and improving Lotus Notes mail and database user experience.  Uses communication, organizational, analytical, and problem solving skills to provide high availability across products.  Researches latest software updates and enhancements, providing best in class features and performance.</summary></summary> 
+ 
+<skills>TECHNICAL AND SPECIALIZED SKILLS
+
+<skills>Products	Microsoft Word, Excel, Lotus Notes Client, Lotus Domino, Lotus Sametime, Lotus Symphony, Lotus Quickr, IBM One View, Trend Micro Scanmail for Domino, Clearswift Mimesweeper, Cipher Trust Ironmail	
+
+Platforms	IBM AIX, Windows XP, Windows 7, Windows server 2000, 2003, and 2006</skills></skills>	
+
+
+
+<experience end='present' start='727566'>PROFESSIONAL EXPERIENCE
+
+<job end='present' id='1' inferred-to='1,3,4,5,6,8' naics='33411101' naics2='33' pos='2' sic='422506' sic2='42' start='727566'><employer>IBM</employer>, <address><city>Austin</city>, <state abbrev='TX'>TX</state></address>	<daterange><start days='727566' iso8601='1993-01-01'>1993</start> - <end days='present' iso8601='2012-04-02'>Present</end></daterange></job>
+<job end='present' id='2' inferred-from='2' pos='1' sic='422506' sic2='42' start='733775'><title>Business Recovery Manager</title>	<daterange><start days='733775' iso8601='2010-01-01'>2010</start> - <end days='present' iso8601='2012-04-02'>Present</end></daterange>
+<description>Managed and coordinated recovery of business impacting critical events, utilizing IBM processes and tools ranging from system and network outages, database and hardware failures, to misdirected links on company web pages.
+Validated critical events by coordinating and authorizing recovery actions and plans.
+Executed notifications and escalations, as defined in Recovery Management Process, ensuring accurate timelines of recovery plans and activities were documented.
+Managed critical events to resolution, certifying appropriate level of technical or business skill was actively engaged.
+Assessed critical event impact in a timely manner and accounted event recovery, determining correct support organization and management involvement needed to resolve event.
+Provided direction on technical bridge call, establishing communication checkpoint schedule with Duty Manager and Service Management team on Critical Events.
+Authorized recovery actions resulting from failed change activity, by reviewing change window plan for impact and completeness.</description></job> 
+<job end='733775' id='3' inferred-from='2' pos='3' sic='422506' sic2='42' start='733044'><title>Senior Domino Administrator</title>	<daterange><start days='733044' iso8601='2008-01-01'>2008</start> - <end days='733775' iso8601='2010-01-01'>2010</end></daterange>
+Account: <department>Texas Department of Criminal Justice</department>, <address>State of <state abbrev='TX'>Texas</state></address>.  Platforms supported: <description>Windows server 2000, 2003 and 2006.
+Upgraded Austin Domino server from Release 6 to Release 8, providing a supported version with additional function for mail management and performance improvements. 
+Delivered capability with both Release 6 and Release 8 Domino Servers and Lotus Notes Clients, as environment had mixture of both, by upgrading Sametime from Release 6 to Release 7.
+Provided performance increases for end users and also included additional functionality by upgrading Domino Web Access clients to Release 8 and providing access to Austin Domino Server for mail.
+Brought all servers to supported levels by upgrading Huntsville Domino server.
+Improved availability of servers by proactively clearing mail backlogs and restoring servers.
+Examined and kept current anti-virus pattern files and scan engines, reducing number and frequency of virus infections and unwanted spam mail.</description></job>
+<job end='733044' id='4' inferred-from='2' pos='4' sic='422506' sic2='42' start='731949'><title>Senior Domino Administrator</title>	<daterange><start days='731949' iso8601='2005-01-01'>2005</start> - <end days='733044' iso8601='2008-01-01'>2008</end></daterange>
+Account: Michelin.  <description>Platform utilized: IBM AIX.
+Administered MimeSweeper content filtering software, reducing number and frequency of virus infections and unwanted spam mail.
+Built and configured Domino servers for migration from multiple email systems to single email system and domain, providing latest lotus client software to desk side support and keeping clients workstations at current supported level.
+Migrated 30K+ users from ccmail, Lotus Notes REL5, and GEMS (netscape mail) to new REL 6 Servers and domain during an 18 month period.</description></job>
+<job end='731949' id='5' inferred-from='2' pos='5' sic='422506' sic2='42' start='731218'><title>Senior Domino Administrator</title>	<daterange><start days='731218' iso8601='2003-01-01'>2003</start> - <end days='731949' iso8601='2005-01-01'>2005</end></daterange>
+Accounts: <description>Square D, GM-Sitel, and UNUM Provident Insurance.  Platform Utilized: Windows NT server.
+Configured Lotus Domino to receive external mail through Message Labs gateway, reducing amount of spam mail reaching end users and saving time and disk space.
+Supported 13K users with Notes e-mail and Lotus Applications, including intranet and Internet Domino web support and Trend-Micro Scanmail anti-virus protection.</description></job>
+<job end='731583' id='6' inferred-from='2' inferred-to='7' pos='6' sic='422506' sic2='42' start='730853'><title>Content Filtering Administrator</title>	<daterange><start days='730853' iso8601='2002-01-01'>2002</start> - <end days='731583' iso8601='2004-01-01'>2004</end></daterange>
+Account: <description>Coke beverages.  Platform utilized - AIX.
+Kept mail environment free from spam and viruses by combining 5 critical email security components into a single platform, using Cipher Trust's Ironmail product, including spam/fraud prevention, virus/worm protection, policy/content compliance, email privacy, and secure email gateway capabilities.</description></job>  
+<job end='731218' id='7' inferred-from='6' pos='7' sic='422506' sic2='42' start='730853'><title>Senior Domino Administrator</title>	<daterange><start days='730853' iso8601='2002-01-01'>2002</start> - <end days='731218' iso8601='2003-01-01'>2003</end></daterange>
+<description>Account: Florida Power and Light.  Platform utilized - IBM AIX.
+Installed and configured 2 mail domains on AIX servers and migrated 7K+ users from existing Domino infrastructure in 6 month period.  
+Reduced number and frequency of virus infections by installing and supporting Trend Micro anti-virus.</description></job>  
+<job end='730853' id='8' inferred-from='2' pos='8' sic='422506' sic2='42' start='730122'><title>Groupware Architect</title>	<daterange><start days='730122' iso8601='2000-01-01'>2000</start> - <end days='730853' iso8601='2002-01-01'>2002</end></daterange>
+<description>Created sizing and recommended configuration for Domino solutions for Pathmark, GM, and GMAC Commercial Credit accounts.  Utilized NT, Windows 2000, and Red Hat Linux.  Represented Architecture in technical and quality reviews on each engagement. 
+Performed Due Diligence investigation on Lexmark account, confirming original sizing for hardware and headcount.
+Supported MimeSweeper on a limit basis, reducing number and frequency of spam emails in users email, saving time and disk space.
+Transitioned new commercial accounts, Pathmark, Lexmark and GMAC Commercial Credit Domino support from existing support to IBM Global services support, implementing IBM best practices and supported configurations.
+Previous positions with IBM include Senior Domino Administrator for Philips Electronics and Domino Administrator for IBM internal</description></job></experience>
+
+<education>EDUCATION
+
+ <school id='9'><institution>Electronic Servicing, Texas State Technical Institute</institution>, <address><city>Waco</city> <state abbrev='TX'>TX</state></address>
+
+PROFESSIONAL DEVELOPMENT
+
+<description>Project Management Orientation, IBM Education, Online
+Transitioning to Domino R8, IBM Education, Online
+Domino Designer Introduction, IBM Education, Online
+Administrators preparing for R6, IBM Education, Austin, TX
+New features in Domino R6, IBM Education, Austin, TX
+Cipher Trust's Ironmail hands on education, Cipher Trust Inc, Atlanta, GA
+Domino Designer intro for R5, IBM Education, Austin, TX
+Aix ver. 4 Basics, IBM Education</description>, <address><city>Austin</city>, <state abbrev='TX'>TX</state></address>
+<courses>Certified Lotus Professional</courses></school></education>
+</resume>
+
+<skillrollup version='1'>
+  <canonskill education='1' eduidrefs='9' experience='1' idrefs='9' name='aix'>
+    <variant>IBM AIX</variant>
+    <variant>AIX</variant>
+    <variant>Aix</variant>
+  </canonskill>
+  <canonskill experience='1' name='anti virus'>
+    <variant>anti-virus</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='9' idrefs='9' name='certified lotus professional'>
+    <variant>Certified Lotus Professional</variant>
+  </canonskill>
+  <canonskill experience='1' name='computer hardware'>
+    <variant>hardware</variant>
+  </canonskill>
+  <canonskill experience='1' name='content management'>
+    <variant>content</variant>
+  </canonskill>
+  <canonskill experience='1' name='credit'>
+    <variant>Credit</variant>
+  </canonskill>
+  <canonskill experience='1' name='customer relations'>
+    <variant>Client</variant>
+    <variant>client</variant>
+    <variant>Clients</variant>
+    <variant>clients</variant>
+  </canonskill>
+  <canonskill experience='1' name='database administration'>
+    <variant>database</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='9' experience='1' idrefs='9' name='decryption'>
+    <variant>Cipher</variant>
+  </canonskill>
+  <canonskill experience='1' name='directing'>
+    <variant>direction</variant>
+  </canonskill>
+  <canonskill experience='1' name='due diligence'>
+    <variant>Due Diligence</variant>
+  </canonskill>
+  <canonskill experience='1' name='electronics'>
+    <variant>Electronics</variant>
+  </canonskill>
+  <canonskill experience='1' name='email'>
+    <variant>e-mail</variant>
+    <variant>email</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='9' idrefs='9' name='features'>
+    <variant>features</variant>
+  </canonskill>
+  <canonskill experience='1' name='gateway'>
+    <variant>gateway</variant>
+  </canonskill>
+  <canonskill experience='1' name='gems'>
+    <variant>GEMS</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='9' experience='1' idrefs='9' name='ibm'>
+    <variant>IBM</variant>
+  </canonskill>
+  <canonskill experience='1' name='insurance'>
+    <variant>Insurance</variant>
+  </canonskill>
+  <canonskill experience='1' name='lotus'>
+    <variant>Lotus Applications</variant>
+    <variant>Lotus</variant>
+    <variant>lotus</variant>
+  </canonskill>
+  <canonskill experience='1' name='lotus cc : mail'>
+    <variant>ccmail</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='9' experience='1' idrefs='9' name='lotus domino'>
+    <variant>Domino</variant>
+    <variant>Lotus Domino</variant>
+  </canonskill>
+  <canonskill experience='1' name='lotus notes'>
+    <variant>Notes</variant>
+    <variant>Lotus Notes</variant>
+  </canonskill>
+  <canonskill name='lotus symphony'>
+    <variant>Lotus Symphony</variant>
+  </canonskill>
+  <canonskill experience='1' name='microsoft access'>
+    <variant>Access</variant>
+    <variant>access</variant>
+  </canonskill>
+  <canonskill name='microsoft excel'>
+    <variant>Excel</variant>
+  </canonskill>
+  <canonskill experience='1' name='microsoft mail'>
+    <variant>mail</variant>
+  </canonskill>
+  <canonskill experience='1' name='microsoft windows'>
+    <variant>Windows 7</variant>
+    <variant>Windows</variant>
+    <variant>window</variant>
+  </canonskill>
+  <canonskill experience='1' name='microsoft windows 2000'>
+    <variant>Windows 2000</variant>
+    <variant>2000</variant>
+  </canonskill>
+  <canonskill experience='1' name='microsoft windows nt'>
+    <variant>Windows NT server</variant>
+    <variant>NT</variant>
+  </canonskill>
+  <canonskill name='microsoft windows xp'>
+    <variant>Windows XP</variant>
+  </canonskill>
+  <canonskill name='microsoft word'>
+    <variant>Microsoft Word</variant>
+  </canonskill>
+  <canonskill experience='1' name='migration'>
+    <variant>migration</variant>
+  </canonskill>
+  <canonskill experience='1' name='netscape'>
+    <variant>netscape</variant>
+  </canonskill>
+  <canonskill experience='1' name='networking'>
+    <variant>network</variant>
+  </canonskill>
+  <canonskill experience='1' name='process engineering'>
+    <variant>processes</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='9' idrefs='9' name='project management'>
+    <variant>Project Management</variant>
+  </canonskill>
+  <canonskill experience='1' name='quality'>
+    <variant>quality</variant>
+  </canonskill>
+  <canonskill experience='1' name='red hat linux'>
+    <variant>Red Hat Linux</variant>
+  </canonskill>
+  <canonskill experience='1' name='servers'>
+    <variant>Servers</variant>
+    <variant>servers</variant>
+  </canonskill>
+  <canonskill experience='1' name='trend'>
+    <variant>Trend</variant>
+  </canonskill>
+  <canonskill experience='1' name='upgrades'>
+    <variant>upgrading</variant>
+  </canonskill>
+  <canonskill name='view'>
+    <variant>View</variant>
+  </canonskill>
+  <canonskill experience='1' name='web site production'>
+    <variant>web pages</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

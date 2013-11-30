@@ -1,0 +1,768 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Deployment Professional - Tivoli Storage Manager V6.3", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9575", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "SAP Application Consultant", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "4869", 
+            "Certifying Organization": "SAP America, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "SAP Technology  Consultant", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "4870", 
+            "Certifying Organization": "SAP America, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "BMC Certified Administrator: BMC Remedy AR System 7.6.04", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "5751", 
+            "Certifying Organization": "BMC Software, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "HP ASE - Business Service Management v9", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7188", 
+            "Certifying Organization": "Hewlett Packard Certification and Learning"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "HP AIS - Server Automation v9", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7211", 
+            "Certifying Organization": "Hewlett Packard Certification and Learning"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "HP AIS - Service Manager v9", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7212", 
+            "Certifying Organization": "Hewlett Packard Certification and Learning"
+        }, 
+        {
+            "Acronym": "ISSMP", 
+            "Certification Name": "Information Systems Security Management Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "5323", 
+            "Certifying Organization": "International Information Systems Security Certification Consortium, Inc."
+        }, 
+        {
+            "Acronym": "ISA", 
+            "Certification Name": "Information System Analyst", 
+            "Type": "Core", 
+            "Certification ID": "3547", 
+            "Certifying Organization": "Institute for the Certification of Computing Professionals"
+        }, 
+        {
+            "Acronym": "CAP", 
+            "Certification Name": "Certification Authorization Professional", 
+            "Type": "Core", 
+            "Certification ID": "5297", 
+            "Certifying Organization": "International Information Systems Security Certification Consortium, Inc."
+        }, 
+        {
+            "Acronym": "EMCDCA", 
+            "Certification Name": "Data Center Architect", 
+            "Type": "Core", 
+            "Certification ID": "6846", 
+            "Certifying Organization": "EMC Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Deployment Professional - Tivoli Storage Manager V6.2", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7020", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "EDRP", 
+            "Certification Name": "Disaster Recovery Professional", 
+            "Type": "Core", 
+            "Certification ID": "6346", 
+            "Certifying Organization": "EC-Council"
+        }, 
+        {
+            "Acronym": "C-CISO", 
+            "Certification Name": "EC Council Certified Chief Information Security Officer", 
+            "Type": "Advanced", 
+            "Certification ID": "6341", 
+            "Certifying Organization": "EC-Council"
+        }, 
+        {
+            "Acronym": "EMCSyA", 
+            "Certification Name": "System Administrator", 
+            "Type": "Advanced", 
+            "Certification ID": "5827", 
+            "Certifying Organization": "EMC Corporation"
+        }, 
+        {
+            "Acronym": "MPM", 
+            "Certification Name": "Master Project Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "2770", 
+            "Certifying Organization": "Institute of Certified E-Commerce Consultants "
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Deployment Professional - Tivoli Access Manager for e-business V6.1", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "5002", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "CBP Master Executive Computer Technology Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "8790", 
+            "Certifying Organization": "International Business Training Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Oracle Application Integration Architecture 11g Certified Implementation Specialist", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7122", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "ACE", 
+            "Certification Name": "Advanced Certified Engineer ", 
+            "Type": "Advanced", 
+            "Certification ID": "2758", 
+            "Certifying Organization": "The SCO Group"
+        }, 
+        {
+            "Acronym": "CHTP", 
+            "Certification Name": "Certified Hospitality Technology Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "1343", 
+            "Certifying Organization": "Hospitality Financial & Technology Professionals"
+        }, 
+        {
+            "Acronym": "CDMP", 
+            "Certification Name": "Certified Data Management Professional", 
+            "Type": "Core", 
+            "Certification ID": "3546", 
+            "Certifying Organization": "Institute for the Certification of Computing Professionals"
+        }, 
+        {
+            "Acronym": "GISF", 
+            "Certification Name": "GIAC Information Security Fundamentals", 
+            "Type": "Core", 
+            "Certification ID": "4381", 
+            "Certifying Organization": "Global Information Assurance Certification"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Database Design Specialists", 
+            "Type": "Core", 
+            "Certification ID": "5776", 
+            "Certifying Organization": "Certified Internet Web Professionals"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified LabVIEW Architect", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "3773", 
+            "Certifying Organization": "National Instruments Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Systems Expert - Enterprise Technical Support for AIX and Linux - V2", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7034", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "CNP", 
+            "Certification Name": "Certified Network Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "6193", 
+            "Certifying Organization": "Network Professional Association"
+        }, 
+        {
+            "Acronym": "CISM", 
+            "Certification Name": "Certified Information Security Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "4569", 
+            "Certifying Organization": "Information Systems Audit and Control Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified System Administrator - WebSphere Application Server Network Deployment V7.0", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "5046", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Systems Expert - High Availability for AIX Technical Support and Administration", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "5056", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "BMC Certified Administrator:  BMC Remedy AR System 7.6.03", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "5750", 
+            "Certifying Organization": "BMC Software, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Oracle Certified Professional, Oracle Solaris 10 System Administrator", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7130", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "HP AIS - Application Lifecycle Management v11", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7182", 
+            "Certifying Organization": "Hewlett Packard Certification and Learning"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "HP AIS - Universal Configuration Management Database v9", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7190", 
+            "Certifying Organization": "Hewlett Packard Certification and Learning"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "HP ATP - BladeSystem Solutions Support V8", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7229", 
+            "Certifying Organization": "Hewlett Packard Certification and Learning"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Oracle Certified Professional, MySQL 5 Developer", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7058", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Project+", 
+            "Type": "Core", 
+            "Certification ID": "2483", 
+            "Certifying Organization": "Computing Technology Industry Association (CompTIA)"
+        }, 
+        {
+            "Acronym": "CITC", 
+            "Certification Name": "Certified IT Consultant", 
+            "Type": "Core", 
+            "Certification ID": "7174", 
+            "Certifying Organization": "Institute for the Certification of Computing Professionals"
+        }, 
+        {
+            "Acronym": "CNDA", 
+            "Certification Name": "Certified Network Defense Architect", 
+            "Type": "Advanced", 
+            "Certification ID": "5313", 
+            "Certifying Organization": "EC-Council"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Hyperion Financial Management  11 Certified Implementation Specialist", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "6245", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "LPT", 
+            "Certification Name": "Licensed Penetration Tester", 
+            "Type": "Core", 
+            "Certification ID": "5312", 
+            "Certifying Organization": "EC-Council"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "BMC Certified Administrator: BMC Remedy AR System 7.5", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7176", 
+            "Certifying Organization": "BMC Software, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Deployment Professional - Tivoli Change and Configuration Management Database V7.1.1", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "5018", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Solution Advisor - Tivoli Storage Solutions V3", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "5019", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "HDI", 
+            "Certification Name": "HDI Certified Support Center Team Lead", 
+            "Type": "Core", 
+            "Certification ID": "5487", 
+            "Certifying Organization": "HDI"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Deployment Professional - Tivoli Workload Scheduler V8.6", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "5017", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "CIP", 
+            "Certification Name": "Certified Information Professional", 
+            "Type": "Core", 
+            "Certification ID": "8041", 
+            "Certifying Organization": "Association for Information and Image Management."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "BMC Certified Developer: BMC Remedy AR System 7.5", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "5752", 
+            "Certifying Organization": "BMC Software, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Oracle Certified Professional - Oracle Application Server 10g Administrator", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "4858", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "CCIE", 
+            "Certification Name": "CCIE Storage Networking", 
+            "Type": "Core", 
+            "Certification ID": "5706", 
+            "Certifying Organization": "Cisco Systems, Inc."
+        }, 
+        {
+            "Acronym": "CEMS", 
+            "Certification Name": "WOW Certified E-Commerce Manager", 
+            "Type": "Core", 
+            "Certification ID": "2852", 
+            "Certifying Organization": "World Organization of Webmasters"
+        }, 
+        {
+            "Acronym": "C3E", 
+            "Certification Name": "Certified Cyber-Crime Expert", 
+            "Type": "Core", 
+            "Certification ID": "5319", 
+            "Certifying Organization": "E-Business Process Solutions"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "CompTIA Cloud Essentials", 
+            "Type": "Core", 
+            "Certification ID": "7408", 
+            "Certifying Organization": "Computing Technology Industry Association (CompTIA)"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified System Administrator  - Lotus Notes Domino 8", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7025", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "ECSA", 
+            "Certification Name": "EC-Council Certified Security Analyst", 
+            "Type": "Advanced", 
+            "Certification ID": "5315", 
+            "Certifying Organization": "EC-Council"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "EC-Council Certified Incident Handler", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "6347", 
+            "Certifying Organization": "EC-Council"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Oracle Certified Professional Oracle Solaris Cluster 3.2 System Administrator", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7886", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Primavera P6 Enterprise Project Portfolio Management 8 Certified Implementation Specialist", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8477", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Oracle Hyperion Data Relationship Management Certified Implementation Specialist", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8490", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "CSFA", 
+            "Certification Name": "CyberSecurity Forensic Analyst", 
+            "Type": "Advanced", 
+            "Certification ID": "5305", 
+            "Certifying Organization": "CyberSecurity Institute"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Oracle 9i Database Administrator - Professional", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "5797", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "ACISE", 
+            "Certification Name": "Associate Certified Information Systems Examiner", 
+            "Type": "Core", 
+            "Certification ID": "8803", 
+            "Certifying Organization": "Conference of State Bank Supervisors"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Deployment Professional - Tivoli Storage Productivity Center V5.1", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "5008", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Citrix Certified Integration Architect", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "3708", 
+            "Certifying Organization": "Citrix Systems Incorporated"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "HP ASE - Network Infrastructure [2011]", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7202", 
+            "Certifying Organization": "Hewlett Packard Certification and Learning"
+        }, 
+        {
+            "Acronym": "GSEC", 
+            "Certification Name": "GIAC Security Essentials Certification", 
+            "Type": "Core", 
+            "Certification ID": "2827", 
+            "Certifying Organization": "Global Information Assurance Certification"
+        }, 
+        {
+            "Acronym": "EMCCA", 
+            "Certification Name": "Cloud Architect", 
+            "Type": "Core", 
+            "Certification ID": "6847", 
+            "Certifying Organization": "EMC Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Hyperion Financial Management 9.3 Administrator Certified Expert", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "6247", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Advanced Application Developer - Rational Application Developer V7", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7026", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "BMC Certified Administrator: BMC Atrium Discovery and Dependency Mapping 8.2", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "5753", 
+            "Certifying Organization": "BMC Software, Inc."
+        }, 
+        {
+            "Acronym": "CGEIT", 
+            "Certification Name": "Certified in the Governance of Enterprise IT", 
+            "Type": "Advanced", 
+            "Certification ID": "7296", 
+            "Certifying Organization": "Information Systems Audit and Control Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Advanced System Administrator - WebSphere Application Server, Network Deployment V6.1", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "5028", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Oracle E-Business Suite R12 Applications Database Administrator - Professional", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "5800", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "HP AIS - BSM Network Node Manager i v9", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7204", 
+            "Certifying Organization": "Hewlett Packard Certification and Learning"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "BMC Certified Administrator: BMC Atrium CMDB  7.5", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "5747", 
+            "Certifying Organization": "BMC Software, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "HP ATP - Converged Infrastructure Integrator V1", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7192", 
+            "Certifying Organization": "Hewlett Packard Certification and Learning"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "AIS - HP Data Protector", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7193", 
+            "Certifying Organization": "Hewlett Packard Certification and Learning"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "AIS - HP Integrity Server Systems [2006]", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7197", 
+            "Certifying Organization": "Hewlett Packard Certification and Learning"
+        }, 
+        {
+            "Acronym": "ISSAP", 
+            "Certification Name": "Information Systems Security Architecture Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "5321", 
+            "Certifying Organization": "International Information Systems Security Certification Consortium, Inc."
+        }, 
+        {
+            "Acronym": "ESSEP", 
+            "Certification Name": "Information Systems Security Engineering Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "5322", 
+            "Certifying Organization": "International Information Systems Security Certification Consortium, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Oracle Certified Associate, MySQL 5", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7057", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "GSLC", 
+            "Certification Name": "GIAC Security Leadership Certification", 
+            "Type": "Core", 
+            "Certification ID": "4404", 
+            "Certifying Organization": "Global Information Assurance Certification"
+        }, 
+        {
+            "Acronym": "CHCIO", 
+            "Certification Name": "CHIME Certified Healthcare CIO", 
+            "Type": "Advanced", 
+            "Certification ID": "9527", 
+            "Certifying Organization": "College of Healthcare Information Management Executives"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Hyperion Planning 9.3 Administrator Certified Expert", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "6244", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "CCBTO", 
+            "Certification Name": "Certified Community Bank Technology Officer", 
+            "Type": "Advanced", 
+            "Certification ID": "9242", 
+            "Certifying Organization": "Independent Community Bankers of America"
+        }, 
+        {
+            "Acronym": "GCPM", 
+            "Certification Name": "GIAC Certified Project Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "6774", 
+            "Certifying Organization": "Global Information Assurance Certification"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Brocade Certified Architect for FICON", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "5770", 
+            "Certifying Organization": "Brocade Communications Systems, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Juniper Networks Certified Internet Professional", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "4748", 
+            "Certifying Organization": "Juniper Networks"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Solution Designer - DB2 Content Manager V8.3", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "4956", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "PMP", 
+            "Certification Name": "Project Management Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "0487", 
+            "Certifying Organization": "Project Management Institute"
+        }, 
+        {
+            "Acronym": "CDIA+", 
+            "Certification Name": "Certified Document Imaging Architect", 
+            "Type": "Core", 
+            "Certification ID": "0372", 
+            "Certifying Organization": "Computing Technology Industry Association (CompTIA)"
+        }, 
+        {
+            "Acronym": "SSCP", 
+            "Certification Name": "Systems Security Certified Practitioner", 
+            "Type": "Core", 
+            "Certification ID": "1921", 
+            "Certifying Organization": "International Information Systems Security Certification Consortium, Inc."
+        }, 
+        {
+            "Acronym": "CWC", 
+            "Certification Name": "WOW Certified Web Consultant", 
+            "Type": "Core", 
+            "Certification ID": "2858", 
+            "Certifying Organization": "World Organization of Webmasters"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "CompTIA Storage + Powered by SNIA", 
+            "Type": "Core", 
+            "Certification ID": "7407", 
+            "Certifying Organization": "Computing Technology Industry Association (CompTIA)"
+        }, 
+        {
+            "Acronym": "HDI", 
+            "Certification Name": "HDI Support Center Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "1742", 
+            "Certifying Organization": "HDI"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Oracle Database 11g Administrator Certified Associate", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7044", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified System Administrator - WebSphere Commerce V7.0", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "5035", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Brocade Certified Fabric Designer", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "5769", 
+            "Certifying Organization": "Brocade Communications Systems, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Deployment Professional - Tivoli Monitoring V6.2.2", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "5004", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Red Hat Certified Security Specialist", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "4867", 
+            "Certifying Organization": "Red Hat, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "AIS - HP NonStop Systems", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7205", 
+            "Certifying Organization": "Hewlett Packard Certification and Learning"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "AIS - HP Operations Orchestration v9", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7207", 
+            "Certifying Organization": "Hewlett Packard Certification and Learning"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Advanced Deployment Professional - IBM Service Management Security and Compliance V3", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7019", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified SOA Associate [2008]", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "5474", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Oracle Enterprise Manager 12c Certified Implementation Specialist", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8491", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "GREM", 
+            "Certification Name": "GAIC Reverse Engineering Malware", 
+            "Type": "Advanced", 
+            "Certification ID": "4372", 
+            "Certifying Organization": "Global Information Assurance Certification"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Deployment Professional - Tivoli Identity Manager V5.1", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "5024", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Specialist - Retail Store Solutions Sales V4", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "5096", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "CISE", 
+            "Certification Name": "Certified Information Systems Examiner", 
+            "Type": "Advanced", 
+            "Certification ID": "8804", 
+            "Certifying Organization": "Conference of State Bank Supervisors"
+        }
+    ], 
+    "onet": "11302100"
+}

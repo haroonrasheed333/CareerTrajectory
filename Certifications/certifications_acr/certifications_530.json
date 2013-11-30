@@ -1,0 +1,19 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Coffee Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "1214", 
+            "Certifying Organization": "National Automatic Merchandising Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "ServSafe Alcohol", 
+            "Type": "Core", 
+            "Certification ID": "5349", 
+            "Certifying Organization": "National Restaurant Association Educational Foundation"
+        }
+    ], 
+    "onet": "35901100"
+}

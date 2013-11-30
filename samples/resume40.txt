@@ -1,0 +1,144 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734580' xml:space='preserve'><contact><name><givenname>Timothy</givenname> <surname>Huff</surname></name>
+
+<address><street>1045 Shady Street</street></address> Cell: <phone type='cell'>636-388-1546</phone> 
+<address lat='38.3349' lon='90.9751' majorcity='SAINT CLAIR' state='MO'><city>St. Clair</city>, <state abbrev='MO'>MO</state> <postalcode>63077</postalcode></address> <email>timothy_huff@yahoo.com</email></contact> 
+
+<summary>Summary
+
+<summary>Telecommunications Technician with 30 years experience. Areas of expertise include
+installation and service of customer communication equipment.</summary></summary>
+
+<experience end='present' start='731614'>Highlights
+
+
+?	<description>PBX certifications on NEC product line. 
+
+?	Perform Moves, Adds, and Changes on Various telephone systems. 
+
+?	Installation of wiring closets, CAT5, CAT5E, CAT6, Fiber Optic, and other multimedia
+infrastructures. 
+
+?	66 and 110 Blocks. Patch Panels.</description> 
+
+
+Experience
+
+Payroll-Accounting, <daterange><start>11/2012</start> - <end days='present' iso8601='2012-03-16'>Current</end></daterange>
+
+<description>Accounting Professionals - Union , MO
+
+?	Communicate with local phone companies for the installation and repair of voice and
+data circuits. 
+
+?	Work directly with end-users, staff, and vendors to answer technical questions and
+resolve problems. 
+
+
+?	Troubleshooting equipment as required. 
+
+?	Customer Satisfaction. 
+
+
+Prepare payroll and print checks for various company's. Troubleshoot electrical and
+network circuits .</description>
+
+<job end='present' id='1' pos='1' sic='581301' sic2='58' start='732799'><title>Telecom/Electrical Technician</title>, <daterange><start days='732799' iso8601='2007-05-01'>05/2007</start> - <end>10/2012</end></daterange>
+
+<employer>BOP</employer> - <address><city>Millington</city>, <state abbrev='TN'>TN</state></address>
+
+<description>Install and troubleshoot all telecom equipment. Install and terminate voice and data
+cabling. (CAT5E, CAT6, and fiber optics. Install and troubleshoot electrical circuits.
+Install and troubleshoot battery backup systems.</description></job>
+
+<job end='732648' id='2' pos='2' start='732314'><title>Telecommunications Technician</title>, <daterange><start days='732314' iso8601='2006-01-01'>01/2006</start> - <end days='732648' iso8601='2006-12-01'>12/2006</end></daterange>
+
+<employer>Optus Telemation</employer> - <address><city>Jonesboro</city>, <state abbrev='AR'>AR</state></address>
+
+<description>Serviced NEAX 2400 at St. Louis University Hospital. Serviced NEC PBX's in the
+Springfield, MO public school systems. Provided technical support to customers and
+technicians around the country.</description></job>
+
+<job end='732222' id='3' pos='3' sic='999977' sic2='99' start='731614'><title>Telecommunications Technician</title>, <daterange><start days='731614' iso8601='2004-02-01'>02/2004</start> - <end days='732222' iso8601='2005-10-01'>10/2005</end></daterange>
+
+<employer>CBC Communications</employer> - <address><city>St. Louis</city>, <state abbrev='MO'>MO</state></address>
+
+<description>Install NEC PBX's for the Springfield, MO public school system. Install and service
+customer communication equipment in the St. Louis area.</description></job></experience>
+
+<education>Education
+
+<school id='4'><completiondate days='723548' iso8601='1982-01-01'>1982</completiondate> R-13 - <address><city>St. Clair</city>, <state abbrev='MO'>MO</state>, <country iso3='USA'>US</country></address>
+
+<degree level='12'>High School Diploma</degree> General
+
+<completiondate days='733044' iso8601='2008-01-01'>2008</completiondate> <institution>Southwest Tennessee Community College</institution>
+<courses>Certification Microsoft Software Specialist</courses></school></education>
+</resume>
+
+<skillrollup version='1'>
+  <canonskill experience='1' name='accountancy'>
+    <variant>Accounting</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='backup' start='732799'>
+    <variant>backup</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='cabling' start='732799'>
+    <variant>cabling</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='cat5' start='732799'>
+    <variant>CAT5</variant>
+  </canonskill>
+  <canonskill experience='1' name='customer satisfaction'>
+    <variant>Customer Satisfaction</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='fiber optics' start='732799'>
+    <variant>fiber optics</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='4' idrefs='4' name='microsoft'>
+    <variant>Microsoft Software</variant>
+  </canonskill>
+  <canonskill experience='1' name='multimedia'>
+    <variant>multimedia</variant>
+  </canonskill>
+  <canonskill end='732648' experience='1' expidrefs='2,3' idrefs='2,3' lastused='2006' name='nec' start='731614'>
+    <variant>NEC</variant>
+  </canonskill>
+  <canonskill experience='1' name='networking'>
+    <variant>network</variant>
+  </canonskill>
+  <canonskill experience='1' name='payroll processing'>
+    <variant>payroll</variant>
+  </canonskill>
+  <canonskill end='732648' experience='1' expidrefs='2,3' idrefs='2,3' lastused='2006' name='pbx' start='731614'>
+    <variant>PBX</variant>
+  </canonskill>
+  <canonskill experience='1' name='phone systems'>
+    <variant>telephone systems</variant>
+  </canonskill>
+  <canonskill end='732648' experience='1' expidrefs='2' idrefs='2' lastused='2006' name='technical support' start='732314'>
+    <variant>technical support</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='telecommunications' start='732799'>
+    <variant>telecom</variant>
+  </canonskill>
+  <canonskill experience='1' name='telephone skills'>
+    <variant>phone</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='troubleshooting' start='732799'>
+    <variant>Troubleshoot</variant>
+    <variant>troubleshoot</variant>
+    <variant>Troubleshooting</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='voice and data' start='732799'>
+    <variant>voice and
+data</variant>
+    <variant>voice and data</variant>
+  </canonskill>
+  <canonskill experience='1' name='wiring'>
+    <variant>wiring</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

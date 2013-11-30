@@ -1,0 +1,110 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "AIDM", 
+            "Certification Name": "Associate Insurance Data Manager", 
+            "Type": "Specialty", 
+            "Certification ID": "1543", 
+            "Certifying Organization": "Insurance Data Management Association"
+        }, 
+        {
+            "Acronym": "ARA", 
+            "Certification Name": "Associate, Reinsurance Administration", 
+            "Type": "Core", 
+            "Certification ID": "8226", 
+            "Certifying Organization": "LOMA"
+        }, 
+        {
+            "Acronym": "ANFI", 
+            "Certification Name": "Associate in National Flood Insurance", 
+            "Type": "Core", 
+            "Certification ID": "8549", 
+            "Certifying Organization": "The Institutes"
+        }, 
+        {
+            "Acronym": "SPPA", 
+            "Certification Name": "Senior Professional Public Adjuster", 
+            "Type": "Advanced", 
+            "Certification ID": "9084", 
+            "Certifying Organization": "The Institutes"
+        }, 
+        {
+            "Acronym": "CIE", 
+            "Certification Name": "Certified Insurance Examiner", 
+            "Type": "Advanced", 
+            "Certification ID": "2257", 
+            "Certifying Organization": "Insurance Regulatory Examiners Society"
+        }, 
+        {
+            "Acronym": "ACTAR,", 
+            "Certification Name": "Accredited Accident Reconstructionist", 
+            "Type": "Advanced", 
+            "Certification ID": "3592", 
+            "Certifying Organization": "The Accreditation Commission for Traffic Accident Reconstruction "
+        }, 
+        {
+            "Acronym": "SAMS,", 
+            "Certification Name": "Accredited Marine Surveyor", 
+            "Type": "Specialty", 
+            "Certification ID": "3588", 
+            "Certifying Organization": "Society of Accredited Marine Surveyors"
+        }, 
+        {
+            "Acronym": "ARC", 
+            "Certification Name": "Associate in Regulation and Compliance", 
+            "Type": "Core", 
+            "Certification ID": "3110", 
+            "Certifying Organization": "The Institutes"
+        }, 
+        {
+            "Acronym": "ALHC", 
+            "Certification Name": "Associate, Life and Health Claims", 
+            "Type": "Core", 
+            "Certification ID": "1105", 
+            "Certifying Organization": "International Claim Association"
+        }, 
+        {
+            "Acronym": "ARe", 
+            "Certification Name": "Associate in Reinsurance", 
+            "Type": "Core", 
+            "Certification ID": "0475", 
+            "Certifying Organization": "The Institutes"
+        }, 
+        {
+            "Acronym": "CIDA", 
+            "Certification Name": "Certified Insurance Data Manager", 
+            "Type": "Specialty", 
+            "Certification ID": "1542", 
+            "Certifying Organization": "Insurance Data Management Association"
+        }, 
+        {
+            "Acronym": "FLHC", 
+            "Certification Name": "Fellow, Life and Health Claims", 
+            "Type": "Advanced", 
+            "Certification ID": "1106", 
+            "Certifying Organization": "International Claim Association"
+        }, 
+        {
+            "Acronym": "AIE", 
+            "Certification Name": "Accredited Insurance Examiner", 
+            "Type": "Core", 
+            "Certification ID": "2256", 
+            "Certifying Organization": "Insurance Regulatory Examiners Society"
+        }, 
+        {
+            "Acronym": "CFCC", 
+            "Certification Name": "Certified Forensic Claims Consultant", 
+            "Type": "Advanced", 
+            "Certification ID": "5725", 
+            "Certifying Organization": "AACE International, Inc."
+        }, 
+        {
+            "Acronym": "AIC", 
+            "Certification Name": "Associate in Claims", 
+            "Type": "Core", 
+            "Certification ID": "0470", 
+            "Certifying Organization": "The Institutes"
+        }
+    ], 
+    "onet": "13103100"
+}

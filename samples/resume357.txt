@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734593' xml:space='preserve'><contact><name><givenname>Sammy</givenname> <surname>Rosario</surname></name> <address lat='40.0124' lon='75.1438' majorcity='PHILADELPHIA' state='PA'><street>4406 N. 8th Street</street>, <city>Philadelphia</city>, <state abbrev='PA'>Pa</state>. <postalcode>19140</postalcode></address> * <phone>215-820-8596</phone> * <email>samito624@gmail.com</email></contact>
+
+<summary><summary>An accomplished communications professional with extensive knowledge of using multiple communications platforms, including digital, print, video; Instructional Design, group facilitation/training experience</summary></summary> 
+
+<education>Education - <school id='8'><degree level='18' name='Master of Science'>Master of Science</degree> in <major code='2405 1699'>Instructional Design and Technology</major> <completiondate days='733410' iso8601='2009-01-01'>2009</completiondate>
+
+<institution>ACCOMPLISHMENTS</institution> 
+
+Earned a <degree level='18'>Master of Science degree</degree> in <major code='2405 1699'>Instructional Design and Technology</major> (<description>theories and practices of instructional design, e-Learning, training) while working full time * Co-designed a training/instructional program for an energy-saving consulting business * Met with subject matter experts to formulate training/learning objectives  Conducted seminars on a variety of topics</description></school></education> 
+
+<experience end='present' start='726835'>Work Experience
+
+<job end='present' id='1' pos='1' sic='874201' sic2='87' start='732679'><employer>Solutions for Progress, Inc</employer>, <daterange><start days='732679' iso8601='2007-01-01'>2007</start></daterange> - <title>Content Editor</title> 
+<description>Develop and manage The Benefit Bank's web-based benefits applications; customized content 
+into approachable, user-friendly content for English and Spanish-speaking end users
+Supervise freelance content editors/translators; conduct quality assurance and testing
+Collaborate with the Marketing and Communications Director to spearhead Hispanic/Latino Outreach</description></job>
+
+<job end='732679' id='2' pos='2' start='731583'><employer>GEMSTAR/TV GUIDE Magazine</employer>, <daterange><start days='731583' iso8601='2004-01-01'>2004</start> - <end days='732679' iso8601='2007-01-01'>2007</end></daterange> - <title>Editor</title>  
+<description>Wrote and staged copy for movies, television events, documentaries, specials and sports
+      for TV Guide's International Interactive Program Guide
+Partnered with other editors to meet strict programming deadlines</description></job>
+
+<job end='731583' id='3' pos='3' start='730853'><employer>Mental Health Association of Southeastern PA</employer>, <daterange><start days='730853' iso8601='2002-01-01'>2002</start> - <end days='731583' iso8601='2004-01-01'>2004</end></daterange> - <title>Information Specialist</title> 
+<description>Expanded a database that collected and disseminated information and research about mental health treatment</description></job>
+
+<job end='730792' id='4' pos='4' sic='839903' sic2='83' start='730488'><employer>Amnion Crisis Pregnancy Center</employer>, <daterange><start days='730488' iso8601='2001-01-01'>2001</start> - <end days='730792' iso8601='2001-11-01'>11/01</end></daterange> <title>Communications Specialist</title>
+<description>Developed communications strategies and advertising for a non-profit crisis pregnancy center</description></job>
+
+<job end='730122' id='5' pos='5' sic='809907' sic2='80' start='729392'><employer>Philadelphia Health Management Corporation</employer>, <daterange><start days='729392' iso8601='1998-01-01'>1998</start> - <end days='730122' iso8601='2000-01-01'>2000</end></daterange> <title>Media Specialist</title>
+<description>Produced health-related informational/educational media 
+Mobilized volunteers to increase community education and outreach initiatives   
+Hired freelance graphic artists to create visual concepts for print media
+Served on a community advisory board to review media in development; oversee project budget</description></job>
+
+<job end='729392' id='6' pos='6' start='727200'><employer>Congreso de Latinos Unidos</employer>, (<employer>Congress for United Latinos</employer>), <daterange><start days='727200' iso8601='1992-01-01'>1992</start> - <end days='729392' iso8601='1998-01-01'>1998</end></daterange> <title>Program Coordinator/Specialist</title> 
+<description>Co-directed youth development programs for underrepresented young adults
+Fostered partnerships and community relations efforts to promote mentoring, educational and prevention programs
+Facilitated workshops and group training sessions; recruited and mentored student volunteers
+Produced an anti-drug/anti-violence music video called &quot;Staying in School is Cool&quot;</description></job>
+
+<job end='727200' id='7' pos='7' sic='8322' sic2='83' start='726835'><employer>Philadelphia Office of Probation and Parole</employer>, <daterange><start days='726835' iso8601='1991-01-01'>1991</start> - <end days='727200' iso8601='1992-01-01'>1992</end></daterange> <title>Probation/Parole Officer</title>
+<description>Wrote case summaries and presented them in court
+Supervised alcohol and drug probationers/parolees
+Conducted drug testing</description></job></experience>  
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='730792' experience='1' expidrefs='4' idrefs='4' lastused='2001' name='advertising' start='730488'>
+    <variant>advertising</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='benefits administration' start='732679'>
+    <variant>benefits</variant>
+  </canonskill>
+  <canonskill end='730122' experience='1' expidrefs='5' idrefs='5' lastused='2000' name='budgeting' start='729392'>
+    <variant>budget</variant>
+  </canonskill>
+  <canonskill end='729392' experience='1' expidrefs='6' idrefs='6' lastused='1998' name='community relations' start='727200'>
+    <variant>community relations</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='8' idrefs='8' name='consulting'>
+    <variant>consulting</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='content management' start='732679'>
+    <variant>content</variant>
+  </canonskill>
+  <canonskill end='731583' experience='1' expidrefs='3' idrefs='3' lastused='2004' name='database administration' start='730853'>
+    <variant>database</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='english' start='732679'>
+    <variant>English</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,5' idrefs='1,5' lastused='2012' name='freelance graphics' start='729392'>
+    <variant>freelance</variant>
+  </canonskill>
+  <canonskill end='730122' experience='1' expidrefs='5' idrefs='5' lastused='2000' name='graphics software' start='729392'>
+    <variant>graphic</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='8' idrefs='8' name='instructional design'>
+    <variant>instructional design</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='macromedia director' start='732679'>
+    <variant>Director</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='marketing communications' start='732679'>
+    <variant>Marketing and Communications</variant>
+  </canonskill>
+  <canonskill end='731583' experience='1' expidrefs='3' idrefs='3' lastused='2004' name='mental health' start='730853'>
+    <variant>mental health</variant>
+  </canonskill>
+  <canonskill end='729392' experience='1' expidrefs='6' idrefs='6' lastused='1998' name='mentoring' start='727200'>
+    <variant>mentoring</variant>
+  </canonskill>
+  <canonskill end='730122' experience='1' expidrefs='5' idrefs='5' lastused='2000' name='print media' start='729392'>
+    <variant>print media</variant>
+  </canonskill>
+  <canonskill end='730792' experience='1' expidrefs='4' idrefs='4' lastused='2001' name='profit' start='730488'>
+    <variant>profit</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='2' idrefs='2' lastused='2007' name='programming' start='731583'>
+    <variant>programming</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='quality control' start='732679'>
+    <variant>quality assurance</variant>
+  </canonskill>
+  <canonskill end='731583' experience='1' expidrefs='3' idrefs='3' lastused='2004' name='research' start='730853'>
+    <variant>research</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='8' idrefs='8' name='seminars'>
+    <variant>seminars</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='spanish' start='732679'>
+    <variant>Spanish-speaking</variant>
+  </canonskill>
+  <canonskill end='732679' experience='1' expidrefs='2' idrefs='2' lastused='2007' name='television' start='731583'>
+    <variant>TV</variant>
+    <variant>television</variant>
+  </canonskill>
+  <canonskill end='729392' experience='1' expidrefs='6' idrefs='6' lastused='1998' name='video' start='727200'>
+    <variant>video</variant>
+  </canonskill>
+  <canonskill end='729392' experience='1' expidrefs='6' idrefs='6' lastused='1998' name='workshops' start='727200'>
+    <variant>workshops</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

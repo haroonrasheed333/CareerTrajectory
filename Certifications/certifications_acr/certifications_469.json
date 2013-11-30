@@ -1,0 +1,82 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CWCA", 
+            "Certification Name": "Certified Wound Care Associate", 
+            "Type": "Specialty", 
+            "Certification ID": "6476", 
+            "Certifying Organization": "American Board of Wound Management"
+        }, 
+        {
+            "Acronym": "MACE", 
+            "Certification Name": "Medication Aide Certification", 
+            "Type": "Core", 
+            "Certification ID": "7639", 
+            "Certifying Organization": "National Council of State Boards of Nursing"
+        }, 
+        {
+            "Acronym": "CPCT/CPCA/CNT", 
+            "Certification Name": "Certified Patient Care Technician/Associate/Nurse Technician", 
+            "Type": "Core", 
+            "Certification ID": "3782", 
+            "Certifying Organization": "National Healthcareer Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Functional Training Specialty Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "9108", 
+            "Certifying Organization": "American Council on Exercise"
+        }, 
+        {
+            "Acronym": "ATP", 
+            "Certification Name": "Assistive Technology Professional", 
+            "Type": "Specialty", 
+            "Certification ID": "6848", 
+            "Certifying Organization": "Rehabilitation Engineering and Assistive Technology Society of North America"
+        }, 
+        {
+            "Acronym": "CAC", 
+            "Certification Name": "Certified Alzheimer Caregiver", 
+            "Type": "Specialty", 
+            "Certification ID": "8681", 
+            "Certifying Organization": "National Certification Board for Alzheimer Care"
+        }, 
+        {
+            "Acronym": "NCPCT", 
+            "Certification Name": "Nationally Certified Patient Care Technician", 
+            "Type": "Core", 
+            "Certification ID": "6293", 
+            "Certifying Organization": "National Center for Competency Testing"
+        }, 
+        {
+            "Acronym": "IVT", 
+            "Certification Name": "IV Therapy", 
+            "Type": "Specialty", 
+            "Certification ID": "9104", 
+            "Certifying Organization": "National Association for Practical Nurse Education and Service, Inc."
+        }, 
+        {
+            "Acronym": "MACE", 
+            "Certification Name": "Medication Aide/Assistant Certification Examination", 
+            "Type": "Core", 
+            "Certification ID": "6090", 
+            "Certifying Organization": "The National Council of State Boards of Nursing, Inc."
+        }, 
+        {
+            "Acronym": "CAEd", 
+            "Certification Name": "Certified Alzheimer Educator", 
+            "Type": "Specialty", 
+            "Certification ID": "8682", 
+            "Certifying Organization": "National Certification Board for Alzheimer Care"
+        }, 
+        {
+            "Acronym": "SMS", 
+            "Certification Name": "Seating and Mobility Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "6849", 
+            "Certifying Organization": "Rehabilitation Engineering and Assistive Technology Society of North America"
+        }
+    ], 
+    "onet": "31101100"
+}

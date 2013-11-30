@@ -1,0 +1,376 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734597' xml:space='preserve'><contact><name><givenname>RICK</givenname> <surname>STARK</surname></name>
+<address lat='33.6169' lon='117.642' majorcity='MISSION VIEJO' state='CA'><city>Mission Viejo</city>, <state abbrev='CA'>CA</state> <postalcode>92692</postalcode></address> | <phone>949-241-4931</phone> | <email>Rick@RStark.org</email> | LinkedIn: StarkRick</contact>
+
+<summary><objective>INFORMATION TECHNOLOGY LEADER
+I am a strategic Director who applies expert-level business acumen and technical acuity to bridge the gap between business objectives and technology capabilities. My ability to launch, lead, manage and revitalize global business groups, including e-commerce and data centers is second only to my ability to effectively negotiate relationships with key internal stakeholders and clients that generate multi-million dollar revenues. Directing consulting projects, building cohesive and results-focused teams, I'm an executive known for partnering with employees to achieve best-in-class outcomes for both the clients and the company.</objective></summary>
+<experience end='present' start='727566'>PROFESSIONAL HISTORY
+
+<job end='present' id='1' pos='1' start='734140'><employer>Klear One</employer>, <address><city>Irvine</city>, <state abbrev='CA'>California</state></address>									<daterange><start days='734140' iso8601='2011-01-01'>2011</start>-<end days='present' iso8601='2012-04-02'>Present</end></daterange>
+<description>A Technology Consulting Firm specializing in Enterprise Solutions that provide innovative technology with a focus on business intelligence, cloud services and applications from Sage Software and Microsoft.</description> 
+
+<title>Vice President</title>, <description>Information Technology
+Provide C-level executives and project teams with a comprehensive review and strategic analysis of their overall IT systems, infrastructure, architecture and operational practices.  
+
+Develop strategic/financial roadmaps with infrastructure, architecture and operational guidelines to support ERP systems, enhancing organizational maturity by driving process improvement and technology alignment to business goals while establishing a long term strategic plan.
+Introduce new concepts for infrastructure platform architecture and cloud services such as Windows Azure, Amazon Web Services and Google to allow for HA/DR capabilities resulting in increased customer performance and reduced operational expense.
+Serve as an advisor for projects to assess, design, and implement a standards-based IT service management framework including IT and business process assessment, operational best-practices, vendor/outsourcing engagements and data center management.</description></job>
+
+<job end='734140' id='2' pos='2' sic='873125' sic2='87' start='733044'><employer>Cymer</employer>, <address><city>San Diego</city>, <state abbrev='CA'>California</state></address>									<daterange><start days='733044' iso8601='2008-01-01'>2008</start>-<end days='734140' iso8601='2011-01-01'>2011</end></daterange>
+<description>The world's leading supplier of excimer light sources and deep ultraviolet photolithography that are essential for manufacturing in today's semiconductor marketplace.</description>
+
+<title>Senior Director</title>, Information Technology
+<description>Developed and built technical operations teams for global IT operations including platform infrastructure, service desk, IT security (PKI), global data centers, systems integration, change - incident - problem management and Sarbanes-Oxley compliance.  Served as the Chief IT legal expert, and Corporate IT security officer.
+
+Delivered $2M+ in annual savings through virtualization and consolidation of applications, telecom and infrastructure platforms.
+Drove operational maturity through process improvement, business alignment, technology roadmaps and strategic planning.
+Introduced new and robust platform architecture to support a new Oracle ERP platform, increasing application performance and reducing cost.
+Implemented MS OCS with Shoretel VOIP and negotiated carrier contracts to reduce telecom costs by 40%+.
+Developed and built a Change/Problem Management Program to build organization maturity, increase IT awareness, utilizing a Plan of Record process to provide a consolidated dashboard to business leadership.
+Implemented a 250TB EMC SAN environment to replace legacy NetApp equipment
+Completed DR Initiative to enable business continuity/disaster recovery, allowing site failover capabilities across global data centers.</description></job> 
+
+<job id='3' naics='42369015' naics2='42' sic='573407' sic2='57' start='733044'><employer>AVNET</employer>, <address><city>Phoenix</city>, <state abbrev='AZ'>Arizona</state></address>										<daterange><start days='733044' iso8601='2008-01-01'>2008</start></daterange>
+<description>Multibillion-dollar, international distributor of electronics, enterprise computing, storage, and embedded subsystems.</description>
+
+<title>Executive Consultant</title>, <description>IT
+Conducted a comprehensive review and strategic analysis of company's overall IT systems, infrastructure, and architecture across 3 newly acquired and 6 established sites in the Asia Pacific (APAC) region. Developed short- and long-term roadmaps/recommendations, project plans, and budgets for IT operational development, ERP migration, shared services and integration efforts.
+
+.Continued
+
+RICK STARK * Page 2 * Rick@RStark.org / LinkedIn: StarkRick
+
+(Avnet, continued)
+Ensured both short-term IT stability and long-term integration of APAC infrastructure, ERP systems (SAP) and operations processes into Avnet's existing architecture with a far-reaching infrastructure roadmap.
+Prepared company for long-term staffing needs, creating a forward-looking organizational structure complete with skill-set requirements. 
+Positioned Avnet for successful Sarbanes-Oxley, ISO, and IT audit compliance with accurate documentation and change controls.</description></job>
+
+<job end='733044' id='4' inferred-to='3,5,6,7,8' naics='33411101' naics2='33' pos='4' sic='179405' sic2='17' start='727566'><employer>GATEWAY, INC</employer>., <address><city>Irvine</city>, <state abbrev='CA'>California</state></address> and <address><city>Lakewood</city>, <state abbrev='CO'>CO</state></address>					<daterange><start days='727566' iso8601='1993-01-01'>1993</start>-<end days='733044' iso8601='2008-01-01'>2008</end></daterange>
+<description>International computer manufacturer and electronics distributor for the direct, retail, and professional markets.</description></job>
+
+<job end='733044' id='5' inferred-from='4' pos='3' sic='179405' sic2='17' start='731218'><title>Senior Director</title> (<daterange><start days='731218' iso8601='2003-01-01'>2003</start>-<end days='733044' iso8601='2008-01-01'>2008</end></daterange></job>) / <job end='731218' id='6' inferred-from='4' pos='5' sic='179405' sic2='17' start='730853'><title>Director</title>, Information Technology (<daterange><start days='730853' iso8601='2002-01-01'>2002</start>-<end days='731218' iso8601='2003-01-01'>2003</end></daterange>)
+<description>Headed two technical teams in the oversight of corporate platform infrastructure, architecture, security, database environments, data architecture, systems integration, IT finance and Sarbanes-Oxley compliance, and all core applications such as SAP, PeopleSoft, and ecommerce. Concurrently served as chief IT legal expert, representing IT in all corporate legal contract negotiations.
+
+Delivered $5.6M in annual savings by reducing infrastructure platforms 40% and consolidating server farms.
+Successfully concluded the world's largest Siebel CRM implementation project, managing a full product/project lifecycle process managing an $80M program budget.
+Maintained 99.99% system availability for tier 1 production ecommerce, ERP and CRM systems providing significant business value across multiple locations.
+Sponsored/directed $60M initiative to consolidate JDE &amp; SAP ERP platforms into single Oracle ERP Instance.
+Selected for an elite governance role managing a 250-member global outsourced IT group (ACS).
+Directed 9 Global Data Centers consisting of over 120,000 sq. /ft. of floor space.</description></job>
+
+<job end='730853' id='7' inferred-from='4' pos='6' sic='179405' sic2='17' start='730122'><title>Senior Manager</title>, Global IT Operations (<daterange><start days='730122' iso8601='2000-01-01'>2000</start>-<end days='730853' iso8601='2002-01-01'>2002</end></daterange>)
+<description>Built and led a 75-member team, overseeing $18M budget to support corporate ecommerce and global platform infrastructure, global data centers, network operation centers and Wintel-based applications. Developed and maintained wide variety of software applications including Citrix, Vertex, Exchange, PeopleSoft, and Agile.
+
+Provided turnkey management of an outsourced contract encompassing 300 Lockheed Martin staff, 12 AS/400s, 1,500 NT servers, 200TB SAN and 6 UNIX enterprise systems.
+Directed the successful migration of gateway.com to an owned/internal environment, maintaining 99.99% availability and establishing a dedicated internal IT support team.
+Expanded IT cross-training, developed technical roadmaps, broadened the department's knowledge across functions, and improved employee satisfaction levels with the institution of a new staff development plan transferring individuals into new roles every 18 months.</description></job>
+
+<job end='730122' id='8' inferred-from='4' pos='7' sic='179405' sic2='17' start='729027'><title>Senior Manager</title>, International Sales, Support and Operations (<daterange><start days='729027' iso8601='1997-01-01'>1997</start>-<end days='730122' iso8601='2000-01-01'>2000</end></daterange>) 
+<description>Tasked with establishing a special sales support and operations group of twenty five multi-discipline professionals to focus on International based business opportunities for the entire corporate product portfolio, including consulting services for architecture, design and integration. 
+ 
+Gained hands-on experience in new product introduction, advertising, promotions, contract negotiations, pricing structures, P&amp;L, cost controls and inventory tracking. 
+Succeeded in orchestrating sales to the US military throughout the Pacific Rim; dramatically expanded sales by 500% in only one year; personally drove the acquisition of $10 million in new revenue each year. 
+Instituted a technical support response system with 100 employees to provide quick and efficient solutions to complex customer problems. 
+Greatly decreased abandon rates by 60% and improved overall customer satisfaction levels.</description></job> 
+
+<job end='729027' id='9' inferred-from='4' pos='8' sic='179405' sic2='17' start='728296'><title>Regional IT Manager</title> (<daterange><start days='728296' iso8601='1995-01-01'>1995</start>-<end days='729027' iso8601='1997-01-01'>1997</end></daterange>) 
+<description>Established the Gateway presence in the Pacific Rim, encompassing Japan, Malaysia, Singapore and Australia, through infrastructure, integration and help desk support for all internal systems. 
+
+Set up and maintained all LAN/WAN platforms, routers, switches, hubs, workstations, networks and related software with a team of 20 professionals. 
+Coordinated the entire staffing process for administering Japan's PBX, LAN/WAN, AS/400, Novell and internal user support services. 
+Managed the deployment of a global ERP system in Japan as the initial replacement to our legacy ERP solution (migration from JBA to JDE). 
+Streamlined workflow processes to improve the client experience, operating efficiencies and productivity. 
+Promoted to this position after superior work performance at previous positions. 
+
+.Continued</description></job></experience>
+
+RICK STARK * Page 3 * Rick@RStark.org  / LinkedIn: StarkRick
+
+
+<education>EDUCATION &amp; AFFILIATIONS
+<degree level='16' name='Bachelor of Science'>Bachelor of Science</degree> in <major code='1699'>Information Technology Management</major>
+<description>American Management Association * ISACA * American Chamber of Commerce, Japan</description></education>
+
+
+<skills>TECHNICAL MANAGEMENT EXPERTISE
+Microsoft Systems Engineer * Novell Engineer * Network Engineer
+<skills>Microsoft: Windows/Server, Exchange, Office, SharePoint, Lync, Azure, Office 365
+SAP * Novell * JDE * Oracle * ERP Systems * SaaS * PeopleSoft * Siebel * Sun* Salesforce.com
+ Amazon EC2 * Google * IBM * EMC * Dell * Hitachi * Fujitsu * Cisco * Avaya * Shoretel * ITIL * COBIT</skills></skills>
+
+
+
+
+
+
+</resume>
+
+<skillrollup version='1'>
+  <canonskill experience='1' name='advertising'>
+    <variant>advertising</variant>
+  </canonskill>
+  <canonskill experience='1' name='agile'>
+    <variant>Agile</variant>
+  </canonskill>
+  <canonskill experience='1' name='as/400'>
+    <variant>AS/400</variant>
+  </canonskill>
+  <canonskill name='avaya'>
+    <variant>Avaya</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='3' idrefs='3' name='budgeting' start='733044'>
+    <variant>budgets</variant>
+    <variant>budget</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='business intelligence' start='734140'>
+    <variant>business intelligence</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='business process' start='734140'>
+    <variant>business process</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='c' start='734140'>
+    <variant>C</variant>
+  </canonskill>
+  <canonskill name='cisco'>
+    <variant>Cisco</variant>
+  </canonskill>
+  <canonskill experience='1' name='citrix'>
+    <variant>Citrix</variant>
+  </canonskill>
+  <canonskill experience='1' name='com'>
+    <variant>com</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='consulting' start='734140'>
+    <variant>Consulting</variant>
+    <variant>consulting</variant>
+  </canonskill>
+  <canonskill end='734140' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='contract management' start='733044'>
+    <variant>contract negotiations</variant>
+    <variant>contracts</variant>
+  </canonskill>
+  <canonskill experience='1' name='crm'>
+    <variant>CRM</variant>
+  </canonskill>
+  <canonskill experience='1' name='customer relations'>
+    <variant>client</variant>
+  </canonskill>
+  <canonskill experience='1' name='customer satisfaction'>
+    <variant>customer satisfaction</variant>
+  </canonskill>
+  <canonskill experience='1' name='database administration'>
+    <variant>database</variant>
+  </canonskill>
+  <canonskill name='dell computers'>
+    <variant>Dell</variant>
+  </canonskill>
+  <canonskill end='734140' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='disaster recovery planning' start='733044'>
+    <variant>disaster recovery</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='3' idrefs='3' name='documentation' start='733044'>
+    <variant>documentation</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='driving' start='734140'>
+    <variant>driving</variant>
+  </canonskill>
+  <canonskill experience='1' name='e - commerce'>
+    <variant>ecommerce</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='3' idrefs='3' name='electronics' start='733044'>
+    <variant>electronics</variant>
+  </canonskill>
+  <canonskill name='engineering'>
+    <variant>Engineer</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,3' idrefs='1,2,3' lastused='2012' name='erp' start='733044'>
+    <variant>ERP</variant>
+  </canonskill>
+  <canonskill experience='1' name='finance'>
+    <variant>finance</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='financial' start='734140'>
+    <variant>financial</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='focus' start='734140'>
+    <variant>focus</variant>
+  </canonskill>
+  <canonskill experience='1' name='gateway'>
+    <variant>Gateway</variant>
+    <variant>gateway</variant>
+  </canonskill>
+  <canonskill experience='1' name='help desk support'>
+    <variant>help desk support</variant>
+  </canonskill>
+  <canonskill experience='1' name='hubs'>
+    <variant>hubs</variant>
+  </canonskill>
+  <canonskill name='ibm'>
+    <variant>IBM</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='information technology' start='734140'>
+    <variant>Information Technology</variant>
+  </canonskill>
+  <canonskill experience='1' name='inventory management'>
+    <variant>inventory</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='3' idrefs='3' name='iso' start='733044'>
+    <variant>ISO</variant>
+  </canonskill>
+  <canonskill name='itil'>
+    <variant>ITIL</variant>
+  </canonskill>
+  <canonskill experience='1' name='jba'>
+    <variant>JBA</variant>
+  </canonskill>
+  <canonskill experience='1' name='jde'>
+    <variant>JDE</variant>
+  </canonskill>
+  <canonskill experience='1' name='lan'>
+    <variant>LAN</variant>
+  </canonskill>
+  <canonskill end='734140' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='leadership' start='733044'>
+    <variant>leadership</variant>
+  </canonskill>
+  <canonskill end='734140' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='legal' start='733044'>
+    <variant>legal</variant>
+  </canonskill>
+  <canonskill experience='1' name='locheed martin'>
+    <variant>Lockheed Martin</variant>
+  </canonskill>
+  <canonskill experience='1' name='management'>
+    <variant>managing</variant>
+  </canonskill>
+  <canonskill experience='1' name='microsoft exchange'>
+    <variant>Exchange</variant>
+  </canonskill>
+  <canonskill name='microsoft office'>
+    <variant>Office</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='microsoft windows' start='734140'>
+    <variant>Wintel</variant>
+    <variant>Windows</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='3' idrefs='3' name='migration' start='733044'>
+    <variant>migration</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,3' idrefs='1,3' lastused='2012' name='netscape enterprise server' start='733044'>
+    <variant>Enterprise</variant>
+    <variant>enterprise</variant>
+  </canonskill>
+  <canonskill name='network engineering'>
+    <variant>Network Engineer</variant>
+  </canonskill>
+  <canonskill experience='1' name='networking'>
+    <variant>network</variant>
+    <variant>networks</variant>
+  </canonskill>
+  <canonskill experience='1' name='novell'>
+    <variant>Novell</variant>
+  </canonskill>
+  <canonskill experience='1' name='nt servers'>
+    <variant>NT servers</variant>
+  </canonskill>
+  <canonskill end='734140' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='oracle' start='733044'>
+    <variant>Oracle</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,3' idrefs='1,3' lastused='2012' name='organizational skills' start='733044'>
+    <variant>organizational</variant>
+  </canonskill>
+  <canonskill experience='1' name='pbx'>
+    <variant>PBX</variant>
+  </canonskill>
+  <canonskill experience='1' name='peoplesoft'>
+    <variant>PeopleSoft</variant>
+  </canonskill>
+  <canonskill experience='1' name='pricing'>
+    <variant>pricing</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,3' idrefs='1,2,3' lastused='2012' name='process engineering' start='733044'>
+    <variant>process improvement</variant>
+    <variant>processes</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='3' idrefs='3' name='project planning' start='733044'>
+    <variant>project plans</variant>
+  </canonskill>
+  <canonskill experience='1' name='quick'>
+    <variant>quick</variant>
+  </canonskill>
+  <canonskill experience='1' name='retail'>
+    <variant>retail</variant>
+  </canonskill>
+  <canonskill experience='1' name='routers'>
+    <variant>routers</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='sage' start='734140'>
+    <variant>Sage</variant>
+  </canonskill>
+  <canonskill experience='1' name='sales'>
+    <variant>sales</variant>
+  </canonskill>
+  <canonskill experience='1' name='sales support'>
+    <variant>sales support</variant>
+  </canonskill>
+  <canonskill end='734140' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='san' start='733044'>
+    <variant>SAN</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='3' idrefs='3' name='sap' start='733044'>
+    <variant>SAP</variant>
+  </canonskill>
+  <canonskill end='734140' experience='1' expidrefs='2,3' idrefs='2,3' lastused='2011' name='sarbanesoxley' start='733044'>
+    <variant>Sarbanes-Oxley</variant>
+  </canonskill>
+  <canonskill experience='1' name='siebel'>
+    <variant>Siebel</variant>
+  </canonskill>
+  <canonskill experience='1' name='staff development'>
+    <variant>staff development</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='3' idrefs='3' name='staffing' start='733044'>
+    <variant>staffing</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='strategic' start='734140'>
+    <variant>strategic</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,3' idrefs='1,3' lastused='2012' name='strategic analysis' start='733044'>
+    <variant>strategic analysis</variant>
+  </canonskill>
+  <canonskill end='734140' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='strategic planning' start='733044'>
+    <variant>strategic planning</variant>
+  </canonskill>
+  <canonskill name='sun microsystems'>
+    <variant>Sun</variant>
+  </canonskill>
+  <canonskill experience='1' name='switches'>
+    <variant>switches</variant>
+  </canonskill>
+  <canonskill end='734140' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='systems integration' start='733044'>
+    <variant>systems integration</variant>
+  </canonskill>
+  <canonskill name='technical management'>
+    <variant>TECHNICAL MANAGEMENT</variant>
+  </canonskill>
+  <canonskill experience='1' name='technical support'>
+    <variant>technical support</variant>
+    <variant>user support</variant>
+  </canonskill>
+  <canonskill end='734140' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='telecommunications' start='733044'>
+    <variant>telecom</variant>
+  </canonskill>
+  <canonskill experience='1' name='unix'>
+    <variant>UNIX</variant>
+  </canonskill>
+  <canonskill experience='1' name='vertex'>
+    <variant>Vertex</variant>
+  </canonskill>
+  <canonskill end='734140' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='voip' start='733044'>
+    <variant>VOIP</variant>
+  </canonskill>
+  <canonskill experience='1' name='wan'>
+    <variant>WAN</variant>
+  </canonskill>
+  <canonskill experience='1' name='workflow analysis'>
+    <variant>workflow</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

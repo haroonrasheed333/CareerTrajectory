@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734597' xml:space='preserve'>   <contact><name><givenname>Ashley</givenname> <surname>Bengston</surname></name>
+ adesignport.tumblr.com
+  <address lat='41.752' lon='70.0742' majorcity='BREWSTER' state='MA'><street>325 A.P. Newcomb Rd</street>
+   <city>Brewster</city>, <state abbrev='MA'>MA</state> <postalcode>02631</postalcode></address>
+<email>abengston@umassd.edu</email>
+         (774)-<phone>238-9659</phone></contact>
+
+              <summary>Objective   <objective>To take my skills that I acquired in college and apply
+                          them to future experiences while improving as a
+                          designer. Always take concepts to completion on
+                          time for set deadlines, ultimately achieve the highest
+                          design quality possible.</objective></summary>
+
+              <education>Education   <school id='9'><degree level='16' name='Bachelor of Fine Arts'>BFA</degree> in <major code='2405'>Graphic Design</major> / Minor in <minor code='2301'>Art History</minor>
+                          Graduation: <completiondate>May 2012</completiondate>
+                          <institution>University of Massachusetts Dartmouth
+
+                          Barnstable High School</institution>
+                          Graduated: <completiondate days='733196' iso8601='2008-06-01'>June 2008</completiondate>
+                          <courses>Enrolled in Graphic Design courses
+
+               Software   Adobe Creative Suite 5 ­ Microsoft Office</courses></school></education>
+
+         <experience end='present' start='731583'>Freelance Work   Letterhead, <job id='1' start='734140'><daterange><start days='734140' iso8601='2011-01-01'>2011</start></daterange>
+                          Company: <department>Harwich Fire Department</department></job>
+
+                          Logo, 2011
+                          Company: <job id='2' sic='5921' sic2='59' start='734140'><employer>West of Italy
+
+                          Wine Labels</employer>, <daterange><start days='734140' iso8601='2011-01-01'>2011</start></daterange></job>
+                          Company: <job id='3' start='733410'><employer>Cibus Evolution
+
+                          Magazine ad</employer>, <daterange><start days='733410' iso8601='2009-01-01'>2009</start></daterange></job>
+                          Company: <job end='present' id='4' pos='1' start='733775'><employer>Topnir Systems</employer>
+
+            Other Work    <title>Shift Manager</title>, <daterange><start days='733775' iso8601='2010-01-01'>2010</start> - <end days='present' iso8601='2012-04-02'>current</end></daterange></job>
+                          <job end='734140' id='5' pos='4' start='733410'><employer>UMass Dartmouth Media</employer> <address>Lab, <state abbrev='MA'>MA</state></address>
+
+                          <title>Server</title>, <daterange><start days='733410' iso8601='2009-01-01'>2009</start> - <end days='734140' iso8601='2011-01-01'>2011</end></daterange></job>
+                          <job end='733410' id='6' pos='5' sic='581208' sic2='58' start='731583'><employer>Bobby Byrnes Pub</employer>, <address><city>Mashpee</city>, <state abbrev='MA'>MA</state></address>
+
+                          <title>Server - Hostess - Bus Person</title>, <daterange><start days='731583' iso8601='2004-01-01'>2004</start> - <end days='733410' iso8601='2009-01-01'>2009</end></daterange></job>
+                          <job end='734505' id='7' inferred-to='3' pos='2' sic='581208' sic2='58' start='733410'><employer>Sam Diego's</employer>, <address><city>Hyannis</city>, <state abbrev='MA'>MA</state></address>
+
+            <description>Recognition   Artmouth Student Publication, 2012</description>
+
+          Design Groups   AIGA Boston Chapter member, <daterange><start days='733410' iso8601='2009-01-01'>2009</start> - <end days='734505' iso8601='2012-01-01'>2012</end></daterange></job>
+                          <job end='734505' id='8' inferred-from='2' pos='3' sic='581208' sic2='58' start='733410'><title>Communicatas member</title>, <daterange><start days='733410' iso8601='2009-01-01'>2009</start> - <end days='734505' iso8601='2012-01-01'>2012</end></daterange></job></experience>
+</resume>
+
+<skillrollup version='1'>
+  <canonskill education='1' eduidrefs='9' idrefs='9' name='adobe'>
+    <variant>Adobe</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='9' idrefs='9' name='graphic design'>
+    <variant>Graphic Design</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='9' idrefs='9' name='microsoft office'>
+    <variant>Microsoft Office</variant>
+  </canonskill>
+  <canonskill experience='1' name='publicity'>
+    <variant>Publication</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

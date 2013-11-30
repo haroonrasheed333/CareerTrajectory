@@ -1,0 +1,376 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Master Trainer", 
+            "Type": "Advanced", 
+            "Certification ID": "9060", 
+            "Certifying Organization": "National Center for Construction Education and Research"
+        }, 
+        {
+            "Acronym": "CSSM", 
+            "Certification Name": "Construction Site Safety Master Instructor", 
+            "Type": "Advanced", 
+            "Certification ID": "9063", 
+            "Certifying Organization": "National Center for Construction Education and Research"
+        }, 
+        {
+            "Acronym": "CRS+BD", 
+            "Certification Name": "Certified Resume Specialist:Sales and Business Development", 
+            "Type": "Specialty", 
+            "Certification ID": "8996", 
+            "Certifying Organization": "Career Directors International"
+        }, 
+        {
+            "Acronym": "MCD", 
+            "Certification Name": "Master Career Director", 
+            "Type": "Advanced", 
+            "Certification ID": "9001", 
+            "Certifying Organization": "Career Directors International"
+        }, 
+        {
+            "Acronym": "CPLP", 
+            "Certification Name": "Certified Professional in Learning and Performance", 
+            "Type": "Core", 
+            "Certification ID": "4842", 
+            "Certifying Organization": "American Society for Training and Development"
+        }, 
+        {
+            "Acronym": "CSTD", 
+            "Certification Name": "SES Standards Professional Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "3556", 
+            "Certifying Organization": "Standards Engineering Society"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "OJT Senior Trainer", 
+            "Type": "Advanced", 
+            "Certification ID": "9070", 
+            "Certifying Organization": "National Institute for Metalworking Skills "
+        }, 
+        {
+            "Acronym": "C-DERT", 
+            "Certification Name": "Certified - Designated Employer Representative Trainer", 
+            "Type": "Advanced", 
+            "Certification ID": "9203", 
+            "Certifying Organization": "Drug & Alcohol Testing Industry Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Novell Instructor", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "0365", 
+            "Certifying Organization": "Novell, Inc. - Education"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Trainer Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "7978", 
+            "Certifying Organization": "Association of Credit and Collection Professionals"
+        }, 
+        {
+            "Acronym": "CWDP", 
+            "Certification Name": "Certified Workforce Development Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "1108", 
+            "Certifying Organization": "National Association of Workforce Development Professionals"
+        }, 
+        {
+            "Acronym": "CRS+ES", 
+            "Certification Name": "Certified Resume Specialist: Engineering and Science", 
+            "Type": "Specialty", 
+            "Certification ID": "8990", 
+            "Certifying Organization": "Career Directors International"
+        }, 
+        {
+            "Acronym": "CRS+PR", 
+            "Certification Name": "Certified Resume Specialist:Public Relations and Marketing Communications", 
+            "Type": "Specialty", 
+            "Certification ID": "8995", 
+            "Certifying Organization": "Career Directors International"
+        }, 
+        {
+            "Acronym": "CRS+LL", 
+            "Certification Name": "Certified Resume Specialist: Legal/Law", 
+            "Type": "Specialty", 
+            "Certification ID": "8992", 
+            "Certifying Organization": "Career Directors International"
+        }, 
+        {
+            "Acronym": "CRS+IT", 
+            "Certification Name": "Certified Resume Specialist: Information Technology", 
+            "Type": "Specialty", 
+            "Certification ID": "8989", 
+            "Certifying Organization": "Career Directors International"
+        }, 
+        {
+            "Acronym": "CRS+E", 
+            "Certification Name": "Certified Resume Specialist: Education", 
+            "Type": "Specialty", 
+            "Certification ID": "8987", 
+            "Certifying Organization": "Career Directors International"
+        }, 
+        {
+            "Acronym": "PHR", 
+            "Certification Name": "Professional in Human Resources", 
+            "Type": "Advanced", 
+            "Certification ID": "0089", 
+            "Certifying Organization": "Human Resources Certification Institute"
+        }, 
+        {
+            "Acronym": "SPHR", 
+            "Certification Name": "Senior Professional in Human Resources", 
+            "Type": "Advanced", 
+            "Certification ID": "0090", 
+            "Certifying Organization": "Human Resources Certification Institute"
+        }, 
+        {
+            "Acronym": "CTT+", 
+            "Certification Name": "Certified Technical Trainer Certification", 
+            "Type": "Core", 
+            "Certification ID": "2484", 
+            "Certifying Organization": "Computing Technology Industry Association (CompTIA)"
+        }, 
+        {
+            "Acronym": "CSSO", 
+            "Certification Name": "Construction Site Safety Orientation", 
+            "Type": "Core", 
+            "Certification ID": "9066", 
+            "Certifying Organization": "National Center for Construction Education and Research"
+        }, 
+        {
+            "Acronym": "CEIC", 
+            "Certification Name": "Certified Employment Interview Consultant", 
+            "Type": "Core", 
+            "Certification ID": "9002", 
+            "Certifying Organization": "Career Directors International"
+        }, 
+        {
+            "Acronym": "MFCC/T", 
+            "Certification Name": "Master Federal Career Coach/Trainer", 
+            "Type": "Advanced", 
+            "Certification ID": "9005", 
+            "Certifying Organization": "Career Directors International"
+        }, 
+        {
+            "Acronym": "CRS+AC", 
+            "Certification Name": "Certified Resume Specialist: Administration and Clerical", 
+            "Type": "Specialty", 
+            "Certification ID": "8991", 
+            "Certifying Organization": "Career Directors International"
+        }, 
+        {
+            "Acronym": "GPHR", 
+            "Certification Name": "Global Professional in Human Resources", 
+            "Type": "Advanced", 
+            "Certification ID": "4497", 
+            "Certifying Organization": "Human Resources Certification Institute"
+        }, 
+        {
+            "Acronym": "GCDF", 
+            "Certification Name": "Global Career Development Facilitator", 
+            "Type": "Advanced", 
+            "Certification ID": "0368", 
+            "Certifying Organization": "Center for Credentialing & Education, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Application Developer - WebSphere ILOG JRules V7.0", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "4995", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "CRS+HM", 
+            "Certification Name": "Certified Resume Specialist: Healthcare and Medical", 
+            "Type": "Specialty", 
+            "Certification ID": "8986", 
+            "Certifying Organization": "Career Directors International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified System Administrator - WebSphere Application Server, Network Deployment V6.1", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "5026", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Application Developer - WebSphere ILOG JRules BRMS V7.1", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7033", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "CP - OJSRM", 
+            "Certification Name": "Certified Professional in Online Job Search and Reputation Management", 
+            "Type": "Core", 
+            "Certification ID": "9003", 
+            "Certifying Organization": "Career Directors International"
+        }, 
+        {
+            "Acronym": "MMRW", 
+            "Certification Name": "Master Military Resume Writer", 
+            "Type": "Specialty", 
+            "Certification ID": "9000", 
+            "Certifying Organization": "Career Directors International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Master Craft/Technician Instructor", 
+            "Type": "Advanced", 
+            "Certification ID": "9062", 
+            "Certifying Organization": "National Center for Construction Education and Research"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Craft Instructor", 
+            "Type": "Advanced", 
+            "Certification ID": "9061", 
+            "Certifying Organization": "National Center for Construction Education and Research"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Craft Instructor", 
+            "Type": "Core", 
+            "Certification ID": "9061", 
+            "Certifying Organization": "National Center for Construction Education and Research"
+        }, 
+        {
+            "Acronym": "CRS+FS", 
+            "Certification Name": "Certified Resume Specialist: Financial Services", 
+            "Type": "Specialty", 
+            "Certification ID": "8985", 
+            "Certifying Organization": "Career Directors International"
+        }, 
+        {
+            "Acronym": "CRS+AF", 
+            "Certification Name": "Certified Resume Specialist: Accounting and Finance", 
+            "Type": "Specialty", 
+            "Certification ID": "8984", 
+            "Certifying Organization": "Career Directors International"
+        }, 
+        {
+            "Acronym": "CRS+PL", 
+            "Certification Name": "Certified Resume Specialist: Politics and Legislation", 
+            "Type": "Specialty", 
+            "Certification ID": "8999", 
+            "Certifying Organization": "Career Directors International"
+        }, 
+        {
+            "Acronym": "MFCC", 
+            "Certification Name": "Master Federal Career Coach", 
+            "Type": "Advanced", 
+            "Certification ID": "9004", 
+            "Certifying Organization": "Career Directors International"
+        }, 
+        {
+            "Acronym": "CRS+ES", 
+            "Certification Name": "Certified Resume Specialist: Emergency Services", 
+            "Type": "Specialty", 
+            "Certification ID": "8993", 
+            "Certifying Organization": "Career Directors International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "OJT Training Coordinator", 
+            "Type": "Advanced", 
+            "Certification ID": "9071", 
+            "Certifying Organization": "National Institute for Metalworking Skills "
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "OJT Trainer", 
+            "Type": "Core", 
+            "Certification ID": "9069", 
+            "Certifying Organization": "National Institute for Metalworking Skills "
+        }, 
+        {
+            "Acronym": "CSST", 
+            "Certification Name": "Construction Site Safety Technician", 
+            "Type": "Advanced", 
+            "Certification ID": "9064", 
+            "Certifying Organization": "National Center for Construction Education and Research"
+        }, 
+        {
+            "Acronym": "CWPP", 
+            "Certification Name": "Certified Web Portfolio Practitioner", 
+            "Type": "Core", 
+            "Certification ID": "9006", 
+            "Certifying Organization": "Career Directors International"
+        }, 
+        {
+            "Acronym": "CRS+HR", 
+            "Certification Name": "Certified Resume Specialist:Training and Human Resources", 
+            "Type": "Specialty", 
+            "Certification ID": "8997", 
+            "Certifying Organization": "Career Directors International"
+        }, 
+        {
+            "Acronym": "CRS+TC", 
+            "Certification Name": "Certified Resume Specialist:Trades and Construction", 
+            "Type": "Specialty", 
+            "Certification ID": "8998", 
+            "Certifying Organization": "Career Directors International"
+        }, 
+        {
+            "Acronym": "CRS+NP", 
+            "Certification Name": "Certified Resume Specialist: Non-Profit", 
+            "Type": "Specialty", 
+            "Certification ID": "8994", 
+            "Certifying Organization": "Career Directors International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Training Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "9388", 
+            "Certifying Organization": "International Air Transport Association"
+        }, 
+        {
+            "Acronym": "RCA", 
+            "Certification Name": "Responsible Care Auditor", 
+            "Type": "Advanced", 
+            "Certification ID": "6263", 
+            "Certifying Organization": "Board of Environmental Health and Safety Auditor Certification"
+        }, 
+        {
+            "Acronym": "ISPI", 
+            "Certification Name": "Certified Performance Technologist", 
+            "Type": "Advanced", 
+            "Certification ID": "3699", 
+            "Certifying Organization": "International Society of Performance Improvement "
+        }, 
+        {
+            "Acronym": "CSSS", 
+            "Certification Name": "Construction Site Safety Supervisor", 
+            "Type": "Advanced", 
+            "Certification ID": "9065", 
+            "Certifying Organization": "National Center for Construction Education and Research"
+        }, 
+        {
+            "Acronym": "CMRW", 
+            "Certification Name": "Certified Master Resume Writer", 
+            "Type": "Advanced", 
+            "Certification ID": "8983", 
+            "Certifying Organization": "Career Directors International"
+        }, 
+        {
+            "Acronym": "CARW", 
+            "Certification Name": "Certified Advanced Resume Writer", 
+            "Type": "Advanced", 
+            "Certification ID": "8982", 
+            "Certifying Organization": "Career Directors International"
+        }, 
+        {
+            "Acronym": "CRS+HT", 
+            "Certification Name": "Certified Resume Specialist: Hospitality and Tourism", 
+            "Type": "Specialty", 
+            "Certification ID": "8988", 
+            "Certifying Organization": "Career Directors International"
+        }
+    ], 
+    "onet": "13115100"
+}

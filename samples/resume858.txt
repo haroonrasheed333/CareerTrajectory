@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734597' xml:space='preserve'><contact><name><givenname>JONATHAN</givenname>  <givenname>S</givenname>.  <surname>RADNEY</surname></name>			
+
+<address lat='42.0142' lon='88.0932' majorcity='SCHAUMBURG' state='IL'><street>947 Westfield Lane</street>
+<city>Schaumburg</city>, <state abbrev='IL'>IL</state> <postalcode>60193</postalcode></address>
+<phone type='cell'>847-971-9987</phone> Cell#1
+<phone type='cell'>224-201-5200</phone> Cell #2</contact>
+
+<summary>Qualification Summary
+Motivation ~ Self Motivated, Team Motivator, Dependable, Team Participator
+Leadership ~ Maintain professional attitude with customers, potential customer/clients and co-workers 
+Sales &amp; Marketing ~ Execute strategies to increase sales &amp; marketing techniques. Sales strength and openness to new sales &amp; marketing strategies</summary> 
+
+<experience end='present' start='733196'>Professional Experience
+
+<job end='present' id='1' pos='1' sic='8611' sic2='86' start='734321'><employer>NWSRA - Northwest Specialty Recreation Association</employer>~ <address><city>Rolling Meadows</city>, <state abbrev='IL'>IL</state></address>
+<title>Inclusion Assistant</title>
+<daterange><start days='734321' iso8601='2011-07-01'>July 2011</start> to <end days='present' iso8601='2012-04-02'>Present</end></daterange>
+<description>Provide daily one on one support to clients  with physical, developmental, and/or emotional disabilities as they integrate into daily life at schools, camps and before care/after care programs. Assist in helping clients adapt to activities and crafts in order to ensure successful participation. Responsible for communicating with parents, counselors, and other staff regarding the needs and growth of the participant.</description></job>
+
+
+<job end='734140' id='2' pos='2' start='733806'><employer>Elite Marketing Interactions</employer> ~ <address><city>Rolling Meadows</city>, <state abbrev='IL'>IL</state></address>
+<title>Lead Sales Advisor</title>
+<daterange><start days='733806' iso8601='2010-02-01'>February 2010</start> - <end days='734140' iso8601='2011-01-01'>January 2011</end></daterange>
+<description>Introduce shoppers to an assortment of foods and retails products providing valuable advice about use, quality and value.  Set up and preparation for various events at Meijer stores.</description></job>
+
+<job end='733561' id='3' pos='3' start='733469'><employer>Forever 21 ~ Woodfield Mall</employer> ~ <address><city>Schaumburg</city>, <state abbrev='IL'>IL</state></address>
+<jobtype>Part-Time</jobtype> <title>Sales Associate</title>
+<daterange><start days='733469' iso8601='2009-03-01'>March 2009</start> - <end days='733561' iso8601='2009-06-01'>June 2009</end></daterange>
+<description>Greeted and provided customer service with friendly, professional behavior with customers, supervisors,
+and co-workers. Built and maintained relationships with customers and store employees while completing the required retail duties, sales, and service.</description></job>
+ 
+
+<job end='733379' id='4' pos='4' start='733196'><employer>Hollister/Abercrombie Fitch ~ Woodfield Mall</employer> ~ <address><city>Schaumburg</city>, <state abbrev='IL'>IL</state></address>
+<jobtype>Part-Time</jobtype> <title>Sales Associate</title>
+<daterange><start days='733196' iso8601='2008-06-01'>June 2008</start> - <end days='733379' iso8601='2008-12-01'>December 2008</end></daterange>
+
+<description>Projected the image of the brand through personal style, provided customer service and maintaining presentation standards. Tasks included training new associates, floor sales, floor assistance and minimal loss prevention.</description></job></experience>
+  
+<education>EDUCATION:
+<school id='5'><institution>Schaumburg High School</institution> ~ <degree level='13' name='Diploma'>Diploma</degree> Received <completiondate days='733530' iso8601='2009-05-01'>May 2009</completiondate></school>
+<school id='6'><institution>Harper College</institution> ~ <description>2 years</description></school></education>
+
+<statements>Awards/Achievement:
+<honors>Attendance Awards, 2005-2007 Basketball Award, Football 2007-2008, CPR Basics
+Academic Most Improvement Award 2007-2008</honors></statements>
+
+<skills>SKILLS:
+<skills>Working with Adults &amp; Teens with Disabilities, MS Office 2007 &amp; XP , Word, PowerPoint, FrontPage, Outlook. Adobe, 
+Arc-Soft, Various Multi-Media &amp; Music software, Internet Explorer, Typing 35 wpm.</skills></skills>  
+
+<references>REFERENCES: Aapril Bobo (Store Manager), Jackie Sommerville (Professor/Med.Sys), 
+Nick Orlando (Systems Engineer), Mark &amp; Carmen Holiday (Fireman) 
+</references></resume>
+
+<skillrollup version='1'>
+  <canonskill name='adobe'>
+    <variant>Adobe</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='customer relations' start='734321'>
+    <variant>clients</variant>
+  </canonskill>
+  <canonskill end='733561' experience='1' expidrefs='3,4' idrefs='3,4' lastused='2009' name='customer service' start='733196'>
+    <variant>customer service</variant>
+  </canonskill>
+  <canonskill name='frontpage'>
+    <variant>FrontPage</variant>
+  </canonskill>
+  <canonskill end='733379' experience='1' expidrefs='4' idrefs='4' lastused='2008' name='imaging' start='733196'>
+    <variant>image</variant>
+  </canonskill>
+  <canonskill name='internet explorer'>
+    <variant>Internet Explorer</variant>
+  </canonskill>
+  <canonskill end='733379' experience='1' expidrefs='4' idrefs='4' lastused='2008' name='loss prevention' start='733196'>
+    <variant>loss prevention</variant>
+  </canonskill>
+  <canonskill name='microsoft office'>
+    <variant>MS Office</variant>
+  </canonskill>
+  <canonskill name='microsoft outlook'>
+    <variant>Outlook</variant>
+  </canonskill>
+  <canonskill name='microsoft powerpoint'>
+    <variant>PowerPoint</variant>
+  </canonskill>
+  <canonskill name='microsoft word'>
+    <variant>Word</variant>
+  </canonskill>
+  <canonskill name='multimedia'>
+    <variant>Multi-Media</variant>
+  </canonskill>
+  <canonskill end='734140' experience='1' expidrefs='2' idrefs='2' lastused='2011' name='quality' start='733806'>
+    <variant>quality</variant>
+  </canonskill>
+  <canonskill end='733561' experience='1' expidrefs='3' idrefs='3' lastused='2009' name='retail' start='733469'>
+    <variant>retail</variant>
+  </canonskill>
+  <canonskill end='733561' experience='1' expidrefs='3,4' idrefs='3,4' lastused='2009' name='sales' start='733196'>
+    <variant>sales</variant>
+  </canonskill>
+  <canonskill name='typing'>
+    <variant>Typing 35 wpm</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

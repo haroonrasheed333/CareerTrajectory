@@ -1,0 +1,82 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CFPC&C", 
+            "Certification Name": "Fluid Power Connector and Conductor", 
+            "Type": "Advanced", 
+            "Certification ID": "2605", 
+            "Certifying Organization": "International Fluid Power Society"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Water and Sewer Lines - Level II", 
+            "Type": "Core", 
+            "Certification ID": "7837", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Water and Sewer Lines - Level I", 
+            "Type": "Core", 
+            "Certification ID": "5378", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "STAR Plumber Mastery", 
+            "Type": "Advanced", 
+            "Certification ID": "7011", 
+            "Certifying Organization": "National Inspection, Testing and Certification Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Stormwater and Wastewater System Inspection - Level II", 
+            "Type": "Core", 
+            "Certification ID": "7840", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Water and Sewer Lines - Level III", 
+            "Type": "Advanced", 
+            "Certification ID": "7838", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Water and Sewer Lines - Level IV", 
+            "Type": "Advanced", 
+            "Certification ID": "7839", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Stormwater and Wastewater System Inspection - Level IV", 
+            "Type": "Advanced", 
+            "Certification ID": "7842", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Stormwater and Wastewater System Inspection - Level III", 
+            "Type": "Advanced", 
+            "Certification ID": "7841", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Stormwater and Wastewater System Inspection - Level I", 
+            "Type": "Core", 
+            "Certification ID": "5379", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "STAR Pipefitter Mastery", 
+            "Type": "Advanced", 
+            "Certification ID": "7012", 
+            "Certifying Organization": "National Inspection, Testing and Certification Corporation"
+        }
+    ], 
+    "onet": "47215100"
+}

@@ -1,0 +1,188 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734595' xml:space='preserve'><contact><name><givenname>AMIT</givenname> <surname>MEGHANI</surname></name>				          <address lat='37.7975' lon='122.399' majorcity='SAN FRANCISCO' state='CA'><street>550 Battery Street, Apt# 1710</street>, <city>San Francisco</city>, <state abbrev='CA'>CA</state>- <postalcode>94111</postalcode></address>
+                                                                                                          Phone: (773)-<phone>259-5129</phone>   Email:  <email>amitmeghani29@gmail.com</email></contact>
+
+<summary>Summary
+<summary>Results driven Quality Assurance professional with 4 years experience in the GMP regulated medical device industry.
+Professionally Certified in Quality Assurance and Regulatory Affairs.
+Exhibiting a broad range of skills and experience with validation of processes, equipment, data systems, and process plus extensive experience managing personnel and projects, quality systems, change controls, deviations, investigations, and calibrations.
+Extensive knowledge of auditing and compliance to FDA CFRs, GAMP,  cGMP, ISO 13485, Six Sigma requirements for medical device industry.
+Possess excellent communication and organization skills with the ability to adapt to a new environment.
+Able to effectively utilize strategic goals and tactical methods to satisfy project objectives, budget limitations, and aggressive timelines.
+Possesses a well developed ability to establish interdepartmental and cross-functional partnerships. Recognized for excellence in mediating between Engineering, Manufacturing, Regulatory, and Quality.</summary></summary>
+
+<experience end='present' start='732465'>Professional Experience
+<job end='present' id='1'><title>Quality Assurance Specialist</title>                                                        (<daterange><start>January</start> 2010- <end days='present' iso8601='2012-03-31'>Present</end></daterange>)
+endpoint, <address><city>San Francisco</city>, <state abbrev='CA'>CA</state></address>                            			
+<description>Drafted, implemented and managed the Quality Management System (QMS) (21CFR Part 11, 21CFR Part 820, etc.)
+Owned all aspects of customer audits, including preparation, hosting, responding and coordinating all follow up activities and CAPA.
+Oversee all validation activities: reviewed and approved test plans, test scripts and final reports for software, hardware and IT infrastructure validation and qualification activities.
+Managed the Testing function, including capabilities, procedures, and resource management to assure timely and accurate completion of testing and validation activities.
+Developed and delivered a comprehensive Training Program, including New Hire Training, Product Training, Ongoing Training, and implementation of a Training Management System (TMS).
+Established new functional team to identify, prioritize, measure and drive process improvement initiatives to positively impact quality, efficiency and service within the framework of endpoint's strategic goals.
+Engineered and managed the Corrective and Preventive Action (CAPA) program, ensuring that regulatory, customer, and internal observations were addressed and successfully resolved on schedule.
+Established and chaired regular Quality Management Review to ensure adequacy and transparency for all failure investigations across departments (e.g., root cause analysis, proposed/actual CAPA, impact analysis, risk mitigation planning, customer communication, etc.).
+Led critical path Standard Operating Procedure (SOP) reviews, ensuring the appropriate committee composition, prioritization, analysis and implementation of updates in a timely manner.</description></job>
+<job end='733653' id='2' pos='1' sic='822101' sic2='82' start='732922'><title>Quality Assurance Associate</title>				               (<daterange><start days='732922' iso8601='2007-09-01'>September 2007</start>-<end days='733653' iso8601='2009-09-01'>September 2009</end></daterange>)
+       <employer>University of Illinois</employer> at <address><city>Chicago</city></address> (<employer>UIC</employer>), <address><city>Chicago</city>, <state abbrev='IL'>Illinois</state></address>   
+<description>Calibrated Laboratory equipments to conduct experiments
+Performed IQ and OQ of instruments. Maintained qualification documentation.
+Employed Statistical Analysis to interpret the data collected
+Collected, analyzed and interpreted statistical data. 
+Documentation- Revision of existing SOP's and generation of new.</description></job> 
+
+<job end='732648' id='3' pos='2' start='732465'><title>Quality Assurance Engineer</title> (<department>Biomedical Department</department>)			     (<daterange><start days='732465' iso8601='2006-06-01'>June 2006</start>- <end days='732648' iso8601='2006-12-01'>December 2006</end></daterange>) 
+       <employer>Asian Heart Institute</employer> 
+<description>Responsible for implementing and updating quality procedures. 
+Assisted in Project planning for quality issues, Software Validation, Failure Modes and Effects Analysis (FMEA), Fault Tree Analysis (FTA), Hazard Analysis 
+Ensured regulatory compliance to ISO 9001, IS0 13485 and JCAHO. 
+Assisted in vendor control, incoming inspection and testing. 
+Planned and conducted scheduled audits of suppliers to assess compliance of Class I and II devices. 
+Maintained Inventory Control and Certification of new suppliers/vendors. 
+Assisted in performing IQ, OQ and PQ of equipments, facilities and utility systems; Clean-In-Place, Sterility Assurance, Aseptic Processing and process validations.
+Presenting suggestions for product improvement and trend analysis 
+Assisted in implementation of Statistical Process Capability (SPC) charting and Statistical Quality Control (SQC)</description></job></experience>
+
+<education>Educational Background:
+<school id='4'><degree level='18'>Masters of Science (M.S</degree>.) in Bioengineering                                                      (<daterange><start days='732891' iso8601='2007-08-01'>August 2007</start>- <end days='733622' iso8601='2009-08-01'>August 2009</end></daterange>)
+       <institution>University of Illinois</institution>    
+<courses>Certificate in Quality Assurance and Regulatory Affairs in Pharmaceutical Industry</courses>       (<daterange><start days='733622' iso8601='2009-08-01'>August 2009</start>- <end days='733683' iso8601='2009-10-01'>October 2009</end></daterange></school>)
+       <school id='5'><institution>Kriger Research Center Inc</institution>. (International Biopharmaceutical Association Approved Training Provider)
+<degree level='16'>Bachelors of Engineering (B.E</degree>.) in <major code='1603'>Biomedical Engineering</major>                              (<daterange><start days='731461' iso8601='2003-09-01'>September 2003</start>- <end days='732830' iso8601='2007-06-01'>June 2007</end></daterange></school>)
+       <school id='6'><institution>University of Mumbai</institution>, <address><city>Mumbai</city> <country iso3='IND'>India</country></address></school></education>	
+
+
+<skills>Additional Skills: 
+Computer Applications: <skills>MS Access, Windows XP/Vista/7, Excel, Word, Power Point, Project, Visio, Q-Pulse, CorelDraw, MATLAB, C++, Program C, ADINA (Automatic Dynamic Incremental Non Linear Analysis), Assembly Level Programming of 8051 and Microprocessors, SAS, SPSS, NEX (NeuroExplorer). 
+Proficient in just about any computer program available and pick up programs very quickly</skills></skills>
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='21 cfr part 11'>
+    <variant>21CFR Part 11</variant>
+  </canonskill>
+  <canonskill name='assembly language'>
+    <variant>Assembly</variant>
+  </canonskill>
+  <canonskill name='c'>
+    <variant>C</variant>
+  </canonskill>
+  <canonskill name='c + +'>
+    <variant>C++</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='computer hardware'>
+    <variant>hardware</variant>
+  </canonskill>
+  <canonskill name='computer skills'>
+    <variant>Computer Applications</variant>
+  </canonskill>
+  <canonskill name='corel draw'>
+    <variant>CorelDraw</variant>
+  </canonskill>
+  <canonskill end='733653' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='documentation' start='732922'>
+    <variant>Documentation</variant>
+    <variant>documentation</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='functional'>
+    <variant>functional</variant>
+  </canonskill>
+  <canonskill end='732648' experience='1' expidrefs='3' idrefs='3' lastused='2006' name='inventory management' start='732465'>
+    <variant>Inventory Control</variant>
+  </canonskill>
+  <canonskill end='733653' experience='1' expidrefs='2,3' idrefs='2,3' lastused='2009' name='iq' start='732465'>
+    <variant>IQ</variant>
+  </canonskill>
+  <canonskill end='732648' experience='1' expidrefs='3' idrefs='3' lastused='2006' name='iso 9000' start='732465'>
+    <variant>ISO 9001</variant>
+  </canonskill>
+  <canonskill name='matlab'>
+    <variant>MATLAB</variant>
+  </canonskill>
+  <canonskill name='microprocessors'>
+    <variant>Microprocessors</variant>
+  </canonskill>
+  <canonskill name='microsoft access'>
+    <variant>MS Access</variant>
+  </canonskill>
+  <canonskill name='microsoft excel'>
+    <variant>Excel</variant>
+  </canonskill>
+  <canonskill name='microsoft powerpoint'>
+    <variant>Power Point</variant>
+  </canonskill>
+  <canonskill name='microsoft windows xp'>
+    <variant>Windows XP</variant>
+  </canonskill>
+  <canonskill name='microsoft word'>
+    <variant>Word</variant>
+  </canonskill>
+  <canonskill end='733653' experience='1' expidrefs='2,3' idrefs='2,3' lastused='2009' name='oq' start='732465'>
+    <variant>OQ</variant>
+  </canonskill>
+  <canonskill name='pick'>
+    <variant>pick</variant>
+  </canonskill>
+  <canonskill end='732648' experience='1' expidrefs='3' idrefs='3' lastused='2006' name='pq' start='732465'>
+    <variant>PQ</variant>
+  </canonskill>
+  <canonskill end='732648' experience='1' expidrefs='3' idrefs='3' lastused='2006' name='presentation skills' start='732465'>
+    <variant>Presenting</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='process engineering'>
+    <variant>process improvement</variant>
+  </canonskill>
+  <canonskill name='programming'>
+    <variant>Programming</variant>
+  </canonskill>
+  <canonskill end='732648' experience='1' expidrefs='3' idrefs='3' lastused='2006' name='project planning' start='732465'>
+    <variant>Project planning</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,3' idrefs='1,3' lastused='2012' name='quality' start='732465'>
+    <variant>quality</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='4' end='734579' experience='1' expidrefs='1,3' idrefs='1,3,4' lastused='2012' name='quality control' start='732465'>
+    <variant>Quality Management</variant>
+    <variant>Quality Control</variant>
+    <variant>Quality Assurance</variant>
+  </canonskill>
+  <canonskill name='sas'>
+    <variant>SAS</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='shell scripting'>
+    <variant>scripts</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='sop' start='732922'>
+    <variant>SOP</variant>
+  </canonskill>
+  <canonskill end='732648' experience='1' expidrefs='3' idrefs='3' lastused='2006' name='spc' start='732465'>
+    <variant>SPC</variant>
+  </canonskill>
+  <canonskill name='spss'>
+    <variant>SPSS</variant>
+  </canonskill>
+  <canonskill end='733653' experience='1' expidrefs='2' idrefs='2' lastused='2009' name='statistics' start='732922'>
+    <variant>Statistical Analysis</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='strategic'>
+    <variant>strategic</variant>
+  </canonskill>
+  <canonskill end='732648' experience='1' expidrefs='3' idrefs='3' lastused='2006' name='trend' start='732465'>
+    <variant>trend</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,3' idrefs='1,3' lastused='2012' name='validation' start='732465'>
+    <variant>Validation</variant>
+    <variant>validation</variant>
+  </canonskill>
+  <canonskill name='visio'>
+    <variant>Visio</variant>
+  </canonskill>
+  <canonskill name='vista'>
+    <variant>Vista</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='writing'>
+    <variant>composition</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

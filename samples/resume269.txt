@@ -1,0 +1,211 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734591' xml:space='preserve'><contact><name><givenname>LYNN</givenname> <givenname>L</givenname>. <surname>HILAO</surname></name>
+<address lat='41.9204' lon='87.701' majorcity='CHICAGO' state='IL'><street>2312 W. McLean #3N									      773-501-3139</street>
+<city>Chicago</city>, <state abbrev='IL'>Illinois</state> <postalcode>60647</postalcode></address>							                    <email>lynn.hilao@gmail.com</email></contact>
+
+
+<education>EDUCATION
+<school id='11'><degree level='21'>Juris Doctorate</degree>, <completiondate>2013</completiondate> (expected), <institution>DePaul University College of Law</institution> - <address><city>Chicago</city>, <state abbrev='IL'>Illinois</state></address>
+<courses>Certificate in Paralegal Studies, 2007, Civil Litigation and Corporations</courses>, <institution>Loyola University</institution> - <address><city>Chicago</city>, <state abbrev='IL'>Illinois</state></address></school>
+<school id='12'><degree level='16' name='Bachelor of Science'>Bachelor of Science</degree>, <completiondate days='730122' iso8601='2000-01-01'>2000</completiondate>, <major code='4201'>Business Administration</major>, <institution>DePaul University</institution> - <address><city>Chicago</city>, <state abbrev='IL'>Illinois</state></address>
+<courses>Certificate of Completion, 1999, Japanese Language</courses>, <institution>Kansai Gadai University</institution> - <address><city>Osaka</city>, <country iso3='JPN'>Japan</country></address></school></education>
+
+<experience end='present' start='730122'>LEGAL PROFESSIONAL EXPERIENCE
+
+<job end='present' id='1' pos='1' sic='504704' sic2='50' start='733956'><employer>ROSEN TECHNOLOGY RESOURCES</employer>, <address><city>Chicago</city>, <state abbrev='IL'>Illinois</state></address>				           <daterange><start days='733956' iso8601='2010-07-01'>July 2010</start> - <end days='present' iso8601='2012-03-27'>Present</end></daterange>
+<title>Litigation Support Consultant</title>
+<description>Provide in-house litigation support, including department set-up and training to various clients
+Process electronic data for importing into various software 
+Recommend processes, procedures, and best practices for production and handling of electronic discovery
+Provide general user support for litigation support software, image scanning and printing when required</description></job>
+
+<job end='733956' id='2' pos='2' sic='811103' sic2='81' start='733044'><employer>LEYDIG, VOIT &amp; MAYER</employer>, <address><city>Chicago</city>, <state abbrev='IL'>Illinois</state></address>					  <daterange><start days='733044' iso8601='2008-01-01'>January 2008</start> - <end days='733956' iso8601='2010-07-01'>July 2010</end></daterange>
+<title>Litigation Support Specialist</title>
+<description>Served as the single point of contact for attorneys, paralegals, IT, staff, and vendors on all cases employing litigation support technology and services
+Created, maintained, and troubleshot litigation databases and computer  imaging projects
+Provided technical support on litigation support software applications
+Maintained all in-house litigation support software applications and inventory of electronic production
+Prepared attorneys for travel by verifying current litigation support programs and associated files installed
+Provided general user support for litigation support software, image scanning and printing when required
+Managed vendors to assure that high-quality data deliverables and services are provided within the negotiated schedules and budgets</description></job>
+
+<job end='733044' id='3' pos='5' sic='655202' sic2='65' start='731796'><employer>NIELSEN, ZEHE &amp; ANTAS</employer>, <address><city>Chicago</city>, <state abbrev='IL'>Illinois</state></address>				           <daterange><start days='731796' iso8601='2004-08-01'>August 2004</start> - <end days='733044' iso8601='2008-01-01'>January 2008</end></daterange>
+<title>Paralegal</title>
+<description>Prepared and responded to discovery pleadings, including but not limited to interrogatories, requests to admit and document production
+Filed court pleadings at state and federal level
+Organized correspondence and legal pleadings for litigation
+Assisted attorneys in trial preparation and attended trials with litigation attorneys to provide technical assistance with courtroom technology and other clerical functions
+Performed legal research using Westlaw
+Scheduled depositions and meetings for witnesses and experts
+Communicated with clients regarding case status and with vendors regarding potential and ongoing projects</description></job>
+
+<job end='731583' id='4' pos='6' start='730853'><employer>RESURGENCE FINANCIAL</employer>, <address><city>Skokie</city>, <state abbrev='IL'>Illinois</state></address>				       		           <daterange><start days='730853' iso8601='2002-01-01'>2002</start>-<end days='731583' iso8601='2004-01-01'>2004</end></daterange>
+<title>Docketing Paralegal</title>  
+<description>Served as primary liaison between court and office
+Filed various pleadings in Cook County (Districts 1 and 2)
+Prepared court calls and maintained court schedule in Cook County (Districts 1 and 2)</description></job>
+
+<job id='5'><title>Floater Paralegal</title>
+<description>Trained on all paralegal applications in firm from pre-discovery to post-discovery phase to provide assistance where needed</description></job>
+OTHER PROFESSIONAL EXPERIENCE
+<job end='733410' id='6' pos='3' sic='599992' sic2='59' start='733044'><employer>MARY KAY</employer>, <address><city>Chicago</city>, <state abbrev='IL'>Illinois</state></address>						         		         <daterange><start days='733044' iso8601='2008-01-01'>2008</start> -<end days='733410' iso8601='2009-01-01'>2009</end></daterange>
+<jobtype>Independent</jobtype> <title>Beauty Sales Consultant</title>
+<description>Performed skin care and make-up demonstrations to clientele</description></job>
+<job end='733044' id='7' pos='4' sic='5999' sic2='59' start='732679'><employer>STILA COSMETICS</employer>, <address><city>Chicago</city>, <state abbrev='IL'>Illinois</state></address>	           				          		          <daterange><start days='732679' iso8601='2007-01-01'>2007</start>-<end days='733044' iso8601='2008-01-01'>2008</end></daterange>
+<title>Free-lance Makeup Artist</title>
+<description>Performed make-up demonstrations
+Provided customer service to various clientele</description></job>
+<job end='731583' id='8' pos='7' sic='563210' sic2='56' start='730853'><employer>VICTORIA'S SECRET</employer>, <address><city>Skokie</city>, <state abbrev='IL'>Illinois</state></address>				       		           	           <daterange><start days='730853' iso8601='2002-01-01'>2002</start>-<end days='731583' iso8601='2004-01-01'>2004</end></daterange>
+<title>Beauty Lead</title> 
+<description>Ensured attainment of daily and weekly sales goals in beauty department
+Educated associates on product information
+Executed upkeep of store aesthetic including merchandising and special floor sets</description></job>
+
+<job id='9'><title>Sales Associate</title>
+<description>Responsible for meeting individual daily sales goal
+Provided customer service to clientele</description></job>
+
+<job end='730853' id='10' pos='8' sic='504301' sic2='50' start='730122'><employer>SHURE INCORPORATED</employer>, <address><city>Evanston</city>, <state abbrev='IL'>Illinois</state></address>					           	           <daterange><start days='730122' iso8601='2000-01-01'>2000</start>-<end days='730853' iso8601='2002-01-01'>2002</end></daterange>
+<title>International Sales Administrator</title>
+<description>Assisted the Vice President of International Operations, General Manager of International Sales and International Regional Sales Managers with administrative duties
+Upkeep of annual agreements via database management and monthly reports
+Coordinated special international events
+Maintained mailing label database of all international distributors
+Maintained the Shure representative/distributor database listing on the Shure website and Intranet</description></job></experience>
+
+<professional>PROFESSIONAL DEVELOPMENT
+
+<affiliations>Member, 1L Representative, Scholarship Banquet Co-Chair; DePaul APALSA - 2009-present
+Extern, Circuit Court of Cook County, Domestic Relations Division - 2011
+Volunteer, Be Bright Pink - 2008-2010
+Committee Member, DePaul Alumni Chicagoland Chapter - 2008-present
+Member, International Legal Technology Association (ILTA) - 2008- 2010
+Member, Association of Litigation Support Professionals (ALSP) - 2008-2010
+Member, Illinois Paralegal Association (IPA) - 2006-present
+Member, National Federation of Paralegal Associations (NFPA) - 2006-present
+Member, Lambda Epsilon Chi (LEX) - 2007</affiliations></professional>
+
+<skills>TECHNICAL SKILLS
+<skills>CaseMap
+Sanction
+Concordance 
+Summation
+iPro
+TextMap
+Lexis Nexis
+Trial Director
+LiveNote
+Westlaw
+Microsoft Office Suite
+Windows XP
+Microsoft Outlook
+Word Perfect</skills></skills>
+
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='730853' experience='1' expidrefs='10' idrefs='10' lastused='2002' name='administration' start='730122'>
+    <variant>administrative</variant>
+  </canonskill>
+  <canonskill end='733956' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='budgeting' start='733044'>
+    <variant>budgets</variant>
+  </canonskill>
+  <canonskill end='733044' experience='1' expidrefs='3' idrefs='3' lastused='2008' name='clerical' start='731796'>
+    <variant>clerical</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,3,6,7,9' idrefs='1,3,6,7,9' lastused='2012' name='customer relations' start='731796'>
+    <variant>clientele</variant>
+    <variant>clients</variant>
+  </canonskill>
+  <canonskill end='733044' experience='1' expidrefs='7,9' idrefs='7,9' lastused='2008' name='customer service' start='732679'>
+    <variant>customer service</variant>
+  </canonskill>
+  <canonskill end='733956' experience='1' expidrefs='2,10' idrefs='2,10' lastused='2010' name='database administration' start='730122'>
+    <variant>database management</variant>
+    <variant>databases</variant>
+    <variant>database</variant>
+  </canonskill>
+  <canonskill end='730853' experience='1' expidrefs='10' idrefs='10' lastused='2002' name='general management' start='730122'>
+    <variant>General Manager</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='imaging' start='733044'>
+    <variant>image</variant>
+    <variant>imaging</variant>
+  </canonskill>
+  <canonskill end='730853' experience='1' expidrefs='10' idrefs='10' lastused='2002' name='international sales' start='730122'>
+    <variant>International Sales</variant>
+  </canonskill>
+  <canonskill end='733956' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='inventory management' start='733044'>
+    <variant>inventory</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='12' idrefs='12' name='japanese'>
+    <variant>Japanese</variant>
+  </canonskill>
+  <canonskill end='733044' experience='1' expidrefs='3' idrefs='3' lastused='2008' name='legal' start='731796'>
+    <variant>legal</variant>
+  </canonskill>
+  <canonskill end='733044' experience='1' expidrefs='3' idrefs='3' lastused='2008' name='legal research' start='731796'>
+    <variant>legal research</variant>
+  </canonskill>
+  <canonskill name='lexis - nexis'>
+    <variant>Lexis Nexis</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='11' end='734579' experience='1' expidrefs='1,2,3' idrefs='11,1,2,3' lastused='2012' name='litigation' start='731796'>
+    <variant>litigation support</variant>
+    <variant>Litigation</variant>
+    <variant>litigation</variant>
+  </canonskill>
+  <canonskill name='macromedia director'>
+    <variant>Director</variant>
+  </canonskill>
+  <canonskill end='733044' experience='1' expidrefs='3' idrefs='3' lastused='2008' name='meeting facilitation' start='731796'>
+    <variant>meetings</variant>
+  </canonskill>
+  <canonskill end='731583' experience='1' expidrefs='8' idrefs='8' lastused='2004' name='merchandising' start='730853'>
+    <variant>merchandising</variant>
+  </canonskill>
+  <canonskill end='731583' experience='1' expidrefs='4' idrefs='4' lastused='2004' name='microsoft office' start='730853'>
+    <variant>Microsoft Office Suite</variant>
+    <variant>office</variant>
+  </canonskill>
+  <canonskill name='microsoft outlook'>
+    <variant>Microsoft Outlook</variant>
+  </canonskill>
+  <canonskill name='microsoft windows xp'>
+    <variant>Windows XP</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='11' experience='1' expidrefs='5' idrefs='11,5' name='paralegal'>
+    <variant>Paralegal</variant>
+    <variant>paralegal</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='process engineering' start='733956'>
+    <variant>processes</variant>
+  </canonskill>
+  <canonskill end='733956' experience='1' expidrefs='2' idrefs='2' lastused='2010' name='quality' start='733044'>
+    <variant>quality</variant>
+  </canonskill>
+  <canonskill end='731583' experience='1' expidrefs='8,9,10' idrefs='8,9,10' lastused='2004' name='sales' start='730122'>
+    <variant>Sales</variant>
+    <variant>sales</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='scanners' start='733044'>
+    <variant>scanning</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2,3' idrefs='1,2,3' lastused='2012' name='technical support' start='731796'>
+    <variant>technical support</variant>
+    <variant>user support</variant>
+    <variant>technical assistance</variant>
+  </canonskill>
+  <canonskill end='730853' experience='1' expidrefs='10' idrefs='10' lastused='2002' name='web site production' start='730122'>
+    <variant>website</variant>
+  </canonskill>
+  <canonskill end='733044' experience='1' expidrefs='3' idrefs='3' lastused='2008' name='westlaw' start='731796'>
+    <variant>Westlaw</variant>
+  </canonskill>
+  <canonskill name='wordperfect'>
+    <variant>Word Perfect</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

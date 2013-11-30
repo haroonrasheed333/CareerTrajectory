@@ -1,0 +1,264 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Adobe Muse 1.0", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8724", 
+            "Certifying Organization": "Adobe Systems Incorporated"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Adobe Adobe InDesign CS4", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7403", 
+            "Certifying Organization": "Adobe Systems Incorporated"
+        }, 
+        {
+            "Acronym": "CAW", 
+            "Certification Name": "Certified Associate Webmaster", 
+            "Type": "Core", 
+            "Certification ID": "2846", 
+            "Certifying Organization": "Webmaster Certification Online "
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Application Developer - Web Content Manager 8.0", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9299", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Application Developer - IBM Workplace Web Content Management 8.0", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "5478", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Adobe SiteCatalyst Implementation", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8727", 
+            "Certifying Organization": "Adobe Systems Incorporated"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Solution Developer - WebSphere Portlet Factory 7.0", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9309", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "CPWDS", 
+            "Certification Name": "WOW Certified Professional Web Designer", 
+            "Type": "Core", 
+            "Certification ID": "2854", 
+            "Certifying Organization": "World Organization of Webmasters"
+        }, 
+        {
+            "Acronym": "CWDVA", 
+            "Certification Name": "WOW Certified Web Developer Apprentice", 
+            "Type": "Core", 
+            "Certification ID": "2860", 
+            "Certifying Organization": "World Organization of Webmasters"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Web Communication with Adobe Dreamweaver CS6", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8048", 
+            "Certifying Organization": "Adobe Systems Incorporated"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Advanced System Administrator - WebSphere Portal 8.0", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9308", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified System Administrator - WebSphere Portal 8.0", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9307", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Adobe ColdFusion 8", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8077", 
+            "Certifying Organization": "Adobe Systems Incorporated"
+        }, 
+        {
+            "Acronym": "CEMS", 
+            "Certification Name": "WOW Certified E-Commerce Manager", 
+            "Type": "Core", 
+            "Certification ID": "2852", 
+            "Certifying Organization": "World Organization of Webmasters"
+        }, 
+        {
+            "Acronym": "CPWDV", 
+            "Certification Name": "WOW Certified Professional Web Developer", 
+            "Type": "Core", 
+            "Certification ID": "2855", 
+            "Certifying Organization": "World Organization of Webmasters"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Adobe Dreamweaver CS6", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8815", 
+            "Certifying Organization": "Adobe Systems Incorporated"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Solution Developer - WebSphere Portal 8.0", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9306", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Adobe Captivate 5.5", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8069", 
+            "Certifying Organization": "Adobe Systems Incorporated"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "CIW Certified Web Design Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "7422", 
+            "Certifying Organization": "Certified Internet Web Professionals"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified System Administrator - WebSphere Portal 7.0", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9311", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Adobe ColdFusion 9", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8060", 
+            "Certifying Organization": "Adobe Systems Incorporated"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Oracle ATG Web Commerce Suite 10 Implementation Developer Certified Implementation Specialist", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8478", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Advanced System Administrator - WebSphere Portal 7.0", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9312", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Oracle WebCenter Portal 11g Certified Implementation Specialist", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8519", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Oracle WebLogic Server 12c Certified Implementation Specialist", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8520", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Administrator - Cognos 10 BI", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "5475", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Advanced System Administrator - Lotus Notes and Domino 8.5", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9292", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "CPW", 
+            "Certification Name": "WOW Certified Professional Webmaster", 
+            "Type": "Core", 
+            "Certification ID": "2856", 
+            "Certifying Organization": "World Organization of Webmasters"
+        }, 
+        {
+            "Acronym": "CWC", 
+            "Certification Name": "WOW Certified Web Consultant", 
+            "Type": "Core", 
+            "Certification ID": "2858", 
+            "Certifying Organization": "World Organization of Webmasters"
+        }, 
+        {
+            "Acronym": "CWS", 
+            "Certification Name": "Certified Web Specialist", 
+            "Type": "Core", 
+            "Certification ID": "3036", 
+            "Certifying Organization": "ETA International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Solution Developer - WebSphere Portal 7.0", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9310", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Solution Developer - Web Experience Factory 8.0", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9305", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Oracle WebCenter 11g Certified Implementation Specialist", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7077", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Application Developer - Lotus Web Content Management 7.0", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9300", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "CPWA", 
+            "Certification Name": "WOW Certified Professional Web Administrator", 
+            "Type": "Core", 
+            "Certification ID": "2853", 
+            "Certifying Organization": "World Organization of Webmasters"
+        }, 
+        {
+            "Acronym": "CWAA", 
+            "Certification Name": "Certified Web Administrator Associate", 
+            "Type": "Core", 
+            "Certification ID": "4933", 
+            "Certifying Organization": "World Organization of Webmasters"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "CIW Web Design Specialist", 
+            "Type": "Core", 
+            "Certification ID": "7423", 
+            "Certifying Organization": "Certified Internet Web Professionals"
+        }
+    ], 
+    "onet": "15119903"
+}

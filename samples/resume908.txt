@@ -1,0 +1,167 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734597' xml:space='preserve'><contact><name><givenname>Jesus</givenname> <surname>Gonzalez</surname></name>
+<address lat='30.3614' lon='81.5818' majorcity='JACKSONVILLE' state='FL'><street>7925 Merrill Rd. Apt. 1510</street>    <city>Jacksonville</city>, <state abbrev='FL'>FL</state> <postalcode>32277</postalcode></address>    <phone>(904) 615-3796</phone>    <email>jgonzo2407@gmail.com</email></contact>
+
+<summary>OBJECTIVE
+<objective>Seeking an industry leading organization offering both a challenging environment and advancement 
+potential where I can utilize my extensive training and experience to help the organization reach
+its short and long term corporate objectives.</objective></summary>
+<education>EDUCATION
+<daterange><start days='734444' iso8601='2011-11-01'>11/11</start>-<end days='present' iso8601='2012-04-02'>Present</end></daterange> <courses>Computer-Peripheral-Equipment Operator (US NAVY)
+11/07 Information Systems Technician School (US NAVY)</courses>
+Major:  <major code='1699'>Information Technology</major></education>
+<statements>SUMMARY OF QUALIFICATIONS
+<activities>Active U.S. government security clearance	:        Local remote systems support</activities></statements>
+<skills><skills>T/S (SCI Eligible)                                                Remote access technology
+Experienced in handling confidential material           Network server maintenance
+Professional Spanish proficiency	                   Customer needs assessment                                       Experience in various operating systems:                   Information security
+GCCS-M, Windows 95-00/XP, RIO 2.5,                    Website maintenance
+STMS, DORIS, Microsoft Office,                              Testing/verification skills                                                                                        CAD (Computer Aided Drawing) 2000                      Publishing Software			               Troubleshooting XP, Outlook and VPN                     Search server expertise                                                         Local remote systems support                                     Document management                                                           On-call experience</skills></skills>                                                       		                           
+<experience end='present' start='731827'>PROFESSIONAL EXPERIENCE
+<job end='present' id='1' pos='1' sic='971101' sic2='97' start='732830'><title>Information Systems Technician/System Administrator</title> - <employer>US Navy</employer> <daterange><start days='732830' iso8601='2007-06-01'>06/2007</start> - <end days='present' iso8601='2012-04-02'>Present</end></daterange></job> 
+<job id='2'><title>System Administrator</title>
+<description>Responsible for backing-up and restoring data
+Account Management 
+Profiling administration procedures, monitoring C4I system interfaces and log-in requirements.
+Analyzing emergency shutdown occurrences, and controlling printer utilities and data base purging requirements. 
+Exclusive experience installing, operating and maintaining state-of-the-art information systems technology and telecommunications equipment.
+Troubleshot and resolved urgent issues in support of shore/sea departments and upper level management with a 100% success rate.  
+Processed all forms of telecommunications through various transmission media over a global network.
+Maintained cyber security, communication chronological files, records and logs. 
+Monitored network communications</description></job>
+
+<job end='732799' id='3' pos='2' start='732373'><title>Construction Account Analyst</title> - ThyssenKrupp Elevator <daterange><start days='732373' iso8601='2006-03-01'>03/06</start>-<end days='732799' iso8601='2007-05-01'>05/07</end></daterange>.
+<description>Reviewed, approved and collected on invoices and journal entries.
+Assisted the accounting department with the proper and timely recording of the company's accounting activity on a weekly and monthly basis.
+Maintained and reviewed monthly financial activity of the companies account for the Miami region.
+Made recommendations to improve quality of invoicing and collection procedures</description></job>
+
+<job end='732283' id='4' pos='3' start='731827'><title>RSH/CSR Analyst Supervisor</title> (<department>Bi-lingual department</department>)
+IntelliRisk (DirecTV), <address><city>North Charleston</city>, <state abbrev='SC'>SC</state></address> <daterange><start days='731827' iso8601='2004-09-01'>09/04</start>-<end days='732283' iso8601='2005-12-01'>12/05</end></daterange>
+<description>Collections and new service activation.
+Lead a team of handled in-depth customer inquiries involving payments, and technical support.
+Supervised a team of RSH (Residential Speed Handler) fraud analysts that processed bilingual fraudulent and delinquent account issues. 
+Conducted research to prevent loss for DirectTv.</description></job></experience>
+
+
+
+
+
+
+
+
+
+
+
+</resume>
+
+<skillrollup version='1'>
+  <canonskill experience='1' expidrefs='2' idrefs='2' name='account management'>
+    <variant>Account Management</variant>
+  </canonskill>
+  <canonskill end='732799' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='accountancy' start='732373'>
+    <variant>accounting</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='2' idrefs='2' name='art'>
+    <variant>art</variant>
+  </canonskill>
+  <canonskill name='cad'>
+    <variant>CAD</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='2' idrefs='2' name='database administration'>
+    <variant>data base</variant>
+  </canonskill>
+  <canonskill name='document management'>
+    <variant>Document management</variant>
+  </canonskill>
+  <canonskill end='732799' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='financial' start='732373'>
+    <variant>financial</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='2' idrefs='2' name='forms'>
+    <variant>forms</variant>
+  </canonskill>
+  <canonskill name='graphic design'>
+    <variant>Drawing</variant>
+  </canonskill>
+  <canonskill name='information security'>
+    <variant>Information security</variant>
+  </canonskill>
+  <canonskill education='1' experience='1' expidrefs='2' idrefs='2' name='information systems'>
+    <variant>Information Systems</variant>
+    <variant>information systems</variant>
+  </canonskill>
+  <canonskill end='732799' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='invoicing' start='732373'>
+    <variant>invoicing</variant>
+  </canonskill>
+  <canonskill name='microsoft access'>
+    <variant>access</variant>
+  </canonskill>
+  <canonskill name='microsoft office'>
+    <variant>Microsoft Office</variant>
+  </canonskill>
+  <canonskill name='microsoft outlook'>
+    <variant>Outlook</variant>
+  </canonskill>
+  <canonskill name='microsoft windows 2000'>
+    <variant>2000</variant>
+  </canonskill>
+  <canonskill name='microsoft windows 95'>
+    <variant>Windows 95</variant>
+  </canonskill>
+  <canonskill education='1' name='navy'>
+    <variant>NAVY</variant>
+  </canonskill>
+  <canonskill name='needs analysis'>
+    <variant>needs assessment</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='2' idrefs='2' name='networking'>
+    <variant>Network</variant>
+    <variant>network</variant>
+  </canonskill>
+  <canonskill name='operating systems'>
+    <variant>operating systems</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='2' idrefs='2' name='printers'>
+    <variant>printer</variant>
+  </canonskill>
+  <canonskill end='732799' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='quality' start='732373'>
+    <variant>quality</variant>
+  </canonskill>
+  <canonskill end='732799' experience='1' expidrefs='3' idrefs='3' lastused='2007' name='recording' start='732373'>
+    <variant>recording</variant>
+  </canonskill>
+  <canonskill end='732283' experience='1' expidrefs='4' idrefs='4' lastused='2005' name='research' start='731827'>
+    <variant>research</variant>
+  </canonskill>
+  <canonskill name='software support'>
+    <variant>Software			               Troubleshooting</variant>
+  </canonskill>
+  <canonskill name='spanish'>
+    <variant>Spanish</variant>
+  </canonskill>
+  <canonskill end='732283' experience='1' expidrefs='4' idrefs='4' lastused='2005' name='technical support' start='731827'>
+    <variant>technical support</variant>
+    <variant>systems support</variant>
+  </canonskill>
+  <canonskill education='1' name='technician'>
+    <variant>Technician</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='2' idrefs='2' name='telecommunications'>
+    <variant>telecommunications</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='2' idrefs='2' name='transmission'>
+    <variant>transmission</variant>
+  </canonskill>
+  <canonskill experience='1' expidrefs='2' idrefs='2' name='utilities'>
+    <variant>utilities</variant>
+  </canonskill>
+  <canonskill name='vpn'>
+    <variant>VPN</variant>
+  </canonskill>
+  <canonskill name='web site production'>
+    <variant>Website</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

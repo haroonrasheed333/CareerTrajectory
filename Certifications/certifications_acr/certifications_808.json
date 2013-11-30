@@ -1,0 +1,19 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "ACP", 
+            "Certification Name": "Air Cargo Professional", 
+            "Type": "Core", 
+            "Certification ID": "9384", 
+            "Certifying Organization": "International Air Transport Association"
+        }, 
+        {
+            "Acronym": "CCSP", 
+            "Certification Name": "Certified Cargo Security Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "4007", 
+            "Certifying Organization": "North American Transportation Management Institute"
+        }
+    ], 
+    "onet": "53101100"
+}

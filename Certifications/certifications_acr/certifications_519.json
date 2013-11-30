@@ -1,0 +1,152 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CFSP", 
+            "Certification Name": "Foodservice Professional Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "0848", 
+            "Certifying Organization": "North American Association of Food Equipment Manufacturers"
+        }, 
+        {
+            "Acronym": "SNS", 
+            "Certification Name": "School Nutrition Specialist", 
+            "Type": "Core", 
+            "Certification ID": "4871", 
+            "Certifying Organization": "School Nutrition Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Decorator", 
+            "Type": "Specialty", 
+            "Certification ID": "4108", 
+            "Certifying Organization": "Retail Bakers of America"
+        }, 
+        {
+            "Acronym": "CEPC", 
+            "Certification Name": "Certified Executive Pastry Chef", 
+            "Type": "Specialty", 
+            "Certification ID": "1097", 
+            "Certifying Organization": "American Culinary Federation, Inc."
+        }, 
+        {
+            "Acronym": "FMP", 
+            "Certification Name": "Foodservice Management Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "1748", 
+            "Certifying Organization": "National Restaurant Association Educational Foundation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "ProChef Level II Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "7671", 
+            "Certifying Organization": "The Culinary Institute of America"
+        }, 
+        {
+            "Acronym": "CFM", 
+            "Certification Name": "Certified Food Manager", 
+            "Type": "Core", 
+            "Certification ID": "3654", 
+            "Certifying Organization": "International Food Service Executives Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Coffee Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "1214", 
+            "Certifying Organization": "National Automatic Merchandising Association"
+        }, 
+        {
+            "Acronym": "MFP", 
+            "Certification Name": "ManageFirst Professional", 
+            "Type": "Core", 
+            "Certification ID": "7863", 
+            "Certifying Organization": "National Restaurant Association Educational Foundation"
+        }, 
+        {
+            "Acronym": "CWPC", 
+            "Certification Name": "Certified Working Pastry Chef", 
+            "Type": "Specialty", 
+            "Certification ID": "1101", 
+            "Certifying Organization": "American Culinary Federation, Inc."
+        }, 
+        {
+            "Acronym": "CFE", 
+            "Certification Name": "Certified Food Executive", 
+            "Type": "Advanced", 
+            "Certification ID": "3653", 
+            "Certifying Organization": "International Food Service Executives Association"
+        }, 
+        {
+            "Acronym": "CFSM", 
+            "Certification Name": "Certified Correctional Food Systems Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "3761", 
+            "Certifying Organization": "American Correctional Food Service Association"
+        }, 
+        {
+            "Acronym": "NCE", 
+            "Certification Name": "NAMA Certified Executive", 
+            "Type": "Advanced", 
+            "Certification ID": "8592", 
+            "Certifying Organization": "National Automatic Merchandising Association"
+        }, 
+        {
+            "Acronym": "CCA", 
+            "Certification Name": "Certified Culinary Administrator", 
+            "Type": "Specialty", 
+            "Certification ID": "3903", 
+            "Certifying Organization": "American Culinary Federation, Inc."
+        }, 
+        {
+            "Acronym": "MAS", 
+            "Certification Name": "Mold Awareness Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "6700", 
+            "Certifying Organization": "National Registry of Environmental Professionals"
+        }, 
+        {
+            "Acronym": "CPCE", 
+            "Certification Name": "Certified Professional Catering Executive", 
+            "Type": "Advanced", 
+            "Certification ID": "8147", 
+            "Certifying Organization": "National Association of Catering Executives"
+        }, 
+        {
+            "Acronym": "CP-FS", 
+            "Certification Name": "Certified Professional - Food Safety", 
+            "Type": "Core", 
+            "Certification ID": "0349", 
+            "Certifying Organization": "National Environmental Health Association"
+        }, 
+        {
+            "Acronym": "CEC", 
+            "Certification Name": "Certified Executive Chef", 
+            "Type": "Advanced", 
+            "Certification ID": "1096", 
+            "Certifying Organization": "American Culinary Federation, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "ProChef Level III Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "7672", 
+            "Certifying Organization": "The Culinary Institute of America"
+        }, 
+        {
+            "Acronym": "CCC", 
+            "Certification Name": "Certified Chef de Cuisine", 
+            "Type": "Advanced", 
+            "Certification ID": "1099", 
+            "Certifying Organization": "American Culinary Federation, Inc."
+        }, 
+        {
+            "Acronym": "CSC", 
+            "Certification Name": "Certified Sous Chef", 
+            "Type": "Specialty", 
+            "Certification ID": "1100", 
+            "Certifying Organization": "American Culinary Federation, Inc."
+        }
+    ], 
+    "onet": "35101200"
+}

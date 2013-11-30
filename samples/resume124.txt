@@ -1,0 +1,223 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734584' xml:space='preserve'><contact><name><givenname>Renee</givenname> <surname>Trepagnier</surname></name>
+<address lat='30.287' lon='97.7174' majorcity='AUSTIN' state='TX'><street>3110 Lafayette Avenue</street>
+<city>Austin</city>, <state abbrev='TX'>TX</state> <postalcode>78722</postalcode></address>
+<phone>(512) 632-7905</phone>
+<email>renee@trepagnier.net</email></contact>
+
+<summary>OBJECTIVE
+
+<objective>Senior project management position in software development.</objective>  
+ 
+SUMMARY OF QUALIFICATIONS
+
+<summary>Senior project manager with over 10 years experience managing software development projects for web applications, software as a service, and interactive media.  
+Skilled in project methodologies using Agile, scrum and iterative development to implement and release software applications including interactive web apps, ecommerce, content and learning management systems, portals, user ratings, and content syndication.
+Skillful leader and facilitator with experience introducing repeatable processes in startup companies and fast paced environments.
+Learning based, PMP and ScrumMaster certified.</summary></summary>
+
+<experience end='present' start='728752'>EXPERIENCE
+
+<job end='present' id='1' pos='1' start='733044'><employer>CompassLearning</employer>	<address><city>Austin</city>, <state abbrev='TX'>TX</state></address>
+<title>Senior program manager</title>	<daterange><start days='733044' iso8601='2008-01-01'>1/2008</start> - <end days='present' iso8601='2012-03-20'>Present</end></daterange>
+
+<description>Manage all software development projects for this educational software company providing Learning Management solutions and curricula to its K-12 customers.
+Lead sprint planning and scrums for multiple teams of product owners, software developers and testing engineers to produce web-based Learning Management system.
+Manage content development projects for video and animation production, coordinating content specialists, script writers, production artists, animators, and audio/video producers to create award-winning coursework.  
+Work cross functionally with other departments and teams to plan, schedule and evaluate work. Manage communications, schedules, budgets and resources.  
+Provide release management for annual major release and quarterly upgrades. Maintain hosted and enterprise versions of the product.  
+Control annual project related budgets of over $2.5M.</description></job> 
+
+<job end='733044' id='2' pos='2' sic='653118' sic2='65' start='732130'><employer>Keller Williams Realty International</employer>	<address><city>Austin</city>, <state abbrev='TX'>TX</state></address>
+<title>Project management manager</title>	<daterange><start days='732130' iso8601='2005-07-01'>7/2005</start> - <end days='733044' iso8601='2008-01-01'>1/2008</end></daterange>
+
+<description>Manage project managers for the IT and software development department at the corporate office of Keller Williams Realty. Projects included corporate web site, e-commerce, customized software tools, and a portal application supporting over 70,000 franchisees. 
+Supervise, direct and coordinate project teams for software development, overseeing annual project budgets exceeding $1.7M. Determine scope, deliverables, and milestones of projects. 
+Hire, train and coach team members.  
+Work with executives and senior management as well as the project management team to define and follow standards, applying PMI methodology for projects.</description></job> 
+<job end='731369' id='3' pos='3' sic='799973' sic2='79' start='729147'><employer>Ticketmaster/Citysearch</employer>	<address><city>West Hollywood</city>, <state abbrev='CA'>CA</state></address>
+<title>Senior project manager</title>	<daterange><start days='729147' iso8601='1997-05-01'>5/1997</start> - <end days='730091' iso8601='1999-12-01'>12/1999</end></daterange> &amp; <daterange><start days='730488' iso8601='2001-01-01'>1/2001</start> - <end days='731369' iso8601='2003-06-01'>6/2003</end></daterange> 
+
+<description>Provided successful delivery of web applications for the national network of online city guides for this popular ticketing and local search company. Projects included an interactive web application for user ratings on local businesses, a web site redesign to facilitate user/marketing interaction, optimization of the search performance, relevance and quality of results on the city guides, editorial and content management tools used to enter data on the site, and content syndication to other major search engines or portals such as MSN and AOL.
+Mentored other members of team in project management and leadership. 
+Initially played a variety of roles including managing teams for tech support, quality assurance and release management.</description></job> 
+
+<job end='730457' id='4' pos='4' start='730122'><employer>Petsmart.com</employer> 	<address><city>Pasadena</city>, <state abbrev='CA'>CA</state></address>
+<title>Program manager</title>	<daterange><start days='730122' iso8601='2000-01-01'>1/2000</start> - <end days='730457' iso8601='2000-12-01'>12/2000</end></daterange>
+
+<description>Provided management, leadership and strategic planning for implementations including a custom content management system for the web site as well as implementing the backend e-commerce system for this online pet supply company. 
+Established quality assurance program by adopting quality standards, applying quality management methodology, and implementing quality control procedures and tools. Hired and trained quality engineers. Led the evaluation and integration of third party applications for software testing.</description></job>
+
+<job end='729147' id='5' pos='5' start='728752'><employer>GE Capital-ResCom</employer>	<address><city>Los Angeles</city>, <state abbrev='CA'>CA</state></address>
+<title>Help Desk supervisor</title>	<daterange><start days='728752' iso8601='1996-04-01'>4/1996</start> - <end days='729147' iso8601='1997-05-01'>5/1997</end></daterange>
+
+<description>Managed the Corporate Help Desk staff supporting over 300 local and remote customer service and sales team members. 
+Presented analyses to executive managers on systems and business process issues.</description></job></experience> 
+
+
+<education>EDUCATION and CREDENTIALS
+Certified ScrumMaster, <school id='6'><completiondate days='733410' iso8601='2009-01-01'>2009</completiondate>
+<courses>Microsoft Project Orange Belt Certification, 2007
+Project Management Professional (PMP), 2005</courses>
+
+<degree level='16' name='Bachelor of Arts'>Bachelor of Arts</degree>, <major code='2799'>History</major> major with secondary education certification	
+<institution>University of Texas</institution>, <address><city>Austin</city>, <state abbrev='TX'>TX</state></address></school></education>
+
+<skills>SKILLS
+Highly proficient with <skills>MS Office suite including Word, Excel, Visio and Project, including Project Server
+Familiarity with html, css, xml, sql</skills></skills>
+
+
+
+
+
+
+
+
+
+
+
+
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='731369' experience='1' expidrefs='3' idrefs='3' lastused='2003' name='america online' start='729147'>
+    <variant>AOL</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='animation' start='733044'>
+    <variant>animation</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='audio' start='733044'>
+    <variant>audio</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='budgeting' start='732130'>
+    <variant>budgets</variant>
+  </canonskill>
+  <canonskill end='729147' experience='1' expidrefs='5' idrefs='5' lastused='1997' name='business process' start='728752'>
+    <variant>business process</variant>
+  </canonskill>
+  <canonskill end='733044' experience='1' expidrefs='2' idrefs='2' lastused='2008' name='coaching' start='732130'>
+    <variant>coach</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,3,4' idrefs='1,3,4' lastused='2012' name='content management' start='729147'>
+    <variant>content</variant>
+    <variant>content development</variant>
+    <variant>content management</variant>
+  </canonskill>
+  <canonskill name='css'>
+    <variant>css</variant>
+  </canonskill>
+  <canonskill end='729147' experience='1' expidrefs='5' idrefs='5' lastused='1997' name='customer service' start='728752'>
+    <variant>customer service</variant>
+  </canonskill>
+  <canonskill end='731369' experience='1' expidrefs='3' idrefs='3' lastused='2003' name='delivery' start='729147'>
+    <variant>delivery</variant>
+  </canonskill>
+  <canonskill end='733044' experience='1' expidrefs='2,4' idrefs='2,4' lastused='2008' name='e - commerce' start='730122'>
+    <variant>e-commerce</variant>
+  </canonskill>
+  <canonskill end='731369' experience='1' expidrefs='3' idrefs='3' lastused='2003' name='editing' start='729147'>
+    <variant>editorial</variant>
+  </canonskill>
+  <canonskill end='733044' experience='1' expidrefs='2' idrefs='2' lastused='2008' name='executive management' start='732130'>
+    <variant>senior management</variant>
+  </canonskill>
+  <canonskill end='729147' experience='1' expidrefs='5' idrefs='5' lastused='1997' name='help desk support' start='728752'>
+    <variant>Help Desk</variant>
+  </canonskill>
+  <canonskill name='html'>
+    <variant>html</variant>
+  </canonskill>
+  <canonskill end='730457' experience='1' expidrefs='4' idrefs='4' lastused='2000' name='leadership' start='730122'>
+    <variant>leadership</variant>
+  </canonskill>
+  <canonskill end='731369' experience='1' expidrefs='3' idrefs='3' lastused='2003' name='management' start='729147'>
+    <variant>managing</variant>
+  </canonskill>
+  <canonskill end='731369' experience='1' expidrefs='3' idrefs='3' lastused='2003' name='marketing' start='729147'>
+    <variant>marketing</variant>
+  </canonskill>
+  <canonskill name='microsoft excel'>
+    <variant>Excel</variant>
+  </canonskill>
+  <canonskill end='733044' experience='1' expidrefs='2' idrefs='2' lastused='2008' name='microsoft office' start='732130'>
+    <variant>MS Office suite</variant>
+    <variant>office</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='6' idrefs='6' name='microsoft project'>
+    <variant>Microsoft Project</variant>
+  </canonskill>
+  <canonskill name='microsoft word'>
+    <variant>Word</variant>
+  </canonskill>
+  <canonskill end='731369' experience='1' expidrefs='3' idrefs='3' lastused='2003' name='msn' start='729147'>
+    <variant>MSN</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='netscape enterprise server' start='733044'>
+    <variant>enterprise</variant>
+  </canonskill>
+  <canonskill end='731369' experience='1' expidrefs='3' idrefs='3' lastused='2003' name='networking' start='729147'>
+    <variant>network</variant>
+  </canonskill>
+  <canonskill end='731369' experience='1' expidrefs='3' idrefs='3' lastused='2003' name='online research' start='729147'>
+    <variant>search engines</variant>
+  </canonskill>
+  <canonskill end='731369' experience='1' expidrefs='3' idrefs='3' lastused='2003' name='optimization' start='729147'>
+    <variant>optimization</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='6' end='733044' experience='1' expidrefs='2,3' idrefs='2,3,6' lastused='2008' name='project management' start='729147'>
+    <variant>Project Management</variant>
+    <variant>project management and leadership</variant>
+    <variant>project management</variant>
+  </canonskill>
+  <canonskill end='731369' experience='1' expidrefs='3,4' idrefs='3,4' lastused='2003' name='quality' start='729147'>
+    <variant>quality</variant>
+  </canonskill>
+  <canonskill end='731369' experience='1' expidrefs='3,4' idrefs='3,4' lastused='2003' name='quality control' start='729147'>
+    <variant>quality assurance</variant>
+    <variant>quality management</variant>
+    <variant>quality control</variant>
+  </canonskill>
+  <canonskill end='729147' experience='1' expidrefs='5' idrefs='5' lastused='1997' name='sales' start='728752'>
+    <variant>sales</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='shell scripting' start='733044'>
+    <variant>script</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1,2' idrefs='1,2' lastused='2012' name='software development' start='732130'>
+    <variant>software development</variant>
+  </canonskill>
+  <canonskill end='730457' experience='1' expidrefs='4' idrefs='4' lastused='2000' name='software testing' start='730122'>
+    <variant>software testing</variant>
+  </canonskill>
+  <canonskill name='sql'>
+    <variant>sql</variant>
+  </canonskill>
+  <canonskill end='730457' experience='1' expidrefs='4' idrefs='4' lastused='2000' name='strategic planning' start='730122'>
+    <variant>strategic planning</variant>
+  </canonskill>
+  <canonskill end='731369' experience='1' expidrefs='3' idrefs='3' lastused='2003' name='technical support' start='729147'>
+    <variant>tech support</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='upgrades' start='733044'>
+    <variant>upgrades</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='video' start='733044'>
+    <variant>video</variant>
+  </canonskill>
+  <canonskill name='visio'>
+    <variant>Visio</variant>
+  </canonskill>
+  <canonskill end='731369' experience='1' expidrefs='3' idrefs='3' lastused='2003' name='web application development' start='729147'>
+    <variant>web applications</variant>
+  </canonskill>
+  <canonskill end='733044' experience='1' expidrefs='2,3,4' idrefs='2,3,4' lastused='2008' name='web site production' start='729147'>
+    <variant>web site</variant>
+  </canonskill>
+  <canonskill name='xml'>
+    <variant>xml</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

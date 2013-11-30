@@ -1,0 +1,167 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734596' xml:space='preserve'><contact><name><givenname>Manuel</givenname> <surname>Figueroa</surname></name>
+<address lat='33.8636' lon='117.597' majorcity='CORONA' state='CA'><street>1627 S. Lincoln Avenue</street>
+<city>Corona</city>, <state abbrev='CA'>CA</state> <postalcode>92882</postalcode></address>
+<phone type='cell'>(951)603-6382</phone> CELL
+<email>Officer.figueroa@yahoo.com</email></contact>
+
+
+<summary>Career Objective:
+	<objective>To obtain a position that will utilize my skills and lead to a successful career.</objective></summary>
+<education>Education:
+
+ <school id='5'><institution>Kaplan College</institution>:						<address><city>Riverside</city>, <state abbrev='CA'>CA.</state></address> 
+<degree level='14'>Associate of Science Degree</degree> in <major code='2202'>Criminal Justice</major>.		<completiondate days='734048' iso8601='2010-10-01'>October 2010</completiondate></school>
+
+<school id='6'><degree level='12'>J.E. Academic	(high school)</degree>:					<address><city>Fresno</city>, <state abbrev='CA'>CA.</state></address>
+<degree level='12'>High School Diploma</degree>.					            <completiondate days='732100' iso8601='2005-06-01'>June 2005</completiondate>
+
+Completed College Courses:
+ 
+
+<description>Intro to criminal justice.                                      
+Psychology. 
+Criminal Law of criminal justice.                                                
+Juvenile Delinquency. 
+Criminology 1.                                          
+Ethics.
+Firearms simulator training.                                               
+Intro to constitutional law.
+Jiu-jitsu self defense course.                                         
+Team Leadership/Team Building Skills.                                     
+Child Development.
+Child Care Development                                
+Criminal Procedures.                                     
+Terrorism today.                                     
+Physical Training course.
+Academic strategies.
+Associate's capstone in criminal justice.
+Career development strategies.
+College mathematics.
+English Composition I and II.
+Software applications.
+Private security.
+Police operations.
+Intro to corrections.
+Critical issues in corrections.
+Interpersonal Communication.
+Power to Arrest.
+Weapons of Mass Destruction.
+Communications and Its Significance.
+Liability and Legal Aspects.
+Observations and Documentation.
+Public relations.
+Chemical agents.
+Arrest, Search and Seizure.
+Use of Force.</description>
+<institution>B.S.I.S Firearms.
+B.S.I.S Baton</institution></school></education>
+
+
+
+
+			
+
+ <skills>Computer Skills: 
+
+ Proficient in <skills>Microsoft Word, PowerPoint, Excel, Basic Internet use, Paint, Olympus Photo Shop.</skills>
+
+
+Certificates/Awards:
+
+<courses>Team Building Certificate.
+High Honors Award/Certificates (3)
+Physical Training Certificates (2).
+Blue belt in Jiu-jitsu.
+CPR Certified.
+M26 Advanced TASER and TASER x26 Electronic Control Device Certificate.</courses></skills>
+
+
+<experience end='present' start='734109'>Recent employment history: 
+
+<job end='734260' id='1' naics='45211101' naics2='45' pos='3' sic='531102' sic2='53' start='734109'><employer>Wal-Mart</employer> store #2842: employed as <title>Asset Protection Associate</title>.
+From: <daterange><start days='734109' iso8601='2010-12-01'>Dec. 2010</start> to: <end days='734260' iso8601='2011-05-01'>May 2011</end></daterange></job>.
+
+<job end='734474' id='2' pos='2' sic='7991' sic2='79' start='734383'><employer>Ballys Total Fitness gym</employer> #60422: employed as a <title>Personal Trainer and receptionist</title>.
+From: <daterange><start days='734383' iso8601='2011-09-01'>Sept 2011</start> to <end days='734474' iso8601='2011-12-01'>Dec. 1, 2011</end></daterange></job>.
+
+<job end='734536' id='3' pos='1' sic='799101' sic2='79' start='734474'><employer>LA Fitness</employer>: employed as customer service.
+From: <daterange><start days='734474' iso8601='2011-12-01'>Dec. 1, 2011</start> to <end days='734536' iso8601='2012-02-01'>Feb. 2012</end></daterange></job>.
+
+<job end='present' id='4' sic='799944' sic2='79'><employer>Martial Arts International</employer>: Brazilian Jiu-<title>jitsu Instructor</title>.
+From <daterange><start>Oct. 2012</start> to <end days='present' iso8601='2012-04-01'>Present</end></daterange></job></experience>
+
+
+
+<statements>Portfolio:
+<personal>Considerate for the well being of others. Exercises patience and professionalism at all times. Ability to work exceptionally well with others in a team environment to achieve goals and expectations. Hard working, Highly motivated and goal oriented individual.</personal></statements>
+</resume>
+
+<skillrollup version='1'>
+  <canonskill education='1' eduidrefs='6' idrefs='6' name='academic'>
+    <variant>Academic</variant>
+  </canonskill>
+  <canonskill name='adobe photoshop'>
+    <variant>Photo Shop</variant>
+  </canonskill>
+  <canonskill name='basic'>
+    <variant>Basic</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='6' idrefs='6' name='communication skills'>
+    <variant>Interpersonal Communication</variant>
+  </canonskill>
+  <canonskill name='cpr certified'>
+    <variant>CPR Certified</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='6' idrefs='6' name='criminal justice'>
+    <variant>criminal justice</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='6' idrefs='6' name='documentation'>
+    <variant>Documentation</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='6' idrefs='6' name='english'>
+    <variant>English</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='6' idrefs='6' name='leadership'>
+    <variant>Team Building</variant>
+    <variant>Team Leadership</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='6' idrefs='6' name='legal'>
+    <variant>Law</variant>
+    <variant>law</variant>
+    <variant>Legal</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='6' idrefs='6' name='mathematics'>
+    <variant>mathematics</variant>
+  </canonskill>
+  <canonskill name='microsoft excel'>
+    <variant>Excel</variant>
+  </canonskill>
+  <canonskill name='microsoft powerpoint'>
+    <variant>PowerPoint</variant>
+  </canonskill>
+  <canonskill name='microsoft word'>
+    <variant>Microsoft Word</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='6' idrefs='6' name='ministry of defence'>
+    <variant>Weapons</variant>
+  </canonskill>
+  <canonskill name='painting'>
+    <variant>Paint</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='6' idrefs='6' name='police'>
+    <variant>Police</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='6' idrefs='6' name='psychology'>
+    <variant>Psychology</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='6' idrefs='6' name='public relations'>
+    <variant>Public relations</variant>
+  </canonskill>
+  <canonskill education='1' eduidrefs='6' idrefs='6' name='writing'>
+    <variant>Composition I</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+

@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ResDoc>
+<resume canonversion='2' dateversion='2' present='734597' xml:space='preserve'>From:		<contact><name><givenname>Richard</givenname> <surname>Johnson</surname></name> [<email>richarjohnson@gmail.com</email>]</contact>
+<summary>To:
+<summary>Cc:
+Subject:
+Dear Sir/Ma'am
+Please accept this letter as an application for the position of Customer Service Representative currently available with your company, as listed on SnagaJob.com. My resume is attached for your review and consideration, and I believe you will find me well qualified.
+Detailed on my resume you will find a solid background in Sales and Customer Service, with the last ten years working in an inbound call center. During my years as an Intake Specialist I have become adept at learning the policy related guidelines, protocols and proprietary software that our clients ask us to be proficient at, in order to process insurance claims for their insured and claimants.
+My years working in sales and customer service have provided me with a heightened sensitivity towards the needs of customers, especially those who are going through a crisis, such as loss of life or severe illness. Exposure to these situations on a regular basis allows me to be naturally empathetic towards people and their struggles.
+I believe your company would provide an atmosphere to which I would be well suited, as well as one where my experience would be valuable.
+Please contact me at your earliest convenience so that I may share with you my background and enthusiasm for the job. Thank you for your time and consideration.
+Sincerely,
+Richard Johnson</summary></summary>
+<contact><phone>(404)944-4432</phone><email>richarjohnson@gmail.com</email>
+
+
+
+
+
+
+<name><givenname>Richard</givenname> <surname>Johnson</surname></name>
+<address><street>3843 Brocket Trail #H</street></address>                                                                             <phone>(404) 944-4432</phone>
+<address lat='33.8091' lon='84.238' majorcity='CLARKSTON' state='GA'><city>Clarkston</city>, <state abbrev='GA'>GA</state> <postalcode>30021</postalcode></address>                                                              <email>richarjohnson@gmail.com</email></contact>
+<summary>Profile
+<summary>Customer Service Professional, skilled in problem solving and responsive to needs of clients, coworkers and management. Poised, resourceful and adaptable to handle stressful situations. Attentive to details, with sharp awareness of omissions or errors. 
+Office Skills
+Professional phone manner; data entry and word processing; updating and maintenance of files and records; adept in using over nine different proprietary software programs</summary></summary>
+<experience end='present' start='728296'>Employment History
+<job end='present' id='1' pos='1' sic='874241' sic2='87' start='730853'><employer>Sertec Corporation</employer>, <address><city>Atlanta</city>, <state abbrev='GA'>GA</state></address> (<daterange><start days='730853' iso8601='2002-01-01'>2002</start>-<end days='present' iso8601='2012-04-02'>Present</end></daterange>)
+<description>Sertec is the leader in incident reporting management, providing 24/7 comprehensive service to over 100,000 clients.</description>
+<title>Intake Specialist</title>
+<description>Data entry for insurance claims relating to Worker's Compensation, General Liability, Property Damage and FMLA; averaging 5000 reports a year
+First contact for many parties involved, i.e. the insured, claimants, adjusters, law enforcement and mitigation services
+Responsible for determining whether a claim needs to be escalated and then contacting the appropriate risk assessment manager of our clients 
+Mentor  temporary and new hires in navigating the various proprietary software we utilize and educating them on our client's protocols</description></job>
+<job end='731949' id='2' naics='44811006' naics2='44' pos='2' sic='561101' sic2='56' start='728296'><employer>The Men's Wearhouse</employer> (<daterange><start days='728296' iso8601='1995-01-01'>1995</start>-<end days='731949' iso8601='2005-01-01'>2005</end></daterange>)
+<description>TMW  is one of the largest discount retailers of men's business and formal attire.</description>
+<title>Sales Associate. Wardrobe Consultant. Tuxedo Representative</title>.
+<description>Assist customers in finding the appropriate fit and style of clothing
+Assist store in monitoring shrinkage through inventory tracking, correct sizing of customers and following security procedures
+Assist in brand awareness promotions and customer feedback inquiries</description></job></experience>
+<education>Education
+<school id='3'><degree level='16' name='Bachelor of Arts'>B.A</degree>. in <major code='2401'>Liberal Arts</major> from <institution>Indiana University Purdue University in Indianapolis</institution>, Summer of <completiondate days='734505' iso8601='2012-01-01'>2012</completiondate></school></education>
+
+</resume>
+
+<skillrollup version='1'>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='customer relations' start='730853'>
+    <variant>client</variant>
+    <variant>clients</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='data entry' start='730853'>
+    <variant>Data entry</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='insurance' start='730853'>
+    <variant>insurance</variant>
+  </canonskill>
+  <canonskill end='731949' experience='1' expidrefs='2' idrefs='2' lastused='2005' name='inventory management' start='728296'>
+    <variant>inventory</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='law enforcement' start='730853'>
+    <variant>law enforcement</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='mentoring' start='730853'>
+    <variant>Mentor</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='protocols' start='730853'>
+    <variant>protocols</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='reports' start='730853'>
+    <variant>reporting</variant>
+  </canonskill>
+  <canonskill end='734579' experience='1' expidrefs='1' idrefs='1' lastused='2012' name='risk assessment' start='730853'>
+    <variant>risk assessment</variant>
+  </canonskill>
+</skillrollup>
+</ResDoc>
+
