@@ -1,24 +1,9 @@
-import nltk
-from nltk.tokenize import word_tokenize
 from lxml import etree
-import pprint, random, pickle
-import itertools
-import os, sys, re
-import random
-from pprint import pprint as pp
-from itertools import islice
-from nltk import FreqDist
-from nltk.tokenize import word_tokenize, wordpunct_tokenize, sent_tokenize
+import os, re
 
-
-
-#!/usr/bin/python
 
 class ResumeCorpus():
     def __init__(self, source_dir):
-        """
-        init with path do the directory with the .txt files
-        """
         
         self.source_dir = source_dir
         self.files = self.getFiles(self.source_dir)
@@ -35,47 +20,74 @@ class ResumeCorpus():
             return pattern.sub('', data)
     
         labels = open ('labels.txt', 'w')
+        names = []
+        job_titles = []
+
+        hjobs = ['Consultant', 'Administrative Assistant', 'Manager', 'Director', 'Project Manager', 'Owner', 'Contractor', 'Vice President', 'Customer Service Representative', 'Research Assistant', 'Sales Associate', 'Office Manager', 'Software Engineer', 'Executive Assistant', 'Intern', 'Graduate Assistant', 'Business Analyst', 'Account Executive', 'Volunteer', 'Graphic Designer']
+
         for fname in files:
-            #data = open(source_dir + '/' + fname).read()
             xml = etree.parse(source_dir + '/' + fname)
             current_employer = xml.xpath('//job[@end = "present"]/employer/text()')
             current_job_title = xml.xpath('//job[@end = "present"]/title/text()')
             current_job = xml.xpath('//job[@end = "present"]')
+            contact = xml.xpath('//contact')
+            try:
+                name = xml.xpath('//givenname/text()')[0] + ' ' + xml.xpath('//surname/text()')[0]
+                if name not in names:
+                    names.append(name)
+                    if current_job:
+                        i = 0
+                        if len(current_job)>1:
+                            while (i<len(current_job)):
+                                current_job[i].getparent().remove(current_job[i])
+                                i = i+1
+                        else:
+                            current_job[0].getparent().remove(current_job[0])
 
-            if fname == 'resume324.txt':
-                print current_job
-                print current_job_title[0]
-	
-            if current_job:
-                i = 0
-                if len(current_job)>1:
-                    while (i<len(current_job)):
-                        current_job[i].getparent().remove(current_job[i])
-                        i = i+1
-                else:
-                    current_job[0].getparent().remove(current_job[0])
-                         
-                xml = etree.tostring(xml, pretty_print=True)
-                text_data = stripxml(xml)
-                if current_job_title:
-                    i = 0
-                    if len(current_job_title)>1:
-                        while (i<len(current_job_title)):
-                            text_data = text_data.replace(current_job_title[i], '')
-                            i = i+1
-                    else:
-                        text_data = text_data.replace(current_job_title[0], '')
+                        if contact:
+                            contact[0].getparent().remove(contact[0])
 
-            f = open('samples_text/' + '%s' %fname[:-4] +'_plaintext.txt', 'w')
-            f.write(text_data)
-            f.close()
-            if current_job_title:
-                labels.writelines(fname[:-4] +'_plaintext.txt' + "\t" + current_job_title[0] + "\n")
-            if fname == 'resume324.txt':
-                print text_data
+                        xml = etree.tostring(xml, pretty_print=True)
+                        text_data = stripxml(xml)
+                        flag = 0
+                        if current_job_title:
+                            i = 0
+                            if len(current_job_title)>1:
+                                while (i<len(current_job_title)):
+                                    text_data = text_data.replace(current_job_title[i], '')
+                                    job_titles.append(current_job_title[i])
+                                    i = i+1
+                                    if current_job_title[i] in hjobs:
+                                        flag = 1
+                            else:
+                                text_data = text_data.replace(current_job_title[0], '')
+                                job_titles.append(current_job_title[0])
+                                if current_job_title[i] in hjobs:
+                                    flag = 1
+
+                    if flag == 1:
+                        f = open('samples_text/' + '%s' %fname[:-4] +'_plaintext.txt', 'w')
+                        f.write(text_data)
+                        f.close()
+                        if current_job_title:
+                            labels.writelines(fname[:-4] +'_plaintext.txt' + "\t" + current_job_title[0] + "\n")
+
+            except:
+                pass
+        print len(job_titles)
+        print len(list(set(job_titles)))
+
+        import collections
+        counter = [(y,x) for x, y in collections.Counter(job_titles).items()]
+        counter_sort = sorted(counter, reverse=True)
+        print counter_sort[:20]
+        hj = []
+        for j in counter_sort[:20]:
+            hj.append(j[1])
+
+        print hj
         return
 
 
 if __name__ == "__main__":
     traintest_corpus = ResumeCorpus('samples') #4256
-

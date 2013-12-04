@@ -71,21 +71,21 @@ def unigram_features(document, lemma_fd_list):
 if __name__ == "__main__":
     traintest_corpus = ResumeCorpus('samples_text')
     random.shuffle(traintest_corpus.resumes)
-    train_resumes=traintest_corpus.resumes[:500]
+    train_resumes=traintest_corpus.resumes[0:250]
     words = []
     for resume in train_resumes:
         words = words + resume[0].split() 
     fd = FreqDist(words)
-    fd_words = [word for word in fd.keys()[:150] if word not in stopwords and word not in punct]
-    test_resumes=traintest_corpus.resumes[:-500]
+    fd_words = [word for word in fd.keys()[:100] if word not in stopwords and word not in punct]
+    test_resumes=traintest_corpus.resumes[251:]
     train_featureset  = feature_consolidation(train_resumes, fd_words, True)
     review_classifier = trainClassifier(train_featureset)  
     outputfile = open ('classifier_output.txt','w')
     for document in test_resumes:
-    	resume_features = feature_consolidation(document[0], fd_words)
-    	(text,tag,fileName) = document
-	classifier_output = review_classifier.classify(resume_features)
-    	outputfile.write('%s' %fileName + '\t' + '%s' %str(tag) + '%s' %classifier_output + '\n')
+        resume_features = feature_consolidation(document[0], fd_words)
+        (text,tag,fileName) = document
+        classifier_output = review_classifier.classify(resume_features)
+        outputfile.write('%s' %fileName + '\t' + '%s' %str(tag) + '%s' %classifier_output + '\n')
     
     
     #outputfile.close()
