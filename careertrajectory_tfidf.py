@@ -65,37 +65,64 @@ class ResumeCorpus():
         return resumes
 
 
+def inverse_doc_freq(word):
+    global text_collection
+    matches = len(list(True for text in text_collection._texts if word in text))
+
+    if matches > 0:
+        idf = 1.0 + math.log(float(len(text_collection._texts)) / matches)
+    else:
+        idf = 1.0
+
+    return idf
+
+def tf_idf(document):
+    global unique_words
+
+    freq = Counter(document.split())
+    features = {}
+    for word in unique_words:
+        #print len(document)
+        #print freq[word]
+        tfidf = (freq[word] / len(document)) * inverse_doc_freq(word)
+        features[word] = tfidf
+        #print word,tfidf
+    return features
+
 def trainClassifier(training_featureset):
     revSent_classifier = nltk.NaiveBayesClassifier.train(training_featureset)
     #remove stop words
     return revSent_classifier
 
 
-def feature_consolidation(documents, fd_words, addTrueScore=False):
+def feature_consolidation(documents, fd_words=None, addTrueScore=False):
     if addTrueScore:
-        con_features = [(unigram_features(file, fd_words),tag) for (file, tag, filename) in documents]
+        con_features = [(unigram_features(file),tag) for (file, tag, filename) in documents]
     else:   
-        con_features = unigram_features(documents,fd_words)
+        con_features = unigram_features(documents)
     return con_features
 
     
 
-def unigram_features(document, lemma_words_list):
+def unigram_features(document, fd_words=None):
     #print type(document)
     global unique_words
     docu=re.sub('[^A-Za-z\' ]+', '', str(document))
     tokens = nltk.word_tokenize(docu)
-    features = {}
+    #features = {}
+    features = tf_idf(docu)
+    #features = bigram_word_features(tokens)
     avg_word_len= 0
     count = 0
     for word in tokens:
-        word_stem = str(porter.stem(word))
-        if word_stem in lemma_words_list:
-            features[word_stem] = True
+        #word_stem = str(porter.stem(word))
+        word_stem= word
+        if word_stem in unique_words:
             avg_word_len += len(word_stem)
             count += 1
     features['average_word_length'] = avg_word_len/(count+1)
     features['docu_length'] = len(tokens)
+    #print features
     return features
 
 
@@ -114,25 +141,28 @@ if __name__ == "__main__":
     while i < kfold:
         train_resumes = traintest_corpus.resumes[0:i*partition_size] + traintest_corpus.resumes[(i+1)*partition_size:]
         test_resumes = traintest_corpus.resumes[i*partition_size:(i+1)*partition_size]
-        words = []
+        texts = []
         for resume in train_resumes:
-            words = words + resume[0].split()
-        fd = FreqDist(words)
-        fd_words = [ porter.stem(word) for word in fd.keys()[:150] if word not in stopwords ]
-        train_featureset  = feature_consolidation(train_resumes, fd_words, True)
+            words = nltk.word_tokenize(resume[0])
+            words = [word.lower() for word in words if word not in stopwords and len(words)>3 and word not in punct]
+            text = nltk.Text(words)
+            texts.append(text)
+        text_collection = nltk.TextCollection(texts)
+        unique_words = list(set(text_collection))
+        train_featureset  = feature_consolidation(train_resumes, None, True)
         review_classifier = trainClassifier(train_featureset)
         outputfile = open ('classifier_output.txt','w')
         for document in test_resumes:
-            resume_features = feature_consolidation(document[0], fd_words)
+            resume_features = feature_consolidation(document[0])
             (text,tag,fileName) = document
             classifier_output = review_classifier.classify(resume_features)
             outputfile.write('%s' %fileName + '\t' + '%s' %str(tag) + '%s' %classifier_output + '\n')
 
     
         #outputfile.close()
-        test_featureset  = feature_consolidation(test_resumes,fd_words, True)
+        test_featureset  = feature_consolidation(test_resumes, True)
         accuracies.append(nltk.classify.accuracy(review_classifier, test_featureset))
-        review_classifier.show_most_informative_features(50)
+        #review_classifier.show_most_informative_features(50)
         i += 1
         bar.update(i)
     bar.finish()
