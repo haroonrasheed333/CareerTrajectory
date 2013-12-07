@@ -44,7 +44,8 @@ class ResumeCorpus():
         
         self.source_dir = source_dir
         #self.files = self.getFiles(self.source_dir)
-        self.labels_file = '/Users/divyakarthikeyan/Desktop/COURSES/Fall 2013/NLP/Project/testing/labels.txt'
+        user_name = os.environ.get('USER')
+        self.labels_file = '/Users/' + user_name + '/Documents/Data/labels.txt'
         self.resumes = self.readFiles(self.labels_file, self.source_dir)
         
     def getFiles(self, source_dir):
