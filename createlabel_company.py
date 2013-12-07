@@ -1,6 +1,7 @@
 from lxml import etree
 import os, re
 
+
 class ResumeCorpus():
     def __init__(self, source_dir):
         
@@ -18,7 +19,7 @@ class ResumeCorpus():
             pattern = re.compile(r'<.*?>')
             return pattern.sub('', data)
     
-        labels = open ('/Users/divyakarthikeyan/Desktop/COURSES/Fall 2013/NLP/Project/testing/labels.txt', 'w')
+        labels = open ('/Users/divyakarthikeyan/Desktop/COURSES/Fall 2013/NLP/Project/testing/labels_company.txt', 'w')
         #labels_company = open ('labelscompany.txt', 'w')
 
         names = []
@@ -26,11 +27,6 @@ class ResumeCorpus():
 
         hjobs50 = ['Director', 'Consultant', 'Administrative Assistant', 'Project Manager', 'Manager', 'Owner', 'Vice President', 'Sales Associate', 'Contractor', 'Graphic Designer', 'Customer Service Representative', 'Intern', 'Office Manager', 'Research Assistant', 'Executive Assistant', 'Cashier', 'Volunteer', 'President', 'Software Engineer', 'Business Analyst', 'Senior Software Engineer', 'Account Executive', 'Substitute Teacher', 'Assistant Manager', 'Supervisor', 'Receptionist', 'Program Manager', 'Graduate Assistant', 'Sales Representative', 'Graduate Research Assistant', 'Teaching Assistant', 'Principal', 'Marketing Manager', 'Office Assistant', 'Accountant', 'Account Manager', 'Instructor', 'Web Developer', 'Senior Manager', 'Business Development Manager', 'Associate', 'Medical Assistant', 'Marketing Consultant', 'Computer Technician', 'Senior Consultant', 'Bookkeeper', 'VP', 'Staff Accountant', 'Senior Project Manager', 'Senior Accountant']
         hjobs = hjobs50[:20]
-        numberjobs = {}
-        for i in range(0,len(hjobs)-1):
-            numberjobs[hjobs[i]] = i+1
-        print numberjobs
-
         for fname in files:
             xml = etree.parse(source_dir + '/' + fname)
             current_employer = xml.xpath('//job[@end = "present"]/employer/text()')
@@ -56,44 +52,42 @@ class ResumeCorpus():
                         xml = etree.tostring(xml, pretty_print=True)
                         text_data = stripxml(xml)
                         flag = 0
-                        if current_job_title:
+                        if current_employer:
                             i = 0
-                            if len(current_job_title)>1:
-                                while (i<len(current_job_title)):
-                                    text_data = text_data.replace(current_job_title[i], '')
-                                    job_titles.append(current_job_title[i])
+                            if len(current_employer)>1:
+                                while (i<len(current_employer)):
+                                    text_data = text_data.replace(current_employer[i], '')
+                                    job_titles.append(current_employer[i])
                                     i = i+1
-                                    if current_job_title[i] in hjobs:
-                                        flag = 1
+                                    #if current_employer[i] in hjobs:
+                                    #    flag = 1
                             else:
-                                text_data = text_data.replace(current_job_title[0], '')
-                                job_titles.append(current_job_title[0])
-                                if current_job_title[i] in hjobs:
-                                    flag = 1
+                                text_data = text_data.replace(current_employer[0], '')
+                                job_titles.append(current_employer[0])
+                                #if current_employer[i] in hjobs:
+                                #    flag = 1
 
-                    if flag == 1:
+                    #if flag == 1:
                         f = open('/Users/divyakarthikeyan/Desktop/COURSES/Fall 2013/NLP/Project/testing/samples_text/' + '%s' %fname[:-4] +'_plaintext.txt', 'w')
                         f.write(text_data)
                         f.close()
-                        if current_job_title:
-                            #print fname[:-4] +'_plaintext.txt' + "\t" + int(numberjobs[current_job_title[0]]) + "\n"
-                            number = numberjobs[current_job_title[0]]
-                            labels.writelines(fname[:-4] +'_plaintext.txt' + "\t" + str(number) + "\n")
+                        if current_employer:
+                            labels.writelines(fname[:-4] +'_plaintext.txt' + "\t" + current_employer[0] + "\n")
 
             except:
                 pass
         print len(job_titles)
         print len(list(set(job_titles)))
 
-        #import collections
-        #counter = [(y,x) for x, y in collections.Counter(job_titles).items()]
-        #counter_sort = sorted(counter, reverse=True)
-        #print counter_sort[:20]
-        #hj = []
-        #for j in counter_sort[:20]:
-        #    hj.append(j[1])
-        #
-        #print hj
+        import collections
+        counter = [(y,x) for x, y in collections.Counter(job_titles).items()]
+        counter_sort = sorted(counter, reverse=True)
+        print counter_sort[:20]
+        hj = []
+        for j in counter_sort[:20]:
+            hj.append(j[1])
+
+        print hj
         return
 
 
