@@ -17,8 +17,9 @@ class ResumeCorpus():
         def stripxml(data):
             pattern = re.compile(r'<.*?>')
             return pattern.sub('', data)
-    
-        labels = open ('/Users/divyakarthikeyan/Desktop/COURSES/Fall 2013/NLP/Project/testing/labels.txt', 'w')
+
+        user_name = os.environ.get('USER')
+        labels = open ('/Users/' + user_name + '/Documents/Data/labels.txt', 'w')
         #labels_company = open ('labelscompany.txt', 'w')
 
         names = []
@@ -71,8 +72,10 @@ class ResumeCorpus():
                                 if current_job_title[i] in hjobs:
                                     flag = 1
 
+                    user_name = os.environ.get('USER')
+
                     if flag == 1:
-                        f = open('/Users/divyakarthikeyan/Desktop/COURSES/Fall 2013/NLP/Project/testing/samples_text/' + '%s' %fname[:-4] +'_plaintext.txt', 'w')
+                        f = open('/Users/' + user_name + '/Documents/Data/samples_text/' + '%s' %fname[:-4] +'_plaintext.txt', 'w')
                         f.write(text_data)
                         f.close()
                         if current_job_title:
@@ -98,4 +101,5 @@ class ResumeCorpus():
 
 
 if __name__ == "__main__":
-    traintest_corpus = ResumeCorpus('/Users/divyakarthikeyan/Desktop/COURSES/Fall 2013/NLP/Project/testing/samples') #4256
+    user_name = os.environ.get('USER')
+    traintest_corpus = ResumeCorpus('/Users/' + user_name + '/Documents/Data/samples') #4256
