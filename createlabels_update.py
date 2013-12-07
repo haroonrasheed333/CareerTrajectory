@@ -1,7 +1,6 @@
 from lxml import etree
 import os, re
 
-
 class ResumeCorpus():
     def __init__(self, source_dir):
         
@@ -23,8 +22,8 @@ class ResumeCorpus():
         names = []
         job_titles = []
 
-        hjobs = ['Consultant', 'Administrative Assistant', 'Manager', 'Director', 'Project Manager', 'Owner', 'Contractor', 'Vice President', 'Customer Service Representative', 'Research Assistant', 'Sales Associate', 'Office Manager', 'Software Engineer', 'Executive Assistant', 'Intern', 'Graduate Assistant', 'Business Analyst', 'Account Executive', 'Volunteer', 'Graphic Designer']
-
+        hjobs_50 = ['Director', 'Consultant', 'Administrative Assistant', 'Project Manager', 'Manager', 'Owner', 'Vice President', 'Sales Associate', 'Contractor', 'Graphic Designer', 'Customer Service Representative', 'Intern', 'Office Manager', 'Research Assistant', 'Executive Assistant', 'Cashier', 'Volunteer', 'President', 'Software Engineer', 'Business Analyst', 'Senior Software Engineer', 'Account Executive', 'Substitute Teacher', 'Assistant Manager', 'Supervisor', 'Receptionist', 'Program Manager', 'Graduate Assistant', 'Sales Representative', 'Graduate Research Assistant', 'Teaching Assistant', 'Principal', 'Marketing Manager', 'Office Assistant', 'Accountant', 'Account Manager', 'Instructor', 'Web Developer', 'Senior Manager', 'Business Development Manager', 'Associate', 'Medical Assistant', 'Marketing Consultant', 'Computer Technician', 'Senior Consultant', 'Bookkeeper', 'VP', 'Staff Accountant', 'Senior Project Manager', 'Senior Accountant']
+        hjobs = hjobs_50[:20]
         for fname in files:
             xml = etree.parse(source_dir + '/' + fname)
             current_employer = xml.xpath('//job[@end = "present"]/employer/text()')
@@ -77,15 +76,15 @@ class ResumeCorpus():
         print len(job_titles)
         print len(list(set(job_titles)))
 
-        import collections
-        counter = [(y,x) for x, y in collections.Counter(job_titles).items()]
-        counter_sort = sorted(counter, reverse=True)
-        print counter_sort[:20]
-        hj = []
-        for j in counter_sort[:20]:
-            hj.append(j[1])
-
-        print hj
+        #import collections
+        #counter = [(y,x) for x, y in collections.Counter(job_titles).items()]
+        #counter_sort = sorted(counter, reverse=True)
+        #print counter_sort[:20]
+        #hj = []
+        #for j in counter_sort[:20]:
+        #    hj.append(j[1])
+        #
+        #print hj
         return
 
 

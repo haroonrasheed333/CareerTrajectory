@@ -4,14 +4,23 @@ import random
 import string
 from nltk import FreqDist
 from nltk.corpus import stopwords as sw
+import progressbar
+
+
+def pbar(size):
+    bar = progressbar.ProgressBar(maxval=size,
+                                  widgets=[progressbar.Bar('=', '[', ']'),
+                                           ' ', progressbar.Percentage(),
+                                           ' ', progressbar.ETA(),
+                                           ' ', progressbar.Counter(),
+                                           '/%s' % size])
+    return bar
+
 punct = string.punctuation
-
-
-#!/usr/bin/python
 
 #punctuation = re.compile(r'[<>+&.?!\]\[,":;()\/\\|0-9]')
 punctuation = re.compile(r'[^A-Za-z0-9\' ]+')
-stopwords   = sw.words('english')
+stopwords = sw.words('english')
 lemma = nltk.WordNetLemmatizer()
 
 
@@ -69,27 +78,47 @@ def unigram_features(document, lemma_fd_list):
 
 
 if __name__ == "__main__":
-    traintest_corpus = ResumeCorpus('samples_text')
-    random.shuffle(traintest_corpus.resumes)
-    train_resumes=traintest_corpus.resumes[0:250]
-    words = []
-    for resume in train_resumes:
-        words = words + resume[0].split() 
-    fd = FreqDist(words)
-    fd_words = [word for word in fd.keys()[:100] if word not in stopwords and word not in punct]
-    test_resumes=traintest_corpus.resumes[251:]
-    train_featureset  = feature_consolidation(train_resumes, fd_words, True)
-    review_classifier = trainClassifier(train_featureset)  
-    outputfile = open ('classifier_output.txt','w')
-    for document in test_resumes:
-        resume_features = feature_consolidation(document[0], fd_words)
-        (text,tag,fileName) = document
-        classifier_output = review_classifier.classify(resume_features)
-        outputfile.write('%s' %fileName + '\t' + '%s' %str(tag) + '%s' %classifier_output + '\n')
-    
-    
-    #outputfile.close()
-    test_featureset  = feature_consolidation(test_resumes, fd_words, True)
-    print nltk.classify.accuracy(review_classifier, test_featureset)
-    review_classifier.show_most_informative_features(50)
+    user_name = os.environ.get('USER')
+    traintest_corpus = ResumeCorpus('/Users/' + user_name + '/Documents/Data/samples_text')
+
+    kfold = 10
+    i, bar = 0, pbar(10)
+    bar.start()
+    partition_size = int(len(traintest_corpus.resumes) / kfold)
+
+    accuracies = []
+    while i < kfold:
+        train_resumes = traintest_corpus.resumes[0:i*partition_size] + traintest_corpus.resumes[(i+1)*partition_size:]
+        test_resumes = traintest_corpus.resumes[i*partition_size:(i+1)*partition_size]
+
+        #random.shuffle(traintest_corpus.resumes)
+        #train_resumes=traintest_corpus.resumes[0:1200]
+
+        words = []
+        for resume in train_resumes:
+            words = words + resume[0].split()
+        fd = FreqDist(words)
+        fd_words = [word for word in fd.keys()[:200] if word not in stopwords and word not in punct]
+
+        #test_resumes=traintest_corpus.resumes[1201:]
+        train_featureset  = feature_consolidation(train_resumes, fd_words, True)
+        review_classifier = trainClassifier(train_featureset)
+
+        #outputfile = open ('classifier_output.txt','w')
+        #for document in test_resumes:
+        #    resume_features = feature_consolidation(document[0], fd_words)
+        #    (text,tag,fileName) = document
+        #    classifier_output = review_classifier.classify(resume_features)
+        #    outputfile.write('%s' %fileName + '\t' + '%s' %str(tag) + '%s' %classifier_output + '\n')
+
+
+        #outputfile.close()
+        test_featureset  = feature_consolidation(test_resumes, fd_words, True)
+        accuracies.append(nltk.classify.accuracy(review_classifier, test_featureset))
+        #review_classifier.show_most_informative_features(50)
+        i += 1
+        bar.update(i)
+
+    bar.finish()
+    print sum(accuracies) / len(accuracies)
 
