@@ -1,5 +1,18 @@
 from lxml import etree
 import os, re
+import nltk
+import progressbar
+
+
+def pbar(size):
+    bar = progressbar.ProgressBar(maxval=size,
+                                  widgets=[progressbar.Bar('=', '[', ']'),
+                                           ' ', progressbar.Percentage(),
+                                           ' ', progressbar.ETA(),
+                                           ' ', progressbar.Counter(),
+                                           '/%s' % size])
+    return bar
+
 
 class ResumeCorpus():
     def __init__(self, source_dir):
@@ -20,6 +33,7 @@ class ResumeCorpus():
 
         user_name = os.environ.get('USER')
         labels = open ('/Users/' + user_name + '/Documents/Data/labels.txt', 'w')
+        skill_file = open('skills.txt', 'w')
         #labels_company = open ('labelscompany.txt', 'w')
 
         names = []
@@ -30,7 +44,12 @@ class ResumeCorpus():
         numberjobs = {}
         for i in range(0,len(hjobs)-1):
             numberjobs[hjobs[i]] = i+1
-        print numberjobs
+        #print numberjobs
+
+        skills = []
+
+        j, bar = 0, pbar(len(files))
+        bar.start()
 
         for fname in files:
             xml = etree.parse(source_dir + '/' + fname)
@@ -38,6 +57,7 @@ class ResumeCorpus():
             current_job_title = xml.xpath('//job[@end = "present"]/title/text()')
             current_job = xml.xpath('//job[@end = "present"]')
             contact = xml.xpath('//contact')
+            skill_list = xml.xpath('//skills/text()')
             try:
                 name = xml.xpath('//givenname/text()')[0] + ' ' + xml.xpath('//surname/text()')[0]
                 if name not in names:
@@ -75,6 +95,21 @@ class ResumeCorpus():
                     user_name = os.environ.get('USER')
 
                     if flag == 1:
+                        if skill_list:
+                            for skill in skill_list:
+                                skill = skill.replace(',', ' ')
+                                skill = skill.replace(':', '')
+                                skill = skill.replace('(', '')
+                                skill = skill.replace(')', '')
+                                skill = skill.replace(';', '')
+                                skill = skill.replace('/', ' ')
+                                words = nltk.word_tokenize(skill)
+
+                                skill_words = [word.lower() for (word, tag) in nltk.pos_tag(words) if tag == 'NNP']
+                                skill_words = list(set(skill_words))
+                                skills += skill_words
+
+
                         f = open('/Users/' + user_name + '/Documents/Data/samples_text/' + '%s' %fname[:-4] +'_plaintext.txt', 'w')
                         f.write(text_data)
                         f.close()
@@ -82,11 +117,18 @@ class ResumeCorpus():
                             #print fname[:-4] +'_plaintext.txt' + "\t" + int(numberjobs[current_job_title[0]]) + "\n"
                             number = numberjobs[current_job_title[0]]
                             labels.writelines(fname[:-4] +'_plaintext.txt' + "\t" + str(number) + "\n")
-
             except:
                 pass
+
+            j += 1
+            bar.update(j)
+        bar.finish()
+        skills = list(set(skills))
+        skills_text = ' '.join(skills)
+        skill_file.write(skills_text.encode('utf-8'))
         print len(job_titles)
         print len(list(set(job_titles)))
+        print len(skills)
 
         #import collections
         #counter = [(y,x) for x, y in collections.Counter(job_titles).items()]
