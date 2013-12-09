@@ -9,7 +9,7 @@ from nltk import FreqDist
 from nltk.collocations import  BigramCollocationFinder, TrigramCollocationFinder
 from nltk.metrics import       BigramAssocMeasures,     TrigramAssocMeasures
 import itertools
-import nltk.classify.svm
+#import nltk.classify.svm
 import scipy.sparse
 import numpy
 from nltk.corpus import stopwords as sw
