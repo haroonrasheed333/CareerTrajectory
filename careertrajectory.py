@@ -95,7 +95,7 @@ def extract_top_skills(training_data):
     for skill in skills_dict:
         skill_list = skills_dict[skill]
         skill_count = Counter(skill_list)
-        top_job_skills = sorted(skill_count, key=skill_count.get, reverse=True)[:50]
+        top_job_skills = sorted(skill_count, key=skill_count.get, reverse=True)[:20]
         skill_features += top_job_skills
 
     top_job_skills = list(set(skill_features))
