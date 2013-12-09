@@ -3,9 +3,15 @@ import os, re
 import nltk
 import progressbar
 import json
+import shutil
+import random
+user_name = os.environ.get('USER')
 
 
 def pbar(size):
+    """
+
+    """
     bar = progressbar.ProgressBar(maxval=size,
                                   widgets=[progressbar.Bar('=', '[', ']'),
                                            ' ', progressbar.Percentage(),
@@ -15,54 +21,92 @@ def pbar(size):
     return bar
 
 
+def split_data(labels_list):
+    """
+    Function to split the dataset into training and heldout datasets
+
+    Args:
+        labels_list -- list of tuples with filename and tag information for each resume
+    """
+    source_dir = '/Users/' + user_name + '/Documents/Data/samples_text'
+    training_dir = '/Users/' + user_name + '/Documents/Data/training'
+    heldout_dir = '/Users/' + user_name + '/Documents/Data/heldout'
+
+    random.shuffle(labels_list)
+
+    num_files = len(labels_list)
+
+    training_files = labels_list[:int(num_files*0.8)]
+    heldout_files = labels_list[int(num_files*0.8) + 1:]
+
+    labels = open('/Users/' + user_name + '/Documents/Data/labels.txt', 'w')
+    labels_heldout = open('/Users/' + user_name + '/Documents/Data/labels_heldout.txt', 'w')
+
+    for (filename, tag) in training_files:
+        shutil.copy2(source_dir + '/' + filename, training_dir)
+        labels.writelines(filename + "\t" + tag + "\n")
+
+    for (filename, tag) in heldout_files:
+        shutil.copy2(source_dir + '/' + filename, heldout_dir)
+        labels_heldout.writelines(filename + "\t" + tag + "\n")
+
+    labels.close()
+    labels_heldout.close()
+
+
 class ResumeCorpus():
+    """
+
+    Args:
+
+    """
     def __init__(self, source_dir):
-        
+        """
+
+        """
         self.source_dir = source_dir
-        self.files = self.getFiles(self.source_dir)
-        self.readFiles(self.files, self.source_dir)
+        self.files = self.get_files()
+        self.read_files()
         
-    def getFiles(self, source_dir):
-        files = [ f for (dirpath, dirnames, filenames) in os.walk(source_dir) for f in filenames if f[-4:] == '.txt' ]
+    def get_files(self):
+        """
+
+        """
+        files = [ f for (dirpath, dirnames, filenames) in os.walk(self.source_dir) for f in filenames if f[-4:] == '.txt' ]
         return files
    
-    def readFiles(self, files, source_dir):
+    def read_files(self):
+        """
+
+        """
              
         def stripxml(data):
+            """
+
+            Args:
+
+            """
             pattern = re.compile(r'<.*?>')
             return pattern.sub('', data)
-
-        user_name = os.environ.get('USER')
-        labels = open ('/Users/' + user_name + '/Documents/Data/labels.txt', 'w')
-        skill_file = open('skills.txt', 'w')
-        #labels_company = open ('labelscompany.txt', 'w')
 
         names = []
         job_titles = []
 
         hjobs50 = ['Director', 'Consultant', 'Administrative Assistant', 'Project Manager', 'Manager', 'Owner', 'Vice President', 'Sales Associate', 'Contractor', 'Graphic Designer', 'Customer Service Representative', 'Intern', 'Office Manager', 'Research Assistant', 'Executive Assistant', 'Cashier', 'Volunteer', 'President', 'Software Engineer', 'Business Analyst', 'Senior Software Engineer', 'Account Executive', 'Substitute Teacher', 'Assistant Manager', 'Supervisor', 'Receptionist', 'Program Manager', 'Graduate Assistant', 'Sales Representative', 'Graduate Research Assistant', 'Teaching Assistant', 'Principal', 'Marketing Manager', 'Office Assistant', 'Accountant', 'Account Manager', 'Instructor', 'Web Developer', 'Senior Manager', 'Business Development Manager', 'Associate', 'Medical Assistant', 'Marketing Consultant', 'Computer Technician', 'Senior Consultant', 'Bookkeeper', 'VP', 'Staff Accountant', 'Senior Project Manager', 'Senior Accountant']
-        hjobs = ['Director', 'Consultant', 'Project Manager', 'Owner', 'Vice President', 'Sales Associate', 'Graphic Designer', 'Customer Service Representative', 'Software Engineer', 'Business Analyst', 'Senior Software Engineer', 'Account Executive', 'Assistant Manager', 'Supervisor', 'Receptionist', 'Program Manager']
-        #hjobs = hjobs50[:20]
+        hjobs = hjobs50[:20]
         numberjobs = {}
         for i in range(0,len(hjobs)-1):
             numberjobs[hjobs[i]] = i+1
-        #print numberjobs
 
-        skills = dict()
-
-        for job in hjobs:
-            skills[job] = []
-
-        j, bar = 0, pbar(len(files))
+        j, bar = 0, pbar(len(self.files))
         bar.start()
+        labels_list = []
 
-        for fname in files:
-            xml = etree.parse(source_dir + '/' + fname)
-            current_employer = xml.xpath('//job[@end = "present"]/employer/text()')
+        for fname in self.files:
+            xml = etree.parse(self.source_dir + '/' + fname)
             current_job_title = xml.xpath('//job[@end = "present"]/title/text()')
             current_job = xml.xpath('//job[@end = "present"]')
             contact = xml.xpath('//contact')
-            skill_list = xml.xpath('//skills/text()')
             job_title = ''
             try:
                 name = xml.xpath('//givenname/text()')[0] + ' ' + xml.xpath('//surname/text()')[0]
@@ -75,11 +119,11 @@ class ResumeCorpus():
                         flag = 0
                         if current_job_title:
                             i = 0
-                            if len(current_job_title)>1:
-                                while (i<len(current_job_title)):
+                            if len(current_job_title) > 1:
+                                while i < len(current_job_title):
                                     text_data = text_data.replace(current_job_title[i], '')
                                     job_titles.append(current_job_title[i])
-                                    i = i+1
+                                    i += 1
                                     if current_job_title[i] in hjobs:
                                         job_title = current_job_title[i]
                                         flag = 1
@@ -90,49 +134,27 @@ class ResumeCorpus():
                                     job_title = current_job_title[i]
                                     flag = 1
 
-                    user_name = os.environ.get('USER')
-
                     if flag == 1:
-                        if len(current_job)>1:
-                            while (i<len(current_job)):
+                        if len(current_job) > 1:
+                            while i < len(current_job):
                                 current_job[i].getparent().remove(current_job[i])
-                                i = i+1
+                                i += 1
                         else:
                             current_job[0].getparent().remove(current_job[0])
 
                         if contact:
                             contact[0].getparent().remove(contact[0])
 
-                        if skill_list:
-                            slist = []
-                            for skill in skill_list:
-                                skill = skill.replace(',', ' ')
-                                skill = skill.replace(':', '')
-                                skill = skill.replace('(', '')
-                                skill = skill.replace(')', '')
-                                skill = skill.replace(';', '')
-                                skill = skill.replace('/', ' ')
-                                words = nltk.word_tokenize(skill)
-
-                                skill_words = [word.lower() for (word, tag) in nltk.pos_tag(words) if tag == 'NNP']
-                                skill_words = list(set(skill_words))
-                                slist += skill_words
-
-                            skills[job_title].append(slist)
-
                         number = numberjobs[current_job_title[0]]
-                        #directory = '/Users/' + user_name + '/Documents/Data/samples_text_1208/' + str(number)
-                        #if not os.path.exists(directory):
-                        #    os.makedirs(directory)
+                        directory = '/Users/' + user_name + '/Documents/Data/samples_text/' + str(number)
 
-                        #f = open(directory + '/' + '%s' %fname[:-4] +'_plaintext.txt', 'w')
-                        directory = '/Users/' + user_name + '/Documents/Data/samples_text_1208/'
-                        f = open(directory + '%s' %fname[:-4] +'_plaintext.txt', 'w')
-                        f.write(text_data)
-                        f.close()
                         if current_job_title:
-                            number = numberjobs[current_job_title[0]]
-                            labels.writelines(fname[:-4] + '_plaintext.txt' + "\t" + str(number) + "\n")
+                            directory = '/Users/' + user_name + '/Documents/Data/samples_text/'
+                            f = open(directory + '%s' %fname[:-4] +'_plaintext.txt', 'w')
+                            f.write(text_data)
+                            f.close()
+
+                            labels_list.append((fname[:-4] + '_plaintext.txt', current_job_title[0].replace('\n', '')))
             except:
                 pass
 
@@ -140,18 +162,10 @@ class ResumeCorpus():
             bar.update(j)
         bar.finish()
 
-        skills_json = json.dumps(skills, indent=4)
-        filename = 'skills.json'
-        sf = open(filename, 'w')
-        print >> sf, skills_json
-        sf.close()
-
-        print len(job_titles)
-        print len(list(set(job_titles)))
+        split_data(labels_list)
 
         return
 
-
 if __name__ == "__main__":
-    user_name = os.environ.get('USER')
     traintest_corpus = ResumeCorpus('/Users/' + user_name + '/Documents/Data/samples')
+
