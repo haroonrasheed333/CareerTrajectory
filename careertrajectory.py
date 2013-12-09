@@ -9,7 +9,7 @@ from nltk import FreqDist
 from nltk.collocations import  BigramCollocationFinder, TrigramCollocationFinder
 from nltk.metrics import       BigramAssocMeasures,     TrigramAssocMeasures
 import itertools
-#import nltk.classify.svm
+import nltk.classify.svm
 import scipy.sparse
 import numpy
 from nltk.corpus import stopwords as sw
@@ -50,7 +50,7 @@ porter = nltk.PorterStemmer()
 
 
 class ResumeCorpus():
-    def __init__(self, source_dir):
+    def __init__(self, source_dir, labels_file=None):
         """
         init with path do the directory with the .txt files
         """
@@ -58,7 +58,10 @@ class ResumeCorpus():
         self.source_dir = source_dir
         #self.files = self.getFiles(self.source_dir)
         user_name = os.environ.get('USER')
-        self.labels_file = '/Users/' + user_name + '/Documents/Data/labels.txt'
+        if not labels_file:
+            self.labels_file = '/Users/' + user_name + '/Documents/Data/labels.txt'
+        else:
+            self.labels_file = labels_file
         self.resumes = self.readFiles(self.labels_file, self.source_dir)
         
     def getFiles(self, source_dir):
@@ -81,6 +84,11 @@ class ResumeCorpus():
 
 def trainClassifier(training_featureset):
     revSent_classifier = nltk.NaiveBayesClassifier.train(training_featureset)
+    #remove stop words
+    return revSent_classifier
+
+def trainSVMClassifier(training_featureset):
+    revSent_classifier = nltk.SvmClassifier.train(training_featureset)
     #remove stop words
     return revSent_classifier
 
@@ -114,7 +122,7 @@ def unigram_features(document, lemma_words_list):
 
 if __name__ == "__main__":
     user_name = os.environ.get('USER')
-    traintest_corpus = ResumeCorpus('/Users/' + user_name + '/Documents/Data/samples_text_1208')
+    traintest_corpus = ResumeCorpus('/Users/' + user_name + '/Documents/Data/samples_text')
     random.shuffle(traintest_corpus.resumes)
     train_resumes = traintest_corpus.resumes[0:1500]
     test_resumes = traintest_corpus.resumes[1501:]
@@ -140,3 +148,8 @@ if __name__ == "__main__":
     #review_classifier.show_most_informative_features(50)
 
     print accuracy
+
+    review_svm_classifier = trainSVMClassifier(train_featureset)
+    accuracy_svm = nltk.classify.accuracy(review_svm_classifier, test_featureset)
+
+    print accuracy_svm
