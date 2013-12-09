@@ -14,6 +14,19 @@ import scipy.sparse
 import numpy
 from nltk.corpus import stopwords as sw
 import progressbar
+import json
+
+with open('skills_new.json') as data:
+    skills_json = json.load(data)
+
+skill_features = []
+for skill in skills_json:
+    skill_list = skills_json[skill]
+    skill_count = Counter(skill_list)
+    top_skills = sorted(skill_count, key=skill_count.get, reverse=True)[:40]
+    skill_features += top_skills
+
+top_skills = list(set(skill_features))
 
 
 def pbar(size):
@@ -45,7 +58,7 @@ class ResumeCorpus():
         self.source_dir = source_dir
         #self.files = self.getFiles(self.source_dir)
         user_name = os.environ.get('USER')
-        self.labels_file = '/Users/' + user_name + '/Desktop/COURSES/Fall 2013/NLP/Project/testing/labels.txt'
+        self.labels_file = '/Users/' + user_name + '/Documents/Data/labels.txt'
         self.resumes = self.readFiles(self.labels_file, self.source_dir)
         
     def getFiles(self, source_dir):
@@ -57,6 +70,7 @@ class ResumeCorpus():
         for line in open(file).readlines():
             try:
                 ftag = line.split('\t')
+                #filename = ftag[1].rstrip() + '/' + ftag[0]
                 filename = ftag[0]
                 tag = ftag[1]
                 resumes.append((open(source_dir + '/' + filename).read(),tag,filename))
@@ -81,8 +95,6 @@ def feature_consolidation(documents, fd_words, addTrueScore=False):
     
 
 def unigram_features(document, lemma_words_list):
-    #print type(document)
-    global unique_words
     docu=re.sub('[^A-Za-z\' ]+', '', str(document))
     tokens = nltk.word_tokenize(docu)
     features = {}
@@ -101,39 +113,30 @@ def unigram_features(document, lemma_words_list):
 
 
 if __name__ == "__main__":
-    global text_collection
-    global unique_words
     user_name = os.environ.get('USER')
-    traintest_corpus = ResumeCorpus('/Users/' + user_name + '/Desktop/COURSES/Fall 2013/NLP/Project/testing/samples_text')
-    kfold = 10
-    i, bar = 0, pbar(10)
-    bar.start()
-    partition_size = int(len(traintest_corpus.resumes) / kfold)
+    traintest_corpus = ResumeCorpus('/Users/' + user_name + '/Documents/Data/samples_text_1208')
+    random.shuffle(traintest_corpus.resumes)
+    train_resumes = traintest_corpus.resumes[0:1500]
+    test_resumes = traintest_corpus.resumes[1501:]
+    words = []
+    for resume in train_resumes:
+        words = words + resume[0].split()
+    fd = FreqDist(words)
+    fd_words = [ porter.stem(word) for word in fd.keys()[:200] if word not in stopwords ]
+    fd_words = list(set(fd_words + top_skills))
+    train_featureset  = feature_consolidation(train_resumes, fd_words, True)
+    review_classifier = trainClassifier(train_featureset)
+    outputfile = open ('classifier_output.txt','w')
+    for document in test_resumes:
+        resume_features = feature_consolidation(document[0], fd_words)
+        (text,tag,fileName) = document
+        classifier_output = review_classifier.classify(resume_features)
+        outputfile.write('%s' %fileName + '\t' + '%s' %str(tag) + '%s' %classifier_output + '\n')
 
-    accuracies = []
-    while i < kfold:
-        train_resumes = traintest_corpus.resumes[0:i*partition_size] + traintest_corpus.resumes[(i+1)*partition_size:]
-        test_resumes = traintest_corpus.resumes[i*partition_size:(i+1)*partition_size]
-        words = []
-        for resume in train_resumes:
-            words = words + resume[0].split()
-        fd = FreqDist(words)
-        fd_words = [ porter.stem(word) for word in fd.keys()[:150] if word not in stopwords ]
-        train_featureset  = feature_consolidation(train_resumes, fd_words, True)
-        review_classifier = trainClassifier(train_featureset)
-        outputfile = open ('classifier_output.txt','w')
-        for document in test_resumes:
-            resume_features = feature_consolidation(document[0], fd_words)
-            (text,tag,fileName) = document
-            classifier_output = review_classifier.classify(resume_features)
-            outputfile.write('%s' %fileName + '\t' + '%s' %str(tag) + '%s' %classifier_output + '\n')
 
-    
-        #outputfile.close()
-        test_featureset  = feature_consolidation(test_resumes,fd_words, True)
-        accuracies.append(nltk.classify.accuracy(review_classifier, test_featureset))
-        review_classifier.show_most_informative_features(50)
-        i += 1
-        bar.update(i)
-    bar.finish()
-    print sum(accuracies) / len(accuracies)
+    outputfile.close()
+    test_featureset  = feature_consolidation(test_resumes,fd_words, True)
+    accuracy = nltk.classify.accuracy(review_classifier, test_featureset)
+    #review_classifier.show_most_informative_features(50)
+
+    print accuracy

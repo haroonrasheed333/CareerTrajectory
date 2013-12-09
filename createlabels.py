@@ -62,4 +62,4 @@ class ResumeCorpus():
 
 
 if __name__ == "__main__":
-    traintest_corpus = ResumeCorpus('samples') #4256
+    traintest_corpus = ResumeCorpus('samples')

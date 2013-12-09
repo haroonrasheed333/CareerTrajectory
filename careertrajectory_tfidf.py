@@ -45,7 +45,7 @@ class ResumeCorpus():
         self.source_dir = source_dir
         #self.files = self.getFiles(self.source_dir)
         user_name = os.environ.get('USER')
-        self.labels_file = '/Users/' + user_name + '/Desktop/COURSES/Fall 2013/NLP/Project/testing/labels.txt'
+        self.labels_file = '/Users/' + user_name + '/Documents/Data/labels.txt'
         self.resumes = self.readFiles(self.labels_file, self.source_dir)
         
     def getFiles(self, source_dir):
@@ -57,7 +57,7 @@ class ResumeCorpus():
         for line in open(file).readlines():
             try:
                 ftag = line.split('\t')
-                filename = ftag[0]
+                filename = ftag[1].rstrip() + '/' + ftag[0]
                 tag = ftag[1]
                 resumes.append((open(source_dir + '/' + filename).read(),tag,filename))
             except:
@@ -131,7 +131,7 @@ if __name__ == "__main__":
     global text_collection
     global unique_words
     user_name = os.environ.get('USER')
-    traintest_corpus = ResumeCorpus('/Users/' + user_name + '/Desktop/COURSES/Fall 2013/NLP/Project/testing/samples_text')
+    traintest_corpus = ResumeCorpus('/Users/' + user_name + '/Documents/Data/samples_text_1208')
     kfold = 10
     i, bar = 0, pbar(10)
     bar.start()

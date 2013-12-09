@@ -10,6 +10,7 @@ from sklearn.feature_extraction.text import TfidfTransformer
 from sklearn.naive_bayes import MultinomialNB 
 from sklearn.metrics import precision_score, recall_score, classification_report 
 from careertrajectory import ResumeCorpus
+import os
   
   
 st = PorterStemmer() 
@@ -28,7 +29,8 @@ def PreProcessing(line):
   
   
 def prepareData():
-    traintest_corpus = ResumeCorpus('/Users/divyakarthikeyan/Desktop/COURSES/Fall 2013/NLP/Project/testing/samples_text')
+    user_name = os.environ.get('USER')
+    traintest_corpus = ResumeCorpus('/Users/' + user_name + '/Documents/Data/samples_text_1208')
     for resume in traintest_corpus.resumes:
         try:
             review_text = PreProcessing(resume[0])
