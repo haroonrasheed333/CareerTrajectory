@@ -1,0 +1,54 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Bookkeepers Certification", 
+            "Type": "Core", 
+            "Certification ID": "9398", 
+            "Certifying Organization": "National Bookkeepers Association"
+        }, 
+        {
+            "Acronym": "NCICS", 
+            "Certification Name": "Nationally Certified Insurance and Coding Specialist", 
+            "Type": "Core", 
+            "Certification ID": "6290", 
+            "Certifying Organization": "National Center for Competency Testing"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "QuickBooks Certification", 
+            "Type": "Core", 
+            "Certification ID": "9400", 
+            "Certifying Organization": "National Bookkeepers Association"
+        }, 
+        {
+            "Acronym": "CTE", 
+            "Certification Name": "Certified Trust Examiner", 
+            "Type": "Advanced", 
+            "Certification ID": "8802", 
+            "Certifying Organization": "Conference of State Bank Supervisors"
+        }, 
+        {
+            "Acronym": "CCA", 
+            "Certification Name": "Certified Coding Associate", 
+            "Type": "Core", 
+            "Certification ID": "3914", 
+            "Certifying Organization": "American Health Information Management Association"
+        }, 
+        {
+            "Acronym": "CBCS", 
+            "Certification Name": "Certified Billing and Coding Specialist", 
+            "Type": "Core", 
+            "Certification ID": "3783", 
+            "Certifying Organization": "National Healthcareer Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Medical Administrative Specialist", 
+            "Type": "Core", 
+            "Certification ID": "3919", 
+            "Certifying Organization": "American Medical Technologists"
+        }
+    ], 
+    "onet": "43302100"
+}

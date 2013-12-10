@@ -1,0 +1,68 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification of Radiation Oncology", 
+            "Type": "Specialty", 
+            "Certification ID": "6367", 
+            "Certifying Organization": "American Osteopathic College of Radiology"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Diplomate", 
+            "Type": "Advanced", 
+            "Certification ID": "8842", 
+            "Certifying Organization": "National Board of Medical Examiners"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Nuclear Medicine Certificaiton", 
+            "Type": "Core", 
+            "Certification ID": "3890", 
+            "Certifying Organization": "American Board of Nuclear Medicine"
+        }, 
+        {
+            "Acronym": "CoAP", 
+            "Certification Name": "Cardiac CT Certificate of Advanced Proficiency", 
+            "Type": "Specialty", 
+            "Certification ID": "9491", 
+            "Certifying Organization": "American College of Radiology"
+        }, 
+        {
+            "Acronym": "CPE", 
+            "Certification Name": "Certified Physician Executive", 
+            "Type": "Specialty", 
+            "Certification ID": "9526", 
+            "Certifying Organization": "Certifying Commission in Medical Management"
+        }, 
+        {
+            "Acronym": "CPHQ", 
+            "Certification Name": "Certified Professional in Healthcare Quality", 
+            "Type": "Core", 
+            "Certification ID": "9207", 
+            "Certifying Organization": "National Association for Healthcare Quality"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification in Nuclear Medicine", 
+            "Type": "Core", 
+            "Certification ID": "2552", 
+            "Certifying Organization": "American Osteopathic Board of Nuclear Medicine"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification in Internal Medicine/Nuclear Medicine", 
+            "Type": "Core", 
+            "Certification ID": "6425", 
+            "Certifying Organization": "American Board of Internal Medicine"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Radiation Oncology", 
+            "Type": "Core", 
+            "Certification ID": "6521", 
+            "Certifying Organization": "American Board of Physician Specialties"
+        }
+    ], 
+    "onet": "29106905"
+}

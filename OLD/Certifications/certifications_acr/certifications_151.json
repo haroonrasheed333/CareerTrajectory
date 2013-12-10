@@ -1,0 +1,40 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CPAg", 
+            "Certification Name": "Certified Professional Agronomist", 
+            "Type": "Core", 
+            "Certification ID": "1964", 
+            "Certifying Organization": "American Society of Agronomy - ARCPACS"
+        }, 
+        {
+            "Acronym": "CRE", 
+            "Certification Name": "Certified Reliability Engineer", 
+            "Type": "Advanced", 
+            "Certification ID": "0792", 
+            "Certifying Organization": "American Society for Quality"
+        }, 
+        {
+            "Acronym": "AAC", 
+            "Certification Name": "Accredited Agricultural Consultant", 
+            "Type": "Advanced", 
+            "Certification ID": "0449", 
+            "Certifying Organization": "American Society of Farm Managers and Rural Appraisers"
+        }, 
+        {
+            "Acronym": "CID", 
+            "Certification Name": "Certified Irrigation Designer", 
+            "Type": "Advanced", 
+            "Certification ID": "1459", 
+            "Certifying Organization": "Irrigation Association"
+        }, 
+        {
+            "Acronym": "CCA", 
+            "Certification Name": "Certified Crop Advisor", 
+            "Type": "Core", 
+            "Certification ID": "1963", 
+            "Certifying Organization": "American Society of Agronomy - ARCPACS"
+        }
+    ], 
+    "onet": "17202100"
+}

@@ -1,0 +1,82 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CIFI", 
+            "Certification Name": "Certified Insurance Fraud Investigator", 
+            "Type": "Advanced", 
+            "Certification ID": "7668", 
+            "Certifying Organization": "International Association of Special Investigation Units"
+        }, 
+        {
+            "Acronym": "C-CISO", 
+            "Certification Name": "EC Council Certified Chief Information Security Officer", 
+            "Type": "Advanced", 
+            "Certification ID": "6341", 
+            "Certifying Organization": "EC-Council"
+        }, 
+        {
+            "Acronym": "CCCS", 
+            "Certification Name": "Certified Anti-Money Laundering Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "8806", 
+            "Certifying Organization": "Conference of State Bank Supervisors"
+        }, 
+        {
+            "Acronym": "CFI", 
+            "Certification Name": "Certified Forensic Interviewer", 
+            "Type": "Core", 
+            "Certification ID": "9009", 
+            "Certifying Organization": "International Association of Interviewers"
+        }, 
+        {
+            "Acronym": "CFE", 
+            "Certification Name": "Certified Fraud Examiner", 
+            "Type": "Core", 
+            "Certification ID": "1245", 
+            "Certifying Organization": "Association of Certified Fraud Examiners"
+        }, 
+        {
+            "Acronym": "AMLP", 
+            "Certification Name": "Anti-Money Laundering Professional Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "6208", 
+            "Certifying Organization": "BAI Center for Certification"
+        }, 
+        {
+            "Acronym": "SSCP", 
+            "Certification Name": "Systems Security Certified Practitioner", 
+            "Type": "Core", 
+            "Certification ID": "1921", 
+            "Certifying Organization": "International Information Systems Security Certification Consortium, Inc."
+        }, 
+        {
+            "Acronym": "CPP", 
+            "Certification Name": "Certified Protection Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "1477", 
+            "Certifying Organization": "ASIS"
+        }, 
+        {
+            "Acronym": "CU-SFE", 
+            "Certification Name": "Credit Union Security & Fraud Expert", 
+            "Type": "Advanced", 
+            "Certification ID": "9236", 
+            "Certifying Organization": "Credit Union National Association"
+        }, 
+        {
+            "Acronym": "CIIO", 
+            "Certification Name": "Certified Internal Investigation Officer", 
+            "Type": "Advanced", 
+            "Certification ID": "7677", 
+            "Certifying Organization": "Center for Security and Emergency Management"
+        }, 
+        {
+            "Acronym": "AHCFI", 
+            "Certification Name": "Accredited Health Care Fraud Investigator", 
+            "Type": "Specialty", 
+            "Certification ID": "6870", 
+            "Certifying Organization": "National Health Care Anti-Fraud Association"
+        }
+    ], 
+    "onet": "13209904"
+}

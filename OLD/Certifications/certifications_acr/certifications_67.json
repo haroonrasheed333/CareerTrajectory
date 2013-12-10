@@ -1,0 +1,110 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CCT", 
+            "Certification Name": "Certified Compliance Technician", 
+            "Type": "Core", 
+            "Certification ID": "9237", 
+            "Certifying Organization": "American Association of Healthcare Administrative Management"
+        }, 
+        {
+            "Acronym": "CCCS", 
+            "Certification Name": "Certified Consumer Compliance Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "8805", 
+            "Certifying Organization": "Conference of State Bank Supervisors"
+        }, 
+        {
+            "Acronym": "CIPP", 
+            "Certification Name": "The Certified Information Privacy Professional", 
+            "Type": "Core", 
+            "Certification ID": "6336", 
+            "Certifying Organization": "International Association of Privacy Professionals"
+        }, 
+        {
+            "Acronym": "CPSI", 
+            "Certification Name": "Certified Playground Safety Inspector", 
+            "Type": "Specialty", 
+            "Certification ID": "3132", 
+            "Certifying Organization": "National Recreation and Park Association"
+        }, 
+        {
+            "Acronym": "ARC", 
+            "Certification Name": "Associate in Regulation and Compliance", 
+            "Type": "Core", 
+            "Certification ID": "3110", 
+            "Certifying Organization": "The Institutes"
+        }, 
+        {
+            "Acronym": "CEA", 
+            "Certification Name": "Certified Energy Auditor", 
+            "Type": "Advanced", 
+            "Certification ID": "5505", 
+            "Certifying Organization": "Association of Energy Engineers"
+        }, 
+        {
+            "Acronym": "CRM", 
+            "Certification Name": "Certified Carbon Reduction Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "6083", 
+            "Certifying Organization": "Association of Energy Engineers"
+        }, 
+        {
+            "Acronym": "WSO-CGEO", 
+            "Certification Name": "WSO - Certified Governmental Environmental Officer", 
+            "Type": "Advanced", 
+            "Certification ID": "1003", 
+            "Certifying Organization": "World Safety Organization"
+        }, 
+        {
+            "Acronym": "CCE", 
+            "Certification Name": "Certified Credit Examiner", 
+            "Type": "Core", 
+            "Certification ID": "8794", 
+            "Certifying Organization": "Conference of State Bank Supervisors"
+        }, 
+        {
+            "Acronym": "CFCP", 
+            "Certification Name": "Certified FISMA Compliance Practitioner", 
+            "Type": "Core", 
+            "Certification ID": "6330", 
+            "Certifying Organization": "Federal Information Security Management Act Center"
+        }, 
+        {
+            "Acronym": "CIPP/G", 
+            "Certification Name": "The Certified Information Privacy Professional/Government", 
+            "Type": "Core", 
+            "Certification ID": "6337", 
+            "Certifying Organization": "International Association of Privacy Professionals"
+        }, 
+        {
+            "Acronym": "CHBME", 
+            "Certification Name": "Certified Healthcare Billing and Management Executive", 
+            "Type": "Core", 
+            "Certification ID": "9528", 
+            "Certifying Organization": "Healthcare Billing & Management Association"
+        }, 
+        {
+            "Acronym": "WSO-CGSO", 
+            "Certification Name": "WSO - Certified Governmental Safety Officer", 
+            "Type": "Advanced", 
+            "Certification ID": "1000", 
+            "Certifying Organization": "World Safety Organization"
+        }, 
+        {
+            "Acronym": "WSO-CGES", 
+            "Certification Name": "WSO - Certified Governmental Environmental Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "1004", 
+            "Certifying Organization": "World Safety Organization"
+        }, 
+        {
+            "Acronym": "AIRC", 
+            "Certification Name": "Associate, Insurance Regulatory Compliance", 
+            "Type": "Core", 
+            "Certification ID": "8225", 
+            "Certifying Organization": "LOMA"
+        }
+    ], 
+    "onet": "13104100"
+}

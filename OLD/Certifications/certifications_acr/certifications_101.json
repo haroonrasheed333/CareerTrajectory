@@ -1,0 +1,495 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CISP", 
+            "Certification Name": "Certified IRA Services Professional", 
+            "Type": "Core", 
+            "Certification ID": "3861", 
+            "Certifying Organization": "Institute of Certified Bankers"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Oracle Hyperion Planning 11 Certified Implementation Specialist", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7102", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "CTFA", 
+            "Certification Name": "Certified Trust and Financial Advisor", 
+            "Type": "Advanced", 
+            "Certification ID": "1547", 
+            "Certifying Organization": "Institute of Certified Bankers"
+        }, 
+        {
+            "Acronym": "ARPS", 
+            "Certification Name": "Accredited Retirement Plan Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "7322", 
+            "Certifying Organization": "Society of Professional Asset Managers and Record Keepers"
+        }, 
+        {
+            "Acronym": "CSA", 
+            "Certification Name": "Certified Senior Advisor", 
+            "Type": "Advanced", 
+            "Certification ID": "2325", 
+            "Certifying Organization": "Society of Certified Senior Advisors"
+        }, 
+        {
+            "Acronym": "CFS", 
+            "Certification Name": "Certified Fund Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "9021", 
+            "Certifying Organization": "Institute of Business & Finance"
+        }, 
+        {
+            "Acronym": "FLMI", 
+            "Certification Name": "Fellow, Life Management Institute", 
+            "Type": "Advanced", 
+            "Certification ID": "8231", 
+            "Certifying Organization": "LOMA"
+        }, 
+        {
+            "Acronym": "CFF", 
+            "Certification Name": "Certified in Financial Forensics", 
+            "Type": "Advanced", 
+            "Certification ID": "6788", 
+            "Certifying Organization": "American Institute of Certified Public Accountants"
+        }, 
+        {
+            "Acronym": "CDFA", 
+            "Certification Name": "Certified Divorce Financial Analyst", 
+            "Type": "Specialty", 
+            "Certification ID": "2269", 
+            "Certifying Organization": "Institute for Certified Divorce Financial Analysts"
+        }, 
+        {
+            "Acronym": "RFS", 
+            "Certification Name": "Registered Financial Specialist", 
+            "Type": "Advanced", 
+            "Certification ID": "7921", 
+            "Certifying Organization": "American Academy of Financial Management"
+        }, 
+        {
+            "Acronym": "CES", 
+            "Certification Name": "Certified Estate and Trust Specialist", 
+            "Type": "Core", 
+            "Certification ID": "4571", 
+            "Certifying Organization": "Institute of Certified Fund Specialists"
+        }, 
+        {
+            "Acronym": "CTS", 
+            "Certification Name": "Certified Tax Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "9024", 
+            "Certifying Organization": "Institute of Business & Finance"
+        }, 
+        {
+            "Acronym": "TGPC", 
+            "Certification Name": "Tax-Exempt & Governmental Plan Consultant", 
+            "Type": "Advanced", 
+            "Certification ID": "5840", 
+            "Certifying Organization": "American Society of Pension Professionals  and Actuaries"
+        }, 
+        {
+            "Acronym": "k", 
+            "Certification Name": "Qualified 401(k) Administrator", 
+            "Type": "Advanced", 
+            "Certification ID": "3983", 
+            "Certifying Organization": "American Society of Pension Professionals  and Actuaries"
+        }, 
+        {
+            "Acronym": "CRFA", 
+            "Certification Name": "Certified Retirement Financial Advisor", 
+            "Type": "Advanced", 
+            "Certification ID": "9152", 
+            "Certifying Organization": "Society of Certified Retirement Financial Advisors"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Financial Information Associate", 
+            "Type": "Core", 
+            "Certification ID": "9209", 
+            "Certifying Organization": "Software & Information Industry Association"
+        }, 
+        {
+            "Acronym": "CFP", 
+            "Certification Name": "Certified Financial Planner", 
+            "Type": "Advanced", 
+            "Certification ID": "1109", 
+            "Certifying Organization": "Certified Financial Planner Board of Standards, Inc."
+        }, 
+        {
+            "Acronym": "ARA", 
+            "Certification Name": "Accredited Retirement Advisor", 
+            "Type": "Core", 
+            "Certification ID": "6790", 
+            "Certifying Organization": "Accreditation Council for Accountancy and Taxation"
+        }, 
+        {
+            "Acronym": "CTE", 
+            "Certification Name": "Certified Trust Examiner", 
+            "Type": "Core", 
+            "Certification ID": "6901", 
+            "Certifying Organization": "Education Foundation of State Bank Supervisors"
+        }, 
+        {
+            "Acronym": "CIRA", 
+            "Certification Name": "Certified Insolvency and Restructuring Advisor", 
+            "Type": "Advanced", 
+            "Certification ID": "2199", 
+            "Certifying Organization": "Association of Insolvency and Restructuring Advisors"
+        }, 
+        {
+            "Acronym": "RFP", 
+            "Certification Name": "Registered Financial Planner", 
+            "Type": "Advanced", 
+            "Certification ID": "8025", 
+            "Certifying Organization": "Registered Financial Planners Institute"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Microsoft Dynamics GP 2010 Financials", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7557", 
+            "Certifying Organization": "Microsoft Corporation"
+        }, 
+        {
+            "Acronym": "ATP", 
+            "Certification Name": "Accredited Tax Preparer", 
+            "Type": "Core", 
+            "Certification ID": "1329", 
+            "Certifying Organization": "Accreditation Council for Accountancy and Taxation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Microsoft Dynamics GP 10.0 Financials", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7558", 
+            "Certifying Organization": "Microsoft Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Estate and Trust Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "9023", 
+            "Certifying Organization": "Institute of Business & Finance"
+        }, 
+        {
+            "Acronym": "RPA", 
+            "Certification Name": "Retirement Plans Associate", 
+            "Type": "Core", 
+            "Certification ID": "8137", 
+            "Certifying Organization": "International Foundation of Employee Benefit Plans"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Estate Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "3695", 
+            "Certifying Organization": "National Auctioneers Association"
+        }, 
+        {
+            "Acronym": "APM", 
+            "Certification Name": "Associated Professional Member", 
+            "Type": "Core", 
+            "Certification ID": "1353", 
+            "Certifying Organization": "American Society of Pension Professionals  and Actuaries"
+        }, 
+        {
+            "Acronym": "CPFFE", 
+            "Certification Name": "Certified Personal and Family Finance Educator", 
+            "Type": "Advanced", 
+            "Certification ID": "8152", 
+            "Certifying Organization": "American Association of Family and Consumer Sciences"
+        }, 
+        {
+            "Acronym": "ARPC", 
+            "Certification Name": "Accredited Retirement Plan Consultant", 
+            "Type": "Advanced", 
+            "Certification ID": "7321", 
+            "Certifying Organization": "Society of Professional Asset Managers and Record Keepers"
+        }, 
+        {
+            "Acronym": "MFTA", 
+            "Certification Name": "Master of Financial Technical Analysis", 
+            "Type": "Advanced", 
+            "Certification ID": "7455", 
+            "Certifying Organization": "The International Federation of Technical Analysts Inc."
+        }, 
+        {
+            "Acronym": "CPM", 
+            "Certification Name": "Certified Chartered Portfolio Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "7918", 
+            "Certifying Organization": "American Academy of Financial Management"
+        }, 
+        {
+            "Acronym": "QPFC", 
+            "Certification Name": "Qualified Plan Financial Consultant", 
+            "Type": "Advanced", 
+            "Certification ID": "3982", 
+            "Certifying Organization": "American Society of Pension Professionals  and Actuaries"
+        }, 
+        {
+            "Acronym": "CFP", 
+            "Certification Name": "Certified Financial Planner", 
+            "Type": "Advanced", 
+            "Certification ID": "6024", 
+            "Certifying Organization": "Financial Planning Standards Board Ltd"
+        }, 
+        {
+            "Acronym": "CPB", 
+            "Certification Name": "Certified Personal Banker", 
+            "Type": "Advanced", 
+            "Certification ID": "3864", 
+            "Certifying Organization": "Institute of Certified Bankers"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Microsoft Dynamics AX 2009 Financials", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7546", 
+            "Certifying Organization": "Microsoft Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Microsoft Dynamics SL 7.0 Financials", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7587", 
+            "Certifying Organization": "Microsoft Corporation"
+        }, 
+        {
+            "Acronym": "MFP", 
+            "Certification Name": "Master Financial Planner", 
+            "Type": "Advanced", 
+            "Certification ID": "7914", 
+            "Certifying Organization": "American Academy of Financial Management"
+        }, 
+        {
+            "Acronym": "CTEP", 
+            "Certification Name": "Chartered Trust and Estate Planner", 
+            "Type": "Advanced", 
+            "Certification ID": "7920", 
+            "Certifying Organization": "American Academy of Financial Management"
+        }, 
+        {
+            "Acronym": "CFA", 
+            "Certification Name": "Chartered Financial Analyst", 
+            "Type": "Advanced", 
+            "Certification ID": "7657", 
+            "Certifying Organization": "CFA Institute"
+        }, 
+        {
+            "Acronym": "FFSI", 
+            "Certification Name": "Fellow, Financial Services Institute", 
+            "Type": "Advanced", 
+            "Certification ID": "8229", 
+            "Certifying Organization": "LOMA"
+        }, 
+        {
+            "Acronym": "CFTe", 
+            "Certification Name": "Certified Financial Technican", 
+            "Type": "Core", 
+            "Certification ID": "7454", 
+            "Certifying Organization": "The International Federation of Technical Analysts Inc."
+        }, 
+        {
+            "Acronym": "AFSI", 
+            "Certification Name": "Associate, Financial Services Institute", 
+            "Type": "Core", 
+            "Certification ID": "8228", 
+            "Certifying Organization": "LOMA"
+        }, 
+        {
+            "Acronym": "PFS", 
+            "Certification Name": "Personal Financial Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "2264", 
+            "Certifying Organization": "American Institute of Certified Public Accountants"
+        }, 
+        {
+            "Acronym": "CFS", 
+            "Certification Name": "Certified Funds Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "2272", 
+            "Certifying Organization": "Institute of Certified Fund Specialists"
+        }, 
+        {
+            "Acronym": "CMA", 
+            "Certification Name": "Certified Management Accountant", 
+            "Type": "Core", 
+            "Certification ID": "0016", 
+            "Certifying Organization": "Institute of Management Accountants"
+        }, 
+        {
+            "Acronym": "RFA", 
+            "Certification Name": "Registered Financial Associate", 
+            "Type": "Core", 
+            "Certification ID": "2263", 
+            "Certifying Organization": "International Association of Registered Financial Consultants"
+        }, 
+        {
+            "Acronym": "CMT", 
+            "Certification Name": "Chartered Market Technician", 
+            "Type": "Core", 
+            "Certification ID": "2321", 
+            "Certifying Organization": "Market Technicians Association"
+        }, 
+        {
+            "Acronym": "CF", 
+            "Certification Name": "Consulting Fellow", 
+            "Type": "Advanced", 
+            "Certification ID": "3128", 
+            "Certifying Organization": "National Property Management Association, Inc."
+        }, 
+        {
+            "Acronym": "CAS", 
+            "Certification Name": "Certified Annuity Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "3529", 
+            "Certifying Organization": "Institute of Certified Fund Specialists"
+        }, 
+        {
+            "Acronym": "CCUFC", 
+            "Certification Name": "Certified Credit Union Financial Counselor", 
+            "Type": "Advanced", 
+            "Certification ID": "9230", 
+            "Certifying Organization": "Credit Union National Association"
+        }, 
+        {
+            "Acronym": "CDFA", 
+            "Certification Name": "Certified Divorce Financial Analyst", 
+            "Type": "Advanced", 
+            "Certification ID": "9033", 
+            "Certifying Organization": "Institute for Divorce Financial Analysts"
+        }, 
+        {
+            "Acronym": "CIMA", 
+            "Certification Name": "Certified Investment Management Analyst", 
+            "Type": "Advanced", 
+            "Certification ID": "5366", 
+            "Certifying Organization": "Investment Management Consultants Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Accredited Financial Examiner - Financial/Rating Analyst", 
+            "Type": "Advanced", 
+            "Certification ID": "8628", 
+            "Certifying Organization": "Society of Financial Examiners"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Financial Examiner - Financial/Rating Analyst", 
+            "Type": "Core", 
+            "Certification ID": "8629", 
+            "Certifying Organization": "Society of Financial Examiners"
+        }, 
+        {
+            "Acronym": "CPCU", 
+            "Certification Name": "Chartered Property Casualty Underwriter", 
+            "Type": "Core", 
+            "Certification ID": "0469", 
+            "Certifying Organization": "The Institutes"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Chartered Wealth Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "7915", 
+            "Certifying Organization": "American Academy of Financial Management"
+        }, 
+        {
+            "Acronym": "CLTC", 
+            "Certification Name": "Certified in Long Term Care", 
+            "Type": "Core", 
+            "Certification ID": "2525", 
+            "Certifying Organization": "Corporation for Long Term Care Certification"
+        }, 
+        {
+            "Acronym": "CAPA", 
+            "Certification Name": "Certified Asset Protection Analyst", 
+            "Type": "Advanced", 
+            "Certification ID": "7925", 
+            "Certifying Organization": "American Academy of Financial Management"
+        }, 
+        {
+            "Acronym": "CIS", 
+            "Certification Name": "Certified Income Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "9025", 
+            "Certifying Organization": "Institute of Business & Finance"
+        }, 
+        {
+            "Acronym": "ALMI", 
+            "Certification Name": "Associate, Life Management Institute", 
+            "Type": "Core", 
+            "Certification ID": "8230", 
+            "Certifying Organization": "LOMA"
+        }, 
+        {
+            "Acronym": "CRC", 
+            "Certification Name": "Certified Retirement Counselor", 
+            "Type": "Advanced", 
+            "Certification ID": "2265", 
+            "Certifying Organization": "International Foundation for Retirement Education"
+        }, 
+        {
+            "Acronym": "AEP", 
+            "Certification Name": "Accredited Estate Planner", 
+            "Type": "Advanced", 
+            "Certification ID": "2267", 
+            "Certifying Organization": "National Association of Estate Planners & Councils"
+        }, 
+        {
+            "Acronym": "CPC", 
+            "Certification Name": "Certified Pension Consultant", 
+            "Type": "Core", 
+            "Certification ID": "1357", 
+            "Certifying Organization": "American Society of Pension Professionals  and Actuaries"
+        }, 
+        {
+            "Acronym": "ATA", 
+            "Certification Name": "Accredited Tax Advisor", 
+            "Type": "Core", 
+            "Certification ID": "1330", 
+            "Certifying Organization": "Accreditation Council for Accountancy and Taxation"
+        }, 
+        {
+            "Acronym": "CIS", 
+            "Certification Name": "Certified Income Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "8180", 
+            "Certifying Organization": "Institute of Certified Fund Specialists"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "PeopleSoft 9.1 Financial Management: Receivables Certified Implementation Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "8476", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Microsoft Dynamics AX 2012 Financials", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7545", 
+            "Certifying Organization": "Microsoft Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Microsoft Dynamics SL 2011 Financials", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7586", 
+            "Certifying Organization": "Microsoft Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Housing Counselor", 
+            "Type": "Core", 
+            "Certification ID": "3997", 
+            "Certifying Organization": "Association for Financial Counseling and Planning Education"
+        }
+    ], 
+    "onet": "13205200"
+}

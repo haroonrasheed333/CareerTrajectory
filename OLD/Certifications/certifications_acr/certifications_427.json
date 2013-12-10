@@ -1,0 +1,138 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "DNC", 
+            "Certification Name": "Dermatology Nurse Certified", 
+            "Type": "Specialty", 
+            "Certification ID": "6484", 
+            "Certifying Organization": "Dermatology Nurses' Association"
+        }, 
+        {
+            "Acronym": "CENP", 
+            "Certification Name": "Certified in Executive Nursing Practice", 
+            "Type": "Advanced", 
+            "Certification ID": "8941", 
+            "Certifying Organization": "American Organization of Nurse Executives Credentialing Center"
+        }, 
+        {
+            "Acronym": "CAPA", 
+            "Certification Name": "Certified Ambulatory Perianesthesia Nurse", 
+            "Type": "Specialty", 
+            "Certification ID": "6201", 
+            "Certifying Organization": "American Board of Perianesthesia Nursing Certification, Inc."
+        }, 
+        {
+            "Acronym": "CPAN", 
+            "Certification Name": "Certified Post Anesthesia Nurse", 
+            "Type": "Specialty", 
+            "Certification ID": "6200", 
+            "Certifying Organization": "American Board of Perianesthesia Nursing Certification, Inc."
+        }, 
+        {
+            "Acronym": "IBCLC", 
+            "Certification Name": "International Board Certified Lactation Consultant", 
+            "Type": "Specialty", 
+            "Certification ID": "1193", 
+            "Certifying Organization": "International Board of Lactation Consultant Examiners"
+        }, 
+        {
+            "Acronym": "CMSRN", 
+            "Certification Name": "Certified Medical-Surgical Registered Nurse", 
+            "Type": "Specialty", 
+            "Certification ID": "9469", 
+            "Certifying Organization": "Medical Surgical Nursing Certification Board"
+        }, 
+        {
+            "Acronym": "LCCE", 
+            "Certification Name": "Lamaze Certified Childbirth Educator", 
+            "Type": "Core", 
+            "Certification ID": "3645", 
+            "Certifying Organization": "Lamaze International"
+        }, 
+        {
+            "Acronym": "CRNA", 
+            "Certification Name": "Certified Registered Nurse Anesthetist", 
+            "Type": "Advanced", 
+            "Certification ID": "6979", 
+            "Certifying Organization": "National Board on Certification and Recertification of Nurse Anesthetists"
+        }, 
+        {
+            "Acronym": "CNM", 
+            "Certification Name": "Certified Nurse Midwife", 
+            "Type": "Core", 
+            "Certification ID": "5965", 
+            "Certifying Organization": "American Midwifery Certification Board"
+        }, 
+        {
+            "Acronym": "CPHQ", 
+            "Certification Name": "Certified Professional in Healthcare Quality", 
+            "Type": "Core", 
+            "Certification ID": "9207", 
+            "Certifying Organization": "National Association for Healthcare Quality"
+        }, 
+        {
+            "Acronym": "CDON/LTC", 
+            "Certification Name": "Certified Director of Nursing in Long Term Care", 
+            "Type": "Specialty", 
+            "Certification ID": "9138", 
+            "Certifying Organization": "National Association of Directors of Nursing Administration in Long Term Care"
+        }, 
+        {
+            "Acronym": "DCNP", 
+            "Certification Name": "Dermatology Certified Nurse Practitioner", 
+            "Type": "Specialty", 
+            "Certification ID": "6485", 
+            "Certifying Organization": "Dermatology Nurses' Association"
+        }, 
+        {
+            "Acronym": "CHN", 
+            "Certification Name": "Certified Hemodialysis Nurse", 
+            "Type": "Specialty", 
+            "Certification ID": "9504", 
+            "Certifying Organization": "Board of Nephrology Examiners Technology Nursing"
+        }, 
+        {
+            "Acronym": "CPDN", 
+            "Certification Name": "Certified Peritoneal Dialysis Nurse", 
+            "Type": "Specialty", 
+            "Certification ID": "9505", 
+            "Certifying Organization": "Board of Nephrology Examiners Technology Nursing"
+        }, 
+        {
+            "Acronym": "CM", 
+            "Certification Name": "Certified Midwife", 
+            "Type": "Core", 
+            "Certification ID": "7003", 
+            "Certifying Organization": "American Midwifery Certification Board"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Perinatal Fitness Educator", 
+            "Type": "Specialty", 
+            "Certification ID": "5775", 
+            "Certifying Organization": "International Childbirth Education Association"
+        }, 
+        {
+            "Acronym": "CPM", 
+            "Certification Name": "Certified Professional Midwife", 
+            "Type": "Core", 
+            "Certification ID": "2079", 
+            "Certifying Organization": "North American Registry of Midwives"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Birth Doula Certification", 
+            "Type": "Core", 
+            "Certification ID": "3570", 
+            "Certifying Organization": "Doulas of North America"
+        }, 
+        {
+            "Acronym": "CNML", 
+            "Certification Name": "Nurse Manager and Leader", 
+            "Type": "Core", 
+            "Certification ID": "5733", 
+            "Certifying Organization": "American Association of Critical-Care Nurses "
+        }
+    ], 
+    "onet": "29116100"
+}

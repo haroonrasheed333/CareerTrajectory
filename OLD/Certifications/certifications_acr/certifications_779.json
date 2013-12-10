@@ -1,0 +1,33 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "CIP Level I Nuclear", 
+            "Type": "Specialty", 
+            "Certification ID": "8105", 
+            "Certifying Organization": "NACE International"
+        }, 
+        {
+            "Acronym": "ANDE", 
+            "Certification Name": "NDE/QC Personnel Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "8187", 
+            "Certifying Organization": "American Society of Mechanical Engineers International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "CIP Level 3 Nuclear", 
+            "Type": "Specialty", 
+            "Certification ID": "8115", 
+            "Certifying Organization": "NACE International"
+        }, 
+        {
+            "Acronym": "OMA", 
+            "Certification Name": "Oil Monitoring Analyst", 
+            "Type": "Core", 
+            "Certification ID": "2108", 
+            "Certifying Organization": "Society of Tribologists and Lubrication Engineers"
+        }
+    ], 
+    "onet": "51801100"
+}

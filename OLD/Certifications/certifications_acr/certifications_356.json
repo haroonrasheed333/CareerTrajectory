@@ -1,0 +1,26 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Avid Certified Support Representative for Workgroups", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8537", 
+            "Certifying Organization": "Avid Technology, Inc."
+        }, 
+        {
+            "Acronym": "CPTC", 
+            "Certification Name": "Certified Professional Technical Communicator", 
+            "Type": "Advanced", 
+            "Certification ID": "9143", 
+            "Certifying Organization": "Society for Technical Communication"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Avid Certified Support Representative for Editing", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8536", 
+            "Certifying Organization": "Avid Technology, Inc."
+        }
+    ], 
+    "onet": "27201205"
+}

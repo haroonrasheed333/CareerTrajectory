@@ -1,0 +1,40 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "IRRSP", 
+            "Certification Name": "Industrial Radiography Radiation Safety Personnel - X-Ray", 
+            "Type": "Specialty", 
+            "Certification ID": "7910", 
+            "Certifying Organization": "American Society for Nondestructive Testing"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "CIP Level I Nuclear", 
+            "Type": "Specialty", 
+            "Certification ID": "8105", 
+            "Certifying Organization": "NACE International"
+        }, 
+        {
+            "Acronym": "ANDE", 
+            "Certification Name": "NDE/QC Personnel Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "8187", 
+            "Certifying Organization": "American Society of Mechanical Engineers International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Registered Radiation Protection Technologist", 
+            "Type": "Core", 
+            "Certification ID": "5579", 
+            "Certifying Organization": "National Registry of Radiation Protection Technologists"
+        }, 
+        {
+            "Acronym": "IRRSP", 
+            "Certification Name": "Industrial Radiography Radiation Safety Personnel - Radioactive Materials", 
+            "Type": "Specialty", 
+            "Certification ID": "7909", 
+            "Certifying Organization": "American Society for Nondestructive Testing"
+        }
+    ], 
+    "onet": "19405101"
+}

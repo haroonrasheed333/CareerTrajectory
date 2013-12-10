@@ -1,0 +1,26 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Machining Level I - CNC Milling: Programming Setup & Operations", 
+            "Type": "Core", 
+            "Certification ID": "3819", 
+            "Certifying Organization": "National Institute for Metalworking Skills "
+        }, 
+        {
+            "Acronym": "MLA", 
+            "Certification Name": "Level I Machine Lubricant Analyst", 
+            "Type": "Core", 
+            "Certification ID": "7718", 
+            "Certifying Organization": "International Council for Machinery Lubrication"
+        }, 
+        {
+            "Acronym": "OMA", 
+            "Certification Name": "Oil Monitoring Analyst", 
+            "Type": "Core", 
+            "Certification ID": "2108", 
+            "Certifying Organization": "Society of Tribologists and Lubrication Engineers"
+        }
+    ], 
+    "onet": "51408100"
+}

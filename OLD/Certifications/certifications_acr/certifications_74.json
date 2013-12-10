@@ -1,0 +1,103 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CCC/CCE", 
+            "Certification Name": "Certified Cost Consultant/Certified Cost Engineer", 
+            "Type": "Advanced", 
+            "Certification ID": "1584", 
+            "Certifying Organization": "AACE International, Inc."
+        }, 
+        {
+            "Acronym": "VMP", 
+            "Certification Name": "Value Methodology Practitioner", 
+            "Type": "Core", 
+            "Certification ID": "1326", 
+            "Certifying Organization": "Society of American Value Engineers"
+        }, 
+        {
+            "Acronym": "CCE/A", 
+            "Certification Name": "Certified Cost Estimator/Analyst", 
+            "Type": "Core", 
+            "Certification ID": "5698", 
+            "Certifying Organization": "International Cost Estimating and Analysis Association"
+        }, 
+        {
+            "Acronym": "CAMC", 
+            "Certification Name": "Certified Anti-Money Laundering Consultant", 
+            "Type": "Advanced", 
+            "Certification ID": "7924", 
+            "Certifying Organization": "American Academy of Financial Management"
+        }, 
+        {
+            "Acronym": "CPE", 
+            "Certification Name": "Certified Estimating Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "5702", 
+            "Certifying Organization": "AACE International, Inc."
+        }, 
+        {
+            "Acronym": "CAMS", 
+            "Certification Name": "Certified Anti-Money Laundering Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "3572", 
+            "Certifying Organization": "Association of Certified Anti-Money Laundering Specialists"
+        }, 
+        {
+            "Acronym": "CCS", 
+            "Certification Name": "Certified Construction Specifier", 
+            "Type": "Advanced", 
+            "Certification ID": "1426", 
+            "Certifying Organization": "Construction Specifications Institute"
+        }, 
+        {
+            "Acronym": "CST", 
+            "Certification Name": "Certified Scheduling Technician", 
+            "Type": "Core", 
+            "Certification ID": "1583", 
+            "Certifying Organization": "AACE International, Inc."
+        }, 
+        {
+            "Acronym": "CGA", 
+            "Certification Name": "Certified Gemologist Appraiser", 
+            "Type": "Advanced", 
+            "Certification ID": "2504", 
+            "Certifying Organization": "American Gem Society"
+        }, 
+        {
+            "Acronym": "CCT", 
+            "Certification Name": "Certified Cost Technician", 
+            "Type": "Core", 
+            "Certification ID": "5727", 
+            "Certifying Organization": "AACE International, Inc."
+        }, 
+        {
+            "Acronym": "ICGA", 
+            "Certification Name": "Independent Certified Gemologist Appraiser", 
+            "Type": "Advanced", 
+            "Certification ID": "6782", 
+            "Certifying Organization": "American Gem Society"
+        }, 
+        {
+            "Acronym": "RJ", 
+            "Certification Name": "Registered Jeweler", 
+            "Type": "Advanced", 
+            "Certification ID": "6783", 
+            "Certifying Organization": "American Gem Society"
+        }, 
+        {
+            "Acronym": "CPE", 
+            "Certification Name": "Certified Professional Estimator", 
+            "Type": "Advanced", 
+            "Certification ID": "1369", 
+            "Certifying Organization": "American Society of Professional Estimators"
+        }, 
+        {
+            "Acronym": "CHC", 
+            "Certification Name": "Certified Healthcare Constructor", 
+            "Type": "Core", 
+            "Certification ID": "9008", 
+            "Certifying Organization": "American Hospital Association"
+        }
+    ], 
+    "onet": "13105100"
+}

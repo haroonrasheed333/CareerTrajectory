@@ -1,0 +1,47 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CWD", 
+            "Certification Name": "Certified Well Driller", 
+            "Type": "Core", 
+            "Certification ID": "2298", 
+            "Certifying Organization": "National Ground Water Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Geotechnical Engineering Technology - Laboratory Level II", 
+            "Type": "Advanced", 
+            "Certification ID": "7807", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "CVCLD", 
+            "Certification Name": "Certified Vertical Closed Loop Driller", 
+            "Type": "Advanced", 
+            "Certification ID": "7704", 
+            "Certifying Organization": "National Ground Water Association"
+        }, 
+        {
+            "Acronym": "MGWC", 
+            "Certification Name": "Master Ground Water Contractor", 
+            "Type": "Advanced", 
+            "Certification ID": "2295", 
+            "Certifying Organization": "National Ground Water Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Geotechnical Engineering Technology - Construction Level II", 
+            "Type": "Advanced", 
+            "Certification ID": "7798", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Geotechnical Engineering Technology - Generalist Level III", 
+            "Type": "Advanced", 
+            "Certification ID": "7805", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }
+    ], 
+    "onet": "47502100"
+}

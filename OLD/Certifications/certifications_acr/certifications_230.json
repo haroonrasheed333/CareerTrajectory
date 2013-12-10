@@ -1,0 +1,124 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "ELD", 
+            "Certification Name": "Embryology Laboratory Director", 
+            "Type": "Specialty", 
+            "Certification ID": "3326", 
+            "Certifying Organization": "American Board of Bioanalysis"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Toxicological Chemistry", 
+            "Type": "Advanced", 
+            "Certification ID": "2062", 
+            "Certifying Organization": "American Board of Clinical Chemistry"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Academic Certification in Biofeedback", 
+            "Type": "Core", 
+            "Certification ID": "6713", 
+            "Certifying Organization": "Biofeedback Certification International Alliance"
+        }, 
+        {
+            "Acronym": "QMP", 
+            "Certification Name": "Qualified Medical Physicist", 
+            "Type": "Core", 
+            "Certification ID": "7913", 
+            "Certifying Organization": "American Association of Physicists in Medicine"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Medical Physics", 
+            "Type": "Advanced", 
+            "Certification ID": "0258", 
+            "Certifying Organization": "American Board of Radiology"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Diplomate", 
+            "Type": "Advanced", 
+            "Certification ID": "1786", 
+            "Certifying Organization": "American Board of Medical Laboratory Immunology"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Clinical Chemistry", 
+            "Type": "Advanced", 
+            "Certification ID": "2061", 
+            "Certifying Organization": "American Board of Clinical Chemistry"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Academic Certification in Neurofeedback", 
+            "Type": "Core", 
+            "Certification ID": "6714", 
+            "Certifying Organization": "Biofeedback Certification International Alliance"
+        }, 
+        {
+            "Acronym": "MLS", 
+            "Certification Name": "Medical Laboratory Scientist", 
+            "Type": "Core", 
+            "Certification ID": "6314", 
+            "Certifying Organization": "American Society for Clinical Pathology"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Toxicological Chemist", 
+            "Type": "Advanced", 
+            "Certification ID": "3720", 
+            "Certifying Organization": "National Registry of Certified Chemists"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Diplomate of the American Board of Toxicology", 
+            "Type": "Advanced", 
+            "Certification ID": "5369", 
+            "Certifying Organization": "American Board of Toxicology, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Clinical Molecular Genetics", 
+            "Type": "Specialty", 
+            "Certification ID": "0193", 
+            "Certifying Organization": "American Board of Medical Genetics"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification in Pediatrics:  Medical Toxicology", 
+            "Type": "Specialty", 
+            "Certification ID": "0224", 
+            "Certifying Organization": "American Board of Pediatrics"
+        }, 
+        {
+            "Acronym": "EM", 
+            "Certification Name": "Certification in Emergency Medicine: Medical Toxicology", 
+            "Type": "Specialty", 
+            "Certification ID": "0168", 
+            "Certifying Organization": "American Board of Emergency Medicine"
+        }, 
+        {
+            "Acronym": "CPI", 
+            "Certification Name": "Certified Physician Investigator", 
+            "Type": "Specialty", 
+            "Certification ID": "5981", 
+            "Certifying Organization": "Association of Clinical Research Professionals"
+        }, 
+        {
+            "Acronym": "CIET", 
+            "Certification Name": "Certified Industrial Environmental Toxicologist", 
+            "Type": "Advanced", 
+            "Certification ID": "3519", 
+            "Certifying Organization": "National Registry of Environmental Professionals"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Molecular Diagnostics", 
+            "Type": "Advanced", 
+            "Certification ID": "2063", 
+            "Certifying Organization": "American Board of Clinical Chemistry"
+        }
+    ], 
+    "onet": "19104200"
+}

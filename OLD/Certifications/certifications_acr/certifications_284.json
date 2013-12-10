@@ -1,0 +1,285 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "SAPACC", 
+            "Certification Name": "Certified Substance Abuse Program Administrator", 
+            "Type": "Advanced", 
+            "Certification ID": "3565", 
+            "Certifying Organization": "Substance Abuse Program Administrators Certification Commission"
+        }, 
+        {
+            "Acronym": "NCAC", 
+            "Certification Name": "National Certified Addiction Counselor, Level I", 
+            "Type": "Advanced", 
+            "Certification ID": "1383", 
+            "Certifying Organization": "National Association of Alcoholism & Drug Abuse Counselors"
+        }, 
+        {
+            "Acronym": "NCC", 
+            "Certification Name": "National Certified Counselor", 
+            "Type": "Advanced", 
+            "Certification ID": "0356", 
+            "Certifying Organization": "National Board for Certified Counselors"
+        }, 
+        {
+            "Acronym": "C-ASWCM", 
+            "Certification Name": "Certified Advanced Social Work Case Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "3339", 
+            "Certifying Organization": "National Association of Social Workers"
+        }, 
+        {
+            "Acronym": "C-SWHC", 
+            "Certification Name": "Certified Social Worker in Health Care", 
+            "Type": "Specialty", 
+            "Certification ID": "4808", 
+            "Certifying Organization": "National Association of Social Workers"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification in Cognitive Therapy", 
+            "Type": "Core", 
+            "Certification ID": "8670", 
+            "Certifying Organization": "Academy of Cognitive Therapy"
+        }, 
+        {
+            "Acronym": "RAS", 
+            "Certification Name": "Registered Addiction Specialist", 
+            "Type": "Advanced", 
+            "Certification ID": "6956", 
+            "Certifying Organization": "The Breining Institute"
+        }, 
+        {
+            "Acronym": "OSW-C", 
+            "Certification Name": "Oncology Social Work Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "9510", 
+            "Certifying Organization": "Board of Oncology Social Work Certification"
+        }, 
+        {
+            "Acronym": "MAC", 
+            "Certification Name": "Master Addiction Counselor", 
+            "Type": "Advanced", 
+            "Certification ID": "1385", 
+            "Certifying Organization": "National Association of Alcoholism & Drug Abuse Counselors"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification of Clinical Hypnosis", 
+            "Type": "Advanced", 
+            "Certification ID": "9301", 
+            "Certifying Organization": "American Society of Clinical Hypnosis"
+        }, 
+        {
+            "Acronym": "CST", 
+            "Certification Name": "Sex Therapist Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "2096", 
+            "Certifying Organization": "American Association of Sexuality Educators, Counselors and Therapists"
+        }, 
+        {
+            "Acronym": "CCJP", 
+            "Certification Name": "Certified Criminal Justice Addiction Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "3536", 
+            "Certifying Organization": "International Certification & Reciprocity Consortium"
+        }, 
+        {
+            "Acronym": "CFSW", 
+            "Certification Name": "Certified Forensic Social Worker", 
+            "Type": "Specialty", 
+            "Certification ID": "6977", 
+            "Certifying Organization": "National Association of Forensic Counselors"
+        }, 
+        {
+            "Acronym": "QCSW", 
+            "Certification Name": "Qualified Clinical Social Worker Credential", 
+            "Type": "Advanced", 
+            "Certification ID": "1142", 
+            "Certifying Organization": "National Association of Social Workers"
+        }, 
+        {
+            "Acronym": "CCS", 
+            "Certification Name": "Certified Clinical Supervisor", 
+            "Type": "Advanced", 
+            "Certification ID": "3534", 
+            "Certifying Organization": "International Certification & Reciprocity Consortium"
+        }, 
+        {
+            "Acronym": "C-SWG", 
+            "Certification Name": "Clinical Social Worker in Gerontology", 
+            "Type": "Specialty", 
+            "Certification ID": "4805", 
+            "Certifying Organization": "National Association of Social Workers"
+        }, 
+        {
+            "Acronym": "BCN", 
+            "Certification Name": "Board Certified in Neurofeedback", 
+            "Type": "Specialty", 
+            "Certification ID": "6711", 
+            "Certifying Organization": "Biofeedback Certification International Alliance"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Technician Certification in Biofeedback", 
+            "Type": "Specialty", 
+            "Certification ID": "6716", 
+            "Certifying Organization": "Biofeedback Certification International Alliance"
+        }, 
+        {
+            "Acronym": "CCODS", 
+            "Certification Name": "Certified Co-Occurring Disorder Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "8784", 
+            "Certifying Organization": "National Association of Forensic Counselors"
+        }, 
+        {
+            "Acronym": "CEDSN", 
+            "Certification Name": "Certified Eating Disorders Specialist in Nutrition", 
+            "Type": "Specialty", 
+            "Certification ID": "2682", 
+            "Certifying Organization": "International Association of Eating Disorders Professionals"
+        }, 
+        {
+            "Acronym": "CSE", 
+            "Certification Name": "Sex Counselor Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "2095", 
+            "Certifying Organization": "American Association of Sexuality Educators, Counselors and Therapists"
+        }, 
+        {
+            "Acronym": "CFI", 
+            "Certification Name": "Certified Forensic Interviewer", 
+            "Type": "Specialty", 
+            "Certification ID": "8785", 
+            "Certifying Organization": "National Association of Forensic Counselors"
+        }, 
+        {
+            "Acronym": "CAS", 
+            "Certification Name": "Certified Addiction Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "2443", 
+            "Certifying Organization": "American Academy of Health Care Providers in the Addictive Disorders"
+        }, 
+        {
+            "Acronym": "DCSW", 
+            "Certification Name": "Diplomate in Clinical Social Work", 
+            "Type": "Advanced", 
+            "Certification ID": "1143", 
+            "Certifying Organization": "National Association of Social Workers"
+        }, 
+        {
+            "Acronym": "NCAC", 
+            "Certification Name": "National Certified Addiction Counselor, Level II", 
+            "Type": "Advanced", 
+            "Certification ID": "1384", 
+            "Certifying Organization": "National Association of Alcoholism & Drug Abuse Counselors"
+        }, 
+        {
+            "Acronym": "CCDP", 
+            "Certification Name": "Certified Co-Occurring Disorders Professional", 
+            "Type": "Specialty", 
+            "Certification ID": "6035", 
+            "Certifying Organization": "International Certification & Reciprocity Consortium"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "EMDRIA Certified Therapist", 
+            "Type": "Advanced", 
+            "Certification ID": "9238", 
+            "Certifying Organization": "EMDR International Association"
+        }, 
+        {
+            "Acronym": "ADC", 
+            "Certification Name": "Certified Alcohol and Drug Counselor", 
+            "Type": "Advanced", 
+            "Certification ID": "1379", 
+            "Certifying Organization": "International Certification & Reciprocity Consortium"
+        }, 
+        {
+            "Acronym": "ACSW", 
+            "Certification Name": "Academy of Certified Social Workers Credential", 
+            "Type": "Advanced", 
+            "Certification ID": "1141", 
+            "Certifying Organization": "National Association of Social Workers"
+        }, 
+        {
+            "Acronym": "C-CATODSW", 
+            "Certification Name": "Certified Clinical Alcohol, Tobacco, and Other Drugs Social Worker", 
+            "Type": "Advanced", 
+            "Certification ID": "3338", 
+            "Certifying Organization": "National Association of Social Workers"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Approved Consultant in Clinical Hypnosis", 
+            "Type": "Advanced", 
+            "Certification ID": "9302", 
+            "Certifying Organization": "American Society of Clinical Hypnosis"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Sex Therapist Supervisor Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "7850", 
+            "Certifying Organization": "American Association of Sexuality Educators, Counselors and Therapists"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Technician Certification in Neurofeedback", 
+            "Type": "Specialty", 
+            "Certification ID": "6715", 
+            "Certifying Organization": "Biofeedback Certification International Alliance"
+        }, 
+        {
+            "Acronym": "BCD", 
+            "Certification Name": "Board Certified Diplomate in Clinical Social Work", 
+            "Type": "Advanced", 
+            "Certification ID": "2068", 
+            "Certifying Organization": "American Board of Examiners in Clinical Social Work"
+        }, 
+        {
+            "Acronym": "AAODA-C", 
+            "Certification Name": "Certified Advanced Alcohol & Drug Counselor", 
+            "Type": "Advanced", 
+            "Certification ID": "3532", 
+            "Certifying Organization": "International Certification & Reciprocity Consortium"
+        }, 
+        {
+            "Acronym": "C-SWCM", 
+            "Certification Name": "Certified Social Work Case Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "3340", 
+            "Certifying Organization": "National Association of Social Workers"
+        }, 
+        {
+            "Acronym": "CCMHC", 
+            "Certification Name": "Certified Clinical Mental Health Counselor", 
+            "Type": "Specialty", 
+            "Certification ID": "0366", 
+            "Certifying Organization": "National Board for Certified Counselors"
+        }, 
+        {
+            "Acronym": "CPS", 
+            "Certification Name": "Certified Prevention Specialist", 
+            "Type": "Advanced", 
+            "Certification ID": "3535", 
+            "Certifying Organization": "International Certification & Reciprocity Consortium"
+        }, 
+        {
+            "Acronym": "CCMC", 
+            "Certification Name": "Case Manager Certification", 
+            "Type": "Core", 
+            "Certification ID": "3644", 
+            "Certifying Organization": "Commission for Case Manager Certification"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Co-Occurring Disorders Professional Diplomate", 
+            "Type": "Specialty", 
+            "Certification ID": "6036", 
+            "Certifying Organization": "International Certification & Reciprocity Consortium"
+        }
+    ], 
+    "onet": "21102300"
+}

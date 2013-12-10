@@ -1,0 +1,40 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Bell/Saturation Diving Supervisor", 
+            "Type": "Specialty", 
+            "Certification ID": "7709", 
+            "Certifying Organization": "Association of Diving Contractors International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Open Water Scuba Instructor", 
+            "Type": "Core", 
+            "Certification ID": "5629", 
+            "Certifying Organization": "Professional Association of Diving Instructors"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Diving Supervisor", 
+            "Type": "Core", 
+            "Certification ID": "5625", 
+            "Certifying Organization": "Association of Diving Contractors International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Divemaster", 
+            "Type": "Advanced", 
+            "Certification ID": "5628", 
+            "Certifying Organization": "Professional Association of Diving Instructors"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Mixed Gas Diving Supervisor", 
+            "Type": "Specialty", 
+            "Certification ID": "7708", 
+            "Certifying Organization": "Association of Diving Contractors International"
+        }
+    ], 
+    "onet": "49909200"
+}

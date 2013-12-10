@@ -1,0 +1,89 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "AFSB", 
+            "Certification Name": "Associate in Fidelity and Surety Bonding", 
+            "Type": "Core", 
+            "Certification ID": "9081", 
+            "Certifying Organization": "The Institutes"
+        }, 
+        {
+            "Acronym": "AIS", 
+            "Certification Name": "Associate in Insurance Services", 
+            "Type": "Core", 
+            "Certification ID": "0482", 
+            "Certifying Organization": "The Institutes"
+        }, 
+        {
+            "Acronym": "ARA", 
+            "Certification Name": "Associate, Reinsurance Administration", 
+            "Type": "Core", 
+            "Certification ID": "8226", 
+            "Certifying Organization": "LOMA"
+        }, 
+        {
+            "Acronym": "CISR", 
+            "Certification Name": "Certified Insurance Service Representatives", 
+            "Type": "Core", 
+            "Certification ID": "3513", 
+            "Certifying Organization": "The National Alliance for Insurance Education and Research"
+        }, 
+        {
+            "Acronym": "CMIS", 
+            "Certification Name": "Certified Medical Insurance Specialist", 
+            "Type": "Core", 
+            "Certification ID": "5438", 
+            "Certifying Organization": "Practice Management Institute"
+        }, 
+        {
+            "Acronym": "AINS", 
+            "Certification Name": "Associate in General Insurance", 
+            "Type": "Core", 
+            "Certification ID": "9078", 
+            "Certifying Organization": "The Institutes"
+        }, 
+        {
+            "Acronym": "ARM-E", 
+            "Certification Name": "Associate in Risk Management - Enterprise Wide Risk Management", 
+            "Type": "Core", 
+            "Certification ID": "9080", 
+            "Certifying Organization": "The Institutes"
+        }, 
+        {
+            "Acronym": "AIAA", 
+            "Certification Name": "Associate, Insurance Agency Administration", 
+            "Type": "Core", 
+            "Certification ID": "8227", 
+            "Certifying Organization": "LOMA"
+        }, 
+        {
+            "Acronym": "AU-S", 
+            "Certification Name": "Associate in Commercial Underwriting - Strategic Techniques", 
+            "Type": "Core", 
+            "Certification ID": "9079", 
+            "Certifying Organization": "The Institutes"
+        }, 
+        {
+            "Acronym": "CIC", 
+            "Certification Name": "Certified Insurance Counselors", 
+            "Type": "Core", 
+            "Certification ID": "3514", 
+            "Certifying Organization": "The National Alliance for Insurance Education and Research"
+        }, 
+        {
+            "Acronym": "AIRC", 
+            "Certification Name": "Associate, Insurance Regulatory Compliance", 
+            "Type": "Core", 
+            "Certification ID": "8225", 
+            "Certifying Organization": "LOMA"
+        }, 
+        {
+            "Acronym": "AIC", 
+            "Certification Name": "Associate in Claims", 
+            "Type": "Core", 
+            "Certification ID": "0470", 
+            "Certifying Organization": "The Institutes"
+        }
+    ], 
+    "onet": "43904102"
+}

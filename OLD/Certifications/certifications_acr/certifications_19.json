@@ -1,0 +1,110 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CESP", 
+            "Certification Name": "Certified Equipment Support Professional", 
+            "Type": "Core", 
+            "Certification ID": "9050", 
+            "Certifying Organization": "Association of Equipment Management Professionals"
+        }, 
+        {
+            "Acronym": "CGPP", 
+            "Certification Name": "Certified Green Purchasing Professional", 
+            "Type": "Specialty", 
+            "Certification ID": "8659", 
+            "Certifying Organization": "American Purchasing Society"
+        }, 
+        {
+            "Acronym": "CPM", 
+            "Certification Name": "Certified Purchasing Manager", 
+            "Type": "Core", 
+            "Certification ID": "0846", 
+            "Certifying Organization": "Institute for Supply Management"
+        }, 
+        {
+            "Acronym": "CPIM", 
+            "Certification Name": "Certified in Production and Inventory Management", 
+            "Type": "Advanced", 
+            "Certification ID": "1432", 
+            "Certifying Organization": "The Association for Operations Management"
+        }, 
+        {
+            "Acronym": "CPSM", 
+            "Certification Name": "Certified Professional in Supply Management", 
+            "Type": "Core", 
+            "Certification ID": "4570", 
+            "Certifying Organization": "Institute for Supply Management"
+        }, 
+        {
+            "Acronym": "CSCP", 
+            "Certification Name": "Certified Supply Chain Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "4895", 
+            "Certifying Organization": "The Association for Operations Management"
+        }, 
+        {
+            "Acronym": "CPCM", 
+            "Certification Name": "Certified Professional Contracts Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "1421", 
+            "Certifying Organization": "National Contract Management Association"
+        }, 
+        {
+            "Acronym": "CPP", 
+            "Certification Name": "Certified Purchasing Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "7651", 
+            "Certifying Organization": "American Purchasing Society"
+        }, 
+        {
+            "Acronym": "CFPIM", 
+            "Certification Name": "Certified Fellow in Production and Inventory Management", 
+            "Type": "Advanced", 
+            "Certification ID": "1434", 
+            "Certifying Organization": "The Association for Operations Management"
+        }, 
+        {
+            "Acronym": "CCCM", 
+            "Certification Name": "Certified Commercial Contracts Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "1422", 
+            "Certifying Organization": "National Contract Management Association"
+        }, 
+        {
+            "Acronym": "CMRP", 
+            "Certification Name": "Certified Materials & Resource Professional", 
+            "Type": "Core", 
+            "Certification ID": "3746", 
+            "Certifying Organization": "Association for Healthcare Resource & Materials Management"
+        }, 
+        {
+            "Acronym": "CFCM", 
+            "Certification Name": "Certified Federal Contracts Manager", 
+            "Type": "Specialty", 
+            "Certification ID": "3418", 
+            "Certifying Organization": "National Contract Management Association"
+        }, 
+        {
+            "Acronym": "CPPM", 
+            "Certification Name": "Certified Professional Purchasing Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "7652", 
+            "Certifying Organization": "American Purchasing Society"
+        }, 
+        {
+            "Acronym": "CPPC", 
+            "Certification Name": "Certified Professional Purchasing Consultant", 
+            "Type": "Advanced", 
+            "Certification ID": "7653", 
+            "Certifying Organization": "American Purchasing Society"
+        }, 
+        {
+            "Acronym": "CPCP", 
+            "Certification Name": "Certified Purchasing Card Professional", 
+            "Type": "Core", 
+            "Certification ID": "6880", 
+            "Certifying Organization": "National Association of Purchasing Card Professionals"
+        }
+    ], 
+    "onet": "11306100"
+}

@@ -1,0 +1,26 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "ERP", 
+            "Certification Name": "Energy Risk Professional", 
+            "Type": "Core", 
+            "Certification ID": "5868", 
+            "Certifying Organization": "Global Association of Risk Professionals"
+        }, 
+        {
+            "Acronym": "PMP", 
+            "Certification Name": "Project Management Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "0487", 
+            "Certifying Organization": "Project Management Institute"
+        }, 
+        {
+            "Acronym": "REP", 
+            "Certification Name": "Certified Renewable Energy Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "6084", 
+            "Certifying Organization": "Association of Energy Engineers"
+        }
+    ], 
+    "onet": "11919910"
+}

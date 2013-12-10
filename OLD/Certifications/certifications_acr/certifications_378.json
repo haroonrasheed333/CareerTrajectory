@@ -1,0 +1,61 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "PD", 
+            "Certification Name": "Board Certification in Pediatric Dentistry", 
+            "Type": "Specialty", 
+            "Certification ID": "1095", 
+            "Certifying Organization": "American Board of Pediatric Dentistry"
+        }, 
+        {
+            "Acronym": "Diplomate", 
+            "Certification Name": "Diplomate of the American Board of Forensic Odontology", 
+            "Type": "Specialty", 
+            "Certification ID": "1372", 
+            "Certifying Organization": "American Board of Forensic Odontology, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification in Dental Public Health", 
+            "Type": "Core", 
+            "Certification ID": "2498", 
+            "Certifying Organization": "American Board of Dental Public Health"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification in Periodontology", 
+            "Type": "Specialty", 
+            "Certification ID": "0839", 
+            "Certifying Organization": "American Board of Periodontology"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Fellow of the AAID", 
+            "Type": "Core", 
+            "Certification ID": "2706", 
+            "Certifying Organization": "American Academy of Implant Dentistry"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Associate Fellow of the AAID", 
+            "Type": "Core", 
+            "Certification ID": "2707", 
+            "Certifying Organization": "American Academy of Implant Dentistry"
+        }, 
+        {
+            "Acronym": "BCB", 
+            "Certification Name": "Board Certified in Biofeedback", 
+            "Type": "Specialty", 
+            "Certification ID": "2318", 
+            "Certifying Organization": "Biofeedback Certification International Alliance"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification in Laser Dentistry", 
+            "Type": "Specialty", 
+            "Certification ID": "6197", 
+            "Certifying Organization": "Academy of Laser Dentistry"
+        }
+    ], 
+    "onet": "29102100"
+}

@@ -1,0 +1,33 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CAMH", 
+            "Certification Name": "Certified Associate in Materials Handling", 
+            "Type": "Core", 
+            "Certification ID": "1429", 
+            "Certifying Organization": "Materials Handling and Management Society"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification in Healthcare Leadership", 
+            "Type": "Core", 
+            "Certification ID": "9015", 
+            "Certifying Organization": "International Association for Healthcare Central Service Material Management"
+        }, 
+        {
+            "Acronym": "CRCST", 
+            "Certification Name": "Certified Registered Central Service Technician", 
+            "Type": "Core", 
+            "Certification ID": "9013", 
+            "Certifying Organization": "International Association for Healthcare Central Service Material Management"
+        }, 
+        {
+            "Acronym": "PCMH", 
+            "Certification Name": "Professional Certified in Materials Handling", 
+            "Type": "Core", 
+            "Certification ID": "1430", 
+            "Certifying Organization": "Materials Handling and Management Society"
+        }
+    ], 
+    "onet": "53706200"
+}

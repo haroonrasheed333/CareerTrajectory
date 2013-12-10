@@ -1,0 +1,236 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CESP", 
+            "Certification Name": "Certified Equipment Support Professional", 
+            "Type": "Core", 
+            "Certification ID": "9050", 
+            "Certifying Organization": "Association of Equipment Management Professionals"
+        }, 
+        {
+            "Acronym": "CCTM", 
+            "Certification Name": "Certified Community Transit Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "5591", 
+            "Certifying Organization": "Community Transportation Association of America"
+        }, 
+        {
+            "Acronym": "CAMH", 
+            "Certification Name": "Certified Associate in Materials Handling", 
+            "Type": "Core", 
+            "Certification ID": "1429", 
+            "Certifying Organization": "Materials Handling and Management Society"
+        }, 
+        {
+            "Acronym": "CDPT", 
+            "Certification Name": "Director of  Pupil Transportation", 
+            "Type": "Advanced", 
+            "Certification ID": "2511", 
+            "Certifying Organization": "National Association for Pupil Transportation"
+        }, 
+        {
+            "Acronym": "CAPP", 
+            "Certification Name": "Certified Administrator of Public Parking", 
+            "Type": "Advanced", 
+            "Certification ID": "8960", 
+            "Certifying Organization": "International Parking Institute"
+        }, 
+        {
+            "Acronym": "CCAS", 
+            "Certification Name": "Certified Community Transit Supervisor", 
+            "Type": "Advanced", 
+            "Certification ID": "6191", 
+            "Certifying Organization": "Community Transportation Association of America"
+        }, 
+        {
+            "Acronym": "CITP", 
+            "Certification Name": "Certified International Trade Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "5187", 
+            "Certifying Organization": "IIEI Certification"
+        }, 
+        {
+            "Acronym": "EMS", 
+            "Certification Name": "Equipment Management Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "9048", 
+            "Certifying Organization": "Association of Equipment Management Professionals"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Oracle Transportation Management 6 Certified Implementation Specialist", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8471", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "AAPA/PPM", 
+            "Certification Name": "Professional Port Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "9173", 
+            "Certifying Organization": "American Association of Port Authorities"
+        }, 
+        {
+            "Acronym": "CAM", 
+            "Certification Name": "Certified Aviation Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "6080", 
+            "Certifying Organization": "National Business Aviation Association"
+        }, 
+        {
+            "Acronym": "CPFP", 
+            "Certification Name": "Certified Public Fleet Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "6171", 
+            "Certifying Organization": "American Public Works Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Accredited Airport Executive", 
+            "Type": "Advanced", 
+            "Certification ID": "7867", 
+            "Certifying Organization": "American Association of Airport Executives"
+        }, 
+        {
+            "Acronym": "ASE", 
+            "Certification Name": "Associate Service Executive", 
+            "Type": "Advanced", 
+            "Certification ID": "0957", 
+            "Certifying Organization": "National Association of Service Managers"
+        }, 
+        {
+            "Acronym": "CSE", 
+            "Certification Name": "Certified Service Executive", 
+            "Type": "Advanced", 
+            "Certification ID": "0958", 
+            "Certifying Organization": "National Association of Service Managers"
+        }, 
+        {
+            "Acronym": "PLS", 
+            "Certification Name": "Professional Designation in Logistics and Supply Chain Management", 
+            "Type": "Advanced", 
+            "Certification ID": "3984", 
+            "Certifying Organization": "American Society of Transportation and Logistics"
+        }, 
+        {
+            "Acronym": "DLP", 
+            "Certification Name": "Distinguished Logistics Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "9190", 
+            "Certifying Organization": "American Society of Transportation and Logistics"
+        }, 
+        {
+            "Acronym": "CDS", 
+            "Certification Name": "Certified Director of Safety", 
+            "Type": "Advanced", 
+            "Certification ID": "3999", 
+            "Certifying Organization": "North American Transportation Management Institute"
+        }, 
+        {
+            "Acronym": "AICP CTP", 
+            "Certification Name": "Advanced Specialty Certification in Transportation Planning", 
+            "Type": "Specialty", 
+            "Certification ID": "9125", 
+            "Certifying Organization": "American Institute of Certified Planners"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Oracle Global Trade Management 6 Certified Implementation Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "8485", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Safety Supervisor", 
+            "Type": "Advanced", 
+            "Certification ID": "4001", 
+            "Certifying Organization": "North American Transportation Management Institute"
+        }, 
+        {
+            "Acronym": "CAFM", 
+            "Certification Name": "Certified Automotive Fleet Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "1571", 
+            "Certifying Organization": "National Association of Fleet Administrators, Inc."
+        }, 
+        {
+            "Acronym": "TIA", 
+            "Certification Name": "Transportation Intermediaries Association", 
+            "Type": "Core", 
+            "Certification ID": "8966", 
+            "Certifying Organization": "Transportation Intermediaries Association"
+        }, 
+        {
+            "Acronym": "CSM/E", 
+            "Certification Name": "Certified Supervisor of Maintenance/Equipment", 
+            "Type": "Advanced", 
+            "Certification ID": "4006", 
+            "Certifying Organization": "North American Transportation Management Institute"
+        }, 
+        {
+            "Acronym": "PCMH", 
+            "Certification Name": "Professional Certified in Materials Handling", 
+            "Type": "Core", 
+            "Certification ID": "1430", 
+            "Certifying Organization": "Materials Handling and Management Society"
+        }, 
+        {
+            "Acronym": "CSPT", 
+            "Certification Name": "Supervisor of Pupil Transportation", 
+            "Type": "Advanced", 
+            "Certification ID": "2512", 
+            "Certifying Organization": "National Association for Pupil Transportation"
+        }, 
+        {
+            "Acronym": "CTP", 
+            "Certification Name": "Certified Transportation Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "1423", 
+            "Certifying Organization": "National Private Truck Council"
+        }, 
+        {
+            "Acronym": "CITM", 
+            "Certification Name": "Certified International Trade Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "5188", 
+            "Certifying Organization": "IIEI Certification"
+        }, 
+        {
+            "Acronym": "CEM", 
+            "Certification Name": "Certified Equipment Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "9049", 
+            "Certifying Organization": "Association of Equipment Management Professionals"
+        }, 
+        {
+            "Acronym": "CDM/E", 
+            "Certification Name": "Certified Director of Maintenance/Equipment", 
+            "Type": "Advanced", 
+            "Certification ID": "4005", 
+            "Certifying Organization": "North American Transportation Management Institute"
+        }, 
+        {
+            "Acronym": "AvMP", 
+            "Certification Name": "Aviation Management Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "9382", 
+            "Certifying Organization": "International Air Transport Association"
+        }, 
+        {
+            "Acronym": "CTL", 
+            "Certification Name": "Certified in Transportation and Logistics", 
+            "Type": "Advanced", 
+            "Certification ID": "1443", 
+            "Certifying Organization": "American Society of Transportation and Logistics"
+        }, 
+        {
+            "Acronym": "CCSP", 
+            "Certification Name": "Certified Cargo Security Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "4007", 
+            "Certifying Organization": "North American Transportation Management Institute"
+        }
+    ], 
+    "onet": "11307101"
+}

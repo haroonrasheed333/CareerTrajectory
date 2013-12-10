@@ -1,0 +1,208 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "IRRSP", 
+            "Certification Name": "Industrial Radiography Radiation Safety Personnel - X-Ray", 
+            "Type": "Specialty", 
+            "Certification ID": "7910", 
+            "Certifying Organization": "American Society for Nondestructive Testing"
+        }, 
+        {
+            "Acronym": "CRE", 
+            "Certification Name": "Certified Reliability Engineer", 
+            "Type": "Advanced", 
+            "Certification ID": "0792", 
+            "Certifying Organization": "American Society for Quality"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "ETT Certified Level III", 
+            "Type": "Advanced", 
+            "Certification ID": "8148", 
+            "Certifying Organization": "InterNational Electrical Testing Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "ASNT Central Certification Program Professional Level III - Magnetic Particle Testing", 
+            "Type": "Specialty", 
+            "Certification ID": "7893", 
+            "Certifying Organization": "American Society for Nondestructive Testing"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "ASNT Nondestructive Testing Level III - Basic", 
+            "Type": "Specialty", 
+            "Certification ID": "7897", 
+            "Certifying Organization": "American Society for Nondestructive Testing"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "ASNT NDT Level III Certification - Leak Testing", 
+            "Type": "Specialty", 
+            "Certification ID": "7902", 
+            "Certifying Organization": "American Society for Nondestructive Testing"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "ASNT NDT Level III Certification - Neutron Radiographic Testing", 
+            "Type": "Specialty", 
+            "Certification ID": "7905", 
+            "Certifying Organization": "American Society for Nondestructive Testing"
+        }, 
+        {
+            "Acronym": "ACCP-MT", 
+            "Certification Name": "ASNT Central Certification Program Level II - Magnetic Particle Testing", 
+            "Type": "Specialty", 
+            "Certification ID": "7888", 
+            "Certifying Organization": "American Society for Nondestructive Testing"
+        }, 
+        {
+            "Acronym": "ACCP", 
+            "Certification Name": "ASNT Central Certification Program Level II - Ultrasonic Testing", 
+            "Type": "Specialty", 
+            "Certification ID": "7890", 
+            "Certifying Organization": "American Society for Nondestructive Testing"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "ASNT NDT Level III Certification - Acoustic Emission Testing", 
+            "Type": "Specialty", 
+            "Certification ID": "7899", 
+            "Certifying Organization": "American Society for Nondestructive Testing"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "ASNT NDT Level III Certification - Electromagnetic Testing", 
+            "Type": "Specialty", 
+            "Certification ID": "7900", 
+            "Certifying Organization": "American Society for Nondestructive Testing"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "ASNT NDT Level III Certification - Liquid Penetrant Testing", 
+            "Type": "Specialty", 
+            "Certification ID": "7903", 
+            "Certifying Organization": "American Society for Nondestructive Testing"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "ASNT NDT Level III Certification - Visual Testing", 
+            "Type": "Specialty", 
+            "Certification ID": "7908", 
+            "Certifying Organization": "American Society for Nondestructive Testing"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "ASNT Central Certification Program Professional Level III - Radiographic Testing", 
+            "Type": "Specialty", 
+            "Certification ID": "7894", 
+            "Certifying Organization": "American Society for Nondestructive Testing"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "ASNT Central Certification Program Professional Level III - Ultrasonic Testing", 
+            "Type": "Specialty", 
+            "Certification ID": "7895", 
+            "Certifying Organization": "American Society for Nondestructive Testing"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "ASNT NDT Level III Certification - Magnetic Particle Testing", 
+            "Type": "Specialty", 
+            "Certification ID": "7904", 
+            "Certifying Organization": "American Society for Nondestructive Testing"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "ASNT NDT Level III Certification - Ultrasonic Testing", 
+            "Type": "Specialty", 
+            "Certification ID": "7907", 
+            "Certifying Organization": "American Society for Nondestructive Testing"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "ASNT Central Certification Program Professional Level III - Visual and Optical Testing", 
+            "Type": "Specialty", 
+            "Certification ID": "7896", 
+            "Certifying Organization": "American Society for Nondestructive Testing"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "ASNT NDT Level III Certification - Infrared and Thermal Testing", 
+            "Type": "Specialty", 
+            "Certification ID": "7901", 
+            "Certifying Organization": "American Society for Nondestructive Testing"
+        }, 
+        {
+            "Acronym": "ACCP-RT", 
+            "Certification Name": "ASNT Central Certification Program Level II - Radiographic Testing", 
+            "Type": "Specialty", 
+            "Certification ID": "7889", 
+            "Certifying Organization": "American Society for Nondestructive Testing"
+        }, 
+        {
+            "Acronym": "ACCP-PT", 
+            "Certification Name": "ASNT Central Certification Program Level II - Liquid Penetrant Testing", 
+            "Type": "Specialty", 
+            "Certification ID": "7887", 
+            "Certifying Organization": "American Society for Nondestructive Testing"
+        }, 
+        {
+            "Acronym": "ACCP", 
+            "Certification Name": "ASNT Central Certification Program Level II - Visual and Optical Testing", 
+            "Type": "Specialty", 
+            "Certification ID": "7891", 
+            "Certifying Organization": "American Society for Nondestructive Testing"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Electromagnetic Capability Technician", 
+            "Type": "Core", 
+            "Certification ID": "7751", 
+            "Certifying Organization": "International Association for Radio, Telecommunications and  Electromagnetics"
+        }, 
+        {
+            "Acronym": "IRRSP", 
+            "Certification Name": "Industrial Radiography Radiation Safety Personnel - Radioactive Materials", 
+            "Type": "Specialty", 
+            "Certification ID": "7909", 
+            "Certifying Organization": "American Society for Nondestructive Testing"
+        }, 
+        {
+            "Acronym": "OMA", 
+            "Certification Name": "Oil Monitoring Analyst", 
+            "Type": "Core", 
+            "Certification ID": "2108", 
+            "Certifying Organization": "Society of Tribologists and Lubrication Engineers"
+        }, 
+        {
+            "Acronym": "Electromagnetic Compatibility", 
+            "Certification Name": "EMC (Electromagnetic Compatibility) Technician", 
+            "Type": "Advanced", 
+            "Certification ID": "2277", 
+            "Certifying Organization": "National Association of Radio and Telecommunications Engineers, Inc."
+        }, 
+        {
+            "Acronym": "PdM", 
+            "Certification Name": "ASNT Level III - Predictive Maintenance Basic", 
+            "Type": "Specialty", 
+            "Certification ID": "7898", 
+            "Certifying Organization": "American Society for Nondestructive Testing"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "ASNT NDT Level III Certification - Radiographic Testing", 
+            "Type": "Specialty", 
+            "Certification ID": "7906", 
+            "Certifying Organization": "American Society for Nondestructive Testing"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "ASNT Central Certification Program Professional Level III - Liquid Penetrant Testing", 
+            "Type": "Specialty", 
+            "Certification ID": "7892", 
+            "Certifying Organization": "American Society for Nondestructive Testing"
+        }
+    ], 
+    "onet": "17302901"
+}

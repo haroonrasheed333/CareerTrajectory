@@ -1,0 +1,26 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CHI", 
+            "Certification Name": "Certified Heritage Interpreter", 
+            "Type": "Core", 
+            "Certification ID": "2074", 
+            "Certifying Organization": "National Association for Interpretation"
+        }, 
+        {
+            "Acronym": "CIP", 
+            "Certification Name": "Certified Interpretive Planner", 
+            "Type": "Core", 
+            "Certification ID": "2077", 
+            "Certifying Organization": "National Association for Interpretation"
+        }, 
+        {
+            "Acronym": "CIM", 
+            "Certification Name": "Certified Interpretive Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "2076", 
+            "Certifying Organization": "National Association for Interpretation"
+        }
+    ], 
+    "onet": "19309102"
+}

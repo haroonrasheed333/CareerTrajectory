@@ -1,0 +1,110 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CAMH", 
+            "Certification Name": "Certified Associate in Materials Handling", 
+            "Type": "Core", 
+            "Certification ID": "1429", 
+            "Certifying Organization": "Materials Handling and Management Society"
+        }, 
+        {
+            "Acronym": "EMCSA", 
+            "Certification Name": "Storage Administrator", 
+            "Type": "Advanced", 
+            "Certification ID": "5822", 
+            "Certifying Organization": "EMC Corporation"
+        }, 
+        {
+            "Acronym": "CPIM", 
+            "Certification Name": "Certified in Production and Inventory Management", 
+            "Type": "Advanced", 
+            "Certification ID": "1432", 
+            "Certifying Organization": "The Association for Operations Management"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Oracle Transportation Management 6 Certified Implementation Specialist", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8471", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "ASE", 
+            "Certification Name": "Associate Service Executive", 
+            "Type": "Advanced", 
+            "Certification ID": "0957", 
+            "Certifying Organization": "National Association of Service Managers"
+        }, 
+        {
+            "Acronym": "CSE", 
+            "Certification Name": "Certified Service Executive", 
+            "Type": "Advanced", 
+            "Certification ID": "0958", 
+            "Certifying Organization": "National Association of Service Managers"
+        }, 
+        {
+            "Acronym": "CFPIM", 
+            "Certification Name": "Certified Fellow in Production and Inventory Management", 
+            "Type": "Advanced", 
+            "Certification ID": "1434", 
+            "Certifying Organization": "The Association for Operations Management"
+        }, 
+        {
+            "Acronym": "DLP", 
+            "Certification Name": "Distinguished Logistics Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "9190", 
+            "Certifying Organization": "American Society of Transportation and Logistics"
+        }, 
+        {
+            "Acronym": "RCA", 
+            "Certification Name": "Responsible Care Auditor", 
+            "Type": "Advanced", 
+            "Certification ID": "6263", 
+            "Certifying Organization": "Board of Environmental Health and Safety Auditor Certification"
+        }, 
+        {
+            "Acronym": "CAFM", 
+            "Certification Name": "Certified Automotive Fleet Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "1571", 
+            "Certifying Organization": "National Association of Fleet Administrators, Inc."
+        }, 
+        {
+            "Acronym": "PCMH", 
+            "Certification Name": "Professional Certified in Materials Handling", 
+            "Type": "Core", 
+            "Certification ID": "1430", 
+            "Certifying Organization": "Materials Handling and Management Society"
+        }, 
+        {
+            "Acronym": "CSPT", 
+            "Certification Name": "Supervisor of Pupil Transportation", 
+            "Type": "Advanced", 
+            "Certification ID": "2512", 
+            "Certifying Organization": "National Association for Pupil Transportation"
+        }, 
+        {
+            "Acronym": "CTP", 
+            "Certification Name": "Certified Transportation Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "1423", 
+            "Certifying Organization": "National Private Truck Council"
+        }, 
+        {
+            "Acronym": "CTL", 
+            "Certification Name": "Certified in Transportation and Logistics", 
+            "Type": "Advanced", 
+            "Certification ID": "1443", 
+            "Certifying Organization": "American Society of Transportation and Logistics"
+        }, 
+        {
+            "Acronym": "CEPM", 
+            "Certification Name": "IPC EMS Program Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "3482", 
+            "Certifying Organization": "Association Connecting Electronics Industries"
+        }
+    ], 
+    "onet": "11307100"
+}

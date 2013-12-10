@@ -1,0 +1,33 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Cable Splicing Certification", 
+            "Type": "Core", 
+            "Certification ID": "9371", 
+            "Certifying Organization": "National Joint Apprenticeship and Training Committee"
+        }, 
+        {
+            "Acronym": "OCAT", 
+            "Certification Name": "OCAT Technician", 
+            "Type": "Advanced", 
+            "Certification ID": "8582", 
+            "Certifying Organization": "NACE International"
+        }, 
+        {
+            "Acronym": "SOC", 
+            "Certification Name": "System Operator Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "5723", 
+            "Certifying Organization": "North American Electric Reliability Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Instrumentation Certification", 
+            "Type": "Core", 
+            "Certification ID": "9367", 
+            "Certifying Organization": "National Joint Apprenticeship and Training Committee"
+        }
+    ], 
+    "onet": "49209500"
+}

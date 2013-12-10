@@ -1,0 +1,26 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Home Brewers", 
+            "Type": "Core", 
+            "Certification ID": "9174", 
+            "Certifying Organization": "Specialty Coffee Association of America"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Coffee Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "1214", 
+            "Certifying Organization": "National Automatic Merchandising Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Hospitality Skill Certification for Restuarant Servers", 
+            "Type": "Skill", 
+            "Certification ID": "6888", 
+            "Certifying Organization": "American Hotel and Lodging Association Educational Institute"
+        }
+    ], 
+    "onet": "35302201"
+}

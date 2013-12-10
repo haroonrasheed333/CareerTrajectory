@@ -1,0 +1,47 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CPT", 
+            "Certification Name": "Certified Pharmacy Technician", 
+            "Type": "Core", 
+            "Certification ID": "3787", 
+            "Certifying Organization": "National Healthcareer Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Compounding Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "7953", 
+            "Certifying Organization": "National Pharmacy Technician Association"
+        }, 
+        {
+            "Acronym": "CPhT", 
+            "Certification Name": "Certified Pharmacy Technician", 
+            "Type": "Core", 
+            "Certification ID": "1585", 
+            "Certifying Organization": "Pharmacy Technician Certification Board"
+        }, 
+        {
+            "Acronym": "IV", 
+            "Certification Name": "Sterile Products (IV) Certification", 
+            "Type": "Core", 
+            "Certification ID": "7951", 
+            "Certifying Organization": "National Pharmacy Technician Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Chemotherapy Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "7952", 
+            "Certifying Organization": "National Pharmacy Technician Association"
+        }, 
+        {
+            "Acronym": "CPIP", 
+            "Certification Name": "Certified Pharmaceutical Industry Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "8964", 
+            "Certifying Organization": "International Society for Pharmaceutical Engineering"
+        }
+    ], 
+    "onet": "29205200"
+}

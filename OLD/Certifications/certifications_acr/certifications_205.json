@@ -1,0 +1,61 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Senior Corrosion Technologist", 
+            "Type": "Advanced", 
+            "Certification ID": "1149", 
+            "Certifying Organization": "NACE International"
+        }, 
+        {
+            "Acronym": "CSMS", 
+            "Certification Name": "Certified Senior Manufacturing Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "8182", 
+            "Certifying Organization": "Association of Technology, Management, and Applied Engineering"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Corrosion Technologist", 
+            "Type": "Advanced", 
+            "Certification ID": "1147", 
+            "Certifying Organization": "NACE International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Engineering Technologist", 
+            "Type": "Core", 
+            "Certification ID": "7846", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "CMS", 
+            "Certification Name": "Certified Manufacturing Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "8181", 
+            "Certifying Organization": "Association of Technology, Management, and Applied Engineering"
+        }, 
+        {
+            "Acronym": "CMfgT", 
+            "Certification Name": "Certified Manufacturing Technologist", 
+            "Type": "Core", 
+            "Certification ID": "0862", 
+            "Certifying Organization": "Society for Manufacturing Engineers"
+        }, 
+        {
+            "Acronym": "OMA", 
+            "Certification Name": "Oil Monitoring Analyst", 
+            "Type": "Core", 
+            "Certification ID": "2108", 
+            "Certifying Organization": "Society of Tribologists and Lubrication Engineers"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Associate Engineering Technologist", 
+            "Type": "Advanced", 
+            "Certification ID": "7847", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }
+    ], 
+    "onet": "17302905"
+}

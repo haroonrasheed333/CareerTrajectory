@@ -1,0 +1,187 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CETsr", 
+            "Certification Name": "Senior Certified Electronics Technician", 
+            "Type": "Advanced", 
+            "Certification ID": "6842", 
+            "Certifying Organization": "ETA International"
+        }, 
+        {
+            "Acronym": "MBB", 
+            "Certification Name": "Certified Master Black Belt", 
+            "Type": "Advanced", 
+            "Certification ID": "6786", 
+            "Certifying Organization": "American Society for Quality"
+        }, 
+        {
+            "Acronym": "AEM", 
+            "Certification Name": "Associate Engineering Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "3980", 
+            "Certifying Organization": "Society for Manufacturing Engineers"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IPC-A-610 Acceptability of Electronic Assemblies", 
+            "Type": "Advanced", 
+            "Certification ID": "3478", 
+            "Certifying Organization": "Association Connecting Electronics Industries"
+        }, 
+        {
+            "Acronym": "CBCP", 
+            "Certification Name": "Certified Building Commissioning Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "4009", 
+            "Certifying Organization": "Association of Energy Engineers"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IPC-A-600 Acceptability of Printed Circuit Boards", 
+            "Type": "Core", 
+            "Certification ID": "2873", 
+            "Certifying Organization": "Association Connecting Electronics Industries"
+        }, 
+        {
+            "Acronym": "CVS", 
+            "Certification Name": "Certified Value Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "1324", 
+            "Certifying Organization": "Society of American Value Engineers"
+        }, 
+        {
+            "Acronym": "REP", 
+            "Certification Name": "Registered Environmental Professional", 
+            "Type": "Core", 
+            "Certification ID": "1121", 
+            "Certifying Organization": "National Registry of Environmental Professionals"
+        }, 
+        {
+            "Acronym": "CLMC", 
+            "Certification Name": "Certified Lighting Management Consultant", 
+            "Type": "Advanced", 
+            "Certification ID": "1773", 
+            "Certifying Organization": "International Association of Lighting Management Companies"
+        }, 
+        {
+            "Acronym": "CSSBB", 
+            "Certification Name": "Certified Six Sigma Blackbelt", 
+            "Type": "Advanced", 
+            "Certification ID": "2602", 
+            "Certifying Organization": "American Society for Quality"
+        }, 
+        {
+            "Acronym": "EMP", 
+            "Certification Name": "Engineering Manager Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "6813", 
+            "Certifying Organization": "Society for Manufacturing Engineers"
+        }, 
+        {
+            "Acronym": "QEP", 
+            "Certification Name": "Qualified Environmental Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "1125", 
+            "Certifying Organization": "Institute of Professional Environmental Practice"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Oracle IT Architecture Release 3 Certified Architecture Specialist", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8500", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Recycling Systems - Technical Associate", 
+            "Type": "Core", 
+            "Certification ID": "1472", 
+            "Certifying Organization": "Solid Waste Association of North America"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IPC/WHMA-A-620 Requirements & Acceptance for Cable & Wire Harness Assemblies", 
+            "Type": "Advanced", 
+            "Certification ID": "3479", 
+            "Certifying Organization": "Association Connecting Electronics Industries"
+        }, 
+        {
+            "Acronym": "CDFA", 
+            "Certification Name": "Certified Design Firm Administrator", 
+            "Type": "Advanced", 
+            "Certification ID": "6185", 
+            "Certifying Organization": "Society for Design Administration"
+        }, 
+        {
+            "Acronym": "CLS", 
+            "Certification Name": "Certified Lubrication Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "2107", 
+            "Certifying Organization": "Society of Tribologists and Lubrication Engineers"
+        }, 
+        {
+            "Acronym": "AVS", 
+            "Certification Name": "Associate Value Specialist", 
+            "Type": "Core", 
+            "Certification ID": "1325", 
+            "Certifying Organization": "Society of American Value Engineers"
+        }, 
+        {
+            "Acronym": "GDTP", 
+            "Certification Name": "Geometric Dimensioning & Tolerancing Professional - Technologist", 
+            "Type": "Advanced", 
+            "Certification ID": "2153", 
+            "Certifying Organization": "American Society of Mechanical Engineers International"
+        }, 
+        {
+            "Acronym": "CMfgE", 
+            "Certification Name": "Certified Manufacturing Engineer", 
+            "Type": "Core", 
+            "Certification ID": "0861", 
+            "Certifying Organization": "Society for Manufacturing Engineers"
+        }, 
+        {
+            "Acronym": "OMA", 
+            "Certification Name": "Oil Monitoring Analyst", 
+            "Type": "Core", 
+            "Certification ID": "2108", 
+            "Certifying Organization": "Society of Tribologists and Lubrication Engineers"
+        }, 
+        {
+            "Acronym": "CETma", 
+            "Certification Name": "Master Certified Electronics Technician", 
+            "Type": "Advanced", 
+            "Certification ID": "6843", 
+            "Certifying Organization": "ETA International"
+        }, 
+        {
+            "Acronym": "AICP", 
+            "Certification Name": "Certified Planner", 
+            "Type": "Advanced", 
+            "Certification ID": "1327", 
+            "Certifying Organization": "American Institute of Certified Planners"
+        }, 
+        {
+            "Acronym": "CSTM", 
+            "Certification Name": "Certified Senior Technology Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "0860", 
+            "Certifying Organization": "Association of Technology, Management, and Applied Engineering"
+        }, 
+        {
+            "Acronym": "CEPM", 
+            "Certification Name": "IPC EMS Program Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "3482", 
+            "Certifying Organization": "Association Connecting Electronics Industries"
+        }, 
+        {
+            "Acronym": "HHS", 
+            "Certification Name": "Healthy Homes Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "7638", 
+            "Certifying Organization": "National Environmental Health Association"
+        }
+    ], 
+    "onet": "11904100"
+}

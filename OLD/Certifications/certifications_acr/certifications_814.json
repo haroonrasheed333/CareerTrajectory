@@ -1,0 +1,26 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Airmen Certification", 
+            "Type": "Core", 
+            "Certification ID": "5136", 
+            "Certifying Organization": "Federal Aviation Administration"
+        }, 
+        {
+            "Acronym": "PTOE", 
+            "Certification Name": "Professional Traffic Operations Engineer", 
+            "Type": "Advanced", 
+            "Certification ID": "6167", 
+            "Certifying Organization": "Transportation Professional Certification Board, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Medical Certification", 
+            "Type": "Core", 
+            "Certification ID": "5137", 
+            "Certifying Organization": "Federal Aviation Administration"
+        }
+    ], 
+    "onet": "53202100"
+}

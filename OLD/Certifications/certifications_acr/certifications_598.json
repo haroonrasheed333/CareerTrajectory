@@ -1,0 +1,33 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CSO-HCV", 
+            "Certification Name": "Certified Specialist of Occupancy - Housing Choice Voucher", 
+            "Type": "Specialty", 
+            "Certification ID": "6058", 
+            "Certifying Organization": "National Association of Housing and Redevelopment Officials"
+        }, 
+        {
+            "Acronym": "FHC", 
+            "Certification Name": "Fair Housing Compliance", 
+            "Type": "Core", 
+            "Certification ID": "4788", 
+            "Certifying Organization": "National Affordable Housing Management Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Housing Counselor", 
+            "Type": "Core", 
+            "Certification ID": "3997", 
+            "Certifying Organization": "Association for Financial Counseling and Planning Education"
+        }, 
+        {
+            "Acronym": "CFI", 
+            "Certification Name": "Certified Forensic Interviewer", 
+            "Type": "Core", 
+            "Certification ID": "5337", 
+            "Certifying Organization": "Certified Forensic Interviewer"
+        }
+    ], 
+    "onet": "43406100"
+}

@@ -1,0 +1,54 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "RET", 
+            "Certification Name": "Registered Environmental Technician", 
+            "Type": "Core", 
+            "Certification ID": "0126", 
+            "Certifying Organization": "National Environmental Health Association"
+        }, 
+        {
+            "Acronym": "AEP", 
+            "Certification Name": "Associate Environmental Professional", 
+            "Type": "Core", 
+            "Certification ID": "1116", 
+            "Certifying Organization": "National Registry of Environmental Professionals"
+        }, 
+        {
+            "Acronym": "CPCT", 
+            "Certification Name": "Certified Professional Collector Trainer", 
+            "Type": "Advanced", 
+            "Certification ID": "9202", 
+            "Certifying Organization": "Drug & Alcohol Testing Industry Association"
+        }, 
+        {
+            "Acronym": "RELT", 
+            "Certification Name": "Registered Environmental Laboratory Technologist", 
+            "Type": "Advanced", 
+            "Certification ID": "3518", 
+            "Certifying Organization": "National Registry of Environmental Professionals"
+        }, 
+        {
+            "Acronym": "LAT", 
+            "Certification Name": "Laboratory Animal Technician", 
+            "Type": "Core", 
+            "Certification ID": "2369", 
+            "Certifying Organization": "American Association for Laboratory Animal Science"
+        }, 
+        {
+            "Acronym": "FPA", 
+            "Certification Name": "Fisheries Professional Associate", 
+            "Type": "Core", 
+            "Certification ID": "8045", 
+            "Certifying Organization": "American Fisheries Society"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Professional Collector", 
+            "Type": "Core", 
+            "Certification ID": "9201", 
+            "Certifying Organization": "Drug & Alcohol Testing Industry Association"
+        }
+    ], 
+    "onet": "19402100"
+}

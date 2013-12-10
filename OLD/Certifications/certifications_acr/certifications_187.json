@@ -1,0 +1,26 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CID", 
+            "Certification Name": "Certified Interconnect Designer", 
+            "Type": "Core", 
+            "Certification ID": "3480", 
+            "Certifying Organization": "Association Connecting Electronics Industries"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IPC-A-600 Acceptability of Printed Circuit Boards", 
+            "Type": "Core", 
+            "Certification ID": "2873", 
+            "Certifying Organization": "Association Connecting Electronics Industries"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Advanced Certified Interconnect Designer", 
+            "Type": "Advanced", 
+            "Certification ID": "9194", 
+            "Certifying Organization": "Association Connecting Electronics Industries"
+        }
+    ], 
+    "onet": "17301200"
+}

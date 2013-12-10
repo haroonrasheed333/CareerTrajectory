@@ -1,0 +1,33 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CGB", 
+            "Certification Name": "Certified Graduate Builder", 
+            "Type": "Advanced", 
+            "Certification ID": "3790", 
+            "Certifying Organization": "National Association of Home Builders"
+        }, 
+        {
+            "Acronym": "CDT", 
+            "Certification Name": "Construction Documents Technologist", 
+            "Type": "Core", 
+            "Certification ID": "1425", 
+            "Certifying Organization": "Construction Specifications Institute"
+        }, 
+        {
+            "Acronym": "OMA", 
+            "Certification Name": "Oil Monitoring Analyst", 
+            "Type": "Core", 
+            "Certification ID": "2108", 
+            "Certifying Organization": "Society of Tribologists and Lubrication Engineers"
+        }, 
+        {
+            "Acronym": "CEM", 
+            "Certification Name": "Certified Equipment Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "9049", 
+            "Certifying Organization": "Association of Equipment Management Professionals"
+        }
+    ], 
+    "onet": "47207300"
+}

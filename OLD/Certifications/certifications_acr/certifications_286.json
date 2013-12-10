@@ -1,0 +1,152 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Weight Management Specialist Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "9106", 
+            "Certifying Organization": "American Council on Exercise"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Senior Fitness Specialty Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "9113", 
+            "Certifying Organization": "American Council on Exercise"
+        }, 
+        {
+            "Acronym": "RAC", 
+            "Certification Name": "Regulatory Affairs Certification - US", 
+            "Type": "Advanced", 
+            "Certification ID": "6103", 
+            "Certifying Organization": "Regulatory Affairs Professionals Society"
+        }, 
+        {
+            "Acronym": "CST", 
+            "Certification Name": "Sex Therapist Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "2096", 
+            "Certifying Organization": "American Association of Sexuality Educators, Counselors and Therapists"
+        }, 
+        {
+            "Acronym": "AE-C", 
+            "Certification Name": "Certified Asthma Educator", 
+            "Type": "Core", 
+            "Certification ID": "6070", 
+            "Certifying Organization": "National Asthma Education Certification Board"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Functional Training Specialty Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "9108", 
+            "Certifying Organization": "American Council on Exercise"
+        }, 
+        {
+            "Acronym": "CET/CIT", 
+            "Certification Name": "Certified Environmental, Safety and Health Trainer / Certified Instructional Technologist", 
+            "Type": "Advanced", 
+            "Certification ID": "8640", 
+            "Certifying Organization": "Board of Certified Safety Professionals"
+        }, 
+        {
+            "Acronym": "BCN", 
+            "Certification Name": "Board Certified in Neurofeedback", 
+            "Type": "Specialty", 
+            "Certification ID": "6711", 
+            "Certifying Organization": "Biofeedback Certification International Alliance"
+        }, 
+        {
+            "Acronym": "CDE", 
+            "Certification Name": "Certified Diabetes Educator", 
+            "Type": "Specialty", 
+            "Certification ID": "2441", 
+            "Certifying Organization": "National Certification Board for Diabetes Educators"
+        }, 
+        {
+            "Acronym": "CHES", 
+            "Certification Name": "Certified Health Education Specialist", 
+            "Type": "Advanced", 
+            "Certification ID": "1073", 
+            "Certifying Organization": "National Commission for Health Education Credentialing, Inc."
+        }, 
+        {
+            "Acronym": "CSE", 
+            "Certification Name": "Sex Counselor Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "2095", 
+            "Certifying Organization": "American Association of Sexuality Educators, Counselors and Therapists"
+        }, 
+        {
+            "Acronym": "MCHES", 
+            "Certification Name": "Master Certified Health Education Specialist", 
+            "Type": "Advanced", 
+            "Certification ID": "8848", 
+            "Certifying Organization": "National Commission for Health Education Credentialing, Inc."
+        }, 
+        {
+            "Acronym": "IBCLC", 
+            "Certification Name": "International Board Certified Lactation Consultant", 
+            "Type": "Specialty", 
+            "Certification ID": "1193", 
+            "Certifying Organization": "International Board of Lactation Consultant Examiners"
+        }, 
+        {
+            "Acronym": "CAS", 
+            "Certification Name": "Certified Addiction Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "2443", 
+            "Certifying Organization": "American Academy of Health Care Providers in the Addictive Disorders"
+        }, 
+        {
+            "Acronym": "CPH", 
+            "Certification Name": "Certified in Public Health", 
+            "Type": "Specialty", 
+            "Certification ID": "6078", 
+            "Certifying Organization": "National Board of Public Health Examiners"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Food Safety Manager Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "3647", 
+            "Certifying Organization": "National Registry of Food Safety Professionals"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Sex Educator Certification", 
+            "Type": "Core", 
+            "Certification ID": "2094", 
+            "Certifying Organization": "American Association of Sexuality Educators, Counselors and Therapists"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Sex Therapist Supervisor Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "7850", 
+            "Certifying Organization": "American Association of Sexuality Educators, Counselors and Therapists"
+        }, 
+        {
+            "Acronym": "CDIP", 
+            "Certification Name": "Certified Documentation Improvement Practitioner", 
+            "Type": "Core", 
+            "Certification ID": "8042", 
+            "Certifying Organization": "American Health Information Management Association"
+        }, 
+        {
+            "Acronym": "CAEd", 
+            "Certification Name": "Certified Alzheimer Educator", 
+            "Type": "Specialty", 
+            "Certification ID": "8682", 
+            "Certifying Organization": "National Certification Board for Alzheimer Care"
+        }, 
+        {
+            "Acronym": "CHDA", 
+            "Certification Name": "Certified Health Data Analyst", 
+            "Type": "Core", 
+            "Certification ID": "5880", 
+            "Certifying Organization": "American Health Information Management Association"
+        }
+    ], 
+    "onet": "21109100"
+}

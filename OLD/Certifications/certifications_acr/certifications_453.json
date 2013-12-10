@@ -1,0 +1,194 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CUA", 
+            "Certification Name": "Certified Urologic Associates", 
+            "Type": "Specialty", 
+            "Certification ID": "2375", 
+            "Certifying Organization": "Certification Board for Urologic Nurses and Associates"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Weight Management Specialist Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "9106", 
+            "Certifying Organization": "American Council on Exercise"
+        }, 
+        {
+            "Acronym": "POCT", 
+            "Certification Name": "Point-of-Care Technician", 
+            "Type": "Core", 
+            "Certification ID": "2449", 
+            "Certifying Organization": "American Society of Phlebotomy Technicians"
+        }, 
+        {
+            "Acronym": "CWCA", 
+            "Certification Name": "Certified Wound Care Associate", 
+            "Type": "Specialty", 
+            "Certification ID": "6476", 
+            "Certifying Organization": "American Board of Wound Management"
+        }, 
+        {
+            "Acronym": "VA-BC", 
+            "Certification Name": "Vascular Access-Board Certified", 
+            "Type": "Core", 
+            "Certification ID": "9533", 
+            "Certifying Organization": "Vascular Access Certification Corporation"
+        }, 
+        {
+            "Acronym": "NCP", 
+            "Certification Name": "Pharmacology", 
+            "Type": "Specialty", 
+            "Certification ID": "5584", 
+            "Certifying Organization": "National Association for Practical Nurse Education and Service, Inc."
+        }, 
+        {
+            "Acronym": "CIC", 
+            "Certification Name": "Infection Control Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "2290", 
+            "Certifying Organization": "Certification Board of Infection Control and Epidemiology, Inc."
+        }, 
+        {
+            "Acronym": "CAC", 
+            "Certification Name": "Certified Alzheimer Caregiver", 
+            "Type": "Specialty", 
+            "Certification ID": "8681", 
+            "Certifying Organization": "National Certification Board for Alzheimer Care"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "NFLPN Foot Care", 
+            "Type": "Specialty", 
+            "Certification ID": "7948", 
+            "Certifying Organization": "National Federation of Licensed Practical Nurses, Inc."
+        }, 
+        {
+            "Acronym": "CMCN", 
+            "Certification Name": "Certified Managed Care Nurse", 
+            "Type": "Specialty", 
+            "Certification ID": "6755", 
+            "Certifying Organization": "American Board of Managed Care Nursing"
+        }, 
+        {
+            "Acronym": "IVT", 
+            "Certification Name": "IV Therapy", 
+            "Type": "Specialty", 
+            "Certification ID": "9104", 
+            "Certifying Organization": "National Association for Practical Nurse Education and Service, Inc."
+        }, 
+        {
+            "Acronym": "CALN", 
+            "Certification Name": "Certification in Assisted Living Nursing", 
+            "Type": "Specialty", 
+            "Certification ID": "9145", 
+            "Certifying Organization": "National Association of Directors of Nursing Administration in Long Term Care"
+        }, 
+        {
+            "Acronym": "CLTC", 
+            "Certification Name": "Long-Term Care", 
+            "Type": "Specialty", 
+            "Certification ID": "5583", 
+            "Certifying Organization": "National Association for Practical Nurse Education and Service, Inc."
+        }, 
+        {
+            "Acronym": "IBCLC", 
+            "Certification Name": "International Board Certified Lactation Consultant", 
+            "Type": "Specialty", 
+            "Certification ID": "1193", 
+            "Certifying Organization": "International Board of Lactation Consultant Examiners"
+        }, 
+        {
+            "Acronym": "LPN-CLTC", 
+            "Certification Name": "LPN in Long Term Care Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "6501", 
+            "Certifying Organization": "American Association of Long Term Care Nursing"
+        }, 
+        {
+            "Acronym": "LPN-CLTC", 
+            "Certification Name": "Certified Licensed Practical Nurse in Long Term Care", 
+            "Type": "Specialty", 
+            "Certification ID": "9144", 
+            "Certifying Organization": "National Association of Directors of Nursing Administration in Long Term Care"
+        }, 
+        {
+            "Acronym": "CHPLN", 
+            "Certification Name": "Certified Hospice and Palliative Licensed Nurse", 
+            "Type": "Specialty", 
+            "Certification ID": "6708", 
+            "Certifying Organization": "National Board for Certification of Hospice and Palliative Nurses"
+        }, 
+        {
+            "Acronym": "CCN", 
+            "Certification Name": "Certified Corrections Nurse", 
+            "Type": "Specialty", 
+            "Certification ID": "5292", 
+            "Certifying Organization": "American Correctional Association"
+        }, 
+        {
+            "Acronym": "IVC", 
+            "Certification Name": "IV Therapy", 
+            "Type": "Specialty", 
+            "Certification ID": "5585", 
+            "Certifying Organization": "National Federation of Licensed Practical Nurses, Inc."
+        }, 
+        {
+            "Acronym": "CHN", 
+            "Certification Name": "Certified Hemodialysis Nurse", 
+            "Type": "Specialty", 
+            "Certification ID": "9504", 
+            "Certifying Organization": "Board of Nephrology Examiners Technology Nursing"
+        }, 
+        {
+            "Acronym": "CPDN", 
+            "Certification Name": "Certified Peritoneal Dialysis Nurse", 
+            "Type": "Specialty", 
+            "Certification ID": "9505", 
+            "Certifying Organization": "Board of Nephrology Examiners Technology Nursing"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Paramedical Insurance Examiner", 
+            "Type": "Specialty", 
+            "Certification ID": "2452", 
+            "Certifying Organization": "American Society of Phlebotomy Technicians"
+        }, 
+        {
+            "Acronym": "GC", 
+            "Certification Name": "Gerontology ", 
+            "Type": "Specialty", 
+            "Certification ID": "5586", 
+            "Certifying Organization": "National Federation of Licensed Practical Nurses, Inc."
+        }, 
+        {
+            "Acronym": "WCC", 
+            "Certification Name": "Wound Care Certifed", 
+            "Type": "Specialty", 
+            "Certification ID": "6051", 
+            "Certifying Organization": "National Alliance of Wound Care"
+        }, 
+        {
+            "Acronym": "CAEd", 
+            "Certification Name": "Certified Alzheimer Educator", 
+            "Type": "Specialty", 
+            "Certification ID": "8682", 
+            "Certifying Organization": "National Certification Board for Alzheimer Care"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Drug Collection Specialist", 
+            "Type": "Core", 
+            "Certification ID": "2451", 
+            "Certifying Organization": "American Society of Phlebotomy Technicians"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Birth Doula Certification", 
+            "Type": "Core", 
+            "Certification ID": "3570", 
+            "Certifying Organization": "Doulas of North America"
+        }
+    ], 
+    "onet": "29206100"
+}

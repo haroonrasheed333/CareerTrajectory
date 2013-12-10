@@ -1,0 +1,103 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CNE", 
+            "Certification Name": "Certified Nurse Educator", 
+            "Type": "Advanced", 
+            "Certification ID": "6094", 
+            "Certifying Organization": "National League for Nursing"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Microsoft Office Specialist (MOS): Microsoft Office PowerPoint 2007", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7390", 
+            "Certifying Organization": "Microsoft Corporation"
+        }, 
+        {
+            "Acronym": "CTT+", 
+            "Certification Name": "Certified Technical Trainer Certification", 
+            "Type": "Core", 
+            "Certification ID": "2484", 
+            "Certifying Organization": "Computing Technology Industry Association (CompTIA)"
+        }, 
+        {
+            "Acronym": "MOS", 
+            "Certification Name": "Microsoft Office Specialist (MOS): Microsoft Word 2010", 
+            "Type": "Core", 
+            "Certification ID": "7944", 
+            "Certifying Organization": "Microsoft Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Microsoft Office Specialist (MOS): Microsoft Excel 2010 Expert", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7379", 
+            "Certifying Organization": "Microsoft Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Microsoft Office Specialist (MOS): Word 2007 Expert", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7387", 
+            "Certifying Organization": "Microsoft Corporation"
+        }, 
+        {
+            "Acronym": "CSCE", 
+            "Certification Name": "Certified Secondary Culinary Educator", 
+            "Type": "Specialty", 
+            "Certification ID": "3420", 
+            "Certifying Organization": "American Culinary Federation, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Microsoft Office Specialist (MOS): Microsoft Word 2010 Expert", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7377", 
+            "Certifying Organization": "Microsoft Corporation"
+        }, 
+        {
+            "Acronym": "CFCS-HNFS", 
+            "Certification Name": "Certified in Hospitality, Nutrition, and Food Science", 
+            "Type": "Core", 
+            "Certification ID": "8151", 
+            "Certifying Organization": "American Association of Family and Consumer Sciences"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Microsoft Office Specialist: Microsoft Office Excel 2007", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7388", 
+            "Certifying Organization": "Microsoft Corporation"
+        }, 
+        {
+            "Acronym": "EAYA/CTE", 
+            "Certification Name": "National Board Certification - Early Adolescence to Young Adulthood/Career & Technical Education", 
+            "Type": "Specialty", 
+            "Certification ID": "1311", 
+            "Certifying Organization": "National Board for Professional Teaching Standards"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Microsoft Office Specialist (MOS): Excel 2007 Expert", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7389", 
+            "Certifying Organization": "Microsoft Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Microsoft Office Specialist (MOS): SharePoint 2010", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7383", 
+            "Certifying Organization": "Microsoft Corporation"
+        }, 
+        {
+            "Acronym": "CFCS", 
+            "Certification Name": "Certified in Family and Consumer Sciences", 
+            "Type": "Advanced", 
+            "Certification ID": "1319", 
+            "Certifying Organization": "American Association of Family and Consumer Sciences"
+        }
+    ], 
+    "onet": "25203200"
+}

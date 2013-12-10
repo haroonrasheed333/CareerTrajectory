@@ -1,0 +1,264 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "FRM", 
+            "Certification Name": "Certified Financial Risk Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "2219", 
+            "Certifying Organization": "Global Association of Risk Professionals"
+        }, 
+        {
+            "Acronym": "ARM-P", 
+            "Certification Name": "Associate in Risk Management for Public Entities", 
+            "Type": "Core", 
+            "Certification ID": "3108", 
+            "Certifying Organization": "The Institutes"
+        }, 
+        {
+            "Acronym": "CFSA", 
+            "Certification Name": "Certified Financial Services Auditor", 
+            "Type": "Core", 
+            "Certification ID": "3739", 
+            "Certifying Organization": "Institute of Internal Auditors"
+        }, 
+        {
+            "Acronym": "AES", 
+            "Certification Name": "Automated Examination Specialists", 
+            "Type": "Specialty", 
+            "Certification ID": "6262", 
+            "Certifying Organization": "Society of Financial Examiners"
+        }, 
+        {
+            "Acronym": "CIA", 
+            "Certification Name": "Certified Internal Auditor", 
+            "Type": "Core", 
+            "Certification ID": "1206", 
+            "Certifying Organization": "Institute of Internal Auditors"
+        }, 
+        {
+            "Acronym": "AFE", 
+            "Certification Name": "Accredited Financial Examiner", 
+            "Type": "Core", 
+            "Certification ID": "6261", 
+            "Certifying Organization": "Society of Financial Examiners"
+        }, 
+        {
+            "Acronym": "GLEG", 
+            "Certification Name": "GIAC Legal Issues", 
+            "Type": "Core", 
+            "Certification ID": "6775", 
+            "Certifying Organization": "Global Information Assurance Certification"
+        }, 
+        {
+            "Acronym": "CIE", 
+            "Certification Name": "Certified Insurance Examiner", 
+            "Type": "Advanced", 
+            "Certification ID": "2257", 
+            "Certifying Organization": "Insurance Regulatory Examiners Society"
+        }, 
+        {
+            "Acronym": "ARC", 
+            "Certification Name": "Associate in Regulation and Compliance", 
+            "Type": "Core", 
+            "Certification ID": "3110", 
+            "Certifying Organization": "The Institutes"
+        }, 
+        {
+            "Acronym": "GAWN", 
+            "Certification Name": "GIAC Assessing Wireless Networks", 
+            "Type": "Core", 
+            "Certification ID": "4396", 
+            "Certifying Organization": "Global Information Assurance Certification"
+        }, 
+        {
+            "Acronym": "CBA", 
+            "Certification Name": "Certified Bank Auditor", 
+            "Type": "Advanced", 
+            "Certification ID": "4478", 
+            "Certifying Organization": "BAI Center for Certification"
+        }, 
+        {
+            "Acronym": "CEA", 
+            "Certification Name": "Certified Energy Auditor", 
+            "Type": "Advanced", 
+            "Certification ID": "5505", 
+            "Certifying Organization": "Association of Energy Engineers"
+        }, 
+        {
+            "Acronym": "IRB", 
+            "Certification Name": "Certification for Institutional Review Board (IRB) Professionals", 
+            "Type": "Advanced", 
+            "Certification ID": "6872", 
+            "Certifying Organization": "Public Responsibility in Medicine and Research"
+        }, 
+        {
+            "Acronym": "APA", 
+            "Certification Name": "Associate in Premium Auditing", 
+            "Type": "Core", 
+            "Certification ID": "0474", 
+            "Certifying Organization": "The Institutes"
+        }, 
+        {
+            "Acronym": "CCBA", 
+            "Certification Name": "Certified Community Bank Auditor", 
+            "Type": "Core", 
+            "Certification ID": "9239", 
+            "Certifying Organization": "Independent Community Bankers of America"
+        }, 
+        {
+            "Acronym": "CTPA", 
+            "Certification Name": "Certified Treasury Professional Associate", 
+            "Type": "Core", 
+            "Certification ID": "9322", 
+            "Certifying Organization": "Association for Financial Professionals"
+        }, 
+        {
+            "Acronym": "CUCE", 
+            "Certification Name": "Credit Union Compliance Expert", 
+            "Type": "Advanced", 
+            "Certification ID": "9233", 
+            "Certifying Organization": "Credit Union National Association"
+        }, 
+        {
+            "Acronym": "APM", 
+            "Certification Name": "Associated Professional Member", 
+            "Type": "Core", 
+            "Certification ID": "1353", 
+            "Certifying Organization": "American Society of Pension Professionals  and Actuaries"
+        }, 
+        {
+            "Acronym": "CDBV", 
+            "Certification Name": "Certification in Distressed Business Valuation", 
+            "Type": "Advanced", 
+            "Certification ID": "5672", 
+            "Certifying Organization": "Association of Insolvency and Restructuring Advisors"
+        }, 
+        {
+            "Acronym": "CQA", 
+            "Certification Name": "Certified Quality Auditor", 
+            "Type": "Core", 
+            "Certification ID": "0791", 
+            "Certifying Organization": "American Society for Quality"
+        }, 
+        {
+            "Acronym": "AAPA", 
+            "Certification Name": "Associate, Annuity Products and Administration", 
+            "Type": "Core", 
+            "Certification ID": "8223", 
+            "Certifying Organization": "LOMA"
+        }, 
+        {
+            "Acronym": "CGAP", 
+            "Certification Name": "Certified Government Auditing Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "3738", 
+            "Certifying Organization": "Institute of Internal Auditors"
+        }, 
+        {
+            "Acronym": "CFE", 
+            "Certification Name": "Certified Financial Examiner", 
+            "Type": "Advanced", 
+            "Certification ID": "6260", 
+            "Certifying Organization": "Society of Financial Examiners"
+        }, 
+        {
+            "Acronym": "CHA", 
+            "Certification Name": "Certified HACCP Auditor", 
+            "Type": "Core", 
+            "Certification ID": "1987", 
+            "Certifying Organization": "American Society for Quality"
+        }, 
+        {
+            "Acronym": "CRCM", 
+            "Certification Name": "Certified Regulatory Compliance Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "1549", 
+            "Certifying Organization": "Institute of Certified Bankers"
+        }, 
+        {
+            "Acronym": "ARM", 
+            "Certification Name": "Associate in Risk Management", 
+            "Type": "Core", 
+            "Certification ID": "0472", 
+            "Certifying Organization": "The Institutes"
+        }, 
+        {
+            "Acronym": "CCSA", 
+            "Certification Name": "Certification in Control Self-Assessment", 
+            "Type": "Core", 
+            "Certification ID": "1207", 
+            "Certifying Organization": "Institute of Internal Auditors"
+        }, 
+        {
+            "Acronym": "QMSA", 
+            "Certification Name": "Quality Management System Auditor", 
+            "Type": "Advanced", 
+            "Certification ID": "5682", 
+            "Certifying Organization": "RABQSA International"
+        }, 
+        {
+            "Acronym": "CMA", 
+            "Certification Name": "Certified Management Accountant", 
+            "Type": "Core", 
+            "Certification ID": "0016", 
+            "Certifying Organization": "Institute of Management Accountants"
+        }, 
+        {
+            "Acronym": "CBA", 
+            "Certification Name": "Certified Biomedical Auditor", 
+            "Type": "Advanced", 
+            "Certification ID": "2603", 
+            "Certifying Organization": "American Society for Quality"
+        }, 
+        {
+            "Acronym": "CPMA", 
+            "Certification Name": "Certified Professional Medical Auditor", 
+            "Type": "Specialty", 
+            "Certification ID": "6751", 
+            "Certifying Organization": "American Academy of Professional Coders"
+        }, 
+        {
+            "Acronym": "CRM", 
+            "Certification Name": "Certified Risk Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "2168", 
+            "Certifying Organization": "The National Alliance for Insurance Education and Research"
+        }, 
+        {
+            "Acronym": "AIE", 
+            "Certification Name": "Accredited Insurance Examiner", 
+            "Type": "Core", 
+            "Certification ID": "2256", 
+            "Certifying Organization": "Insurance Regulatory Examiners Society"
+        }, 
+        {
+            "Acronym": "CAPA", 
+            "Certification Name": "Certified Asset Protection Analyst", 
+            "Type": "Advanced", 
+            "Certification ID": "7925", 
+            "Certifying Organization": "American Academy of Financial Management"
+        }, 
+        {
+            "Acronym": "CPA", 
+            "Certification Name": "Certified Public Accountant", 
+            "Type": "Advanced", 
+            "Certification ID": "3852", 
+            "Certifying Organization": "American Institute of Certified Public Accountants"
+        }, 
+        {
+            "Acronym": "CRMA", 
+            "Certification Name": "Certification in Risk Management Assurance", 
+            "Type": "Core", 
+            "Certification ID": "9319", 
+            "Certifying Organization": "Institute of Internal Auditors"
+        }, 
+        {
+            "Acronym": "CTP", 
+            "Certification Name": "Certified Treasury Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "0080", 
+            "Certifying Organization": "Association for Financial Professionals"
+        }
+    ], 
+    "onet": "13201102"
+}

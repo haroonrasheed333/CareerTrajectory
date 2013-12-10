@@ -1,0 +1,82 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Diplomate", 
+            "Type": "Advanced", 
+            "Certification ID": "8842", 
+            "Certifying Organization": "National Board of Medical Examiners"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Advanced Perioperative Transesophageal Echocardiography", 
+            "Type": "Specialty", 
+            "Certification ID": "8125", 
+            "Certifying Organization": "National Board of Echocardiography"
+        }, 
+        {
+            "Acronym": "CNSC", 
+            "Certification Name": "Certified Nutrition Support Clinician", 
+            "Type": "Advanced", 
+            "Certification ID": "2437", 
+            "Certifying Organization": "National Board of Nutrition Support Certification, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Transthoracic plus Stress Echocardiography", 
+            "Type": "Specialty", 
+            "Certification ID": "8123", 
+            "Certifying Organization": "National Board of Echocardiography"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Medical Biochemical Genetics", 
+            "Type": "Specialty", 
+            "Certification ID": "6433", 
+            "Certifying Organization": "American Board of Medical Genetics"
+        }, 
+        {
+            "Acronym": "CoAP", 
+            "Certification Name": "Cardiac CT Certificate of Advanced Proficiency", 
+            "Type": "Specialty", 
+            "Certification ID": "9491", 
+            "Certifying Organization": "American College of Radiology"
+        }, 
+        {
+            "Acronym": "CPE", 
+            "Certification Name": "Certified Physician Executive", 
+            "Type": "Specialty", 
+            "Certification ID": "9526", 
+            "Certifying Organization": "Certifying Commission in Medical Management"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Hospice and Palliative Medicine", 
+            "Type": "Specialty", 
+            "Certification ID": "6442", 
+            "Certifying Organization": "American Board of Surgery"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Clinical Genetics", 
+            "Type": "Advanced", 
+            "Certification ID": "0192", 
+            "Certifying Organization": "American Board of Medical Genetics"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Molecular Genetic Pathology", 
+            "Type": "Specialty", 
+            "Certification ID": "6434", 
+            "Certifying Organization": "American Board of Medical Genetics"
+        }, 
+        {
+            "Acronym": "RhMSUS", 
+            "Certification Name": "Musculoskeletal Ultrasound Certification in Rheumatology", 
+            "Type": "Specialty", 
+            "Certification ID": "9212", 
+            "Certifying Organization": "American College of Rheumatology"
+        }
+    ], 
+    "onet": "29106900"
+}

@@ -1,0 +1,138 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "ACA", 
+            "Certification Name": "Associate of the Conference", 
+            "Type": "Core", 
+            "Certification ID": "1985", 
+            "Certifying Organization": "Conference of Consulting Actuaries"
+        }, 
+        {
+            "Acronym": "TGPC", 
+            "Certification Name": "Tax-Exempt & Governmental Plan Consultant", 
+            "Type": "Advanced", 
+            "Certification ID": "5840", 
+            "Certifying Organization": "American Society of Pension Professionals  and Actuaries"
+        }, 
+        {
+            "Acronym": "k", 
+            "Certification Name": "Qualified 401(k) Administrator", 
+            "Type": "Advanced", 
+            "Certification ID": "3983", 
+            "Certifying Organization": "American Society of Pension Professionals  and Actuaries"
+        }, 
+        {
+            "Acronym": "CRFA", 
+            "Certification Name": "Certified Retirement Financial Advisor", 
+            "Type": "Advanced", 
+            "Certification ID": "9152", 
+            "Certifying Organization": "Society of Certified Retirement Financial Advisors"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Associate Developer - Algo Financial Modeler", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9274", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "FSPA", 
+            "Certification Name": "Fellow, American Society of Pension Actuaries", 
+            "Type": "Advanced", 
+            "Certification ID": "1355", 
+            "Certifying Organization": "American Society of Pension Professionals  and Actuaries"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Associateship in the Casualty Actuarial Society", 
+            "Type": "Core", 
+            "Certification ID": "5774", 
+            "Certifying Organization": "Casualty Actuarial Society"
+        }, 
+        {
+            "Acronym": "RPA", 
+            "Certification Name": "Retirement Plans Associate", 
+            "Type": "Core", 
+            "Certification ID": "8137", 
+            "Certifying Organization": "International Foundation of Employee Benefit Plans"
+        }, 
+        {
+            "Acronym": "APM", 
+            "Certification Name": "Associated Professional Member", 
+            "Type": "Core", 
+            "Certification ID": "1353", 
+            "Certifying Organization": "American Society of Pension Professionals  and Actuaries"
+        }, 
+        {
+            "Acronym": "AAPA", 
+            "Certification Name": "Associate, Annuity Products and Administration", 
+            "Type": "Core", 
+            "Certification ID": "8223", 
+            "Certifying Organization": "LOMA"
+        }, 
+        {
+            "Acronym": "ASA", 
+            "Certification Name": "Associate of the Society of Actuaries", 
+            "Type": "Core", 
+            "Certification ID": "0127", 
+            "Certifying Organization": "Society of Actuaries"
+        }, 
+        {
+            "Acronym": "FCA", 
+            "Certification Name": "Fellow of the Conference", 
+            "Type": "Advanced", 
+            "Certification ID": "1983", 
+            "Certifying Organization": "Conference of Consulting Actuaries"
+        }, 
+        {
+            "Acronym": "CAS", 
+            "Certification Name": "Certified Annuity Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "9022", 
+            "Certifying Organization": "Institute of Business & Finance"
+        }, 
+        {
+            "Acronym": "MSPA", 
+            "Certification Name": "Member, American Society of Pension Actuaries", 
+            "Type": "Core", 
+            "Certification ID": "1354", 
+            "Certifying Organization": "American Society of Pension Professionals  and Actuaries"
+        }, 
+        {
+            "Acronym": "CAS", 
+            "Certification Name": "Certified Annuity Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "3529", 
+            "Certifying Organization": "Institute of Certified Fund Specialists"
+        }, 
+        {
+            "Acronym": "FCAS", 
+            "Certification Name": "Fellow in the Casualty Actuarial Society", 
+            "Type": "Advanced", 
+            "Certification ID": "5368", 
+            "Certifying Organization": "Casualty Actuarial Society"
+        }, 
+        {
+            "Acronym": "FSA", 
+            "Certification Name": "Fellow of the Society of Actuaries", 
+            "Type": "Advanced", 
+            "Certification ID": "0128", 
+            "Certifying Organization": "Society of Actuaries"
+        }, 
+        {
+            "Acronym": "CPC", 
+            "Certification Name": "Certified Pension Consultant", 
+            "Type": "Core", 
+            "Certification ID": "1357", 
+            "Certifying Organization": "American Society of Pension Professionals  and Actuaries"
+        }, 
+        {
+            "Acronym": "QPA", 
+            "Certification Name": "Qualified Pension Administrator", 
+            "Type": "Advanced", 
+            "Certification ID": "1356", 
+            "Certifying Organization": "American Society of Pension Professionals  and Actuaries"
+        }
+    ], 
+    "onet": "15201100"
+}

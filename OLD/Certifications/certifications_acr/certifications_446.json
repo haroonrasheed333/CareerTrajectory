@@ -1,0 +1,75 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "SNS", 
+            "Certification Name": "School Nutrition Specialist", 
+            "Type": "Core", 
+            "Certification ID": "4871", 
+            "Certifying Organization": "School Nutrition Association"
+        }, 
+        {
+            "Acronym": "CSSD", 
+            "Certification Name": "Certified Specialist in Sports Dietetics", 
+            "Type": "Specialty", 
+            "Certification ID": "6719", 
+            "Certifying Organization": "Commission on Dietetic Registration"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Sports Nutrition Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "1292", 
+            "Certifying Organization": "International Sports Sciences Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Fitness Nutrition Certification", 
+            "Type": "Core", 
+            "Certification ID": "1291", 
+            "Certifying Organization": "International Sports Sciences Association"
+        }, 
+        {
+            "Acronym": "DTR", 
+            "Certification Name": "Dietetic Technician, Registered", 
+            "Type": "Core", 
+            "Certification ID": "6718", 
+            "Certifying Organization": "Commission on Dietetic Registration"
+        }, 
+        {
+            "Acronym": "CNC", 
+            "Certification Name": "Nutrition/Wellness Consultant Certification", 
+            "Type": "Core", 
+            "Certification ID": "1068", 
+            "Certifying Organization": "American Fitness Professionals and Associates"
+        }, 
+        {
+            "Acronym": "CSR", 
+            "Certification Name": "Certified Specialist in Renal Nutrition", 
+            "Type": "Specialty", 
+            "Certification ID": "6720", 
+            "Certifying Organization": "Commission on Dietetic Registration"
+        }, 
+        {
+            "Acronym": "CDM", 
+            "Certification Name": "Certified Dietary Manager-Certified Food Protection Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "1527", 
+            "Certifying Organization": "Association of Nutrition and Food Service Professionals"
+        }, 
+        {
+            "Acronym": "ACFSA,", 
+            "Certification Name": "Certified Correctional Foodservice Professional", 
+            "Type": "Specialty", 
+            "Certification ID": "3760", 
+            "Certifying Organization": "American Correctional Food Service Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Sports Nutrition Consultant Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "3908", 
+            "Certifying Organization": "American Fitness Professionals and Associates"
+        }
+    ], 
+    "onet": "29205100"
+}

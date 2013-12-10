@@ -1,0 +1,68 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "GLA", 
+            "Certification Name": "Global Logistics Associate", 
+            "Type": "Core", 
+            "Certification ID": "8660", 
+            "Certifying Organization": "American Society of Transportation and Logistics"
+        }, 
+        {
+            "Acronym": "CLP", 
+            "Certification Name": "Certified Logistic Professional", 
+            "Type": "Core", 
+            "Certification ID": "5778", 
+            "Certifying Organization": "International Warehouse Logistics Association"
+        }, 
+        {
+            "Acronym": "CLT", 
+            "Certification Name": "Certified Logistics Technician", 
+            "Type": "Core", 
+            "Certification ID": "6505", 
+            "Certifying Organization": "Manufacturing Skill Standards Council"
+        }, 
+        {
+            "Acronym": "CSCP", 
+            "Certification Name": "Certified Supply Chain Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "4895", 
+            "Certifying Organization": "The Association for Operations Management"
+        }, 
+        {
+            "Acronym": "PLS", 
+            "Certification Name": "Professional Designation in Logistics and Supply Chain Management", 
+            "Type": "Advanced", 
+            "Certification ID": "3984", 
+            "Certifying Organization": "American Society of Transportation and Logistics"
+        }, 
+        {
+            "Acronym": "DLP", 
+            "Certification Name": "Distinguished Logistics Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "9190", 
+            "Certifying Organization": "American Society of Transportation and Logistics"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Oracle Global Trade Management 6 Certified Implementation Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "8485", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "CMRP", 
+            "Certification Name": "Certified Materials & Resource Professional", 
+            "Type": "Core", 
+            "Certification ID": "3746", 
+            "Certifying Organization": "Association for Healthcare Resource & Materials Management"
+        }, 
+        {
+            "Acronym": "CLA", 
+            "Certification Name": "Certified Logistics Associate", 
+            "Type": "Core", 
+            "Certification ID": "6504", 
+            "Certifying Organization": "Manufacturing Skill Standards Council"
+        }
+    ], 
+    "onet": "13108102"
+}

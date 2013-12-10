@@ -1,0 +1,54 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Anger Management Certification", 
+            "Type": "Core", 
+            "Certification ID": "6997", 
+            "Certifying Organization": "Association of Christian Alcohol and Drug Counselors"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification in Cognitive Therapy", 
+            "Type": "Core", 
+            "Certification ID": "8670", 
+            "Certifying Organization": "Academy of Cognitive Therapy"
+        }, 
+        {
+            "Acronym": "NCRW", 
+            "Certification Name": "Nationally Certified Resume Writer", 
+            "Type": "Advanced", 
+            "Certification ID": "2071", 
+            "Certifying Organization": "National Resume Writers Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Professional Counselor", 
+            "Type": "Advanced", 
+            "Certification ID": "5966", 
+            "Certifying Organization": "American Psychotherapy Association"
+        }, 
+        {
+            "Acronym": "CEAP", 
+            "Certification Name": "Certified Employee Assistance Professional", 
+            "Type": "Core", 
+            "Certification ID": "1375", 
+            "Certifying Organization": "International Employee Assistance Professionals Association"
+        }, 
+        {
+            "Acronym": "NCFR", 
+            "Certification Name": "Certified Family Life Educator", 
+            "Type": "Advanced", 
+            "Certification ID": "3646", 
+            "Certifying Organization": "National Council on Family Relations"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Housing Counselor", 
+            "Type": "Core", 
+            "Certification ID": "3997", 
+            "Certifying Organization": "Association for Financial Counseling and Planning Education"
+        }
+    ], 
+    "onet": "21101900"
+}

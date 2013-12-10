@@ -1,0 +1,152 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "DNC", 
+            "Certification Name": "Dermatology Nurse Certified", 
+            "Type": "Specialty", 
+            "Certification ID": "6484", 
+            "Certifying Organization": "Dermatology Nurses' Association"
+        }, 
+        {
+            "Acronym": "CENP", 
+            "Certification Name": "Certified in Executive Nursing Practice", 
+            "Type": "Advanced", 
+            "Certification ID": "8941", 
+            "Certifying Organization": "American Organization of Nurse Executives Credentialing Center"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Clinical Nurse Specialist in Adult Psychiatric & Mental Health", 
+            "Type": "Specialty", 
+            "Certification ID": "6117", 
+            "Certifying Organization": "American Nurses Credentialing Center"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification in Cognitive Therapy", 
+            "Type": "Core", 
+            "Certification ID": "8670", 
+            "Certifying Organization": "Academy of Cognitive Therapy"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification of Clinical Hypnosis", 
+            "Type": "Advanced", 
+            "Certification ID": "9301", 
+            "Certifying Organization": "American Society of Clinical Hypnosis"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Clinical Nurse Specialist in Child/Adolescent Psychiatric & Mental Health", 
+            "Type": "Specialty", 
+            "Certification ID": "6118", 
+            "Certifying Organization": "American Nurses Credentialing Center"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Adult Psychiatric & Mental Health Nurse Practitioner", 
+            "Type": "Core", 
+            "Certification ID": "6111", 
+            "Certifying Organization": "American Nurses Credentialing Center"
+        }, 
+        {
+            "Acronym": "GDCN", 
+            "Certification Name": "Geriatric Diabetic Certified Nurse", 
+            "Type": "Specialty", 
+            "Certification ID": "9146", 
+            "Certifying Organization": "National Association of Directors of Nursing Administration in Long Term Care"
+        }, 
+        {
+            "Acronym": "CPRP", 
+            "Certification Name": "Certified Psychiatric Rehabilitation Practitioner", 
+            "Type": "Specialty", 
+            "Certification ID": "6109", 
+            "Certifying Organization": "US Psychiatric Rehabilitation Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Family Psychiatric & Mental Health Nurse Practitioner", 
+            "Type": "Specialty", 
+            "Certification ID": "6113", 
+            "Certifying Organization": "American Nurses Credentialing Center"
+        }, 
+        {
+            "Acronym": "CALN", 
+            "Certification Name": "Certification in Assisted Living Nursing", 
+            "Type": "Specialty", 
+            "Certification ID": "9145", 
+            "Certifying Organization": "National Association of Directors of Nursing Administration in Long Term Care"
+        }, 
+        {
+            "Acronym": "CRNA", 
+            "Certification Name": "Certified Registered Nurse Anesthetist", 
+            "Type": "Advanced", 
+            "Certification ID": "6979", 
+            "Certifying Organization": "National Board on Certification and Recertification of Nurse Anesthetists"
+        }, 
+        {
+            "Acronym": "CPHQ", 
+            "Certification Name": "Certified Professional in Healthcare Quality", 
+            "Type": "Core", 
+            "Certification ID": "9207", 
+            "Certifying Organization": "National Association for Healthcare Quality"
+        }, 
+        {
+            "Acronym": "CDON/LTC", 
+            "Certification Name": "Certified Director of Nursing in Long Term Care", 
+            "Type": "Specialty", 
+            "Certification ID": "9138", 
+            "Certifying Organization": "National Association of Directors of Nursing Administration in Long Term Care"
+        }, 
+        {
+            "Acronym": "DCNP", 
+            "Certification Name": "Dermatology Certified Nurse Practitioner", 
+            "Type": "Specialty", 
+            "Certification ID": "6485", 
+            "Certifying Organization": "Dermatology Nurses' Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Approved Consultant in Clinical Hypnosis", 
+            "Type": "Advanced", 
+            "Certification ID": "9302", 
+            "Certifying Organization": "American Society of Clinical Hypnosis"
+        }, 
+        {
+            "Acronym": "CHN", 
+            "Certification Name": "Certified Hemodialysis Nurse", 
+            "Type": "Specialty", 
+            "Certification ID": "9504", 
+            "Certifying Organization": "Board of Nephrology Examiners Technology Nursing"
+        }, 
+        {
+            "Acronym": "CPDN", 
+            "Certification Name": "Certified Peritoneal Dialysis Nurse", 
+            "Type": "Specialty", 
+            "Certification ID": "9505", 
+            "Certifying Organization": "Board of Nephrology Examiners Technology Nursing"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Psychiatric - Mental Health Nursing", 
+            "Type": "Core", 
+            "Certification ID": "6133", 
+            "Certifying Organization": "American Nurses Credentialing Center"
+        }, 
+        {
+            "Acronym": "PMHS", 
+            "Certification Name": "Child & Adolescent Behavioral & Mental Health", 
+            "Type": "Specialty", 
+            "Certification ID": "6886", 
+            "Certifying Organization": "Pediatric Nursing Certification Board"
+        }, 
+        {
+            "Acronym": "CNML", 
+            "Certification Name": "Nurse Manager and Leader", 
+            "Type": "Core", 
+            "Certification ID": "5733", 
+            "Certifying Organization": "American Association of Critical-Care Nurses "
+        }
+    ], 
+    "onet": "29114102"
+}

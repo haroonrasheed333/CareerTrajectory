@@ -1,0 +1,26 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Professional Manufacturers Representative", 
+            "Type": "Core", 
+            "Certification ID": "4773", 
+            "Certifying Organization": "Manufacturers Representatives Educational Research Foundation"
+        }, 
+        {
+            "Acronym": "GPPA", 
+            "Certification Name": "Graduate Personal Property Appraiser", 
+            "Type": "Advanced", 
+            "Certification ID": "1226", 
+            "Certifying Organization": "National Auctioneers Association"
+        }, 
+        {
+            "Acronym": "CAI", 
+            "Certification Name": "Certified Auctioneers Institute Auctioneer", 
+            "Type": "Core", 
+            "Certification ID": "1227", 
+            "Certifying Organization": "National Auctioneers Association"
+        }
+    ], 
+    "onet": "41309900"
+}

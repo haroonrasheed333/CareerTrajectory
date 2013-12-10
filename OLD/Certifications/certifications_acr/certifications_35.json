@@ -1,0 +1,19 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CPLP", 
+            "Certification Name": "Certified Professional in Learning and Performance", 
+            "Type": "Core", 
+            "Certification ID": "4842", 
+            "Certifying Organization": "American Society for Training and Development"
+        }, 
+        {
+            "Acronym": "DCF", 
+            "Certification Name": "Distance Credential Facilitator", 
+            "Type": "Advanced", 
+            "Certification ID": "5436", 
+            "Certifying Organization": "Center for Credentialing & Education, Inc."
+        }
+    ], 
+    "onet": "11903901"
+}

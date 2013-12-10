@@ -1,0 +1,82 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "IRRSP", 
+            "Certification Name": "Industrial Radiography Radiation Safety Personnel - X-Ray", 
+            "Type": "Specialty", 
+            "Certification ID": "7910", 
+            "Certifying Organization": "American Society for Nondestructive Testing"
+        }, 
+        {
+            "Acronym": "RTR", 
+            "Certification Name": "Registered Technologist - Radiography", 
+            "Type": "Core", 
+            "Certification ID": "6492", 
+            "Certifying Organization": "American Registry of Radiologic Technologists"
+        }, 
+        {
+            "Acronym": "RTS", 
+            "Certification Name": "Registered Technologist - Sonography", 
+            "Type": "Core", 
+            "Certification ID": "2686", 
+            "Certifying Organization": "American Registry of Radiologic Technologists"
+        }, 
+        {
+            "Acronym": "IRRSP", 
+            "Certification Name": "Industry Radiography Radiation Safety Personnel", 
+            "Type": "Specialty", 
+            "Certification ID": "2202", 
+            "Certifying Organization": "American Society for Nondestructive Testing"
+        }, 
+        {
+            "Acronym": "RTQM", 
+            "Certification Name": "Registered Technologist - Quality Management", 
+            "Type": "Specialty", 
+            "Certification ID": "2031", 
+            "Certifying Organization": "American Registry of Radiologic Technologists"
+        }, 
+        {
+            "Acronym": "RTVI", 
+            "Certification Name": "Registered Technologist - Vascular-Interventional Radiography", 
+            "Type": "Specialty", 
+            "Certification ID": "3748", 
+            "Certifying Organization": "American Registry of Radiologic Technologists"
+        }, 
+        {
+            "Acronym": "CMD", 
+            "Certification Name": "Certified Medical Dosimetrist", 
+            "Type": "Core", 
+            "Certification ID": "2032", 
+            "Certifying Organization": "Medical Dosimetrist Certification Board"
+        }, 
+        {
+            "Acronym": "IRRSP", 
+            "Certification Name": "Industrial Radiography Radiation Safety Personnel - Radioactive Materials", 
+            "Type": "Specialty", 
+            "Certification ID": "7909", 
+            "Certifying Organization": "American Society for Nondestructive Testing"
+        }, 
+        {
+            "Acronym": "RTT", 
+            "Certification Name": "Registered Technologist - Radiation Therapy", 
+            "Type": "Specialty", 
+            "Certification ID": "6939", 
+            "Certifying Organization": "American Registry of Radiologic Technologists"
+        }, 
+        {
+            "Acronym": "NCT", 
+            "Certification Name": "Nuclear Cardiology Technologist", 
+            "Type": "Specialty", 
+            "Certification ID": "5578", 
+            "Certifying Organization": "Nuclear Medicine Technology Certification Board"
+        }, 
+        {
+            "Acronym": "RTVS", 
+            "Certification Name": "Registered Technologist - Vascular Sonography", 
+            "Type": "Specialty", 
+            "Certification ID": "2684", 
+            "Certifying Organization": "American Registry of Radiologic Technologists"
+        }
+    ], 
+    "onet": "29112400"
+}

@@ -1,0 +1,40 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CCG", 
+            "Certification Name": "Certified Coal Geologist", 
+            "Type": "Advanced", 
+            "Certification ID": "2087", 
+            "Certifying Organization": "American Association of Petroleum Geologists"
+        }, 
+        {
+            "Acronym": "RL", 
+            "Certification Name": "Registered Landman", 
+            "Type": "Core", 
+            "Certification ID": "8684", 
+            "Certifying Organization": "American Association of Professional Landmen"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Petroleum Geophysicist", 
+            "Type": "Advanced", 
+            "Certification ID": "2088", 
+            "Certifying Organization": "American Association of Petroleum Geologists"
+        }, 
+        {
+            "Acronym": "RPL", 
+            "Certification Name": "Registered Professional Landman", 
+            "Type": "Advanced", 
+            "Certification ID": "8685", 
+            "Certifying Organization": "American Association of Professional Landmen"
+        }, 
+        {
+            "Acronym": "CPL", 
+            "Certification Name": "Certified Professional Landman", 
+            "Type": "Advanced", 
+            "Certification ID": "8686", 
+            "Certifying Organization": "American Association of Professional Landmen"
+        }
+    ], 
+    "onet": "19404100"
+}

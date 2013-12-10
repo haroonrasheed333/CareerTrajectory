@@ -1,0 +1,26 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "PMTLevel", 
+            "Certification Name": "Custom Pipeline Maintenance Inspector", 
+            "Type": "Advanced", 
+            "Certification ID": "8215", 
+            "Certifying Organization": "National Center for Construction Education and Research"
+        }, 
+        {
+            "Acronym": "CPI", 
+            "Certification Name": "Certified Pump Installer", 
+            "Type": "Core", 
+            "Certification ID": "7703", 
+            "Certifying Organization": "National Ground Water Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Control Center Operations Technician", 
+            "Type": "Core", 
+            "Certification ID": "5404", 
+            "Certifying Organization": "National Center for Construction Education and Research"
+        }
+    ], 
+    "onet": "53707200"
+}

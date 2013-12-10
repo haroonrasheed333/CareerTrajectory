@@ -1,0 +1,54 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "QMP", 
+            "Certification Name": "Qualified Medical Physicist", 
+            "Type": "Core", 
+            "Certification ID": "7913", 
+            "Certifying Organization": "American Association of Physicists in Medicine"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Medical Physics", 
+            "Type": "Advanced", 
+            "Certification ID": "0258", 
+            "Certifying Organization": "American Board of Radiology"
+        }, 
+        {
+            "Acronym": "CBP", 
+            "Certification Name": "Certified Biometrics Professional", 
+            "Type": "Core", 
+            "Certification ID": "6046", 
+            "Certifying Organization": "Institute of Electrical and Electronics Engineers"
+        }, 
+        {
+            "Acronym": "QEP", 
+            "Certification Name": "Qualified Environmental Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "1125", 
+            "Certifying Organization": "Institute of Professional Environmental Practice"
+        }, 
+        {
+            "Acronym": "CHP", 
+            "Certification Name": "Certified Health Physicist", 
+            "Type": "Core", 
+            "Certification ID": "2151", 
+            "Certifying Organization": "American Academy of Health Physics"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified in Nuclear Medicine: Nuclear Medicine Physics and Instrumentation", 
+            "Type": "Specialty", 
+            "Certification ID": "6480", 
+            "Certifying Organization": "American Board of Science in Nuclear Medicine"
+        }, 
+        {
+            "Acronym": "RHMMC", 
+            "Certification Name": "Registered Hazardous and Chemical Materials Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "3517", 
+            "Certifying Organization": "National Registry of Environmental Professionals"
+        }
+    ], 
+    "onet": "19201200"
+}

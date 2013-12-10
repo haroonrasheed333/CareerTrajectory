@@ -1,0 +1,33 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CPAg", 
+            "Certification Name": "Certified Professional Agronomist", 
+            "Type": "Core", 
+            "Certification ID": "1964", 
+            "Certifying Organization": "American Society of Agronomy - ARCPACS"
+        }, 
+        {
+            "Acronym": "AFM", 
+            "Certification Name": "Accredited Farm Manager", 
+            "Type": "Core", 
+            "Certification ID": "0450", 
+            "Certifying Organization": "American Society of Farm Managers and Rural Appraisers"
+        }, 
+        {
+            "Acronym": "CCA", 
+            "Certification Name": "Certified Crop Advisor", 
+            "Type": "Core", 
+            "Certification ID": "1963", 
+            "Certifying Organization": "American Society of Agronomy - ARCPACS"
+        }, 
+        {
+            "Acronym": "CAIS", 
+            "Certification Name": "Certified Agricultural Irrigation Specialist", 
+            "Type": "Core", 
+            "Certification ID": "1457", 
+            "Certifying Organization": "Irrigation Association"
+        }
+    ], 
+    "onet": "11901302"
+}

@@ -1,0 +1,26 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CFER", 
+            "Certification Name": "Certified Flexible Endoscope Reprocessor", 
+            "Type": "Core", 
+            "Certification ID": "3641", 
+            "Certifying Organization": "Certification Board for Sterile Processing and Distribution "
+        }, 
+        {
+            "Acronym": "CCH", 
+            "Certification Name": "Certified Colon Hydrotherapist - Foundation", 
+            "Type": "Specialty", 
+            "Certification ID": "2874", 
+            "Certifying Organization": "International Association for Colon Hydrotherapy"
+        }, 
+        {
+            "Acronym": "CCH", 
+            "Certification Name": "Certified Colon Hydrotherapist - Advanced", 
+            "Type": "Advanced", 
+            "Certification ID": "5793", 
+            "Certifying Organization": "International Association for Colon Hydrotherapy"
+        }
+    ], 
+    "onet": "31909902"
+}

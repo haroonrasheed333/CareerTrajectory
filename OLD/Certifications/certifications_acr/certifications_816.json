@@ -1,0 +1,26 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CCTM", 
+            "Certification Name": "Certified Community Transit Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "5591", 
+            "Certifying Organization": "Community Transportation Association of America"
+        }, 
+        {
+            "Acronym": "CCAS", 
+            "Certification Name": "Certified Community Transit Supervisor", 
+            "Type": "Advanced", 
+            "Certification ID": "6191", 
+            "Certifying Organization": "Community Transportation Association of America"
+        }, 
+        {
+            "Acronym": "CPFP", 
+            "Certification Name": "Certified Public Fleet Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "6171", 
+            "Certifying Organization": "American Public Works Association"
+        }
+    ], 
+    "onet": "53302100"
+}

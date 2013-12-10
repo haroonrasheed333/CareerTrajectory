@@ -1,0 +1,33 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Compounding Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "7953", 
+            "Certifying Organization": "National Pharmacy Technician Association"
+        }, 
+        {
+            "Acronym": "IV", 
+            "Certification Name": "Sterile Products (IV) Certification", 
+            "Type": "Core", 
+            "Certification ID": "7951", 
+            "Certifying Organization": "National Pharmacy Technician Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Registered Medical Assistant", 
+            "Type": "Core", 
+            "Certification ID": "8528", 
+            "Certifying Organization": "American Phlebotomy Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Chemotherapy Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "7952", 
+            "Certifying Organization": "National Pharmacy Technician Association"
+        }
+    ], 
+    "onet": "31909500"
+}

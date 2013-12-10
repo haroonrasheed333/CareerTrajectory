@@ -1,0 +1,33 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "MECP", 
+            "Certification Name": "Mobile Product Specialist", 
+            "Type": "Core", 
+            "Certification ID": "1178", 
+            "Certifying Organization": "Consumer Electronics Association"
+        }, 
+        {
+            "Acronym": "CET", 
+            "Certification Name": "Certified Electronics Technician - Journeyman-Level - Radar", 
+            "Type": "Specialty", 
+            "Certification ID": "0510", 
+            "Certifying Organization": "International Society of Certified Electronics Technicians"
+        }, 
+        {
+            "Acronym": "CET", 
+            "Certification Name": "Certified Electronics Technician - Associate-Level", 
+            "Type": "Specialty", 
+            "Certification ID": "0503", 
+            "Certifying Organization": "International Society of Certified Electronics Technicians"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Traffic Signal Senior Field Technician Level III", 
+            "Type": "Advanced", 
+            "Certification ID": "5630", 
+            "Certifying Organization": "International Municipal Signal Association"
+        }
+    ], 
+    "onet": "49209300"
+}

@@ -1,0 +1,54 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "National Professional Certification in Retail Management", 
+            "Type": "Core", 
+            "Certification ID": "5787", 
+            "Certifying Organization": "National Retail Federation Foundation"
+        }, 
+        {
+            "Acronym": "CIP", 
+            "Certification Name": "Certified ITAR Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "5837", 
+            "Certifying Organization": "IIEI Certification"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IPC-A-600 Acceptability of Printed Circuit Boards", 
+            "Type": "Core", 
+            "Certification ID": "2873", 
+            "Certifying Organization": "Association Connecting Electronics Industries"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Retail Business Credential", 
+            "Type": "Core", 
+            "Certification ID": "5788", 
+            "Certifying Organization": "National Retail Federation Foundation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Oracle Retail Demand Forecasting 13.3 Functional Implementer Certified Implementation Specialist", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8510", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Oracle Retail Predictive Application Server 13 Configuration Certified Implementation Specialist", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8506", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "CPPB", 
+            "Certification Name": "Certified Professional Public Buyer", 
+            "Type": "Core", 
+            "Certification ID": "1438", 
+            "Certifying Organization": "Universal Public Purchasing Certification Council "
+        }
+    ], 
+    "onet": "13102200"
+}

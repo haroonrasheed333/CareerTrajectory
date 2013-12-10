@@ -1,0 +1,47 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "D.OE", 
+            "Certification Name": "Diplomate, Ocean Engineering", 
+            "Type": "Advanced", 
+            "Certification ID": "9351", 
+            "Certifying Organization": "Academy of Coastal, Ocean, Port & Navigation Engineers"
+        }, 
+        {
+            "Acronym": "D.PE", 
+            "Certification Name": "Diplomate, Port Engineering", 
+            "Type": "Advanced", 
+            "Certification ID": "9352", 
+            "Certifying Organization": "Academy of Coastal, Ocean, Port & Navigation Engineers"
+        }, 
+        {
+            "Acronym": "CFPC&C", 
+            "Certification Name": "Fluid Power Connector and Conductor", 
+            "Type": "Advanced", 
+            "Certification ID": "2605", 
+            "Certifying Organization": "International Fluid Power Society"
+        }, 
+        {
+            "Acronym": "AAPA/PPM", 
+            "Certification Name": "Professional Port Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "9173", 
+            "Certifying Organization": "American Association of Port Authorities"
+        }, 
+        {
+            "Acronym": "D.NE", 
+            "Certification Name": "Diplomate, Navigation Engineering", 
+            "Type": "Advanced", 
+            "Certification ID": "9353", 
+            "Certifying Organization": "Academy of Coastal, Ocean, Port & Navigation Engineers"
+        }, 
+        {
+            "Acronym": "D.CE", 
+            "Certification Name": "Diplomate, Coastal Engineering", 
+            "Type": "Advanced", 
+            "Certification ID": "9350", 
+            "Certifying Organization": "Academy of Coastal, Ocean, Port & Navigation Engineers"
+        }
+    ], 
+    "onet": "53503100"
+}

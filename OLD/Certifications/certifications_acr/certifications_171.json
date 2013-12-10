@@ -1,0 +1,33 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Basic Installation Technicians", 
+            "Type": "Core", 
+            "Certification ID": "8786", 
+            "Certifying Organization": "Consumer Electronics Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified CNG Fuel System Inspector", 
+            "Type": "Advanced", 
+            "Certification ID": "7669", 
+            "Certifying Organization": "CSA Standards"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Master Installation Technician", 
+            "Type": "Advanced", 
+            "Certification ID": "8788", 
+            "Certifying Organization": "Consumer Electronics Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Advanced Installation Technician", 
+            "Type": "Advanced", 
+            "Certification ID": "8787", 
+            "Certifying Organization": "Consumer Electronics Association"
+        }
+    ], 
+    "onet": "17214102"
+}

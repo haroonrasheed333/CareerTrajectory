@@ -1,0 +1,166 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Mobile Crane Operator Certification", 
+            "Type": "Core", 
+            "Certification ID": "5673", 
+            "Certifying Organization": "National Center for Construction Education and Research"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Tower Crane Inspector", 
+            "Type": "Advanced", 
+            "Certification ID": "8752", 
+            "Certifying Organization": "National Commission for the Certification of Crane Operators"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Lattice Boom Crane", 
+            "Type": "Core", 
+            "Certification ID": "6986", 
+            "Certifying Organization": "International Union of Operating Engineers"
+        }, 
+        {
+            "Acronym": "CCS", 
+            "Certification Name": "Certified Crane Surveyor", 
+            "Type": "Core", 
+            "Certification ID": "6010", 
+            "Certifying Organization": "Crane Certification Association of America"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Tower Crane", 
+            "Type": "Core", 
+            "Certification ID": "6989", 
+            "Certifying Organization": "International Union of Operating Engineers"
+        }, 
+        {
+            "Acronym": "ABW", 
+            "Certification Name": "Articulating Boom Crane with Winch", 
+            "Type": "Core", 
+            "Certification ID": "8747", 
+            "Certifying Organization": "National Commission for the Certification of Crane Operators"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Crane Operator - Medium Telescoping Crane 21-75 tons", 
+            "Type": "Core", 
+            "Certification ID": "7326", 
+            "Certifying Organization": "Crane Institute Certification"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Overhead Crane Operator", 
+            "Type": "Core", 
+            "Certification ID": "8745", 
+            "Certifying Organization": "National Commission for the Certification of Crane Operators"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Overhead Crane", 
+            "Type": "Core", 
+            "Certification ID": "6987", 
+            "Certifying Organization": "International Union of Operating Engineers"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Boom Truck Crane Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "6985", 
+            "Certifying Organization": "International Union of Operating Engineers"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Crane Operator - Small Telescoping Boom Crane under 21 tons", 
+            "Type": "Core", 
+            "Certification ID": "7327", 
+            "Certifying Organization": "Crane Institute Certification"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Telescopic Boom Crane", 
+            "Type": "Specialty", 
+            "Certification ID": "6988", 
+            "Certifying Organization": "International Union of Operating Engineers"
+        }, 
+        {
+            "Acronym": "TLL", 
+            "Certification Name": "Telescopic Boom Cranes - Swing Cab", 
+            "Type": "Core", 
+            "Certification ID": "8743", 
+            "Certifying Organization": "National Commission for the Certification of Crane Operators"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Overhead Crane Operator", 
+            "Type": "Core", 
+            "Certification ID": "5388", 
+            "Certifying Organization": "National Commission for the Certification of Crane Operators"
+        }, 
+        {
+            "Acronym": "CCO", 
+            "Certification Name": "Certified Crane Operator - Lattice Boom Crawler Crane", 
+            "Type": "Specialty", 
+            "Certification ID": "0810", 
+            "Certifying Organization": "National Commission for the Certification of Crane Operators"
+        }, 
+        {
+            "Acronym": "CCO", 
+            "Certification Name": "Certified Crane Operator - Lattice Boom Truck Crane", 
+            "Type": "Specialty", 
+            "Certification ID": "0811", 
+            "Certifying Organization": "National Commission for the Certification of Crane Operators"
+        }, 
+        {
+            "Acronym": "ABC", 
+            "Certification Name": "Articulating Boom Crane", 
+            "Type": "Core", 
+            "Certification ID": "8746", 
+            "Certifying Organization": "National Commission for the Certification of Crane Operators"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Crane Operator - Lattice Boom Crawler", 
+            "Type": "Specialty", 
+            "Certification ID": "7324", 
+            "Certifying Organization": "Crane Institute Certification"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Crane Operator - Lattice Boom Carrier", 
+            "Type": "Specialty", 
+            "Certification ID": "7323", 
+            "Certifying Organization": "Crane Institute Certification"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Mobile Crane Inspector", 
+            "Type": "Advanced", 
+            "Certification ID": "8751", 
+            "Certifying Organization": "National Commission for the Certification of Crane Operators"
+        }, 
+        {
+            "Acronym": "TSS", 
+            "Certification Name": "Telescopic Boom Cranes -  Fixed Cab", 
+            "Type": "Core", 
+            "Certification ID": "8742", 
+            "Certifying Organization": "National Commission for the Certification of Crane Operators"
+        }, 
+        {
+            "Acronym": "ABL", 
+            "Certification Name": "Articulating Boom Loader", 
+            "Type": "Core", 
+            "Certification ID": "8748", 
+            "Certifying Organization": "National Commission for the Certification of Crane Operators"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Crane Operator - Large Telescoping Boom Crane over 75 tons", 
+            "Type": "Core", 
+            "Certification ID": "7325", 
+            "Certifying Organization": "Crane Institute Certification"
+        }
+    ], 
+    "onet": "53702100"
+}

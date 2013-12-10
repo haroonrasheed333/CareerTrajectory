@@ -1,0 +1,47 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "PeopleSoft 9.1 Financial Management: Payables Certified Implementation Specialist", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8475", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Payroll Certification", 
+            "Type": "Core", 
+            "Certification ID": "9399", 
+            "Certifying Organization": "National Bookkeepers Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Bookkeepers Certification", 
+            "Type": "Core", 
+            "Certification ID": "9398", 
+            "Certifying Organization": "National Bookkeepers Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Microsoft Dynamics GP 10.0 Human Resources and Payroll", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7566", 
+            "Certifying Organization": "Microsoft Corporation"
+        }, 
+        {
+            "Acronym": "FPC", 
+            "Certification Name": "Fundamental Payroll Certification", 
+            "Type": "Core", 
+            "Certification ID": "3935", 
+            "Certifying Organization": "American Payroll Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Payroll Professional", 
+            "Type": "Core", 
+            "Certification ID": "0486", 
+            "Certifying Organization": "American Payroll Association"
+        }
+    ], 
+    "onet": "43305100"
+}

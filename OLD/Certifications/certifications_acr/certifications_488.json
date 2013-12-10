@@ -1,0 +1,33 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Sartech I/ Crewleader", 
+            "Type": "Advanced", 
+            "Certification ID": "7719", 
+            "Certifying Organization": "National Association for Search and Rescue"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Sartech III", 
+            "Type": "Advanced", 
+            "Certification ID": "7721", 
+            "Certifying Organization": "National Association for Search and Rescue"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Sartech II", 
+            "Type": "Advanced", 
+            "Certification ID": "7720", 
+            "Certifying Organization": "National Association for Search and Rescue"
+        }, 
+        {
+            "Acronym": "CIIO", 
+            "Certification Name": "Certified Internal Investigation Officer", 
+            "Type": "Advanced", 
+            "Certification ID": "7677", 
+            "Certifying Organization": "Center for Security and Emergency Management"
+        }
+    ], 
+    "onet": "33101200"
+}

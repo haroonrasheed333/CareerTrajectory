@@ -1,0 +1,33 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "AAC", 
+            "Certification Name": "Accredited Agricultural Consultant", 
+            "Type": "Advanced", 
+            "Certification ID": "0449", 
+            "Certifying Organization": "American Society of Farm Managers and Rural Appraisers"
+        }, 
+        {
+            "Acronym": "CPESC", 
+            "Certification Name": "Certified Professional in Erosion and Sediment Control", 
+            "Type": "Core", 
+            "Certification ID": "0120", 
+            "Certifying Organization": "Soil and Water Conservation Society"
+        }, 
+        {
+            "Acronym": "CFGP", 
+            "Certification Name": "Certified Forage and Grassland Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "8040", 
+            "Certifying Organization": "American Forage and Grassland Council"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Level  3 - Herd Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "7162", 
+            "Certifying Organization": "Certified Horsemanship Association"
+        }
+    ], 
+    "onet": "19103102"
+}

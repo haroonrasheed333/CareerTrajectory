@@ -1,0 +1,61 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "ETT Certified Level III", 
+            "Type": "Advanced", 
+            "Certification ID": "8148", 
+            "Certifying Organization": "InterNational Electrical Testing Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Commercial Electrical Inspector", 
+            "Type": "Advanced", 
+            "Certification ID": "8575", 
+            "Certifying Organization": "International Association of Plumbing and Mechanical Officials"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Cable Splicing Certification", 
+            "Type": "Core", 
+            "Certification ID": "9371", 
+            "Certifying Organization": "National Joint Apprenticeship and Training Committee"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "ETT Senior Certified Level IV", 
+            "Type": "Advanced", 
+            "Certification ID": "8149", 
+            "Certifying Organization": "InterNational Electrical Testing Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Instrumentation Certification", 
+            "Type": "Core", 
+            "Certification ID": "9367", 
+            "Certifying Organization": "National Joint Apprenticeship and Training Committee"
+        }, 
+        {
+            "Acronym": "DCI", 
+            "Certification Name": "Data Cabling Installer", 
+            "Type": "Core", 
+            "Certification ID": "3681", 
+            "Certifying Organization": "ETA International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Arborist/Utility Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "3756", 
+            "Certifying Organization": "International Society of Arboriculture"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Residential Electrical Inspector", 
+            "Type": "Advanced", 
+            "Certification ID": "8567", 
+            "Certifying Organization": "International Association of Plumbing and Mechanical Officials"
+        }
+    ], 
+    "onet": "49905100"
+}

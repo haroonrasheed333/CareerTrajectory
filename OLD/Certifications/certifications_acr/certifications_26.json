@@ -1,0 +1,138 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "MCD", 
+            "Certification Name": "Master Career Director", 
+            "Type": "Advanced", 
+            "Certification ID": "9001", 
+            "Certifying Organization": "Career Directors International"
+        }, 
+        {
+            "Acronym": "CPLP", 
+            "Certification Name": "Certified Professional in Learning and Performance", 
+            "Type": "Core", 
+            "Certification ID": "4842", 
+            "Certifying Organization": "American Society for Training and Development"
+        }, 
+        {
+            "Acronym": "C-DERT", 
+            "Certification Name": "Certified - Designated Employer Representative Trainer", 
+            "Type": "Advanced", 
+            "Certification ID": "9203", 
+            "Certifying Organization": "Drug & Alcohol Testing Industry Association"
+        }, 
+        {
+            "Acronym": "SD-CLTC", 
+            "Certification Name": "Staff Development Specialist in Long Term Care Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "6500", 
+            "Certifying Organization": "American Association of Long Term Care Nursing"
+        }, 
+        {
+            "Acronym": "CWDP", 
+            "Certification Name": "Certified Workforce Development Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "1108", 
+            "Certifying Organization": "National Association of Workforce Development Professionals"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Trainer Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "7978", 
+            "Certifying Organization": "Association of Credit and Collection Professionals"
+        }, 
+        {
+            "Acronym": "CSTD", 
+            "Certification Name": "SES Standards Professional Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "3556", 
+            "Certifying Organization": "Standards Engineering Society"
+        }, 
+        {
+            "Acronym": "SPHR", 
+            "Certification Name": "Senior Professional in Human Resources", 
+            "Type": "Advanced", 
+            "Certification ID": "0090", 
+            "Certifying Organization": "Human Resources Certification Institute"
+        }, 
+        {
+            "Acronym": "SPP", 
+            "Certification Name": "Strategic Planning Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "6877", 
+            "Certifying Organization": "Association for Strategic Planning"
+        }, 
+        {
+            "Acronym": "SMP", 
+            "Certification Name": "Strategic Management Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "6879", 
+            "Certifying Organization": "Association for Strategic Planning"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Green Manufacturing Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "8980", 
+            "Certifying Organization": "Society for Manufacturing Engineers"
+        }, 
+        {
+            "Acronym": "PHR", 
+            "Certification Name": "Professional in Human Resources", 
+            "Type": "Advanced", 
+            "Certification ID": "0089", 
+            "Certifying Organization": "Human Resources Certification Institute"
+        }, 
+        {
+            "Acronym": "MFCC/T", 
+            "Certification Name": "Master Federal Career Coach/Trainer", 
+            "Type": "Advanced", 
+            "Certification ID": "9005", 
+            "Certifying Organization": "Career Directors International"
+        }, 
+        {
+            "Acronym": "GPHR", 
+            "Certification Name": "Global Professional in Human Resources", 
+            "Type": "Advanced", 
+            "Certification ID": "4497", 
+            "Certifying Organization": "Human Resources Certification Institute"
+        }, 
+        {
+            "Acronym": "GCDF", 
+            "Certification Name": "Global Career Development Facilitator", 
+            "Type": "Advanced", 
+            "Certification ID": "0368", 
+            "Certifying Organization": "Center for Credentialing & Education, Inc."
+        }, 
+        {
+            "Acronym": "CHT", 
+            "Certification Name": "Certified HospitalityTrainer", 
+            "Type": "Core", 
+            "Certification ID": "3316", 
+            "Certifying Organization": "American Hotel and Lodging Association Educational Institute"
+        }, 
+        {
+            "Acronym": "MFCC", 
+            "Certification Name": "Master Federal Career Coach", 
+            "Type": "Advanced", 
+            "Certification ID": "9004", 
+            "Certifying Organization": "Career Directors International"
+        }, 
+        {
+            "Acronym": "ISPI", 
+            "Certification Name": "Certified Performance Technologist", 
+            "Type": "Advanced", 
+            "Certification ID": "3699", 
+            "Certifying Organization": "International Society of Performance Improvement "
+        }, 
+        {
+            "Acronym": "RCA", 
+            "Certification Name": "Responsible Care Auditor", 
+            "Type": "Advanced", 
+            "Certification ID": "6263", 
+            "Certifying Organization": "Board of Environmental Health and Safety Auditor Certification"
+        }
+    ], 
+    "onet": "11313100"
+}

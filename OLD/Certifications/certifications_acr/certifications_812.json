@@ -1,0 +1,19 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Airmen Certification", 
+            "Type": "Core", 
+            "Certification ID": "5136", 
+            "Certifying Organization": "Federal Aviation Administration"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Medical Certification", 
+            "Type": "Core", 
+            "Certification ID": "5137", 
+            "Certifying Organization": "Federal Aviation Administration"
+        }
+    ], 
+    "onet": "53201100"
+}

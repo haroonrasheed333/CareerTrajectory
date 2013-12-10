@@ -1,0 +1,82 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CCS", 
+            "Certification Name": "Certified Corrections Supervisor", 
+            "Type": "Core", 
+            "Certification ID": "5286", 
+            "Certifying Organization": "American Correctional Association"
+        }, 
+        {
+            "Acronym": "CCT", 
+            "Certification Name": "Certified Correctional Trainer", 
+            "Type": "Advanced", 
+            "Certification ID": "7649", 
+            "Certifying Organization": "American Jail Association"
+        }, 
+        {
+            "Acronym": "CCO/Juv", 
+            "Certification Name": "Certified Corrections Officer/Juvenile", 
+            "Type": "Specialty", 
+            "Certification ID": "5291", 
+            "Certifying Organization": "American Correctional Association"
+        }, 
+        {
+            "Acronym": "CCM", 
+            "Certification Name": "Certified Corrections Manager", 
+            "Type": "Core", 
+            "Certification ID": "5285", 
+            "Certifying Organization": "American Correctional Association"
+        }, 
+        {
+            "Acronym": "CCS/Juv", 
+            "Certification Name": "Certified Corrections Supervisor/Juvenile", 
+            "Type": "Specialty", 
+            "Certification ID": "5290", 
+            "Certifying Organization": "American Correctional Association"
+        }, 
+        {
+            "Acronym": "CCS/STG", 
+            "Certification Name": "Certified Corrections Supervisor - Security Threat Groups", 
+            "Type": "Specialty", 
+            "Certification ID": "5295", 
+            "Certifying Organization": "American Correctional Association"
+        }, 
+        {
+            "Acronym": "CCE", 
+            "Certification Name": "Certified Corrections Executive", 
+            "Type": "Advanced", 
+            "Certification ID": "5284", 
+            "Certifying Organization": "American Correctional Association"
+        }, 
+        {
+            "Acronym": "CCO/P", 
+            "Certification Name": "Certified Corrections Officer/Provisional", 
+            "Type": "Core", 
+            "Certification ID": "5296", 
+            "Certifying Organization": "American Correctional Association"
+        }, 
+        {
+            "Acronym": "CCE/Juv", 
+            "Certification Name": "Certified Corrections Executive/Juvenile", 
+            "Type": "Advanced", 
+            "Certification ID": "5288", 
+            "Certifying Organization": "American Correctional Association"
+        }, 
+        {
+            "Acronym": "CCM/STG", 
+            "Certification Name": "Certified Corrections Manager - Security Threat Groups", 
+            "Type": "Specialty", 
+            "Certification ID": "5294", 
+            "Certifying Organization": "American Correctional Association"
+        }, 
+        {
+            "Acronym": "CJM", 
+            "Certification Name": "Certified Jail Manager", 
+            "Type": "Specialty", 
+            "Certification ID": "3768", 
+            "Certifying Organization": "American Jail Association"
+        }
+    ], 
+    "onet": "33101100"
+}

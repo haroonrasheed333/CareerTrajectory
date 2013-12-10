@@ -1,0 +1,33 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Machining Level I - CNC Milling: Operations", 
+            "Type": "Core", 
+            "Certification ID": "9068", 
+            "Certifying Organization": "National Institute for Metalworking Skills "
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Machining Level II - Grinding Skills II", 
+            "Type": "Advanced", 
+            "Certification ID": "3824", 
+            "Certifying Organization": "National Institute for Metalworking Skills "
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Machining Level I - Grinding Skills I", 
+            "Type": "Core", 
+            "Certification ID": "0724", 
+            "Certifying Organization": "National Institute for Metalworking Skills "
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Machining Level I - CNC Turning: Operations", 
+            "Type": "Core", 
+            "Certification ID": "9067", 
+            "Certifying Organization": "National Institute for Metalworking Skills "
+        }
+    ], 
+    "onet": "51403300"
+}

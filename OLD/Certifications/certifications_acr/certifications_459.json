@@ -1,0 +1,54 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "EEG", 
+            "Certification Name": "Certified Electroencephalographic Technologists", 
+            "Type": "Core", 
+            "Certification ID": "5938", 
+            "Certifying Organization": "American Board of Registration of  Electroencephalography and  Evoked Potential Technologists"
+        }, 
+        {
+            "Acronym": "EP", 
+            "Certification Name": "Certified Evoked Potential Technologist", 
+            "Type": "Specialty", 
+            "Certification ID": "5939", 
+            "Certifying Organization": "American Board of Registration of  Electroencephalography and  Evoked Potential Technologists"
+        }, 
+        {
+            "Acronym": "CPSGT", 
+            "Certification Name": "Certified Polysomnographic Technician", 
+            "Type": "Specialty", 
+            "Certification ID": "6319", 
+            "Certifying Organization": "Board of Polysomnographic Technologists"
+        }, 
+        {
+            "Acronym": "RPSGT", 
+            "Certification Name": "Registered Polysomnographic Technologist", 
+            "Type": "Core", 
+            "Certification ID": "5989", 
+            "Certifying Organization": "Board of Polysomnographic Technologists"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Registered Sleep Technologist Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "7963", 
+            "Certifying Organization": "American Board of Sleep Medicine"
+        }, 
+        {
+            "Acronym": "R.NCS.T.", 
+            "Certification Name": "Registered Nerve Conduction Study Technologists", 
+            "Type": "Specialty", 
+            "Certification ID": "2639", 
+            "Certifying Organization": "American Association of Electrodiagnostic Technologists"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification in Neurophysiologic Intraoperative Monitoring", 
+            "Type": "Specialty", 
+            "Certification ID": "5940", 
+            "Certifying Organization": "American Board of Registration of  Electroencephalography and  Evoked Potential Technologists"
+        }
+    ], 
+    "onet": "29209901"
+}

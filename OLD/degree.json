@@ -1,0 +1,2652 @@
+[
+    {
+        "type": "/education/educational_degree", 
+        "name": "Master of Studies", 
+        "id": "/en/master_of_studies"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Master of Applied Science", 
+        "id": "/en/master_of_applied_science"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Diplomi-insin\u00f6\u00f6ri", 
+        "id": "/en/diplomi_insinoori"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Master of Divinity", 
+        "id": "/en/master_of_divinity"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Bachelor of Independent Studies", 
+        "id": "/en/bachelor_of_independent_studies"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Associate degree", 
+        "id": "/en/associates_degree"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Bachelor of Business Science", 
+        "id": "/en/bachelor_of_business_science"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Master's Degree", 
+        "id": "/en/masters_degree"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Master of Science in Administration", 
+        "id": "/en/master_of_science_in_administration"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Diploma in Nursing", 
+        "id": "/en/diploma_in_nursing"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Doctor of both laws", 
+        "id": "/en/jud"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Engineer's degree", 
+        "id": "/en/engineers_degree"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Master of Marketing Research", 
+        "id": "/en/master_of_marketing_research"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Master of Pharmacy", 
+        "id": "/en/master_of_pharmacy"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Candidate of Law", 
+        "id": "/en/candidate_of_law"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Laurea", 
+        "id": "/en/laurea"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Master of Pastoral Theology", 
+        "id": "/en/master_of_pastoral_theology"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Lady Literate in Arts", 
+        "id": "/en/lady_literate_in_arts"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Master of Theological Studies", 
+        "id": "/en/master_of_theological_studies"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Bachelor of Environmental Studies", 
+        "id": "/en/bachelor_of_environmental_studies"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Habilitation", 
+        "id": "/en/habilitation"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Licentiate", 
+        "id": "/en/licentiate"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Doctor of Architecture", 
+        "id": "/en/doctor_of_architecture"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Doctor of Liberal Arts", 
+        "id": "/en/doctor_liberalium_artium"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Master of Philosophy", 
+        "id": "/en/master_of_philosophy"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Bachelor of Theology", 
+        "id": "/en/bachelor_of_theology"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Bachelor of Music", 
+        "id": "/en/bachelor_of_music"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Doctor of Technology", 
+        "id": "/en/doctor_of_technology"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Master of Mathematics", 
+        "id": "/en/master_of_mathematics"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Master of Herbology", 
+        "id": "/en/master_of_herbology"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Master of Science in Nursing", 
+        "id": "/en/master_of_science_in_nursing"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Doctor of Governance", 
+        "id": "/en/dgov"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Dottorato di ricerca", 
+        "id": "/en/dottorato_di_ricerca"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Master of Arts in Christian Studies", 
+        "id": "/en/master_of_arts_in_christian_studies"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Bachelor of Laws", 
+        "id": "/en/bachelor_of_laws"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Bachelor of Divinity", 
+        "id": "/en/bachelor_of_divinity"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Master of Urban Planning", 
+        "id": "/en/master_of_urban_planning"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Master of Theology", 
+        "id": "/en/master_of_theology"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Bachelor of Sacred Theology", 
+        "id": "/en/bachelor_of_sacred_theology"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Master of Surgery", 
+        "id": "/en/master_of_surgery"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Dental auxiliary", 
+        "id": "/en/dental_auxillary"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Master of Public Affairs", 
+        "id": "/en/master_of_public_affairs"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Master of Arts in Liberal Studies", 
+        "id": "/en/master_of_arts_in_liberal_studies"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Doctor of Theology", 
+        "id": "/en/doctor_of_theology"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Bachelor of Design", 
+        "id": "/en/bachelor_of_design"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Doctor of Psychology", 
+        "id": "/en/doctor_of_psychology"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Bachelor of Civil Law", 
+        "id": "/en/bachelor_of_civil_law"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Dental degree", 
+        "id": "/en/doctor_of_dental_surgery"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Catholic Certificate in Religious Studies", 
+        "id": "/en/catholic_certificate_in_religious_studies"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Doctor of Sacred Theology", 
+        "id": "/en/doctor_of_sacred_theology"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Engineering Doctorate", 
+        "id": "/en/engineering_doctorate"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Licentiate of Theology", 
+        "id": "/en/licentiate_in_theology"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Juris Doctor", 
+        "id": "/en/juris_doctor"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Master of Sacred Theology", 
+        "id": "/en/master_of_sacred_theology"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Associate of Science in Nursing", 
+        "id": "/en/associate_of_science_in_nursing"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Doctor of Audiology", 
+        "id": "/en/doctor_of_audiology"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Bachelor of Information Technology", 
+        "id": "/en/bachelor_of_information_technology"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Bachelor of Arts and Science", 
+        "id": "/en/bachelor_of_arts_and_science"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Candidate of Sciences", 
+        "id": "/en/kandidat"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Bachelor of Commerce", 
+        "id": "/en/bachelor_of_commerce"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Master of Management", 
+        "id": "/wikipedia/en_title/Master_of_Management"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Foundation degree", 
+        "id": "/en/foundation_degree"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Doctor of Ministry", 
+        "id": "/en/doctor_of_ministry"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Doctor of Civil Law", 
+        "id": "/en/doctor_of_civil_law"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Postgraduate Certificate in Laws", 
+        "id": "/en/postgraduate_certificate_in_laws"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Master of Environmental Management", 
+        "id": "/en/master_of_environmental_management"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Bachelor of Fine Arts", 
+        "id": "/en/bachelor_of_fine_arts"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Doctor of Letters", 
+        "id": "/en/doctor_of_letters"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Master of Research", 
+        "id": "/en/master_of_research"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Bachelor of Education", 
+        "id": "/en/bachelor_of_education"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Doctor of Education", 
+        "id": "/en/doctor_of_education"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Bachelor of Engineering", 
+        "id": "/en/bachelor_of_engineering"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Insin\u00f6\u00f6ri (amk)", 
+        "id": "/en/insinoori"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Doctor of Canon Law", 
+        "id": "/en/doctor_of_canon_law"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Graduate Diploma in English and Hong Kong Law", 
+        "id": "/en/graduate_diploma_in_english_and_hong_kong_law"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Computational Media", 
+        "id": "/en/computational_media"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Master of Landscape Architecture", 
+        "id": "/en/master_of_landscape_architecture"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Master of International Affairs", 
+        "id": "/en/master_of_international_affairs"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Bachelor of Applied Science", 
+        "id": "/en/bachelor_of_applied_science"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Doctor of Divinity", 
+        "id": "/en/doctor_of_divinity"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Licentiate of Sacred Theology", 
+        "id": "/en/licentiate_of_sacred_theology"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Doctor of Science", 
+        "id": "/en/doctor_of_science"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Doctor of law", 
+        "id": "/en/doctor_of_laws"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Doctor of Dental Medicine", 
+        "id": "/en/doctor_of_dental_medicine"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Master of Public Policy", 
+        "id": "/en/master_of_public_policy"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Bachelor of Business", 
+        "id": "/en/bachelor_of_business"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Doctor of Acupuncture &amp; Oriental Medicine", 
+        "id": "/en/doctor_of_acupuncture_oriental_medicine"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Executive education", 
+        "id": "/en/executive_education"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Doctor of Modern Languages", 
+        "id": "/en/doctor_of_modern_languages"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Bachelor of Liberal Arts", 
+        "id": "/en/bachelor_of_liberal_arts"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Doctor of Physical Therapy", 
+        "id": "/en/doctor_of_physical_therapy"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Doctor of Social Work", 
+        "id": "/en/doctor_of_social_work"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Master of Health Administration", 
+        "id": "/en/master_of_health_administration"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Master of Religious Education", 
+        "id": "/en/master_of_religious_education"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Bachelor of Science in Biomedical Engineering", 
+        "id": "/en/bachelor_of_science_in_biomedical_engineering"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Associateship of King's College", 
+        "id": "/en/associate_of_kings_college"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Doctor of Musical Arts", 
+        "id": "/en/doctor_of_musical_arts"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Law degree", 
+        "id": "/en/law_degree"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Lambeth degree", 
+        "id": "/en/lambeth_degree"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Master of Physics", 
+        "id": "/en/master_of_physics"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/masters_in_public_and_private_management", 
+        "name": "Master's in Public and Private Management"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/mspm", 
+        "name": "Master of Science in Project Management"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/master_of_fine_arts", 
+        "name": "MFA"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/doctor_of_medicine", 
+        "name": "Doctor of Medicine"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/bachelor_of_arts", 
+        "name": "Bachelor of Arts"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/diplom", 
+        "name": "Diplom"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/master_of_arts", 
+        "name": "M.A."
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/bachelor_of_accountancy", 
+        "name": "Bachelor of Accountancy"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/master_of_architecture", 
+        "name": "Master of Architecture"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/bachelor_of_architecture", 
+        "name": "Bachelor of Architecture"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/master_of_science_in_industrial_administration", 
+        "name": "Master of Science in Industrial Administration"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/master_of_social_work", 
+        "name": "Master of Social Work"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/doctor_of_chiropractic", 
+        "name": "Doctor of Chiropractic"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/master_of_laws", 
+        "name": "Master of Laws"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/doctor_of_arts", 
+        "name": "Doctor of Arts"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/doctor_of_nursing_science", 
+        "name": "Doctor of Nursing Science"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/doctor_of_public_administration", 
+        "name": "Doctor of Public Administration"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/master_of_library_and_information_science", 
+        "name": "Master of Library and Information Science"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/bachelor_of_pharmacy", 
+        "name": "Bachelor of Pharmacy"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/doctor_of_business_administration", 
+        "name": "Doctor of Business Administration"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/doctor_of_information_technology", 
+        "name": "Doctor of Information Technology"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/bachelor_of_business_administration", 
+        "name": "Bachelor of Business Administration"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/honorary_degree", 
+        "name": "Honorary degree"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/bachelor_of_applied_arts", 
+        "name": "Bachelor of Applied Arts"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/bachelor_of_computer_science", 
+        "name": "Bachelor of Computer Science"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/master_of_engineering", 
+        "name": "Master of Engineering"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/internet_services_technology", 
+        "name": "Internet services technology"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/master_of_letters", 
+        "name": "Master of Letters"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/master_of_public_health", 
+        "name": "Professional degrees of public health"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/master_of_education", 
+        "name": "Master of Education"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/bachelor_of_mathematics", 
+        "name": "Bachelor of Mathematics"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/master_of_social_science", 
+        "name": "Master of Social Science"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/bachelor_of_medicine_and_surgery", 
+        "name": "Bachelor of Medicine, Bachelor of Surgery"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/master_of_public_administration", 
+        "name": "Master of Public Administration"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/bachelor_of_general_studies", 
+        "name": "Bachelor of General Studies"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/master_of_commerce", 
+        "name": "Master of Commerce"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/doctor_of_pharmacy", 
+        "name": "Doctor of Pharmacy"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/wikipedia/en_title/Master_of_Arts_$0028Scotland$0029", 
+        "name": "Master of Arts"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/bachelor_of_technology", 
+        "name": "Bachelor of Technology"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/licentiate_of_arts", 
+        "name": "Licentiate of Arts"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/doctor_of_health_administration", 
+        "name": "Doctor of Health Administration"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/bachelor_of_religious_education", 
+        "name": "Bachelor of Religious Education"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/doctor_of_professional_studies", 
+        "name": "Doctor of Professional Studies"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/bachelor_of_philosophy", 
+        "name": "Bachelor of Philosophy"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/master_of_professional_studies", 
+        "name": "Master of Professional Studies"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/master_of_music", 
+        "name": "Master of Music"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/bachelor_of_computing", 
+        "name": "Bachelor of Computing"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/bachelor_of_science_in_nursing", 
+        "name": "Bachelor of Science in Nursing"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/bachelor_of_software_engineering", 
+        "name": "Bachelor of Software Engineering"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/doctor_of_music", 
+        "name": "Doctor of Music"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/bachelor_of_arts_international", 
+        "name": "Bachelor of Arts International"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/bachelors_degree", 
+        "name": "Bachelor's degree"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/high_school_diploma", 
+        "name": "High School Diploma"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/bachelor_of_science", 
+        "name": "Bachelor of Science"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/m/02h4sch", 
+        "name": "Bachelor of Science"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/bachelor_of_administration", 
+        "name": "Bachelor of Administration"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/honorary_ph_d", 
+        "name": "Honorary Ph.D."
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/bachelor_of_science_in_agriculture", 
+        "name": "Bachelor of Science in Agriculture"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/master_of_science_in_engineering_physics", 
+        "name": "Master of Science in Engineering Physics"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/m/02k777q", 
+        "name": "Diplome d\u2019Ingenieur"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/ib_diploma_programme", 
+        "name": "IB Diploma Programme"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/licenciate", 
+        "name": "Licenciate"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/professional_certification", 
+        "name": "Professional certification"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/bmus_hons_london", 
+        "name": "BMus(hons) London"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/microsoft_certified_system_engineer", 
+        "name": "Microsoft Certified System Engineer"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/microsoft_certified_application_developer", 
+        "name": "Microsoft Certified Application Developer"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/microsoft_certified_professional_plus_site_builder", 
+        "name": "Microsoft Certified Professional + Site Builder"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/microsoft_certified_professional_plus_internet", 
+        "name": "Microsoft Certified Professional + Internet"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/master_of_computer_science", 
+        "name": "Master of computer science"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/diplom_informatiker", 
+        "name": "Diplom-Informatiker"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/m/02s9dcm", 
+        "name": "MPH"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/licenciaat", 
+        "name": "Licenciaat"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/doctor_of_pastoral_theology", 
+        "name": "Doctor of Pastoral Theology"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/licentiate_of_canon_law", 
+        "name": "Licentiate of Canon Law"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/executive_juris_doctor", 
+        "name": "Executive Juris Doctor"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/bachelor_of_computing_and_business", 
+        "name": "Bachelor of Computing and Business"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/master_of_science_in_taxation", 
+        "name": "Master of Science in Taxation"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/m/02zd4rz", 
+        "name": "M.I.M.S."
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/b_s_m_e", 
+        "name": "Bachelor of Science in Mechanical Engineering"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/diplome_dingenieur_principal", 
+        "name": "Diplome d'Ingenieur Principal"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/executive_certificate", 
+        "name": "Executive Certificate"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/professional_degree", 
+        "name": "Professional degree"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/sivilingenior", 
+        "name": "Sivilingeni\u00f8r"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/secondary_school", 
+        "name": "Secondary school"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/hoger_algemeen_voortgezet_onderwijs", 
+        "name": "Hoger algemeen voortgezet onderwijs"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/voorbereidend_middelbaar_beroepsonderwijs", 
+        "name": "Voorbereidend middelbaar beroepsonderwijs"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/master_in_city_and_regional_planning", 
+        "name": "Master in City and Regional Planning"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/dea", 
+        "name": "Master of Advanced Study"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/bachelor_of_electrical_engineering", 
+        "name": "Bachelor of Electrical Engineering"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/diplom_ingenieur", 
+        "name": "Diplom-Ingenieur"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/m/031p4g3", 
+        "name": "Bachelor of Science"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/mba_ms", 
+        "name": "MBA, MS"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/executive_certification", 
+        "name": "Executive Certification"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/undergraduate_degree", 
+        "name": "Undergraduate degree"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/postgraduate_diploma", 
+        "name": "Postgraduate diploma"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/master_of_science_operations_research", 
+        "name": "Master of Science, Operations Research"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/msc_advanced_computing", 
+        "name": "MSc Advanced Computing"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/master_of_science", 
+        "name": "Master of Science"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/cand_theol", 
+        "name": "Cand.theol."
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/sivilokonom", 
+        "name": "Sivil\u00f8konom"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Civilekonom", 
+        "id": "/en/civilekonom"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Bachelor of Science in Law", 
+        "id": "/en/bachelor_of_science_in_law"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Master of International Business Law", 
+        "id": "/en/master_of_international_business_law"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Bachelor of Chemical Engineering", 
+        "id": "/en/bachelor_of_chemical_engineering"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Bachelor of Visual Arts", 
+        "id": "/en/bachelor_of_visual_arts"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Music Synthesis", 
+        "id": "/en/music_synthesis"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Bible diploma", 
+        "id": "/en/bible_diploma"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Postgraduate education", 
+        "id": "/en/postgraduate_education"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Bachelor of Science in Engineering", 
+        "id": "/en/bse"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Double degree", 
+        "id": "/en/double_degree"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "MAcc", 
+        "id": "/m/04685_1"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Diploma", 
+        "id": "/en/diploma"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "A.E.E.", 
+        "id": "/en/a_e_e"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Military Fellowship", 
+        "id": "/en/military_fellowship"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "High school", 
+        "id": "/en/high_school"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Automotive Degree", 
+        "id": "/en/automotive_degree"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Master of Arts in Teaching", 
+        "id": "/en/master_of_arts_in_teaching"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Senior Officer Program in National Security Strategy", 
+        "id": "/m/04dxyxq"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Senior Officer Program in National Security Strategy", 
+        "id": "/m/04dxyzc"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "First Class Honours", 
+        "id": "/en/first_class_honours"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Bachelor of Arts Degree in psychology", 
+        "id": "/en/bachelor_of_arts_degree_in_psychology"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Bachelor's Degree in Communication", 
+        "id": "/en/bachelors_degree_in_communication"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Political Science and International", 
+        "id": "/en/political_science_and_international"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Bachelor's Degree in Speech Therapy", 
+        "id": "/en/bachelors_degree_in_speech_therapy"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Associate of Arts", 
+        "id": "/en/associate_of_arts"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Bachelor of Journalism", 
+        "id": "/en/bachelor_of_journalism"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Bachelor of Arts in General Studies", 
+        "id": "/en/bachelor_of_arts_in_general_studies"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Construction", 
+        "id": "/m/04h_bw_"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Honorary LL.D.", 
+        "id": "/en/honorary_ll_d"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Matura", 
+        "id": "/en/matura"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Current: Art &amp; Design in Education", 
+        "id": "/en/current_art_design_in_education"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Access placement with funding (Fine Art)", 
+        "id": "/en/access_placement_with_funding_fine_art"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "BA (Hons) Performance &amp; Visual Art 2:1", 
+        "id": "/en/ba_hons_performance_visual_art_2_1"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "BTEC Nat Dip Design", 
+        "id": "/en/btec_nat_dip_design"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "BTEC National Diploma Design", 
+        "id": "/en/btec_national_diploma_design"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Access placement with funding", 
+        "id": "/en/access_placement_with_funding"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Access placement &amp; funding (Fine Art)", 
+        "id": "/en/access_placement_funding_fine_art"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": null, 
+        "id": "/m/04j72_p"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Honours degree", 
+        "id": "/en/honours_degree"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Candidate of Philosophy", 
+        "id": "/en/candidate_of_philosophy"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "M.A.T.", 
+        "id": "/m/04kftqd"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Dipl\u00f4me Sup\u00e9rieur", 
+        "id": "/en/diplome_superieur"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Ma\u00eetrise d\u0092Histoire", 
+        "id": "/en/maitrise_d_histoire"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Vordiplom", 
+        "id": "/en/vordiplom"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Regents Diploma", 
+        "id": "/en/regents_diploma"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Doctor of Commerce", 
+        "id": "/en/doctor_of_commerce"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Secondary education", 
+        "id": "/en/secondary_education"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Qualified Teacher Status, completion of statutory induction period", 
+        "id": "/m/04tkc34"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "QTS / Completion of induction", 
+        "id": "/en/qts_completion_of_induction"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "QTS / Completion of induction period", 
+        "id": "/en/qts_completion_of_induction_period"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Diploma in Engineering", 
+        "id": "/en/diploma_in_engineering"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Military Engineering", 
+        "id": "/en/military_engineering"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Master of Business &amp; Technology", 
+        "id": "/en/master_of_business_technology"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Master of Computer Applications", 
+        "id": "/en/master_of_computer_applications"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Bachelor of Economics", 
+        "id": "/en/bachelor_of_economics"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "ASSM, BSBA", 
+        "id": "/en/assm_bsba"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Associate of Science", 
+        "id": "/en/associate_of_science"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "DESCAF", 
+        "id": "/en/descaf"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Concours HEC", 
+        "id": "/en/concours_hec"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Classical Animation", 
+        "id": "/en/classical_animation"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Candidate of Technical Sciences", 
+        "id": "/en/candidate_of_technical_sciences"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "QTS", 
+        "id": "/en/qts"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Postgraduate Certificate in Education", 
+        "id": "/en/postgraduate_certificate_in_education"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Specialist degree", 
+        "id": "/en/specialist_degree"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Dr. univ.", 
+        "id": "/en/dr_univ"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "STh", 
+        "id": "/en/sth"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "PPRE", 
+        "id": "/en/ppre"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Conjoint", 
+        "id": "/en/conjoint"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Candidatus philologi\u00e6", 
+        "id": "/en/candidatus_philologiae"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "PsyS", 
+        "id": "/en/psy_s"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Doctor of Engineering", 
+        "id": "/en/doctor_of_engineering"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Master of Quantitative Finance", 
+        "id": "/en/master_of_quantitative_finance"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Doctor of Humane Letters", 
+        "id": "/en/d_h_l"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Bachelor of Liberal Studies", 
+        "id": "/en/bachelor_of_liberal_studies"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Bachelor of Physical Education", 
+        "id": "/en/bachelor_of_physical_education"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Doctor of Project Management", 
+        "id": "/en/doctor_of_project_management"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Bachelor of Human Kinetics", 
+        "id": "/en/bachelor_of_human_kinetics"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Cand.mag.", 
+        "id": "/en/cand_mag"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Magister", 
+        "id": "/en/magister"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Ijazah", 
+        "id": "/en/ijazah"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Master of Physical Therapy", 
+        "id": "/en/master_of_physical_therapy"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Master of Sacred Music", 
+        "id": "/en/master_of_sacred_music"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Master of Criminal Justice", 
+        "id": "/en/master_of_criminal_justice"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Master of International Business", 
+        "id": "/en/master_of_international_business"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Bachelor of Industrial Design", 
+        "id": "/en/bachelor_of_industrial_design"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Doctor of Public Health", 
+        "id": "/en/doctor_of_public_health"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Master of Business Informatics", 
+        "id": "/en/master_of_business_informatics"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Bachelor of Dance", 
+        "id": "/en/bachelor_of_dance"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Master of Health Science", 
+        "id": "/en/master_of_health_science"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Bachelor of Arts and Economics", 
+        "id": "/en/bachelor_of_arts_and_economics"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Associate in Music, Australia", 
+        "id": "/en/amusa"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Bachelor of Applied Arts and Sciences", 
+        "id": "/en/bachelor_of_applied_arts_and_sciences"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Doctor of Fine Arts", 
+        "id": "/en/doctor_of_fine_arts"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Shastri", 
+        "id": "/en/shastri"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Bachelor of Computer Information Systems", 
+        "id": "/en/bachelor_of_computer_information_systems"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "DPharma", 
+        "id": "/en/dpharma"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Doctor of Social Science", 
+        "id": "/en/doctor_of_social_science"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Bachelor of Science in Public Health", 
+        "id": "/en/bachelor_of_science_in_public_health"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Master in Chemistry", 
+        "id": "/en/master_of_chemistry"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Doctor of Management", 
+        "id": "/en/doctor_of_management"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/master_of_business_and_engineering", 
+        "name": "Master of Business and Engineering"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/bachelor_of_hotel_management", 
+        "name": "Bachelor of Hotel Management"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/bachelor_of_business_management", 
+        "name": "Bachelor of Business Management"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/diplome_detudes_superieur_applique", 
+        "name": "Dipl\u00f4me d'\u00c9tudes Sup\u00e9rieur Appliqu\u00e9"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/doctor_of_liberal_studies", 
+        "name": "Doctor of Liberal Studies"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/bachelor_of_vocational_education", 
+        "name": "Bachelor of Vocational Education"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/bachelor_of_ayurvedic_medicine_and_surgery", 
+        "name": "Bachelor of Ayurveda, Medicine and Surgery"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/bachelor_of_homoeopathic_medicine_and_surgery", 
+        "name": "Bachelor of Homoeopathic Medicine and Surgery"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/bachelor_of_talmudic_law", 
+        "name": "Bachelor of Talmudic Law"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/lmusa", 
+        "name": "Licentiate in Music, Australia"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/masters_of_rural_development", 
+        "name": "Masters of Rural Development"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/doctor_of_computer_science", 
+        "name": "Doctor of Computer Science"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/doctor_of_practical_theology", 
+        "name": "Doctor of Practical Theology"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/doktor_nauk", 
+        "name": "Doctor of Sciences"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/bachelor_of_integrated_studies", 
+        "name": "Bachelor of Integrated Studies"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/master_of_engineering_management", 
+        "name": "Master of Science in Engineering Management"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/doktor_ingenieur", 
+        "name": "Doktor-Ingenieur"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/cand_med", 
+        "name": "Candidate of Medicine"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/cand_polit", 
+        "name": "Cand.polit."
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/master_of_business_and_law", 
+        "name": "Master of Business and Law"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/doctor_of_osteopathic_medicine", 
+        "name": "Doctor of Osteopathic Medicine"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/master_of_science_in_management", 
+        "name": "Master of Science in Management"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/bachelor_of_film_and_television", 
+        "name": "Bachelor of Film and Television"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/master_of_veterinary_science", 
+        "name": "Master of Veterinary Science"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/bachelor_of_veterinary_science", 
+        "name": "Bachelor of Veterinary Science"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/master_of_studies_in_law", 
+        "name": "Master of Studies in Law"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/bachelor_of_social_science", 
+        "name": "Bachelor of Social Science"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/master_of_business_studies", 
+        "name": "Master of Business"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/professional_doctorate_in_engineering", 
+        "name": "Professional Doctorate in Engineering"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/master_of_business_communication", 
+        "name": "Master of Business Communication"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/ll_m_eur", 
+        "name": "Master of European Law"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/bachelor_of_applied_technology", 
+        "name": "Bachelor of Applied Technology"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/doctor_of_religious_education", 
+        "name": "Doctor of Religious Education"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/dr_philos", 
+        "name": "PhD"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/master_of_dental_surgery", 
+        "name": "Master of Dental Surgery"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/master_of_science_in_foreign_service", 
+        "name": "Master of Science in Foreign Service"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/master_of_finance", 
+        "name": "Master of Finance"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/bachelor_of_biblical_studies", 
+        "name": "Bachelor of Biblical Studies"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/bachelor_of_computer_applications", 
+        "name": "Bachelor of Computer Applications"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/master_of_law_and_business", 
+        "name": "Master of Law and Business"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/ad_eundem_degree", 
+        "name": "Ad eundem degree"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/educational_specialist", 
+        "name": "Educational specialist"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/m/05crf9w", 
+        "name": "PGCE"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/m/05l9qvz", 
+        "name": "BEd."
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/bachelor_of_dental_surgery", 
+        "name": "Bachelor of Dental Surgery"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/m/05skrk7", 
+        "name": "DEA"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/certificate_of_translator", 
+        "name": "Certificate of Translator"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/sslc", 
+        "name": "SSLC"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/m_d_medico", 
+        "name": "M.D. (medico)"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/higher_diploma_in_education", 
+        "name": "Higher Diploma in Education"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/batchelor_of_arts", 
+        "name": "Batchelor of Arts"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/literature_journalism", 
+        "name": "Literature, Journalism"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/doctor_of_health_science", 
+        "name": "Doctor of Health Science"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/doctor_medicinae", 
+        "name": "Doctor Medicinae"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/master_of_financial_economics", 
+        "name": "Master of Financial Economics"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/master_of_teaching_and_learning", 
+        "name": "Master of Teaching and Learning"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/bachelor_of_science_in_information_technology", 
+        "name": "Bachelor of Science in Information Technology"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/master_of_european_design", 
+        "name": "Master of European Design"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/master_of_religion", 
+        "name": "Master of Religion"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/master_of_science_in_information_technology", 
+        "name": "Master of Science in Information Technology"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/phd_in_management", 
+        "name": "PhD in management"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/master_of_international_studies", 
+        "name": "Master of International Studies"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/eurompm", 
+        "name": "EuroMPM"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/cand_oecon", 
+        "name": "Cand.oecon."
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/bachelor_of_public_administration", 
+        "name": "Bachelor of Public Administration"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/master_of_science_in_information_systems", 
+        "name": "Master of Science in Information Systems"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/advanced_diploma", 
+        "name": "Advanced Diploma"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/european_master", 
+        "name": "European Master"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/master_of_medicine", 
+        "name": "Master of Medicine"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/m_city_planning", 
+        "name": "M City Planning"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/ba_honors_first_class", 
+        "name": "BA (Honors) - First Class"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/early_childhood_and_elementary_education", 
+        "name": "Early childhood and Elementary education"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/m_a_ph_d", 
+        "name": "M.A., Ph.D"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/mphd", 
+        "name": "MPHD"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/b_s_business_administration", 
+        "name": "B.S. Business Administration"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/psychiatric_rehabilitation", 
+        "name": "Psychiatric rehabilitation"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/ph_d_in_mechanical_engineering", 
+        "name": "Ph.D. in Mechanical Engineering"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/diploma_in_mechanical_engineering", 
+        "name": "Diploma in Mechanical Engineering"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/m/098m1p6", 
+        "name": "Bachelor of Arts"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/m/09g283c", 
+        "name": "Bachelor of Science"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/m/09kn_4l", 
+        "name": "6-8"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/m/09kn_6t", 
+        "name": "9-11"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/juren", 
+        "name": "Juren"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/environmental_geoscience", 
+        "name": "Environmental geoscience"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/bachelor_of_telecommunications", 
+        "name": "Bachelor of Telecommunications"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/bachelor_of_telecommincations", 
+        "name": "Bachelor Of Telecommincations"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/certificate_of_broadcast", 
+        "name": "Certificate Of Broadcast"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/bachelor_of_geography", 
+        "name": "Bachelor Of Geography"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/bachelor_of_geoscience", 
+        "name": "Bachelor Of Geoscience"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/elevision_radio_and_film_management", 
+        "name": "elevision, radio and film management"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/progress", 
+        "name": "Progress"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/minor_of_communications", 
+        "name": "Minor Of Communications"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/cerificate", 
+        "name": "Cerificate"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/valedictorian", 
+        "name": "Valedictorian"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/m/0bd674d", 
+        "name": "Audio Engineering"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/certificate_of_competent_knowledge", 
+        "name": "Certificate of Competent Knowledge"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/diploma_of_higher_education", 
+        "name": "Diploma of Higher Education"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/en/doctor_of_environmental_science", 
+        "name": "Doctor of Environmental Science"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/m/0bh55qj", 
+        "name": "Doctor of Humanities"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "id": "/m/0bvbhb7", 
+        "name": "Philosophisches Abschlussexamen"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Theologisches Abschlussexamen", 
+        "id": "/m/0bvbhc5"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Bachelor of Digital Media", 
+        "id": "/m/0bwnhdq"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Doctorate", 
+        "id": "/en/doctor_of_philosophy"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Doctorate in Management Science", 
+        "id": "/m/0b_n5_5"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "MBA", 
+        "id": "/en/master_of_business_administration"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "BME", 
+        "id": "/m/0cgjkxk"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Disegno industriale", 
+        "id": "/m/0ch0lbd"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Honors Bachelor of Arts", 
+        "id": "/m/0c00qgg"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Second Class Honours", 
+        "id": "/m/0cjcgtg"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "1955", 
+        "id": "/m/0cmhvb2"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "1949", 
+        "id": "/m/0cmhvbn"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "1945", 
+        "id": "/m/0cmhvc3"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Bachelor of Australian Popular Music", 
+        "id": "/m/0cn9pv0"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "M. E.", 
+        "id": "/m/0cs_qsv"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "B. E.", 
+        "id": "/m/0cs_qtf"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "BSc (Hons)", 
+        "id": "/m/0d0b836"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Economics and commerce", 
+        "id": "/m/0g4zmnk"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Master of Science in Public Administration", 
+        "id": "/m/0g4_k_9"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Mike's BBS", 
+        "id": "/en/mbbs"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Doctoral Research", 
+        "id": "/m/0gbv74n"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Suma Cum Laude", 
+        "id": "/m/0gggwbm"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Organizational management", 
+        "id": "/m/0gxt2rc"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Artist's Diploma", 
+        "id": "/m/0g_tzj3"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Academic degree", 
+        "id": "/en/academic_degree"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "National Diploma", 
+        "id": "/wikipedia/en_title/National_Diploma_$0028UK$0029"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Honorary Doctorate of Musical Arts", 
+        "id": "/m/0h4n750"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Bachelor of Management Studies", 
+        "id": "/en/bachelor_of_management_studies"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Media Composition", 
+        "id": "/m/0h7z4z2"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Bachelor in Performing Arts", 
+        "id": "/m/0h80tny"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "PhD candidate", 
+        "id": "/m/0hj1pxb"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Master of Economics", 
+        "id": "/wikipedia/en_title/Master_of_Economics"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Puppetry", 
+        "id": "/en/puppetry"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Master of Medical Sciences", 
+        "id": "/m/0hn3yky"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Doctor of Public Service", 
+        "id": "/m/0hpfftj"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Master of Science", 
+        "id": "/m/0hzwz68"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Honors", 
+        "id": "/en/honors"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Philosophy degree", 
+        "id": "/m/0j2c641"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Staatsexamen", 
+        "id": "/en/staatsexamen"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Bachelor of Electrical Engineering", 
+        "id": "/wikipedia/en_title/Bachelor_of_Electrical_Engineering"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "English", 
+        "id": "/m/0j3w651"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Classical Composition", 
+        "id": "/m/0j4j8vq"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Certificate of Competent Knowledge", 
+        "id": "/m/0jvg2tz"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Graduate Studies Certificate", 
+        "id": "/m/0jvh8dp"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Master of Digital and Interactive Marketing", 
+        "id": "/m/0jvtj59"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Doctor of Veterinary Medicine", 
+        "id": "/m/0jvv7c3"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Regular/Experience", 
+        "id": "/m/0jwlxnl"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Fellowship", 
+        "id": "/m/0jxrnlm"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Medical degree", 
+        "id": "/wikipedia/en_title/Medical_degree"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "International Business Management", 
+        "id": "/m/0jxtd61"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Bachelor of Arts: Biology", 
+        "id": "/m/0jyx0rr"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Medical Doctorate", 
+        "id": "/m/0jyy67s"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Fellow", 
+        "id": "/m/0jyy68g"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Fellow", 
+        "id": "/m/0jyy693"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "D.E.C. Sciences", 
+        "id": "/m/0jyy69v"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "B.A. Biology with Honors", 
+        "id": "/m/0jyy6bm"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "B.A. Chemisty", 
+        "id": "/m/0jyz2jt"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Fellowship", 
+        "id": "/m/0jyz2k5"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "M.D. with Honors", 
+        "id": "/m/0jyz2m1"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Bachelor of Music degree in Composition", 
+        "id": "/m/0j_rn2g"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Undergraduate", 
+        "id": "/m/07b211b"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Advanced Degrees", 
+        "id": "/m/0j_sq6c"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Bachelor of Letters", 
+        "id": "/wikipedia/en_title/Bachelor_of_Letters"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Doctor of Juridical Science", 
+        "id": "/en/doctor_of_juridical_science"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Graduate diploma", 
+        "id": "/en/graduate_diploma"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Master of Arts in Law and Diplomacy", 
+        "id": "/en/master_of_arts_in_law_and_diplomacy"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Diploma of Journalism", 
+        "id": "/en/diploma_of_journalism"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Doctorate of Economics", 
+        "id": "/m/0k204bb"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Master of Accountancy", 
+        "id": "/en/master_of_accountancy"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "PIL", 
+        "id": "/m/0k27yhy"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Higher diploma", 
+        "id": "/en/higher_diploma"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Technologist Diploma", 
+        "id": "/m/0k2frls"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Analytical mechanics", 
+        "id": "/en/analytical_mechanics"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Advance Level Studies", 
+        "id": "/m/0k2y0kp"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Certificate, Entrepreneurship", 
+        "id": "/m/0k3qb4l"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Baccalaur\u00e9at", 
+        "id": "/m/0k3qccn"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "PD", 
+        "id": "/m/0k3w3zy"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Not Applicable", 
+        "id": "/en/not_applicable"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "MF", 
+        "id": "/m/0n299b9"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "MMS", 
+        "id": "/en/mms"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Cisco Certified Network Professional", 
+        "id": "/m/0n9hj2s"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Microsoft Certified Systems Engineer", 
+        "id": "/m/0n9hj38"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Master CIW Designer", 
+        "id": "/m/0n9hjtb"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Certified Paralegal", 
+        "id": "/wikipedia/en_title/Certified_Paralegal"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "None", 
+        "id": "/m/0nhpgpt"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "B.A., M.A.", 
+        "id": "/m/0nhph4j"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Bachelor of Science", 
+        "id": "/m/0p77w_v"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Graduate school", 
+        "id": "/en/graduate_school"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Master of Fine Arts", 
+        "id": "/user/jamie/wordnet/word/Master$0020of$0020Fine$0020Arts"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Phi Beta Kappa Key", 
+        "id": "/wikipedia/images/commons_id/12444828"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Advertising, Marketing and Public Relations", 
+        "id": "/m/0py865_"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Postgraduate training in general dentistry", 
+        "id": "/en/postgraduate_training_in_general_dentistry"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Ph.D.", 
+        "id": "/m/0qfs5js"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "B.A. (Honours)", 
+        "id": "/m/0qfsb1k"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Performing arts", 
+        "id": "/m/0qsw_2s"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Candidate", 
+        "id": "/wikipedia/en_title/Candidate_$0028degree$0029"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Master of Social Work", 
+        "id": "/m/0qzjlgd"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "MBA", 
+        "id": "/m/0r4493b"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Bachelor of Science", 
+        "id": "/m/0rbdc_8"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Bachelor of Science", 
+        "id": "/m/0rbdc_z"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "MBA", 
+        "id": "/m/0rbdd0t"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Ph.D.", 
+        "id": "/m/0rg4gp1"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "M.R.E.", 
+        "id": "/m/0rg4gpf"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Univ. Diplom-Ingenieur", 
+        "id": "/m/0rgc368"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Master of Public Health", 
+        "id": "/m/04kdh26"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Doctorandus", 
+        "id": "/en/doctorandus"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Professional Science Master's Degree", 
+        "id": "/en/professional_science_masters_psm_degree_programs"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Enterprise systems engineering", 
+        "id": "/en/enterprise_systems_engineering"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Mechatronics Engineer degree", 
+        "id": "/m/0v518b7"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Primary school", 
+        "id": "/wikipedia/en_title/Primary_school"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "PD", 
+        "id": "/m/0vn0c91"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "BA (Hons) Acting", 
+        "id": "/m/0vpdl5w"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Higher Secondary Examination", 
+        "id": "/en/higher_secondary_examination"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Bachelor of Engineering in Information Technology", 
+        "id": "/m/0vsmlcc"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Bachelor of Communications", 
+        "id": "/en/bachelor_of_communications"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Theatre of the Absurd", 
+        "id": "/en/theatre_of_the_absurd"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Bachelor", 
+        "id": "/en/bachelor"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Fellowship", 
+        "id": "/wikipedia/en_title/Fellowship_$0028medicine$0029"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Residency", 
+        "id": "/en/residency"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Doctor", 
+        "id": "/wikipedia/id/Ph$002ED"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Examen philosophicum", 
+        "id": "/en/examen_philosophicum"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Brand communicator", 
+        "id": "/m/0w4gr14"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Primary school", 
+        "id": "/en/primary_education"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Postdoctoral Scholar", 
+        "id": "/m/0g5mnyr"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "College", 
+        "id": "/en/college"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Legum Doctor", 
+        "id": "/en/legum_doctor"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Bachelor of Business Management", 
+        "id": "/m/0y51rls"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Baccalaur\u00e9at", 
+        "id": "/en/baccalaureat"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Kauffman Fellowship", 
+        "id": "/m/0ykx0fk"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "post doc", 
+        "id": "/user/jamie/wordnet/word/post$0020doc"
+    }, 
+    {
+        "type": "/education/educational_degree", 
+        "name": "Graduate work", 
+        "id": "/authority/us/gov/loc/sh/sh00005948"
+    }
+]

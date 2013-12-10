@@ -1,0 +1,173 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "AFSB", 
+            "Certification Name": "Associate in Fidelity and Surety Bonding", 
+            "Type": "Core", 
+            "Certification ID": "9081", 
+            "Certifying Organization": "The Institutes"
+        }, 
+        {
+            "Acronym": "FRM", 
+            "Certification Name": "Certified Financial Risk Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "2219", 
+            "Certifying Organization": "Global Association of Risk Professionals"
+        }, 
+        {
+            "Acronym": "CSP", 
+            "Certification Name": "Certified Sales Professional", 
+            "Type": "Core", 
+            "Certification ID": "1320", 
+            "Certifying Organization": "Manufacturers Representatives Educational Research Foundation"
+        }, 
+        {
+            "Acronym": "AIS", 
+            "Certification Name": "Associate in Insurance Services", 
+            "Type": "Core", 
+            "Certification ID": "0482", 
+            "Certifying Organization": "The Institutes"
+        }, 
+        {
+            "Acronym": "AAI", 
+            "Certification Name": "Accredited Adviser in Insurance", 
+            "Type": "Advanced", 
+            "Certification ID": "0473", 
+            "Certifying Organization": "The Institutes"
+        }, 
+        {
+            "Acronym": "AIT", 
+            "Certification Name": "Associate in Information Technology", 
+            "Type": "Core", 
+            "Certification ID": "9082", 
+            "Certifying Organization": "The Institutes"
+        }, 
+        {
+            "Acronym": "ANFI", 
+            "Certification Name": "Associate in National Flood Insurance", 
+            "Type": "Core", 
+            "Certification ID": "8549", 
+            "Certifying Organization": "The Institutes"
+        }, 
+        {
+            "Acronym": "API", 
+            "Certification Name": "Associate in Personal Insurance", 
+            "Type": "Core", 
+            "Certification ID": "0484", 
+            "Certifying Organization": "The Institutes"
+        }, 
+        {
+            "Acronym": "FLMI", 
+            "Certification Name": "Fellow, Life Management Institute", 
+            "Type": "Advanced", 
+            "Certification ID": "8231", 
+            "Certifying Organization": "LOMA"
+        }, 
+        {
+            "Acronym": "CISR", 
+            "Certification Name": "Certified Insurance Service Representatives", 
+            "Type": "Core", 
+            "Certification ID": "3513", 
+            "Certifying Organization": "The National Alliance for Insurance Education and Research"
+        }, 
+        {
+            "Acronym": "CES", 
+            "Certification Name": "Certified Estate and Trust Specialist", 
+            "Type": "Core", 
+            "Certification ID": "4571", 
+            "Certifying Organization": "Institute of Certified Fund Specialists"
+        }, 
+        {
+            "Acronym": "AINS", 
+            "Certification Name": "Associate in General Insurance", 
+            "Type": "Core", 
+            "Certification ID": "9078", 
+            "Certifying Organization": "The Institutes"
+        }, 
+        {
+            "Acronym": "ARM-E", 
+            "Certification Name": "Associate in Risk Management - Enterprise Wide Risk Management", 
+            "Type": "Core", 
+            "Certification ID": "9080", 
+            "Certifying Organization": "The Institutes"
+        }, 
+        {
+            "Acronym": "QPFC", 
+            "Certification Name": "Qualified Plan Financial Consultant", 
+            "Type": "Advanced", 
+            "Certification ID": "3982", 
+            "Certifying Organization": "American Society of Pension Professionals  and Actuaries"
+        }, 
+        {
+            "Acronym": "AIAF", 
+            "Certification Name": "Associate in Insurance Accounting and Finance", 
+            "Type": "Core", 
+            "Certification ID": "9083", 
+            "Certifying Organization": "The Institutes"
+        }, 
+        {
+            "Acronym": "AU-S", 
+            "Certification Name": "Associate in Commercial Underwriting - Strategic Techniques", 
+            "Type": "Core", 
+            "Certification ID": "9079", 
+            "Certifying Organization": "The Institutes"
+        }, 
+        {
+            "Acronym": "SCPS", 
+            "Certification Name": "Certified Salesperson", 
+            "Type": "Core", 
+            "Certification ID": "0462", 
+            "Certifying Organization": "Sales & Marketing Executives International"
+        }, 
+        {
+            "Acronym": "ASLI", 
+            "Certification Name": "Associate in Surplus Lines Insurance", 
+            "Type": "Core", 
+            "Certification ID": "0483", 
+            "Certifying Organization": "The Institutes"
+        }, 
+        {
+            "Acronym": "CRM", 
+            "Certification Name": "Certified Risk Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "2168", 
+            "Certifying Organization": "The National Alliance for Insurance Education and Research"
+        }, 
+        {
+            "Acronym": "CIC", 
+            "Certification Name": "Certified Insurance Counselors", 
+            "Type": "Core", 
+            "Certification ID": "3514", 
+            "Certifying Organization": "The National Alliance for Insurance Education and Research"
+        }, 
+        {
+            "Acronym": "CLTC", 
+            "Certification Name": "Certified in Long Term Care", 
+            "Type": "Core", 
+            "Certification ID": "2525", 
+            "Certifying Organization": "Corporation for Long Term Care Certification"
+        }, 
+        {
+            "Acronym": "AIRC", 
+            "Certification Name": "Associate, Insurance Regulatory Compliance", 
+            "Type": "Core", 
+            "Certification ID": "8225", 
+            "Certifying Organization": "LOMA"
+        }, 
+        {
+            "Acronym": "CPC", 
+            "Certification Name": "Certified Pension Consultant", 
+            "Type": "Core", 
+            "Certification ID": "1357", 
+            "Certifying Organization": "American Society of Pension Professionals  and Actuaries"
+        }, 
+        {
+            "Acronym": "AMIM", 
+            "Certification Name": "Associate in Marine Insurance Management", 
+            "Type": "Core", 
+            "Certification ID": "0477", 
+            "Certifying Organization": "The Institutes"
+        }
+    ], 
+    "onet": "41302100"
+}

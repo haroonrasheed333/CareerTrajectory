@@ -1,0 +1,87 @@
+{
+    "certifications": [
+        {
+            "onet": "11101100", 
+            "cert_dict_list": [
+                {
+                    "Certification Name": "Registered Safety Director", 
+                    "Type": "Advanced", 
+                    "Certification ID": "6850", 
+                    "Certifying Organization": "World Safety Organization"
+                }, 
+                {
+                    "Certification Name": "Certified Retail Property Executive", 
+                    "Type": "Advanced", 
+                    "Certification ID": "9393", 
+                    "Certifying Organization": "International Council of Shopping Centers"
+                }, 
+                {
+                    "Certification Name": "Court Security Executive", 
+                    "Type": "Specialty", 
+                    "Certification ID": "8004", 
+                    "Certifying Organization": "National Sheriffs' Association"
+                }, 
+                {
+                    "Certification Name": "EC Council Certified Chief Information Security Officer", 
+                    "Type": "Advanced", 
+                    "Certification ID": "6341", 
+                    "Certifying Organization": "EC-Council"
+                }, 
+                {
+                    "Certification Name": "Public Power Governance Certificate Program", 
+                    "Type": "Core", 
+                    "Certification ID": "9534", 
+                    "Certifying Organization": "American Public Power Association"
+                }, 
+                {
+                    "Certification Name": "Certified Economic Developer", 
+                    "Type": "Advanced", 
+                    "Certification ID": "1220", 
+                    "Certifying Organization": "International Economic Development Council"
+                }, 
+                {
+                    "Certification Name": "Fellow of the American College of Healthcare Executives", 
+                    "Type": "Specialty", 
+                    "Certification ID": "6174", 
+                    "Certifying Organization": "American College of Healthcare Executives"
+                }, 
+                {
+                    "Certification Name": "WSO - Certified Governmental Environmental Officer", 
+                    "Type": "Advanced", 
+                    "Certification ID": "1003", 
+                    "Certifying Organization": "World Safety Organization"
+                }, 
+                {
+                    "Certification Name": "Certified Recycling Systems - Technical Associate", 
+                    "Type": "Core", 
+                    "Certification ID": "1472", 
+                    "Certifying Organization": "Solid Waste Association of North America"
+                }, 
+                {
+                    "Certification Name": "Certified Healthcare Billing and Management Executive", 
+                    "Type": "Core", 
+                    "Certification ID": "9528", 
+                    "Certifying Organization": "Healthcare Billing & Management Association"
+                }, 
+                {
+                    "Certification Name": "CHIME Certified Healthcare CIO", 
+                    "Type": "Advanced", 
+                    "Certification ID": "9527", 
+                    "Certifying Organization": "College of Healthcare Information Management Executives"
+                }, 
+                {
+                    "Certification Name": "WSO - Certified Governmental Safety Officer", 
+                    "Type": "Advanced", 
+                    "Certification ID": "1000", 
+                    "Certifying Organization": "World Safety Organization"
+                }, 
+                {
+                    "Certification Name": "WSO - Certified Hazardous Materials Executive", 
+                    "Type": "Specialty", 
+                    "Certification ID": "1012", 
+                    "Certifying Organization": "World Safety Organization"
+                }
+            ]
+        }
+    ]
+}

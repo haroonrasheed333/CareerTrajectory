@@ -1,0 +1,103 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Toxicological Chemistry", 
+            "Type": "Advanced", 
+            "Certification ID": "2062", 
+            "Certifying Organization": "American Board of Clinical Chemistry"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Chemical Treatment Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "1146", 
+            "Certifying Organization": "NACE International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Approved Chemist", 
+            "Type": "Advanced", 
+            "Certification ID": "7974", 
+            "Certifying Organization": "American Oil Chemists Society"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Materials Selection/Design Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "1148", 
+            "Certifying Organization": "NACE International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Clinical Chemistry", 
+            "Type": "Advanced", 
+            "Certification ID": "2061", 
+            "Certifying Organization": "American Board of Clinical Chemistry"
+        }, 
+        {
+            "Acronym": "QEP", 
+            "Certification Name": "Qualified Environmental Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "1125", 
+            "Certifying Organization": "Institute of Professional Environmental Practice"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Chemical Hygiene Officer", 
+            "Type": "Core", 
+            "Certification ID": "3715", 
+            "Certifying Organization": "National Registry of Certified Chemists"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Toxicological Chemist", 
+            "Type": "Advanced", 
+            "Certification ID": "3720", 
+            "Certifying Organization": "National Registry of Certified Chemists"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Environmental Analytical Chemist", 
+            "Type": "Advanced", 
+            "Certification ID": "3718", 
+            "Certifying Organization": "National Registry of Certified Chemists"
+        }, 
+        {
+            "Acronym": "CPIP", 
+            "Certification Name": "Certified Pharmaceutical Industry Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "8964", 
+            "Certifying Organization": "International Society for Pharmaceutical Engineering"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Clinical Chemist", 
+            "Type": "Core", 
+            "Certification ID": "3716", 
+            "Certifying Organization": "National Registry of Certified Chemists"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Protective Coatings Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "1150", 
+            "Certifying Organization": "NACE International"
+        }, 
+        {
+            "Acronym": "RHMMC", 
+            "Certification Name": "Registered Hazardous and Chemical Materials Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "3517", 
+            "Certifying Organization": "National Registry of Environmental Professionals"
+        }, 
+        {
+            "Acronym": "CPC", 
+            "Certification Name": "Certified Professional Chemist", 
+            "Type": "Advanced", 
+            "Certification ID": "7680", 
+            "Certifying Organization": "National Certification Commission in Chemistry and Chemical Engineering"
+        }
+    ], 
+    "onet": "19203100"
+}

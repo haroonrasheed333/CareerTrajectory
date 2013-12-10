@@ -1,0 +1,159 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CFPE", 
+            "Certification Name": "Fluid Power Engineer", 
+            "Type": "Advanced", 
+            "Certification ID": "0890", 
+            "Certifying Organization": "International Fluid Power Society"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Very Small Water Systems Operator", 
+            "Type": "Core", 
+            "Certification ID": "7781", 
+            "Certifying Organization": "Association of Boards of Certification"
+        }, 
+        {
+            "Acronym": "CFPC&C", 
+            "Certification Name": "Fluid Power Connector and Conductor", 
+            "Type": "Advanced", 
+            "Certification ID": "2605", 
+            "Certifying Organization": "International Fluid Power Society"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Fluid Power Master Mechanic", 
+            "Type": "Advanced", 
+            "Certification ID": "2608", 
+            "Certifying Organization": "International Fluid Power Society"
+        }, 
+        {
+            "Acronym": "CFPMHM", 
+            "Certification Name": "Fluid Power Mobile Hydraulic Mechanic", 
+            "Type": "Advanced", 
+            "Certification ID": "0893", 
+            "Certifying Organization": "International Fluid Power Society"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Fluid Power Systems Designer", 
+            "Type": "Advanced", 
+            "Certification ID": "8766", 
+            "Certifying Organization": "International Fluid Power Society"
+        }, 
+        {
+            "Acronym": "MLT", 
+            "Certification Name": "Level II Machine Lubrication Technician", 
+            "Type": "Advanced", 
+            "Certification ID": "5617", 
+            "Certifying Organization": "International Council for Machinery Lubrication"
+        }, 
+        {
+            "Acronym": "CMFS", 
+            "Certification Name": "Certified Metalworking Fluids Specialist", 
+            "Type": "Core", 
+            "Certification ID": "4883", 
+            "Certifying Organization": "Society of Tribologists and Lubrication Engineers"
+        }, 
+        {
+            "Acronym": "CVA", 
+            "Certification Name": "Certified Vibration Analyst I", 
+            "Type": "Advanced", 
+            "Certification ID": "7304", 
+            "Certifying Organization": "Vibration Institute"
+        }, 
+        {
+            "Acronym": "CFPIHM", 
+            "Certification Name": "Fluid Power Industrial Hydraulic Mechanic", 
+            "Type": "Advanced", 
+            "Certification ID": "0894", 
+            "Certifying Organization": "International Fluid Power Society"
+        }, 
+        {
+            "Acronym": "CFPPS", 
+            "Certification Name": "Fluid Power Pneumatic Specialist", 
+            "Type": "Advanced", 
+            "Certification ID": "0891", 
+            "Certifying Organization": "International Fluid Power Society"
+        }, 
+        {
+            "Acronym": "CLS", 
+            "Certification Name": "Certified Lubrication Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "2107", 
+            "Certifying Organization": "Society of Tribologists and Lubrication Engineers"
+        }, 
+        {
+            "Acronym": "CFPHS", 
+            "Certification Name": "Fluid Power Hydraulic Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "0892", 
+            "Certifying Organization": "International Fluid Power Society"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Plant Maintenance Technologist Certification Class III", 
+            "Type": "Advanced", 
+            "Certification ID": "8168", 
+            "Certifying Organization": "Association of Boards of Certification"
+        }, 
+        {
+            "Acronym": "MLT", 
+            "Certification Name": "Level I Machine Lubrication Technician", 
+            "Type": "Core", 
+            "Certification ID": "5616", 
+            "Certifying Organization": "International Council for Machinery Lubrication"
+        }, 
+        {
+            "Acronym": "CFPPM", 
+            "Certification Name": "Fluid Power Pneumatic Mechanic", 
+            "Type": "Advanced", 
+            "Certification ID": "0895", 
+            "Certifying Organization": "International Fluid Power Society"
+        }, 
+        {
+            "Acronym": "CMRT", 
+            "Certification Name": "Certified Maintenance and Reliability Technician", 
+            "Type": "Core", 
+            "Certification ID": "9059", 
+            "Certifying Organization": "Society for Maintenance & Reliability Professionals"
+        }, 
+        {
+            "Acronym": "MLA", 
+            "Certification Name": "Level I Machine Lubricant Analyst", 
+            "Type": "Core", 
+            "Certification ID": "7718", 
+            "Certifying Organization": "International Council for Machinery Lubrication"
+        }, 
+        {
+            "Acronym": "CCST", 
+            "Certification Name": "Certified Control Systems Technician   Level I", 
+            "Type": "Core", 
+            "Certification ID": "1107", 
+            "Certifying Organization": "International Society of Automation"
+        }, 
+        {
+            "Acronym": "OMA", 
+            "Certification Name": "Oil Monitoring Analyst", 
+            "Type": "Core", 
+            "Certification ID": "2108", 
+            "Certifying Organization": "Society of Tribologists and Lubrication Engineers"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Plant Maintenance Technologist Certification Class II", 
+            "Type": "Core", 
+            "Certification ID": "8167", 
+            "Certifying Organization": "Association of Boards of Certification"
+        }, 
+        {
+            "Acronym": "CFPPT", 
+            "Certification Name": "Fluid Power Pneumatic Technician", 
+            "Type": "Advanced", 
+            "Certification ID": "0889", 
+            "Certifying Organization": "International Fluid Power Society"
+        }
+    ], 
+    "onet": "49904100"
+}

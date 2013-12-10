@@ -1,0 +1,19 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CRM", 
+            "Certification Name": "Certified Records Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "1208", 
+            "Certifying Organization": "Institute of Certified Records Managers"
+        }, 
+        {
+            "Acronym": "CA", 
+            "Certification Name": "Certified Archivist", 
+            "Type": "Core", 
+            "Certification ID": "1021", 
+            "Certifying Organization": "Academy of Certified Archivists"
+        }
+    ], 
+    "onet": "25401100"
+}

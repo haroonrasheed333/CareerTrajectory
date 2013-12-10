@@ -1,0 +1,47 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Network Technology Associate", 
+            "Type": "Core", 
+            "Certification ID": "6279", 
+            "Certifying Organization": "Certified Internet Web Professionals"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Internet Business Associate", 
+            "Type": "Core", 
+            "Certification ID": "6277", 
+            "Certifying Organization": "Certified Internet Web Professionals"
+        }, 
+        {
+            "Acronym": "CST", 
+            "Certification Name": "Computer Service Technician", 
+            "Type": "Core", 
+            "Certification ID": "0516", 
+            "Certifying Organization": "ETA International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Site Development Associate", 
+            "Type": "Core", 
+            "Certification ID": "6278", 
+            "Certifying Organization": "Certified Internet Web Professionals"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "EC-Council Certified Incident Handler", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "6347", 
+            "Certifying Organization": "EC-Council"
+        }, 
+        {
+            "Acronym": "PDI+", 
+            "Certification Name": "CompTIA Printing and Document Imaging Certification", 
+            "Type": "Core", 
+            "Certification ID": "3498", 
+            "Certifying Organization": "Computing Technology Industry Association (CompTIA)"
+        }
+    ], 
+    "onet": "43901100"
+}

@@ -1,0 +1,173 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CTS-D", 
+            "Certification Name": "Certified Technology Specialist-Design", 
+            "Type": "Specialty", 
+            "Certification ID": "6029", 
+            "Certifying Organization": "InfoComm International"
+        }, 
+        {
+            "Acronym": "DRB", 
+            "Certification Name": "Certified Digital Radio Broadcast Specialist", 
+            "Type": "Core", 
+            "Certification ID": "6692", 
+            "Certifying Organization": "Society of Broadcast Engineers, Inc."
+        }, 
+        {
+            "Acronym": "CAT", 
+            "Certification Name": "Commercial Audio Technician", 
+            "Type": "Core", 
+            "Certification ID": "6829", 
+            "Certifying Organization": "ETA International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Video Security Systems Designer II", 
+            "Type": "Advanced", 
+            "Certification ID": "9100", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Media Composer User", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8534", 
+            "Certifying Organization": "Avid Technology, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Avid Certified Support Representative for Workgroups", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8537", 
+            "Certifying Organization": "Avid Technology, Inc."
+        }, 
+        {
+            "Acronym": "AMD", 
+            "Certification Name": "Certified AM Directional Specialist", 
+            "Type": "Core", 
+            "Certification ID": "4882", 
+            "Certifying Organization": "Society of Broadcast Engineers, Inc."
+        }, 
+        {
+            "Acronym": "CLMC", 
+            "Certification Name": "Certified Lighting Management Consultant", 
+            "Type": "Advanced", 
+            "Certification ID": "1773", 
+            "Certifying Organization": "International Association of Lighting Management Companies"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Video Security Systems Technician II", 
+            "Type": "Core", 
+            "Certification ID": "9101", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "CEV", 
+            "Certification Name": "Certified Video Engineer", 
+            "Type": "Core", 
+            "Certification ID": "2720", 
+            "Certifying Organization": "Society of Broadcast Engineers, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Engineering Technician - Audio Systems", 
+            "Type": "Core", 
+            "Certification ID": "3530", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "AVD", 
+            "Certification Name": "Certified Audio Video Distribution Technician", 
+            "Type": "Core", 
+            "Certification ID": "3038", 
+            "Certifying Organization": "ETA International"
+        }, 
+        {
+            "Acronym": "CTS", 
+            "Certification Name": "Certified Technology Specialist", 
+            "Type": "Core", 
+            "Certification ID": "4955", 
+            "Certifying Organization": "InfoComm International"
+        }, 
+        {
+            "Acronym": "CSLT", 
+            "Certification Name": "Certified Senior Lighting Technician", 
+            "Type": "Advanced", 
+            "Certification ID": "1775", 
+            "Certifying Organization": "International Association of Lighting Management Companies"
+        }, 
+        {
+            "Acronym": "CALT", 
+            "Certification Name": "Certified Apprentice Lighting Technician", 
+            "Type": "Core", 
+            "Certification ID": "1774", 
+            "Certifying Organization": "International Association of Lighting Management Companies"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "AVID Certified Instructor", 
+            "Type": "Advanced", 
+            "Certification ID": "5455", 
+            "Certifying Organization": "Avid Technology, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Video Security Systems Technician I", 
+            "Type": "Core", 
+            "Certification ID": "5387", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Video Security Systems Technician III", 
+            "Type": "Core", 
+            "Certification ID": "9102", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Audio Systems - Level I", 
+            "Type": "Core", 
+            "Certification ID": "5385", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Video Security Systems Technician IV", 
+            "Type": "Core", 
+            "Certification ID": "9103", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Audio Systems - Level III", 
+            "Type": "Core", 
+            "Certification ID": "9091", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Video Security Systems Designer I", 
+            "Type": "Advanced", 
+            "Certification ID": "5386", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Avid Certified Support Representative for Editing", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8536", 
+            "Certifying Organization": "Avid Technology, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Audio Systems - Level II", 
+            "Type": "\u00a0", 
+            "Certification ID": "9090", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }
+    ], 
+    "onet": "27401100"
+}

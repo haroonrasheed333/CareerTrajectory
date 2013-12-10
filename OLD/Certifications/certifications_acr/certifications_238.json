@@ -1,0 +1,61 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CPG", 
+            "Certification Name": "Certified Petroleum Geologist", 
+            "Type": "Advanced", 
+            "Certification ID": "2086", 
+            "Certifying Organization": "American Association of Petroleum Geologists"
+        }, 
+        {
+            "Acronym": "CCG", 
+            "Certification Name": "Certified Coal Geologist", 
+            "Type": "Advanced", 
+            "Certification ID": "2087", 
+            "Certifying Organization": "American Association of Petroleum Geologists"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Geotechnical Engineering Technology - Laboratory Level II", 
+            "Type": "Advanced", 
+            "Certification ID": "7807", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "REP", 
+            "Certification Name": "Registered Environmental Professional", 
+            "Type": "Core", 
+            "Certification ID": "1121", 
+            "Certifying Organization": "National Registry of Environmental Professionals"
+        }, 
+        {
+            "Acronym": "QEP", 
+            "Certification Name": "Qualified Environmental Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "1125", 
+            "Certifying Organization": "Institute of Professional Environmental Practice"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Petroleum Geophysicist", 
+            "Type": "Advanced", 
+            "Certification ID": "2088", 
+            "Certifying Organization": "American Association of Petroleum Geologists"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Erosion and Sediment Control - Level I", 
+            "Type": "Core", 
+            "Certification ID": "5365", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "RHMMC", 
+            "Certification Name": "Registered Hazardous and Chemical Materials Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "3517", 
+            "Certifying Organization": "National Registry of Environmental Professionals"
+        }
+    ], 
+    "onet": "19204200"
+}

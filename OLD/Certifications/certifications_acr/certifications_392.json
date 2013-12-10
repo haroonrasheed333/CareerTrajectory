@@ -1,0 +1,425 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Urological Surgery Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "6359", 
+            "Certifying Organization": "American Osteopathic  Board of Surgery"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification of Otolaryngology/Facial Plastic Surgery", 
+            "Type": "Specialty", 
+            "Certification ID": "6372", 
+            "Certifying Organization": "American Osteopathic Board of Opthamology/American Osteopathic Board of Otolaryngology- Head and Neck Surgery"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification in Foot Surgery", 
+            "Type": "Specialty", 
+            "Certification ID": "0272", 
+            "Certifying Organization": "American Board of Podiatric Surgery"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification of Added Qualifications in MOHS - Micrographic Surgery", 
+            "Type": "Specialty", 
+            "Certification ID": "6322", 
+            "Certifying Organization": "American Osteopathic College of Dermatology"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Diplomate", 
+            "Type": "Advanced", 
+            "Certification ID": "8842", 
+            "Certifying Organization": "National Board of Medical Examiners"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Board Certified in Urgent Care Medicine", 
+            "Type": "Advanced", 
+            "Certification ID": "9007", 
+            "Certifying Organization": "American Board of Urgent Care Medicine"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Advanced Perioperative Transesophageal Echocardiography", 
+            "Type": "Specialty", 
+            "Certification ID": "8125", 
+            "Certifying Organization": "National Board of Echocardiography"
+        }, 
+        {
+            "Acronym": "COS", 
+            "Certification Name": "Certification in Orthopedic Surgery", 
+            "Type": "Specialty", 
+            "Certification ID": "6344", 
+            "Certifying Organization": "American Osteopathic Board of Orthopedic Surgery"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Level I  Advanced Laproscopic Surgeon", 
+            "Type": "Advanced", 
+            "Certification ID": "6675", 
+            "Certifying Organization": "American Society of General Surgeons"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification in Otolaryngology with Subspecialty in Sleep Medicine", 
+            "Type": "Specialty", 
+            "Certification ID": "6438", 
+            "Certifying Organization": "American Board of Otolaryngology"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification of Added Qualifications for Hand Surgery", 
+            "Type": "Specialty", 
+            "Certification ID": "6379", 
+            "Certifying Organization": "American Osteopathic Board of Orthopedic Surgery"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification in Ophthalmology and Otolaryngology", 
+            "Type": "Specialty", 
+            "Certification ID": "2705", 
+            "Certifying Organization": "American Osteopathic Board of Opthamology/American Osteopathic Board of Otolaryngology- Head and Neck Surgery"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Spinal Surgery", 
+            "Type": "Specialty", 
+            "Certification ID": "3324", 
+            "Certifying Organization": "American Academy of Neurological & Orthopaedic Surgeons"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Surgery of the Hand", 
+            "Type": "Specialty", 
+            "Certification ID": "0265", 
+            "Certifying Organization": "American Board of Surgery"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification in Otolaryngology with Subspecialty in Neurotology", 
+            "Type": "Specialty", 
+            "Certification ID": "6437", 
+            "Certifying Organization": "American Board of Otolaryngology"
+        }, 
+        {
+            "Acronym": "NO", 
+            "Certification Name": "Neuro-Oncology Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "8669", 
+            "Certifying Organization": "United Council for Neurologic Subspecialties"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Neurocritical Care Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "8667", 
+            "Certifying Organization": "United Council for Neurologic Subspecialties"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "General Vascular Surgery Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "6360", 
+            "Certifying Organization": "American Osteopathic  Board of Surgery"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "General Cosmetic Surgery", 
+            "Type": "Specialty", 
+            "Certification ID": "6769", 
+            "Certifying Organization": "American Board of Cosmetic Surgery"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Level III  Basic Laproscopist", 
+            "Type": "Specialty", 
+            "Certification ID": "6673", 
+            "Certifying Organization": "American Society of General Surgeons"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Level II  Laproscopic Surgeon", 
+            "Type": "Specialty", 
+            "Certification ID": "6674", 
+            "Certifying Organization": "American Society of General Surgeons"
+        }, 
+        {
+            "Acronym": "MD", 
+            "Certification Name": "Certification in Otolaryngology", 
+            "Type": "Specialty", 
+            "Certification ID": "0205", 
+            "Certifying Organization": "American Board of Otolaryngology"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Reconstructive Rearfoot/Ankle Surgery ", 
+            "Type": "Specialty", 
+            "Certification ID": "0271", 
+            "Certifying Organization": "American Board of Podiatric Surgery"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification in Thoracic Surgery", 
+            "Type": "Specialty", 
+            "Certification ID": "0267", 
+            "Certifying Organization": "American Board of Thoracic Surgery"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Orthopedic Surgery", 
+            "Type": "Specialty", 
+            "Certification ID": "6518", 
+            "Certifying Organization": "American Board of Physician Specialties"
+        }, 
+        {
+            "Acronym": "CNSC", 
+            "Certification Name": "Certified Nutrition Support Clinician", 
+            "Type": "Advanced", 
+            "Certification ID": "2437", 
+            "Certifying Organization": "National Board of Nutrition Support Certification, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification in Lower Extremity Surgery", 
+            "Type": "Specialty", 
+            "Certification ID": "5929", 
+            "Certifying Organization": "American Board of Lower Extremity Surgery"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Medical Biochemical Genetics", 
+            "Type": "Specialty", 
+            "Certification ID": "6433", 
+            "Certifying Organization": "American Board of Medical Genetics"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Diplomate of the American Board of Spine Surgery", 
+            "Type": "Specialty", 
+            "Certification ID": "6862", 
+            "Certifying Organization": "American Board of Spine Surgery"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification in Thoracic Surgery: Congenital Cardiac Surgery", 
+            "Type": "Specialty", 
+            "Certification ID": "6444", 
+            "Certifying Organization": "American Board of Thoracic Surgery"
+        }, 
+        {
+            "Acronym": "CoAP", 
+            "Certification Name": "Cardiac CT Certificate of Advanced Proficiency", 
+            "Type": "Specialty", 
+            "Certification ID": "9491", 
+            "Certifying Organization": "American College of Radiology"
+        }, 
+        {
+            "Acronym": "CPE", 
+            "Certification Name": "Certified Physician Executive", 
+            "Type": "Specialty", 
+            "Certification ID": "9526", 
+            "Certifying Organization": "Certifying Commission in Medical Management"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Pediatric Surgery", 
+            "Type": "Specialty", 
+            "Certification ID": "0264", 
+            "Certifying Organization": "American Board of Surgery"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Hospice and Palliative Medicine", 
+            "Type": "Specialty", 
+            "Certification ID": "6442", 
+            "Certifying Organization": "American Board of Surgery"
+        }, 
+        {
+            "Acronym": "PSC", 
+            "Certification Name": "Podiatric Surgery Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "3628", 
+            "Certifying Organization": "American Board of Multiple Specialties in Podiatry"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Plastic and Reconstructive Surgery Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "6357", 
+            "Certifying Organization": "American Osteopathic  Board of Surgery"
+        }, 
+        {
+            "Acronym": "BCB", 
+            "Certification Name": "Board Certified in Biofeedback", 
+            "Type": "Specialty", 
+            "Certification ID": "2318", 
+            "Certifying Organization": "Biofeedback Certification International Alliance"
+        }, 
+        {
+            "Acronym": "AANOS,", 
+            "Certification Name": "Clinical Neurosurgery", 
+            "Type": "Specialty", 
+            "Certification ID": "3322", 
+            "Certifying Organization": "American Academy of Neurological & Orthopaedic Surgeons"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Orthopaedic Surgery", 
+            "Type": "Specialty", 
+            "Certification ID": "3323", 
+            "Certifying Organization": "American Academy of Neurological & Orthopaedic Surgeons"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification in Urology: Pediatric Urology", 
+            "Type": "Specialty", 
+            "Certification ID": "6445", 
+            "Certifying Organization": "American Board of Urology"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Thoracic Cardiovascular Surgery Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "6358", 
+            "Certifying Organization": "American Osteopathic  Board of Surgery"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Facial Cosmetic Surgery", 
+            "Type": "Specialty", 
+            "Certification ID": "6768", 
+            "Certifying Organization": "American Board of Cosmetic Surgery"
+        }, 
+        {
+            "Acronym": "PTE", 
+            "Certification Name": "Basic Perioperative Transesophageal Echocardiography", 
+            "Type": "Specialty", 
+            "Certification ID": "8121", 
+            "Certifying Organization": "National Board of Echocardiography"
+        }, 
+        {
+            "Acronym": "NS,", 
+            "Certification Name": "Certification in Neurological Surgery", 
+            "Type": "Specialty", 
+            "Certification ID": "0195", 
+            "Certifying Organization": "American Board of Neurological Surgery"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification in Plastic Surgery", 
+            "Type": "Specialty", 
+            "Certification ID": "0239", 
+            "Certifying Organization": "American Board of Plastic Surgery"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Plastic & Reconstructive Surgery", 
+            "Type": "Specialty", 
+            "Certification ID": "6519", 
+            "Certifying Organization": "American Board of Physician Specialties"
+        }, 
+        {
+            "Acronym": "CPHQ", 
+            "Certification Name": "Certified Professional in Healthcare Quality", 
+            "Type": "Core", 
+            "Certification ID": "9207", 
+            "Certifying Organization": "National Association for Healthcare Quality"
+        }, 
+        {
+            "Acronym": "RPVI", 
+            "Certification Name": "Registered Physician in Vascular Interpretation", 
+            "Type": "Specialty", 
+            "Certification ID": "3730", 
+            "Certifying Organization": "American Registry of Diagnostic Medical Sonographers"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Dermatologic Cosmetic Surgery", 
+            "Type": "Specialty", 
+            "Certification ID": "6767", 
+            "Certifying Organization": "American Board of Cosmetic Surgery"
+        }, 
+        {
+            "Acronym": "SCC", 
+            "Certification Name": "Surgical Critical Care", 
+            "Type": "Specialty", 
+            "Certification ID": "0266", 
+            "Certifying Organization": "American Board of Surgery"
+        }, 
+        {
+            "Acronym": "MD", 
+            "Certification Name": "Certification in Orthopaedic Surgery", 
+            "Type": "Specialty", 
+            "Certification ID": "0203", 
+            "Certifying Organization": "American Board of Orthopaedic Surgery"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Surgery", 
+            "Type": "Core", 
+            "Certification ID": "6522", 
+            "Certifying Organization": "American Board of Physician Specialties"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification in Neurological Surgery", 
+            "Type": "Specialty", 
+            "Certification ID": "2563", 
+            "Certifying Organization": "American Osteopathic  Board of Surgery"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "General Surgery", 
+            "Type": "Advanced", 
+            "Certification ID": "0262", 
+            "Certifying Organization": "American Board of Surgery"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Orthopaedic Sports Medicine", 
+            "Type": "Specialty", 
+            "Certification ID": "3891", 
+            "Certifying Organization": "American Board of Orthopaedic Surgery"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Body, Breast and Extremity Cosmetic Surgery", 
+            "Type": "Specialty", 
+            "Certification ID": "6766", 
+            "Certifying Organization": "American Board of Cosmetic Surgery"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification in Colon & Rectal Surgery", 
+            "Type": "Specialty", 
+            "Certification ID": "0163", 
+            "Certifying Organization": "American Board of Colon & Rectal Surgery"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Subspecialty Certification in Surgery of the Hand", 
+            "Type": "Specialty", 
+            "Certification ID": "0204", 
+            "Certifying Organization": "American Board of Orthopaedic Surgery"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Vascular Surgery", 
+            "Type": "Specialty", 
+            "Certification ID": "0263", 
+            "Certifying Organization": "American Board of Surgery"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification of Added Qualifications for Surgical Critical Care", 
+            "Type": "Specialty", 
+            "Certification ID": "6361", 
+            "Certifying Organization": "American Osteopathic  Board of Surgery"
+        }
+    ], 
+    "onet": "29106700"
+}

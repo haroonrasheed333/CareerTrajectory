@@ -1,0 +1,40 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CAP", 
+            "Certification Name": "Certified Automation Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "3687", 
+            "Certifying Organization": "International Society of Automation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "PMMI Mechatronics: Mechanical Components 1", 
+            "Type": "Core", 
+            "Certification ID": "9508", 
+            "Certifying Organization": "Packaging Machinery Manufacturing Institute"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "PMMI Mechatronics: Industrial Electricity 2", 
+            "Type": "Core", 
+            "Certification ID": "9507", 
+            "Certifying Organization": "Packaging Machinery Manufacturing Institute"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "PMMI Mechatronics: Industrial Electricity 1", 
+            "Type": "Core", 
+            "Certification ID": "9506", 
+            "Certifying Organization": "Packaging Machinery Manufacturing Institute"
+        }, 
+        {
+            "Acronym": "PLCs", 
+            "Certification Name": "PMMI Mechatronics: Programmable Logic Controllers", 
+            "Type": "Core", 
+            "Certification ID": "9509", 
+            "Certifying Organization": "Packaging Machinery Manufacturing Institute"
+        }
+    ], 
+    "onet": "17219905"
+}

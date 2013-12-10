@@ -1,0 +1,271 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "MBB", 
+            "Certification Name": "Certified Master Black Belt", 
+            "Type": "Advanced", 
+            "Certification ID": "6786", 
+            "Certifying Organization": "American Society for Quality"
+        }, 
+        {
+            "Acronym": "CEG", 
+            "Certification Name": "Certified in Engineering Graphics", 
+            "Type": "Core", 
+            "Certification ID": "8183", 
+            "Certifying Organization": "Association of Technology, Management, and Applied Engineering"
+        }, 
+        {
+            "Acronym": "CRE", 
+            "Certification Name": "Certified Reliability Engineer", 
+            "Type": "Advanced", 
+            "Certification ID": "0792", 
+            "Certifying Organization": "American Society for Quality"
+        }, 
+        {
+            "Acronym": "CSTD", 
+            "Certification Name": "SES Standards Professional Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "3556", 
+            "Certifying Organization": "Standards Engineering Society"
+        }, 
+        {
+            "Acronym": "CQI", 
+            "Certification Name": "Certified Quality Inspector", 
+            "Type": "Advanced", 
+            "Certification ID": "5361", 
+            "Certifying Organization": "American Society for Quality"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Fluid Power Systems Designer", 
+            "Type": "Advanced", 
+            "Certification ID": "8766", 
+            "Certifying Organization": "International Fluid Power Society"
+        }, 
+        {
+            "Acronym": "SSGB", 
+            "Certification Name": "Six Sigma Green Belt Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "6811", 
+            "Certifying Organization": "Society for Manufacturing Engineers"
+        }, 
+        {
+            "Acronym": "CMRP", 
+            "Certification Name": "Certified Materials & Resource Professional", 
+            "Type": "Core", 
+            "Certification ID": "5957", 
+            "Certifying Organization": "American Hospital Association"
+        }, 
+        {
+            "Acronym": "AEP", 
+            "Certification Name": "Associate Ergonomics Professional", 
+            "Type": "Core", 
+            "Certification ID": "1451", 
+            "Certifying Organization": "Board of Certification in Professional Ergonomics"
+        }, 
+        {
+            "Acronym": "CVS", 
+            "Certification Name": "Certified Value Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "1324", 
+            "Certifying Organization": "Society of American Value Engineers"
+        }, 
+        {
+            "Acronym": "CPP", 
+            "Certification Name": "Certified Packaging Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "1344", 
+            "Certifying Organization": "Institute of Packaging Professionals"
+        }, 
+        {
+            "Acronym": "AStd", 
+            "Certification Name": "Associate Standards Professional Certification", 
+            "Type": "Core", 
+            "Certification ID": "9114", 
+            "Certifying Organization": "The Society for Standards Professionals"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Lean Gold Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "6809", 
+            "Certifying Organization": "Society for Manufacturing Engineers"
+        }, 
+        {
+            "Acronym": "CPSM", 
+            "Certification Name": "Certified Professional in Supply Management", 
+            "Type": "Core", 
+            "Certification ID": "4570", 
+            "Certifying Organization": "Institute for Supply Management"
+        }, 
+        {
+            "Acronym": "AHFP", 
+            "Certification Name": "Associate Human Factors Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "1452", 
+            "Certifying Organization": "Board of Certification in Professional Ergonomics"
+        }, 
+        {
+            "Acronym": "CEA", 
+            "Certification Name": "Certified Ergonomics Associate", 
+            "Type": "Core", 
+            "Certification ID": "1453", 
+            "Certifying Organization": "Board of Certification in Professional Ergonomics"
+        }, 
+        {
+            "Acronym": "CAP", 
+            "Certification Name": "Certified Automation Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "3687", 
+            "Certifying Organization": "International Society of Automation"
+        }, 
+        {
+            "Acronym": "CSSBB", 
+            "Certification Name": "Certified Six Sigma Blackbelt", 
+            "Type": "Advanced", 
+            "Certification ID": "2602", 
+            "Certifying Organization": "American Society for Quality"
+        }, 
+        {
+            "Acronym": "CPGP", 
+            "Certification Name": "Certified Pharmaceutical GMP Professional", 
+            "Type": "Specialty", 
+            "Certification ID": "6787", 
+            "Certifying Organization": "American Society for Quality"
+        }, 
+        {
+            "Acronym": "RDSS", 
+            "Certification Name": "Robust Design for Six Sigma", 
+            "Type": "Advanced", 
+            "Certification ID": "6812", 
+            "Certifying Organization": "Society for Manufacturing Engineers"
+        }, 
+        {
+            "Acronym": "CSCP", 
+            "Certification Name": "Certified Supply Chain Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "4895", 
+            "Certifying Organization": "The Association for Operations Management"
+        }, 
+        {
+            "Acronym": "CMRP", 
+            "Certification Name": "Certified Maintenance & Reliability Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "7991", 
+            "Certifying Organization": "Society for Maintenance & Reliability Professionals"
+        }, 
+        {
+            "Acronym": "CEMT", 
+            "Certification Name": "Certified Energy Manager in Training", 
+            "Type": "Advanced", 
+            "Certification ID": "6799", 
+            "Certifying Organization": "Association of Energy Engineers"
+        }, 
+        {
+            "Acronym": "AVS", 
+            "Certification Name": "Associate Value Specialist", 
+            "Type": "Core", 
+            "Certification ID": "1325", 
+            "Certifying Organization": "Society of American Value Engineers"
+        }, 
+        {
+            "Acronym": "PCMH", 
+            "Certification Name": "Professional Certified in Materials Handling", 
+            "Type": "Core", 
+            "Certification ID": "1430", 
+            "Certifying Organization": "Materials Handling and Management Society"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Lean Bronze Certification", 
+            "Type": "Core", 
+            "Certification ID": "6807", 
+            "Certifying Organization": "Society for Manufacturing Engineers"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Lean Silver Certification", 
+            "Type": "Core", 
+            "Certification ID": "6808", 
+            "Certifying Organization": "Society for Manufacturing Engineers"
+        }, 
+        {
+            "Acronym": "SSBB", 
+            "Certification Name": "Six Sigma Black Belt Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "6810", 
+            "Certifying Organization": "Society for Manufacturing Engineers"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Industrial Instrumentation - Level I", 
+            "Type": "Core", 
+            "Certification ID": "5384", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "CEM", 
+            "Certification Name": "Certified Energy Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "1280", 
+            "Certifying Organization": "Association of Energy Engineers"
+        }, 
+        {
+            "Acronym": "CEP", 
+            "Certification Name": "Certified Energy Procurement Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "1285", 
+            "Certifying Organization": "Association of Energy Engineers"
+        }, 
+        {
+            "Acronym": "GDTP", 
+            "Certification Name": "Geometric Dimensioning & Tolerancing Professional - Technologist", 
+            "Type": "Advanced", 
+            "Certification ID": "2153", 
+            "Certifying Organization": "American Society of Mechanical Engineers International"
+        }, 
+        {
+            "Acronym": "CMfgE", 
+            "Certification Name": "Certified Manufacturing Engineer", 
+            "Type": "Core", 
+            "Certification ID": "0861", 
+            "Certifying Organization": "Society for Manufacturing Engineers"
+        }, 
+        {
+            "Acronym": "CSEG", 
+            "Certification Name": "Certified Senior in Engineering Graphics", 
+            "Type": "Advanced", 
+            "Certification ID": "8184", 
+            "Certifying Organization": "Association of Technology, Management, and Applied Engineering"
+        }, 
+        {
+            "Acronym": "CQE", 
+            "Certification Name": "Certified Quality Engineer", 
+            "Type": "Advanced", 
+            "Certification ID": "0790", 
+            "Certifying Organization": "American Society for Quality"
+        }, 
+        {
+            "Acronym": "WSO-CSM", 
+            "Certification Name": "WSO - Certified Safety Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "0996", 
+            "Certifying Organization": "World Safety Organization"
+        }, 
+        {
+            "Acronym": "WSO-CSS", 
+            "Certification Name": "WSO - Certified Safety Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "0997", 
+            "Certifying Organization": "World Safety Organization"
+        }, 
+        {
+            "Acronym": "CStd", 
+            "Certification Name": "Standards Professional Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "9115", 
+            "Certifying Organization": "The Society for Standards Professionals"
+        }
+    ], 
+    "onet": "17211200"
+}

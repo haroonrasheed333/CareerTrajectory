@@ -1,0 +1,19 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "ATP", 
+            "Certification Name": "Assistive Technology Professional", 
+            "Type": "Specialty", 
+            "Certification ID": "6848", 
+            "Certifying Organization": "Rehabilitation Engineering and Assistive Technology Society of North America"
+        }, 
+        {
+            "Acronym": "SMS", 
+            "Certification Name": "Seating and Mobility Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "6849", 
+            "Certifying Organization": "Rehabilitation Engineering and Assistive Technology Society of North America"
+        }
+    ], 
+    "onet": "25903100"
+}

@@ -1,0 +1,19 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Medical Laboratory Assistant", 
+            "Type": "Core", 
+            "Certification ID": "8533", 
+            "Certifying Organization": "American Phlebotomy Association"
+        }, 
+        {
+            "Acronym": "CHT", 
+            "Certification Name": "Certified Hemodialysis Technologist/Technician", 
+            "Type": "Core", 
+            "Certification ID": "9492", 
+            "Certifying Organization": "Board of Nephrology Examiners Technology Nursing"
+        }
+    ], 
+    "onet": "29209900"
+}

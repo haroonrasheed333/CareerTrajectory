@@ -1,0 +1,47 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "PrePress Operator Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "5430", 
+            "Certifying Organization": "Flexographic Technical Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Implementation Specialist Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "5431", 
+            "Certifying Organization": "Flexographic Technical Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Press Operator Certification", 
+            "Type": "Core", 
+            "Certification ID": "5429", 
+            "Certifying Organization": "Flexographic Technical Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "National Certification for Flexographic Press Operators", 
+            "Type": "Core", 
+            "Certification ID": "5396", 
+            "Certifying Organization": "The National Council for Skill Standards in Graphic Communications"
+        }, 
+        {
+            "Acronym": "CGCM", 
+            "Certification Name": "Certified Graphics Communications Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "7688", 
+            "Certifying Organization": "In-Plant Printing and Mailing Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "National Certification in Multi-Color Sheet & Web Offset Press Operating", 
+            "Type": "Advanced", 
+            "Certification ID": "5392", 
+            "Certifying Organization": "The National Council for Skill Standards in Graphic Communications"
+        }
+    ], 
+    "onet": "51511200"
+}

@@ -1,0 +1,33 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Registered Nurse Anesthetist", 
+            "Type": "Specialty", 
+            "Certification ID": "9531", 
+            "Certifying Organization": "National Board for Certification and Recertification for Nurse Anesthetists"
+        }, 
+        {
+            "Acronym": "AA-C", 
+            "Certification Name": "Certified Anesthesiologist Assistants", 
+            "Type": "Core", 
+            "Certification ID": "6446", 
+            "Certifying Organization": "National Commission for the Certification of Anesthesiologist Assistants"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Anesthesia Technologist", 
+            "Type": "Core", 
+            "Certification ID": "5973", 
+            "Certifying Organization": "The American Society of Anesthesia Technologists and Technicians"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Anesthesia Technician", 
+            "Type": "Core", 
+            "Certification ID": "5972", 
+            "Certifying Organization": "The American Society of Anesthesia Technologists and Technicians"
+        }
+    ], 
+    "onet": "29107101"
+}

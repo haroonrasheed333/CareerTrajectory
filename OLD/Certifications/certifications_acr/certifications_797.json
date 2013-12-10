@@ -1,0 +1,19 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CEBT", 
+            "Certification Name": "Certified Eye Bank Technician", 
+            "Type": "Core", 
+            "Certification ID": "2409", 
+            "Certifying Organization": "Eye Bank Association of America"
+        }, 
+        {
+            "Acronym": "TPO", 
+            "Certification Name": "Technician in Precision Optics", 
+            "Type": "Core", 
+            "Certification ID": "8644", 
+            "Certifying Organization": "ETA International"
+        }
+    ], 
+    "onet": "51908300"
+}

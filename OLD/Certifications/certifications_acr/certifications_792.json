@@ -1,0 +1,33 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CGA", 
+            "Certification Name": "Certified Gemologist Appraiser", 
+            "Type": "Advanced", 
+            "Certification ID": "2504", 
+            "Certifying Organization": "American Gem Society"
+        }, 
+        {
+            "Acronym": "ICGA", 
+            "Certification Name": "Independent Certified Gemologist Appraiser", 
+            "Type": "Advanced", 
+            "Certification ID": "6782", 
+            "Certifying Organization": "American Gem Society"
+        }, 
+        {
+            "Acronym": "RJ", 
+            "Certification Name": "Registered Jeweler", 
+            "Type": "Advanced", 
+            "Certification ID": "6783", 
+            "Certifying Organization": "American Gem Society"
+        }, 
+        {
+            "Acronym": "CG", 
+            "Certification Name": "Certified Gemologist", 
+            "Type": "Advanced", 
+            "Certification ID": "2503", 
+            "Certifying Organization": "American Gem Society"
+        }
+    ], 
+    "onet": "51907101"
+}

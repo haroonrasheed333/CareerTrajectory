@@ -1,0 +1,40 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CPFFE", 
+            "Certification Name": "Certified Personal and Family Finance Educator", 
+            "Type": "Advanced", 
+            "Certification ID": "8152", 
+            "Certifying Organization": "American Association of Family and Consumer Sciences"
+        }, 
+        {
+            "Acronym": "CFCS-HNFS", 
+            "Certification Name": "Certified in Hospitality, Nutrition, and Food Science", 
+            "Type": "Core", 
+            "Certification ID": "8151", 
+            "Certifying Organization": "American Association of Family and Consumer Sciences"
+        }, 
+        {
+            "Acronym": "CFCS-HDFS", 
+            "Certification Name": "Certified in Human Development and Family Studies", 
+            "Type": "Core", 
+            "Certification ID": "8150", 
+            "Certifying Organization": "American Association of Family and Consumer Sciences"
+        }, 
+        {
+            "Acronym": "NCFR", 
+            "Certification Name": "Certified Family Life Educator", 
+            "Type": "Advanced", 
+            "Certification ID": "3646", 
+            "Certifying Organization": "National Council on Family Relations"
+        }, 
+        {
+            "Acronym": "CFCS", 
+            "Certification Name": "Certified in Family and Consumer Sciences", 
+            "Type": "Advanced", 
+            "Certification ID": "1319", 
+            "Certifying Organization": "American Association of Family and Consumer Sciences"
+        }
+    ], 
+    "onet": "25119200"
+}

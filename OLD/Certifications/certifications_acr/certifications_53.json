@@ -1,0 +1,61 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CFRE", 
+            "Certification Name": "Certified Fund Raising Executive", 
+            "Type": "Advanced", 
+            "Certification ID": "5992", 
+            "Certifying Organization": "Certified Fund Raising Executive International"
+        }, 
+        {
+            "Acronym": "CCIM", 
+            "Certification Name": "Certified Commercial Investment Member", 
+            "Type": "Advanced", 
+            "Certification ID": "8591", 
+            "Certifying Organization": "National Association of Realtors"
+        }, 
+        {
+            "Acronym": "CAIA", 
+            "Certification Name": "Chartered Alternative Investment Analyst", 
+            "Type": "Advanced", 
+            "Certification ID": "7451", 
+            "Certifying Organization": "CAIA Association"
+        }, 
+        {
+            "Acronym": "CPM", 
+            "Certification Name": "Certified Chartered Portfolio Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "7918", 
+            "Certifying Organization": "American Academy of Financial Management"
+        }, 
+        {
+            "Acronym": "CIPM", 
+            "Certification Name": "Certificate in Investment Performance Measurement", 
+            "Type": "Advanced", 
+            "Certification ID": "7658", 
+            "Certifying Organization": "CFA Institute"
+        }, 
+        {
+            "Acronym": "CHAM", 
+            "Certification Name": "Certified Hotel Asset Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "8769", 
+            "Certifying Organization": "Hospitality Asset Managers Association"
+        }, 
+        {
+            "Acronym": "CAM", 
+            "Certification Name": "Chartered Certified Asset Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "7916", 
+            "Certifying Organization": "American Academy of Financial Management"
+        }, 
+        {
+            "Acronym": "CIMA", 
+            "Certification Name": "Certified Investment Management Analyst", 
+            "Type": "Advanced", 
+            "Certification ID": "5366", 
+            "Certifying Organization": "Investment Management Consultants Association"
+        }
+    ], 
+    "onet": "11919903"
+}

@@ -1,0 +1,47 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "OTC", 
+            "Certification Name": "Orthopaedic Technologist  Certified", 
+            "Type": "Specialty", 
+            "Certification ID": "3649", 
+            "Certifying Organization": "National Board for Certification of Orthopaedic Technololgists"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Functional Training Specialty Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "9108", 
+            "Certifying Organization": "American Council on Exercise"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Orthopedic Exercise Specialty Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "9111", 
+            "Certifying Organization": "American Council on Exercise"
+        }, 
+        {
+            "Acronym": "COMT", 
+            "Certification Name": "Certification in Orthopedic Manual Therapy", 
+            "Type": "Advanced", 
+            "Certification ID": "9529", 
+            "Certifying Organization": "International Academy of Orthopedic Medicine - US"
+        }, 
+        {
+            "Acronym": "WCC", 
+            "Certification Name": "Wound Care Certifed", 
+            "Type": "Specialty", 
+            "Certification ID": "6051", 
+            "Certifying Organization": "National Alliance of Wound Care"
+        }, 
+        {
+            "Acronym": "OTR", 
+            "Certification Name": "Occupational Therapist Registered", 
+            "Type": "Core", 
+            "Certification ID": "0319", 
+            "Certifying Organization": "National Board for Certification in Occupational Therapy, Inc."
+        }
+    ], 
+    "onet": "31202100"
+}

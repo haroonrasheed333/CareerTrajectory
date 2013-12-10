@@ -1,0 +1,33 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Oracle Transportation Management 6 Certified Implementation Specialist", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8471", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified CNG Fuel System Inspector", 
+            "Type": "Advanced", 
+            "Certification ID": "7669", 
+            "Certifying Organization": "CSA Standards"
+        }, 
+        {
+            "Acronym": "AICP CTP", 
+            "Certification Name": "Advanced Specialty Certification in Transportation Planning", 
+            "Type": "Specialty", 
+            "Certification ID": "9125", 
+            "Certifying Organization": "American Institute of Certified Planners"
+        }, 
+        {
+            "Acronym": "PTOE", 
+            "Certification Name": "Professional Traffic Operations Engineer", 
+            "Type": "Advanced", 
+            "Certification ID": "6167", 
+            "Certifying Organization": "Transportation Professional Certification Board, Inc."
+        }
+    ], 
+    "onet": "17205101"
+}

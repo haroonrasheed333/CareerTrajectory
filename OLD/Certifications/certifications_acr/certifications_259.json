@@ -1,0 +1,19 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CFS", 
+            "Certification Name": "Certified Food Scientist", 
+            "Type": "Advanced", 
+            "Certification ID": "9020", 
+            "Certifying Organization": "Institute of Food Technologists"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Approved Chemist", 
+            "Type": "Advanced", 
+            "Certification ID": "7974", 
+            "Certifying Organization": "American Oil Chemists Society"
+        }
+    ], 
+    "onet": "19401102"
+}

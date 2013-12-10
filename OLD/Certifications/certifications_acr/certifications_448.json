@@ -1,0 +1,96 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Clinical Nurse Specialist in Adult Psychiatric & Mental Health", 
+            "Type": "Specialty", 
+            "Certification ID": "6117", 
+            "Certifying Organization": "American Nurses Credentialing Center"
+        }, 
+        {
+            "Acronym": "NCPT", 
+            "Certification Name": "Nationally Certified Psychiatric Technician 3", 
+            "Type": "Advanced", 
+            "Certification ID": "0377", 
+            "Certifying Organization": "American Association of Psychiatric Technicians, Inc."
+        }, 
+        {
+            "Acronym": "CH", 
+            "Certification Name": "Certified Hypnotist", 
+            "Type": "Specialty", 
+            "Certification ID": "5807", 
+            "Certifying Organization": "National Guild of Hypnotists, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Clinical Nurse Specialist in Child/Adolescent Psychiatric & Mental Health", 
+            "Type": "Specialty", 
+            "Certification ID": "6118", 
+            "Certifying Organization": "American Nurses Credentialing Center"
+        }, 
+        {
+            "Acronym": "CPRP", 
+            "Certification Name": "Certified Psychiatric Rehabilitation Practitioner", 
+            "Type": "Specialty", 
+            "Certification ID": "6109", 
+            "Certifying Organization": "US Psychiatric Rehabilitation Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Family Psychiatric & Mental Health Nurse Practitioner", 
+            "Type": "Specialty", 
+            "Certification ID": "6113", 
+            "Certifying Organization": "American Nurses Credentialing Center"
+        }, 
+        {
+            "Acronym": "NCPT", 
+            "Certification Name": "Nationally Certified Psychiatric Technician 2", 
+            "Type": "Core", 
+            "Certification ID": "0376", 
+            "Certifying Organization": "American Association of Psychiatric Technicians, Inc."
+        }, 
+        {
+            "Acronym": "BCN", 
+            "Certification Name": "Board Certified in Neurofeedback", 
+            "Type": "Specialty", 
+            "Certification ID": "6711", 
+            "Certifying Organization": "Biofeedback Certification International Alliance"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Technician Certification in Biofeedback", 
+            "Type": "Specialty", 
+            "Certification ID": "6716", 
+            "Certifying Organization": "Biofeedback Certification International Alliance"
+        }, 
+        {
+            "Acronym": "NCPT", 
+            "Certification Name": "Nationally Certified Psychiatric Technician 4", 
+            "Type": "Advanced", 
+            "Certification ID": "0378", 
+            "Certifying Organization": "American Association of Psychiatric Technicians, Inc."
+        }, 
+        {
+            "Acronym": "NCPT", 
+            "Certification Name": "Nationally Certified Psychiatric Technician 1", 
+            "Type": "Core", 
+            "Certification ID": "0375", 
+            "Certifying Organization": "American Association of Psychiatric Technicians, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Technician Certification in Neurofeedback", 
+            "Type": "Specialty", 
+            "Certification ID": "6715", 
+            "Certifying Organization": "Biofeedback Certification International Alliance"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Psychiatric - Mental Health Nursing", 
+            "Type": "Core", 
+            "Certification ID": "6133", 
+            "Certifying Organization": "American Nurses Credentialing Center"
+        }
+    ], 
+    "onet": "29205300"
+}

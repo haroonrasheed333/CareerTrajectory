@@ -1,0 +1,33 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Machining Level I - CNC Milling: Operations", 
+            "Type": "Core", 
+            "Certification ID": "9068", 
+            "Certifying Organization": "National Institute for Metalworking Skills "
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Machining Level I - Drill Press Skills I", 
+            "Type": "Core", 
+            "Certification ID": "0723", 
+            "Certifying Organization": "National Institute for Metalworking Skills "
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Machining Level II - Drill Press Skills II", 
+            "Type": "Advanced", 
+            "Certification ID": "3823", 
+            "Certifying Organization": "National Institute for Metalworking Skills "
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Operator Certification", 
+            "Type": "Core", 
+            "Certification ID": "0910", 
+            "Certifying Organization": "Concrete Sawing and Drilling Association"
+        }
+    ], 
+    "onet": "51403200"
+}

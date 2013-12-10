@@ -1,0 +1,355 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "WSO-RSD", 
+            "Certification Name": "Registered Safety Director", 
+            "Type": "Advanced", 
+            "Certification ID": "6850", 
+            "Certifying Organization": "World Safety Organization"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Inspection and Testing of Water-Based Systems I", 
+            "Type": "Advanced", 
+            "Certification ID": "5382", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Special Hazards Suppression Systems I", 
+            "Type": "Specialty", 
+            "Certification ID": "5383", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Special Hazards Suppression Systems III", 
+            "Type": "Specialty", 
+            "Certification ID": "9098", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "CHMM", 
+            "Certification Name": "Certified Hazardous Materials Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "0920", 
+            "Certifying Organization": "Institute of Hazardous Materials Management"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "HHW & CESQG Collection Facility Operations - Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "9538", 
+            "Certifying Organization": "Solid Waste Association of North America"
+        }, 
+        {
+            "Acronym": "RAC", 
+            "Certification Name": "Regulatory Affairs Certification - US", 
+            "Type": "Advanced", 
+            "Certification ID": "6103", 
+            "Certifying Organization": "Regulatory Affairs Professionals Society"
+        }, 
+        {
+            "Acronym": "BPE", 
+            "Certification Name": "Building Plans Examiner", 
+            "Type": "Core", 
+            "Certification ID": "3403", 
+            "Certifying Organization": "International Code Council"
+        }, 
+        {
+            "Acronym": "AEP", 
+            "Certification Name": "Associate Ergonomics Professional", 
+            "Type": "Core", 
+            "Certification ID": "1451", 
+            "Certifying Organization": "Board of Certification in Professional Ergonomics"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Inspection and Testing of Water-Based Systems III", 
+            "Type": "Advanced", 
+            "Certification ID": "9096", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "CSP", 
+            "Certification Name": "Certified Safety Professional", 
+            "Type": "Core", 
+            "Certification ID": "7853", 
+            "Certifying Organization": "Board of Certified Safety Professionals"
+        }, 
+        {
+            "Acronym": "CBI", 
+            "Certification Name": "Commercial Building Inspector", 
+            "Type": "Core", 
+            "Certification ID": "3392", 
+            "Certifying Organization": "International Code Council"
+        }, 
+        {
+            "Acronym": "EPE", 
+            "Certification Name": "Electrical Plans Examiner", 
+            "Type": "Core", 
+            "Certification ID": "3404", 
+            "Certifying Organization": "International Code Council"
+        }, 
+        {
+            "Acronym": "MPE", 
+            "Certification Name": "Mechanical Plans Examiner", 
+            "Type": "Core", 
+            "Certification ID": "3405", 
+            "Certifying Organization": "International Code Council"
+        }, 
+        {
+            "Acronym": "RBI", 
+            "Certification Name": "Residential Building Inspector", 
+            "Type": "Core", 
+            "Certification ID": "3388", 
+            "Certifying Organization": "International Code Council"
+        }, 
+        {
+            "Acronym": "REI-PE", 
+            "Certification Name": "Residential Energy Inspector/Plans Examiner", 
+            "Type": "Core", 
+            "Certification ID": "3398", 
+            "Certifying Organization": "International Code Council"
+        }, 
+        {
+            "Acronym": "RPI", 
+            "Certification Name": "Residential Plumbing Inspector", 
+            "Type": "Core", 
+            "Certification ID": "3391", 
+            "Certifying Organization": "International Code Council"
+        }, 
+        {
+            "Acronym": "AHFP", 
+            "Certification Name": "Associate Human Factors Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "1452", 
+            "Certifying Organization": "Board of Certification in Professional Ergonomics"
+        }, 
+        {
+            "Acronym": "CEA", 
+            "Certification Name": "Certified Ergonomics Associate", 
+            "Type": "Core", 
+            "Certification ID": "1453", 
+            "Certifying Organization": "Board of Certification in Professional Ergonomics"
+        }, 
+        {
+            "Acronym": "CHMP", 
+            "Certification Name": "Certified Hazardous Materials Practitioner", 
+            "Type": "Core", 
+            "Certification ID": "6032", 
+            "Certifying Organization": "Institute of Hazardous Materials Management"
+        }, 
+        {
+            "Acronym": "WSO-CGEO", 
+            "Certification Name": "WSO - Certified Governmental Environmental Officer", 
+            "Type": "Advanced", 
+            "Certification ID": "1003", 
+            "Certifying Organization": "World Safety Organization"
+        }, 
+        {
+            "Acronym": "CIH", 
+            "Certification Name": "Certified Industrial Hygienist", 
+            "Type": "Specialty", 
+            "Certification ID": "0869", 
+            "Certifying Organization": "American Board of Industrial Hygiene"
+        }, 
+        {
+            "Acronym": "CFPE", 
+            "Certification Name": "Certified Fire Plan Examiner I", 
+            "Type": "Core", 
+            "Certification ID": "3504", 
+            "Certifying Organization": "National Fire Protection Association"
+        }, 
+        {
+            "Acronym": "CHCM", 
+            "Certification Name": "Certified Hazard Control Manager", 
+            "Type": "Specialty", 
+            "Certification ID": "7878", 
+            "Certifying Organization": "International Board for Certification of Safety Managers"
+        }, 
+        {
+            "Acronym": "WSO-CSSD", 
+            "Certification Name": "WSO - Certified Safety & Security Director", 
+            "Type": "Advanced", 
+            "Certification ID": "0998", 
+            "Certifying Organization": "World Safety Organization"
+        }, 
+        {
+            "Acronym": "CHSP", 
+            "Certification Name": "Certified Healthcare Safety Professional", 
+            "Type": "Specialty", 
+            "Certification ID": "0662", 
+            "Certifying Organization": "International Board for Certification of Safety Managers"
+        }, 
+        {
+            "Acronym": "CMSP", 
+            "Certification Name": "Certified Mine Safety Professional", 
+            "Type": "Core", 
+            "Certification ID": "5390", 
+            "Certifying Organization": "International Society of Mine Safety Professionals"
+        }, 
+        {
+            "Acronym": "RMI", 
+            "Certification Name": "Residential Mechanical Inspector", 
+            "Type": "Core", 
+            "Certification ID": "3390", 
+            "Certifying Organization": "International Code Council"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Special Hazards Suppression Systems II", 
+            "Type": "Specialty", 
+            "Certification ID": "9097", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "CEMT", 
+            "Certification Name": "Certified Energy Manager in Training", 
+            "Type": "Advanced", 
+            "Certification ID": "6799", 
+            "Certifying Organization": "Association of Energy Engineers"
+        }, 
+        {
+            "Acronym": "Construction", 
+            "Certification Name": "WSO - Certified Safety Manager (Construction)", 
+            "Type": "Specialty", 
+            "Certification ID": "6851", 
+            "Certifying Organization": "World Safety Organization"
+        }, 
+        {
+            "Acronym": "IRRSP", 
+            "Certification Name": "Industry Radiography Radiation Safety Personnel", 
+            "Type": "Specialty", 
+            "Certification ID": "2202", 
+            "Certifying Organization": "American Society for Nondestructive Testing"
+        }, 
+        {
+            "Acronym": "CPI", 
+            "Certification Name": "Commercial Plumbing Inspector", 
+            "Type": "Core", 
+            "Certification ID": "3395", 
+            "Certifying Organization": "International Code Council"
+        }, 
+        {
+            "Acronym": "CDS", 
+            "Certification Name": "Certified Director of Safety", 
+            "Type": "Advanced", 
+            "Certification ID": "3999", 
+            "Certifying Organization": "North American Transportation Management Institute"
+        }, 
+        {
+            "Acronym": "CSHM", 
+            "Certification Name": "Certified Safety and Health Manager", 
+            "Type": "Specialty", 
+            "Certification ID": "2149", 
+            "Certifying Organization": "Institute for Safety and Health Management"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Special Hazards Suppression Systems IV", 
+            "Type": "Specialty", 
+            "Certification ID": "9099", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Safety Supervisor", 
+            "Type": "Advanced", 
+            "Certification ID": "4001", 
+            "Certifying Organization": "North American Transportation Management Institute"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Diplomate of the American Board of Toxicology", 
+            "Type": "Advanced", 
+            "Certification ID": "5369", 
+            "Certifying Organization": "American Board of Toxicology, Inc."
+        }, 
+        {
+            "Acronym": "WSO-CGSO", 
+            "Certification Name": "WSO - Certified Governmental Safety Officer", 
+            "Type": "Advanced", 
+            "Certification ID": "1000", 
+            "Certifying Organization": "World Safety Organization"
+        }, 
+        {
+            "Acronym": "MRS", 
+            "Certification Name": "Mold Removal Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "9439", 
+            "Certifying Organization": "Institute of Inspection Cleaning and Restoration Certification"
+        }, 
+        {
+            "Acronym": "CEPE", 
+            "Certification Name": "Commercial Energy Plans Examiner", 
+            "Type": "Core", 
+            "Certification ID": "3399", 
+            "Certifying Organization": "International Code Council"
+        }, 
+        {
+            "Acronym": "CEM", 
+            "Certification Name": "Certified Energy Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "1280", 
+            "Certifying Organization": "Association of Energy Engineers"
+        }, 
+        {
+            "Acronym": "GDTP", 
+            "Certification Name": "Geometric Dimensioning & Tolerancing Professional - Technologist", 
+            "Type": "Advanced", 
+            "Certification ID": "2153", 
+            "Certifying Organization": "American Society of Mechanical Engineers International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Gas Laboratory Technician", 
+            "Type": "Core", 
+            "Certification ID": "8662", 
+            "Certifying Organization": "CSA Standards"
+        }, 
+        {
+            "Acronym": "WSO-CSM", 
+            "Certification Name": "WSO - Certified Safety Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "0996", 
+            "Certifying Organization": "World Safety Organization"
+        }, 
+        {
+            "Acronym": "WSO-CSS", 
+            "Certification Name": "WSO - Certified Safety Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "0997", 
+            "Certifying Organization": "World Safety Organization"
+        }, 
+        {
+            "Acronym": "WSO-CGES", 
+            "Certification Name": "WSO - Certified Governmental Environmental Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "1004", 
+            "Certifying Organization": "World Safety Organization"
+        }, 
+        {
+            "Acronym": "WSO-CSE", 
+            "Certification Name": "Certified Safety Executive", 
+            "Type": "Advanced", 
+            "Certification ID": "0995", 
+            "Certifying Organization": "World Safety Organization"
+        }, 
+        {
+            "Acronym": "AIPE", 
+            "Certification Name": "Accessibility Inspector/Plans Examiner", 
+            "Type": "Core", 
+            "Certification ID": "3400", 
+            "Certifying Organization": "International Code Council"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Inspection and Testing of Water-Based Systems II", 
+            "Type": "Advanced", 
+            "Certification ID": "9095", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }
+    ], 
+    "onet": "17211101"
+}

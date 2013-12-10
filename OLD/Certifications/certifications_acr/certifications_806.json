@@ -1,0 +1,40 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Die Casting Technician", 
+            "Type": "Core", 
+            "Certification ID": "8216", 
+            "Certifying Organization": "North American Die Casting Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Master of Die Casting Maintenance", 
+            "Type": "Core", 
+            "Certification ID": "8217", 
+            "Certifying Organization": "North American Die Casting Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Master of Die Casting Tooling", 
+            "Type": "Core", 
+            "Certification ID": "8218", 
+            "Certifying Organization": "North American Die Casting Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Master of Die Casting Processes", 
+            "Type": "Core", 
+            "Certification ID": "8219", 
+            "Certifying Organization": "North American Die Casting Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Master of Die Casting Technology.", 
+            "Type": "Advanced", 
+            "Certification ID": "8220", 
+            "Certifying Organization": "North American Die Casting Association"
+        }
+    ], 
+    "onet": "51919507"
+}

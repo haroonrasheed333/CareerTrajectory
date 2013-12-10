@@ -1,0 +1,215 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "BTS", 
+            "Certification Name": "Broadband Transport Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "0855", 
+            "Certifying Organization": "Society of Cable Telecommunications Engineers"
+        }, 
+        {
+            "Acronym": "VolP", 
+            "Certification Name": "Broadband Voice over Internet Protocol", 
+            "Type": "Core", 
+            "Certification ID": "4359", 
+            "Certifying Organization": "ETA International"
+        }, 
+        {
+            "Acronym": "BTCS", 
+            "Certification Name": "Broadband TelecomCenter Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "0856", 
+            "Certifying Organization": "Society of Cable Telecommunications Engineers"
+        }, 
+        {
+            "Acronym": "WCM", 
+            "Certification Name": "Wireless Communications Electronics Technician", 
+            "Type": "Core", 
+            "Certification ID": "3683", 
+            "Certifying Organization": "ETA International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Cable Splicing Certification", 
+            "Type": "Core", 
+            "Certification ID": "9371", 
+            "Certifying Organization": "National Joint Apprenticeship and Training Committee"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "ITS Design Fundamentals", 
+            "Type": "Core", 
+            "Certification ID": "9197", 
+            "Certifying Organization": "Building Industry Consulting Service International"
+        }, 
+        {
+            "Acronym": "BDS", 
+            "Certification Name": "Broadband Distribution Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "0853", 
+            "Certifying Organization": "Society of Cable Telecommunications Engineers"
+        }, 
+        {
+            "Acronym": "DVEP", 
+            "Certification Name": "Digital Video Engineering Professional", 
+            "Type": "Core", 
+            "Certification ID": "8633", 
+            "Certifying Organization": "Society of Cable Telecommunications Engineers"
+        }, 
+        {
+            "Acronym": "MECP", 
+            "Certification Name": "Mobile Product Specialist", 
+            "Type": "Core", 
+            "Certification ID": "1178", 
+            "Certifying Organization": "Consumer Electronics Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Wireless Installer Engineer Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "7760", 
+            "Certifying Organization": "International Association for Radio, Telecommunications and  Electromagnetics"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "USMSS Certification", 
+            "Type": "Core", 
+            "Certification ID": "6827", 
+            "Certifying Organization": "ETA International"
+        }, 
+        {
+            "Acronym": "BPI", 
+            "Certification Name": "Broadband Premises Installer", 
+            "Type": "Specialty", 
+            "Certification ID": "0854", 
+            "Certifying Organization": "Society of Cable Telecommunications Engineers"
+        }, 
+        {
+            "Acronym": "LAS", 
+            "Certification Name": "Line and Antenna Sweeping", 
+            "Type": "Core", 
+            "Certification ID": "5810", 
+            "Certifying Organization": "ETA International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Alcatel-Lucent Triple Play Routing Professional", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "2908", 
+            "Certifying Organization": "Alcatel"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Wireless Systems Installer Technician", 
+            "Type": "Core", 
+            "Certification ID": "2670", 
+            "Certifying Organization": "National Association of Radio and Telecommunications Engineers, Inc."
+        }, 
+        {
+            "Acronym": "AVD", 
+            "Certification Name": "Certified Audio Video Distribution Technician", 
+            "Type": "Core", 
+            "Certification ID": "3038", 
+            "Certifying Organization": "ETA International"
+        }, 
+        {
+            "Acronym": "TCM", 
+            "Certification Name": "Telecommunications", 
+            "Type": "Core", 
+            "Certification ID": "3682", 
+            "Certifying Organization": "ETA International"
+        }, 
+        {
+            "Acronym": "PCS-C", 
+            "Certification Name": "Personal Communication Service - Cellular Technician", 
+            "Type": "Core", 
+            "Certification ID": "4366", 
+            "Certifying Organization": "ETA International"
+        }, 
+        {
+            "Acronym": "CSI", 
+            "Certification Name": "Certified Satellite Installer", 
+            "Type": "Advanced", 
+            "Certification ID": "0468", 
+            "Certifying Organization": "ETA International"
+        }, 
+        {
+            "Acronym": "DCI", 
+            "Certification Name": "Data Cabling Installer", 
+            "Type": "Core", 
+            "Certification ID": "3681", 
+            "Certifying Organization": "ETA International"
+        }, 
+        {
+            "Acronym": "EST", 
+            "Certification Name": "Certified  Electronic Systems Technician", 
+            "Type": "Core", 
+            "Certification ID": "6945", 
+            "Certifying Organization": "Electronic Systems Professional Alliance"
+        }, 
+        {
+            "Acronym": "NCE", 
+            "Certification Name": "Wireless Systems Installer Engineer", 
+            "Type": "Advanced", 
+            "Certification ID": "2669", 
+            "Certifying Organization": "National Association of Radio and Telecommunications Engineers, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Senior Telecommunications Technician", 
+            "Type": "Advanced", 
+            "Certification ID": "2666", 
+            "Certifying Organization": "National Association of Radio and Telecommunications Engineers, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Inside Electrical Craft Certification", 
+            "Type": "Core", 
+            "Certification ID": "9372", 
+            "Certifying Organization": "National Joint Apprenticeship and Training Committee"
+        }, 
+        {
+            "Acronym": "R56", 
+            "Certification Name": "Communication Site Installer", 
+            "Type": "Core", 
+            "Certification ID": "6826", 
+            "Certifying Organization": "ETA International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Alcatel-Lucent Network Routing Specialist", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "2907", 
+            "Certifying Organization": "Alcatel"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Alcatel-Lucent Network Routing Specialist II", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "2906", 
+            "Certifying Organization": "Alcatel"
+        }, 
+        {
+            "Acronym": "NCE", 
+            "Certification Name": "Junior Telecommunications Engineer", 
+            "Type": "Core", 
+            "Certification ID": "2664", 
+            "Certifying Organization": "National Association of Radio and Telecommunications Engineers, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Wireless Installer Technician", 
+            "Type": "Advanced", 
+            "Certification ID": "7761", 
+            "Certifying Organization": "International Association for Radio, Telecommunications and  Electromagnetics"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Master Telecommunications Technician", 
+            "Type": "Advanced", 
+            "Certification ID": "2668", 
+            "Certifying Organization": "National Association of Radio and Telecommunications Engineers, Inc."
+        }
+    ], 
+    "onet": "49202200"
+}

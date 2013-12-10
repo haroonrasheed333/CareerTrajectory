@@ -1,0 +1,19 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "ASCP)", 
+            "Certification Name": "Histotechnologist", 
+            "Type": "Core", 
+            "Certification ID": "1825", 
+            "Certifying Organization": "American Society for Clinical Pathology"
+        }, 
+        {
+            "Acronym": "ASCP)", 
+            "Certification Name": "Histotechnician", 
+            "Type": "Core", 
+            "Certification ID": "1815", 
+            "Certifying Organization": "American Society for Clinical Pathology"
+        }
+    ], 
+    "onet": "29201103"
+}

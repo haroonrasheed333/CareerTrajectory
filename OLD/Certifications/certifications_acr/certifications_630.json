@@ -1,0 +1,89 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CCAT", 
+            "Certification Name": "Certified Clinic Account Technician", 
+            "Type": "Core", 
+            "Certification ID": "3308", 
+            "Certifying Organization": "American Association of Healthcare Administrative Management"
+        }, 
+        {
+            "Acronym": "AFSB", 
+            "Certification Name": "Associate in Fidelity and Surety Bonding", 
+            "Type": "Core", 
+            "Certification ID": "9081", 
+            "Certifying Organization": "The Institutes"
+        }, 
+        {
+            "Acronym": "AIS", 
+            "Certification Name": "Associate in Insurance Services", 
+            "Type": "Core", 
+            "Certification ID": "0482", 
+            "Certifying Organization": "The Institutes"
+        }, 
+        {
+            "Acronym": "CISR", 
+            "Certification Name": "Certified Insurance Service Representatives", 
+            "Type": "Core", 
+            "Certification ID": "3513", 
+            "Certifying Organization": "The National Alliance for Insurance Education and Research"
+        }, 
+        {
+            "Acronym": "CMIS", 
+            "Certification Name": "Certified Medical Insurance Specialist", 
+            "Type": "Core", 
+            "Certification ID": "5438", 
+            "Certifying Organization": "Practice Management Institute"
+        }, 
+        {
+            "Acronym": "AINS", 
+            "Certification Name": "Associate in General Insurance", 
+            "Type": "Core", 
+            "Certification ID": "9078", 
+            "Certifying Organization": "The Institutes"
+        }, 
+        {
+            "Acronym": "ARM-E", 
+            "Certification Name": "Associate in Risk Management - Enterprise Wide Risk Management", 
+            "Type": "Core", 
+            "Certification ID": "9080", 
+            "Certifying Organization": "The Institutes"
+        }, 
+        {
+            "Acronym": "CCAM", 
+            "Certification Name": "Certified Clinic Account Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "3310", 
+            "Certifying Organization": "American Association of Healthcare Administrative Management"
+        }, 
+        {
+            "Acronym": "AU-S", 
+            "Certification Name": "Associate in Commercial Underwriting - Strategic Techniques", 
+            "Type": "Core", 
+            "Certification ID": "9079", 
+            "Certifying Organization": "The Institutes"
+        }, 
+        {
+            "Acronym": "CPAT", 
+            "Certification Name": "Certified Patient Account Technician", 
+            "Type": "Core", 
+            "Certification ID": "3307", 
+            "Certifying Organization": "American Association of Healthcare Administrative Management"
+        }, 
+        {
+            "Acronym": "CIC", 
+            "Certification Name": "Certified Insurance Counselors", 
+            "Type": "Core", 
+            "Certification ID": "3514", 
+            "Certifying Organization": "The National Alliance for Insurance Education and Research"
+        }, 
+        {
+            "Acronym": "AIC", 
+            "Certification Name": "Associate in Claims", 
+            "Type": "Core", 
+            "Certification ID": "0470", 
+            "Certifying Organization": "The Institutes"
+        }
+    ], 
+    "onet": "43904101"
+}

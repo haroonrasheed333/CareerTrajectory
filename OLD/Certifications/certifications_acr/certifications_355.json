@@ -1,0 +1,33 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Media Composer Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "8535", 
+            "Certifying Organization": "Avid Technology, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Avid Certified Support Representative for Workgroups", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8537", 
+            "Certifying Organization": "Avid Technology, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Media Composer User", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8534", 
+            "Certifying Organization": "Avid Technology, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Avid Certified Support Representative for Editing", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8536", 
+            "Certifying Organization": "Avid Technology, Inc."
+        }
+    ], 
+    "onet": "27201201"
+}

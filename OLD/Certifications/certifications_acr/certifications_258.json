@@ -1,0 +1,54 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CAPP", 
+            "Certification Name": "Certified Administrator of Public Parking", 
+            "Type": "Advanced", 
+            "Certification ID": "8960", 
+            "Certifying Organization": "International Parking Institute"
+        }, 
+        {
+            "Acronym": "PTP", 
+            "Certification Name": "Professional Transportation Planner", 
+            "Type": "Advanced", 
+            "Certification ID": "6168", 
+            "Certifying Organization": "Transportation Professional Certification Board, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Oracle Transportation Management 6 Certified Implementation Specialist", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8471", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "CPTS", 
+            "Certification Name": "Pupil Transportation Specialist", 
+            "Type": "Core", 
+            "Certification ID": "2513", 
+            "Certifying Organization": "National Association for Pupil Transportation"
+        }, 
+        {
+            "Acronym": "AICP CTP", 
+            "Certification Name": "Advanced Specialty Certification in Transportation Planning", 
+            "Type": "Specialty", 
+            "Certification ID": "9125", 
+            "Certifying Organization": "American Institute of Certified Planners"
+        }, 
+        {
+            "Acronym": "RCA", 
+            "Certification Name": "Responsible Care Auditor", 
+            "Type": "Advanced", 
+            "Certification ID": "6263", 
+            "Certifying Organization": "Board of Environmental Health and Safety Auditor Certification"
+        }, 
+        {
+            "Acronym": "ND", 
+            "Certification Name": "LEED AP Neighborhood Development", 
+            "Type": "Advanced", 
+            "Certification ID": "6274", 
+            "Certifying Organization": "Green Building Certification Institute"
+        }
+    ], 
+    "onet": "19309901"
+}

@@ -1,0 +1,173 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "CIP Level 1 with Marine and Bridge Specialties", 
+            "Type": "Specialty", 
+            "Certification ID": "8107", 
+            "Certifying Organization": "NACE International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "CIP Level I", 
+            "Type": "Core", 
+            "Certification ID": "8104", 
+            "Certifying Organization": "NACE International"
+        }, 
+        {
+            "Acronym": "Electrostatic Discharge", 
+            "Certification Name": "ESD (Electrostatic Discharge) Control Engineer", 
+            "Type": "Advanced", 
+            "Certification ID": "2281", 
+            "Certifying Organization": "National Association of Radio and Telecommunications Engineers, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "CIP Level I Nuclear", 
+            "Type": "Specialty", 
+            "Certification ID": "8105", 
+            "Certifying Organization": "NACE International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "CP Technician", 
+            "Type": "Advanced", 
+            "Certification ID": "8117", 
+            "Certifying Organization": "NACE International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "CIP Level 2 with Bridge Specialty", 
+            "Type": "Specialty", 
+            "Certification ID": "8110", 
+            "Certifying Organization": "NACE International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "CIP Level 1 with Bridge Specialty", 
+            "Type": "Specialty", 
+            "Certification ID": "8106", 
+            "Certifying Organization": "NACE International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "CP Tester", 
+            "Type": "Core", 
+            "Certification ID": "8116", 
+            "Certifying Organization": "NACE International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "CIP Level 3 - Peer Review with Bridge", 
+            "Type": "Specialty", 
+            "Certification ID": "8113", 
+            "Certifying Organization": "NACE International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "CP Technologist", 
+            "Type": "Advanced", 
+            "Certification ID": "8118", 
+            "Certifying Organization": "NACE International"
+        }, 
+        {
+            "Acronym": "PCS", 
+            "Certification Name": "Protective Coatings Specialist", 
+            "Type": "Core", 
+            "Certification ID": "1478", 
+            "Certifying Organization": "Society for Protective Coatings"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "CIP Level 2 with Marine and Bridge Specialties", 
+            "Type": "Specialty", 
+            "Certification ID": "8111", 
+            "Certifying Organization": "NACE International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "CIP Level 1 with Marine Specialty", 
+            "Type": "Specialty", 
+            "Certification ID": "8108", 
+            "Certifying Organization": "NACE International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "CP Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "8119", 
+            "Certifying Organization": "NACE International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "CIP Level 1 Nuclear", 
+            "Type": "Advanced", 
+            "Certification ID": "9349", 
+            "Certifying Organization": "NACE International"
+        }, 
+        {
+            "Acronym": "Electrostatic Discharge", 
+            "Certification Name": "ESD (Electrostatic Discharge) Technician", 
+            "Type": "Advanced", 
+            "Certification ID": "2279", 
+            "Certifying Organization": "National Association of Radio and Telecommunications Engineers, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Protective Coating Technologist", 
+            "Type": "Core", 
+            "Certification ID": "8583", 
+            "Certifying Organization": "NACE International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "CIP Level 3 Nuclear", 
+            "Type": "Specialty", 
+            "Certification ID": "8115", 
+            "Certifying Organization": "NACE International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "CIP Level 3 - Peer Review with Marine", 
+            "Type": "Specialty", 
+            "Certification ID": "8114", 
+            "Certifying Organization": "NACE International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "CP2 Maritime", 
+            "Type": "Core", 
+            "Certification ID": "9348", 
+            "Certifying Organization": "NACE International"
+        }, 
+        {
+            "Acronym": "CTSO", 
+            "Certification Name": "Certified Thermal Spray Operator", 
+            "Type": "Core", 
+            "Certification ID": "7848", 
+            "Certifying Organization": "ASM Thermal Spray Society"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Protective Coatings Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "1150", 
+            "Certifying Organization": "NACE International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "CIP Level 3 - Peer Review", 
+            "Type": "Core", 
+            "Certification ID": "8112", 
+            "Certifying Organization": "NACE International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "CIP Level 2", 
+            "Type": "Core", 
+            "Certification ID": "8109", 
+            "Certifying Organization": "NACE International"
+        }
+    ], 
+    "onet": "51912100"
+}

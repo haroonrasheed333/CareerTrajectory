@@ -1,0 +1,47 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Basic Keelboat Certification", 
+            "Type": "Core", 
+            "Certification ID": "9085", 
+            "Certifying Organization": "J World"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Basic Cruising Certification", 
+            "Type": "Core", 
+            "Certification ID": "9086", 
+            "Certifying Organization": "J World"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Bareboat Cruising Certification", 
+            "Type": "Core", 
+            "Certification ID": "9087", 
+            "Certifying Organization": "J World"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "International Yachtmaster Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "9089", 
+            "Certifying Organization": "J World"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Coastal Navigation Certification", 
+            "Type": "Core", 
+            "Certification ID": "5684", 
+            "Certifying Organization": "J World"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Coastal Passagemaking", 
+            "Type": "Core", 
+            "Certification ID": "9088", 
+            "Certifying Organization": "J World"
+        }
+    ], 
+    "onet": "53502100"
+}

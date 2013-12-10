@@ -1,0 +1,26 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CFD", 
+            "Certification Name": "Certified Floral Designer", 
+            "Type": "Advanced", 
+            "Certification ID": "7971", 
+            "Certifying Organization": "American Institute of Floral Designers"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Accredited Member of AIFD", 
+            "Type": "Specialty", 
+            "Certification ID": "9321", 
+            "Certifying Organization": "American Institute of Floral Designers"
+        }, 
+        {
+            "Acronym": "CWP", 
+            "Certification Name": "Certified Wedding Planner", 
+            "Type": "Specialty", 
+            "Certification ID": "5911", 
+            "Certifying Organization": "The Wedding Planning Institute"
+        }
+    ], 
+    "onet": "27102300"
+}

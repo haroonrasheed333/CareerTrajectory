@@ -1,0 +1,40 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "PV Installer Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "4021", 
+            "Certifying Organization": "North American Board of Certified Energy Practitioners"
+        }, 
+        {
+            "Acronym": "ERP", 
+            "Certification Name": "Energy Risk Professional", 
+            "Type": "Core", 
+            "Certification ID": "5868", 
+            "Certifying Organization": "Global Association of Risk Professionals"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Small Wind Installer Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "6781", 
+            "Certifying Organization": "North American Board of Certified Energy Practitioners"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Solar Thermal Installer Certification", 
+            "Type": "Core", 
+            "Certification ID": "5724", 
+            "Certifying Organization": "North American Board of Certified Energy Practitioners"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Fenestration Installation Technician", 
+            "Type": "Core", 
+            "Certification ID": "8661", 
+            "Certifying Organization": "CSA Standards"
+        }
+    ], 
+    "onet": "47101103"
+}

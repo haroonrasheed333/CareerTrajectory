@@ -1,0 +1,145 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CPMM", 
+            "Certification Name": "Certified Product Marketing Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "9045", 
+            "Certifying Organization": "Association of International Product Marketing and Management"
+        }, 
+        {
+            "Acronym": "CCPR", 
+            "Certification Name": "Certified Construction Product Representative", 
+            "Type": "Advanced", 
+            "Certification ID": "1427", 
+            "Certifying Organization": "Construction Specifications Institute"
+        }, 
+        {
+            "Acronym": "AHC", 
+            "Certification Name": "Architectural Hardware Consultants", 
+            "Type": "Advanced", 
+            "Certification ID": "8012", 
+            "Certifying Organization": "Door and Hardware Institute"
+        }, 
+        {
+            "Acronym": "CDC", 
+            "Certification Name": "Certified Door Consultants", 
+            "Type": "Advanced", 
+            "Certification ID": "8013", 
+            "Certifying Organization": "Door and Hardware Institute"
+        }, 
+        {
+            "Acronym": "AOC", 
+            "Certification Name": "Architectural Openings Consultants", 
+            "Type": "Advanced", 
+            "Certification ID": "8015", 
+            "Certifying Organization": "Door and Hardware Institute"
+        }, 
+        {
+            "Acronym": "CSP", 
+            "Certification Name": "Certified Sales Professional", 
+            "Type": "Core", 
+            "Certification ID": "1320", 
+            "Certifying Organization": "Manufacturers Representatives Educational Research Foundation"
+        }, 
+        {
+            "Acronym": "TAS", 
+            "Certification Name": "Training Advertising Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "9139", 
+            "Certifying Organization": "Promotional Products Association International"
+        }, 
+        {
+            "Acronym": "MAS+", 
+            "Certification Name": "Master Advertising Specialist Plus", 
+            "Type": "Specialty", 
+            "Certification ID": "9142", 
+            "Certifying Organization": "Promotional Products Association International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Professional Manufacturers Representative", 
+            "Type": "Core", 
+            "Certification ID": "4773", 
+            "Certifying Organization": "Manufacturers Representatives Educational Research Foundation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "National Professional Certification in Sales", 
+            "Type": "Core", 
+            "Certification ID": "5264", 
+            "Certifying Organization": "National Retail Federation Foundation"
+        }, 
+        {
+            "Acronym": "NAFA,", 
+            "Certification Name": "NAFA Certified Air Filter Specialist", 
+            "Type": "Core", 
+            "Certification ID": "3615", 
+            "Certifying Organization": "National Air Filtration Associaton"
+        }, 
+        {
+            "Acronym": "CAS", 
+            "Certification Name": "Certified Advertising Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "9140", 
+            "Certifying Organization": "Promotional Products Association International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Sales Counselor", 
+            "Type": "Core", 
+            "Certification ID": "9136", 
+            "Certifying Organization": "National Wood Flooring Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "HP Sales Certified - Imaging and Printing Supplies [2012]", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "2971", 
+            "Certifying Organization": "Hewlett Packard Certification and Learning"
+        }, 
+        {
+            "Acronym": "SCPS", 
+            "Certification Name": "Certified Salesperson", 
+            "Type": "Core", 
+            "Certification ID": "0462", 
+            "Certifying Organization": "Sales & Marketing Executives International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Master Advertising Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "9141", 
+            "Certifying Organization": "Promotional Products Association International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Route Driver Certification", 
+            "Type": "Core", 
+            "Certification ID": "8593", 
+            "Certifying Organization": "National Automatic Merchandising Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Sales Associate / Industry Professional Technical Certification", 
+            "Type": "Core", 
+            "Certification ID": "7342", 
+            "Certifying Organization": "International Certified Floor Installers"
+        }, 
+        {
+            "Acronym": "EHC", 
+            "Certification Name": "Electrified Hardware Consultant", 
+            "Type": "Advanced", 
+            "Certification ID": "8014", 
+            "Certifying Organization": "Door and Hardware Institute"
+        }, 
+        {
+            "Acronym": "CMHS", 
+            "Certification Name": "Certified Master Hotel Supplier", 
+            "Type": "Core", 
+            "Certification ID": "0321", 
+            "Certifying Organization": "American Hotel and Lodging Association Educational Institute"
+        }
+    ], 
+    "onet": "41401200"
+}

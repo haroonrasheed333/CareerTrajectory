@@ -1,0 +1,187 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Healthcare Security Officer  Basic Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "6303", 
+            "Certifying Organization": "International Association of Healthcare Security and Safety"
+        }, 
+        {
+            "Acronym": "ARM-P", 
+            "Certification Name": "Associate in Risk Management for Public Entities", 
+            "Type": "Core", 
+            "Certification ID": "3108", 
+            "Certifying Organization": "The Institutes"
+        }, 
+        {
+            "Acronym": "C-CISO", 
+            "Certification Name": "EC Council Certified Chief Information Security Officer", 
+            "Type": "Advanced", 
+            "Certification ID": "6341", 
+            "Certifying Organization": "EC-Council"
+        }, 
+        {
+            "Acronym": "RPL", 
+            "Certification Name": "Registered Public-Safety Leader", 
+            "Type": "Core", 
+            "Certification ID": "9467", 
+            "Certifying Organization": "Association of Public-Safety Communications Officials"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Healthcare Security Officer Advanced Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "6304", 
+            "Certifying Organization": "International Association of Healthcare Security and Safety"
+        }, 
+        {
+            "Acronym": "CEMS", 
+            "Certification Name": "Certified Emergency Management Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "7676", 
+            "Certifying Organization": "Center for Security and Emergency Management"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Healthcare Security Personnel Supervisor Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "6305", 
+            "Certifying Organization": "International Association of Healthcare Security and Safety"
+        }, 
+        {
+            "Acronym": "CCIPS", 
+            "Certification Name": "Certified Critical Infrastructure Protection Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "7674", 
+            "Certifying Organization": "Center for Security and Emergency Management"
+        }, 
+        {
+            "Acronym": "CHEP", 
+            "Certification Name": "Certified Healthcare Emergency Professional", 
+            "Type": "Core", 
+            "Certification ID": "8581", 
+            "Certifying Organization": "International Board for Certification of Safety Managers"
+        }, 
+        {
+            "Acronym": "CHCM", 
+            "Certification Name": "Certified Hazard Control Manager", 
+            "Type": "Specialty", 
+            "Certification ID": "7878", 
+            "Certifying Organization": "International Board for Certification of Safety Managers"
+        }, 
+        {
+            "Acronym": "CHSM", 
+            "Certification Name": "Certified Homeland Security Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "7673", 
+            "Certifying Organization": "Center for Security and Emergency Management"
+        }, 
+        {
+            "Acronym": "WSO-CSSD", 
+            "Certification Name": "WSO - Certified Safety & Security Director", 
+            "Type": "Advanced", 
+            "Certification ID": "0998", 
+            "Certifying Organization": "World Safety Organization"
+        }, 
+        {
+            "Acronym": "CHSP", 
+            "Certification Name": "Certified Healthcare Safety Professional", 
+            "Type": "Specialty", 
+            "Certification ID": "0662", 
+            "Certifying Organization": "International Board for Certification of Safety Managers"
+        }, 
+        {
+            "Acronym": "CCTS", 
+            "Certification Name": "Certified Counter Terrorism Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "7675", 
+            "Certifying Organization": "Center for Security and Emergency Management"
+        }, 
+        {
+            "Acronym": "CHSP-FSM", 
+            "Certification Name": "Certified Healthcare Safety Professional - Fire Safety Management", 
+            "Type": "Advanced", 
+            "Certification ID": "8579", 
+            "Certifying Organization": "International Board for Certification of Safety Managers"
+        }, 
+        {
+            "Acronym": "ERP", 
+            "Certification Name": "Energy Risk Professional", 
+            "Type": "Core", 
+            "Certification ID": "5868", 
+            "Certifying Organization": "Global Association of Risk Professionals"
+        }, 
+        {
+            "Acronym": "CR", 
+            "Certification Name": "Certified Restorer", 
+            "Type": "Advanced", 
+            "Certification ID": "4012", 
+            "Certifying Organization": "Restoration Industry Association"
+        }, 
+        {
+            "Acronym": "RCA", 
+            "Certification Name": "Responsible Care Auditor", 
+            "Type": "Advanced", 
+            "Certification ID": "6263", 
+            "Certifying Organization": "Board of Environmental Health and Safety Auditor Certification"
+        }, 
+        {
+            "Acronym": "CEM", 
+            "Certification Name": "Certified Emergency Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "5416", 
+            "Certifying Organization": "International Association of Emergency Managers"
+        }, 
+        {
+            "Acronym": "AEM", 
+            "Certification Name": "Associate Emergency Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "7636", 
+            "Certifying Organization": "International Association of Emergency Managers"
+        }, 
+        {
+            "Acronym": "EOC", 
+            "Certification Name": "Certified Emergency Operation Center (EOC) Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "7678", 
+            "Certifying Organization": "Center for Security and Emergency Management"
+        }, 
+        {
+            "Acronym": "WSO-CSM", 
+            "Certification Name": "WSO - Certified Safety Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "0996", 
+            "Certifying Organization": "World Safety Organization"
+        }, 
+        {
+            "Acronym": "WSO-CSS", 
+            "Certification Name": "WSO - Certified Safety Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "0997", 
+            "Certifying Organization": "World Safety Organization"
+        }, 
+        {
+            "Acronym": "WSO-CGES", 
+            "Certification Name": "WSO - Certified Governmental Environmental Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "1004", 
+            "Certifying Organization": "World Safety Organization"
+        }, 
+        {
+            "Acronym": "WLS", 
+            "Certification Name": "Water Loss Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "5852", 
+            "Certifying Organization": "Restoration Industry Association"
+        }, 
+        {
+            "Acronym": "CHS-II", 
+            "Certification Name": "Certified in Homeland Security - Preparedness", 
+            "Type": "Advanced", 
+            "Certification ID": "7433", 
+            "Certifying Organization": "American Board for Certification in Homeland Security"
+        }
+    ], 
+    "onet": "11916100"
+}

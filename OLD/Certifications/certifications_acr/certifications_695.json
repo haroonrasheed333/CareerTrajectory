@@ -1,0 +1,19 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "WCM", 
+            "Certification Name": "Wireless Communications Electronics Technician", 
+            "Type": "Core", 
+            "Certification ID": "3683", 
+            "Certifying Organization": "ETA International"
+        }, 
+        {
+            "Acronym": "NCE", 
+            "Certification Name": "Junior Telecommunications Engineer", 
+            "Type": "Core", 
+            "Certification ID": "2664", 
+            "Certifying Organization": "National Association of Radio and Telecommunications Engineers, Inc."
+        }
+    ], 
+    "onet": "49202100"
+}

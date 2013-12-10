@@ -1,0 +1,47 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Level 2 Driver", 
+            "Type": "Specialty", 
+            "Certification ID": "7170", 
+            "Certifying Organization": "Certified Horsemanship Association"
+        }, 
+        {
+            "Acronym": "CPDT", 
+            "Certification Name": "Certified Pet Dog Trainer", 
+            "Type": "Specialty", 
+            "Certification ID": "3312", 
+            "Certifying Organization": "Certification Council For Pet Dog Trainers"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Level 1 Driver", 
+            "Type": "Specialty", 
+            "Certification ID": "7168", 
+            "Certifying Organization": "Certified Horsemanship Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Clinic Instructor", 
+            "Type": "Advanced", 
+            "Certification ID": "7153", 
+            "Certifying Organization": "Certified Horsemanship Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Assistant Clinic Instructor", 
+            "Type": "Core", 
+            "Certification ID": "7152", 
+            "Certifying Organization": "Certified Horsemanship Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Seasonal Equestrian Staff Certification", 
+            "Type": "Core", 
+            "Certification ID": "4237", 
+            "Certifying Organization": "Certified Horsemanship Association"
+        }
+    ], 
+    "onet": "39201100"
+}

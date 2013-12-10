@@ -1,0 +1,180 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Network Technology Associate", 
+            "Type": "Core", 
+            "Certification ID": "6279", 
+            "Certifying Organization": "Certified Internet Web Professionals"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Novell Instructor", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "0365", 
+            "Certifying Organization": "Novell, Inc. - Education"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Novell Academic Instructor", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "5152", 
+            "Certifying Organization": "Novell, Inc. - Education"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Microsoft Office Specialist (MOS): Microsoft Office PowerPoint 2007", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7390", 
+            "Certifying Organization": "Microsoft Corporation"
+        }, 
+        {
+            "Acronym": "CTT+", 
+            "Certification Name": "Certified Technical Trainer Certification", 
+            "Type": "Core", 
+            "Certification ID": "2484", 
+            "Certifying Organization": "Computing Technology Industry Association (CompTIA)"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Internet Business Associate", 
+            "Type": "Core", 
+            "Certification ID": "6277", 
+            "Certifying Organization": "Certified Internet Web Professionals"
+        }, 
+        {
+            "Acronym": "MCPD", 
+            "Certification Name": "Microsoft Certified Professional Developer: Microsoft Visual Studio 2010", 
+            "Type": "Advanced", 
+            "Certification ID": "0021", 
+            "Certifying Organization": "Microsoft Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Microsoft Office Specialist (MOS): Microsoft Excel 2010 Expert", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7379", 
+            "Certifying Organization": "Microsoft Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Microsoft Office Specialist (MOS): Word 2007 Expert", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7387", 
+            "Certifying Organization": "Microsoft Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Site Development Associate", 
+            "Type": "Core", 
+            "Certification ID": "6278", 
+            "Certifying Organization": "Certified Internet Web Professionals"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Citrix Certified Instructor", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "1600", 
+            "Certifying Organization": "Citrix Systems Incorporated"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified EC-Council Instructor", 
+            "Type": "Advanced", 
+            "Certification ID": "6343", 
+            "Certifying Organization": "EC-Council"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Microsoft Certified Trainer", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "0023", 
+            "Certifying Organization": "Microsoft Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Application Developer - WebSphere ILOG JRules V7.0", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "4995", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Application Developer - WebSphere ILOG JRules BRMS V7.1", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7033", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Professional Instructor", 
+            "Type": "Advanced", 
+            "Certification ID": "3778", 
+            "Certifying Organization": "National Instruments Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified System Administrator - WebSphere Application Server, Network Deployment V6.1", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "5026", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Microsoft Office Specialist (MOS): Microsoft Word 2010 Expert", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7377", 
+            "Certifying Organization": "Microsoft Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Microsoft Office Specialist: Microsoft Office Excel 2007", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7388", 
+            "Certifying Organization": "Microsoft Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Microsoft Office Specialist (MOS): Excel 2007 Expert", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7389", 
+            "Certifying Organization": "Microsoft Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Microsoft Office Specialist (MOS): SharePoint 2010", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7383", 
+            "Certifying Organization": "Microsoft Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Cisco Certified Entry Networking Technician", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "5705", 
+            "Certifying Organization": "Cisco Systems, Inc."
+        }, 
+        {
+            "Acronym": "CWNT", 
+            "Certification Name": "Certified Wireless Network Trainer", 
+            "Type": "Core", 
+            "Certification ID": "2815", 
+            "Certifying Organization": "Certified Wireless Network Professional"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Apple Certified Trainer", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "1381", 
+            "Certifying Organization": "Apple Computer, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "RSA Certified Security Professional", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "2817", 
+            "Certifying Organization": "RSA Security, Inc."
+        }
+    ], 
+    "onet": "25102100"
+}

@@ -1,0 +1,54 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CSTD", 
+            "Certification Name": "SES Standards Professional Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "3556", 
+            "Certifying Organization": "Standards Engineering Society"
+        }, 
+        {
+            "Acronym": "RAC", 
+            "Certification Name": "Regulatory Affairs Certification - US", 
+            "Type": "Advanced", 
+            "Certification ID": "6103", 
+            "Certifying Organization": "Regulatory Affairs Professionals Society"
+        }, 
+        {
+            "Acronym": "CCBCO", 
+            "Certification Name": "Certified Community Bank Compliance Officer", 
+            "Type": "Core", 
+            "Certification ID": "9240", 
+            "Certifying Organization": "Independent Community Bankers of America"
+        }, 
+        {
+            "Acronym": "IRB", 
+            "Certification Name": "Certification for Institutional Review Board (IRB) Professionals", 
+            "Type": "Advanced", 
+            "Certification ID": "6872", 
+            "Certifying Organization": "Public Responsibility in Medicine and Research"
+        }, 
+        {
+            "Acronym": "CUCE", 
+            "Certification Name": "Credit Union Compliance Expert", 
+            "Type": "Advanced", 
+            "Certification ID": "9233", 
+            "Certifying Organization": "Credit Union National Association"
+        }, 
+        {
+            "Acronym": "CFCP", 
+            "Certification Name": "Certified FISMA Compliance Practitioner", 
+            "Type": "Core", 
+            "Certification ID": "6330", 
+            "Certifying Organization": "Federal Information Security Management Act Center"
+        }, 
+        {
+            "Acronym": "CBAP", 
+            "Certification Name": "Certified BSA/AML Professional", 
+            "Type": "Core", 
+            "Certification ID": "9243", 
+            "Certifying Organization": "Independent Community Bankers of America"
+        }
+    ], 
+    "onet": "11919901"
+}

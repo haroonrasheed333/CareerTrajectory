@@ -1,0 +1,47 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CPC", 
+            "Certification Name": "Grant Professionals Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "9153", 
+            "Certifying Organization": "Grant Professional Certification Institute"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Designer - Cognos 10 BI Multidimensional Reports", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9182", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "CPTC", 
+            "Certification Name": "Certified Professional Technical Communicator", 
+            "Type": "Advanced", 
+            "Certification ID": "9143", 
+            "Certifying Organization": "Society for Technical Communication"
+        }, 
+        {
+            "Acronym": "NCRW", 
+            "Certification Name": "Nationally Certified Resume Writer", 
+            "Type": "Advanced", 
+            "Certification ID": "2071", 
+            "Certifying Organization": "National Resume Writers Association"
+        }, 
+        {
+            "Acronym": "CMPP", 
+            "Certification Name": "Certified Medical Publication Professional", 
+            "Type": "Specialty", 
+            "Certification ID": "7453", 
+            "Certifying Organization": "International Society for Medical Publication Professionals"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Designer - Cognos 10 BI Reports", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9181", 
+            "Certifying Organization": "IBM Corporation"
+        }
+    ], 
+    "onet": "27304200"
+}

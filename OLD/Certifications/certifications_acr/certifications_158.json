@@ -1,0 +1,222 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CETsr", 
+            "Certification Name": "Senior Certified Electronics Technician", 
+            "Type": "Advanced", 
+            "Certification ID": "6842", 
+            "Certifying Organization": "ETA International"
+        }, 
+        {
+            "Acronym": "RESI", 
+            "Certification Name": "Residential Electronics Systems Integrator - Environmental Control", 
+            "Type": "Specialty", 
+            "Certification ID": "7624", 
+            "Certifying Organization": "ETA International"
+        }, 
+        {
+            "Acronym": "CRE", 
+            "Certification Name": "Certified Reliability Engineer", 
+            "Type": "Advanced", 
+            "Certification ID": "0792", 
+            "Certifying Organization": "American Society for Quality"
+        }, 
+        {
+            "Acronym": "ASEP", 
+            "Certification Name": "Associate Systems Engineering Professional", 
+            "Type": "Core", 
+            "Certification ID": "8961", 
+            "Certifying Organization": "International Council on Systems Engineering"
+        }, 
+        {
+            "Acronym": "Electrostatic Discharge", 
+            "Certification Name": "ESD (Electrostatic Discharge) Control Engineer", 
+            "Type": "Advanced", 
+            "Certification ID": "2281", 
+            "Certifying Organization": "National Association of Radio and Telecommunications Engineers, Inc."
+        }, 
+        {
+            "Acronym": "NCE", 
+            "Certification Name": "Master Telecommunications Engineer", 
+            "Type": "Advanced", 
+            "Certification ID": "2662", 
+            "Certifying Organization": "National Association of Radio and Telecommunications Engineers, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IPC-A-610 Acceptability of Electronic Assemblies", 
+            "Type": "Advanced", 
+            "Certification ID": "3478", 
+            "Certifying Organization": "Association Connecting Electronics Industries"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IPC-A-600 Acceptability of Printed Circuit Boards", 
+            "Type": "Core", 
+            "Certification ID": "2873", 
+            "Certifying Organization": "Association Connecting Electronics Industries"
+        }, 
+        {
+            "Acronym": "OSP", 
+            "Certification Name": "Outside Plant Designer", 
+            "Type": "Advanced", 
+            "Certification ID": "7009", 
+            "Certifying Organization": "Building Industry Consulting Service International"
+        }, 
+        {
+            "Acronym": "CSEP", 
+            "Certification Name": "Certified Systems Engineering Professional", 
+            "Type": "Core", 
+            "Certification ID": "8962", 
+            "Certifying Organization": "International Council on Systems Engineering"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Traffic Signal Bench Technician Level II", 
+            "Type": "Advanced", 
+            "Certification ID": "0398", 
+            "Certifying Organization": "International Municipal Signal Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Senior Telecommunications Engineer", 
+            "Type": "Advanced", 
+            "Certification ID": "2663", 
+            "Certifying Organization": "National Association of Radio and Telecommunications Engineers, Inc."
+        }, 
+        {
+            "Acronym": "CAP", 
+            "Certification Name": "Certified Automation Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "3687", 
+            "Certifying Organization": "International Society of Automation"
+        }, 
+        {
+            "Acronym": "RESIma", 
+            "Certification Name": "Master Residential Electronics Systems Integrator", 
+            "Type": "Advanced", 
+            "Certification ID": "6841", 
+            "Certifying Organization": "ETA International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Electrostatic Discharge Control Technician", 
+            "Type": "Core", 
+            "Certification ID": "7753", 
+            "Certifying Organization": "International Association for Radio, Telecommunications and  Electromagnetics"
+        }, 
+        {
+            "Acronym": "ESEP", 
+            "Certification Name": "Expert Systems Engineering Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "8963", 
+            "Certifying Organization": "International Council on Systems Engineering"
+        }, 
+        {
+            "Acronym": "CPE", 
+            "Certification Name": "Certified Planning Engineer", 
+            "Type": "Advanced", 
+            "Certification ID": "7941", 
+            "Certifying Organization": "American Academy of Project Management"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Telecommunications Master Engineer Certification", 
+            "Type": "Core", 
+            "Certification ID": "7759", 
+            "Certifying Organization": "International Association for Radio, Telecommunications and  Electromagnetics"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IPC/WHMA-A-620 Requirements & Acceptance for Cable & Wire Harness Assemblies", 
+            "Type": "Advanced", 
+            "Certification ID": "3479", 
+            "Certifying Organization": "Association Connecting Electronics Industries"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Electron Microscopy Technologist", 
+            "Type": "Advanced", 
+            "Certification ID": "5398", 
+            "Certifying Organization": "Microscopy Society of America"
+        }, 
+        {
+            "Acronym": "RESI-SS", 
+            "Certification Name": "Residential Electronics Systems Integrator - Security/Surveillance", 
+            "Type": "Specialty", 
+            "Certification ID": "7623", 
+            "Certifying Organization": "ETA International"
+        }, 
+        {
+            "Acronym": "NCE", 
+            "Certification Name": "Wireless Systems Installer Engineer", 
+            "Type": "Advanced", 
+            "Certification ID": "2669", 
+            "Certifying Organization": "National Association of Radio and Telecommunications Engineers, Inc."
+        }, 
+        {
+            "Acronym": "RESI", 
+            "Certification Name": "Residential Electronics Systems Integrator - Closed Circuit TV", 
+            "Type": "Specialty", 
+            "Certification ID": "7622", 
+            "Certifying Organization": "ETA International"
+        }, 
+        {
+            "Acronym": "CMfgE", 
+            "Certification Name": "Certified Manufacturing Engineer", 
+            "Type": "Core", 
+            "Certification ID": "0861", 
+            "Certifying Organization": "Society for Manufacturing Engineers"
+        }, 
+        {
+            "Acronym": "CETma", 
+            "Certification Name": "Master Certified Electronics Technician", 
+            "Type": "Advanced", 
+            "Certification ID": "6843", 
+            "Certifying Organization": "ETA International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "CEDIA Certified Professional Designer Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "6953", 
+            "Certifying Organization": "Custom Electronic Design and Installation Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Electrostatic Discharge Control Engineer", 
+            "Type": "Advanced", 
+            "Certification ID": "7752", 
+            "Certifying Organization": "International Association for Radio, Telecommunications and  Electromagnetics"
+        }, 
+        {
+            "Acronym": "RESI-AV", 
+            "Certification Name": "Residential Electronics Systems Integrator - Audio/Video", 
+            "Type": "Specialty", 
+            "Certification ID": "7620", 
+            "Certifying Organization": "ETA International"
+        }, 
+        {
+            "Acronym": "NCE", 
+            "Certification Name": "Junior Telecommunications Engineer", 
+            "Type": "Core", 
+            "Certification ID": "2664", 
+            "Certifying Organization": "National Association of Radio and Telecommunications Engineers, Inc."
+        }, 
+        {
+            "Acronym": "RESI", 
+            "Certification Name": "Residential Electronics Systems Integrator", 
+            "Type": "Core", 
+            "Certification ID": "6840", 
+            "Certifying Organization": "ETA International"
+        }, 
+        {
+            "Acronym": "Electromagnetic Compatibility", 
+            "Certification Name": "EMC (Electromagnetic Compatibility) Engineer", 
+            "Type": "Advanced", 
+            "Certification ID": "2278", 
+            "Certifying Organization": "National Association of Radio and Telecommunications Engineers, Inc."
+        }
+    ], 
+    "onet": "17207200"
+}

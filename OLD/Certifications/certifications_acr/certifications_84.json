@@ -1,0 +1,117 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CPMM", 
+            "Certification Name": "Certified Product Marketing Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "9045", 
+            "Certifying Organization": "Association of International Product Marketing and Management"
+        }, 
+        {
+            "Acronym": "CITMS", 
+            "Certification Name": "Certified International Trade Marketing Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "5192", 
+            "Certifying Organization": "IIEI Certification"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified eMarketing Associate", 
+            "Type": "Core", 
+            "Certification ID": "7685", 
+            "Certifying Organization": "eMarketing Association"
+        }, 
+        {
+            "Acronym": "CDME", 
+            "Certification Name": "Certified Destination Marketing Executive", 
+            "Type": "Advanced", 
+            "Certification ID": "8138", 
+            "Certifying Organization": "Destination Marketing Association International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Specialist - SPSS Statistics Level 1 v2", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9278", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "KPPAE", 
+            "Certification Name": "Key Account Certificate Program", 
+            "Type": "Core", 
+            "Certification ID": "9536", 
+            "Certifying Organization": "American Public Power Association"
+        }, 
+        {
+            "Acronym": "CMA", 
+            "Certification Name": "Certified Marketing Analyst", 
+            "Type": "Core", 
+            "Certification ID": "9501", 
+            "Certifying Organization": "American Academy of Project Management"
+        }, 
+        {
+            "Acronym": "DCMP", 
+            "Certification Name": "DMA Certified Marketing Professional", 
+            "Type": "Core", 
+            "Certification ID": "6138", 
+            "Certifying Organization": "Direct Marketing Association"
+        }, 
+        {
+            "Acronym": "CMT", 
+            "Certification Name": "Chartered Market Technician", 
+            "Type": "Core", 
+            "Certification ID": "2321", 
+            "Certifying Organization": "Market Technicians Association"
+        }, 
+        {
+            "Acronym": "CIM", 
+            "Certification Name": "Certified Internet Marketer", 
+            "Type": "Core", 
+            "Certification ID": "9180", 
+            "Certifying Organization": "Internet Marketing Association"
+        }, 
+        {
+            "Acronym": "CMA", 
+            "Certification Name": "Chartered Market Analyst", 
+            "Type": "Advanced", 
+            "Certification ID": "7922", 
+            "Certifying Organization": "American Academy of Financial Management"
+        }, 
+        {
+            "Acronym": "CPM", 
+            "Certification Name": "Certified Product Manager", 
+            "Type": "Core", 
+            "Certification ID": "9044", 
+            "Certifying Organization": "Association of International Product Marketing and Management"
+        }, 
+        {
+            "Acronym": "PRC", 
+            "Certification Name": "Professional Researcher Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "6045", 
+            "Certifying Organization": "Marketing Research Association\u00a0"
+        }, 
+        {
+            "Acronym": "CMD", 
+            "Certification Name": "Certified Marketing Director", 
+            "Type": "Advanced", 
+            "Certification ID": "9392", 
+            "Certifying Organization": "International Council of Shopping Centers"
+        }, 
+        {
+            "Acronym": "CUCME", 
+            "Certification Name": "Credit Union Certified Marketing Executive", 
+            "Type": "Advanced", 
+            "Certification ID": "9234", 
+            "Certifying Organization": "Credit Union National Association"
+        }, 
+        {
+            "Acronym": "CEA", 
+            "Certification Name": "Certified E-Marketing Analyst", 
+            "Type": "Core", 
+            "Certification ID": "2768", 
+            "Certifying Organization": "Institute of Certified E-Commerce Consultants "
+        }
+    ], 
+    "onet": "13116100"
+}

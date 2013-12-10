@@ -1,0 +1,68 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Microsoft Office Specialist: Windows Vista for the Business Worker", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7385", 
+            "Certifying Organization": "Microsoft Corporation"
+        }, 
+        {
+            "Acronym": "PME", 
+            "Certification Name": "Project Manager E-Business", 
+            "Type": "Core", 
+            "Certification ID": "2767", 
+            "Certifying Organization": "Institute of Certified E-Commerce Consultants "
+        }, 
+        {
+            "Acronym": "GTP", 
+            "Certification Name": "Global Travel Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "7996", 
+            "Certifying Organization": "Global Business Travel Association Academy"
+        }, 
+        {
+            "Acronym": "CGTE", 
+            "Certification Name": "Certified Government Travel Executive", 
+            "Type": "Advanced", 
+            "Certification ID": "7999", 
+            "Certifying Organization": "Global Business Travel Association Academy"
+        }, 
+        {
+            "Acronym": "GMS", 
+            "Certification Name": "Global Mobility Specialist", 
+            "Type": "Core", 
+            "Certification ID": "1412", 
+            "Certifying Organization": "Employee Relocation Council"
+        }, 
+        {
+            "Acronym": "RCA", 
+            "Certification Name": "Responsible Care Auditor", 
+            "Type": "Advanced", 
+            "Certification ID": "6263", 
+            "Certifying Organization": "Board of Environmental Health and Safety Auditor Certification"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Oracle Certified Expert, Siebel CRM 8.0 Business Analyst", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "4861", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "CPC", 
+            "Certification Name": "Certified Pension Consultant", 
+            "Type": "Core", 
+            "Certification ID": "1357", 
+            "Certifying Organization": "American Society of Pension Professionals  and Actuaries"
+        }, 
+        {
+            "Acronym": "CAPS", 
+            "Certification Name": "Certified Aging-In-Place Specialist", 
+            "Type": "Core", 
+            "Certification ID": "3794", 
+            "Certifying Organization": "National Association of Home Builders"
+        }
+    ], 
+    "onet": "13119900"
+}

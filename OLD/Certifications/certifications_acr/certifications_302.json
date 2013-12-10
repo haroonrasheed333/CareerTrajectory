@@ -1,0 +1,19 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Forest Certification Auditor", 
+            "Type": "Advanced", 
+            "Certification ID": "6206", 
+            "Certifying Organization": "Society of American Foresters"
+        }, 
+        {
+            "Acronym": "BCE", 
+            "Certification Name": "Board Certified Entomologist", 
+            "Type": "Advanced", 
+            "Certification ID": "1772", 
+            "Certifying Organization": "Entomological Society of America"
+        }
+    ], 
+    "onet": "25104300"
+}

@@ -1,0 +1,124 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Green Awareness Certification", 
+            "Type": "Core", 
+            "Certification ID": "8643", 
+            "Certifying Organization": "HVAC Excellence "
+        }, 
+        {
+            "Acronym": "CGPP", 
+            "Certification Name": "Certified Green Purchasing Professional", 
+            "Type": "Specialty", 
+            "Certification ID": "8659", 
+            "Certifying Organization": "American Purchasing Society"
+        }, 
+        {
+            "Acronym": "G2", 
+            "Certification Name": "IgCC Commercial Inspector", 
+            "Type": "Specialty", 
+            "Certification ID": "6915", 
+            "Certifying Organization": "International Code Council"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "CompTIA Green IT Certification", 
+            "Type": "Core", 
+            "Certification ID": "7375", 
+            "Certifying Organization": "Computing Technology Industry Association (CompTIA)"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "LEED Green Associate", 
+            "Type": "Core", 
+            "Certification ID": "6025", 
+            "Certifying Organization": "Green Building Certification Institute"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Green Advantage - Commercial/Residential", 
+            "Type": "Core", 
+            "Certification ID": "5901", 
+            "Certifying Organization": "Green Advantage"
+        }, 
+        {
+            "Acronym": "GREEN", 
+            "Certification Name": "NAR's Green Designation", 
+            "Type": "Core", 
+            "Certification ID": "8635", 
+            "Certifying Organization": "National Association of Realtors"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Green Advantage - Commercial", 
+            "Type": "Specialty", 
+            "Certification ID": "5899", 
+            "Certifying Organization": "Green Advantage"
+        }, 
+        {
+            "Acronym": "ERP", 
+            "Certification Name": "Energy Risk Professional", 
+            "Type": "Core", 
+            "Certification ID": "5868", 
+            "Certifying Organization": "Global Association of Risk Professionals"
+        }, 
+        {
+            "Acronym": "GCP", 
+            "Certification Name": "Green Certified Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "6063", 
+            "Certifying Organization": "National Association of the Remodeling Industry"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Green Advantage - Residential", 
+            "Type": "Specialty", 
+            "Certification ID": "5900", 
+            "Certifying Organization": "Green Advantage"
+        }, 
+        {
+            "Acronym": "CGPM", 
+            "Certification Name": "Credential for Green Property Management", 
+            "Type": "Specialty", 
+            "Certification ID": "8038", 
+            "Certifying Organization": "National Apartment Association"
+        }, 
+        {
+            "Acronym": "G5", 
+            "Certification Name": "IgCC Plan Examiner with ASHRAE 189.1", 
+            "Type": "Specialty", 
+            "Certification ID": "6918", 
+            "Certifying Organization": "International Code Council"
+        }, 
+        {
+            "Acronym": "G4", 
+            "Certification Name": "IgCC Plans Examiner", 
+            "Type": "Specialty", 
+            "Certification ID": "6917", 
+            "Certifying Organization": "International Code Council"
+        }, 
+        {
+            "Acronym": "CGP", 
+            "Certification Name": "Certified Green Professional", 
+            "Type": "Core", 
+            "Certification ID": "5883", 
+            "Certifying Organization": "National Association of Home Builders"
+        }, 
+        {
+            "Acronym": "G3", 
+            "Certification Name": "IgCC Commercial Inspector with ASHRAE 189.1", 
+            "Type": "Specialty", 
+            "Certification ID": "6916", 
+            "Certifying Organization": "International Code Council"
+        }, 
+        {
+            "Acronym": "CGBE", 
+            "Certification Name": "Certified Green Building Engineer", 
+            "Type": "Core", 
+            "Certification ID": "5499", 
+            "Certifying Organization": "Association of Energy Engineers"
+        }
+    ], 
+    "onet": "11201101"
+}

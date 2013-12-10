@@ -1,0 +1,82 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "ISO", 
+            "Certification Name": "Incident Safety Officer - Fire Suppression Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "5399", 
+            "Certifying Organization": "Fire Department Safety Officers Association"
+        }, 
+        {
+            "Acronym": "CFPS", 
+            "Certification Name": "Certified Fire Protection Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "1023", 
+            "Certifying Organization": "National Fire Protection Association"
+        }, 
+        {
+            "Acronym": "01", 
+            "Certification Name": "Legal/Management Module", 
+            "Type": "Core", 
+            "Certification ID": "8647", 
+            "Certifying Organization": "International Code Council"
+        }, 
+        {
+            "Acronym": "CFI-II", 
+            "Certification Name": "Certified Fire Inspector II", 
+            "Type": "Advanced", 
+            "Certification ID": "1679", 
+            "Certifying Organization": "National Fire Protection Association"
+        }, 
+        {
+            "Acronym": "CFEI", 
+            "Certification Name": "Certified Fire and Explosion Investigator", 
+            "Type": "Core", 
+            "Certification ID": "5401", 
+            "Certifying Organization": "National Association of Fire Investigators"
+        }, 
+        {
+            "Acronym": "FM", 
+            "Certification Name": "Certified Fire Marshall", 
+            "Type": "Advanced", 
+            "Certification ID": "6909", 
+            "Certifying Organization": "International Code Council"
+        }, 
+        {
+            "Acronym": "CFPE", 
+            "Certification Name": "Certified Fire Plan Examiner I", 
+            "Type": "Core", 
+            "Certification ID": "3504", 
+            "Certifying Organization": "National Fire Protection Association"
+        }, 
+        {
+            "Acronym": "CFI", 
+            "Certification Name": "Certified Fire Investigator", 
+            "Type": "Core", 
+            "Certification ID": "5786", 
+            "Certifying Organization": "International Association of Arson Investigators"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Fire Inspector II", 
+            "Type": "Advanced", 
+            "Certification ID": "5177", 
+            "Certifying Organization": "International Code Council"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Fire Inspector I Certification", 
+            "Type": "Core", 
+            "Certification ID": "1022", 
+            "Certifying Organization": "National Fire Protection Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Fire Inspector I", 
+            "Type": "Core", 
+            "Certification ID": "5176", 
+            "Certifying Organization": "International Code Council"
+        }
+    ], 
+    "onet": "33202100"
+}

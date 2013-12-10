@@ -1,0 +1,978 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "CCIE Security", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "5407", 
+            "Certifying Organization": "Cisco Systems, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Associate - Tivoli Storage Manager V6.3", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9557", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Microsoft Certified IT Professional: Enterprise Desktop Support Technician on Windows 7", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "4947", 
+            "Certifying Organization": "Microsoft Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Cisco Network Admission Control Specialist", 
+            "Type": "Core", 
+            "Certification ID": "8714", 
+            "Certifying Organization": "Cisco Systems, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Cisco Network Admission Control Specialist", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8714", 
+            "Certifying Organization": "Cisco Systems, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "HP Technical Certified I - ArcSight Security [2013]", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8910", 
+            "Certifying Organization": "Hewlett Packard Certification and Learning"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Oracle Certified Expert, Oracle Solaris 10 Security Administrator", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7132", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "ISSMP", 
+            "Certification Name": "Information Systems Security Management Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "5323", 
+            "Certifying Organization": "International Information Systems Security Certification Consortium, Inc."
+        }, 
+        {
+            "Acronym": "GCFW", 
+            "Certification Name": "GIAC Certified Firewall Analyst", 
+            "Type": "Core", 
+            "Certification ID": "2819", 
+            "Certifying Organization": "Global Information Assurance Certification"
+        }, 
+        {
+            "Acronym": "GCIH", 
+            "Certification Name": "GIAC Certified Incident Handler", 
+            "Type": "Core", 
+            "Certification ID": "2820", 
+            "Certifying Organization": "Global Information Assurance Certification"
+        }, 
+        {
+            "Acronym": "GCIA", 
+            "Certification Name": "GIAC Certified Intrusion Analyst", 
+            "Type": "Core", 
+            "Certification ID": "2821", 
+            "Certifying Organization": "Global Information Assurance Certification"
+        }, 
+        {
+            "Acronym": "GCFA", 
+            "Certification Name": "GIAC Certified Forensics Analyst", 
+            "Type": "Core", 
+            "Certification ID": "4400", 
+            "Certifying Organization": "Global Information Assurance Certification"
+        }, 
+        {
+            "Acronym": "CAP", 
+            "Certification Name": "Certification Authorization Professional", 
+            "Type": "Core", 
+            "Certification ID": "5297", 
+            "Certifying Organization": "International Information Systems Security Certification Consortium, Inc."
+        }, 
+        {
+            "Acronym": "ESNT", 
+            "Certification Name": "Electronic Security NetworkingTechnician", 
+            "Type": "Core", 
+            "Certification ID": "5811", 
+            "Certifying Organization": "ETA International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Microsoft Technology Associate: Security Fundamentals", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7484", 
+            "Certifying Organization": "Microsoft Corporation"
+        }, 
+        {
+            "Acronym": "EDRP", 
+            "Certification Name": "Disaster Recovery Professional", 
+            "Type": "Core", 
+            "Certification ID": "6346", 
+            "Certifying Organization": "EC-Council"
+        }, 
+        {
+            "Acronym": "C-CISO", 
+            "Certification Name": "EC Council Certified Chief Information Security Officer", 
+            "Type": "Advanced", 
+            "Certification ID": "6341", 
+            "Certifying Organization": "EC-Council"
+        }, 
+        {
+            "Acronym": "CIPP/IT", 
+            "Certification Name": "The Certified Information Privacy Professional/Information Technology", 
+            "Type": "Advanced", 
+            "Certification ID": "6338", 
+            "Certifying Organization": "International Association of Privacy Professionals"
+        }, 
+        {
+            "Acronym": "GCED", 
+            "Certification Name": "GIAC Certified Enterprise Defender", 
+            "Type": "Advanced", 
+            "Certification ID": "6770", 
+            "Certifying Organization": "Global Information Assurance Certification"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "CIW Web Security Specialist", 
+            "Type": "Advanced", 
+            "Certification ID": "7429", 
+            "Certifying Organization": "Certified Internet Web Professionals"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Check Point Certified Specialist - InterSpect NGX", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "5815", 
+            "Certifying Organization": "Check Point Software Technologies, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "RSA Certified Administrator - SecurID", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "2816", 
+            "Certifying Organization": "RSA Security, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "EC Council Certified Secure Programmer", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9227", 
+            "Certifying Organization": "EC-Council"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "EC Council Network Security Administrator", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9226", 
+            "Certifying Organization": "EC-Council"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Cisco IPS Specialist", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7712", 
+            "Certifying Organization": "Cisco Systems, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "CSE - Specialty in Networking and Security - HP-UX 11i v3", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7240", 
+            "Certifying Organization": "Hewlett Packard Certification and Learning"
+        }, 
+        {
+            "Acronym": "CDMP", 
+            "Certification Name": "Certified Data Management Professional", 
+            "Type": "Core", 
+            "Certification ID": "3546", 
+            "Certifying Organization": "Institute for the Certification of Computing Professionals"
+        }, 
+        {
+            "Acronym": "GISF", 
+            "Certification Name": "GIAC Information Security Fundamentals", 
+            "Type": "Core", 
+            "Certification ID": "4381", 
+            "Certifying Organization": "Global Information Assurance Certification"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Internet Business Associate", 
+            "Type": "Core", 
+            "Certification ID": "6277", 
+            "Certifying Organization": "Certified Internet Web Professionals"
+        }, 
+        {
+            "Acronym": "CIPP", 
+            "Certification Name": "The Certified Information Privacy Professional", 
+            "Type": "Core", 
+            "Certification ID": "6336", 
+            "Certifying Organization": "International Association of Privacy Professionals"
+        }, 
+        {
+            "Acronym": "CAWFE", 
+            "Certification Name": "Certified Advanced Windows Forensic Examiner", 
+            "Type": "Advanced", 
+            "Certification ID": "9582", 
+            "Certifying Organization": "International Association of Computer Investigative Specialists"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Computer Crime Investigator", 
+            "Type": "Advanced", 
+            "Certification ID": "3759", 
+            "Certifying Organization": "High Tech Crime Network"
+        }, 
+        {
+            "Acronym": "CISM", 
+            "Certification Name": "Certified Information Security Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "4569", 
+            "Certifying Organization": "Information Systems Audit and Control Association"
+        }, 
+        {
+            "Acronym": "CFCE", 
+            "Certification Name": "Certified Forensic Computer Examiner", 
+            "Type": "Core", 
+            "Certification ID": "3574", 
+            "Certifying Organization": "International Association of Computer Investigative Specialists"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Administrator - Tivoli Monitoring V6.2.3", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9544", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Check Point Certified Security Administrator", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "1911", 
+            "Certifying Organization": "Check Point Software Technologies, Inc."
+        }, 
+        {
+            "Acronym": "GLEG", 
+            "Certification Name": "GIAC Legal Issues", 
+            "Type": "Core", 
+            "Certification ID": "6775", 
+            "Certifying Organization": "Global Information Assurance Certification"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "HP Technical Certified II - ArcSight Security Administrator [2012]", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8912", 
+            "Certifying Organization": "Hewlett Packard Certification and Learning"
+        }, 
+        {
+            "Acronym": "CFE", 
+            "Certification Name": "Certified Fraud Examiner", 
+            "Type": "Core", 
+            "Certification ID": "1245", 
+            "Certifying Organization": "Association of Certified Fraud Examiners"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Security+ Certification", 
+            "Type": "Core", 
+            "Certification ID": "3497", 
+            "Certifying Organization": "Computing Technology Industry Association (CompTIA)"
+        }, 
+        {
+            "Acronym": "GAWN", 
+            "Certification Name": "GIAC Assessing Wireless Networks", 
+            "Type": "Core", 
+            "Certification ID": "4396", 
+            "Certifying Organization": "Global Information Assurance Certification"
+        }, 
+        {
+            "Acronym": "CHS-I", 
+            "Certification Name": "Certified in Homeland Security Level I", 
+            "Type": "Core", 
+            "Certification ID": "6267", 
+            "Certifying Organization": "American Board for Certification in Homeland Security"
+        }, 
+        {
+            "Acronym": "CNDA", 
+            "Certification Name": "Certified Network Defense Architect", 
+            "Type": "Advanced", 
+            "Certification ID": "5313", 
+            "Certifying Organization": "EC-Council"
+        }, 
+        {
+            "Acronym": "LPT", 
+            "Certification Name": "Licensed Penetration Tester", 
+            "Type": "Core", 
+            "Certification ID": "5312", 
+            "Certifying Organization": "EC-Council"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified System Administrator - Connections 4.0", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9280", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "GSSP-NET", 
+            "Certification Name": "GIAC Secure Software Programmer.NET", 
+            "Type": "Advanced", 
+            "Certification ID": "6778", 
+            "Certifying Organization": "Global Information Assurance Certification"
+        }, 
+        {
+            "Acronym": "CISSP", 
+            "Certification Name": "Certified Information Systems Security Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "7395", 
+            "Certifying Organization": "International Information Systems Security Certification Consortium, Inc."
+        }, 
+        {
+            "Acronym": "CHPS", 
+            "Certification Name": "Certified in Healthcare Privacy and Security", 
+            "Type": "Advanced", 
+            "Certification ID": "6302", 
+            "Certifying Organization": "American Health Information Management Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Solution Advisor - Tivoli Storage Solutions V3", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "5019", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Cisco ASA Specialist", 
+            "Type": "Advanced", 
+            "Certification ID": "8711", 
+            "Certifying Organization": "Cisco Systems, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "HP Sales Certified - TippingPoint Security Solutions [2013]", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8908", 
+            "Certifying Organization": "Hewlett Packard Certification and Learning"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "RSA Certified Systems Engineer - SecurID", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "2818", 
+            "Certifying Organization": "RSA Security, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "RSA Certified Systems Engineer - ClearTrust", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "3495", 
+            "Certifying Organization": "RSA Security, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "CCNA Security", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "0650", 
+            "Certifying Organization": "Cisco Systems, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Cisco VPN Security Specialist", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8715", 
+            "Certifying Organization": "Cisco Systems, Inc."
+        }, 
+        {
+            "Acronym": "CCP", 
+            "Certification Name": "Certified Computing Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "0014", 
+            "Certifying Organization": "Institute for the Certification of Computing Professionals"
+        }, 
+        {
+            "Acronym": "CHS", 
+            "Certification Name": "Certified Homeland Security V - Prevention, Response and Mitigation", 
+            "Type": "Advanced", 
+            "Certification ID": "7436", 
+            "Certifying Organization": "American Board for Certification in Homeland Security"
+        }, 
+        {
+            "Acronym": "C3E", 
+            "Certification Name": "Certified Cyber-Crime Expert", 
+            "Type": "Core", 
+            "Certification ID": "5319", 
+            "Certifying Organization": "E-Business Process Solutions"
+        }, 
+        {
+            "Acronym": "GISP", 
+            "Certification Name": "GIAC Information Security Professional", 
+            "Type": "Core", 
+            "Certification ID": "6773", 
+            "Certifying Organization": "Global Information Assurance Certification"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Check Point Certified Managed Security Expert", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "3022", 
+            "Certifying Organization": "Check Point Software Technologies, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified EC-Council Instructor", 
+            "Type": "Advanced", 
+            "Certification ID": "6343", 
+            "Certifying Organization": "EC-Council"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Computer Crime Investigator Advanced", 
+            "Type": "Advanced", 
+            "Certification ID": "8814", 
+            "Certifying Organization": "High Tech Crime Network"
+        }, 
+        {
+            "Acronym": "ECSA", 
+            "Certification Name": "EC-Council Certified Security Analyst", 
+            "Type": "Advanced", 
+            "Certification ID": "5315", 
+            "Certifying Organization": "EC-Council"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "EC-Council Certified Incident Handler", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "6347", 
+            "Certifying Organization": "EC-Council"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Solution Developer - WebSphere Portal 8.0", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9306", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Oracle Linux Certified Administrator", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8522", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "GSNA", 
+            "Certification Name": "GIAC Systems and Network Auditor", 
+            "Type": "Advanced", 
+            "Certification ID": "2828", 
+            "Certifying Organization": "Global Information Assurance Certification"
+        }, 
+        {
+            "Acronym": "ISP", 
+            "Certification Name": "Information Systems Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "3545", 
+            "Certifying Organization": "Institute for the Certification of Computing Professionals"
+        }, 
+        {
+            "Acronym": "CSFA", 
+            "Certification Name": "CyberSecurity Forensic Analyst", 
+            "Type": "Advanced", 
+            "Certification ID": "5305", 
+            "Certifying Organization": "CyberSecurity Institute"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Check Point Certified Security Expert Plus NGX", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "3023", 
+            "Certifying Organization": "Check Point Software Technologies, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "HP Sales Certified - ArcSight Security Solutions [2013]", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8906", 
+            "Certifying Organization": "Hewlett Packard Certification and Learning"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Deployment Professional - Tivoli Storage Productivity Center V5.1", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "5008", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Check Point Certified Managed Security Expert Plus VSX", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "3421", 
+            "Certifying Organization": "Check Point Software Technologies, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "HP ASE - TippingPoint Security V1", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8862", 
+            "Certifying Organization": "Hewlett Packard Certification and Learning"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "HP Sales Certified - Converged Cloud. Converged Management and Security [2012]", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8882", 
+            "Certifying Organization": "Hewlett Packard Certification and Learning"
+        }, 
+        {
+            "Acronym": "GSEC", 
+            "Certification Name": "GIAC Security Essentials Certification", 
+            "Type": "Core", 
+            "Certification ID": "2827", 
+            "Certifying Organization": "Global Information Assurance Certification"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Adobe LiveCycle ES2 Digital Security", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8065", 
+            "Certifying Organization": "Adobe Systems Incorporated"
+        }, 
+        {
+            "Acronym": "CIPP/G", 
+            "Certification Name": "The Certified Information Privacy Professional/Government", 
+            "Type": "Core", 
+            "Certification ID": "6337", 
+            "Certifying Organization": "International Association of Privacy Professionals"
+        }, 
+        {
+            "Acronym": "CHS II", 
+            "Certification Name": "Certified in Homeland Security Level II", 
+            "Type": "Core", 
+            "Certification ID": "7849", 
+            "Certifying Organization": "American Board for Certification in Homeland Security"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Administrator - Tivoli Storage Manager V6.2", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9545", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "CCFT", 
+            "Certification Name": "Certified Computer Forensic Technician", 
+            "Type": "Advanced", 
+            "Certification ID": "5858", 
+            "Certifying Organization": "High Tech Crime Network"
+        }, 
+        {
+            "Acronym": "GCWN", 
+            "Certification Name": "GIAC Certified Windows Security Administrator", 
+            "Type": "Advanced", 
+            "Certification ID": "2823", 
+            "Certifying Organization": "Global Information Assurance Certification"
+        }, 
+        {
+            "Acronym": "CWSP", 
+            "Certification Name": "Certified Wireless Security Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "3764", 
+            "Certifying Organization": "Certified Wireless Network Professional"
+        }, 
+        {
+            "Acronym": "GCFE", 
+            "Certification Name": "GIAC Certified Forensics Examiner", 
+            "Type": "Advanced", 
+            "Certification ID": "6777", 
+            "Certifying Organization": "Global Information Assurance Certification"
+        }, 
+        {
+            "Acronym": "ESS", 
+            "Certification Name": "Electronic Safety and Security Designer", 
+            "Type": "Advanced", 
+            "Certification ID": "7008", 
+            "Certifying Organization": "Building Industry Consulting Service International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Check Point Certified Specialist - Pointsec PC", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "5817", 
+            "Certifying Organization": "Check Point Software Technologies, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "HP ASE - Application Lifecycle Management Implementations v11", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8869", 
+            "Certifying Organization": "Hewlett Packard Certification and Learning"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Check Point Multi-Domain Security Management", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8846", 
+            "Certifying Organization": "Check Point Software Technologies, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "HP Sales Certified - Fortify Security Solutions [2012]", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8907", 
+            "Certifying Organization": "Hewlett Packard Certification and Learning"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "HP Technical Certified I - Fortify Security [2013]", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8911", 
+            "Certifying Organization": "Hewlett Packard Certification and Learning"
+        }, 
+        {
+            "Acronym": "ISSAP", 
+            "Certification Name": "Information Systems Security Architecture Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "5321", 
+            "Certifying Organization": "International Information Systems Security Certification Consortium, Inc."
+        }, 
+        {
+            "Acronym": "ESSEP", 
+            "Certification Name": "Information Systems Security Engineering Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "5322", 
+            "Certifying Organization": "International Information Systems Security Certification Consortium, Inc."
+        }, 
+        {
+            "Acronym": "GSLC", 
+            "Certification Name": "GIAC Security Leadership Certification", 
+            "Type": "Core", 
+            "Certification ID": "4404", 
+            "Certifying Organization": "Global Information Assurance Certification"
+        }, 
+        {
+            "Acronym": "CRISC", 
+            "Certification Name": "Certification in Risk and Information Systems Control", 
+            "Type": "Core", 
+            "Certification ID": "7297", 
+            "Certifying Organization": "Information Systems Audit and Control Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "CIW Web Security Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "7430", 
+            "Certifying Organization": "Certified Internet Web Professionals"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Administrator - Tivoli Storage Manager V6.3", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9546", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Oracle Database 11g Security Certified Implementation Specialist", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7049", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Check Point Certified Specialist - Connectra", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "5813", 
+            "Certifying Organization": "Check Point Software Technologies, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Check Point Certified Security Principles Associate", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "3024", 
+            "Certifying Organization": "Check Point Software Technologies, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Secure Computer User", 
+            "Type": "\u00a0", 
+            "Certification ID": "9228", 
+            "Certifying Organization": "EC-Council"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Associate - Tivoli Storage Manager V6.2", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9556", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Check Point Endpoint Security", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8843", 
+            "Certifying Organization": "Check Point Software Technologies, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Check Point Certified Security Expert", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "1912", 
+            "Certifying Organization": "Check Point Software Technologies, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "HP ATP - TippingPoint Security V1", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8863", 
+            "Certifying Organization": "Hewlett Packard Certification and Learning"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Cisco VPN Security Specialist", 
+            "Type": "Advanced", 
+            "Certification ID": "8715", 
+            "Certifying Organization": "Cisco Systems, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "HP Technical Certified II - ArcSight Security Analyst [2012]", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8913", 
+            "Certifying Organization": "Hewlett Packard Certification and Learning"
+        }, 
+        {
+            "Acronym": "SSCP", 
+            "Certification Name": "Systems Security Certified Practitioner", 
+            "Type": "Core", 
+            "Certification ID": "1921", 
+            "Certifying Organization": "International Information Systems Security Certification Consortium, Inc."
+        }, 
+        {
+            "Acronym": "(ISC", 
+            "Certification Name": "Associate of International Information Systems Security Certification Consortium", 
+            "Type": "Core", 
+            "Certification ID": "5280", 
+            "Certifying Organization": "International Information Systems Security Certification Consortium, Inc."
+        }, 
+        {
+            "Acronym": "G2700", 
+            "Certification Name": "GIAC Certified ISO-27000 Specialist", 
+            "Type": "Core", 
+            "Certification ID": "6776", 
+            "Certifying Organization": "Global Information Assurance Certification"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Service Management Data Center Management and Transformation V3", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9523", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Cisco IOS Security Specialist", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8713", 
+            "Certifying Organization": "Cisco Systems, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Solution Developer - WebSphere Portal 7.0", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9310", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "CSSLP", 
+            "Certification Name": "Certified Security Software Lifecycle Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "3103", 
+            "Certifying Organization": "International Information Systems Security Certification Consortium, Inc."
+        }, 
+        {
+            "Acronym": "GWAPT", 
+            "Certification Name": "GIAC Web Application Penetration Tester", 
+            "Type": "Advanced", 
+            "Certification ID": "6772", 
+            "Certifying Organization": "Global Information Assurance Certification"
+        }, 
+        {
+            "Acronym": "CCO", 
+            "Certification Name": "Certified Confidentiality Officer", 
+            "Type": "Advanced", 
+            "Certification ID": "3544", 
+            "Certifying Organization": "Business Espionage Controls and Countermeasures Association "
+        }, 
+        {
+            "Acronym": "GSSP-JAVA", 
+            "Certification Name": "GIAC Secure Software Programmer - Java", 
+            "Type": "Advanced", 
+            "Certification ID": "6779", 
+            "Certifying Organization": "Global Information Assurance Certification"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Check Point Certified Specialist - IPS-1.65", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "5816", 
+            "Certifying Organization": "Check Point Software Technologies, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Ethical Hacker", 
+            "Type": "\u00a0", 
+            "Certification ID": "9224", 
+            "Certifying Organization": "EC-Council"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Cisco ASA Specialist", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8711", 
+            "Certifying Organization": "Cisco Systems, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Cisco Certified Network Professional Security", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7711", 
+            "Certifying Organization": "Cisco Systems, Inc."
+        }, 
+        {
+            "Acronym": "CASP", 
+            "Certification Name": "CompTIA Advanced Security Practitioner", 
+            "Type": "Advanced", 
+            "Certification ID": "7356", 
+            "Certifying Organization": "Computing Technology Industry Association (CompTIA)"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Red Hat Certified Security Specialist", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "4867", 
+            "Certifying Organization": "Red Hat, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Computer Hacking Forensic Investigator", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9225", 
+            "Certifying Organization": "EC-Council"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Specialist - Rational AppScan Standard Edition", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9462", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Cisco Firewall Security Specialist", 
+            "Type": "Advanced", 
+            "Certification ID": "8712", 
+            "Certifying Organization": "Cisco Systems, Inc."
+        }, 
+        {
+            "Acronym": "CHS-II", 
+            "Certification Name": "Certified in Homeland Security - Preparedness", 
+            "Type": "Advanced", 
+            "Certification ID": "7433", 
+            "Certifying Organization": "American Board for Certification in Homeland Security"
+        }, 
+        {
+            "Acronym": "CHS-III", 
+            "Certification Name": "Certified Homeland Security III - Mitigation", 
+            "Type": "Advanced", 
+            "Certification ID": "7434", 
+            "Certifying Organization": "American Board for Certification in Homeland Security"
+        }, 
+        {
+            "Acronym": "CHS IV", 
+            "Certification Name": "Certified Home Security IV - Response and Recovery", 
+            "Type": "Advanced", 
+            "Certification ID": "7435", 
+            "Certifying Organization": "American Board for Certification in Homeland Security"
+        }, 
+        {
+            "Acronym": "SSIC", 
+            "Certification Name": "Sensitive Security Information", 
+            "Type": "Core", 
+            "Certification ID": "6266", 
+            "Certifying Organization": "American Board for Certification in Homeland Security"
+        }, 
+        {
+            "Acronym": "ASC", 
+            "Certification Name": "Anti-Sabatoge, Certified", 
+            "Type": "Advanced", 
+            "Certification ID": "7439", 
+            "Certifying Organization": "American Board for Certification in Homeland Security"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Symantec Certified Professional", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9178", 
+            "Certifying Organization": "Symantec"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Advanced Deployment Professional - IBM Service Management Security and Compliance V3", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7019", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified System Administrator - Connections 3.0", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9281", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "RSA Certified Security Professional", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "2817", 
+            "Certifying Organization": "RSA Security, Inc."
+        }, 
+        {
+            "Acronym": "GPEN", 
+            "Certification Name": "GIAC Certified Penetration Tester", 
+            "Type": "Advanced", 
+            "Certification ID": "6771", 
+            "Certifying Organization": "Global Information Assurance Certification"
+        }, 
+        {
+            "Acronym": "GCUX", 
+            "Certification Name": "GIAC Certified UNIX Security Administrator", 
+            "Type": "Advanced", 
+            "Certification ID": "2822", 
+            "Certifying Organization": "Global Information Assurance Certification"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "CIW Web Security Associate", 
+            "Type": "Advanced", 
+            "Certification ID": "7428", 
+            "Certifying Organization": "Certified Internet Web Professionals"
+        }, 
+        {
+            "Acronym": "GREM", 
+            "Certification Name": "GAIC Reverse Engineering Malware", 
+            "Type": "Advanced", 
+            "Certification ID": "4372", 
+            "Certifying Organization": "Global Information Assurance Certification"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Check Point Certified Specialist - Integrity", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "5814", 
+            "Certifying Organization": "Check Point Software Technologies, Inc."
+        }
+    ], 
+    "onet": "15112200"
+}

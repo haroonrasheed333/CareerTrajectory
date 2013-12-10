@@ -1,0 +1,82 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CLP", 
+            "Certification Name": "Certified Logistic Professional", 
+            "Type": "Core", 
+            "Certification ID": "5778", 
+            "Certifying Organization": "International Warehouse Logistics Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Oracle Customer Hub and Oracle Data Quality Certified Implementation Specialist", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8479", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "OPMP", 
+            "Certification Name": "Operations and Performance Management Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "5848", 
+            "Certifying Organization": "American Society of Heating, Refrigerating and Air-Conditioning Engineers"
+        }, 
+        {
+            "Acronym": "CLT", 
+            "Certification Name": "Certified Logistics Technician", 
+            "Type": "Core", 
+            "Certification ID": "6505", 
+            "Certifying Organization": "Manufacturing Skill Standards Council"
+        }, 
+        {
+            "Acronym": "CSCP", 
+            "Certification Name": "Certified Supply Chain Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "4895", 
+            "Certifying Organization": "The Association for Operations Management"
+        }, 
+        {
+            "Acronym": "PLS", 
+            "Certification Name": "Professional Designation in Logistics and Supply Chain Management", 
+            "Type": "Advanced", 
+            "Certification ID": "3984", 
+            "Certifying Organization": "American Society of Transportation and Logistics"
+        }, 
+        {
+            "Acronym": "DLP", 
+            "Certification Name": "Distinguished Logistics Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "9190", 
+            "Certifying Organization": "American Society of Transportation and Logistics"
+        }, 
+        {
+            "Acronym": "CCCM", 
+            "Certification Name": "Certified Commercial Contracts Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "1422", 
+            "Certifying Organization": "National Contract Management Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Oracle Global Trade Management 6 Certified Implementation Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "8485", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Oracle Certified Expert, Siebel Customer Relationship Management (CRM) 8 Business Analyst", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8467", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Oracle CRM On Demand Certified Implementation Specialist", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8468", 
+            "Certifying Organization": "Oracle Corporation"
+        }
+    ], 
+    "onet": "11307103"
+}

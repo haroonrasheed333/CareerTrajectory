@@ -1,0 +1,19 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CRT-SDS", 
+            "Certification Name": "Sleep Disorders Testing and Therapeutic Intervention Respiratory Care Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "6079", 
+            "Certifying Organization": "National Board for Respiratory Care"
+        }, 
+        {
+            "Acronym": "ACCS", 
+            "Certification Name": "Adult Critical Care Specialty", 
+            "Type": "Specialty", 
+            "Certification ID": "8652", 
+            "Certifying Organization": "National Board for Respiratory Care"
+        }
+    ], 
+    "onet": "29205400"
+}

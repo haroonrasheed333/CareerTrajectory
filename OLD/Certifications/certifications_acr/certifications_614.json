@@ -1,0 +1,26 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CLT", 
+            "Certification Name": "Certified Logistics Technician", 
+            "Type": "Core", 
+            "Certification ID": "6505", 
+            "Certifying Organization": "Manufacturing Skill Standards Council"
+        }, 
+        {
+            "Acronym": "CMRP", 
+            "Certification Name": "Certified Materials & Resource Professional", 
+            "Type": "Core", 
+            "Certification ID": "3746", 
+            "Certifying Organization": "Association for Healthcare Resource & Materials Management"
+        }, 
+        {
+            "Acronym": "PSP", 
+            "Certification Name": "Planning & Scheduling Professional", 
+            "Type": "Core", 
+            "Certification ID": "3668", 
+            "Certifying Organization": "AACE International, Inc."
+        }
+    ], 
+    "onet": "43506100"
+}

@@ -1,0 +1,166 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Machining Level I - CNC Milling: Programming Setup & Operations", 
+            "Type": "Core", 
+            "Certification ID": "3819", 
+            "Certifying Organization": "National Institute for Metalworking Skills "
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Welder", 
+            "Type": "Core", 
+            "Certification ID": "0350", 
+            "Certifying Organization": "American Welding Society"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IPC-7721& IPC-7711 Rework, Repair, & Modification of Printed Boards & Electronic Assemblies", 
+            "Type": "Advanced", 
+            "Certification ID": "3481", 
+            "Certifying Organization": "Association Connecting Electronics Industries"
+        }, 
+        {
+            "Acronym": "CAWI", 
+            "Certification Name": "Certified Associate Welding Inspector", 
+            "Type": "Core", 
+            "Certification ID": "0353", 
+            "Certifying Organization": "American Welding Society"
+        }, 
+        {
+            "Acronym": "Electrostatic Discharge", 
+            "Certification Name": "ESD (Electrostatic Discharge) Control Engineer", 
+            "Type": "Advanced", 
+            "Certification ID": "2281", 
+            "Certifying Organization": "National Association of Radio and Telecommunications Engineers, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IPC-A-610 Acceptability of Electronic Assemblies", 
+            "Type": "Advanced", 
+            "Certification ID": "3478", 
+            "Certifying Organization": "Association Connecting Electronics Industries"
+        }, 
+        {
+            "Acronym": "CPS", 
+            "Certification Name": "Certified Plant Supervisor", 
+            "Type": "Advanced", 
+            "Certification ID": "5101", 
+            "Certifying Organization": "Association for Facilities Engineering"
+        }, 
+        {
+            "Acronym": "CPP", 
+            "Certification Name": "Certified Packaging Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "1344", 
+            "Certifying Organization": "Institute of Packaging Professionals"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Welding Supervisor", 
+            "Type": "Core", 
+            "Certification ID": "3987", 
+            "Certifying Organization": "American Welding Society"
+        }, 
+        {
+            "Acronym": "SCWI", 
+            "Certification Name": "Senior Certified Welding Inspector", 
+            "Type": "Advanced", 
+            "Certification ID": "0351", 
+            "Certifying Organization": "American Welding Society"
+        }, 
+        {
+            "Acronym": "CSCP", 
+            "Certification Name": "Certified Supply Chain Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "4895", 
+            "Certifying Organization": "The Association for Operations Management"
+        }, 
+        {
+            "Acronym": "CTM", 
+            "Certification Name": "Certified Technology Manager", 
+            "Type": "Core", 
+            "Certification ID": "0859", 
+            "Certifying Organization": "Association of Technology, Management, and Applied Engineering"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Concrete Construction Special Inspector", 
+            "Type": "Advanced", 
+            "Certification ID": "3902", 
+            "Certifying Organization": "American Concrete Institute International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IPC/WHMA-A-620 Requirements & Acceptance for Cable & Wire Harness Assemblies", 
+            "Type": "Advanced", 
+            "Certification ID": "3479", 
+            "Certifying Organization": "Association Connecting Electronics Industries"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IPC J-STD-001 Requirements for Soldered Electrical & Electronic Assemblies", 
+            "Type": "Core", 
+            "Certification ID": "2872", 
+            "Certifying Organization": "Association Connecting Electronics Industries"
+        }, 
+        {
+            "Acronym": "CWI", 
+            "Certification Name": "Certified Welding Inspector", 
+            "Type": "Core", 
+            "Certification ID": "0352", 
+            "Certifying Organization": "American Welding Society"
+        }, 
+        {
+            "Acronym": "QRO", 
+            "Certification Name": "Municipal Waste Facility Operator", 
+            "Type": "Advanced", 
+            "Certification ID": "2159", 
+            "Certifying Organization": "American Society of Mechanical Engineers International"
+        }, 
+        {
+            "Acronym": "CPMM", 
+            "Certification Name": "Certified Plant Maintenance Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "5099", 
+            "Certifying Organization": "Association for Facilities Engineering"
+        }, 
+        {
+            "Acronym": "Electrostatic Discharge", 
+            "Certification Name": "ESD (Electrostatic Discharge) Technician", 
+            "Type": "Advanced", 
+            "Certification ID": "2279", 
+            "Certifying Organization": "National Association of Radio and Telecommunications Engineers, Inc."
+        }, 
+        {
+            "Acronym": "CCLM", 
+            "Certification Name": "Certified Laundry/Linen Manager", 
+            "Type": "Core", 
+            "Certification ID": "2223", 
+            "Certifying Organization": "National Association of Institutional Linen Management"
+        }, 
+        {
+            "Acronym": "CHFE", 
+            "Certification Name": "Certified Hospitality Facilities Executive", 
+            "Type": "Advanced", 
+            "Certification ID": "0111", 
+            "Certifying Organization": "American Hotel and Lodging Association Educational Institute"
+        }, 
+        {
+            "Acronym": "OMA", 
+            "Certification Name": "Oil Monitoring Analyst", 
+            "Type": "Core", 
+            "Certification ID": "2108", 
+            "Certifying Organization": "Society of Tribologists and Lubrication Engineers"
+        }, 
+        {
+            "Acronym": "CSTM", 
+            "Certification Name": "Certified Senior Technology Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "0860", 
+            "Certifying Organization": "Association of Technology, Management, and Applied Engineering"
+        }
+    ], 
+    "onet": "51101100"
+}

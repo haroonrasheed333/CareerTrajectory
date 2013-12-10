@@ -1,0 +1,26 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "AFAA Challenge Exam", 
+            "Type": "Specialty", 
+            "Certification ID": "3882", 
+            "Certifying Organization": "Aerobics and Fitness Association of America"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Sports Conditioning Specialty Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "9107", 
+            "Certifying Organization": "American Council on Exercise"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "USDF Certified Instructor", 
+            "Type": "Core", 
+            "Certification ID": "1601", 
+            "Certifying Organization": "United States Dressage Federation"
+        }
+    ], 
+    "onet": "27202100"
+}

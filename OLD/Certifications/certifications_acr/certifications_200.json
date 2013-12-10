@@ -1,0 +1,124 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CFPC&C", 
+            "Certification Name": "Fluid Power Connector and Conductor", 
+            "Type": "Advanced", 
+            "Certification ID": "2605", 
+            "Certifying Organization": "International Fluid Power Society"
+        }, 
+        {
+            "Acronym": "CFPMHM", 
+            "Certification Name": "Fluid Power Mobile Hydraulic Mechanic", 
+            "Type": "Advanced", 
+            "Certification ID": "0893", 
+            "Certifying Organization": "International Fluid Power Society"
+        }, 
+        {
+            "Acronym": "CSEP", 
+            "Certification Name": "Certified Systems Engineering Professional", 
+            "Type": "Core", 
+            "Certification ID": "8962", 
+            "Certifying Organization": "International Council on Systems Engineering"
+        }, 
+        {
+            "Acronym": "CAP", 
+            "Certification Name": "Certified Automation Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "3687", 
+            "Certifying Organization": "International Society of Automation"
+        }, 
+        {
+            "Acronym": "CFPIHT", 
+            "Certification Name": "Fluid Power Industrial Hydraulic Technician", 
+            "Type": "Specialty", 
+            "Certification ID": "2606", 
+            "Certifying Organization": "International Fluid Power Society"
+        }, 
+        {
+            "Acronym": "CFPPS", 
+            "Certification Name": "Fluid Power Pneumatic Specialist", 
+            "Type": "Advanced", 
+            "Certification ID": "0891", 
+            "Certifying Organization": "International Fluid Power Society"
+        }, 
+        {
+            "Acronym": "CTM", 
+            "Certification Name": "Certified Technology Manager", 
+            "Type": "Core", 
+            "Certification ID": "0859", 
+            "Certifying Organization": "Association of Technology, Management, and Applied Engineering"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IAPMO Mechanical Plans Examiner", 
+            "Type": "Advanced", 
+            "Certification ID": "6134", 
+            "Certifying Organization": "National Inspection, Testing and Certification Corporation"
+        }, 
+        {
+            "Acronym": "CFPMHT", 
+            "Certification Name": "Fluid Power Mobile Hydraulic Technician", 
+            "Type": "Advanced", 
+            "Certification ID": "2610", 
+            "Certifying Organization": "International Fluid Power Society"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "PMMI Mechatronics: Mechanical Components 1", 
+            "Type": "Core", 
+            "Certification ID": "9508", 
+            "Certifying Organization": "Packaging Machinery Manufacturing Institute"
+        }, 
+        {
+            "Acronym": "CLS", 
+            "Certification Name": "Certified Lubrication Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "2107", 
+            "Certifying Organization": "Society of Tribologists and Lubrication Engineers"
+        }, 
+        {
+            "Acronym": "CFPHS", 
+            "Certification Name": "Fluid Power Hydraulic Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "0892", 
+            "Certifying Organization": "International Fluid Power Society"
+        }, 
+        {
+            "Acronym": "CQT", 
+            "Certification Name": "Certified Quality Technician", 
+            "Type": "Core", 
+            "Certification ID": "0793", 
+            "Certifying Organization": "American Society for Quality"
+        }, 
+        {
+            "Acronym": "GDTP", 
+            "Certification Name": "Geometric Dimensioning & Tolerancing Professional - Technologist", 
+            "Type": "Advanced", 
+            "Certification ID": "2153", 
+            "Certifying Organization": "American Society of Mechanical Engineers International"
+        }, 
+        {
+            "Acronym": "OMA", 
+            "Certification Name": "Oil Monitoring Analyst", 
+            "Type": "Core", 
+            "Certification ID": "2108", 
+            "Certifying Organization": "Society of Tribologists and Lubrication Engineers"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Fluid Power Master Technician", 
+            "Type": "Advanced", 
+            "Certification ID": "2609", 
+            "Certifying Organization": "International Fluid Power Society"
+        }, 
+        {
+            "Acronym": "CSTM", 
+            "Certification Name": "Certified Senior Technology Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "0860", 
+            "Certifying Organization": "Association of Technology, Management, and Applied Engineering"
+        }
+    ], 
+    "onet": "17302700"
+}

@@ -1,0 +1,117 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Aerospace Technician", 
+            "Type": "Advanced", 
+            "Certification ID": "5618", 
+            "Certifying Organization": "SpaceTEC"
+        }, 
+        {
+            "Acronym": "CFPC&C", 
+            "Certification Name": "Fluid Power Connector and Conductor", 
+            "Type": "Advanced", 
+            "Certification ID": "2605", 
+            "Certifying Organization": "International Fluid Power Society"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Fluid Power Master Mechanic", 
+            "Type": "Advanced", 
+            "Certification ID": "2608", 
+            "Certifying Organization": "International Fluid Power Society"
+        }, 
+        {
+            "Acronym": "MLT", 
+            "Certification Name": "Level II Machine Lubrication Technician", 
+            "Type": "Advanced", 
+            "Certification ID": "5617", 
+            "Certifying Organization": "International Council for Machinery Lubrication"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Building Operator Level 1: Building Systems Maintenance", 
+            "Type": "Core", 
+            "Certification ID": "6821", 
+            "Certifying Organization": "Building Operators Certification"
+        }, 
+        {
+            "Acronym": "CFPIHT", 
+            "Certification Name": "Fluid Power Industrial Hydraulic Technician", 
+            "Type": "Specialty", 
+            "Certification ID": "2606", 
+            "Certifying Organization": "International Fluid Power Society"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Hospitality Skill Certification for Maintenance Employee", 
+            "Type": "Core", 
+            "Certification ID": "3313", 
+            "Certifying Organization": "American Hotel and Lodging Association Educational Institute"
+        }, 
+        {
+            "Acronym": "CBSE", 
+            "Certification Name": "Certified Building Service Executive", 
+            "Type": "Advanced", 
+            "Certification ID": "9463", 
+            "Certifying Organization": "Building Service Contractors Association International"
+        }, 
+        {
+            "Acronym": "CFPMHT", 
+            "Certification Name": "Fluid Power Mobile Hydraulic Technician", 
+            "Type": "Advanced", 
+            "Certification ID": "2610", 
+            "Certifying Organization": "International Fluid Power Society"
+        }, 
+        {
+            "Acronym": "CAMT", 
+            "Certification Name": "Certified Apartment Maintenance Technician", 
+            "Type": "Core", 
+            "Certification ID": "2425", 
+            "Certifying Organization": "National Apartment Association"
+        }, 
+        {
+            "Acronym": "VSMR", 
+            "Certification Name": "Ventilation System Mold Remediator", 
+            "Type": "Advanced", 
+            "Certification ID": "4791", 
+            "Certifying Organization": "National Air Ducts Cleaning Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "HVAC Master Specialist", 
+            "Type": "Advanced", 
+            "Certification ID": "5517", 
+            "Certifying Organization": "HVAC Excellence "
+        }, 
+        {
+            "Acronym": "CMRT", 
+            "Certification Name": "Certified Maintenance and Reliability Technician", 
+            "Type": "Core", 
+            "Certification ID": "9059", 
+            "Certifying Organization": "Society for Maintenance & Reliability Professionals"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Fluid Power Master Technician", 
+            "Type": "Advanced", 
+            "Certification ID": "2609", 
+            "Certifying Organization": "International Fluid Power Society"
+        }, 
+        {
+            "Acronym": "CFPPT", 
+            "Certification Name": "Fluid Power Pneumatic Technician", 
+            "Type": "Advanced", 
+            "Certification ID": "0889", 
+            "Certifying Organization": "International Fluid Power Society"
+        }, 
+        {
+            "Acronym": "CPE", 
+            "Certification Name": "Certified Plant Engineer", 
+            "Type": "Core", 
+            "Certification ID": "5100", 
+            "Certifying Organization": "Association for Facilities Engineering"
+        }
+    ], 
+    "onet": "49907100"
+}

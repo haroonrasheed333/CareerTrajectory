@@ -1,0 +1,33 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Diplomate of the American Board of Toxicology", 
+            "Type": "Advanced", 
+            "Certification ID": "5369", 
+            "Certifying Organization": "American Board of Toxicology, Inc."
+        }, 
+        {
+            "Acronym": "CES", 
+            "Certification Name": "Certified Environmental Scientist", 
+            "Type": "Core", 
+            "Certification ID": "6699", 
+            "Certifying Organization": "National Registry of Environmental Professionals"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "National Board Certification - Adolescence and Young Adulthood/Science", 
+            "Type": "Specialty", 
+            "Certification ID": "1305", 
+            "Certifying Organization": "National Board for Professional Teaching Standards"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Small Wind Installer Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "6781", 
+            "Certifying Organization": "North American Board of Certified Energy Practitioners"
+        }
+    ], 
+    "onet": "25105300"
+}

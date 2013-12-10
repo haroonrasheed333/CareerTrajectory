@@ -1,0 +1,180 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Certificate of Completion: Airways Management", 
+            "Type": "Specialty", 
+            "Certification ID": "9539", 
+            "Certifying Organization": "American College of Chest Physicians"
+        }, 
+        {
+            "Acronym": "DNC", 
+            "Certification Name": "Dermatology Nurse Certified", 
+            "Type": "Specialty", 
+            "Certification ID": "6484", 
+            "Certifying Organization": "Dermatology Nurses' Association"
+        }, 
+        {
+            "Acronym": "CENP", 
+            "Certification Name": "Certified in Executive Nursing Practice", 
+            "Type": "Advanced", 
+            "Certification ID": "8941", 
+            "Certifying Organization": "American Organization of Nurse Executives Credentialing Center"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Nurse Executive", 
+            "Type": "Specialty", 
+            "Certification ID": "6129", 
+            "Certifying Organization": "American Nurses Credentialing Center"
+        }, 
+        {
+            "Acronym": "CCRN-E", 
+            "Certification Name": "Tele-ICU Acute/Critical Care Nursing (Adult)", 
+            "Type": "Specialty", 
+            "Certification ID": "6940", 
+            "Certifying Organization": "American Association of Critical-Care Nurses "
+        }, 
+        {
+            "Acronym": "ACNPC", 
+            "Certification Name": "Acute Care Nurse Practitioner (Adult)", 
+            "Type": "Core", 
+            "Certification ID": "5694", 
+            "Certifying Organization": "American Association of Critical-Care Nurses "
+        }, 
+        {
+            "Acronym": "PCCN", 
+            "Certification Name": "Progressive Care Nursing (Adult)", 
+            "Type": "Specialty", 
+            "Certification ID": "3626", 
+            "Certifying Organization": "American Association of Critical-Care Nurses "
+        }, 
+        {
+            "Acronym": "GDCN", 
+            "Certification Name": "Geriatric Diabetic Certified Nurse", 
+            "Type": "Specialty", 
+            "Certification ID": "9146", 
+            "Certifying Organization": "National Association of Directors of Nursing Administration in Long Term Care"
+        }, 
+        {
+            "Acronym": "CAPA", 
+            "Certification Name": "Certified Ambulatory Perianesthesia Nurse", 
+            "Type": "Specialty", 
+            "Certification ID": "6201", 
+            "Certifying Organization": "American Board of Perianesthesia Nursing Certification, Inc."
+        }, 
+        {
+            "Acronym": "CPAN", 
+            "Certification Name": "Certified Post Anesthesia Nurse", 
+            "Type": "Specialty", 
+            "Certification ID": "6200", 
+            "Certifying Organization": "American Board of Perianesthesia Nursing Certification, Inc."
+        }, 
+        {
+            "Acronym": "CALN", 
+            "Certification Name": "Certification in Assisted Living Nursing", 
+            "Type": "Specialty", 
+            "Certification ID": "9145", 
+            "Certifying Organization": "National Association of Directors of Nursing Administration in Long Term Care"
+        }, 
+        {
+            "Acronym": "CMSRN", 
+            "Certification Name": "Certified Medical-Surgical Registered Nurse", 
+            "Type": "Specialty", 
+            "Certification ID": "9469", 
+            "Certifying Organization": "Medical Surgical Nursing Certification Board"
+        }, 
+        {
+            "Acronym": "ACCNS", 
+            "Certification Name": "Clinical Nurse Specialist; Wellness through Acute Care (Adult-Gerontology, Pediatric & Neonatal)", 
+            "Type": "Advanced", 
+            "Certification ID": "9468", 
+            "Certifying Organization": "American Association of Critical-Care Nurses "
+        }, 
+        {
+            "Acronym": "ACNPC-AG", 
+            "Certification Name": "Acute Care Nurse Practitioner (Adult-Gerontology)", 
+            "Type": "Specialty", 
+            "Certification ID": "8883", 
+            "Certifying Organization": "American Association of Critical-Care Nurses "
+        }, 
+        {
+            "Acronym": "CSC", 
+            "Certification Name": "Cardiac Surgery (Adult)", 
+            "Type": "Specialty", 
+            "Certification ID": "5903", 
+            "Certifying Organization": "American Association of Critical-Care Nurses "
+        }, 
+        {
+            "Acronym": "CMC", 
+            "Certification Name": "Cardiac Medicine (Adult)", 
+            "Type": "Specialty", 
+            "Certification ID": "5693", 
+            "Certifying Organization": "American Association of Critical-Care Nurses "
+        }, 
+        {
+            "Acronym": "CRNA", 
+            "Certification Name": "Certified Registered Nurse Anesthetist", 
+            "Type": "Advanced", 
+            "Certification ID": "6979", 
+            "Certifying Organization": "National Board on Certification and Recertification of Nurse Anesthetists"
+        }, 
+        {
+            "Acronym": "CPHQ", 
+            "Certification Name": "Certified Professional in Healthcare Quality", 
+            "Type": "Core", 
+            "Certification ID": "9207", 
+            "Certifying Organization": "National Association for Healthcare Quality"
+        }, 
+        {
+            "Acronym": "CDON/LTC", 
+            "Certification Name": "Certified Director of Nursing in Long Term Care", 
+            "Type": "Specialty", 
+            "Certification ID": "9138", 
+            "Certifying Organization": "National Association of Directors of Nursing Administration in Long Term Care"
+        }, 
+        {
+            "Acronym": "DCNP", 
+            "Certification Name": "Dermatology Certified Nurse Practitioner", 
+            "Type": "Specialty", 
+            "Certification ID": "6485", 
+            "Certifying Organization": "Dermatology Nurses' Association"
+        }, 
+        {
+            "Acronym": "CHN", 
+            "Certification Name": "Certified Hemodialysis Nurse", 
+            "Type": "Specialty", 
+            "Certification ID": "9504", 
+            "Certifying Organization": "Board of Nephrology Examiners Technology Nursing"
+        }, 
+        {
+            "Acronym": "CPDN", 
+            "Certification Name": "Certified Peritoneal Dialysis Nurse", 
+            "Type": "Specialty", 
+            "Certification ID": "9505", 
+            "Certifying Organization": "Board of Nephrology Examiners Technology Nursing"
+        }, 
+        {
+            "Acronym": "CCNS", 
+            "Certification Name": "Acute Care Clinical Nurse Specialist (Adult, Neonatal & Pediatric)", 
+            "Type": "Specialty", 
+            "Certification ID": "3865", 
+            "Certifying Organization": "American Association of Critical-Care Nurses "
+        }, 
+        {
+            "Acronym": "CCRN", 
+            "Certification Name": "Acute/Critical Care Nursing (Adult, Neonatal & Pediatric)", 
+            "Type": "Specialty", 
+            "Certification ID": "2239", 
+            "Certifying Organization": "American Association of Critical-Care Nurses "
+        }, 
+        {
+            "Acronym": "CNML", 
+            "Certification Name": "Nurse Manager and Leader", 
+            "Type": "Core", 
+            "Certification ID": "5733", 
+            "Certifying Organization": "American Association of Critical-Care Nurses "
+        }
+    ], 
+    "onet": "29115100"
+}

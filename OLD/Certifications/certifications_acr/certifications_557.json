@@ -1,0 +1,68 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CAMH", 
+            "Certification Name": "Certified Associate in Materials Handling", 
+            "Type": "Core", 
+            "Certification ID": "1429", 
+            "Certifying Organization": "Materials Handling and Management Society"
+        }, 
+        {
+            "Acronym": "CSCP", 
+            "Certification Name": "Certified Sales Compensation Professional", 
+            "Type": "Core", 
+            "Certification ID": "9030", 
+            "Certifying Organization": "WorldatWork"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Accredited Bridal Consultant", 
+            "Type": "Core", 
+            "Certification ID": "2171", 
+            "Certifying Organization": "Association of Bridal Consultants"
+        }, 
+        {
+            "Acronym": "CPSP", 
+            "Certification Name": "Certified Professional Salesperson Level I", 
+            "Type": "Core", 
+            "Certification ID": "9418", 
+            "Certifying Organization": "National Association of Sales Professionals"
+        }, 
+        {
+            "Acronym": "CHSP", 
+            "Certification Name": "Certified Hospitality Sales Professional", 
+            "Type": "Core", 
+            "Certification ID": "0316", 
+            "Certifying Organization": "American Hotel and Lodging Association Educational Institute"
+        }, 
+        {
+            "Acronym": "CPP", 
+            "Certification Name": "Certified Packaging Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "1344", 
+            "Certifying Organization": "Institute of Packaging Professionals"
+        }, 
+        {
+            "Acronym": "CSE", 
+            "Certification Name": "Certified Sales Executive", 
+            "Type": "Advanced", 
+            "Certification ID": "0463", 
+            "Certifying Organization": "Sales & Marketing Executives International"
+        }, 
+        {
+            "Acronym": "SCPS", 
+            "Certification Name": "Certified Salesperson", 
+            "Type": "Core", 
+            "Certification ID": "0462", 
+            "Certifying Organization": "Sales & Marketing Executives International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Master Bridal Consultant", 
+            "Type": "Advanced", 
+            "Certification ID": "2172", 
+            "Certifying Organization": "Association of Bridal Consultants"
+        }
+    ], 
+    "onet": "41101200"
+}

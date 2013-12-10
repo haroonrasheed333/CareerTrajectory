@@ -1,0 +1,19 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Auto Glass Master", 
+            "Type": "Advanced", 
+            "Certification ID": "7702", 
+            "Certifying Organization": "Auto Glass Safety Council"
+        }, 
+        {
+            "Acronym": "AGRT", 
+            "Certification Name": "Certified Auto Glass Technician", 
+            "Type": "Core", 
+            "Certification ID": "3317", 
+            "Certifying Organization": "Auto Glass Safety Council"
+        }
+    ], 
+    "onet": "49302200"
+}

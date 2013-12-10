@@ -1,0 +1,19 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Genetics Counselor", 
+            "Type": "Core", 
+            "Certification ID": "5928", 
+            "Certifying Organization": "American Board of Genetic Counseling"
+        }, 
+        {
+            "Acronym": "MGP", 
+            "Certification Name": "Certification in Pathology: Molecular Genetic Pathology", 
+            "Type": "Core", 
+            "Certification ID": "2577", 
+            "Certifying Organization": "American Board of Pathology"
+        }
+    ], 
+    "onet": "29909200"
+}

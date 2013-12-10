@@ -1,0 +1,19 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "AAPA/PPM", 
+            "Certification Name": "Professional Port Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "9173", 
+            "Certifying Organization": "American Association of Port Authorities"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Coastal Navigation Certification", 
+            "Type": "Core", 
+            "Certification ID": "5684", 
+            "Certifying Organization": "J World"
+        }
+    ], 
+    "onet": "53502103"
+}

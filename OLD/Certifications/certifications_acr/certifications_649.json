@@ -1,0 +1,404 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "RWC", 
+            "Certification Name": "Registered Waterproofing Consultant", 
+            "Type": "Core", 
+            "Certification ID": "4868", 
+            "Certifying Organization": "Roof Consultants Institute"
+        }, 
+        {
+            "Acronym": "AOC", 
+            "Certification Name": "Architectural Openings Consultants", 
+            "Type": "Advanced", 
+            "Certification ID": "8015", 
+            "Certifying Organization": "Door and Hardware Institute"
+        }, 
+        {
+            "Acronym": "CRS", 
+            "Certification Name": "Certified Remodeler Specialist", 
+            "Type": "Advanced", 
+            "Certification ID": "6815", 
+            "Certifying Organization": "National Association of the Remodeling Industry"
+        }, 
+        {
+            "Acronym": "MCR", 
+            "Certification Name": "Master Certified Remodeler", 
+            "Type": "Advanced", 
+            "Certification ID": "6062", 
+            "Certifying Organization": "National Association of the Remodeling Industry"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Master Trainer", 
+            "Type": "Advanced", 
+            "Certification ID": "9060", 
+            "Certifying Organization": "National Center for Construction Education and Research"
+        }, 
+        {
+            "Acronym": "CSSM", 
+            "Certification Name": "Construction Site Safety Master Instructor", 
+            "Type": "Advanced", 
+            "Certification ID": "9063", 
+            "Certifying Organization": "National Center for Construction Education and Research"
+        }, 
+        {
+            "Acronym": "CGB", 
+            "Certification Name": "Certified Graduate Builder", 
+            "Type": "Advanced", 
+            "Certification ID": "3790", 
+            "Certifying Organization": "National Association of Home Builders"
+        }, 
+        {
+            "Acronym": "GMR", 
+            "Certification Name": "Graduate Master Remodeler", 
+            "Type": "Advanced", 
+            "Certification ID": "5884", 
+            "Certifying Organization": "National Association of Home Builders"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Tilt-Up Supervisor & Technician", 
+            "Type": "Advanced", 
+            "Certification ID": "3689", 
+            "Certifying Organization": "American Concrete Institute International"
+        }, 
+        {
+            "Acronym": "ICP", 
+            "Certification Name": "Instructor Certification Program", 
+            "Type": "Advanced", 
+            "Certification ID": "7335", 
+            "Certifying Organization": "International Masonry Institute"
+        }, 
+        {
+            "Acronym": "CKBR", 
+            "Certification Name": "Certified Kitchen and Bath Remodeler", 
+            "Type": "Specialty", 
+            "Certification ID": "6067", 
+            "Certifying Organization": "National Association of the Remodeling Industry"
+        }, 
+        {
+            "Acronym": "PMTLevel", 
+            "Certification Name": "Custom Pipeline Maintenance Inspector", 
+            "Type": "Advanced", 
+            "Certification ID": "8215", 
+            "Certifying Organization": "National Center for Construction Education and Research"
+        }, 
+        {
+            "Acronym": "CPMP", 
+            "Certification Name": "Commissioning Process Management Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "5849", 
+            "Certifying Organization": "American Society of Heating, Refrigerating and Air-Conditioning Engineers"
+        }, 
+        {
+            "Acronym": "CDP", 
+            "Certification Name": "Certified Development, Design & Construction Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "9389", 
+            "Certifying Organization": "International Council of Shopping Centers"
+        }, 
+        {
+            "Acronym": "CCCA", 
+            "Certification Name": "Certified Construction Contract Administrator", 
+            "Type": "Advanced", 
+            "Certification ID": "1428", 
+            "Certifying Organization": "Construction Specifications Institute"
+        }, 
+        {
+            "Acronym": "RRO", 
+            "Certification Name": "Registered Roof Observer", 
+            "Type": "Core", 
+            "Certification ID": "2390", 
+            "Certifying Organization": "Roof Consultants Institute"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Foreman Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "9320", 
+            "Certifying Organization": "International Masonry Institute"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Superintendent Certification", 
+            "Type": "Core", 
+            "Certification ID": "7334", 
+            "Certifying Organization": "International Masonry Institute"
+        }, 
+        {
+            "Acronym": "CSSO", 
+            "Certification Name": "Construction Site Safety Orientation", 
+            "Type": "Core", 
+            "Certification ID": "9066", 
+            "Certifying Organization": "National Center for Construction Education and Research"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Master Certified Green Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "6817", 
+            "Certifying Organization": "National Association of Home Builders"
+        }, 
+        {
+            "Acronym": "GMB", 
+            "Certification Name": "Graduate Master Builder", 
+            "Type": "Advanced", 
+            "Certification ID": "3791", 
+            "Certifying Organization": "National Association of Home Builders"
+        }, 
+        {
+            "Acronym": "REI", 
+            "Certification Name": "Residential Electrical Inspector", 
+            "Type": "Core", 
+            "Certification ID": "3389", 
+            "Certifying Organization": "International Code Council"
+        }, 
+        {
+            "Acronym": "CCS", 
+            "Certification Name": "Certified Construction Specifier", 
+            "Type": "Advanced", 
+            "Certification ID": "1426", 
+            "Certifying Organization": "Construction Specifications Institute"
+        }, 
+        {
+            "Acronym": "CFPIHT", 
+            "Certification Name": "Fluid Power Industrial Hydraulic Technician", 
+            "Type": "Specialty", 
+            "Certification ID": "2606", 
+            "Certifying Organization": "International Fluid Power Society"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Green Advantage - Commercial/Residential", 
+            "Type": "Core", 
+            "Certification ID": "5901", 
+            "Certifying Organization": "Green Advantage"
+        }, 
+        {
+            "Acronym": "MGWC", 
+            "Certification Name": "Master Ground Water Contractor", 
+            "Type": "Advanced", 
+            "Certification ID": "2295", 
+            "Certifying Organization": "National Ground Water Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification in Construction Materials Testing - Asphalt Level IV", 
+            "Type": "Advanced", 
+            "Certification ID": "7784", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification in Construction Materials Testing - Asphalt Level II", 
+            "Type": "Advanced", 
+            "Certification ID": "7782", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "CFPMHT", 
+            "Certification Name": "Fluid Power Mobile Hydraulic Technician", 
+            "Type": "Advanced", 
+            "Certification ID": "2610", 
+            "Certifying Organization": "International Fluid Power Society"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Construction & Demolition Materials - Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "1466", 
+            "Certifying Organization": "Solid Waste Association of North America"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Traffic Signal Inspector Level I", 
+            "Type": "Advanced", 
+            "Certification ID": "8759", 
+            "Certifying Organization": "International Municipal Signal Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Green Advantage - Commercial", 
+            "Type": "Specialty", 
+            "Certification ID": "5899", 
+            "Certifying Organization": "Green Advantage"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Concrete Construction Special Inspector", 
+            "Type": "Advanced", 
+            "Certification ID": "3902", 
+            "Certifying Organization": "American Concrete Institute International"
+        }, 
+        {
+            "Acronym": "CDT", 
+            "Certification Name": "Construction Documents Technologist", 
+            "Type": "Core", 
+            "Certification ID": "1425", 
+            "Certifying Organization": "Construction Specifications Institute"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Master Craft/Technician Instructor", 
+            "Type": "Advanced", 
+            "Certification ID": "9062", 
+            "Certifying Organization": "National Center for Construction Education and Research"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Craft Instructor", 
+            "Type": "Advanced", 
+            "Certification ID": "9061", 
+            "Certifying Organization": "National Center for Construction Education and Research"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Craft Instructor", 
+            "Type": "Core", 
+            "Certification ID": "9061", 
+            "Certifying Organization": "National Center for Construction Education and Research"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Sign & Pavement Marking Senior Technician Level III", 
+            "Type": "Advanced", 
+            "Certification ID": "0396", 
+            "Certifying Organization": "International Municipal Signal Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Mobile Crane Inspector", 
+            "Type": "Advanced", 
+            "Certification ID": "8751", 
+            "Certifying Organization": "National Commission for the Certification of Crane Operators"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification in Construction Materials Testing - Asphalt Level III", 
+            "Type": "Advanced", 
+            "Certification ID": "7783", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "Construction", 
+            "Certification Name": "WSO - Certified Safety Manager (Construction)", 
+            "Type": "Specialty", 
+            "Certification ID": "6851", 
+            "Certifying Organization": "World Safety Organization"
+        }, 
+        {
+            "Acronym": "CLS", 
+            "Certification Name": "Certified Lubrication Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "2107", 
+            "Certifying Organization": "Society of Tribologists and Lubrication Engineers"
+        }, 
+        {
+            "Acronym": "GCP", 
+            "Certification Name": "Green Certified Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "6063", 
+            "Certifying Organization": "National Association of the Remodeling Industry"
+        }, 
+        {
+            "Acronym": "CCM", 
+            "Certification Name": "Certified Construction Manager", 
+            "Type": "Core", 
+            "Certification ID": "5402", 
+            "Certifying Organization": "Construction Manager Certification Institute"
+        }, 
+        {
+            "Acronym": "CGP", 
+            "Certification Name": "Certified Green Professional", 
+            "Type": "Core", 
+            "Certification ID": "5883", 
+            "Certifying Organization": "National Association of Home Builders"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Green Advantage - Residential", 
+            "Type": "Specialty", 
+            "Certification ID": "5900", 
+            "Certifying Organization": "Green Advantage"
+        }, 
+        {
+            "Acronym": "STS", 
+            "Certification Name": "Safety Trained Supervisor", 
+            "Type": "Advanced", 
+            "Certification ID": "5878", 
+            "Certifying Organization": "International Board for Certification of Safety Managers"
+        }, 
+        {
+            "Acronym": "OMA", 
+            "Certification Name": "Oil Monitoring Analyst", 
+            "Type": "Core", 
+            "Certification ID": "2108", 
+            "Certifying Organization": "Society of Tribologists and Lubrication Engineers"
+        }, 
+        {
+            "Acronym": "RRC", 
+            "Certification Name": "Registered Roof Consultant", 
+            "Type": "Core", 
+            "Certification ID": "2389", 
+            "Certifying Organization": "Roof Consultants Institute"
+        }, 
+        {
+            "Acronym": "UDCR", 
+            "Certification Name": "Universal Design Certified Remodeler", 
+            "Type": "Core", 
+            "Certification ID": "6069", 
+            "Certifying Organization": "National Association of the Remodeling Industry"
+        }, 
+        {
+            "Acronym": "CRA", 
+            "Certification Name": "Certified Remodeler Associate", 
+            "Type": "Advanced", 
+            "Certification ID": "6816", 
+            "Certifying Organization": "National Association of the Remodeling Industry"
+        }, 
+        {
+            "Acronym": "CR", 
+            "Certification Name": "Certified Remodeler", 
+            "Type": "Advanced", 
+            "Certification ID": "6064", 
+            "Certifying Organization": "National Association of the Remodeling Industry"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Small Wind Installer Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "6781", 
+            "Certifying Organization": "North American Board of Certified Energy Practitioners"
+        }, 
+        {
+            "Acronym": "CSSS", 
+            "Certification Name": "Construction Site Safety Supervisor", 
+            "Type": "Advanced", 
+            "Certification ID": "9065", 
+            "Certifying Organization": "National Center for Construction Education and Research"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Fluid Power Master Technician", 
+            "Type": "Advanced", 
+            "Certification ID": "2609", 
+            "Certifying Organization": "International Fluid Power Society"
+        }, 
+        {
+            "Acronym": "CHC", 
+            "Certification Name": "Certified Healthcare Constructor", 
+            "Type": "Core", 
+            "Certification ID": "9008", 
+            "Certifying Organization": "American Hospital Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Highway Construction - Level I", 
+            "Type": "Core", 
+            "Certification ID": "5371", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }
+    ], 
+    "onet": "47101100"
+}

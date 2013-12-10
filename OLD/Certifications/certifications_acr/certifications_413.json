@@ -1,0 +1,257 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Clinical Exercise Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "0915", 
+            "Certifying Organization": "American College of Sports Medicine"
+        }, 
+        {
+            "Acronym": "ATR-BC", 
+            "Certification Name": "Art Therapist Registered - Board Certified", 
+            "Type": "Specialty", 
+            "Certification ID": "1200", 
+            "Certifying Organization": "Art Therapy Credentials Board"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Riding Master Level Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "6865", 
+            "Certifying Organization": "Professional Association of Therapeutic Horsemanship International"
+        }, 
+        {
+            "Acronym": "PT", 
+            "Certification Name": "Personal Trainer Certification", 
+            "Type": "Core", 
+            "Certification ID": "0787", 
+            "Certifying Organization": "American Council on Exercise"
+        }, 
+        {
+            "Acronym": "CWP", 
+            "Certification Name": "Certified Wellness Practitioner", 
+            "Type": "Advanced", 
+            "Certification ID": "8929", 
+            "Certifying Organization": "National Wellness Institute"
+        }, 
+        {
+            "Acronym": "MES", 
+            "Certification Name": "Medical Exercise Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "1058", 
+            "Certifying Organization": "American Academy of Health, Fitness, & Rehabilitation Professionals"
+        }, 
+        {
+            "Acronym": "HFs", 
+            "Certification Name": "Certified Health Fitness Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "0912", 
+            "Certifying Organization": "American College of Sports Medicine"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Riding Registered Level Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "6863", 
+            "Certifying Organization": "Professional Association of Therapeutic Horsemanship International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Assistant Instructor", 
+            "Type": "Core", 
+            "Certification ID": "1392", 
+            "Certifying Organization": "Certified Horsemanship Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Driving Instructor Level II", 
+            "Type": "Advanced", 
+            "Certification ID": "6867", 
+            "Certifying Organization": "Professional Association of Therapeutic Horsemanship International"
+        }, 
+        {
+            "Acronym": "ADC", 
+            "Certification Name": "Activity Director Certified", 
+            "Type": "Specialty", 
+            "Certification ID": "1231", 
+            "Certifying Organization": "National Certification Council for Activity Professionals"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Driving Instructor Level I", 
+            "Type": "Specialty", 
+            "Certification ID": "6866", 
+            "Certifying Organization": "Professional Association of Therapeutic Horsemanship International"
+        }, 
+        {
+            "Acronym": "BCN", 
+            "Certification Name": "Board Certified in Neurofeedback", 
+            "Type": "Specialty", 
+            "Certification ID": "6711", 
+            "Certifying Organization": "Biofeedback Certification International Alliance"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Technician Certification in Biofeedback", 
+            "Type": "Specialty", 
+            "Certification ID": "6716", 
+            "Certifying Organization": "Biofeedback Certification International Alliance"
+        }, 
+        {
+            "Acronym": "CTRS", 
+            "Certification Name": "Certified Therapeutic Recreation Specialist", 
+            "Type": "Core", 
+            "Certification ID": "2043", 
+            "Certifying Organization": "National Council for Therapeutic Recreation Certification, Inc."
+        }, 
+        {
+            "Acronym": "ARICP", 
+            "Certification Name": "Certified Riding Instructor Level I (Instructor in Training)", 
+            "Type": "Core", 
+            "Certification ID": "2019", 
+            "Certifying Organization": "American Riding Instructors Association"
+        }, 
+        {
+            "Acronym": "ARICP", 
+            "Certification Name": "Certified Riding Instructor - Level II (Instructor of Beginner through Intermediate)", 
+            "Type": "Core", 
+            "Certification ID": "2020", 
+            "Certifying Organization": "American Riding Instructors Association"
+        }, 
+        {
+            "Acronym": "MT-BC", 
+            "Certification Name": "Music Therapist - Board Certified", 
+            "Type": "Specialty", 
+            "Certification ID": "0289", 
+            "Certifying Organization": "Certification Board for Music Therapists"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Orthopedic Exercise Specialty Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "9111", 
+            "Certifying Organization": "American Council on Exercise"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Clinical Hypnotherapist", 
+            "Type": "Advanced", 
+            "Certification ID": "8841", 
+            "Certifying Organization": "National Board for Certified Clinical Hypnotherapists"
+        }, 
+        {
+            "Acronym": "BC-DMT", 
+            "Certification Name": "Board Certified Dance/Movement Therapist", 
+            "Type": "Advanced", 
+            "Certification ID": "6463", 
+            "Certifying Organization": "Dance/Movement Therapy Certification Board"
+        }, 
+        {
+            "Acronym": "ACC", 
+            "Certification Name": "Activity Consultant Certified", 
+            "Type": "Specialty", 
+            "Certification ID": "1233", 
+            "Certifying Organization": "National Certification Council for Activity Professionals"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Interactive Vaulting Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "6869", 
+            "Certifying Organization": "Professional Association of Therapeutic Horsemanship International"
+        }, 
+        {
+            "Acronym": "ATCS", 
+            "Certification Name": "Art Therapy Certified Supervisor", 
+            "Type": "Specialty", 
+            "Certification ID": "1199", 
+            "Certifying Organization": "Art Therapy Credentials Board"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IRD Assistant Sidewalker or Horsehandler", 
+            "Type": "Specialty", 
+            "Certification ID": "1394", 
+            "Certifying Organization": "Certified Horsemanship Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Riding Advanced Level Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "6864", 
+            "Certifying Organization": "Professional Association of Therapeutic Horsemanship International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Health Coach Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "0788", 
+            "Certifying Organization": "American Council on Exercise"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Technician Certification in Neurofeedback", 
+            "Type": "Specialty", 
+            "Certification ID": "6715", 
+            "Certifying Organization": "Biofeedback Certification International Alliance"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Therapeutic Exercise Specialty Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "9112", 
+            "Certifying Organization": "American Council on Exercise"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Driving Instructor Level III", 
+            "Type": "Advanced", 
+            "Certification ID": "6868", 
+            "Certifying Organization": "Professional Association of Therapeutic Horsemanship International"
+        }, 
+        {
+            "Acronym": "R-DMT", 
+            "Certification Name": "Registered Dance/Movement Therapist", 
+            "Type": "Specialty", 
+            "Certification ID": "7617", 
+            "Certifying Organization": "Dance/Movement Therapy Certification Board"
+        }, 
+        {
+            "Acronym": "CPT", 
+            "Certification Name": "Certified Poetry Therapist", 
+            "Type": "Specialty", 
+            "Certification ID": "0453", 
+            "Certifying Organization": "National Federation for Biblio/Poetry Therapy"
+        }, 
+        {
+            "Acronym": "RPT", 
+            "Certification Name": "Registered Poetry Therapist", 
+            "Type": "Specialty", 
+            "Certification ID": "0454", 
+            "Certifying Organization": "National Federation for Biblio/Poetry Therapy"
+        }, 
+        {
+            "Acronym": "ARICP", 
+            "Certification Name": "Certified Riding Instructor - Level III (Instructor of Beginner through Advanced)", 
+            "Type": "Advanced", 
+            "Certification ID": "2021", 
+            "Certifying Organization": "American Riding Instructors Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Registered Clinical Exercise Physiologist", 
+            "Type": "Core", 
+            "Certification ID": "0911", 
+            "Certifying Organization": "American College of Sports Medicine"
+        }, 
+        {
+            "Acronym": "ADPC", 
+            "Certification Name": "Activity Director Provisionally Certified", 
+            "Type": "Specialty", 
+            "Certification ID": "1232", 
+            "Certifying Organization": "National Certification Council for Activity Professionals"
+        }
+    ], 
+    "onet": "29112500"
+}

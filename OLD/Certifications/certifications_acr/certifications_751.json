@@ -1,0 +1,26 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Machining Level I - CNC Milling: Programming Setup & Operations", 
+            "Type": "Core", 
+            "Certification ID": "3819", 
+            "Certifying Organization": "National Institute for Metalworking Skills "
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Machining Level I - CNC Turning: Programming Setup & Operations", 
+            "Type": "Advanced", 
+            "Certification ID": "3820", 
+            "Certifying Organization": "National Institute for Metalworking Skills "
+        }, 
+        {
+            "Acronym": "CCST", 
+            "Certification Name": "Certified Control Systems Technician   Level I", 
+            "Type": "Core", 
+            "Certification ID": "1107", 
+            "Certifying Organization": "International Society of Automation"
+        }
+    ], 
+    "onet": "51401100"
+}

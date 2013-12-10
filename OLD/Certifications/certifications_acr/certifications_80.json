@@ -1,0 +1,320 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CMC", 
+            "Certification Name": "Certified Management Consultant", 
+            "Type": "Core", 
+            "Certification ID": "1979", 
+            "Certifying Organization": "Institute of Management Consultants USA"
+        }, 
+        {
+            "Acronym": "ABCP", 
+            "Certification Name": "Associate Business Continuity Professional", 
+            "Type": "Core", 
+            "Certification ID": "6331", 
+            "Certifying Organization": "DRI International"
+        }, 
+        {
+            "Acronym": "VMP", 
+            "Certification Name": "Value Methodology Practitioner", 
+            "Type": "Core", 
+            "Certification ID": "1326", 
+            "Certifying Organization": "Society of American Value Engineers"
+        }, 
+        {
+            "Acronym": "CM&AA", 
+            "Certification Name": "Certified Merger and Acquisition Advisor", 
+            "Type": "Advanced", 
+            "Certification ID": "6259", 
+            "Certifying Organization": "Alliance of Merger and Acquisition Advisors"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "CBP Master Executive Computer Technology Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "8790", 
+            "Certifying Organization": "International Business Training Association"
+        }, 
+        {
+            "Acronym": "CAPM", 
+            "Certification Name": "Certified Associate in Project Management", 
+            "Type": "Core", 
+            "Certification ID": "3674", 
+            "Certifying Organization": "Project Management Institute"
+        }, 
+        {
+            "Acronym": "SPP", 
+            "Certification Name": "Strategic Planning Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "6877", 
+            "Certifying Organization": "Association for Strategic Planning"
+        }, 
+        {
+            "Acronym": "SMP", 
+            "Certification Name": "Strategic Management Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "6879", 
+            "Certifying Organization": "Association for Strategic Planning"
+        }, 
+        {
+            "Acronym": "PgMP", 
+            "Certification Name": "Program Management Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "5160", 
+            "Certifying Organization": "Project Management Institute"
+        }, 
+        {
+            "Acronym": "SMMC", 
+            "Certification Name": "Strategic Meeting Management Certification", 
+            "Type": "Core", 
+            "Certification ID": "7998", 
+            "Certifying Organization": "Global Business Travel Association Academy"
+        }, 
+        {
+            "Acronym": "CPIM", 
+            "Certification Name": "Certified in Production and Inventory Management", 
+            "Type": "Advanced", 
+            "Certification ID": "1432", 
+            "Certifying Organization": "The Association for Operations Management"
+        }, 
+        {
+            "Acronym": "RBA", 
+            "Certification Name": "Registered Business Analyst", 
+            "Type": "Advanced", 
+            "Certification ID": "7931", 
+            "Certifying Organization": "American Academy of Financial Management"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Project+", 
+            "Type": "Core", 
+            "Certification ID": "2483", 
+            "Certifying Organization": "Computing Technology Industry Association (CompTIA)"
+        }, 
+        {
+            "Acronym": "CEcD", 
+            "Certification Name": "Certified Economic Developer", 
+            "Type": "Advanced", 
+            "Certification ID": "1220", 
+            "Certifying Organization": "International Economic Development Council"
+        }, 
+        {
+            "Acronym": "OPMP", 
+            "Certification Name": "Operations and Performance Management Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "5848", 
+            "Certifying Organization": "American Society of Heating, Refrigerating and Air-Conditioning Engineers"
+        }, 
+        {
+            "Acronym": "EVP", 
+            "Certification Name": "Earned Value Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "5331", 
+            "Certifying Organization": "AACE International, Inc."
+        }, 
+        {
+            "Acronym": "IRB", 
+            "Certification Name": "Certification for Institutional Review Board (IRB) Professionals", 
+            "Type": "Advanced", 
+            "Certification ID": "6872", 
+            "Certifying Organization": "Public Responsibility in Medicine and Research"
+        }, 
+        {
+            "Acronym": "MPM", 
+            "Certification Name": "Master Project Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "9496", 
+            "Certifying Organization": "American Academy of Project Management"
+        }, 
+        {
+            "Acronym": "CST", 
+            "Certification Name": "Certified Scheduling Technician", 
+            "Type": "Core", 
+            "Certification ID": "1583", 
+            "Certifying Organization": "AACE International, Inc."
+        }, 
+        {
+            "Acronym": "CHRA", 
+            "Certification Name": "Certified Human Resource Analyst", 
+            "Type": "Core", 
+            "Certification ID": "9499", 
+            "Certifying Organization": "American Academy of Project Management"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "CBP Master Executive Business Management", 
+            "Type": "Advanced", 
+            "Certification ID": "8789", 
+            "Certifying Organization": "International Business Training Association"
+        }, 
+        {
+            "Acronym": "CBP", 
+            "Certification Name": "Certified Business Professional, Master Executive, Project Management", 
+            "Type": "Advanced", 
+            "Certification ID": "3815", 
+            "Certifying Organization": "International Business Training Association"
+        }, 
+        {
+            "Acronym": "CTP", 
+            "Certification Name": "Certified Turnaround Professional", 
+            "Type": "Core", 
+            "Certification ID": "2285", 
+            "Certifying Organization": "Association of Certified Turnaround Professionals, Inc."
+        }, 
+        {
+            "Acronym": "MPM", 
+            "Certification Name": "Master Project Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "7929", 
+            "Certifying Organization": "American Academy of Financial Management"
+        }, 
+        {
+            "Acronym": "SPA", 
+            "Certification Name": "Strategic Planning Associate", 
+            "Type": "Core", 
+            "Certification ID": "6878", 
+            "Certifying Organization": "Association for Strategic Planning"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "BusinessObjects Enterprise XI 3.0", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "5772", 
+            "Certifying Organization": "Business Objects"
+        }, 
+        {
+            "Acronym": "CFPIM", 
+            "Certification Name": "Certified Fellow in Production and Inventory Management", 
+            "Type": "Advanced", 
+            "Certification ID": "1434", 
+            "Certifying Organization": "The Association for Operations Management"
+        }, 
+        {
+            "Acronym": "AIM", 
+            "Certification Name": "Associate in Management", 
+            "Type": "Core", 
+            "Certification ID": "7987", 
+            "Certifying Organization": "The Institutes"
+        }, 
+        {
+            "Acronym": "CFSP", 
+            "Certification Name": "Certified Form Systems Professional", 
+            "Type": "Core", 
+            "Certification ID": "1244", 
+            "Certifying Organization": "Business Forms Management Association"
+        }, 
+        {
+            "Acronym": "MCP", 
+            "Certification Name": "Management Consultant Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "7927", 
+            "Certifying Organization": "American Academy of Financial Management"
+        }, 
+        {
+            "Acronym": "ISPI", 
+            "Certification Name": "Certified Performance Technologist", 
+            "Type": "Advanced", 
+            "Certification ID": "3699", 
+            "Certifying Organization": "International Society of Performance Improvement "
+        }, 
+        {
+            "Acronym": "AMC", 
+            "Certification Name": "Accredited Management Consultant", 
+            "Type": "Advanced", 
+            "Certification ID": "7933", 
+            "Certifying Organization": "American Academy of Financial Management"
+        }, 
+        {
+            "Acronym": "CMA", 
+            "Certification Name": "Certified Management Accountant", 
+            "Type": "Core", 
+            "Certification ID": "0016", 
+            "Certifying Organization": "Institute of Management Accountants"
+        }, 
+        {
+            "Acronym": "PCMH", 
+            "Certification Name": "Professional Certified in Materials Handling", 
+            "Type": "Core", 
+            "Certification ID": "1430", 
+            "Certifying Organization": "Materials Handling and Management Society"
+        }, 
+        {
+            "Acronym": "CPC", 
+            "Certification Name": "Certified Project Consultant", 
+            "Type": "Advanced", 
+            "Certification ID": "9502", 
+            "Certifying Organization": "American Academy of Project Management"
+        }, 
+        {
+            "Acronym": "CSAP", 
+            "Certification Name": "Certified Strategic Alliance Professional", 
+            "Type": "Core", 
+            "Certification ID": "5975", 
+            "Certifying Organization": "Association of Strategic Alliance Professionals"
+        }, 
+        {
+            "Acronym": "CF", 
+            "Certification Name": "Consulting Fellow", 
+            "Type": "Advanced", 
+            "Certification ID": "3128", 
+            "Certifying Organization": "National Property Management Association, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Management Consulting Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "9495", 
+            "Certifying Organization": "Global Academy of Finance & Management"
+        }, 
+        {
+            "Acronym": "CIMA", 
+            "Certification Name": "Certified Investment Management Analyst", 
+            "Type": "Advanced", 
+            "Certification ID": "5366", 
+            "Certifying Organization": "Investment Management Consultants Association"
+        }, 
+        {
+            "Acronym": "CPPS", 
+            "Certification Name": "Certified Professional Property Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "1333", 
+            "Certifying Organization": "National Property Management Association, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Oracle Certified Expert, Siebel CRM 8.0 Business Analyst", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "4861", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "MCP", 
+            "Certification Name": "Management Consultant Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "9498", 
+            "Certifying Organization": "American Academy of Project Management"
+        }, 
+        {
+            "Acronym": "CA-AM", 
+            "Certification Name": "Certification of Achievement-Alliance Management", 
+            "Type": "Core", 
+            "Certification ID": "5974", 
+            "Certifying Organization": "Association of Strategic Alliance Professionals"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified SOA Associate [2008]", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "5474", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "CPE", 
+            "Certification Name": "Certified Program Evaluator", 
+            "Type": "Advanced", 
+            "Certification ID": "7995", 
+            "Certifying Organization": "National Court Reporters Association"
+        }
+    ], 
+    "onet": "13111100"
+}

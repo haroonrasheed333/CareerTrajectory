@@ -1,0 +1,124 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Landscape Industry Certified Interior Technician", 
+            "Type": "Specialty", 
+            "Certification ID": "0093", 
+            "Certifying Organization": "Professional Landcare Network"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Landscape Industry Certified Lawn Care Manager", 
+            "Type": "Core", 
+            "Certification ID": "4852", 
+            "Certifying Organization": "Professional Landcare Network"
+        }, 
+        {
+            "Acronym": "CGIA", 
+            "Certification Name": "Certified Golf Irrigation Auditor", 
+            "Type": "Specialty", 
+            "Certification ID": "3188", 
+            "Certifying Organization": "Irrigation Association"
+        }, 
+        {
+            "Acronym": "CPH", 
+            "Certification Name": "Certified Professional Horticulturist", 
+            "Type": "Advanced", 
+            "Certification ID": "8942", 
+            "Certifying Organization": "American Society for Horticultural Science"
+        }, 
+        {
+            "Acronym": "APH", 
+            "Certification Name": "Associate Professional Horticulturist", 
+            "Type": "Core", 
+            "Certification ID": "8943", 
+            "Certifying Organization": "American Society for Horticultural Science"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Tree Worker/Tree Climber Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "3755", 
+            "Certifying Organization": "International Society of Arboriculture"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Landscape Industry Certified Manager", 
+            "Type": "Core", 
+            "Certification ID": "0091", 
+            "Certifying Organization": "Professional Landcare Network"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Desert Landscaper", 
+            "Type": "Specialty", 
+            "Certification ID": "2370", 
+            "Certifying Organization": "Desert Botanical Garden"
+        }, 
+        {
+            "Acronym": "CTSP", 
+            "Certification Name": "Certified Treecare Safety Professional", 
+            "Type": "Core", 
+            "Certification ID": "9032", 
+            "Certifying Organization": "Tree Care Industry Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Landscape Industry Certified Technician - Exterior", 
+            "Type": "Specialty", 
+            "Certification ID": "0094", 
+            "Certifying Organization": "Professional Landcare Network"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Landscape Industry Certified Horticultural Technician", 
+            "Type": "Core", 
+            "Certification ID": "0092", 
+            "Certifying Organization": "Professional Landcare Network"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Arborist / Municipal Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "4661", 
+            "Certifying Organization": "International Society of Arboriculture"
+        }, 
+        {
+            "Acronym": "CGM", 
+            "Certification Name": "Certified Grounds Manager", 
+            "Type": "Core", 
+            "Certification ID": "0095", 
+            "Certifying Organization": "Professional Grounds Management Society"
+        }, 
+        {
+            "Acronym": "CID", 
+            "Certification Name": "Certified Irrigation Designer", 
+            "Type": "Advanced", 
+            "Certification ID": "1459", 
+            "Certifying Organization": "Irrigation Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Arborist/Utility Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "3756", 
+            "Certifying Organization": "International Society of Arboriculture"
+        }, 
+        {
+            "Acronym": "STS", 
+            "Certification Name": "Safety Trained Supervisor", 
+            "Type": "Advanced", 
+            "Certification ID": "5878", 
+            "Certifying Organization": "International Board for Certification of Safety Managers"
+        }, 
+        {
+            "Acronym": "CLARB", 
+            "Certification Name": "Certified Landscape Architect", 
+            "Type": "Advanced", 
+            "Certification ID": "9428", 
+            "Certifying Organization": "Council of Landscape Architectural Registration Boards"
+        }
+    ], 
+    "onet": "37101200"
+}

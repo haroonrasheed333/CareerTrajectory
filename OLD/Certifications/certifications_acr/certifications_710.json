@@ -1,0 +1,215 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Medium/Heavy Truck Technician: Electrical/Electronic Systems", 
+            "Type": "Specialty", 
+            "Certification ID": "5241", 
+            "Certifying Organization": "National Institute for Automotive Service Excellence"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Medium/Heavy Truck Technician: Heating, Ventilation, & A/C", 
+            "Type": "Specialty", 
+            "Certification ID": "5242", 
+            "Certifying Organization": "National Institute for Automotive Service Excellence"
+        }, 
+        {
+            "Acronym": "H5", 
+            "Certification Name": "Transit Bus - Suspension and Steering (H5)", 
+            "Type": "Specialty", 
+            "Certification ID": "7747", 
+            "Certifying Organization": "National Institute for Automotive Service Excellence"
+        }, 
+        {
+            "Acronym": "CNG", 
+            "Certification Name": "Transit Bus Technician: Compressed Natural Gas Engines", 
+            "Type": "Core", 
+            "Certification ID": "8618", 
+            "Certifying Organization": "National Institute for Automotive Service Excellence"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Light Vehicle Diesel Engines", 
+            "Type": "Core", 
+            "Certification ID": "8614", 
+            "Certifying Organization": "National Institute for Automotive Service Excellence"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Medium/Heavy Truck Technician: Drive Trains", 
+            "Type": "Specialty", 
+            "Certification ID": "5238", 
+            "Certifying Organization": "National Institute for Automotive Service Excellence"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Transit Bus Technician: Brakes", 
+            "Type": "Specialty", 
+            "Certification ID": "5244", 
+            "Certifying Organization": "National Institute for Automotive Service Excellence"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Transit Bus Technician: Electrical/Electronic Systems", 
+            "Type": "Specialty", 
+            "Certification ID": "5245", 
+            "Certifying Organization": "National Institute for Automotive Service Excellence"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Master Medium/Heavy Truck Specialist", 
+            "Type": "Advanced", 
+            "Certification ID": "5231", 
+            "Certifying Organization": "National Institute for Automotive Service Excellence"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Master Transit Bus Technician", 
+            "Type": "Advanced", 
+            "Certification ID": "5235", 
+            "Certifying Organization": "National Institute for Automotive Service Excellence"
+        }, 
+        {
+            "Acronym": "H3", 
+            "Certification Name": "Transit Bus - Drive Train (H3)", 
+            "Type": "Specialty", 
+            "Certification ID": "7744", 
+            "Certifying Organization": "National Institute for Automotive Service Excellence"
+        }, 
+        {
+            "Acronym": "HVAC", 
+            "Certification Name": "Transit Bus - Heating Ventilation and Air Conditioning (HVAC) (H7)", 
+            "Type": "Specialty", 
+            "Certification ID": "7745", 
+            "Certifying Organization": "National Institute for Automotive Service Excellence"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Master Engine Machinist", 
+            "Type": "Advanced", 
+            "Certification ID": "0062", 
+            "Certifying Organization": "National Institute for Automotive Service Excellence"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Truck Electronic Diesel Engine Diagnosis Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "5224", 
+            "Certifying Organization": "National Institute for Automotive Service Excellence"
+        }, 
+        {
+            "Acronym": "CNG", 
+            "Certification Name": "Transit Bus - Compressed Natural Gas (CNG) Engines  (H1)", 
+            "Type": "Specialty", 
+            "Certification ID": "7742", 
+            "Certifying Organization": "National Institute for Automotive Service Excellence"
+        }, 
+        {
+            "Acronym": "H2", 
+            "Certification Name": "Transit Bus - Diesel Engines (H2)", 
+            "Type": "Specialty", 
+            "Certification ID": "7743", 
+            "Certifying Organization": "National Institute for Automotive Service Excellence"
+        }, 
+        {
+            "Acronym": "PMI", 
+            "Certification Name": "Transit Bus - Preventive Maintenance and Inspection (PMI) (H8)", 
+            "Type": "Specialty", 
+            "Certification ID": "7746", 
+            "Certifying Organization": "National Institute for Automotive Service Excellence"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Medium/Heavy Truck Technician: Suspension and Steering", 
+            "Type": "Specialty", 
+            "Certification ID": "5240", 
+            "Certifying Organization": "National Institute for Automotive Service Excellence"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Medium/Heavy Truck Technician: Preventive Maintenance Inspection", 
+            "Type": "Specialty", 
+            "Certification ID": "5243", 
+            "Certifying Organization": "National Institute for Automotive Service Excellence"
+        }, 
+        {
+            "Acronym": "Gas or Diesel", 
+            "Certification Name": "Engine Machinist Technician: Assembly Specialist (Gas or Diesel)", 
+            "Type": "Specialty", 
+            "Certification ID": "5258", 
+            "Certifying Organization": "National Institute for Automotive Service Excellence"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Electronic Diesel Engine Diagnosis Specialist Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "7739", 
+            "Certifying Organization": "National Institute for Automotive Service Excellence"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Medium/Heavy Truck Technician: Gasoline Engines", 
+            "Type": "Specialty", 
+            "Certification ID": "5236", 
+            "Certifying Organization": "National Institute for Automotive Service Excellence"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Medium/Heavy Truck Technician: Diesel Engines", 
+            "Type": "Specialty", 
+            "Certification ID": "5237", 
+            "Certifying Organization": "National Institute for Automotive Service Excellence"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Medium/Heavy Truck Technician: Brakes", 
+            "Type": "Specialty", 
+            "Certification ID": "5239", 
+            "Certifying Organization": "National Institute for Automotive Service Excellence"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Transit Bus Technician: Diesel Engines", 
+            "Type": "Core", 
+            "Certification ID": "8619", 
+            "Certifying Organization": "National Institute for Automotive Service Excellence"
+        }, 
+        {
+            "Acronym": "Gas or Diesel", 
+            "Certification Name": "Engine Machinist Technician: Cylinder Head Specialist (Gas or Diesel)", 
+            "Type": "Specialty", 
+            "Certification ID": "0026", 
+            "Certifying Organization": "National Institute for Automotive Service Excellence"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Advanced Engine Performance Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "7738", 
+            "Certifying Organization": "National Institute for Automotive Service Excellence"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "School Bus Technician: Diesel Engines", 
+            "Type": "Specialty", 
+            "Certification ID": "5252", 
+            "Certifying Organization": "National Institute for Automotive Service Excellence"
+        }, 
+        {
+            "Acronym": "Gas or Diesel", 
+            "Certification Name": "Engine Machinist Technician: Cylinder Block Specialist (Gas or Diesel)", 
+            "Type": "Specialty", 
+            "Certification ID": "0042", 
+            "Certifying Organization": "National Institute for Automotive Service Excellence"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Master School Bus Technician", 
+            "Type": "Advanced", 
+            "Certification ID": "5228", 
+            "Certifying Organization": "National Institute for Automotive Service Excellence"
+        }
+    ], 
+    "onet": "49303100"
+}

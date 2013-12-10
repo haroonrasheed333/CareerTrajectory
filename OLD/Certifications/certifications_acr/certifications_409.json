@@ -1,0 +1,152 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CWcHP", 
+            "Certification Name": "Certified Workers Compensation Healthcare Provider", 
+            "Type": "Core", 
+            "Certification ID": "8949", 
+            "Certifying Organization": "International Sports Professionals Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Senior Fitness Specialty Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "9113", 
+            "Certifying Organization": "American Council on Exercise"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Occupational Therapy: Physical Rehabilitation", 
+            "Type": "Specialty", 
+            "Certification ID": "6453", 
+            "Certifying Organization": "American Occupational Therapy Association, Inc."
+        }, 
+        {
+            "Acronym": "MES", 
+            "Certification Name": "Medical Exercise Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "1058", 
+            "Certifying Organization": "American Academy of Health, Fitness, & Rehabilitation Professionals"
+        }, 
+        {
+            "Acronym": "CWA", 
+            "Certification Name": "Certified Work Adjustment Specialist", 
+            "Type": "Core", 
+            "Certification ID": "5818", 
+            "Certifying Organization": "Commission on Rehabilitation Counselor Certification"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Occupational Therapy: Mental Health", 
+            "Type": "Specialty", 
+            "Certification ID": "6451", 
+            "Certifying Organization": "American Occupational Therapy Association, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Occupational Therapy: Low Vision", 
+            "Type": "Specialty", 
+            "Certification ID": "6457", 
+            "Certifying Organization": "American Occupational Therapy Association, Inc."
+        }, 
+        {
+            "Acronym": "BCN", 
+            "Certification Name": "Board Certified in Neurofeedback", 
+            "Type": "Specialty", 
+            "Certification ID": "6711", 
+            "Certifying Organization": "Biofeedback Certification International Alliance"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Technician Certification in Biofeedback", 
+            "Type": "Specialty", 
+            "Certification ID": "6716", 
+            "Certifying Organization": "Biofeedback Certification International Alliance"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Occupational Therapy: Gerontology", 
+            "Type": "Specialty", 
+            "Certification ID": "6450", 
+            "Certifying Organization": "American Occupational Therapy Association, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Orthopedic Exercise Specialty Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "9111", 
+            "Certifying Organization": "American Council on Exercise"
+        }, 
+        {
+            "Acronym": "CHT", 
+            "Certification Name": "Certified Hand Therapist", 
+            "Type": "Specialty", 
+            "Certification ID": "2270", 
+            "Certifying Organization": "Hand Therapy Certification Commission, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Occupational Therapy: Environmental Modification", 
+            "Type": "Specialty", 
+            "Certification ID": "6455", 
+            "Certifying Organization": "American Occupational Therapy Association, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Technician Certification in Neurofeedback", 
+            "Type": "Specialty", 
+            "Certification ID": "6715", 
+            "Certifying Organization": "Biofeedback Certification International Alliance"
+        }, 
+        {
+            "Acronym": "COMT", 
+            "Certification Name": "Certification in Orthopedic Manual Therapy", 
+            "Type": "Advanced", 
+            "Certification ID": "9529", 
+            "Certifying Organization": "International Academy of Orthopedic Medicine - US"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Therapeutic Exercise Specialty Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "9112", 
+            "Certifying Organization": "American Council on Exercise"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Occupational Therapy: Pediatrics", 
+            "Type": "Specialty", 
+            "Certification ID": "6452", 
+            "Certifying Organization": "American Occupational Therapy Association, Inc."
+        }, 
+        {
+            "Acronym": "OTR", 
+            "Certification Name": "Occupational Therapist Registered", 
+            "Type": "Core", 
+            "Certification ID": "0319", 
+            "Certifying Organization": "National Board for Certification in Occupational Therapy, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Occupational Therapy: Driving and Community Mobility", 
+            "Type": "Specialty", 
+            "Certification ID": "6454", 
+            "Certifying Organization": "American Occupational Therapy Association, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Occupational Therapy: Feeding, Eating, and Swallowing", 
+            "Type": "Specialty", 
+            "Certification ID": "6456", 
+            "Certifying Organization": "American Occupational Therapy Association, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Board Certified in Pelvic Muscle Dysfunction Biofeedback", 
+            "Type": "Specialty", 
+            "Certification ID": "4022", 
+            "Certifying Organization": "Biofeedback Certification International Alliance"
+        }
+    ], 
+    "onet": "29112200"
+}

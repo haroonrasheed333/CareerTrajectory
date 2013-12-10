@@ -1,0 +1,33 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CJAP", 
+            "Certification Name": "Certified Jewelry Arts Professional", 
+            "Type": "Core", 
+            "Certification ID": "6785", 
+            "Certifying Organization": "American Gem Society"
+        }, 
+        {
+            "Acronym": "CSA", 
+            "Certification Name": "Certified Sales Associate", 
+            "Type": "Core", 
+            "Certification ID": "6784", 
+            "Certifying Organization": "American Gem Society"
+        }, 
+        {
+            "Acronym": "CGA", 
+            "Certification Name": "Certified Gemologist Appraiser", 
+            "Type": "Advanced", 
+            "Certification ID": "2504", 
+            "Certifying Organization": "American Gem Society"
+        }, 
+        {
+            "Acronym": "CG", 
+            "Certification Name": "Certified Gemologist", 
+            "Type": "Advanced", 
+            "Certification ID": "2503", 
+            "Certifying Organization": "American Gem Society"
+        }
+    ], 
+    "onet": "51907106"
+}

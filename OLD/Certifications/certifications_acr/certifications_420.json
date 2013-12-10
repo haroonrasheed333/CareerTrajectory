@@ -1,0 +1,159 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CVPM", 
+            "Certification Name": "Certified Veterinary Practice Manager", 
+            "Type": "Core", 
+            "Certification ID": "6066", 
+            "Certifying Organization": "Veterinary  Hospital Managers Association, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Diplomate, American College of Theriogenologists", 
+            "Type": "Specialty", 
+            "Certification ID": "2066", 
+            "Certifying Organization": "American College of Theriogenologists"
+        }, 
+        {
+            "Acronym": "DACZM", 
+            "Certification Name": "Certification in Zoological Medicine", 
+            "Type": "Specialty", 
+            "Certification ID": "0582", 
+            "Certifying Organization": "American College of Zoological Medicine"
+        }, 
+        {
+            "Acronym": "DACVA", 
+            "Certification Name": "Diplomate, American College of  Veterinary Anesthesiology", 
+            "Type": "Specialty", 
+            "Certification ID": "1209", 
+            "Certifying Organization": "American College of Veterinary Anesthesiologists"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification in Veterinary Dentistry", 
+            "Type": "Specialty", 
+            "Certification ID": "1316", 
+            "Certifying Organization": "American Veterinary Dental College"
+        }, 
+        {
+            "Acronym": "DACLAM", 
+            "Certification Name": "Diplomate, American College of Laboratory Animal Medicine", 
+            "Type": "Specialty", 
+            "Certification ID": "1485", 
+            "Certifying Organization": "American College of Laboratory Animal Medicine"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Animal Chiropractic Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "5977", 
+            "Certifying Organization": "American Veterinary Chiropractic Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Diplomate of the American College of Veterinary Microbiologists: Immunology", 
+            "Type": "Specialty", 
+            "Certification ID": "7967", 
+            "Certifying Organization": "American College of Veterinary Microbiologists"
+        }, 
+        {
+            "Acronym": "DACVO", 
+            "Certification Name": "Diplomate, American College of Veterinary Ophthalmologists", 
+            "Type": "Specialty", 
+            "Certification ID": "1484", 
+            "Certifying Organization": "American College of Veterinary Ophthalmologists"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Epidemiology Specialty", 
+            "Type": "Specialty", 
+            "Certification ID": "8202", 
+            "Certifying Organization": "American College of Veterinary Preventive Medicine"
+        }, 
+        {
+            "Acronym": "DACVS", 
+            "Certification Name": "Diplomate, American College of Veterinary Surgeons", 
+            "Type": "Specialty", 
+            "Certification ID": "1483", 
+            "Certifying Organization": "American College of Veterinary Surgeons"
+        }, 
+        {
+            "Acronym": "IAED/C", 
+            "Certification Name": "Certified Equine Dental Technician", 
+            "Type": "Specialty", 
+            "Certification ID": "2472", 
+            "Certifying Organization": "International Association of Equine Dentistry"
+        }, 
+        {
+            "Acronym": "VT", 
+            "Certification Name": "Board Certification in Veterinary Toxicology", 
+            "Type": "Specialty", 
+            "Certification ID": "1246", 
+            "Certifying Organization": "American Board of Veterinary Toxicology"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Veterinary Anatomic Pathology", 
+            "Type": "Advanced", 
+            "Certification ID": "8162", 
+            "Certifying Organization": "American College of Veterinary Pathologists"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Epidemiology Specialty", 
+            "Type": "Advanced", 
+            "Certification ID": "8202", 
+            "Certifying Organization": "American College of Veterinary Preventive Medicine"
+        }, 
+        {
+            "Acronym": "DVR", 
+            "Certification Name": "Veterinary Radiology", 
+            "Type": "Specialty", 
+            "Certification ID": "5637", 
+            "Certifying Organization": "American College of Veterinary Radiology"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Veterinary Clinical Pathologist", 
+            "Type": "Advanced", 
+            "Certification ID": "8163", 
+            "Certifying Organization": "American College of Veterinary Pathologists"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Diplomate of the American Board of Toxicology", 
+            "Type": "Advanced", 
+            "Certification ID": "5369", 
+            "Certifying Organization": "American Board of Toxicology, Inc."
+        }, 
+        {
+            "Acronym": "RO", 
+            "Certification Name": "Veterinary Radiation Oncology", 
+            "Type": "Specialty", 
+            "Certification ID": "5780", 
+            "Certifying Organization": "American College of Veterinary Radiology"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Diplomate of the American College of Veterinary Microbiologists: Bacteriology/Mycology", 
+            "Type": "Specialty", 
+            "Certification ID": "7966", 
+            "Certifying Organization": "American College of Veterinary Microbiologists"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Diplomate of the American College of Veterinary Microbiologists: Virology", 
+            "Type": "Specialty", 
+            "Certification ID": "7968", 
+            "Certifying Organization": "American College of Veterinary Microbiologists"
+        }, 
+        {
+            "Acronym": "DACVCP", 
+            "Certification Name": "Diplomate, American College of Veterinary Clinical Pharmacology", 
+            "Type": "Specialty", 
+            "Certification ID": "2065", 
+            "Certifying Organization": "American College of Veterinary Clinical Pharmacology"
+        }
+    ], 
+    "onet": "29113100"
+}

@@ -1,0 +1,33 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "FT", 
+            "Certification Name": "Fellow in Thanatology", 
+            "Type": "Specialty", 
+            "Certification ID": "3996", 
+            "Certifying Organization": "Association for Death Education and Counseling"
+        }, 
+        {
+            "Acronym": "CT", 
+            "Certification Name": "Certified In Thanatology", 
+            "Type": "Advanced", 
+            "Certification ID": "3566", 
+            "Certifying Organization": "Association for Death Education and Counseling"
+        }, 
+        {
+            "Acronym": "CFSP", 
+            "Certification Name": "Certified Funeral Service Practitioner", 
+            "Type": "Advanced", 
+            "Certification ID": "7645", 
+            "Certifying Organization": "Academy of Professional Funeral Service Practice"
+        }, 
+        {
+            "Acronym": "CPC", 
+            "Certification Name": "Certified Preplanning Consultant", 
+            "Type": "Core", 
+            "Certification ID": "5662", 
+            "Certifying Organization": "National Funeral Directors Association"
+        }
+    ], 
+    "onet": "11906100"
+}

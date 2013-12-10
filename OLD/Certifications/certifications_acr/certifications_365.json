@@ -1,0 +1,40 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Adobe Premiere Pro CS6", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8726", 
+            "Certifying Organization": "Adobe Systems Incorporated"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Avid Certified Support Representative for Workgroups", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8537", 
+            "Certifying Organization": "Avid Technology, Inc."
+        }, 
+        {
+            "Acronym": "NCRW", 
+            "Certification Name": "Nationally Certified Resume Writer", 
+            "Type": "Advanced", 
+            "Certification ID": "2071", 
+            "Certifying Organization": "National Resume Writers Association"
+        }, 
+        {
+            "Acronym": "CMPP", 
+            "Certification Name": "Certified Medical Publication Professional", 
+            "Type": "Specialty", 
+            "Certification ID": "7453", 
+            "Certifying Organization": "International Society for Medical Publication Professionals"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Avid Certified Support Representative for Editing", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8536", 
+            "Certifying Organization": "Avid Technology, Inc."
+        }
+    ], 
+    "onet": "27304100"
+}

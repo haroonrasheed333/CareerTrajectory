@@ -1,0 +1,54 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "IRRSP", 
+            "Certification Name": "Industrial Radiography Radiation Safety Personnel - X-Ray", 
+            "Type": "Specialty", 
+            "Certification ID": "7910", 
+            "Certifying Organization": "American Society for Nondestructive Testing"
+        }, 
+        {
+            "Acronym": "ANDE", 
+            "Certification Name": "NDE/QC Personnel Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "8187", 
+            "Certifying Organization": "American Society of Mechanical Engineers International"
+        }, 
+        {
+            "Acronym": "WSO-CST", 
+            "Certification Name": "WSO - Certified Safety Technician", 
+            "Type": "Specialty", 
+            "Certification ID": "0999", 
+            "Certifying Organization": "World Safety Organization"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Registered Radiation Protection Technologist", 
+            "Type": "Core", 
+            "Certification ID": "5579", 
+            "Certifying Organization": "National Registry of Radiation Protection Technologists"
+        }, 
+        {
+            "Acronym": "IRRSP", 
+            "Certification Name": "Industry Radiography Radiation Safety Personnel", 
+            "Type": "Specialty", 
+            "Certification ID": "2202", 
+            "Certifying Organization": "American Society for Nondestructive Testing"
+        }, 
+        {
+            "Acronym": "WSO-CGET", 
+            "Certification Name": "WSO - Certified Governmental Environmental Technician", 
+            "Type": "Core", 
+            "Certification ID": "1005", 
+            "Certifying Organization": "World Safety Organization"
+        }, 
+        {
+            "Acronym": "IRRSP", 
+            "Certification Name": "Industrial Radiography Radiation Safety Personnel - Radioactive Materials", 
+            "Type": "Specialty", 
+            "Certification ID": "7909", 
+            "Certifying Organization": "American Society for Nondestructive Testing"
+        }
+    ], 
+    "onet": "19405102"
+}

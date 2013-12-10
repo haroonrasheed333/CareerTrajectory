@@ -1,0 +1,47 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Clinical Cytogenetics", 
+            "Type": "Specialty", 
+            "Certification ID": "0191", 
+            "Certifying Organization": "American Board of Medical Genetics"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Clinical Biochemical Genetics", 
+            "Type": "Specialty", 
+            "Certification ID": "0190", 
+            "Certifying Organization": "American Board of Medical Genetics"
+        }, 
+        {
+            "Acronym": "MB", 
+            "Certification Name": "Technologist in Molecular Biology", 
+            "Type": "Advanced", 
+            "Certification ID": "6311", 
+            "Certifying Organization": "American Society for Clinical Pathology"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Clinical Molecular Genetics", 
+            "Type": "Specialty", 
+            "Certification ID": "0193", 
+            "Certifying Organization": "American Board of Medical Genetics"
+        }, 
+        {
+            "Acronym": "MB", 
+            "Certification Name": "International Technologist in Molecular Biology", 
+            "Type": "Core", 
+            "Certification ID": "6704", 
+            "Certifying Organization": "American Society for Clinical Pathology"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Molecular Diagnostics", 
+            "Type": "Advanced", 
+            "Certification ID": "2063", 
+            "Certifying Organization": "American Board of Clinical Chemistry"
+        }
+    ], 
+    "onet": "19102902"
+}

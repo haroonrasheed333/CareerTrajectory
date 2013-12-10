@@ -1,0 +1,96 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "CIP Level I", 
+            "Type": "Core", 
+            "Certification ID": "8104", 
+            "Certifying Organization": "NACE International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "CIP Level I Nuclear", 
+            "Type": "Specialty", 
+            "Certification ID": "8105", 
+            "Certifying Organization": "NACE International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "CIP Level 3 - Peer Review with Bridge", 
+            "Type": "Specialty", 
+            "Certification ID": "8113", 
+            "Certifying Organization": "NACE International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "API 510 Pressure Vessels Inspector Certification", 
+            "Type": "Core", 
+            "Certification ID": "5265", 
+            "Certifying Organization": "American Petroleum Institute"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "CIP Level 3", 
+            "Type": "Core", 
+            "Certification ID": "9347", 
+            "Certifying Organization": "NACE International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "CIP Level 2 with Marine and Bridge Specialties", 
+            "Type": "Specialty", 
+            "Certification ID": "8111", 
+            "Certifying Organization": "NACE International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "CIP Level 1 Nuclear", 
+            "Type": "Advanced", 
+            "Certification ID": "9349", 
+            "Certifying Organization": "NACE International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "API 570 Piping Inspector Certification", 
+            "Type": "Core", 
+            "Certification ID": "5266", 
+            "Certifying Organization": "American Petroleum Institute"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Protective Coating Technologist", 
+            "Type": "Core", 
+            "Certification ID": "8583", 
+            "Certifying Organization": "NACE International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "CIP Level 3 Nuclear", 
+            "Type": "Specialty", 
+            "Certification ID": "8115", 
+            "Certifying Organization": "NACE International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "CIP Level 3 - Peer Review with Marine", 
+            "Type": "Specialty", 
+            "Certification ID": "8114", 
+            "Certifying Organization": "NACE International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "CP2 Maritime", 
+            "Type": "Core", 
+            "Certification ID": "9348", 
+            "Certifying Organization": "NACE International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "CIP Level 3 - Peer Review", 
+            "Type": "Core", 
+            "Certification ID": "8112", 
+            "Certifying Organization": "NACE International"
+        }
+    ], 
+    "onet": "51901100"
+}

@@ -1,0 +1,215 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "ACS", 
+            "Certification Name": "Associate CET Senior", 
+            "Type": "Core", 
+            "Certification ID": "0511", 
+            "Certifying Organization": "International Society of Certified Electronics Technicians"
+        }, 
+        {
+            "Acronym": "CET", 
+            "Certification Name": "Certified Electronics Technician - Journeyman-Level - Medical", 
+            "Type": "Specialty", 
+            "Certification ID": "0509", 
+            "Certifying Organization": "International Society of Certified Electronics Technicians"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IPC-7721& IPC-7711 Rework, Repair, & Modification of Printed Boards & Electronic Assemblies", 
+            "Type": "Advanced", 
+            "Certification ID": "3481", 
+            "Certifying Organization": "Association Connecting Electronics Industries"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Aerospace Technician", 
+            "Type": "Advanced", 
+            "Certification ID": "5618", 
+            "Certifying Organization": "SpaceTEC"
+        }, 
+        {
+            "Acronym": "CCT", 
+            "Certification Name": "Certified Calibration Technician", 
+            "Type": "Core", 
+            "Certification ID": "3945", 
+            "Certifying Organization": "American Society for Quality"
+        }, 
+        {
+            "Acronym": "MST", 
+            "Certification Name": "Certified Electronics Technician - Journeyman-Level - Multimedia Systems Technician", 
+            "Type": "Specialty", 
+            "Certification ID": "9332", 
+            "Certifying Organization": "International Society of Certified Electronics Technicians"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IPC J-STD-001  Certification", 
+            "Type": "Core", 
+            "Certification ID": "7725", 
+            "Certifying Organization": "Institute of Interconnecting and Packaging Electronic Circuits"
+        }, 
+        {
+            "Acronym": "CET", 
+            "Certification Name": "Certified Electronics Technician - Journeyman-Level - Communications", 
+            "Type": "Specialty", 
+            "Certification ID": "0505", 
+            "Certifying Organization": "International Society of Certified Electronics Technicians"
+        }, 
+        {
+            "Acronym": "CETa", 
+            "Certification Name": "Associate Certified Electronics Technician", 
+            "Type": "Core", 
+            "Certification ID": "5346", 
+            "Certifying Organization": "ETA International"
+        }, 
+        {
+            "Acronym": "AET", 
+            "Certification Name": "Aircraft Electronics Technician", 
+            "Type": "Advanced", 
+            "Certification ID": "7874", 
+            "Certifying Organization": "National Center for Aerospace & Transportation Technologies"
+        }, 
+        {
+            "Acronym": "CET", 
+            "Certification Name": "Certified Electronics Technician - Journeyman-Level - Industrial", 
+            "Type": "Specialty", 
+            "Certification ID": "0508", 
+            "Certifying Organization": "International Society of Certified Electronics Technicians"
+        }, 
+        {
+            "Acronym": "CET", 
+            "Certification Name": "Certified Electronics Technician - Journeyman-Level - Radar", 
+            "Type": "Specialty", 
+            "Certification ID": "0510", 
+            "Certifying Organization": "International Society of Certified Electronics Technicians"
+        }, 
+        {
+            "Acronym": "LAS", 
+            "Certification Name": "Line and Antenna Sweeping", 
+            "Type": "Core", 
+            "Certification ID": "5810", 
+            "Certifying Organization": "ETA International"
+        }, 
+        {
+            "Acronym": "CET", 
+            "Certification Name": "Certified Electronics Technician - Associate-Level", 
+            "Type": "Specialty", 
+            "Certification ID": "0503", 
+            "Certifying Organization": "International Society of Certified Electronics Technicians"
+        }, 
+        {
+            "Acronym": "AVD", 
+            "Certification Name": "Certified Audio Video Distribution Technician", 
+            "Type": "Core", 
+            "Certification ID": "3038", 
+            "Certifying Organization": "ETA International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IPC Certification Using IPC-7711 and IPC 7721", 
+            "Type": "Core", 
+            "Certification ID": "7722", 
+            "Certifying Organization": "Institute of Interconnecting and Packaging Electronic Circuits"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IPC-A-600 Acceptability of Printed Boards", 
+            "Type": "Core", 
+            "Certification ID": "7723", 
+            "Certifying Organization": "Institute of Interconnecting and Packaging Electronic Circuits"
+        }, 
+        {
+            "Acronym": "FOIC", 
+            "Certification Name": "Fiber Optics Installer", 
+            "Type": "Specialty", 
+            "Certification ID": "0518", 
+            "Certifying Organization": "ETA International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "PMMI Mechatronics: Industrial Electricity 2", 
+            "Type": "Core", 
+            "Certification ID": "9507", 
+            "Certifying Organization": "Packaging Machinery Manufacturing Institute"
+        }, 
+        {
+            "Acronym": "CMRT", 
+            "Certification Name": "Certified Maintenance and Reliability Technician", 
+            "Type": "Core", 
+            "Certification ID": "9059", 
+            "Certifying Organization": "Society for Maintenance & Reliability Professionals"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Industrial Instrumentation - Level I", 
+            "Type": "Core", 
+            "Certification ID": "5384", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "PMMI Mechatronics: Industrial Electricity 1", 
+            "Type": "Core", 
+            "Certification ID": "9506", 
+            "Certifying Organization": "Packaging Machinery Manufacturing Institute"
+        }, 
+        {
+            "Acronym": "CCST", 
+            "Certification Name": "Certified Control Systems Technician   Level I", 
+            "Type": "Core", 
+            "Certification ID": "1107", 
+            "Certifying Organization": "International Society of Automation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IPC-A-610 Acceptability of Electronics Assemblies Certification", 
+            "Type": "Core", 
+            "Certification ID": "7724", 
+            "Certifying Organization": "Institute of Interconnecting and Packaging Electronic Circuits"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified National Appliance Service Technician - Basic Skills", 
+            "Type": "Core", 
+            "Certification ID": "9333", 
+            "Certifying Organization": "International Society of Certified Electronics Technicians"
+        }, 
+        {
+            "Acronym": "CET", 
+            "Certification Name": "Certified Electronics Technician - Journeyman-Level - Computer", 
+            "Type": "Specialty", 
+            "Certification ID": "0506", 
+            "Certifying Organization": "International Society of Certified Electronics Technicians"
+        }, 
+        {
+            "Acronym": "CFPS", 
+            "Certification Name": "Fluid Power Electronic Controls Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "2611", 
+            "Certifying Organization": "International Fluid Power Society"
+        }, 
+        {
+            "Acronym": "ESA", 
+            "Certification Name": "Certified Electronics Systems Associate", 
+            "Type": "Core", 
+            "Certification ID": "0504", 
+            "Certifying Organization": "International Society of Certified Electronics Technicians"
+        }, 
+        {
+            "Acronym": "FOTC", 
+            "Certification Name": "Fiber Optics Technician", 
+            "Type": "Specialty", 
+            "Certification ID": "0519", 
+            "Certifying Organization": "ETA International"
+        }, 
+        {
+            "Acronym": "RAD", 
+            "Certification Name": "RADAR Electronics Technician", 
+            "Type": "Advanced", 
+            "Certification ID": "4367", 
+            "Certifying Organization": "ETA International"
+        }
+    ], 
+    "onet": "49209400"
+}

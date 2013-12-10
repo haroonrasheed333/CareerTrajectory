@@ -1,0 +1,89 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "EPA Section 608 Certification", 
+            "Type": "Core", 
+            "Certification ID": "9058", 
+            "Certifying Organization": "Air Conditioning Contractors of America"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Graduate Technician", 
+            "Type": "Core", 
+            "Certification ID": "6948", 
+            "Certifying Organization": "Professional Service Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Appliance Professional Master Technician", 
+            "Type": "Advanced", 
+            "Certification ID": "6946", 
+            "Certifying Organization": "Professional Service Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified National Appliance Service Technician - Cooking", 
+            "Type": "Core", 
+            "Certification ID": "4664", 
+            "Certifying Organization": "International Society of Certified Electronics Technicians"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified National Appliance Service Technician - Laundry and Dishwashing", 
+            "Type": "Core", 
+            "Certification ID": "4665", 
+            "Certifying Organization": "International Society of Certified Electronics Technicians"
+        }, 
+        {
+            "Acronym": "CKBI", 
+            "Certification Name": "Certified Kitchen & Bathroom Installer", 
+            "Type": "Core", 
+            "Certification ID": "2217", 
+            "Certifying Organization": "National Kitchen & Bath Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Apple iLife and iWork Associate Certification", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "6281", 
+            "Certifying Organization": "Apple Computer, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Service Manager", 
+            "Type": "Core", 
+            "Certification ID": "6950", 
+            "Certifying Organization": "Professional Service Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Technician", 
+            "Type": "Advanced", 
+            "Certification ID": "6947", 
+            "Certifying Organization": "Professional Service Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Journeyman Air Conditioning & Refrigeration", 
+            "Type": "Core", 
+            "Certification ID": "5636", 
+            "Certifying Organization": "National Inspection, Testing and Certification Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Universal R-410A Certification", 
+            "Type": "Core", 
+            "Certification ID": "8642", 
+            "Certifying Organization": "HVAC Excellence "
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified National Appliance Service Technician - Universal Technician", 
+            "Type": "Core", 
+            "Certification ID": "4666", 
+            "Certifying Organization": "International Society of Certified Electronics Technicians"
+        }
+    ], 
+    "onet": "49903100"
+}

@@ -1,0 +1,26 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CDS", 
+            "Certification Name": "Certified Director of Safety", 
+            "Type": "Advanced", 
+            "Certification ID": "3999", 
+            "Certifying Organization": "North American Transportation Management Institute"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Safety Supervisor", 
+            "Type": "Advanced", 
+            "Certification ID": "4001", 
+            "Certifying Organization": "North American Transportation Management Institute"
+        }, 
+        {
+            "Acronym": "CCSP", 
+            "Certification Name": "Certified Cargo Security Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "4007", 
+            "Certifying Organization": "North American Transportation Management Institute"
+        }
+    ], 
+    "onet": "53605108"
+}

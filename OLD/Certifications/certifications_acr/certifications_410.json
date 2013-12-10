@@ -1,0 +1,26 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CLVT", 
+            "Certification Name": "Certified Low Vision Therapists", 
+            "Type": "Specialty", 
+            "Certification ID": "5887", 
+            "Certifying Organization": "Academy for Certification of Vision Rehabilitation and Education Professionals"
+        }, 
+        {
+            "Acronym": "CVRT", 
+            "Certification Name": "Certified Vision Rehabilitation Therapist", 
+            "Type": "Core", 
+            "Certification ID": "5889", 
+            "Certifying Organization": "Academy for Certification of Vision Rehabilitation and Education Professionals"
+        }, 
+        {
+            "Acronym": "COMS", 
+            "Certification Name": "Certified Orientation and Mobility Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "5888", 
+            "Certifying Organization": "Academy for Certification of Vision Rehabilitation and Education Professionals"
+        }
+    ], 
+    "onet": "29112201"
+}

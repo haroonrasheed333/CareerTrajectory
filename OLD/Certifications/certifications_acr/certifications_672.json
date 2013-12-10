@@ -1,0 +1,40 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "RWC", 
+            "Certification Name": "Registered Waterproofing Consultant", 
+            "Type": "Core", 
+            "Certification ID": "4868", 
+            "Certifying Organization": "Roof Consultants Institute"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Installer", 
+            "Type": "Core", 
+            "Certification ID": "7329", 
+            "Certifying Organization": "Vinyl Siding Institute"
+        }, 
+        {
+            "Acronym": "RRO", 
+            "Certification Name": "Registered Roof Observer", 
+            "Type": "Core", 
+            "Certification ID": "2390", 
+            "Certifying Organization": "Roof Consultants Institute"
+        }, 
+        {
+            "Acronym": "CERTA", 
+            "Certification Name": "Certified Roofing Torch Applicator", 
+            "Type": "Specialty", 
+            "Certification ID": "9056", 
+            "Certifying Organization": "National Roofing Contractors Association"
+        }, 
+        {
+            "Acronym": "RRC", 
+            "Certification Name": "Registered Roof Consultant", 
+            "Type": "Core", 
+            "Certification ID": "2389", 
+            "Certifying Organization": "Roof Consultants Institute"
+        }
+    ], 
+    "onet": "47218100"
+}

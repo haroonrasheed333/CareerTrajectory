@@ -1,0 +1,117 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Inspection and Testing of Water-Based Systems I", 
+            "Type": "Advanced", 
+            "Certification ID": "5382", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Special Hazards Suppression Systems I", 
+            "Type": "Specialty", 
+            "Certification ID": "5383", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Special Hazards Suppression Systems III", 
+            "Type": "Specialty", 
+            "Certification ID": "9098", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "CFPS", 
+            "Certification Name": "Certified Fire Protection Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "1023", 
+            "Certifying Organization": "National Fire Protection Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Inspection and Testing of Water-Based Systems III", 
+            "Type": "Advanced", 
+            "Certification ID": "9096", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "FM", 
+            "Certification Name": "Certified Fire Marshall", 
+            "Type": "Advanced", 
+            "Certification ID": "6909", 
+            "Certifying Organization": "International Code Council"
+        }, 
+        {
+            "Acronym": "CHCM", 
+            "Certification Name": "Certified Hazard Control Manager", 
+            "Type": "Specialty", 
+            "Certification ID": "7878", 
+            "Certifying Organization": "International Board for Certification of Safety Managers"
+        }, 
+        {
+            "Acronym": "WSO-CSSD", 
+            "Certification Name": "WSO - Certified Safety & Security Director", 
+            "Type": "Advanced", 
+            "Certification ID": "0998", 
+            "Certifying Organization": "World Safety Organization"
+        }, 
+        {
+            "Acronym": "CHSP", 
+            "Certification Name": "Certified Healthcare Safety Professional", 
+            "Type": "Specialty", 
+            "Certification ID": "0662", 
+            "Certifying Organization": "International Board for Certification of Safety Managers"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Special Hazards Suppression Systems II", 
+            "Type": "Specialty", 
+            "Certification ID": "9097", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "CHSP-FSM", 
+            "Certification Name": "Certified Healthcare Safety Professional - Fire Safety Management", 
+            "Type": "Advanced", 
+            "Certification ID": "8579", 
+            "Certifying Organization": "International Board for Certification of Safety Managers"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Special Hazards Suppression Systems IV", 
+            "Type": "Specialty", 
+            "Certification ID": "9099", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "CPOI", 
+            "Certification Name": "Certified Protection Officer Instructor", 
+            "Type": "Advanced", 
+            "Certification ID": "7664", 
+            "Certifying Organization": "International Foundation for Protection Officers"
+        }, 
+        {
+            "Acronym": "WSO-CSM", 
+            "Certification Name": "WSO - Certified Safety Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "0996", 
+            "Certifying Organization": "World Safety Organization"
+        }, 
+        {
+            "Acronym": "WSO-CSS", 
+            "Certification Name": "WSO - Certified Safety Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "0997", 
+            "Certifying Organization": "World Safety Organization"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Inspection and Testing of Water-Based Systems II", 
+            "Type": "Advanced", 
+            "Certification ID": "9095", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }
+    ], 
+    "onet": "17211102"
+}

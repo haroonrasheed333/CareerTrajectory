@@ -1,0 +1,159 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CCT", 
+            "Certification Name": "Certified Compliance Technician", 
+            "Type": "Core", 
+            "Certification ID": "9237", 
+            "Certifying Organization": "American Association of Healthcare Administrative Management"
+        }, 
+        {
+            "Acronym": "CSTD", 
+            "Certification Name": "SES Standards Professional Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "3556", 
+            "Certifying Organization": "Standards Engineering Society"
+        }, 
+        {
+            "Acronym": "CCCS", 
+            "Certification Name": "Certified Consumer Compliance Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "8805", 
+            "Certifying Organization": "Conference of State Bank Supervisors"
+        }, 
+        {
+            "Acronym": "CHC", 
+            "Certification Name": "Certified in Health Care Compliance", 
+            "Type": "Specialty", 
+            "Certification ID": "6026", 
+            "Certifying Organization": "Health Care Compliance Association"
+        }, 
+        {
+            "Acronym": "CCCS", 
+            "Certification Name": "Certified Consumer Compliance Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "6903", 
+            "Certifying Organization": "Education Foundation of State Bank Supervisors"
+        }, 
+        {
+            "Acronym": "CCBCO", 
+            "Certification Name": "Certified Community Bank Compliance Officer", 
+            "Type": "Core", 
+            "Certification ID": "9240", 
+            "Certifying Organization": "Independent Community Bankers of America"
+        }, 
+        {
+            "Acronym": "CHPS", 
+            "Certification Name": "Certified in Healthcare Privacy and Security", 
+            "Type": "Advanced", 
+            "Certification ID": "6302", 
+            "Certifying Organization": "American Health Information Management Association"
+        }, 
+        {
+            "Acronym": "IRB", 
+            "Certification Name": "Certification for Institutional Review Board (IRB) Professionals", 
+            "Type": "Advanced", 
+            "Certification ID": "6872", 
+            "Certifying Organization": "Public Responsibility in Medicine and Research"
+        }, 
+        {
+            "Acronym": "CUCE", 
+            "Certification Name": "Credit Union Compliance Expert", 
+            "Type": "Advanced", 
+            "Certification ID": "9233", 
+            "Certifying Organization": "Credit Union National Association"
+        }, 
+        {
+            "Acronym": "CUSECO", 
+            "Certification Name": "Certified U.S. Export Compliance Officer", 
+            "Type": "Advanced", 
+            "Certification ID": "5195", 
+            "Certifying Organization": "IIEI Certification"
+        }, 
+        {
+            "Acronym": "FHC", 
+            "Certification Name": "Fair Housing Compliance", 
+            "Type": "Core", 
+            "Certification ID": "4788", 
+            "Certifying Organization": "National Affordable Housing Management Association"
+        }, 
+        {
+            "Acronym": "CPCO", 
+            "Certification Name": "Certified Professional Compliance Officer", 
+            "Type": "Core", 
+            "Certification ID": "6752", 
+            "Certifying Organization": "American Academy of Professional Coders"
+        }, 
+        {
+            "Acronym": "CFCP", 
+            "Certification Name": "Certified FISMA Compliance Practitioner", 
+            "Type": "Core", 
+            "Certification ID": "6330", 
+            "Certifying Organization": "Federal Information Security Management Act Center"
+        }, 
+        {
+            "Acronym": "CRCM", 
+            "Certification Name": "Certified Refrigeration Compliance Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "4840", 
+            "Certifying Organization": "National Registry of Environmental Professionals"
+        }, 
+        {
+            "Acronym": "CPIA", 
+            "Certification Name": "Certified Professional IACUC Administrator", 
+            "Type": "Advanced", 
+            "Certification ID": "6873", 
+            "Certifying Organization": "Public Responsibility in Medicine and Research"
+        }, 
+        {
+            "Acronym": "CHBME", 
+            "Certification Name": "Certified Healthcare Billing and Management Executive", 
+            "Type": "Core", 
+            "Certification ID": "9528", 
+            "Certifying Organization": "Healthcare Billing & Management Association"
+        }, 
+        {
+            "Acronym": "CRCM", 
+            "Certification Name": "Certified Regulatory Compliance Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "1549", 
+            "Certifying Organization": "Institute of Certified Bankers"
+        }, 
+        {
+            "Acronym": "CHRC", 
+            "Certification Name": "Healthcare Research Compliance Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "6027", 
+            "Certifying Organization": "Health Care Compliance Association"
+        }, 
+        {
+            "Acronym": "RCA", 
+            "Certification Name": "Responsible Care Auditor", 
+            "Type": "Advanced", 
+            "Certification ID": "6263", 
+            "Certifying Organization": "Board of Environmental Health and Safety Auditor Certification"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Chartered Compliance Analyst", 
+            "Type": "Advanced", 
+            "Certification ID": "7923", 
+            "Certifying Organization": "American Academy of Financial Management"
+        }, 
+        {
+            "Acronym": "CPMA", 
+            "Certification Name": "Certified Professional Medical Auditor", 
+            "Type": "Specialty", 
+            "Certification ID": "6751", 
+            "Certifying Organization": "American Academy of Professional Coders"
+        }, 
+        {
+            "Acronym": "AIRC", 
+            "Certification Name": "Associate, Insurance Regulatory Compliance", 
+            "Type": "Core", 
+            "Certification ID": "8225", 
+            "Certifying Organization": "LOMA"
+        }
+    ], 
+    "onet": "11919902"
+}

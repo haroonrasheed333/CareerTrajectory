@@ -1,0 +1,40 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "RPLU", 
+            "Certification Name": "Registered Professional Liability Underwriter", 
+            "Type": "Advanced", 
+            "Certification ID": "2327", 
+            "Certifying Organization": "Professional Liability Underwriting Society"
+        }, 
+        {
+            "Acronym": "CFS", 
+            "Certification Name": "Certified Fund Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "9021", 
+            "Certifying Organization": "Institute of Business & Finance"
+        }, 
+        {
+            "Acronym": "CRU", 
+            "Certification Name": "Certified Residential Underwriter", 
+            "Type": "Core", 
+            "Certification ID": "1374", 
+            "Certifying Organization": "Mortgage Bankers Association of America"
+        }, 
+        {
+            "Acronym": "AU", 
+            "Certification Name": "Associate in Commercial Underwriting", 
+            "Type": "Core", 
+            "Certification ID": "0471", 
+            "Certifying Organization": "The Institutes"
+        }, 
+        {
+            "Acronym": "CIS", 
+            "Certification Name": "Certified Income Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "9025", 
+            "Certifying Organization": "Institute of Business & Finance"
+        }
+    ], 
+    "onet": "13209903"
+}

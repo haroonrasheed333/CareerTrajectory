@@ -1,0 +1,124 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "MCR", 
+            "Certification Name": "Master Certified Remodeler", 
+            "Type": "Advanced", 
+            "Certification ID": "6062", 
+            "Certifying Organization": "National Association of the Remodeling Industry"
+        }, 
+        {
+            "Acronym": "CRS", 
+            "Certification Name": "Certified Remodeler Specialist", 
+            "Type": "Advanced", 
+            "Certification ID": "6815", 
+            "Certifying Organization": "National Association of the Remodeling Industry"
+        }, 
+        {
+            "Acronym": "CKE", 
+            "Certification Name": "Certified Kitchen Educator", 
+            "Type": "Core", 
+            "Certification ID": "5719", 
+            "Certifying Organization": "National Kitchen & Bath Association"
+        }, 
+        {
+            "Acronym": "CKBR", 
+            "Certification Name": "Certified Kitchen and Bath Remodeler", 
+            "Type": "Specialty", 
+            "Certification ID": "6067", 
+            "Certifying Organization": "National Association of the Remodeling Industry"
+        }, 
+        {
+            "Acronym": "CLMC", 
+            "Certification Name": "Certified Lighting Management Consultant", 
+            "Type": "Advanced", 
+            "Certification ID": "1773", 
+            "Certifying Organization": "International Association of Lighting Management Companies"
+        }, 
+        {
+            "Acronym": "CMKBD", 
+            "Certification Name": "Certified Master Kitchen & Bath Designer", 
+            "Type": "Advanced", 
+            "Certification ID": "2712", 
+            "Certifying Organization": "National Kitchen & Bath Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Lighting Associate", 
+            "Type": "Core", 
+            "Certification ID": "3342", 
+            "Certifying Organization": "American Lighting Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "ALA Lighting Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "0840", 
+            "Certifying Organization": "American Lighting Association"
+        }, 
+        {
+            "Acronym": "CBD", 
+            "Certification Name": "Certified Bath Designer", 
+            "Type": "Core", 
+            "Certification ID": "2215", 
+            "Certifying Organization": "National Kitchen & Bath Association"
+        }, 
+        {
+            "Acronym": "CBE", 
+            "Certification Name": "Certified Bathroom Educator", 
+            "Type": "Core", 
+            "Certification ID": "5720", 
+            "Certifying Organization": "National Kitchen & Bath Association"
+        }, 
+        {
+            "Acronym": "CKD", 
+            "Certification Name": "Certified Kitchen Designer", 
+            "Type": "Core", 
+            "Certification ID": "2214", 
+            "Certifying Organization": "National Kitchen & Bath Association"
+        }, 
+        {
+            "Acronym": "AKBD", 
+            "Certification Name": "Associate Kitchen & Bath Designer", 
+            "Type": "Core", 
+            "Certification ID": "2711", 
+            "Certifying Organization": "National Kitchen & Bath Association"
+        }, 
+        {
+            "Acronym": "CLC", 
+            "Certification Name": "ALA Certified Lighting Consultant", 
+            "Type": "Advanced", 
+            "Certification ID": "0535", 
+            "Certifying Organization": "American Lighting Association"
+        }, 
+        {
+            "Acronym": "CR", 
+            "Certification Name": "Certified Remodeler", 
+            "Type": "Advanced", 
+            "Certification ID": "6064", 
+            "Certifying Organization": "National Association of the Remodeling Industry"
+        }, 
+        {
+            "Acronym": "CRA", 
+            "Certification Name": "Certified Remodeler Associate", 
+            "Type": "Advanced", 
+            "Certification ID": "6816", 
+            "Certifying Organization": "National Association of the Remodeling Industry"
+        }, 
+        {
+            "Acronym": "UDCR", 
+            "Certification Name": "Universal Design Certified Remodeler", 
+            "Type": "Core", 
+            "Certification ID": "6069", 
+            "Certifying Organization": "National Association of the Remodeling Industry"
+        }, 
+        {
+            "Acronym": "NCIDQ", 
+            "Certification Name": "National Council for Interior Design Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "0348", 
+            "Certifying Organization": "National Council for Interior Design Qualification"
+        }
+    ], 
+    "onet": "27102500"
+}

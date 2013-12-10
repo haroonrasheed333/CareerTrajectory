@@ -1,0 +1,40 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CMC", 
+            "Certification Name": "Certified Mortgage Consultant", 
+            "Type": "Advanced", 
+            "Certification ID": "6061", 
+            "Certifying Organization": "National Association of Mortgage Brokers"
+        }, 
+        {
+            "Acronym": "GMA", 
+            "Certification Name": "General Mortgage Associate", 
+            "Type": "Core", 
+            "Certification ID": "6059", 
+            "Certifying Organization": "National Association of Mortgage Brokers"
+        }, 
+        {
+            "Acronym": "AMP", 
+            "Certification Name": "Accredited Mortgage Professional", 
+            "Type": "Core", 
+            "Certification ID": "5821", 
+            "Certifying Organization": "Mortgage Bankers Association of America"
+        }, 
+        {
+            "Acronym": "CRMS", 
+            "Certification Name": "Certified Residential Mortgage Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "6060", 
+            "Certifying Organization": "National Association of Mortgage Brokers"
+        }, 
+        {
+            "Acronym": "CFI", 
+            "Certification Name": "Certified Forensic Interviewer", 
+            "Type": "Core", 
+            "Certification ID": "5337", 
+            "Certifying Organization": "Certified Forensic Interviewer"
+        }
+    ], 
+    "onet": "43413100"
+}

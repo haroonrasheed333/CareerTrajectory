@@ -1,0 +1,40 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CFE", 
+            "Certification Name": "Certified Fraud Examiner", 
+            "Type": "Core", 
+            "Certification ID": "1245", 
+            "Certifying Organization": "Association of Certified Fraud Examiners"
+        }, 
+        {
+            "Acronym": "CHSP", 
+            "Certification Name": "Certified Healthcare Safety Professional", 
+            "Type": "Specialty", 
+            "Certification ID": "0662", 
+            "Certifying Organization": "International Board for Certification of Safety Managers"
+        }, 
+        {
+            "Acronym": "LPC", 
+            "Certification Name": "Loss Prevention Certified", 
+            "Type": "Advanced", 
+            "Certification ID": "8946", 
+            "Certifying Organization": "Loss Prevention Foundation"
+        }, 
+        {
+            "Acronym": "CPP", 
+            "Certification Name": "Certified Protection Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "1477", 
+            "Certifying Organization": "ASIS"
+        }, 
+        {
+            "Acronym": "WLS", 
+            "Certification Name": "Water Loss Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "5852", 
+            "Certifying Organization": "Restoration Industry Association"
+        }
+    ], 
+    "onet": "11919908"
+}

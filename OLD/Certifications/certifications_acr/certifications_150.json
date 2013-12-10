@@ -1,0 +1,82 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Composites Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "9172", 
+            "Certifying Organization": "SpaceTEC"
+        }, 
+        {
+            "Acronym": "CRE", 
+            "Certification Name": "Certified Reliability Engineer", 
+            "Type": "Advanced", 
+            "Certification ID": "0792", 
+            "Certifying Organization": "American Society for Quality"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Vehicle Processing Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "9170", 
+            "Certifying Organization": "SpaceTEC"
+        }, 
+        {
+            "Acronym": "CVS", 
+            "Certification Name": "Certified Value Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "1324", 
+            "Certifying Organization": "Society of American Value Engineers"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Aerospace Manufacturing Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "9171", 
+            "Certifying Organization": "SpaceTEC"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification in Aerospace Physiology", 
+            "Type": "Advanced", 
+            "Certification ID": "8819", 
+            "Certifying Organization": "Aerospace Medical Association"
+        }, 
+        {
+            "Acronym": "AVS", 
+            "Certification Name": "Associate Value Specialist", 
+            "Type": "Core", 
+            "Certification ID": "1325", 
+            "Certifying Organization": "Society of American Value Engineers"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Diplomate of the American Board of Toxicology", 
+            "Type": "Advanced", 
+            "Certification ID": "5369", 
+            "Certifying Organization": "American Board of Toxicology, Inc."
+        }, 
+        {
+            "Acronym": "HBDP", 
+            "Certification Name": "High-Performance Building Design", 
+            "Type": "Advanced", 
+            "Certification ID": "5847", 
+            "Certifying Organization": "American Society of Heating, Refrigerating and Air-Conditioning Engineers"
+        }, 
+        {
+            "Acronym": "GDTP", 
+            "Certification Name": "Geometric Dimensioning & Tolerancing Professional - Technologist", 
+            "Type": "Advanced", 
+            "Certification ID": "2153", 
+            "Certifying Organization": "American Society of Mechanical Engineers International"
+        }, 
+        {
+            "Acronym": "FAB", 
+            "Certification Name": "Aerospace Fiber Optics Fabricator", 
+            "Type": "Advanced", 
+            "Certification ID": "6838", 
+            "Certifying Organization": "ETA International"
+        }
+    ], 
+    "onet": "17201100"
+}

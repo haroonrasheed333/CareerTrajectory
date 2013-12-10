@@ -1,0 +1,530 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Collection Systems - Technical Associate", 
+            "Type": "Core", 
+            "Certification ID": "3725", 
+            "Certifying Organization": "Solid Waste Association of North America"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Construction & Demolition Materials - Technical Associate", 
+            "Type": "Core", 
+            "Certification ID": "3727", 
+            "Certifying Organization": "Solid Waste Association of North America"
+        }, 
+        {
+            "Acronym": "OHST", 
+            "Certification Name": "Occupational Health and Safety Technologist", 
+            "Type": "Core", 
+            "Certification ID": "8102", 
+            "Certifying Organization": "Board of Certified Safety Professionals"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Wastewater Lab Analyst Class II", 
+            "Type": "Core", 
+            "Certification ID": "8155", 
+            "Certifying Organization": "Association of Boards of Certification"
+        }, 
+        {
+            "Acronym": "WSO-RSD", 
+            "Certification Name": "Registered Safety Director", 
+            "Type": "Advanced", 
+            "Certification ID": "6850", 
+            "Certifying Organization": "World Safety Organization"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Transfer Station Systems - Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "1470", 
+            "Certifying Organization": "Solid Waste Association of North America"
+        }, 
+        {
+            "Acronym": "IRRSP", 
+            "Certification Name": "Industrial Radiography Radiation Safety Personnel - X-Ray", 
+            "Type": "Specialty", 
+            "Certification ID": "7910", 
+            "Certifying Organization": "American Society for Nondestructive Testing"
+        }, 
+        {
+            "Acronym": "CEA", 
+            "Certification Name": "Certified Environmental Auditor", 
+            "Type": "Advanced", 
+            "Certification ID": "1117", 
+            "Certifying Organization": "National Registry of Environmental Professionals"
+        }, 
+        {
+            "Acronym": "CHMM", 
+            "Certification Name": "Certified Hazardous Materials Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "0920", 
+            "Certifying Organization": "Institute of Hazardous Materials Management"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Wastewater Lab Analyst Class I", 
+            "Type": "Core", 
+            "Certification ID": "7857", 
+            "Certifying Organization": "Association of Boards of Certification"
+        }, 
+        {
+            "Acronym": "CFPS", 
+            "Certification Name": "Certified Fire Protection Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "1023", 
+            "Certifying Organization": "National Fire Protection Association"
+        }, 
+        {
+            "Acronym": "RAC", 
+            "Certification Name": "Regulatory Affairs Certification - US", 
+            "Type": "Advanced", 
+            "Certification ID": "6103", 
+            "Certifying Organization": "Regulatory Affairs Professionals Society"
+        }, 
+        {
+            "Acronym": "MOLO", 
+            "Certification Name": "Landfill Operations - Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "1462", 
+            "Certifying Organization": "Solid Waste Association of North America"
+        }, 
+        {
+            "Acronym": "CIAQM", 
+            "Certification Name": "Certified Indoor Air Quality Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "3516", 
+            "Certifying Organization": "National Registry of Environmental Professionals"
+        }, 
+        {
+            "Acronym": "CMP", 
+            "Certification Name": "Certified Mold Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "4011", 
+            "Certifying Organization": "Restoration Industry Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Environmental Analytical Technician", 
+            "Type": "Core", 
+            "Certification ID": "3719", 
+            "Certifying Organization": "National Registry of Certified Chemists"
+        }, 
+        {
+            "Acronym": "RHSS", 
+            "Certification Name": "Registered Hazardous Substances Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "0125", 
+            "Certifying Organization": "National Environmental Health Association"
+        }, 
+        {
+            "Acronym": "CSP", 
+            "Certification Name": "Certified Safety Professional", 
+            "Type": "Core", 
+            "Certification ID": "7853", 
+            "Certifying Organization": "Board of Certified Safety Professionals"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Wastewater Lab Analyst Class IV", 
+            "Type": "Core", 
+            "Certification ID": "8157", 
+            "Certifying Organization": "Association of Boards of Certification"
+        }, 
+        {
+            "Acronym": "REM", 
+            "Certification Name": "Registered Environmental Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "1115", 
+            "Certifying Organization": "National Registry of Environmental Professionals"
+        }, 
+        {
+            "Acronym": "CWS", 
+            "Certification Name": "Certified Water Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "7690", 
+            "Certifying Organization": "Water Quality Association"
+        }, 
+        {
+            "Acronym": "MWR", 
+            "Certification Name": "Master Water Restorer", 
+            "Type": "Advanced", 
+            "Certification ID": "2346", 
+            "Certifying Organization": "Institute of Inspection Cleaning and Restoration Certification"
+        }, 
+        {
+            "Acronym": "EPI", 
+            "Certification Name": "Environmental Professional Intern", 
+            "Type": "Core", 
+            "Certification ID": "1126", 
+            "Certifying Organization": "Institute of Professional Environmental Practice"
+        }, 
+        {
+            "Acronym": "RET", 
+            "Certification Name": "Registered Environmental Technician", 
+            "Type": "Core", 
+            "Certification ID": "0126", 
+            "Certifying Organization": "National Environmental Health Association"
+        }, 
+        {
+            "Acronym": "CHMP", 
+            "Certification Name": "Certified Hazardous Materials Practitioner", 
+            "Type": "Core", 
+            "Certification ID": "6032", 
+            "Certifying Organization": "Institute of Hazardous Materials Management"
+        }, 
+        {
+            "Acronym": "BEAC, MS", 
+            "Certification Name": "Management System", 
+            "Type": "Advanced", 
+            "Certification ID": "3671", 
+            "Certifying Organization": "Board of Environmental Health and Safety Auditor Certification"
+        }, 
+        {
+            "Acronym": "EC", 
+            "Certification Name": "Environmental Compliance Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "3672", 
+            "Certifying Organization": "Board of Environmental Health and Safety Auditor Certification"
+        }, 
+        {
+            "Acronym": "CET/CIT", 
+            "Certification Name": "Certified Environmental, Safety and Health Trainer / Certified Instructional Technologist", 
+            "Type": "Advanced", 
+            "Certification ID": "8640", 
+            "Certifying Organization": "Board of Certified Safety Professionals"
+        }, 
+        {
+            "Acronym": "CEP", 
+            "Certification Name": "Certified Environmental Professional:  Environmental Assessment", 
+            "Type": "Advanced", 
+            "Certification ID": "5829", 
+            "Certifying Organization": "Academy of Board Certified Environmental Professionals"
+        }, 
+        {
+            "Acronym": "REPA", 
+            "Certification Name": "Registered Environmental Property Assessor", 
+            "Type": "Advanced", 
+            "Certification ID": "1118", 
+            "Certifying Organization": "National Registry of Environmental Professionals"
+        }, 
+        {
+            "Acronym": "AEP", 
+            "Certification Name": "Associate Environmental Professional", 
+            "Type": "Core", 
+            "Certification ID": "1116", 
+            "Certifying Organization": "National Registry of Environmental Professionals"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Integrated Solid Waste Management - Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "1465", 
+            "Certifying Organization": "Solid Waste Association of North America"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Water/Wastewater Plants - Level III", 
+            "Type": "Advanced", 
+            "Certification ID": "7844", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "NRPP", 
+            "Certification Name": "National Radon Proficiency Program", 
+            "Type": "Advanced", 
+            "Certification ID": "1122", 
+            "Certifying Organization": "The American Association of Radon Scientists and Technologists"
+        }, 
+        {
+            "Acronym": "CHEP", 
+            "Certification Name": "Certified Healthcare Emergency Professional", 
+            "Type": "Core", 
+            "Certification ID": "8581", 
+            "Certifying Organization": "International Board for Certification of Safety Managers"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Construction & Demolition Materials - Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "1466", 
+            "Certifying Organization": "Solid Waste Association of North America"
+        }, 
+        {
+            "Acronym": "CHST", 
+            "Certification Name": "Construction Health and Safety Technician", 
+            "Type": "Core", 
+            "Certification ID": "8101", 
+            "Certifying Organization": "Board of Certified Safety Professionals"
+        }, 
+        {
+            "Acronym": "WSO-CST", 
+            "Certification Name": "WSO - Certified Safety Technician", 
+            "Type": "Specialty", 
+            "Certification ID": "0999", 
+            "Certifying Organization": "World Safety Organization"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Water/Wastewater Plants - Level I", 
+            "Type": "Core", 
+            "Certification ID": "5352", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "CHSP", 
+            "Certification Name": "Certified Healthcare Safety Professional", 
+            "Type": "Specialty", 
+            "Certification ID": "0662", 
+            "Certifying Organization": "International Board for Certification of Safety Managers"
+        }, 
+        {
+            "Acronym": "MAS", 
+            "Certification Name": "Mold Awareness Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "6700", 
+            "Certifying Organization": "National Registry of Environmental Professionals"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Transfer Station Systems - Technical Associate", 
+            "Type": "Core", 
+            "Certification ID": "1471", 
+            "Certifying Organization": "Solid Waste Association of North America"
+        }, 
+        {
+            "Acronym": "MSW", 
+            "Certification Name": "Certified Integrated Solid Waste Management - Technical Associate", 
+            "Type": "Core", 
+            "Certification ID": "3726", 
+            "Certifying Organization": "Solid Waste Association of North America"
+        }, 
+        {
+            "Acronym": "VSMR", 
+            "Certification Name": "Ventilation System Mold Remediator", 
+            "Type": "Advanced", 
+            "Certification ID": "4791", 
+            "Certifying Organization": "National Air Ducts Cleaning Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Electron Microscopy Technologist", 
+            "Type": "Advanced", 
+            "Certification ID": "5398", 
+            "Certifying Organization": "Microscopy Society of America"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Registered Radiation Protection Technologist", 
+            "Type": "Core", 
+            "Certification ID": "5579", 
+            "Certifying Organization": "National Registry of Radiation Protection Technologists"
+        }, 
+        {
+            "Acronym": "CPH", 
+            "Certification Name": "Certified in Public Health", 
+            "Type": "Specialty", 
+            "Certification ID": "6078", 
+            "Certifying Organization": "National Board of Public Health Examiners"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Environmental Analytical Chemist", 
+            "Type": "Advanced", 
+            "Certification ID": "3718", 
+            "Certifying Organization": "National Registry of Certified Chemists"
+        }, 
+        {
+            "Acronym": "REHS/RS", 
+            "Certification Name": "Registered Environmental Health Specialist/Registered Sanitarian", 
+            "Type": "Specialty", 
+            "Certification ID": "0122", 
+            "Certifying Organization": "National Environmental Health Association"
+        }, 
+        {
+            "Acronym": "RELT", 
+            "Certification Name": "Registered Environmental Laboratory Technologist", 
+            "Type": "Advanced", 
+            "Certification ID": "3518", 
+            "Certifying Organization": "National Registry of Environmental Professionals"
+        }, 
+        {
+            "Acronym": "CES", 
+            "Certification Name": "Certified Environmental Scientist", 
+            "Type": "Core", 
+            "Certification ID": "6699", 
+            "Certifying Organization": "National Registry of Environmental Professionals"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Recycling Systems - Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "1469", 
+            "Certifying Organization": "Solid Waste Association of North America"
+        }, 
+        {
+            "Acronym": "CSHM", 
+            "Certification Name": "Certified Safety and Health Manager", 
+            "Type": "Specialty", 
+            "Certification ID": "2149", 
+            "Certifying Organization": "Institute for Safety and Health Management"
+        }, 
+        {
+            "Acronym": "RMT", 
+            "Certification Name": "Radon Measurement Technician", 
+            "Type": "Core", 
+            "Certification ID": "2161", 
+            "Certifying Organization": "National Radon Safety Board"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Water/Wastewater Plants - Level II", 
+            "Type": "Advanced", 
+            "Certification ID": "7843", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Water/Wastewater Plants - Level IV", 
+            "Type": "Advanced", 
+            "Certification ID": "7845", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "CR", 
+            "Certification Name": "Certified Restorer", 
+            "Type": "Advanced", 
+            "Certification ID": "4012", 
+            "Certifying Organization": "Restoration Industry Association"
+        }, 
+        {
+            "Acronym": "RCA", 
+            "Certification Name": "Responsible Care Auditor", 
+            "Type": "Advanced", 
+            "Certification ID": "6263", 
+            "Certifying Organization": "Board of Environmental Health and Safety Auditor Certification"
+        }, 
+        {
+            "Acronym": "RRS", 
+            "Certification Name": "Radon Mitigation Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "2163", 
+            "Certifying Organization": "National Radon Safety Board"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Wastewater Lab Analyst Class III", 
+            "Type": "Core", 
+            "Certification ID": "8156", 
+            "Certifying Organization": "Association of Boards of Certification"
+        }, 
+        {
+            "Acronym": "WSO-CGET", 
+            "Certification Name": "WSO - Certified Governmental Environmental Technician", 
+            "Type": "Core", 
+            "Certification ID": "1005", 
+            "Certifying Organization": "World Safety Organization"
+        }, 
+        {
+            "Acronym": "MRS", 
+            "Certification Name": "Mold Removal Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "9439", 
+            "Certifying Organization": "Institute of Inspection Cleaning and Restoration Certification"
+        }, 
+        {
+            "Acronym": "JWR", 
+            "Certification Name": "Journeyman Water Restorer", 
+            "Type": "Advanced", 
+            "Certification ID": "9440", 
+            "Certifying Organization": "Institute of Inspection Cleaning and Restoration Certification"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Water Lab Analyst Class I", 
+            "Type": "Core", 
+            "Certification ID": "1850", 
+            "Certifying Organization": "Association of Boards of Certification"
+        }, 
+        {
+            "Acronym": "IRRSP", 
+            "Certification Name": "Industrial Radiography Radiation Safety Personnel - Radioactive Materials", 
+            "Type": "Specialty", 
+            "Certification ID": "7909", 
+            "Certifying Organization": "American Society for Nondestructive Testing"
+        }, 
+        {
+            "Acronym": "RMS", 
+            "Certification Name": "Radon Measurement Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "2162", 
+            "Certifying Organization": "National Radon Safety Board"
+        }, 
+        {
+            "Acronym": "ND", 
+            "Certification Name": "LEED AP Neighborhood Development", 
+            "Type": "Advanced", 
+            "Certification ID": "6274", 
+            "Certifying Organization": "Green Building Certification Institute"
+        }, 
+        {
+            "Acronym": "CGWP", 
+            "Certification Name": "Certified Ground Water Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "2294", 
+            "Certifying Organization": "National Ground Water Association"
+        }, 
+        {
+            "Acronym": "STS", 
+            "Certification Name": "Safety Trained Supervisor", 
+            "Type": "Advanced", 
+            "Certification ID": "5878", 
+            "Certifying Organization": "International Board for Certification of Safety Managers"
+        }, 
+        {
+            "Acronym": "RHMMC", 
+            "Certification Name": "Registered Hazardous and Chemical Materials Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "3517", 
+            "Certifying Organization": "National Registry of Environmental Professionals"
+        }, 
+        {
+            "Acronym": "CIET", 
+            "Certification Name": "Certified Industrial Environmental Toxicologist", 
+            "Type": "Advanced", 
+            "Certification ID": "3519", 
+            "Certifying Organization": "National Registry of Environmental Professionals"
+        }, 
+        {
+            "Acronym": "JSR", 
+            "Certification Name": "Journeyman Fire & Smoke Restorer", 
+            "Type": "Specialty", 
+            "Certification ID": "2351", 
+            "Certifying Organization": "Institute of Inspection Cleaning and Restoration Certification"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Landfill Operations - Technical Associate", 
+            "Type": "Core", 
+            "Certification ID": "1464", 
+            "Certifying Organization": "Solid Waste Association of North America"
+        }, 
+        {
+            "Acronym": "HHS", 
+            "Certification Name": "Healthy Homes Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "7638", 
+            "Certifying Organization": "National Environmental Health Association"
+        }, 
+        {
+            "Acronym": "CWT", 
+            "Certification Name": "Certified Water Technologist", 
+            "Type": "Advanced", 
+            "Certification ID": "5592", 
+            "Certifying Organization": "Association of Water Technologies"
+        }
+    ], 
+    "onet": "19409100"
+}

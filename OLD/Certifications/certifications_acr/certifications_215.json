@@ -1,0 +1,33 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CFS", 
+            "Certification Name": "Certified Food Scientist", 
+            "Type": "Advanced", 
+            "Certification ID": "9020", 
+            "Certifying Organization": "Institute of Food Technologists"
+        }, 
+        {
+            "Acronym": "AAC", 
+            "Certification Name": "Accredited Agricultural Consultant", 
+            "Type": "Advanced", 
+            "Certification ID": "0449", 
+            "Certifying Organization": "American Society of Farm Managers and Rural Appraisers"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Food Safety Manager Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "3647", 
+            "Certifying Organization": "National Registry of Food Safety Professionals"
+        }, 
+        {
+            "Acronym": "CP-FS", 
+            "Certification Name": "Certified Professional - Food Safety", 
+            "Type": "Core", 
+            "Certification ID": "0349", 
+            "Certifying Organization": "National Environmental Health Association"
+        }
+    ], 
+    "onet": "19101200"
+}

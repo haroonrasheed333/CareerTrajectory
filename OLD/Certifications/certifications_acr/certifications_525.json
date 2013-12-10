@@ -1,0 +1,19 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Coffee Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "1214", 
+            "Certifying Organization": "National Automatic Merchandising Association"
+        }, 
+        {
+            "Acronym": "CPCE", 
+            "Certification Name": "Certified Professional Catering Executive", 
+            "Type": "Advanced", 
+            "Certification ID": "8147", 
+            "Certifying Organization": "National Association of Catering Executives"
+        }
+    ], 
+    "onet": "35302100"
+}

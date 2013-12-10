@@ -1,0 +1,19 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "PRC", 
+            "Certification Name": "Professional Researcher Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "6045", 
+            "Certifying Organization": "Marketing Research Association\u00a0"
+        }, 
+        {
+            "Acronym": "CFI", 
+            "Certification Name": "Certified Forensic Interviewer", 
+            "Type": "Core", 
+            "Certification ID": "5337", 
+            "Certifying Organization": "Certified Forensic Interviewer"
+        }
+    ], 
+    "onet": "19302200"
+}

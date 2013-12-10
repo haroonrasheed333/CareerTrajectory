@@ -1,0 +1,75 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "FPC", 
+            "Certification Name": "Fisheries Professional Certified", 
+            "Type": "Advanced", 
+            "Certification ID": "8046", 
+            "Certifying Organization": "American Fisheries Society"
+        }, 
+        {
+            "Acronym": "PWS", 
+            "Certification Name": "Professional Wetland Scientist", 
+            "Type": "Advanced", 
+            "Certification ID": "1033", 
+            "Certifying Organization": "Society of Wetland Scientists"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Associate Certified Entomologist", 
+            "Type": "Core", 
+            "Certification ID": "4371", 
+            "Certifying Organization": "Entomological Society of America"
+        }, 
+        {
+            "Acronym": "BCE", 
+            "Certification Name": "Board Certified Entomologist", 
+            "Type": "Advanced", 
+            "Certification ID": "9038", 
+            "Certifying Organization": "ESA Certification Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Diplomate of the ACVPM", 
+            "Type": "Specialty", 
+            "Certification ID": "5631", 
+            "Certifying Organization": "American College of Veterinary Preventive Medicine"
+        }, 
+        {
+            "Acronym": "BCE", 
+            "Certification Name": "Board Certified Entomologist", 
+            "Type": "Advanced", 
+            "Certification ID": "1772", 
+            "Certifying Organization": "Entomological Society of America"
+        }, 
+        {
+            "Acronym": "WPIT", 
+            "Certification Name": "Wetland Professional in Training", 
+            "Type": "Advanced", 
+            "Certification ID": "1034", 
+            "Certifying Organization": "Society of Wetland Scientists"
+        }, 
+        {
+            "Acronym": "CES", 
+            "Certification Name": "Certified Environmental Scientist", 
+            "Type": "Core", 
+            "Certification ID": "6699", 
+            "Certifying Organization": "National Registry of Environmental Professionals"
+        }, 
+        {
+            "Acronym": "CMAR", 
+            "Certification Name": "Certified Manager of Animal Resources", 
+            "Type": "Advanced", 
+            "Certification ID": "4572", 
+            "Certifying Organization": "Institute of Certified Professional Managers"
+        }, 
+        {
+            "Acronym": "FPE", 
+            "Certification Name": "Fisheries Professional Emeritus", 
+            "Type": "Advanced", 
+            "Certification ID": "8047", 
+            "Certifying Organization": "American Fisheries Society"
+        }
+    ], 
+    "onet": "19102300"
+}

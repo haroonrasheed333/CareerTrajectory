@@ -1,0 +1,19 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CVLE", 
+            "Certification Name": "Certified Vehicle Leasing Executive", 
+            "Type": "Advanced", 
+            "Certification ID": "9055", 
+            "Certifying Organization": "National Vehicle Leasing Association"
+        }, 
+        {
+            "Acronym": "CERP", 
+            "Certification Name": "Certified Event Rental Professional", 
+            "Type": "Core", 
+            "Certification ID": "8944", 
+            "Certifying Organization": "American Rental Association"
+        }
+    ], 
+    "onet": "41202100"
+}

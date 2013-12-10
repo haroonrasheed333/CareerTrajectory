@@ -1,0 +1,47 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CFSSP", 
+            "Certification Name": "Certified Financial Services Security Professional", 
+            "Type": "Specialty", 
+            "Certification ID": "1550", 
+            "Certifying Organization": "Institute of Certified Bankers"
+        }, 
+        {
+            "Acronym": "ACTAR,", 
+            "Certification Name": "Accredited Accident Reconstructionist", 
+            "Type": "Advanced", 
+            "Certification ID": "3592", 
+            "Certifying Organization": "The Accreditation Commission for Traffic Accident Reconstruction "
+        }, 
+        {
+            "Acronym": "CFE", 
+            "Certification Name": "Certified Fraud Examiner", 
+            "Type": "Core", 
+            "Certification ID": "1245", 
+            "Certifying Organization": "Association of Certified Fraud Examiners"
+        }, 
+        {
+            "Acronym": "CPP", 
+            "Certification Name": "Certified Protection Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "1477", 
+            "Certifying Organization": "ASIS"
+        }, 
+        {
+            "Acronym": "CPO", 
+            "Certification Name": "Certified Protection Officer", 
+            "Type": "Core", 
+            "Certification ID": "2251", 
+            "Certifying Organization": "International Foundation for Protection Officers"
+        }, 
+        {
+            "Acronym": "CCO", 
+            "Certification Name": "Certified Confidentiality Officer", 
+            "Type": "Advanced", 
+            "Certification ID": "3544", 
+            "Certifying Organization": "Business Espionage Controls and Countermeasures Association "
+        }
+    ], 
+    "onet": "33902100"
+}

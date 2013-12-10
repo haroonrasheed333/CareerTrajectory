@@ -1,0 +1,61 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CPAg", 
+            "Certification Name": "Certified Professional Agronomist", 
+            "Type": "Core", 
+            "Certification ID": "1964", 
+            "Certifying Organization": "American Society of Agronomy - ARCPACS"
+        }, 
+        {
+            "Acronym": "CPH", 
+            "Certification Name": "Certified Professional Horticulturist", 
+            "Type": "Advanced", 
+            "Certification ID": "8942", 
+            "Certifying Organization": "American Society for Horticultural Science"
+        }, 
+        {
+            "Acronym": "APH", 
+            "Certification Name": "Associate Professional Horticulturist", 
+            "Type": "Core", 
+            "Certification ID": "8943", 
+            "Certifying Organization": "American Society for Horticultural Science"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Landscape Industry Certified Technician - Exterior", 
+            "Type": "Specialty", 
+            "Certification ID": "0094", 
+            "Certifying Organization": "Professional Landcare Network"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Landscape Industry Certified Horticultural Technician", 
+            "Type": "Core", 
+            "Certification ID": "0092", 
+            "Certifying Organization": "Professional Landcare Network"
+        }, 
+        {
+            "Acronym": "CAIS", 
+            "Certification Name": "Certified Agricultural Irrigation Specialist", 
+            "Type": "Core", 
+            "Certification ID": "1457", 
+            "Certifying Organization": "Irrigation Association"
+        }, 
+        {
+            "Acronym": "CCA", 
+            "Certification Name": "Certified Crop Advisor", 
+            "Type": "Core", 
+            "Certification ID": "1963", 
+            "Certifying Organization": "American Society of Agronomy - ARCPACS"
+        }, 
+        {
+            "Acronym": "CIC", 
+            "Certification Name": "Certified Irrigation Contractor", 
+            "Type": "Core", 
+            "Certification ID": "1460", 
+            "Certifying Organization": "Irrigation Association"
+        }
+    ], 
+    "onet": "45101107"
+}

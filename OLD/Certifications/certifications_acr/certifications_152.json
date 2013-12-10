@@ -1,0 +1,54 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "BCLD", 
+            "Certification Name": "Bioanalysts Clinical Laboratory Director", 
+            "Type": "Specialty", 
+            "Certification ID": "7633", 
+            "Certifying Organization": "American Board of Bioanalysis"
+        }, 
+        {
+            "Acronym": "CRE", 
+            "Certification Name": "Certified Reliability Engineer", 
+            "Type": "Advanced", 
+            "Certification ID": "0792", 
+            "Certifying Organization": "American Society for Quality"
+        }, 
+        {
+            "Acronym": "BIET", 
+            "Certification Name": "Biomedical Imaging Equipment Technician", 
+            "Type": "Advanced", 
+            "Certification ID": "6825", 
+            "Certifying Organization": "ETA International"
+        }, 
+        {
+            "Acronym": "IRB", 
+            "Certification Name": "Certification for Institutional Review Board (IRB) Professionals", 
+            "Type": "Advanced", 
+            "Certification ID": "6872", 
+            "Certifying Organization": "Public Responsibility in Medicine and Research"
+        }, 
+        {
+            "Acronym": "CPIA", 
+            "Certification Name": "Certified Professional IACUC Administrator", 
+            "Type": "Advanced", 
+            "Certification ID": "6873", 
+            "Certifying Organization": "Public Responsibility in Medicine and Research"
+        }, 
+        {
+            "Acronym": "BMD", 
+            "Certification Name": "Biomedical Electronics Technician", 
+            "Type": "Specialty", 
+            "Certification ID": "0466", 
+            "Certifying Organization": "ETA International"
+        }, 
+        {
+            "Acronym": "CBA", 
+            "Certification Name": "Certified Biomedical Auditor", 
+            "Type": "Advanced", 
+            "Certification ID": "2603", 
+            "Certifying Organization": "American Society for Quality"
+        }
+    ], 
+    "onet": "17203100"
+}

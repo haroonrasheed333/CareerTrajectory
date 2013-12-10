@@ -1,0 +1,75 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Public Power Governance Certificate Program", 
+            "Type": "Core", 
+            "Certification ID": "9534", 
+            "Certifying Organization": "American Public Power Association"
+        }, 
+        {
+            "Acronym": "PTP", 
+            "Certification Name": "Professional Transportation Planner", 
+            "Type": "Advanced", 
+            "Certification ID": "6168", 
+            "Certifying Organization": "Transportation Professional Certification Board, Inc."
+        }, 
+        {
+            "Acronym": "CEcD", 
+            "Certification Name": "Certified Economic Developer", 
+            "Type": "Advanced", 
+            "Certification ID": "1220", 
+            "Certifying Organization": "International Economic Development Council"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Soils Special Inspector", 
+            "Type": "Advanced", 
+            "Certification ID": "4628", 
+            "Certifying Organization": "International Code Council"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Recycling Systems - Technical Associate", 
+            "Type": "Core", 
+            "Certification ID": "1472", 
+            "Certifying Organization": "Solid Waste Association of North America"
+        }, 
+        {
+            "Acronym": "HCCP", 
+            "Certification Name": "Housing Credit Certified Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "3798", 
+            "Certifying Organization": "National Association of Home Builders"
+        }, 
+        {
+            "Acronym": "ACIP CEP", 
+            "Certification Name": "Advanced Specialty Certification in Environmental Planning", 
+            "Type": "Specialty", 
+            "Certification ID": "9126", 
+            "Certifying Organization": "American Institute of Certified Planners"
+        }, 
+        {
+            "Acronym": "ZI", 
+            "Certification Name": "Zoning Inspector", 
+            "Type": "Core", 
+            "Certification ID": "3401", 
+            "Certifying Organization": "International Code Council"
+        }, 
+        {
+            "Acronym": "ND", 
+            "Certification Name": "LEED AP Neighborhood Development", 
+            "Type": "Advanced", 
+            "Certification ID": "6274", 
+            "Certifying Organization": "Green Building Certification Institute"
+        }, 
+        {
+            "Acronym": "AICP", 
+            "Certification Name": "Certified Planner", 
+            "Type": "Advanced", 
+            "Certification ID": "1327", 
+            "Certifying Organization": "American Institute of Certified Planners"
+        }
+    ], 
+    "onet": "19305100"
+}

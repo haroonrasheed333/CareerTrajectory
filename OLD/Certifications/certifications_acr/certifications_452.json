@@ -1,0 +1,61 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CPOC", 
+            "Certification Name": "Paraoptometric Coding Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "9490", 
+            "Certifying Organization": "Commission on Paraoptometric Certification"
+        }, 
+        {
+            "Acronym": "COT", 
+            "Certification Name": "Certified Ophthalmic Technician", 
+            "Type": "Core", 
+            "Certification ID": "1027", 
+            "Certifying Organization": "Joint Commission on Allied Health Personnel in Ophthalmology"
+        }, 
+        {
+            "Acronym": "CPOT", 
+            "Certification Name": "Certified Paraoptometric Technician - Practical", 
+            "Type": "Specialty", 
+            "Certification ID": "9489", 
+            "Certifying Organization": "Commission on Paraoptometric Certification"
+        }, 
+        {
+            "Acronym": "CPOA", 
+            "Certification Name": "Certified Paraoptometric Assistant", 
+            "Type": "Specialty", 
+            "Certification ID": "6006", 
+            "Certifying Organization": "Commission on Paraoptometric Certification"
+        }, 
+        {
+            "Acronym": "CPOT", 
+            "Certification Name": "Certified Paraoptometric Technician", 
+            "Type": "Specialty", 
+            "Certification ID": "6007", 
+            "Certifying Organization": "Commission on Paraoptometric Certification"
+        }, 
+        {
+            "Acronym": "NCLE-AC", 
+            "Certification Name": "National Contact Lens Examiners Advanced Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "3634", 
+            "Certifying Organization": "American Board of Opticianry  and the National Contact Lens Examiners"
+        }, 
+        {
+            "Acronym": "COMT", 
+            "Certification Name": "Certified Ophthalmic Medical Technologist", 
+            "Type": "Core", 
+            "Certification ID": "1028", 
+            "Certifying Organization": "Joint Commission on Allied Health Personnel in Ophthalmology"
+        }, 
+        {
+            "Acronym": "ROUB", 
+            "Certification Name": "Registered Ophthalmic Ultrasound Biometrist", 
+            "Type": "Specialty", 
+            "Certification ID": "4746", 
+            "Certifying Organization": "Joint Commission on Allied Health Personnel in Ophthalmology"
+        }
+    ], 
+    "onet": "29205700"
+}

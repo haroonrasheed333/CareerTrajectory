@@ -1,0 +1,159 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Diplomate", 
+            "Type": "Advanced", 
+            "Certification ID": "8842", 
+            "Certifying Organization": "National Board of Medical Examiners"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification in Internal Medicine/Physical Medicine & Rehabilitation", 
+            "Type": "Core", 
+            "Certification ID": "6427", 
+            "Certifying Organization": "American Board of Internal Medicine"
+        }, 
+        {
+            "Acronym": "PM&R-PM", 
+            "Certification Name": "Certification in Physical Medicine & Rehabilitation: Pain Medicine", 
+            "Type": "Specialty", 
+            "Certification ID": "2590", 
+            "Certifying Organization": "American Board of Physical Medicine & Rehabilitation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification in Physical Medicine & Rehabilitation: Hospice and Palliative Medicine", 
+            "Type": "Specialty", 
+            "Certification ID": "6439", 
+            "Certifying Organization": "American Board of Physical Medicine & Rehabilitation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification in Physical Medicine & Rehabilitation: Sports Medicine", 
+            "Type": "Core", 
+            "Certification ID": "6441", 
+            "Certifying Organization": "American Board of Physical Medicine & Rehabilitation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification in Physical Medicine & Rehabilitation", 
+            "Type": "Core", 
+            "Certification ID": "2561", 
+            "Certifying Organization": "American Osteopathic Board of Physical Medicine and Rehabilitation"
+        }, 
+        {
+            "Acronym": "PM&R-SCI", 
+            "Certification Name": "Certification in Physical Medicine & Rehabilitation: Spinal Cord Injury Medicine", 
+            "Type": "Specialty", 
+            "Certification ID": "0238", 
+            "Certifying Organization": "American Board of Physical Medicine & Rehabilitation"
+        }, 
+        {
+            "Acronym": "CNSC", 
+            "Certification Name": "Certified Nutrition Support Clinician", 
+            "Type": "Advanced", 
+            "Certification ID": "2437", 
+            "Certifying Organization": "National Board of Nutrition Support Certification, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Medical Biochemical Genetics", 
+            "Type": "Specialty", 
+            "Certification ID": "6433", 
+            "Certifying Organization": "American Board of Medical Genetics"
+        }, 
+        {
+            "Acronym": "CoAP", 
+            "Certification Name": "Cardiac CT Certificate of Advanced Proficiency", 
+            "Type": "Specialty", 
+            "Certification ID": "9491", 
+            "Certifying Organization": "American College of Radiology"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Neuromuscular Medicine", 
+            "Type": "Specialty", 
+            "Certification ID": "6440", 
+            "Certifying Organization": "American Board of Physical Medicine & Rehabilitation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Neural Repair and Rehabilitation Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "8666", 
+            "Certifying Organization": "United Council for Neurologic Subspecialties"
+        }, 
+        {
+            "Acronym": "CPE", 
+            "Certification Name": "Certified Physician Executive", 
+            "Type": "Specialty", 
+            "Certification ID": "9526", 
+            "Certifying Organization": "Certifying Commission in Medical Management"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Hospice and Palliative Medicine", 
+            "Type": "Specialty", 
+            "Certification ID": "6442", 
+            "Certifying Organization": "American Board of Surgery"
+        }, 
+        {
+            "Acronym": "MSCS", 
+            "Certification Name": "Multiple Sclerosis Certified Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "6875", 
+            "Certifying Organization": "The Consortium of Multiple Sclerosis Centers"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Orthopedic Exercise Specialty Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "9111", 
+            "Certifying Organization": "American Council on Exercise"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification in Physical Medicine & Rehabilitation", 
+            "Type": "Advanced", 
+            "Certification ID": "0237", 
+            "Certifying Organization": "American Board of Physical Medicine & Rehabilitation"
+        }, 
+        {
+            "Acronym": "PRM", 
+            "Certification Name": "Certification in Physical Medicine & Rehabilitation: Pediatric Rehabilitation Medicine", 
+            "Type": "Specialty", 
+            "Certification ID": "2591", 
+            "Certifying Organization": "American Board of Physical Medicine & Rehabilitation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification of Added Qualifications for Hospice and Palliative Medicine", 
+            "Type": "Specialty", 
+            "Certification ID": "6369", 
+            "Certifying Organization": "American Osteopathic Board of Physical Medicine and Rehabilitation"
+        }, 
+        {
+            "Acronym": "CPHQ", 
+            "Certification Name": "Certified Professional in Healthcare Quality", 
+            "Type": "Core", 
+            "Certification ID": "9207", 
+            "Certifying Organization": "National Association for Healthcare Quality"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification of Added Qualifications for Sports Medicine", 
+            "Type": "Core", 
+            "Certification ID": "6368", 
+            "Certifying Organization": "American Osteopathic Board of Physical Medicine and Rehabilitation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification of Added Qualifications for Hospice and Palliative Medicine", 
+            "Type": "Specialty", 
+            "Certification ID": "6413", 
+            "Certifying Organization": "American Osteopathic Board of Internal Medicine"
+        }
+    ], 
+    "onet": "29106908"
+}

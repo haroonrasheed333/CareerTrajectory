@@ -1,0 +1,40 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "MA", 
+            "Certification Name": "Mechanical Apprentice Drafter", 
+            "Type": "Core", 
+            "Certification ID": "8044", 
+            "Certifying Organization": "American Design Drafting Association/American Digital Design Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "LEED Green Associate", 
+            "Type": "Core", 
+            "Certification ID": "6025", 
+            "Certifying Organization": "Green Building Certification Institute"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IAPMO Mechanical Plans Examiner", 
+            "Type": "Advanced", 
+            "Certification ID": "6134", 
+            "Certifying Organization": "National Inspection, Testing and Certification Corporation"
+        }, 
+        {
+            "Acronym": "CD", 
+            "Certification Name": "Mechanical Certified Drafter", 
+            "Type": "Core", 
+            "Certification ID": "6164", 
+            "Certifying Organization": "American Design Drafting Association/American Digital Design Association"
+        }, 
+        {
+            "Acronym": "GDTP", 
+            "Certification Name": "Geometric Dimensioning & Tolerancing Professional - Technologist", 
+            "Type": "Advanced", 
+            "Certification ID": "2153", 
+            "Certifying Organization": "American Society of Mechanical Engineers International"
+        }
+    ], 
+    "onet": "17301300"
+}

@@ -1,0 +1,131 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "MCR", 
+            "Certification Name": "Master Certified Remodeler", 
+            "Type": "Advanced", 
+            "Certification ID": "6062", 
+            "Certifying Organization": "National Association of the Remodeling Industry"
+        }, 
+        {
+            "Acronym": "CRS", 
+            "Certification Name": "Certified Remodeler Specialist", 
+            "Type": "Advanced", 
+            "Certification ID": "6815", 
+            "Certifying Organization": "National Association of the Remodeling Industry"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Residential and Light Commercial Low Pressure Hydronic Heat Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "6150", 
+            "Certifying Organization": "HVAC Excellence "
+        }, 
+        {
+            "Acronym": "CKBR", 
+            "Certification Name": "Certified Kitchen and Bath Remodeler", 
+            "Type": "Specialty", 
+            "Certification ID": "6067", 
+            "Certifying Organization": "National Association of the Remodeling Industry"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Lighting Associate", 
+            "Type": "Core", 
+            "Certification ID": "3342", 
+            "Certifying Organization": "American Lighting Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Electric Heat Certification", 
+            "Type": "Core", 
+            "Certification ID": "6148", 
+            "Certifying Organization": "HVAC Excellence "
+        }, 
+        {
+            "Acronym": "6149", 
+            "Certification Name": "Oil Heat Certification", 
+            "Type": "Core", 
+            "Certification ID": "6149", 
+            "Certifying Organization": "HVAC Excellence "
+        }, 
+        {
+            "Acronym": "CBSE", 
+            "Certification Name": "Certified Building Service Executive", 
+            "Type": "Advanced", 
+            "Certification ID": "9463", 
+            "Certifying Organization": "Building Service Contractors Association International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Heat Pump Service Certification", 
+            "Type": "Core", 
+            "Certification ID": "6145", 
+            "Certifying Organization": "HVAC Excellence "
+        }, 
+        {
+            "Acronym": "O", 
+            "Certification Name": "LEED AP Operations & Maintenance", 
+            "Type": "Specialty", 
+            "Certification ID": "6273", 
+            "Certifying Organization": "Green Building Certification Institute"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Gas Heat Certification", 
+            "Type": "Core", 
+            "Certification ID": "6147", 
+            "Certifying Organization": "HVAC Excellence "
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Heat Pump Installer Certification", 
+            "Type": "Core", 
+            "Certification ID": "6146", 
+            "Certifying Organization": "HVAC Excellence "
+        }, 
+        {
+            "Acronym": "OMA", 
+            "Certification Name": "Oil Monitoring Analyst", 
+            "Type": "Core", 
+            "Certification ID": "2108", 
+            "Certifying Organization": "Society of Tribologists and Lubrication Engineers"
+        }, 
+        {
+            "Acronym": "CR", 
+            "Certification Name": "Certified Remodeler", 
+            "Type": "Advanced", 
+            "Certification ID": "6064", 
+            "Certifying Organization": "National Association of the Remodeling Industry"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Fenestration Installation Technician", 
+            "Type": "Core", 
+            "Certification ID": "8661", 
+            "Certifying Organization": "CSA Standards"
+        }, 
+        {
+            "Acronym": "CFPPT", 
+            "Certification Name": "Fluid Power Pneumatic Technician", 
+            "Type": "Advanced", 
+            "Certification ID": "0889", 
+            "Certifying Organization": "International Fluid Power Society"
+        }, 
+        {
+            "Acronym": "CRA", 
+            "Certification Name": "Certified Remodeler Associate", 
+            "Type": "Advanced", 
+            "Certification ID": "6816", 
+            "Certifying Organization": "National Association of the Remodeling Industry"
+        }, 
+        {
+            "Acronym": "UDCR", 
+            "Certification Name": "Universal Design Certified Remodeler", 
+            "Type": "Core", 
+            "Certification ID": "6069", 
+            "Certifying Organization": "National Association of the Remodeling Industry"
+        }
+    ], 
+    "onet": "49909800"
+}

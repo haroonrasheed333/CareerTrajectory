@@ -1,0 +1,26 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Master Engine Machinist", 
+            "Type": "Advanced", 
+            "Certification ID": "0062", 
+            "Certifying Organization": "National Institute for Automotive Service Excellence"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Machine Building Level II - Mechanical Assembly", 
+            "Type": "Advanced", 
+            "Certification ID": "3842", 
+            "Certifying Organization": "National Institute for Metalworking Skills "
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Machine Building Level III - Mechanical Assembly", 
+            "Type": "Advanced", 
+            "Certification ID": "3843", 
+            "Certifying Organization": "National Institute for Metalworking Skills "
+        }
+    ], 
+    "onet": "51203100"
+}

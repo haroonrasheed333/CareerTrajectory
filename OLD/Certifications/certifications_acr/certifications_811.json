@@ -1,0 +1,173 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CAMH", 
+            "Certification Name": "Certified Associate in Materials Handling", 
+            "Type": "Core", 
+            "Certification ID": "1429", 
+            "Certifying Organization": "Materials Handling and Management Society"
+        }, 
+        {
+            "Acronym": "CCAS", 
+            "Certification Name": "Certified Community Transit Supervisor", 
+            "Type": "Advanced", 
+            "Certification ID": "6191", 
+            "Certifying Organization": "Community Transportation Association of America"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Tower Crane", 
+            "Type": "Core", 
+            "Certification ID": "6989", 
+            "Certifying Organization": "International Union of Operating Engineers"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Overhead Crane", 
+            "Type": "Core", 
+            "Certification ID": "6987", 
+            "Certifying Organization": "International Union of Operating Engineers"
+        }, 
+        {
+            "Acronym": "EMS", 
+            "Certification Name": "Equipment Management Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "9048", 
+            "Certifying Organization": "Association of Equipment Management Professionals"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Boom Truck Crane Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "6985", 
+            "Certifying Organization": "International Union of Operating Engineers"
+        }, 
+        {
+            "Acronym": "CPFP", 
+            "Certification Name": "Certified Public Fleet Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "6171", 
+            "Certifying Organization": "American Public Works Association"
+        }, 
+        {
+            "Acronym": "CLT", 
+            "Certification Name": "Certified Logistics Technician", 
+            "Type": "Core", 
+            "Certification ID": "6505", 
+            "Certifying Organization": "Manufacturing Skill Standards Council"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Telescopic Boom Crane", 
+            "Type": "Specialty", 
+            "Certification ID": "6988", 
+            "Certifying Organization": "International Union of Operating Engineers"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Overhead Crane Operator", 
+            "Type": "Core", 
+            "Certification ID": "5388", 
+            "Certifying Organization": "National Commission for the Certification of Crane Operators"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Construction & Demolition Materials - Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "1466", 
+            "Certifying Organization": "Solid Waste Association of North America"
+        }, 
+        {
+            "Acronym": "CPTS", 
+            "Certification Name": "Pupil Transportation Specialist", 
+            "Type": "Core", 
+            "Certification ID": "2513", 
+            "Certifying Organization": "National Association for Pupil Transportation"
+        }, 
+        {
+            "Acronym": "CPFM", 
+            "Certification Name": "Certified Parking Facility Manager", 
+            "Type": "Core", 
+            "Certification ID": "1279", 
+            "Certifying Organization": "National Parking Association"
+        }, 
+        {
+            "Acronym": "CCO", 
+            "Certification Name": "Certified Crane Operator - Lattice Boom Crawler Crane", 
+            "Type": "Specialty", 
+            "Certification ID": "0810", 
+            "Certifying Organization": "National Commission for the Certification of Crane Operators"
+        }, 
+        {
+            "Acronym": "CCO", 
+            "Certification Name": "Certified Crane Operator - Lattice Boom Truck Crane", 
+            "Type": "Specialty", 
+            "Certification ID": "0811", 
+            "Certifying Organization": "National Commission for the Certification of Crane Operators"
+        }, 
+        {
+            "Acronym": "ACP", 
+            "Certification Name": "Air Cargo Professional", 
+            "Type": "Core", 
+            "Certification ID": "9384", 
+            "Certifying Organization": "International Air Transport Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Safety Supervisor", 
+            "Type": "Advanced", 
+            "Certification ID": "4001", 
+            "Certifying Organization": "North American Transportation Management Institute"
+        }, 
+        {
+            "Acronym": "RCA", 
+            "Certification Name": "Responsible Care Auditor", 
+            "Type": "Advanced", 
+            "Certification ID": "6263", 
+            "Certifying Organization": "Board of Environmental Health and Safety Auditor Certification"
+        }, 
+        {
+            "Acronym": "CAFM", 
+            "Certification Name": "Certified Automotive Fleet Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "1571", 
+            "Certifying Organization": "National Association of Fleet Administrators, Inc."
+        }, 
+        {
+            "Acronym": "CSM/E", 
+            "Certification Name": "Certified Supervisor of Maintenance/Equipment", 
+            "Type": "Advanced", 
+            "Certification ID": "4006", 
+            "Certifying Organization": "North American Transportation Management Institute"
+        }, 
+        {
+            "Acronym": "PCMH", 
+            "Certification Name": "Professional Certified in Materials Handling", 
+            "Type": "Core", 
+            "Certification ID": "1430", 
+            "Certifying Organization": "Materials Handling and Management Society"
+        }, 
+        {
+            "Acronym": "CTP", 
+            "Certification Name": "Certified Transportation Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "1423", 
+            "Certifying Organization": "National Private Truck Council"
+        }, 
+        {
+            "Acronym": "CEM", 
+            "Certification Name": "Certified Equipment Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "9049", 
+            "Certifying Organization": "Association of Equipment Management Professionals"
+        }, 
+        {
+            "Acronym": "CPTDI", 
+            "Certification Name": "Pupil Transportation Driver Instructor", 
+            "Type": "Advanced", 
+            "Certification ID": "2514", 
+            "Certifying Organization": "National Association for Pupil Transportation"
+        }
+    ], 
+    "onet": "53103100"
+}

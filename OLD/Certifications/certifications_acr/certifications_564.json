@@ -1,0 +1,75 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CSP", 
+            "Certification Name": "Certified Sales Professional", 
+            "Type": "Core", 
+            "Certification ID": "1320", 
+            "Certifying Organization": "Manufacturers Representatives Educational Research Foundation"
+        }, 
+        {
+            "Acronym": "CFS", 
+            "Certification Name": "Certified Fund Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "9021", 
+            "Certifying Organization": "Institute of Business & Finance"
+        }, 
+        {
+            "Acronym": "CSPS", 
+            "Certification Name": "Certified Securities Processing Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "2057", 
+            "Certifying Organization": "Securities Operations Forum"
+        }, 
+        {
+            "Acronym": "CFS", 
+            "Certification Name": "Certified Funds Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "2272", 
+            "Certifying Organization": "Institute of Certified Fund Specialists"
+        }, 
+        {
+            "Acronym": "SCPS", 
+            "Certification Name": "Certified Salesperson", 
+            "Type": "Core", 
+            "Certification ID": "0462", 
+            "Certifying Organization": "Sales & Marketing Executives International"
+        }, 
+        {
+            "Acronym": "CMT", 
+            "Certification Name": "Chartered Market Technician", 
+            "Type": "Core", 
+            "Certification ID": "2321", 
+            "Certifying Organization": "Market Technicians Association"
+        }, 
+        {
+            "Acronym": "CSPM", 
+            "Certification Name": "Certified Securities Processing Master", 
+            "Type": "Advanced", 
+            "Certification ID": "2058", 
+            "Certifying Organization": "Securities Operations Forum"
+        }, 
+        {
+            "Acronym": "CIMA", 
+            "Certification Name": "Certified Investment Management Analyst", 
+            "Type": "Advanced", 
+            "Certification ID": "5366", 
+            "Certifying Organization": "Investment Management Consultants Association"
+        }, 
+        {
+            "Acronym": "CLTC", 
+            "Certification Name": "Certified in Long Term Care", 
+            "Type": "Core", 
+            "Certification ID": "2525", 
+            "Certifying Organization": "Corporation for Long Term Care Certification"
+        }, 
+        {
+            "Acronym": "CPC", 
+            "Certification Name": "Certified Pension Consultant", 
+            "Type": "Core", 
+            "Certification ID": "1357", 
+            "Certifying Organization": "American Society of Pension Professionals  and Actuaries"
+        }
+    ], 
+    "onet": "41303100"
+}

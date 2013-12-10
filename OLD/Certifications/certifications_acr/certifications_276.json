@@ -1,0 +1,439 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "SAPACC", 
+            "Certification Name": "Certified Substance Abuse Program Administrator", 
+            "Type": "Advanced", 
+            "Certification ID": "3565", 
+            "Certifying Organization": "Substance Abuse Program Administrators Certification Commission"
+        }, 
+        {
+            "Acronym": "NCAC", 
+            "Certification Name": "National Certified Addiction Counselor, Level I", 
+            "Type": "Advanced", 
+            "Certification ID": "1383", 
+            "Certifying Organization": "National Association of Alcoholism & Drug Abuse Counselors"
+        }, 
+        {
+            "Acronym": "DAACC", 
+            "Certification Name": "Professional level Drug, Alcohol & Addiction Counselor Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "6993", 
+            "Certifying Organization": "Association of Christian Alcohol and Drug Counselors"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Clinically Certified Criminal Justice Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "6964", 
+            "Certifying Organization": "National Association of Forensic Counselors"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Chemical Dependency Counselor", 
+            "Type": "Specialty", 
+            "Certification ID": "6974", 
+            "Certifying Organization": "National Association of Forensic Counselors"
+        }, 
+        {
+            "Acronym": "NCC", 
+            "Certification Name": "National Certified Counselor", 
+            "Type": "Advanced", 
+            "Certification ID": "0356", 
+            "Certifying Organization": "National Board for Certified Counselors"
+        }, 
+        {
+            "Acronym": "MAC", 
+            "Certification Name": "Master Addictions Counselor", 
+            "Type": "Specialty", 
+            "Certification ID": "0367", 
+            "Certifying Organization": "National Board for Certified Counselors"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification in Cognitive Therapy", 
+            "Type": "Core", 
+            "Certification ID": "8670", 
+            "Certifying Organization": "Academy of Cognitive Therapy"
+        }, 
+        {
+            "Acronym": "CEDS", 
+            "Certification Name": "Certified Eating Disorders Specialist in Mental Health", 
+            "Type": "Advanced", 
+            "Certification ID": "2011", 
+            "Certifying Organization": "International Association of Eating Disorders Professionals"
+        }, 
+        {
+            "Acronym": "RAS", 
+            "Certification Name": "Registered Addiction Specialist", 
+            "Type": "Advanced", 
+            "Certification ID": "6956", 
+            "Certifying Organization": "The Breining Institute"
+        }, 
+        {
+            "Acronym": "MAC", 
+            "Certification Name": "Master Addiction Counselor", 
+            "Type": "Advanced", 
+            "Certification ID": "1385", 
+            "Certifying Organization": "National Association of Alcoholism & Drug Abuse Counselors"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification of Clinical Hypnosis", 
+            "Type": "Advanced", 
+            "Certification ID": "9301", 
+            "Certifying Organization": "American Society of Clinical Hypnosis"
+        }, 
+        {
+            "Acronym": "CST", 
+            "Certification Name": "Sex Therapist Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "2096", 
+            "Certifying Organization": "American Association of Sexuality Educators, Counselors and Therapists"
+        }, 
+        {
+            "Acronym": "T4C-CF", 
+            "Certification Name": "Thinking for a Change Certified Facilitator", 
+            "Type": "Advanced", 
+            "Certification ID": "6804", 
+            "Certifying Organization": "Center for Credentialing & Education, Inc."
+        }, 
+        {
+            "Acronym": "CCJP", 
+            "Certification Name": "Certified Criminal Justice Addiction Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "3536", 
+            "Certifying Organization": "International Certification & Reciprocity Consortium"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Clinically Certified Sex Offender Treatment Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "6966", 
+            "Certifying Organization": "National Association of Forensic Counselors"
+        }, 
+        {
+            "Acronym": "CFSW", 
+            "Certification Name": "Certified Forensic Social Worker", 
+            "Type": "Specialty", 
+            "Certification ID": "6977", 
+            "Certifying Organization": "National Association of Forensic Counselors"
+        }, 
+        {
+            "Acronym": "MATC", 
+            "Certification Name": "Medication-Assisted Treatment Counselor", 
+            "Type": "Advanced", 
+            "Certification ID": "6959", 
+            "Certifying Organization": "The Breining Institute"
+        }, 
+        {
+            "Acronym": "FAC", 
+            "Certification Name": "Forensic Addictions Counselor", 
+            "Type": "Advanced", 
+            "Certification ID": "6960", 
+            "Certifying Organization": "The Breining Institute"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Domestic Violence Prevention Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "6998", 
+            "Certifying Organization": "Association of Christian Alcohol and Drug Counselors"
+        }, 
+        {
+            "Acronym": "CCS", 
+            "Certification Name": "Certified Clinical Supervisor", 
+            "Type": "Advanced", 
+            "Certification ID": "3534", 
+            "Certifying Organization": "International Certification & Reciprocity Consortium"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "ServSafe Alcohol", 
+            "Type": "Core", 
+            "Certification ID": "5349", 
+            "Certifying Organization": "National Restaurant Association Educational Foundation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Clinically Certified Domestic Violence Counselor", 
+            "Type": "Specialty", 
+            "Certification ID": "6965", 
+            "Certifying Organization": "National Association of Forensic Counselors"
+        }, 
+        {
+            "Acronym": "CCODS", 
+            "Certification Name": "Certified Co-Occurring Disorder Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "8784", 
+            "Certifying Organization": "National Association of Forensic Counselors"
+        }, 
+        {
+            "Acronym": "CEDSN", 
+            "Certification Name": "Certified Eating Disorders Specialist in Nutrition", 
+            "Type": "Specialty", 
+            "Certification ID": "2682", 
+            "Certifying Organization": "International Association of Eating Disorders Professionals"
+        }, 
+        {
+            "Acronym": "MCA", 
+            "Certification Name": "Master Counselor in Addictions", 
+            "Type": "Advanced", 
+            "Certification ID": "6958", 
+            "Certifying Organization": "The Breining Institute"
+        }, 
+        {
+            "Acronym": "CSE", 
+            "Certification Name": "Sex Counselor Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "2095", 
+            "Certifying Organization": "American Association of Sexuality Educators, Counselors and Therapists"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Family Crisis Inteventionist Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "7002", 
+            "Certifying Organization": "Association of Christian Alcohol and Drug Counselors"
+        }, 
+        {
+            "Acronym": "CSAC I", 
+            "Certification Name": "Christian Substance Abuse Counselor I", 
+            "Type": "Core", 
+            "Certification ID": "6991", 
+            "Certifying Organization": "Association of Christian Alcohol and Drug Counselors"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Clinically Certified Forensic Counselor", 
+            "Type": "Advanced", 
+            "Certification ID": "6963", 
+            "Certifying Organization": "National Association of Forensic Counselors"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Juvenile Treatment Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "6972", 
+            "Certifying Organization": "National Association of Forensic Counselors"
+        }, 
+        {
+            "Acronym": "CFI", 
+            "Certification Name": "Certified Forensic Interviewer", 
+            "Type": "Specialty", 
+            "Certification ID": "8785", 
+            "Certifying Organization": "National Association of Forensic Counselors"
+        }, 
+        {
+            "Acronym": "CAS", 
+            "Certification Name": "Certified Addiction Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "2443", 
+            "Certifying Organization": "American Academy of Health Care Providers in the Addictive Disorders"
+        }, 
+        {
+            "Acronym": "NCAC", 
+            "Certification Name": "National Certified Addiction Counselor, Level II", 
+            "Type": "Advanced", 
+            "Certification ID": "1384", 
+            "Certifying Organization": "National Association of Alcoholism & Drug Abuse Counselors"
+        }, 
+        {
+            "Acronym": "NCGC", 
+            "Certification Name": "National Certified Gambling Counselor", 
+            "Type": "Advanced", 
+            "Certification ID": "6874", 
+            "Certifying Organization": "National Council on Problem Gambling"
+        }, 
+        {
+            "Acronym": "CSC", 
+            "Certification Name": "Clinical Supervisor Credential", 
+            "Type": "Advanced", 
+            "Certification ID": "6957", 
+            "Certifying Organization": "The Breining Institute"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Clinical Supervisor", 
+            "Type": "Advanced", 
+            "Certification ID": "6995", 
+            "Certifying Organization": "Association of Christian Alcohol and Drug Counselors"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Addiction Interventionist Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "7000", 
+            "Certifying Organization": "Association of Christian Alcohol and Drug Counselors"
+        }, 
+        {
+            "Acronym": "CCDP", 
+            "Certification Name": "Certified Co-Occurring Disorders Professional", 
+            "Type": "Specialty", 
+            "Certification ID": "6035", 
+            "Certifying Organization": "International Certification & Reciprocity Consortium"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Christian Substance Abuse Counselor II", 
+            "Type": "Core", 
+            "Certification ID": "6992", 
+            "Certifying Organization": "Association of Christian Alcohol and Drug Counselors"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "EMDRIA Certified Therapist", 
+            "Type": "Advanced", 
+            "Certification ID": "9238", 
+            "Certifying Organization": "EMDR International Association"
+        }, 
+        {
+            "Acronym": "BCaBA", 
+            "Certification Name": "Board Certified Assistant Behavior Analyst", 
+            "Type": "Advanced", 
+            "Certification ID": "5984", 
+            "Certifying Organization": "Behavior Analyst Certification Board"
+        }, 
+        {
+            "Acronym": "ADC", 
+            "Certification Name": "Certified Alcohol and Drug Counselor", 
+            "Type": "Advanced", 
+            "Certification ID": "1379", 
+            "Certifying Organization": "International Certification & Reciprocity Consortium"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Master Addictions Counselor", 
+            "Type": "Specialty", 
+            "Certification ID": "6975", 
+            "Certifying Organization": "National Association of Forensic Counselors"
+        }, 
+        {
+            "Acronym": "NCSC", 
+            "Certification Name": "National Certified School Counselor", 
+            "Type": "Specialty", 
+            "Certification ID": "0358", 
+            "Certifying Organization": "National Board for Certified Counselors"
+        }, 
+        {
+            "Acronym": "C-CATODSW", 
+            "Certification Name": "Certified Clinical Alcohol, Tobacco, and Other Drugs Social Worker", 
+            "Type": "Advanced", 
+            "Certification ID": "3338", 
+            "Certifying Organization": "National Association of Social Workers"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Approved Consultant in Clinical Hypnosis", 
+            "Type": "Advanced", 
+            "Certification ID": "9302", 
+            "Certifying Organization": "American Society of Clinical Hypnosis"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Crisis, Trauma and PTSD Counselor Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "6999", 
+            "Certifying Organization": "Association of Christian Alcohol and Drug Counselors"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Suicide Interventionist Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "7001", 
+            "Certifying Organization": "Association of Christian Alcohol and Drug Counselors"
+        }, 
+        {
+            "Acronym": "BCD", 
+            "Certification Name": "Board Certified Diplomate in Clinical Social Work", 
+            "Type": "Advanced", 
+            "Certification ID": "2068", 
+            "Certifying Organization": "American Board of Examiners in Clinical Social Work"
+        }, 
+        {
+            "Acronym": "AAODA-C", 
+            "Certification Name": "Certified Advanced Alcohol & Drug Counselor", 
+            "Type": "Advanced", 
+            "Certification ID": "3532", 
+            "Certifying Organization": "International Certification & Reciprocity Consortium"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Sex Offender Treatment Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "6971", 
+            "Certifying Organization": "National Association of Forensic Counselors"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Forensic Addiction Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "6978", 
+            "Certifying Organization": "National Association of Forensic Counselors"
+        }, 
+        {
+            "Acronym": "NDS", 
+            "Certification Name": "Nicotine Dependence Specialist", 
+            "Type": "Advanced", 
+            "Certification ID": "7661", 
+            "Certifying Organization": "National Association of Alcoholism & Drug Abuse Counselors"
+        }, 
+        {
+            "Acronym": "BCAB", 
+            "Certification Name": "Board Certified Behavior Analyst", 
+            "Type": "Advanced", 
+            "Certification ID": "5983", 
+            "Certifying Organization": "Behavior Analyst Certification Board"
+        }, 
+        {
+            "Acronym": "CCMHC", 
+            "Certification Name": "Certified Clinical Mental Health Counselor", 
+            "Type": "Specialty", 
+            "Certification ID": "0366", 
+            "Certifying Organization": "National Board for Certified Counselors"
+        }, 
+        {
+            "Acronym": "DCC", 
+            "Certification Name": "Distance Credentialed Counselor", 
+            "Type": "Advanced", 
+            "Certification ID": "3817", 
+            "Certifying Organization": "Center for Credentialing & Education, Inc."
+        }, 
+        {
+            "Acronym": "MDAAC", 
+            "Certification Name": "Masters Drug Alcohol Addiction Counselor", 
+            "Type": "Specialty", 
+            "Certification ID": "6994", 
+            "Certifying Organization": "Association of Christian Alcohol and Drug Counselors"
+        }, 
+        {
+            "Acronym": "CPS", 
+            "Certification Name": "Certified Prevention Specialist", 
+            "Type": "Advanced", 
+            "Certification ID": "3535", 
+            "Certifying Organization": "International Certification & Reciprocity Consortium"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Domestic Violence Counselor", 
+            "Type": "Specialty", 
+            "Certification ID": "6969", 
+            "Certifying Organization": "National Association of Forensic Counselors"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Criminal Justice Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "6970", 
+            "Certifying Organization": "National Association of Forensic Counselors"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Advanced Codependence Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "6996", 
+            "Certifying Organization": "Association of Christian Alcohol and Drug Counselors"
+        }
+    ], 
+    "onet": "21101100"
+}

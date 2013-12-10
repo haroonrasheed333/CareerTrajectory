@@ -1,0 +1,75 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CLS", 
+            "Certification Name": "Certified Leasing Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "9390", 
+            "Certifying Organization": "International Council of Shopping Centers"
+        }, 
+        {
+            "Acronym": "CSP", 
+            "Certification Name": "Certified Sales Professional", 
+            "Type": "Core", 
+            "Certification ID": "1320", 
+            "Certifying Organization": "Manufacturers Representatives Educational Research Foundation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Training Advertising Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "9139", 
+            "Certifying Organization": "Promotional Products Association International"
+        }, 
+        {
+            "Acronym": "CHSE", 
+            "Certification Name": "Certified Hospitality Sales Executive", 
+            "Type": "Advanced", 
+            "Certification ID": "8545", 
+            "Certifying Organization": "Hospitality Sales & Marketing Association International"
+        }, 
+        {
+            "Acronym": "MAS+", 
+            "Certification Name": "Master Advertising Specialist Plus", 
+            "Type": "Specialty", 
+            "Certification ID": "9142", 
+            "Certifying Organization": "Promotional Products Association International"
+        }, 
+        {
+            "Acronym": "CAS", 
+            "Certification Name": "Certified Advertising Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "9140", 
+            "Certifying Organization": "Promotional Products Association International"
+        }, 
+        {
+            "Acronym": "CHSC", 
+            "Certification Name": "Certified in Hospitality Sales Competencies", 
+            "Type": "Core", 
+            "Certification ID": "8547", 
+            "Certifying Organization": "Hospitality Sales & Marketing Association International"
+        }, 
+        {
+            "Acronym": "CRME", 
+            "Certification Name": "Certified Revenue Management Executive", 
+            "Type": "Advanced", 
+            "Certification ID": "8546", 
+            "Certifying Organization": "Hospitality Sales & Marketing Association International"
+        }, 
+        {
+            "Acronym": "SCPS", 
+            "Certification Name": "Certified Salesperson", 
+            "Type": "Core", 
+            "Certification ID": "0462", 
+            "Certifying Organization": "Sales & Marketing Executives International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Master Advertising Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "9141", 
+            "Certifying Organization": "Promotional Products Association International"
+        }
+    ], 
+    "onet": "41301100"
+}

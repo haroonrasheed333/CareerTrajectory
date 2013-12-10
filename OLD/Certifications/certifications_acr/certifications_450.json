@@ -1,0 +1,103 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Medical-Surgical Nursing", 
+            "Type": "Specialty", 
+            "Certification ID": "6128", 
+            "Certifying Organization": "American Nurses Credentialing Center"
+        }, 
+        {
+            "Acronym": "TS-C", 
+            "Certification Name": "Tech in Surgery - Certified", 
+            "Type": "Core", 
+            "Certification ID": "6296", 
+            "Certifying Organization": "National Center for Competency Testing"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Surgical Assistant", 
+            "Type": "Core", 
+            "Certification ID": "5942", 
+            "Certifying Organization": "American Board of Surgical Assistants"
+        }, 
+        {
+            "Acronym": "CTP", 
+            "Certification Name": "Certified Transplant Preservationist", 
+            "Type": "Specialty", 
+            "Certification ID": "7317", 
+            "Certifying Organization": "American Board for Transplant Certification"
+        }, 
+        {
+            "Acronym": "CMSRN", 
+            "Certification Name": "Certified Medical-Surgical Registered Nurse", 
+            "Type": "Specialty", 
+            "Certification ID": "6049", 
+            "Certifying Organization": "Academy of Medical-Surgical Nurses"
+        }, 
+        {
+            "Acronym": "CSA", 
+            "Certification Name": "Certified Surgical Assistant", 
+            "Type": "Core", 
+            "Certification ID": "3311", 
+            "Certifying Organization": "National Surgical Assistant Association"
+        }, 
+        {
+            "Acronym": "CSIP", 
+            "Certification Name": "Certified Surgical Instrument Processor", 
+            "Type": "Core", 
+            "Certification ID": "4222", 
+            "Certifying Organization": "Certification Board for Sterile Processing and Distribution "
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Ophthalmic Surgical Assisting", 
+            "Type": "Core", 
+            "Certification ID": "1029", 
+            "Certifying Organization": "Joint Commission on Allied Health Personnel in Ophthalmology"
+        }, 
+        {
+            "Acronym": "OT-SC", 
+            "Certification Name": "Orthopaedic Technologist-Surgery Certified", 
+            "Type": "Specialty", 
+            "Certification ID": "3650", 
+            "Certifying Organization": "National Board for Certification of Orthopaedic Technololgists"
+        }, 
+        {
+            "Acronym": "CSFA", 
+            "Certification Name": "Certified Surgical First Assistant", 
+            "Type": "Core", 
+            "Certification ID": "1130", 
+            "Certifying Organization": "National Board of Surgical Technology and Surgical Assisting"
+        }, 
+        {
+            "Acronym": "CCTC", 
+            "Certification Name": "Certified Clinical Transplant Coordinator", 
+            "Type": "Specialty", 
+            "Certification ID": "7315", 
+            "Certifying Organization": "American Board for Transplant Certification"
+        }, 
+        {
+            "Acronym": "CAST", 
+            "Certification Name": "Certified Ambulatory Surgery Technician", 
+            "Type": "Core", 
+            "Certification ID": "5991", 
+            "Certifying Organization": "Certification Board for Sterile Processing and Distribution "
+        }, 
+        {
+            "Acronym": "CPTC", 
+            "Certification Name": "Certified Procurement Transplant Coordinator", 
+            "Type": "Specialty", 
+            "Certification ID": "7316", 
+            "Certifying Organization": "American Board for Transplant Certification"
+        }, 
+        {
+            "Acronym": "CST", 
+            "Certification Name": "Certified Surgical Technologist", 
+            "Type": "Core", 
+            "Certification ID": "1129", 
+            "Certifying Organization": "National Board of Surgical Technology and Surgical Assisting"
+        }
+    ], 
+    "onet": "29205500"
+}

@@ -1,0 +1,117 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CIRO", 
+            "Certification Name": "Certified Industrial Refrigeration Operator", 
+            "Type": "Core", 
+            "Certification ID": "7306", 
+            "Certifying Organization": "Refrigerating Engineers & Technicians Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Commercial Refrigeration Service", 
+            "Type": "Specialty", 
+            "Certification ID": "5614", 
+            "Certifying Organization": "North American Technician Excellence, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "EPA Section 608 Certification", 
+            "Type": "Core", 
+            "Certification ID": "9058", 
+            "Certifying Organization": "Air Conditioning Contractors of America"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Light Commercial Refrigeration Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "6144", 
+            "Certifying Organization": "HVAC Excellence "
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Light Commercial Refrigeration Service", 
+            "Type": "Specialty", 
+            "Certification ID": "5613", 
+            "Certifying Organization": "North American Technician Excellence, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Master Specialist Hands On Light Commercial Refrigeration Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "8095", 
+            "Certifying Organization": "HVAC Excellence "
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Commercial Refrigeration Installation Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "6249", 
+            "Certifying Organization": "North American Technician Excellence, Inc."
+        }, 
+        {
+            "Acronym": "CRCM", 
+            "Certification Name": "Certified Refrigeration Compliance Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "4840", 
+            "Certifying Organization": "National Registry of Environmental Professionals"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "HVAC Master Specialist", 
+            "Type": "Advanced", 
+            "Certification ID": "5517", 
+            "Certifying Organization": "HVAC Excellence "
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "STAR Commercial Refrigeration Mastery", 
+            "Type": "Advanced", 
+            "Certification ID": "7015", 
+            "Certifying Organization": "National Inspection, Testing and Certification Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified National Appliance Service Technician - Refrigeration and Air Conditioning", 
+            "Type": "Core", 
+            "Certification ID": "4663", 
+            "Certifying Organization": "International Society of Certified Electronics Technicians"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Journeyman Air Conditioning & Refrigeration", 
+            "Type": "Core", 
+            "Certification ID": "5636", 
+            "Certifying Organization": "National Inspection, Testing and Certification Corporation"
+        }, 
+        {
+            "Acronym": "CARO", 
+            "Certification Name": "Certified Assistant Refrigeration Operator", 
+            "Type": "Core", 
+            "Certification ID": "7305", 
+            "Certifying Organization": "Refrigerating Engineers & Technicians Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Universal R-410A Certification", 
+            "Type": "Core", 
+            "Certification ID": "8642", 
+            "Certifying Organization": "HVAC Excellence "
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified National Appliance Service Technician - Universal Technician", 
+            "Type": "Core", 
+            "Certification ID": "4666", 
+            "Certifying Organization": "International Society of Certified Electronics Technicians"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Light Commercial Refrigeration Installation Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "6248", 
+            "Certifying Organization": "North American Technician Excellence, Inc."
+        }
+    ], 
+    "onet": "49902102"
+}

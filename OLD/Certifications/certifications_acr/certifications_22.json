@@ -1,0 +1,68 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CAMH", 
+            "Certification Name": "Certified Associate in Materials Handling", 
+            "Type": "Core", 
+            "Certification ID": "1429", 
+            "Certifying Organization": "Materials Handling and Management Society"
+        }, 
+        {
+            "Acronym": "CSPDM", 
+            "Certification Name": "Certified Sterile Processing and Distribution Manager", 
+            "Type": "Specialty", 
+            "Certification ID": "1442", 
+            "Certifying Organization": "Certification Board for Sterile Processing and Distribution "
+        }, 
+        {
+            "Acronym": "CPIM", 
+            "Certification Name": "Certified in Production and Inventory Management", 
+            "Type": "Advanced", 
+            "Certification ID": "1432", 
+            "Certifying Organization": "The Association for Operations Management"
+        }, 
+        {
+            "Acronym": "CSCP", 
+            "Certification Name": "Certified Supply Chain Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "4895", 
+            "Certifying Organization": "The Association for Operations Management"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "JD Edwards EnterpriseOne 9 Manufacturing Certified Implementation Specialist", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8466", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "CFPIM", 
+            "Certification Name": "Certified Fellow in Production and Inventory Management", 
+            "Type": "Advanced", 
+            "Certification ID": "1434", 
+            "Certifying Organization": "The Association for Operations Management"
+        }, 
+        {
+            "Acronym": "PCMH", 
+            "Certification Name": "Professional Certified in Materials Handling", 
+            "Type": "Core", 
+            "Certification ID": "1430", 
+            "Certifying Organization": "Materials Handling and Management Society"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Linen Technician", 
+            "Type": "Core", 
+            "Certification ID": "4800", 
+            "Certifying Organization": "National Association of Institutional Linen Management"
+        }, 
+        {
+            "Acronym": "CEPM", 
+            "Certification Name": "IPC EMS Program Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "3482", 
+            "Certifying Organization": "Association Connecting Electronics Industries"
+        }
+    ], 
+    "onet": "11307102"
+}

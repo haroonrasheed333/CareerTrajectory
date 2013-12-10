@@ -1,0 +1,264 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Deployment Professional - Maximo Asset Management V7.5", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9560", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "ACA", 
+            "Certification Name": "Associate of the Conference", 
+            "Type": "Core", 
+            "Certification ID": "1985", 
+            "Certifying Organization": "Conference of Consulting Actuaries"
+        }, 
+        {
+            "Acronym": "ABCP", 
+            "Certification Name": "Associate Business Continuity Professional", 
+            "Type": "Core", 
+            "Certification ID": "6331", 
+            "Certifying Organization": "DRI International"
+        }, 
+        {
+            "Acronym": "FRM", 
+            "Certification Name": "Certified Financial Risk Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "2219", 
+            "Certifying Organization": "Global Association of Risk Professionals"
+        }, 
+        {
+            "Acronym": "ARM-P", 
+            "Certification Name": "Associate in Risk Management for Public Entities", 
+            "Type": "Core", 
+            "Certification ID": "3108", 
+            "Certifying Organization": "The Institutes"
+        }, 
+        {
+            "Acronym": "C-CISO", 
+            "Certification Name": "EC Council Certified Chief Information Security Officer", 
+            "Type": "Advanced", 
+            "Certification ID": "6341", 
+            "Certifying Organization": "EC-Council"
+        }, 
+        {
+            "Acronym": "CM&AA", 
+            "Certification Name": "Certified Merger and Acquisition Advisor", 
+            "Type": "Advanced", 
+            "Certification ID": "6259", 
+            "Certifying Organization": "Alliance of Merger and Acquisition Advisors"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Infrastructure Deployment Professional - Maximo Asset Management V7.5", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9577", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "CFS", 
+            "Certification Name": "Certified Fund Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "9021", 
+            "Certifying Organization": "Institute of Business & Finance"
+        }, 
+        {
+            "Acronym": "CCCS", 
+            "Certification Name": "Certified Anti-Money Laundering Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "8806", 
+            "Certifying Organization": "Conference of State Bank Supervisors"
+        }, 
+        {
+            "Acronym": "CFE", 
+            "Certification Name": "Certified Fraud Examiner", 
+            "Type": "Core", 
+            "Certification ID": "1245", 
+            "Certifying Organization": "Association of Certified Fraud Examiners"
+        }, 
+        {
+            "Acronym": "FSPA", 
+            "Certification Name": "Fellow, American Society of Pension Actuaries", 
+            "Type": "Advanced", 
+            "Certification ID": "1355", 
+            "Certifying Organization": "American Society of Pension Professionals  and Actuaries"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Associateship in the Casualty Actuarial Society", 
+            "Type": "Core", 
+            "Certification ID": "5774", 
+            "Certifying Organization": "Casualty Actuarial Society"
+        }, 
+        {
+            "Acronym": "APRM", 
+            "Certification Name": "Associate Professional Risk Manager", 
+            "Type": "Core", 
+            "Certification ID": "7981", 
+            "Certifying Organization": "Professional Risk Managers International Association"
+        }, 
+        {
+            "Acronym": "CRA", 
+            "Certification Name": "Chartered Certified Risk Analyst", 
+            "Type": "Advanced", 
+            "Certification ID": "7919", 
+            "Certifying Organization": "American Academy of Financial Management"
+        }, 
+        {
+            "Acronym": "CPSO", 
+            "Certification Name": "Certified Patient Safety Officer", 
+            "Type": "Core", 
+            "Certification ID": "8580", 
+            "Certifying Organization": "International Board for Certification of Safety Managers"
+        }, 
+        {
+            "Acronym": "ARM-E", 
+            "Certification Name": "Associate in Risk Management - Enterprise Wide Risk Management", 
+            "Type": "Core", 
+            "Certification ID": "9080", 
+            "Certifying Organization": "The Institutes"
+        }, 
+        {
+            "Acronym": "AMLP", 
+            "Certification Name": "Anti-Money Laundering Professional Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "6208", 
+            "Certifying Organization": "BAI Center for Certification"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "International Certificate in Banking Risk and Regulation", 
+            "Type": "Advanced", 
+            "Certification ID": "5743", 
+            "Certifying Organization": "Global Association of Risk Professionals"
+        }, 
+        {
+            "Acronym": "CUERME", 
+            "Certification Name": "Credit Union Enterprise Risk Management Expert", 
+            "Type": "Advanced", 
+            "Certification ID": "9235", 
+            "Certifying Organization": "Credit Union National Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Solution Advisor - Tivoli Network and Service Assurance Solutions V1", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9579", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "CTP", 
+            "Certification Name": "Certified Turnaround Professional", 
+            "Type": "Core", 
+            "Certification ID": "2285", 
+            "Certifying Organization": "Association of Certified Turnaround Professionals, Inc."
+        }, 
+        {
+            "Acronym": "ASA", 
+            "Certification Name": "Associate of the Society of Actuaries", 
+            "Type": "Core", 
+            "Certification ID": "0127", 
+            "Certifying Organization": "Society of Actuaries"
+        }, 
+        {
+            "Acronym": "FCA", 
+            "Certification Name": "Fellow of the Conference", 
+            "Type": "Advanced", 
+            "Certification ID": "1983", 
+            "Certifying Organization": "Conference of Consulting Actuaries"
+        }, 
+        {
+            "Acronym": "ARM", 
+            "Certification Name": "Associate in Risk Management", 
+            "Type": "Core", 
+            "Certification ID": "0472", 
+            "Certifying Organization": "The Institutes"
+        }, 
+        {
+            "Acronym": "ERP", 
+            "Certification Name": "Energy Risk Professional", 
+            "Type": "Core", 
+            "Certification ID": "5868", 
+            "Certifying Organization": "Global Association of Risk Professionals"
+        }, 
+        {
+            "Acronym": "CRP", 
+            "Certification Name": "Certified Risk Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "6207", 
+            "Certifying Organization": "BAI Center for Certification"
+        }, 
+        {
+            "Acronym": "MSPA", 
+            "Certification Name": "Member, American Society of Pension Actuaries", 
+            "Type": "Core", 
+            "Certification ID": "1354", 
+            "Certifying Organization": "American Society of Pension Professionals  and Actuaries"
+        }, 
+        {
+            "Acronym": "CRM", 
+            "Certification Name": "Certified Risk Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "2168", 
+            "Certifying Organization": "The National Alliance for Insurance Education and Research"
+        }, 
+        {
+            "Acronym": "CPHRM", 
+            "Certification Name": "Certified Professional in Healthcare Risk Management", 
+            "Type": "Core", 
+            "Certification ID": "5958", 
+            "Certifying Organization": "American Hospital Association"
+        }, 
+        {
+            "Acronym": "CERA", 
+            "Certification Name": "Chartered Enterprise Risk Analyst", 
+            "Type": "Advanced", 
+            "Certification ID": "6065", 
+            "Certifying Organization": "Society of Actuaries"
+        }, 
+        {
+            "Acronym": "CPRM", 
+            "Certification Name": "Certified Project Risk Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "7942", 
+            "Certifying Organization": "American Academy of Project Management"
+        }, 
+        {
+            "Acronym": "PMI", 
+            "Certification Name": "PMI Risk Management Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "7420", 
+            "Certifying Organization": "Project Management Institute"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Solution Advisor - Maximo Asset Management Solutions V3", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9578", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "FSA", 
+            "Certification Name": "Fellow of the Society of Actuaries", 
+            "Type": "Advanced", 
+            "Certification ID": "0128", 
+            "Certifying Organization": "Society of Actuaries"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Professional Risk Manager", 
+            "Type": "Core", 
+            "Certification ID": "7980", 
+            "Certifying Organization": "Professional Risk Managers International Association"
+        }, 
+        {
+            "Acronym": "CRMA", 
+            "Certification Name": "Certification in Risk Management Assurance", 
+            "Type": "Core", 
+            "Certification ID": "9319", 
+            "Certifying Organization": "Institute of Internal Auditors"
+        }
+    ], 
+    "onet": "13209902"
+}

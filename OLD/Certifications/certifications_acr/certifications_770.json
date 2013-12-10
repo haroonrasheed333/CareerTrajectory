@@ -1,0 +1,103 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "RLLD", 
+            "Certification Name": "Registered Laundry and Linen Director", 
+            "Type": "Core", 
+            "Certification ID": "8557", 
+            "Certifying Organization": "Association for Linen Management"
+        }, 
+        {
+            "Acronym": "CPD", 
+            "Certification Name": "Certified Professional Drycleaner", 
+            "Type": "Core", 
+            "Certification ID": "5513", 
+            "Certifying Organization": "Drycleaning & Laundry Institute"
+        }, 
+        {
+            "Acronym": "MSR", 
+            "Certification Name": "Master Fire & Smoke Restorer", 
+            "Type": "Specialty", 
+            "Certification ID": "2358", 
+            "Certifying Organization": "Institute of Inspection Cleaning and Restoration Certification"
+        }, 
+        {
+            "Acronym": "JTC", 
+            "Certification Name": "Journeyman Textile Cleaner", 
+            "Type": "Specialty", 
+            "Certification ID": "2343", 
+            "Certifying Organization": "Institute of Inspection Cleaning and Restoration Certification"
+        }, 
+        {
+            "Acronym": "CPW", 
+            "Certification Name": "Certified Professional Wetcleaner", 
+            "Type": "Core", 
+            "Certification ID": "5514", 
+            "Certifying Organization": "Drycleaning & Laundry Institute"
+        }, 
+        {
+            "Acronym": "RLLD", 
+            "Certification Name": "Registered Laundry and Linen Director", 
+            "Type": "Core", 
+            "Certification ID": "2220", 
+            "Certifying Organization": "National Association of Institutional Linen Management"
+        }, 
+        {
+            "Acronym": "MTC", 
+            "Certification Name": "Master Textile Cleaner", 
+            "Type": "Specialty", 
+            "Certification ID": "2345", 
+            "Certifying Organization": "Institute of Inspection Cleaning and Restoration Certification"
+        }, 
+        {
+            "Acronym": "CGCP", 
+            "Certification Name": "Certified Garment Care Professional", 
+            "Type": "Core", 
+            "Certification ID": "9165", 
+            "Certifying Organization": "Drycleaning & Laundry Institute"
+        }, 
+        {
+            "Acronym": "CRS", 
+            "Certification Name": "Certified Rug Specialist", 
+            "Type": "Core", 
+            "Certification ID": "5851", 
+            "Certifying Organization": "Restoration Industry Association"
+        }, 
+        {
+            "Acronym": "CLLM", 
+            "Certification Name": "Certified Laundry & Linen Management", 
+            "Type": "Core", 
+            "Certification ID": "7654", 
+            "Certifying Organization": "Association for Linen Management"
+        }, 
+        {
+            "Acronym": "CLT", 
+            "Certification Name": "Certified Linen Technician", 
+            "Type": "Core", 
+            "Certification ID": "8556", 
+            "Certifying Organization": "Association for Linen Management"
+        }, 
+        {
+            "Acronym": "CED", 
+            "Certification Name": "Certified Environmental Drycleaner", 
+            "Type": "Core", 
+            "Certification ID": "5512", 
+            "Certifying Organization": "Drycleaning & Laundry Institute"
+        }, 
+        {
+            "Acronym": "CWT", 
+            "Certification Name": "Certified Washroom Technician", 
+            "Type": "Core", 
+            "Certification ID": "2224", 
+            "Certifying Organization": "National Association of Institutional Linen Management"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Linen Technician", 
+            "Type": "Core", 
+            "Certification ID": "4800", 
+            "Certifying Organization": "National Association of Institutional Linen Management"
+        }
+    ], 
+    "onet": "51601100"
+}

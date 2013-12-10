@@ -1,0 +1,152 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "ARM-P", 
+            "Certification Name": "Associate in Risk Management for Public Entities", 
+            "Type": "Core", 
+            "Certification ID": "3108", 
+            "Certifying Organization": "The Institutes"
+        }, 
+        {
+            "Acronym": "RPLU", 
+            "Certification Name": "Registered Professional Liability Underwriter", 
+            "Type": "Advanced", 
+            "Certification ID": "2327", 
+            "Certifying Organization": "Professional Liability Underwriting Society"
+        }, 
+        {
+            "Acronym": "AIDM", 
+            "Certification Name": "Associate Insurance Data Manager", 
+            "Type": "Specialty", 
+            "Certification ID": "1543", 
+            "Certifying Organization": "Insurance Data Management Association"
+        }, 
+        {
+            "Acronym": "API", 
+            "Certification Name": "Associate in Personal Insurance", 
+            "Type": "Core", 
+            "Certification ID": "0484", 
+            "Certifying Organization": "The Institutes"
+        }, 
+        {
+            "Acronym": "CRU", 
+            "Certification Name": "Certified Residential Underwriter", 
+            "Type": "Core", 
+            "Certification ID": "1374", 
+            "Certifying Organization": "Mortgage Bankers Association of America"
+        }, 
+        {
+            "Acronym": "ARC", 
+            "Certification Name": "Associate in Regulation and Compliance", 
+            "Type": "Core", 
+            "Certification ID": "3110", 
+            "Certifying Organization": "The Institutes"
+        }, 
+        {
+            "Acronym": "APRM", 
+            "Certification Name": "Associate Professional Risk Manager", 
+            "Type": "Core", 
+            "Certification ID": "7981", 
+            "Certifying Organization": "Professional Risk Managers International Association"
+        }, 
+        {
+            "Acronym": "CRA", 
+            "Certification Name": "Chartered Certified Risk Analyst", 
+            "Type": "Advanced", 
+            "Certification ID": "7919", 
+            "Certifying Organization": "American Academy of Financial Management"
+        }, 
+        {
+            "Acronym": "ARM-E", 
+            "Certification Name": "Associate in Risk Management - Enterprise Wide Risk Management", 
+            "Type": "Core", 
+            "Certification ID": "9080", 
+            "Certifying Organization": "The Institutes"
+        }, 
+        {
+            "Acronym": "APA", 
+            "Certification Name": "Associate in Premium Auditing", 
+            "Type": "Core", 
+            "Certification ID": "0474", 
+            "Certifying Organization": "The Institutes"
+        }, 
+        {
+            "Acronym": "APM", 
+            "Certification Name": "Associated Professional Member", 
+            "Type": "Core", 
+            "Certification ID": "1353", 
+            "Certifying Organization": "American Society of Pension Professionals  and Actuaries"
+        }, 
+        {
+            "Acronym": "AU-S", 
+            "Certification Name": "Associate in Commercial Underwriting - Strategic Techniques", 
+            "Type": "Core", 
+            "Certification ID": "9079", 
+            "Certifying Organization": "The Institutes"
+        }, 
+        {
+            "Acronym": "ARM", 
+            "Certification Name": "Associate in Risk Management", 
+            "Type": "Core", 
+            "Certification ID": "0472", 
+            "Certifying Organization": "The Institutes"
+        }, 
+        {
+            "Acronym": "ERP", 
+            "Certification Name": "Energy Risk Professional", 
+            "Type": "Core", 
+            "Certification ID": "5868", 
+            "Certifying Organization": "Global Association of Risk Professionals"
+        }, 
+        {
+            "Acronym": "CIDA", 
+            "Certification Name": "Certified Insurance Data Manager", 
+            "Type": "Specialty", 
+            "Certification ID": "1542", 
+            "Certifying Organization": "Insurance Data Management Association"
+        }, 
+        {
+            "Acronym": "AU", 
+            "Certification Name": "Associate in Commercial Underwriting", 
+            "Type": "Core", 
+            "Certification ID": "0471", 
+            "Certifying Organization": "The Institutes"
+        }, 
+        {
+            "Acronym": "ASLI", 
+            "Certification Name": "Associate in Surplus Lines Insurance", 
+            "Type": "Core", 
+            "Certification ID": "0483", 
+            "Certifying Organization": "The Institutes"
+        }, 
+        {
+            "Acronym": "CPCU", 
+            "Certification Name": "Chartered Property Casualty Underwriter", 
+            "Type": "Core", 
+            "Certification ID": "0469", 
+            "Certifying Organization": "The Institutes"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Professional Risk Manager", 
+            "Type": "Core", 
+            "Certification ID": "7980", 
+            "Certifying Organization": "Professional Risk Managers International Association"
+        }, 
+        {
+            "Acronym": "CPC", 
+            "Certification Name": "Certified Pension Consultant", 
+            "Type": "Core", 
+            "Certification ID": "1357", 
+            "Certifying Organization": "American Society of Pension Professionals  and Actuaries"
+        }, 
+        {
+            "Acronym": "AMIM", 
+            "Certification Name": "Associate in Marine Insurance Management", 
+            "Type": "Core", 
+            "Certification ID": "0477", 
+            "Certifying Organization": "The Institutes"
+        }
+    ], 
+    "onet": "13205300"
+}

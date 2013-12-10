@@ -1,0 +1,929 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Step Certification", 
+            "Type": "Core", 
+            "Certification ID": "1051", 
+            "Certifying Organization": "Aerobics and Fitness Association of America"
+        }, 
+        {
+            "Acronym": "CPT- EFS", 
+            "Certification Name": "Certified Personal Trainer - Exercise and Fitness Specialist", 
+            "Type": "Core", 
+            "Certification ID": "5886", 
+            "Certifying Organization": "Academy of Applied Personal Training Education"
+        }, 
+        {
+            "Acronym": "CAT", 
+            "Certification Name": "Certified Athletic Trainer", 
+            "Type": "Core", 
+            "Certification ID": "1072", 
+            "Certifying Organization": "Board of Certification"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Cycling Instructor", 
+            "Type": "Core", 
+            "Certification ID": "2041", 
+            "Certifying Organization": "National Strength Professionals Association"
+        }, 
+        {
+            "Acronym": "CWP", 
+            "Certification Name": "Certified Wellness Practitioner", 
+            "Type": "Advanced", 
+            "Certification ID": "9131", 
+            "Certifying Organization": "National Wellness Institute"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Clinical Exercise Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "0915", 
+            "Certifying Organization": "American College of Sports Medicine"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Indoor Group Cycling Certificate", 
+            "Type": "Core", 
+            "Certification ID": "6091", 
+            "Certifying Organization": "National Exercise Trainers Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Trainer of Special Populations Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "5937", 
+            "Certifying Organization": "American Fitness Professionals and Associates"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Personal Training", 
+            "Type": "Core", 
+            "Certification ID": "3970", 
+            "Certifying Organization": "International Sports Conditioning Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Pilates Mat Specialty Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "4353", 
+            "Certifying Organization": "National Exercise Trainers Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Womens Fitness Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "4653", 
+            "Certifying Organization": "International Fitness Professional Association"
+        }, 
+        {
+            "Acronym": "PT", 
+            "Certification Name": "Personal Trainer Certification", 
+            "Type": "Core", 
+            "Certification ID": "0787", 
+            "Certifying Organization": "American Council on Exercise"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Personal Trainer Certification", 
+            "Type": "Core", 
+            "Certification ID": "2637", 
+            "Certifying Organization": "International Sports Sciences Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Youth Fitness Instructor", 
+            "Type": "Advanced", 
+            "Certification ID": "4652", 
+            "Certifying Organization": "International Fitness Professional Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Cardio Kickboxing Instructor Certification", 
+            "Type": "Core", 
+            "Certification ID": "5935", 
+            "Certifying Organization": "American Fitness Professionals and Associates"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Sports Nutrition Specialist", 
+            "Type": "Core", 
+            "Certification ID": "8601", 
+            "Certifying Organization": "National Exercise and Sports Trainers Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Pilates Reformer Specialty Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "7432", 
+            "Certifying Organization": "National Exercise Trainers Association"
+        }, 
+        {
+            "Acronym": "CWP", 
+            "Certification Name": "Certified Wellness Practitioner", 
+            "Type": "Advanced", 
+            "Certification ID": "8929", 
+            "Certifying Organization": "National Wellness Institute"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "AFAA Challenge Exam", 
+            "Type": "Specialty", 
+            "Certification ID": "3882", 
+            "Certifying Organization": "Aerobics and Fitness Association of America"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Sports Medicine Trainer", 
+            "Type": "Specialty", 
+            "Certification ID": "4655", 
+            "Certifying Organization": "International Fitness Professional Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Heart Rate Performance Specialist", 
+            "Type": "Core", 
+            "Certification ID": "8600", 
+            "Certifying Organization": "National Exercise and Sports Trainers Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Yoga Instructor Level II", 
+            "Type": "Advanced", 
+            "Certification ID": "3912", 
+            "Certifying Organization": "American Fitness Professionals and Associates"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Advanced Functional Training Specialist", 
+            "Type": "Core", 
+            "Certification ID": "4649", 
+            "Certifying Organization": "International Fitness Professional Association"
+        }, 
+        {
+            "Acronym": "MES", 
+            "Certification Name": "Medical Exercise Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "1058", 
+            "Certifying Organization": "American Academy of Health, Fitness, & Rehabilitation Professionals"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Health Fitness Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "0912", 
+            "Certifying Organization": "American College of Sports Medicine"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Yoga Instructor Level I", 
+            "Type": "Core", 
+            "Certification ID": "3911", 
+            "Certifying Organization": "American Fitness Professionals and Associates"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Board Certification for Personal Fitness Trainers", 
+            "Type": "Core", 
+            "Certification ID": "6722", 
+            "Certifying Organization": "International Fitness Professional Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Pilates Instructor", 
+            "Type": "Advanced", 
+            "Certification ID": "6728", 
+            "Certifying Organization": "International Fitness Professional Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Strength Training Specialist", 
+            "Type": "Core", 
+            "Certification ID": "4648", 
+            "Certifying Organization": "International Fitness Professional Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Personal Trainer", 
+            "Type": "Core", 
+            "Certification ID": "6981", 
+            "Certifying Organization": "National Council for Certified Personal Trainers"
+        }, 
+        {
+            "Acronym": "GEI", 
+            "Certification Name": "Certified Group Exercise Instructor", 
+            "Type": "Core", 
+            "Certification ID": "6694", 
+            "Certifying Organization": "American College of Sports Medicine"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Advanced Weight Management Instructor", 
+            "Type": "Advanced", 
+            "Certification ID": "4656", 
+            "Certifying Organization": "International Fitness Professional Association"
+        }, 
+        {
+            "Acronym": "SFSC", 
+            "Certification Name": "Senior Fitness Specialist Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "1062", 
+            "Certifying Organization": "American Fitness Professionals and Associates"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Personal Trainer", 
+            "Type": "Core", 
+            "Certification ID": "6050", 
+            "Certifying Organization": "National Academy of Sports Medicine"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Medical Exercise Program Director", 
+            "Type": "Advanced", 
+            "Certification ID": "5730", 
+            "Certifying Organization": "American Academy of Health, Fitness, & Rehabilitation Professionals"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Primary Group Exercise Instructor", 
+            "Type": "Core", 
+            "Certification ID": "1050", 
+            "Certifying Organization": "Aerobics and Fitness Association of America"
+        }, 
+        {
+            "Acronym": "PFT", 
+            "Certification Name": "Certified Personal Fitness Trainer", 
+            "Type": "Core", 
+            "Certification ID": "1251", 
+            "Certifying Organization": "National Board of Fitness Examiners"
+        }, 
+        {
+            "Acronym": "CIC", 
+            "Certification Name": "Cycle Instructor Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "1063", 
+            "Certifying Organization": "American Fitness Professionals and Associates"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Stability Ball Trainer Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "3913", 
+            "Certifying Organization": "American Fitness Professionals and Associates"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Personal Trainer Certification", 
+            "Type": "Core", 
+            "Certification ID": "2038", 
+            "Certifying Organization": "National Strength Professionals Association"
+        }, 
+        {
+            "Acronym": "PCT", 
+            "Certification Name": "Pilates Certified Teacher", 
+            "Type": "Core", 
+            "Certification ID": "6101", 
+            "Certifying Organization": "Pilates Method Alliance"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Group Exercise Instructor", 
+            "Type": "Core", 
+            "Certification ID": "7656", 
+            "Certifying Organization": "National Exercise and Sports Trainers Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Advanced Lifestyle Fitness Coach Level I", 
+            "Type": "Advanced", 
+            "Certification ID": "6723", 
+            "Certifying Organization": "International Fitness Professional Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Sports Conditioning Specialty Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "9107", 
+            "Certifying Organization": "American Council on Exercise"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Personal Trainer Certification", 
+            "Type": "Core", 
+            "Certification ID": "6982", 
+            "Certifying Organization": "National Council on Strength and Fitness"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Personal Fitness Trainer", 
+            "Type": "Core", 
+            "Certification ID": "6983", 
+            "Certifying Organization": "National Exercise and Sports Trainers Association"
+        }, 
+        {
+            "Acronym": "CET", 
+            "Certification Name": "Certified Cancer Exercise Trainer", 
+            "Type": "Specialty", 
+            "Certification ID": "5931", 
+            "Certifying Organization": "American College of Sports Medicine"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Functional Training Specialty Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "9108", 
+            "Certifying Organization": "American Council on Exercise"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified TACTIX Instructor", 
+            "Type": "Core", 
+            "Certification ID": "8605", 
+            "Certifying Organization": "National Exercise and Sports Trainers Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Senior Fitness Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "2635", 
+            "Certifying Organization": "International Sports Sciences Association"
+        }, 
+        {
+            "Acronym": "CMMACC", 
+            "Certification Name": "Certified MMA Conditioning Coach", 
+            "Type": "Core", 
+            "Certification ID": "8597", 
+            "Certifying Organization": "National Exercise and Sports Trainers Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Sports Nutrition Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "1292", 
+            "Certifying Organization": "International Sports Sciences Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Personal FitnessTrainer", 
+            "Type": "Core", 
+            "Certification ID": "1052", 
+            "Certifying Organization": "Aerobics and Fitness Association of America"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Kick Boxing Level I", 
+            "Type": "Core", 
+            "Certification ID": "3968", 
+            "Certifying Organization": "International Sports Conditioning Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Advanced Flexibility Specialist", 
+            "Type": "Core", 
+            "Certification ID": "4657", 
+            "Certifying Organization": "International Fitness Professional Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Kettlebell Specialty Certification", 
+            "Type": "Core", 
+            "Certification ID": "7431", 
+            "Certifying Organization": "National Exercise Trainers Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Exercise/Fitness Therapy Certification", 
+            "Type": "Core", 
+            "Certification ID": "1290", 
+            "Certifying Organization": "International Sports Sciences Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Mind Body Specialty Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "9109", 
+            "Certifying Organization": "American Council on Exercise"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Pilates Fitness Instructor Certification - Level II", 
+            "Type": "Advanced", 
+            "Certification ID": "5936", 
+            "Certifying Organization": "American Fitness Professionals and Associates"
+        }, 
+        {
+            "Acronym": "CPPNES", 
+            "Certification Name": "Pre/Post Natal Exercise Specialist Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "1071", 
+            "Certifying Organization": "American Fitness Professionals and Associates"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Fitness Nutrition Certification", 
+            "Type": "Core", 
+            "Certification ID": "1291", 
+            "Certifying Organization": "International Sports Sciences Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Conditioning Specialist Certification", 
+            "Type": "Core", 
+            "Certification ID": "2039", 
+            "Certifying Organization": "National Strength Professionals Association"
+        }, 
+        {
+            "Acronym": "CNC", 
+            "Certification Name": "Nutrition/Wellness Consultant Certification", 
+            "Type": "Core", 
+            "Certification ID": "1068", 
+            "Certifying Organization": "American Fitness Professionals and Associates"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Sports Injury Specialist", 
+            "Type": "Advanced", 
+            "Certification ID": "8607", 
+            "Certifying Organization": "National Exercise and Sports Trainers Association"
+        }, 
+        {
+            "Acronym": "CPFI", 
+            "Certification Name": "Pilates Fitness Instructor Certification", 
+            "Type": "Core", 
+            "Certification ID": "2625", 
+            "Certifying Organization": "American Fitness Professionals and Associates"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Program Design Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "1256", 
+            "Certifying Organization": "International Fitness Professional Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Advanced Sports Nutrition", 
+            "Type": "Advanced", 
+            "Certification ID": "4647", 
+            "Certifying Organization": "International Fitness Professional Association"
+        }, 
+        {
+            "Acronym": "CPT", 
+            "Certification Name": "Certified Personal Trainer", 
+            "Type": "Advanced", 
+            "Certification ID": "6990", 
+            "Certifying Organization": "Training and Wellness Certification Commission"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Triathlon Coach", 
+            "Type": "Core", 
+            "Certification ID": "8598", 
+            "Certifying Organization": "National Exercise and Sports Trainers Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Pilates Mat Level I", 
+            "Type": "Specialty", 
+            "Certification ID": "3971", 
+            "Certifying Organization": "International Sports Conditioning Association"
+        }, 
+        {
+            "Acronym": "YB", 
+            "Certification Name": "Yoga Ball", 
+            "Type": "Specialty", 
+            "Certification ID": "3972", 
+            "Certifying Organization": "International Sports Conditioning Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Master Personal Fitness Trainer", 
+            "Type": "Advanced", 
+            "Certification ID": "1254", 
+            "Certifying Organization": "International Fitness Professional Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Kbox Round II", 
+            "Type": "Advanced", 
+            "Certification ID": "3969", 
+            "Certifying Organization": "International Sports Conditioning Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Biomechanics Specialist", 
+            "Type": "Core", 
+            "Certification ID": "8602", 
+            "Certifying Organization": "National Exercise and Sports Trainers Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Aquatic Fitness Professional", 
+            "Type": "Core", 
+            "Certification ID": "1086", 
+            "Certifying Organization": "Aquatic Exercise Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Sports Nutrition", 
+            "Type": "Core", 
+            "Certification ID": "1255", 
+            "Certifying Organization": "International Fitness Professional Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Post Rehab Exercise Specialist Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "1060", 
+            "Certifying Organization": "American Fitness Professionals and Associates"
+        }, 
+        {
+            "Acronym": "CSCS", 
+            "Certification Name": "Certified Strength and Conditioning Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "1056", 
+            "Certifying Organization": "National Strength and Conditioning Association - Certification Commission"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Orthopedic Exercise Specialty Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "9111", 
+            "Certifying Organization": "American Council on Exercise"
+        }, 
+        {
+            "Acronym": "CAI", 
+            "Certification Name": "Aquatics Instructor Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "1070", 
+            "Certifying Organization": "American Fitness Professionals and Associates"
+        }, 
+        {
+            "Acronym": "CPT", 
+            "Certification Name": "Certified Personal Trainer", 
+            "Type": "Core", 
+            "Certification ID": "3901", 
+            "Certifying Organization": "American College of Sports Medicine"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Personal Trainer Certification", 
+            "Type": "Core", 
+            "Certification ID": "4339", 
+            "Certifying Organization": "Cooper Institute for Aerobics Research"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Strength and Sports Conditioning Specialist", 
+            "Type": "Core", 
+            "Certification ID": "4651", 
+            "Certifying Organization": "International Fitness Professional Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Military Fitness Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "6727", 
+            "Certifying Organization": "International Fitness Professional Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Personal Trainer - Master Level", 
+            "Type": "Advanced", 
+            "Certification ID": "5933", 
+            "Certifying Organization": "American Fitness Professionals and Associates"
+        }, 
+        {
+            "Acronym": "GFI", 
+            "Certification Name": "Group Fitness Instructor Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "1066", 
+            "Certifying Organization": "American Fitness Professionals and Associates"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Strength Trainer Certification", 
+            "Type": "Core", 
+            "Certification ID": "1067", 
+            "Certifying Organization": "American Fitness Professionals and Associates"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Lifestyle Weight Management Specialist", 
+            "Type": "Core", 
+            "Certification ID": "8608", 
+            "Certifying Organization": "National Exercise and Sports Trainers Association"
+        }, 
+        {
+            "Acronym": "GEC", 
+            "Certification Name": "Group Exercise Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "4351", 
+            "Certifying Organization": "National Exercise Trainers Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Advanced Personal Trainer", 
+            "Type": "Advanced", 
+            "Certification ID": "1253", 
+            "Certifying Organization": "International Fitness Professional Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Worksite Wellness Program Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "9133", 
+            "Certifying Organization": "National Wellness Institute"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Boxing Level I", 
+            "Type": "Core", 
+            "Certification ID": "3967", 
+            "Certifying Organization": "International Sports Conditioning Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Kid's Nutrition Specialist", 
+            "Type": "Core", 
+            "Certification ID": "8612", 
+            "Certifying Organization": "National Exercise and Sports Trainers Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Group Fitness Instructor", 
+            "Type": "Core", 
+            "Certification ID": "1258", 
+            "Certifying Organization": "International Fitness Professional Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Functional Training Specialist Certification", 
+            "Type": "Core", 
+            "Certification ID": "3910", 
+            "Certifying Organization": "American Fitness Professionals and Associates"
+        }, 
+        {
+            "Acronym": "CPT", 
+            "Certification Name": "Certified Personal Fitness Trainer", 
+            "Type": "Core", 
+            "Certification ID": "6984", 
+            "Certifying Organization": "National Federation of Professional Trainers"
+        }, 
+        {
+            "Acronym": "PAPHS", 
+            "Certification Name": "Physical Activity in Public Health Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "5932", 
+            "Certifying Organization": "American College of Sports Medicine"
+        }, 
+        {
+            "Acronym": "NSCA-CPT", 
+            "Certification Name": "NSCA-Certified Personal Trainer", 
+            "Type": "Core", 
+            "Certification ID": "1057", 
+            "Certifying Organization": "National Strength and Conditioning Association - Certification Commission"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IMPACT Trainer Certification", 
+            "Type": "Core", 
+            "Certification ID": "8606", 
+            "Certifying Organization": "National Exercise and Sports Trainers Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Weight Management Consultant Certification", 
+            "Type": "Core", 
+            "Certification ID": "5934", 
+            "Certifying Organization": "American Fitness Professionals and Associates"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IRD Assistant Sidewalker or Horsehandler", 
+            "Type": "Specialty", 
+            "Certification ID": "1394", 
+            "Certifying Organization": "Certified Horsemanship Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Fitness Nutrition Coach", 
+            "Type": "Core", 
+            "Certification ID": "8599", 
+            "Certifying Organization": "National Exercise and Sports Trainers Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Health Coach Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "0788", 
+            "Certifying Organization": "American Council on Exercise"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Physical Best Health-Fitness Instructor", 
+            "Type": "Core", 
+            "Certification ID": "2145", 
+            "Certifying Organization": "American Alliance for Health, Physical Education, Recreation and Dance"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Therapeutic Exercise Specialty Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "9112", 
+            "Certifying Organization": "American Council on Exercise"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Yoga Specialty Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "4350", 
+            "Certifying Organization": "National Exercise Trainers Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Inclusive Fitness Trainer", 
+            "Type": "Specialty", 
+            "Certification ID": "5930", 
+            "Certifying Organization": "American College of Sports Medicine"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Special Population Trainer", 
+            "Type": "Specialty", 
+            "Certification ID": "6724", 
+            "Certifying Organization": "International Fitness Professional Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Strength and Conditioning Certification", 
+            "Type": "Core", 
+            "Certification ID": "2634", 
+            "Certifying Organization": "International Sports Sciences Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Physical Best Health-Fitness Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "2144", 
+            "Certifying Organization": "American Alliance for Health, Physical Education, Recreation and Dance"
+        }, 
+        {
+            "Acronym": "GFI", 
+            "Certification Name": "Group Fitness Instructor Certification", 
+            "Type": "Core", 
+            "Certification ID": "0786", 
+            "Certifying Organization": "American Council on Exercise"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Youth Fitness Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "1295", 
+            "Certifying Organization": "International Sports Sciences Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Kickboxing Certification", 
+            "Type": "Core", 
+            "Certification ID": "1049", 
+            "Certifying Organization": "Aerobics and Fitness Association of America"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Personal Fitness Trainer", 
+            "Type": "Core", 
+            "Certification ID": "1252", 
+            "Certifying Organization": "International Fitness Professional Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Sports Nutrition Consultant Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "3908", 
+            "Certifying Organization": "American Fitness Professionals and Associates"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Sports Conditioning Specialist Certification", 
+            "Type": "Core", 
+            "Certification ID": "3909", 
+            "Certifying Organization": "American Fitness Professionals and Associates"
+        }, 
+        {
+            "Acronym": "PTC", 
+            "Certification Name": "Personal Trainer Certification", 
+            "Type": "Core", 
+            "Certification ID": "4352", 
+            "Certifying Organization": "National Exercise Trainers Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Group Exercise Leadership Specialty Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "9110", 
+            "Certifying Organization": "American Council on Exercise"
+        }, 
+        {
+            "Acronym": "MCC", 
+            "Certification Name": "Master Certified Coach", 
+            "Type": "Core", 
+            "Certification ID": "2090", 
+            "Certifying Organization": "International Coach Federation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Children's Fitness Specialist Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "1064", 
+            "Certifying Organization": "American Fitness Professionals and Associates"
+        }, 
+        {
+            "Acronym": "CPT", 
+            "Certification Name": "Personal Trainer Certification", 
+            "Type": "Core", 
+            "Certification ID": "1059", 
+            "Certifying Organization": "American Fitness Professionals and Associates"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Functional Muscle Training Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "6721", 
+            "Certifying Organization": "International Fitness Professional Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Low Back Disorder Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "6725", 
+            "Certifying Organization": "International Fitness Professional Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Medical Fitness Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "6726", 
+            "Certifying Organization": "International Fitness Professional Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Registered Clinical Exercise Physiologist", 
+            "Type": "Core", 
+            "Certification ID": "0911", 
+            "Certifying Organization": "American College of Sports Medicine"
+        }, 
+        {
+            "Acronym": "APT", 
+            "Certification Name": "Advanced Personal Trainer", 
+            "Type": "Advanced", 
+            "Certification ID": "2624", 
+            "Certifying Organization": "American Fitness Professionals and Associates"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Senior Fitness Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "1257", 
+            "Certifying Organization": "International Fitness Professional Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Spencer Pilates Instructor", 
+            "Type": "Core", 
+            "Certification ID": "8610", 
+            "Certifying Organization": "National Exercise and Sports Trainers Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Functional Training Specialist", 
+            "Type": "Core", 
+            "Certification ID": "8603", 
+            "Certifying Organization": "National Exercise and Sports Trainers Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Core Conditioning Specialist", 
+            "Type": "Core", 
+            "Certification ID": "8611", 
+            "Certifying Organization": "National Exercise and Sports Trainers Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Speed Agility & Quickness", 
+            "Type": "Core", 
+            "Certification ID": "8604", 
+            "Certifying Organization": "National Exercise and Sports Trainers Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Sport Yoga Instructor", 
+            "Type": "Core", 
+            "Certification ID": "8609", 
+            "Certifying Organization": "National Exercise and Sports Trainers Association"
+        }
+    ], 
+    "onet": "39903100"
+}

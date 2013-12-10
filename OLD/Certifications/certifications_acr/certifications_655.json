@@ -1,0 +1,26 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "AHC", 
+            "Certification Name": "Architectural Hardware Consultants", 
+            "Type": "Advanced", 
+            "Certification ID": "8012", 
+            "Certifying Organization": "Door and Hardware Institute"
+        }, 
+        {
+            "Acronym": "CDC", 
+            "Certification Name": "Certified Door Consultants", 
+            "Type": "Advanced", 
+            "Certification ID": "8013", 
+            "Certifying Organization": "Door and Hardware Institute"
+        }, 
+        {
+            "Acronym": "AOC", 
+            "Certification Name": "Architectural Openings Consultants", 
+            "Type": "Advanced", 
+            "Certification ID": "8015", 
+            "Certifying Organization": "Door and Hardware Institute"
+        }
+    ], 
+    "onet": "47203102"
+}

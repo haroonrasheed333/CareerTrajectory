@@ -1,0 +1,124 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification of Preventive Medicine/Public Health", 
+            "Type": "Specialty", 
+            "Certification ID": "6385", 
+            "Certifying Organization": "American Osteopathic Board of Preventive Medicine"
+        }, 
+        {
+            "Acronym": "CSPI", 
+            "Certification Name": "Certification for Specialists in Poison Information", 
+            "Type": "Specialty", 
+            "Certification ID": "7450", 
+            "Certifying Organization": "American Association of Poison Control Centers"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Diplomate", 
+            "Type": "Advanced", 
+            "Certification ID": "8842", 
+            "Certifying Organization": "National Board of Medical Examiners"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification in Preventive Medicine/Occupational-Environmental Medicine", 
+            "Type": "Specialty", 
+            "Certification ID": "6384", 
+            "Certifying Organization": "American Osteopathic Board of Preventive Medicine"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification of Added Qualifications for Occupational Medicine", 
+            "Type": "Specialty", 
+            "Certification ID": "6386", 
+            "Certifying Organization": "American Osteopathic Board of Preventive Medicine"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Medical Biochemical Genetics", 
+            "Type": "Specialty", 
+            "Certification ID": "6433", 
+            "Certifying Organization": "American Board of Medical Genetics"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification in Occupational Medicine", 
+            "Type": "Specialty", 
+            "Certification ID": "0243", 
+            "Certifying Organization": "American Board of Preventive Medicine"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification in Undersea Medicine & Hyperbaric Medicine", 
+            "Type": "Specialty", 
+            "Certification ID": "0244", 
+            "Certifying Organization": "American Board of Preventive Medicine"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification in Public Health/General Preventive Medicine", 
+            "Type": "Specialty", 
+            "Certification ID": "0245", 
+            "Certifying Organization": "American Board of Preventive Medicine"
+        }, 
+        {
+            "Acronym": "CoAP", 
+            "Certification Name": "Cardiac CT Certificate of Advanced Proficiency", 
+            "Type": "Specialty", 
+            "Certification ID": "9491", 
+            "Certifying Organization": "American College of Radiology"
+        }, 
+        {
+            "Acronym": "CPE", 
+            "Certification Name": "Certified Physician Executive", 
+            "Type": "Specialty", 
+            "Certification ID": "9526", 
+            "Certifying Organization": "Certifying Commission in Medical Management"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification of Added Qualifications for Undersea and Hyperbaric Medicine", 
+            "Type": "Specialty", 
+            "Certification ID": "6387", 
+            "Certifying Organization": "American Osteopathic Board of Preventive Medicine"
+        }, 
+        {
+            "Acronym": "CPHQ", 
+            "Certification Name": "Certified Professional in Healthcare Quality", 
+            "Type": "Core", 
+            "Certification ID": "9207", 
+            "Certifying Organization": "National Association for Healthcare Quality"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification in Internal Medicine/Preventive Medicine", 
+            "Type": "Core", 
+            "Certification ID": "2545", 
+            "Certifying Organization": "American Board of Internal Medicine"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification in Aerospace Medicine", 
+            "Type": "Specialty", 
+            "Certification ID": "0241", 
+            "Certifying Organization": "American Board of Preventive Medicine"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification in Medical Toxicology", 
+            "Type": "Specialty", 
+            "Certification ID": "0242", 
+            "Certifying Organization": "American Board of Preventive Medicine"
+        }, 
+        {
+            "Acronym": "CPM/AM", 
+            "Certification Name": "Certification in Preventive Medicine/Aerospace Medicine", 
+            "Type": "Specialty", 
+            "Certification ID": "2560", 
+            "Certifying Organization": "American Osteopathic Board of Preventive Medicine"
+        }
+    ], 
+    "onet": "29106909"
+}

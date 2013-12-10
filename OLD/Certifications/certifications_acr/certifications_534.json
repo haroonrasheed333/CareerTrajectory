@@ -1,0 +1,75 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "MSR", 
+            "Certification Name": "Master Fire & Smoke Restorer", 
+            "Type": "Specialty", 
+            "Certification ID": "2358", 
+            "Certifying Organization": "Institute of Inspection Cleaning and Restoration Certification"
+        }, 
+        {
+            "Acronym": "JTC", 
+            "Certification Name": "Journeyman Textile Cleaner", 
+            "Type": "Specialty", 
+            "Certification ID": "2343", 
+            "Certifying Organization": "Institute of Inspection Cleaning and Restoration Certification"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Chimney Sweep", 
+            "Type": "Core", 
+            "Certification ID": "3163", 
+            "Certifying Organization": "Chimney Safety Institute of America"
+        }, 
+        {
+            "Acronym": "MTC", 
+            "Certification Name": "Master Textile Cleaner", 
+            "Type": "Specialty", 
+            "Certification ID": "2345", 
+            "Certifying Organization": "Institute of Inspection Cleaning and Restoration Certification"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Hospitality Skill Certification for Maintenance Employee", 
+            "Type": "Core", 
+            "Certification ID": "3313", 
+            "Certifying Organization": "American Hotel and Lodging Association Educational Institute"
+        }, 
+        {
+            "Acronym": "MAS", 
+            "Certification Name": "Mold Awareness Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "6700", 
+            "Certifying Organization": "National Registry of Environmental Professionals"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Air Systems Cleaning Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "3612", 
+            "Certifying Organization": "National Air Ducts Cleaning Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Hospitality Skill Certification for Guestroom Attendant", 
+            "Type": "Core", 
+            "Certification ID": "1167", 
+            "Certifying Organization": "American Hotel and Lodging Association Educational Institute"
+        }, 
+        {
+            "Acronym": "AHA", 
+            "Certification Name": "Certified Healthcare Environmental Services Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "3745", 
+            "Certifying Organization": "American Hospital Association"
+        }, 
+        {
+            "Acronym": "JSR", 
+            "Certification Name": "Journeyman Fire & Smoke Restorer", 
+            "Type": "Specialty", 
+            "Certification ID": "2351", 
+            "Certifying Organization": "Institute of Inspection Cleaning and Restoration Certification"
+        }
+    ], 
+    "onet": "37201100"
+}

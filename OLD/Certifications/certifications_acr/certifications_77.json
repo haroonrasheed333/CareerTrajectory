@@ -1,0 +1,89 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CLP", 
+            "Certification Name": "Certified Logistic Professional", 
+            "Type": "Core", 
+            "Certification ID": "5778", 
+            "Certifying Organization": "International Warehouse Logistics Association"
+        }, 
+        {
+            "Acronym": "CPL", 
+            "Certification Name": "Certified Professional Logistician", 
+            "Type": "Core", 
+            "Certification ID": "5590", 
+            "Certifying Organization": "International Society of Logistics"
+        }, 
+        {
+            "Acronym": "DLP", 
+            "Certification Name": "Demonstrated Logistician Program", 
+            "Type": "Core", 
+            "Certification ID": "5511", 
+            "Certifying Organization": "International Society of Logistics"
+        }, 
+        {
+            "Acronym": "CPIM", 
+            "Certification Name": "Certified in Production and Inventory Management", 
+            "Type": "Advanced", 
+            "Certification ID": "1432", 
+            "Certifying Organization": "The Association for Operations Management"
+        }, 
+        {
+            "Acronym": "CLT", 
+            "Certification Name": "Certified Logistics Technician", 
+            "Type": "Core", 
+            "Certification ID": "6505", 
+            "Certifying Organization": "Manufacturing Skill Standards Council"
+        }, 
+        {
+            "Acronym": "CITLS", 
+            "Certification Name": "Certified International Trade Logistics Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "5190", 
+            "Certifying Organization": "IIEI Certification"
+        }, 
+        {
+            "Acronym": "CSCP", 
+            "Certification Name": "Certified Supply Chain Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "4895", 
+            "Certifying Organization": "The Association for Operations Management"
+        }, 
+        {
+            "Acronym": "CML", 
+            "Certification Name": "Certified Master Logistician", 
+            "Type": "Advanced", 
+            "Certification ID": "5510", 
+            "Certifying Organization": "International Society of Logistics"
+        }, 
+        {
+            "Acronym": "CFPIM", 
+            "Certification Name": "Certified Fellow in Production and Inventory Management", 
+            "Type": "Advanced", 
+            "Certification ID": "1434", 
+            "Certifying Organization": "The Association for Operations Management"
+        }, 
+        {
+            "Acronym": "CMRP", 
+            "Certification Name": "Certified Materials & Resource Professional", 
+            "Type": "Core", 
+            "Certification ID": "3746", 
+            "Certifying Organization": "Association for Healthcare Resource & Materials Management"
+        }, 
+        {
+            "Acronym": "PCMH", 
+            "Certification Name": "Professional Certified in Materials Handling", 
+            "Type": "Core", 
+            "Certification ID": "1430", 
+            "Certifying Organization": "Materials Handling and Management Society"
+        }, 
+        {
+            "Acronym": "CTL", 
+            "Certification Name": "Certified in Transportation and Logistics", 
+            "Type": "Advanced", 
+            "Certification ID": "1443", 
+            "Certifying Organization": "American Society of Transportation and Logistics"
+        }
+    ], 
+    "onet": "13108100"
+}

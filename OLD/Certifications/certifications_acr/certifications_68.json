@@ -1,0 +1,243 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Construction & Demolition Materials - Technical Associate", 
+            "Type": "Core", 
+            "Certification ID": "3727", 
+            "Certifying Organization": "Solid Waste Association of North America"
+        }, 
+        {
+            "Acronym": "CSM", 
+            "Certification Name": "Certified Stormwater Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "6170", 
+            "Certifying Organization": "American Public Works Association"
+        }, 
+        {
+            "Acronym": "CPSWQ", 
+            "Certification Name": "Certified Professional in Storm Water Quality", 
+            "Type": "Advanced", 
+            "Certification ID": "8978", 
+            "Certifying Organization": "EnviroCert International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Transfer Station Systems - Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "1470", 
+            "Certifying Organization": "Solid Waste Association of North America"
+        }, 
+        {
+            "Acronym": "ID&C", 
+            "Certification Name": "LEED AP Interior Design & Construction", 
+            "Type": "Advanced", 
+            "Certification ID": "6272", 
+            "Certifying Organization": "Green Building Certification Institute"
+        }, 
+        {
+            "Acronym": "CEA", 
+            "Certification Name": "Certified Environmental Auditor", 
+            "Type": "Advanced", 
+            "Certification ID": "1117", 
+            "Certifying Organization": "National Registry of Environmental Professionals"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Collection Systems - Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "5350", 
+            "Certifying Organization": "Solid Waste Association of North America"
+        }, 
+        {
+            "Acronym": "CHMM", 
+            "Certification Name": "Certified Hazardous Materials Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "0920", 
+            "Certifying Organization": "Institute of Hazardous Materials Management"
+        }, 
+        {
+            "Acronym": "RHSP", 
+            "Certification Name": "Registered Hazardous Substances Professional", 
+            "Type": "Specialty", 
+            "Certification ID": "0124", 
+            "Certifying Organization": "National Environmental Health Association"
+        }, 
+        {
+            "Acronym": "CMS4S", 
+            "Certification Name": "Certified Municipal Separate Storm Sewer System Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "8979", 
+            "Certifying Organization": "EnviroCert International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Disaster Response Inspector", 
+            "Type": "Advanced", 
+            "Certification ID": "4630", 
+            "Certifying Organization": "International Code Council"
+        }, 
+        {
+            "Acronym": "BD+C", 
+            "Certification Name": "LEED AP  Building Design & Construction", 
+            "Type": "Advanced", 
+            "Certification ID": "6270", 
+            "Certifying Organization": "Green Building Certification Institute"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Composting Program - Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "1467", 
+            "Certifying Organization": "Solid Waste Association of North America"
+        }, 
+        {
+            "Acronym": "CPESC", 
+            "Certification Name": "Certified Professional in Erosion and Sediment Control", 
+            "Type": "Advanced", 
+            "Certification ID": "8976", 
+            "Certifying Organization": "EnviroCert International"
+        }, 
+        {
+            "Acronym": "CEA", 
+            "Certification Name": "Certified Energy Auditor", 
+            "Type": "Advanced", 
+            "Certification ID": "5505", 
+            "Certifying Organization": "Association of Energy Engineers"
+        }, 
+        {
+            "Acronym": "EC", 
+            "Certification Name": "Environmental Compliance Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "3672", 
+            "Certifying Organization": "Board of Environmental Health and Safety Auditor Certification"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Landfill Operations - Inspector", 
+            "Type": "Advanced", 
+            "Certification ID": "1463", 
+            "Certifying Organization": "Solid Waste Association of North America"
+        }, 
+        {
+            "Acronym": "WSO-CGEO", 
+            "Certification Name": "WSO - Certified Governmental Environmental Officer", 
+            "Type": "Advanced", 
+            "Certification ID": "1003", 
+            "Certifying Organization": "World Safety Organization"
+        }, 
+        {
+            "Acronym": "REPA", 
+            "Certification Name": "Registered Environmental Property Assessor", 
+            "Type": "Advanced", 
+            "Certification ID": "1118", 
+            "Certifying Organization": "National Registry of Environmental Professionals"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Integrated Solid Waste Management - Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "1465", 
+            "Certifying Organization": "Solid Waste Association of North America"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "LEED AP Homes", 
+            "Type": "Advanced", 
+            "Certification ID": "6271", 
+            "Certifying Organization": "Green Building Certification Institute"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "API 571 Supplemental Inspection Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "5270", 
+            "Certifying Organization": "American Petroleum Institute"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Construction & Demolition Materials - Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "1466", 
+            "Certifying Organization": "Solid Waste Association of North America"
+        }, 
+        {
+            "Acronym": "O", 
+            "Certification Name": "LEED AP Operations & Maintenance", 
+            "Type": "Specialty", 
+            "Certification ID": "6273", 
+            "Certifying Organization": "Green Building Certification Institute"
+        }, 
+        {
+            "Acronym": "CESSWI", 
+            "Certification Name": "Certified Erosion, Sediment and Storm Water Inspector", 
+            "Type": "Core", 
+            "Certification ID": "5835", 
+            "Certifying Organization": "CPESC, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Construction & Demolition Materials - Inspector", 
+            "Type": "Advanced", 
+            "Certification ID": "5351", 
+            "Certifying Organization": "Solid Waste Association of North America"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Home Energy Rater", 
+            "Type": "Core", 
+            "Certification ID": "6823", 
+            "Certifying Organization": "Residential Energy Services Network"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Rating Field Inspector", 
+            "Type": "Core", 
+            "Certification ID": "6824", 
+            "Certifying Organization": "Residential Energy Services Network"
+        }, 
+        {
+            "Acronym": "CES", 
+            "Certification Name": "Certified Environmental Scientist", 
+            "Type": "Core", 
+            "Certification ID": "6699", 
+            "Certifying Organization": "National Registry of Environmental Professionals"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Recycling Systems - Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "1469", 
+            "Certifying Organization": "Solid Waste Association of North America"
+        }, 
+        {
+            "Acronym": "RCA", 
+            "Certification Name": "Responsible Care Auditor", 
+            "Type": "Advanced", 
+            "Certification ID": "6263", 
+            "Certifying Organization": "Board of Environmental Health and Safety Auditor Certification"
+        }, 
+        {
+            "Acronym": "WSO-CGSO", 
+            "Certification Name": "WSO - Certified Governmental Safety Officer", 
+            "Type": "Advanced", 
+            "Certification ID": "1000", 
+            "Certifying Organization": "World Safety Organization"
+        }, 
+        {
+            "Acronym": "WSO-CGES", 
+            "Certification Name": "WSO - Certified Governmental Environmental Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "1004", 
+            "Certifying Organization": "World Safety Organization"
+        }, 
+        {
+            "Acronym": "CESSWI", 
+            "Certification Name": "Certified Erosion, Sediment and Storm Water Inspector", 
+            "Type": "Advanced", 
+            "Certification ID": "8977", 
+            "Certifying Organization": "EnviroCert International"
+        }
+    ], 
+    "onet": "13104101"
+}

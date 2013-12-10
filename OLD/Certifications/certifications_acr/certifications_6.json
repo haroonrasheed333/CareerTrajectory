@@ -1,0 +1,334 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CHME", 
+            "Certification Name": "Certified Hospitality Marketing Executive", 
+            "Type": "Advanced", 
+            "Certification ID": "5588", 
+            "Certifying Organization": "Hospitality Sales & Marketing Association International"
+        }, 
+        {
+            "Acronym": "CPMM", 
+            "Certification Name": "Certified Product Marketing Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "9045", 
+            "Certifying Organization": "Association of International Product Marketing and Management"
+        }, 
+        {
+            "Acronym": "CLS", 
+            "Certification Name": "Certified Leasing Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "9390", 
+            "Certifying Organization": "International Council of Shopping Centers"
+        }, 
+        {
+            "Acronym": "CSP", 
+            "Certification Name": "Certified Sales Professional", 
+            "Type": "Core", 
+            "Certification ID": "1320", 
+            "Certifying Organization": "Manufacturers Representatives Educational Research Foundation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "National Professional Certification in Retail Management", 
+            "Type": "Core", 
+            "Certification ID": "5787", 
+            "Certifying Organization": "National Retail Federation Foundation"
+        }, 
+        {
+            "Acronym": "CITP", 
+            "Certification Name": "Certified International Trade Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "5187", 
+            "Certifying Organization": "IIEI Certification"
+        }, 
+        {
+            "Acronym": "AAI", 
+            "Certification Name": "Accredited Adviser in Insurance", 
+            "Type": "Advanced", 
+            "Certification ID": "0473", 
+            "Certifying Organization": "The Institutes"
+        }, 
+        {
+            "Acronym": "CHSE", 
+            "Certification Name": "Certified Hospitality Sales Executive", 
+            "Type": "Advanced", 
+            "Certification ID": "8545", 
+            "Certifying Organization": "Hospitality Sales & Marketing Association International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Coffee Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "1214", 
+            "Certifying Organization": "National Automatic Merchandising Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Accredited Bridal Consultant", 
+            "Type": "Core", 
+            "Certification ID": "2171", 
+            "Certifying Organization": "Association of Bridal Consultants"
+        }, 
+        {
+            "Acronym": "CPSM", 
+            "Certification Name": "Certified Professional Services Marketer", 
+            "Type": "Core", 
+            "Certification ID": "2250", 
+            "Certifying Organization": "Society for Marketing Professional Services"
+        }, 
+        {
+            "Acronym": "CITMS", 
+            "Certification Name": "Certified International Trade Marketing Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "5192", 
+            "Certifying Organization": "IIEI Certification"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Teradata 12 Basics", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "2795", 
+            "Certifying Organization": "Teradata"
+        }, 
+        {
+            "Acronym": "CPSP", 
+            "Certification Name": "Certified Professional Salesperson Level I", 
+            "Type": "Core", 
+            "Certification ID": "9418", 
+            "Certifying Organization": "National Association of Sales Professionals"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "CompTIA Strata IT Fundamentals Certification", 
+            "Type": "Core", 
+            "Certification ID": "7373", 
+            "Certifying Organization": "Computing Technology Industry Association (CompTIA)"
+        }, 
+        {
+            "Acronym": "MIRM", 
+            "Certification Name": "Master in Residential Marketing", 
+            "Type": "Advanced", 
+            "Certification ID": "3797", 
+            "Certifying Organization": "National Association of Home Builders"
+        }, 
+        {
+            "Acronym": "CFMP", 
+            "Certification Name": "Certified Financial Marketing Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "3860", 
+            "Certifying Organization": "Institute of Certified Bankers"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Retail Business Credential", 
+            "Type": "Core", 
+            "Certification ID": "5788", 
+            "Certifying Organization": "National Retail Federation Foundation"
+        }, 
+        {
+            "Acronym": "CFCE", 
+            "Certification Name": "Certified Forensic Computer Examiner", 
+            "Type": "Core", 
+            "Certification ID": "3574", 
+            "Certifying Organization": "International Association of Computer Investigative Specialists"
+        }, 
+        {
+            "Acronym": "CFE", 
+            "Certification Name": "Certified Franchise Executive", 
+            "Type": "Advanced", 
+            "Certification ID": "8017", 
+            "Certifying Organization": "International Franchise Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Executive Management", 
+            "Type": "Advanced", 
+            "Certification ID": "8023", 
+            "Certifying Organization": "Society of Industrial and Office Realtors"
+        }, 
+        {
+            "Acronym": "CSP", 
+            "Certification Name": "Certified New Home Sales Professional", 
+            "Type": "Core", 
+            "Certification ID": "3793", 
+            "Certifying Organization": "National Association of Home Builders"
+        }, 
+        {
+            "Acronym": "ACPM", 
+            "Certification Name": "Agile Certified Product Manager", 
+            "Type": "Core", 
+            "Certification ID": "9047", 
+            "Certifying Organization": "Association of International Product Marketing and Management"
+        }, 
+        {
+            "Acronym": "CIL", 
+            "Certification Name": "Certified Innovation Leader", 
+            "Type": "Advanced", 
+            "Certification ID": "9046", 
+            "Certifying Organization": "Association of International Product Marketing and Management"
+        }, 
+        {
+            "Acronym": "CSE", 
+            "Certification Name": "Certified Sales Executive", 
+            "Type": "Advanced", 
+            "Certification ID": "0463", 
+            "Certifying Organization": "Sales & Marketing Executives International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "National Professional Certification in Sales", 
+            "Type": "Core", 
+            "Certification ID": "5264", 
+            "Certifying Organization": "National Retail Federation Foundation"
+        }, 
+        {
+            "Acronym": "CSCP", 
+            "Certification Name": "Certified Supply Chain Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "4895", 
+            "Certifying Organization": "The Association for Operations Management"
+        }, 
+        {
+            "Acronym": "CEMS", 
+            "Certification Name": "WOW Certified E-Commerce Manager", 
+            "Type": "Core", 
+            "Certification ID": "2852", 
+            "Certifying Organization": "World Organization of Webmasters"
+        }, 
+        {
+            "Acronym": "CEC", 
+            "Certification Name": "Certified E-Commerce Consultant", 
+            "Type": "Advanced", 
+            "Certification ID": "7943", 
+            "Certifying Organization": "American Academy of Project Management"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Recycling Systems - Technical Associate", 
+            "Type": "Core", 
+            "Certification ID": "1472", 
+            "Certifying Organization": "Solid Waste Association of North America"
+        }, 
+        {
+            "Acronym": "CHT", 
+            "Certification Name": "Certified HospitalityTrainer", 
+            "Type": "Core", 
+            "Certification ID": "3316", 
+            "Certifying Organization": "American Hotel and Lodging Association Educational Institute"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Sales Counselor", 
+            "Type": "Core", 
+            "Certification ID": "9136", 
+            "Certifying Organization": "National Wood Flooring Association"
+        }, 
+        {
+            "Acronym": "CMP", 
+            "Certification Name": "Certified New Home Marketing Professional", 
+            "Type": "Core", 
+            "Certification ID": "3796", 
+            "Certifying Organization": "National Association of Home Builders"
+        }, 
+        {
+            "Acronym": "CHSC", 
+            "Certification Name": "Certified in Hospitality Sales Competencies", 
+            "Type": "Core", 
+            "Certification ID": "8547", 
+            "Certifying Organization": "Hospitality Sales & Marketing Association International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Automotive Sales Professional", 
+            "Type": "Core", 
+            "Certification ID": "0317", 
+            "Certifying Organization": "National Automobile Dealers Association"
+        }, 
+        {
+            "Acronym": "CCCM", 
+            "Certification Name": "Certified Commercial Contracts Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "1422", 
+            "Certifying Organization": "National Contract Management Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Oracle Global Trade Management 6 Certified Implementation Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "8485", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "CMD", 
+            "Certification Name": "Certified Master Dealer", 
+            "Type": "Advanced", 
+            "Certification ID": "6186", 
+            "Certifying Organization": "National Independent Automobile Dealers Association"
+        }, 
+        {
+            "Acronym": "CRME", 
+            "Certification Name": "Certified Revenue Management Executive", 
+            "Type": "Advanced", 
+            "Certification ID": "8546", 
+            "Certifying Organization": "Hospitality Sales & Marketing Association International"
+        }, 
+        {
+            "Acronym": "SCPS", 
+            "Certification Name": "Certified Salesperson", 
+            "Type": "Core", 
+            "Certification ID": "0462", 
+            "Certifying Organization": "Sales & Marketing Executives International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Sales Management", 
+            "Type": "Core", 
+            "Certification ID": "8022", 
+            "Certifying Organization": "Society of Industrial and Office Realtors"
+        }, 
+        {
+            "Acronym": "CVLE", 
+            "Certification Name": "Certified Vehicle Leasing Executive", 
+            "Type": "Advanced", 
+            "Certification ID": "9055", 
+            "Certifying Organization": "National Vehicle Leasing Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Master Bridal Consultant", 
+            "Type": "Advanced", 
+            "Certification ID": "2172", 
+            "Certifying Organization": "Association of Bridal Consultants"
+        }, 
+        {
+            "Acronym": "CITM", 
+            "Certification Name": "Certified International Trade Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "5188", 
+            "Certifying Organization": "IIEI Certification"
+        }, 
+        {
+            "Acronym": "ALC", 
+            "Certification Name": "Accredited Land Consultant", 
+            "Type": "Advanced", 
+            "Certification ID": "8036", 
+            "Certifying Organization": "Realtors Land Institute"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Linen Technician", 
+            "Type": "Core", 
+            "Certification ID": "4800", 
+            "Certifying Organization": "National Association of Institutional Linen Management"
+        }, 
+        {
+            "Acronym": "CSP", 
+            "Certification Name": "Certified Sales Professional", 
+            "Type": "Core", 
+            "Certification ID": "7705", 
+            "Certifying Organization": "National Ground Water Association"
+        }
+    ], 
+    "onet": "11202200"
+}

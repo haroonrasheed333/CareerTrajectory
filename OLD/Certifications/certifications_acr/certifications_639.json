@@ -1,0 +1,19 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CPAg", 
+            "Certification Name": "Certified Professional Agronomist", 
+            "Type": "Core", 
+            "Certification ID": "1964", 
+            "Certifying Organization": "American Society of Agronomy - ARCPACS"
+        }, 
+        {
+            "Acronym": "CCA", 
+            "Certification Name": "Certified Crop Advisor", 
+            "Type": "Core", 
+            "Certification ID": "1963", 
+            "Certifying Organization": "American Society of Agronomy - ARCPACS"
+        }
+    ], 
+    "onet": "45201100"
+}

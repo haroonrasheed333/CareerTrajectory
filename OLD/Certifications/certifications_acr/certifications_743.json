@@ -1,0 +1,47 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "IPC-7721& IPC-7711 Rework, Repair, & Modification of Printed Boards & Electronic Assemblies", 
+            "Type": "Advanced", 
+            "Certification ID": "3481", 
+            "Certifying Organization": "Association Connecting Electronics Industries"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IPC-A-610 Acceptability of Electronic Assemblies", 
+            "Type": "Advanced", 
+            "Certification ID": "3478", 
+            "Certifying Organization": "Association Connecting Electronics Industries"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IPC-A-600 Acceptability of Printed Circuit Boards", 
+            "Type": "Core", 
+            "Certification ID": "2873", 
+            "Certifying Organization": "Association Connecting Electronics Industries"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IPC/WHMA-A-620 Requirements & Acceptance for Cable & Wire Harness Assemblies", 
+            "Type": "Advanced", 
+            "Certification ID": "3479", 
+            "Certifying Organization": "Association Connecting Electronics Industries"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IPC J-STD-001 Requirements for Soldered Electrical & Electronic Assemblies", 
+            "Type": "Core", 
+            "Certification ID": "2872", 
+            "Certifying Organization": "Association Connecting Electronics Industries"
+        }, 
+        {
+            "Acronym": "PLCs", 
+            "Certification Name": "PMMI Mechatronics: Programmable Logic Controllers", 
+            "Type": "Core", 
+            "Certification ID": "9509", 
+            "Certifying Organization": "Packaging Machinery Manufacturing Institute"
+        }
+    ], 
+    "onet": "51202300"
+}

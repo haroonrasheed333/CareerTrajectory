@@ -1,0 +1,33 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "ACMO", 
+            "Certification Name": "Advanced Competency in Medical Optometry", 
+            "Type": "Advanced", 
+            "Certification ID": "8679", 
+            "Certifying Organization": "National Board of Examiners in Optometry"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Diplomate, American Board of Optometry", 
+            "Type": "Advanced", 
+            "Certification ID": "9147", 
+            "Certifying Organization": "American Board of Optometry"
+        }, 
+        {
+            "Acronym": "TMOD", 
+            "Certification Name": "Treatment and Management of Ocular Disease", 
+            "Type": "Specialty", 
+            "Certification ID": "8680", 
+            "Certifying Organization": "National Board of Examiners in Optometry"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "National Boards", 
+            "Type": "Specialty", 
+            "Certification ID": "8678", 
+            "Certifying Organization": "National Board of Examiners in Optometry"
+        }
+    ], 
+    "onet": "29104100"
+}

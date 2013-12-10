@@ -1,0 +1,166 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CHME", 
+            "Certification Name": "Certified Hospitality Marketing Executive", 
+            "Type": "Advanced", 
+            "Certification ID": "5588", 
+            "Certifying Organization": "Hospitality Sales & Marketing Association International"
+        }, 
+        {
+            "Acronym": "ACM", 
+            "Certification Name": "Accredited Cruise Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "8011", 
+            "Certifying Organization": "Cruise Lines International Association"
+        }, 
+        {
+            "Acronym": "CPMM", 
+            "Certification Name": "Certified Product Marketing Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "9045", 
+            "Certifying Organization": "Association of International Product Marketing and Management"
+        }, 
+        {
+            "Acronym": "CFRE", 
+            "Certification Name": "Certified Fund Raising Executive", 
+            "Type": "Advanced", 
+            "Certification ID": "5992", 
+            "Certifying Organization": "Certified Fund Raising Executive International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Oracle Fusion Customer Relationship Management 11g Sales Certified Implementation Specialist", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8489", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "CPSM", 
+            "Certification Name": "Certified Professional Services Marketer", 
+            "Type": "Core", 
+            "Certification ID": "2250", 
+            "Certifying Organization": "Society for Marketing Professional Services"
+        }, 
+        {
+            "Acronym": "CFMP", 
+            "Certification Name": "Certified Financial Marketing Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "3860", 
+            "Certifying Organization": "Institute of Certified Bankers"
+        }, 
+        {
+            "Acronym": "ACPM", 
+            "Certification Name": "Agile Certified Product Manager", 
+            "Type": "Core", 
+            "Certification ID": "9047", 
+            "Certifying Organization": "Association of International Product Marketing and Management"
+        }, 
+        {
+            "Acronym": "CIL", 
+            "Certification Name": "Certified Innovation Leader", 
+            "Type": "Advanced", 
+            "Certification ID": "9046", 
+            "Certifying Organization": "Association of International Product Marketing and Management"
+        }, 
+        {
+            "Acronym": "CSAM", 
+            "Certification Name": "Certified Strategic Account Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "9166", 
+            "Certifying Organization": "Strategic Account Management Association"
+        }, 
+        {
+            "Acronym": "CDME", 
+            "Certification Name": "Certified Destination Marketing Executive", 
+            "Type": "Advanced", 
+            "Certification ID": "8138", 
+            "Certifying Organization": "Destination Marketing Association International"
+        }, 
+        {
+            "Acronym": "IP", 
+            "Certification Name": "Incentive Professional", 
+            "Type": "Core", 
+            "Certification ID": "9034", 
+            "Certifying Organization": "Incentive Marketing Association"
+        }, 
+        {
+            "Acronym": "CPIM", 
+            "Certification Name": "Certified Professional of Incentive Management", 
+            "Type": "Advanced", 
+            "Certification ID": "9035", 
+            "Certifying Organization": "Incentive Marketing Association"
+        }, 
+        {
+            "Acronym": "PCM", 
+            "Certification Name": "Professional Certified Marketer", 
+            "Type": "Advanced", 
+            "Certification ID": "5587", 
+            "Certifying Organization": "American Marketing Association"
+        }, 
+        {
+            "Acronym": "CFEE", 
+            "Certification Name": "Certified Festival and Event Executive", 
+            "Type": "Advanced", 
+            "Certification ID": "8140", 
+            "Certifying Organization": "International Festivals & Events Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Recycling Systems - Technical Associate", 
+            "Type": "Core", 
+            "Certification ID": "1472", 
+            "Certifying Organization": "Solid Waste Association of North America"
+        }, 
+        {
+            "Acronym": "FAHP", 
+            "Certification Name": "Fellow of the Association for Healthcare Philanthropy", 
+            "Type": "Advanced", 
+            "Certification ID": "2207", 
+            "Certifying Organization": "Association for Healthcare Philanthropy"
+        }, 
+        {
+            "Acronym": "CFRE", 
+            "Certification Name": "Certified Fundraising Executive", 
+            "Type": "Advanced", 
+            "Certification ID": "3998", 
+            "Certifying Organization": "Association for Healthcare Philanthropy"
+        }, 
+        {
+            "Acronym": "PR", 
+            "Certification Name": "Accreditation in Public Relations", 
+            "Type": "Core", 
+            "Certification ID": "0307", 
+            "Certifying Organization": "Public Relations Society of America"
+        }, 
+        {
+            "Acronym": "CSAP", 
+            "Certification Name": "Certified Strategic Alliance Professional", 
+            "Type": "Core", 
+            "Certification ID": "5975", 
+            "Certifying Organization": "Association of Strategic Alliance Professionals"
+        }, 
+        {
+            "Acronym": "ACFRE", 
+            "Certification Name": "Advanced Certified Fund Raising Executive", 
+            "Type": "Advanced", 
+            "Certification ID": "2201", 
+            "Certifying Organization": "Association of Fundraising Professionals"
+        }, 
+        {
+            "Acronym": "CA-AM", 
+            "Certification Name": "Certification of Achievement-Alliance Management", 
+            "Type": "Core", 
+            "Certification ID": "5974", 
+            "Certifying Organization": "Association of Strategic Alliance Professionals"
+        }, 
+        {
+            "Acronym": "CFRE", 
+            "Certification Name": "Certified Fund Raising Executive", 
+            "Type": "Advanced", 
+            "Certification ID": "2200", 
+            "Certifying Organization": "Association of Fundraising Professionals"
+        }
+    ], 
+    "onet": "11203100"
+}

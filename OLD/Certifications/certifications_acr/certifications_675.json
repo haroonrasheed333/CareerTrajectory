@@ -1,0 +1,54 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Renewable Energy Photovoltaic and Small Wind Installer Level I Apprentice", 
+            "Type": "Core", 
+            "Certification ID": "6834", 
+            "Certifying Organization": "ETA International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Solar PV Certification", 
+            "Type": "Core", 
+            "Certification ID": "9373", 
+            "Certifying Organization": "National Joint Apprenticeship and Training Committee"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Renewable Energy Photovoltaic and Small Wind Installer Level III Technician", 
+            "Type": "Advanced", 
+            "Certification ID": "6836", 
+            "Certifying Organization": "ETA International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Renewable Energy Photovoltaic and Small Wind Installer Level II Specialist", 
+            "Type": "Core", 
+            "Certification ID": "6835", 
+            "Certifying Organization": "ETA International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "PV Installer Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "4021", 
+            "Certifying Organization": "North American Board of Certified Energy Practitioners"
+        }, 
+        {
+            "Acronym": "PVI", 
+            "Certification Name": "Photovoltaic Installer", 
+            "Type": "Core", 
+            "Certification ID": "7630", 
+            "Certifying Organization": "ETA International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Small Wind Installer Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "6781", 
+            "Certifying Organization": "North American Board of Certified Energy Practitioners"
+        }
+    ], 
+    "onet": "47223100"
+}

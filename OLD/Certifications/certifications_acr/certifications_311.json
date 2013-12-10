@@ -1,0 +1,96 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Academic Certification in Biofeedback", 
+            "Type": "Core", 
+            "Certification ID": "6713", 
+            "Certifying Organization": "Biofeedback Certification International Alliance"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Childbirth Educator Certification", 
+            "Type": "Core", 
+            "Certification ID": "1388", 
+            "Certifying Organization": "International Childbirth Education Association"
+        }, 
+        {
+            "Acronym": "AE-C", 
+            "Certification Name": "Certified Asthma Educator", 
+            "Type": "Core", 
+            "Certification ID": "6070", 
+            "Certifying Organization": "National Asthma Education Certification Board"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Postnatal Educator Certification", 
+            "Type": "Core", 
+            "Certification ID": "1390", 
+            "Certifying Organization": "International Childbirth Education Association"
+        }, 
+        {
+            "Acronym": "CCMEP", 
+            "Certification Name": "Certified CME Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "6081", 
+            "Certifying Organization": "National Commission for Certification of CME professionals"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Academic Certification in Neurofeedback", 
+            "Type": "Core", 
+            "Certification ID": "6714", 
+            "Certifying Organization": "Biofeedback Certification International Alliance"
+        }, 
+        {
+            "Acronym": "CDE", 
+            "Certification Name": "Certified Diabetes Educator", 
+            "Type": "Specialty", 
+            "Certification ID": "2441", 
+            "Certifying Organization": "National Certification Board for Diabetes Educators"
+        }, 
+        {
+            "Acronym": "AHI", 
+            "Certification Name": "Allied Health Instructor", 
+            "Type": "Advanced", 
+            "Certification ID": "1089", 
+            "Certifying Organization": "American Medical Technologists"
+        }, 
+        {
+            "Acronym": "CPH", 
+            "Certification Name": "Certified in Public Health", 
+            "Type": "Specialty", 
+            "Certification ID": "6078", 
+            "Certifying Organization": "National Board of Public Health Examiners"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Sex Educator Certification", 
+            "Type": "Core", 
+            "Certification ID": "2094", 
+            "Certifying Organization": "American Association of Sexuality Educators, Counselors and Therapists"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Instructor of Infant Massage", 
+            "Type": "Core", 
+            "Certification ID": "2710", 
+            "Certifying Organization": "Foundation for Healthy Family Living"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Diplomate of the American Board of Toxicology", 
+            "Type": "Advanced", 
+            "Certification ID": "5369", 
+            "Certifying Organization": "American Board of Toxicology, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification in Laser Dentistry", 
+            "Type": "Specialty", 
+            "Certification ID": "6197", 
+            "Certifying Organization": "Academy of Laser Dentistry"
+        }
+    ], 
+    "onet": "25107100"
+}

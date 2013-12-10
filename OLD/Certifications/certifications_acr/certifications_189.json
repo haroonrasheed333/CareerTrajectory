@@ -1,0 +1,26 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "IPC-A-600 Acceptability of Printed Circuit Boards", 
+            "Type": "Core", 
+            "Certification ID": "2873", 
+            "Certifying Organization": "Association Connecting Electronics Industries"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "LEED Green Associate", 
+            "Type": "Core", 
+            "Certification ID": "6025", 
+            "Certifying Organization": "Green Building Certification Institute"
+        }, 
+        {
+            "Acronym": "SOC", 
+            "Certification Name": "System Operator Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "5723", 
+            "Certifying Organization": "North American Electric Reliability Corporation"
+        }
+    ], 
+    "onet": "17301202"
+}

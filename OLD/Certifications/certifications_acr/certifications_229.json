@@ -1,0 +1,19 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CIC", 
+            "Certification Name": "Infection Control Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "2290", 
+            "Certifying Organization": "Certification Board of Infection Control and Epidemiology, Inc."
+        }, 
+        {
+            "Acronym": "CPH", 
+            "Certification Name": "Certified in Public Health", 
+            "Type": "Specialty", 
+            "Certification ID": "6078", 
+            "Certifying Organization": "National Board of Public Health Examiners"
+        }
+    ], 
+    "onet": "19104100"
+}

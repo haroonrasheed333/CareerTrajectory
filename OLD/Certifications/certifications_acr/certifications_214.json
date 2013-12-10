@@ -1,0 +1,82 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Feed Management Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "9381", 
+            "Certifying Organization": "American Registry of Professional Animal Scientists"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Diplomate of the ACVPM", 
+            "Type": "Specialty", 
+            "Certification ID": "5631", 
+            "Certifying Organization": "American College of Veterinary Preventive Medicine"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Board Certified in Animal Genetics", 
+            "Type": "Advanced", 
+            "Certification ID": "9376", 
+            "Certifying Organization": "American Registry of Professional Animal Scientists"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Board Certified in Animal Physiology", 
+            "Type": "Advanced", 
+            "Certification ID": "9378", 
+            "Certifying Organization": "American Registry of Professional Animal Scientists"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Board Certified in Animal Welfare Science", 
+            "Type": "Advanced", 
+            "Certification ID": "9379", 
+            "Certifying Organization": "American Registry of Professional Animal Scientists"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Board Certified in Applied Animal Behavior Sciences", 
+            "Type": "Advanced", 
+            "Certification ID": "9374", 
+            "Certifying Organization": "American Registry of Professional Animal Scientists"
+        }, 
+        {
+            "Acronym": "CMAR", 
+            "Certification Name": "Certified Manager Animal Resources", 
+            "Type": "Core", 
+            "Certification ID": "2367", 
+            "Certifying Organization": "American Association for Laboratory Animal Science"
+        }, 
+        {
+            "Acronym": "CMAR", 
+            "Certification Name": "Certified Manager of Animal Resources", 
+            "Type": "Advanced", 
+            "Certification ID": "4572", 
+            "Certifying Organization": "Institute of Certified Professional Managers"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Board Certified in Animal Food Science", 
+            "Type": "Advanced", 
+            "Certification ID": "9375", 
+            "Certifying Organization": "American Registry of Professional Animal Scientists"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Dairy Cattle Nutrition Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "9380", 
+            "Certifying Organization": "American Registry of Professional Animal Scientists"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Board Certified in Animal Nutrition", 
+            "Type": "Advanced", 
+            "Certification ID": "9377", 
+            "Certifying Organization": "American Registry of Professional Animal Scientists"
+        }
+    ], 
+    "onet": "19101100"
+}

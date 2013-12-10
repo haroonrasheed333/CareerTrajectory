@@ -1,0 +1,75 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CSP", 
+            "Certification Name": "Certified Sales Professional", 
+            "Type": "Core", 
+            "Certification ID": "1320", 
+            "Certifying Organization": "Manufacturers Representatives Educational Research Foundation"
+        }, 
+        {
+            "Acronym": "ACS", 
+            "Certification Name": "Associate, Customer Service", 
+            "Type": "Core", 
+            "Certification ID": "8224", 
+            "Certifying Organization": "LOMA"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Oracle FLEXCUBE Universal Banking 11 Trade Finance Certified Implementation Specialist", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8470", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "FLMI", 
+            "Certification Name": "Fellow, Life Management Institute", 
+            "Type": "Advanced", 
+            "Certification ID": "8231", 
+            "Certifying Organization": "LOMA"
+        }, 
+        {
+            "Acronym": "RFP", 
+            "Certification Name": "Registered Financial Planner", 
+            "Type": "Advanced", 
+            "Certification ID": "8025", 
+            "Certifying Organization": "Registered Financial Planners Institute"
+        }, 
+        {
+            "Acronym": "CFA", 
+            "Certification Name": "Chartered Financial Analyst", 
+            "Type": "Advanced", 
+            "Certification ID": "7657", 
+            "Certifying Organization": "CFA Institute"
+        }, 
+        {
+            "Acronym": "CFS", 
+            "Certification Name": "Certified Funds Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "2272", 
+            "Certifying Organization": "Institute of Certified Fund Specialists"
+        }, 
+        {
+            "Acronym": "SCPS", 
+            "Certification Name": "Certified Salesperson", 
+            "Type": "Core", 
+            "Certification ID": "0462", 
+            "Certifying Organization": "Sales & Marketing Executives International"
+        }, 
+        {
+            "Acronym": "CLTC", 
+            "Certification Name": "Certified in Long Term Care", 
+            "Type": "Core", 
+            "Certification ID": "2525", 
+            "Certifying Organization": "Corporation for Long Term Care Certification"
+        }, 
+        {
+            "Acronym": "CPC", 
+            "Certification Name": "Certified Pension Consultant", 
+            "Type": "Core", 
+            "Certification ID": "1357", 
+            "Certifying Organization": "American Society of Pension Professionals  and Actuaries"
+        }
+    ], 
+    "onet": "41303102"
+}

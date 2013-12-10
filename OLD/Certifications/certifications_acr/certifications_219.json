@@ -1,0 +1,82 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "REP", 
+            "Certification Name": "Registered Environmental Professional", 
+            "Type": "Core", 
+            "Certification ID": "1121", 
+            "Certifying Organization": "National Registry of Environmental Professionals"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Diplomate", 
+            "Type": "Advanced", 
+            "Certification ID": "1786", 
+            "Certifying Organization": "American Board of Medical Laboratory Immunology"
+        }, 
+        {
+            "Acronym": "M(ASCP", 
+            "Certification Name": "Technologist  in Microbiology", 
+            "Type": "Core", 
+            "Certification ID": "1827", 
+            "Certifying Organization": "American Society for Clinical Pathology"
+        }, 
+        {
+            "Acronym": "QEP", 
+            "Certification Name": "Qualified Environmental Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "1125", 
+            "Certifying Organization": "Institute of Professional Environmental Practice"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Electron Microscopy Technologist", 
+            "Type": "Advanced", 
+            "Certification ID": "5398", 
+            "Certifying Organization": "Microscopy Society of America"
+        }, 
+        {
+            "Acronym": "RELT", 
+            "Certification Name": "Registered Environmental Laboratory Technologist", 
+            "Type": "Advanced", 
+            "Certification ID": "3518", 
+            "Certifying Organization": "National Registry of Environmental Professionals"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Diplomate", 
+            "Type": "Advanced", 
+            "Certification ID": "8935", 
+            "Certifying Organization": "American Board of Medical Microbiology"
+        }, 
+        {
+            "Acronym": "NRCM", 
+            "Certification Name": "Registered Microbiologist", 
+            "Type": "Advanced", 
+            "Certification ID": "8936", 
+            "Certifying Organization": "National Registry of Certified Microbiologists"
+        }, 
+        {
+            "Acronym": "RHMMC", 
+            "Certification Name": "Registered Hazardous and Chemical Materials Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "3517", 
+            "Certifying Organization": "National Registry of Environmental Professionals"
+        }, 
+        {
+            "Acronym": "CIET", 
+            "Certification Name": "Certified Industrial Environmental Toxicologist", 
+            "Type": "Advanced", 
+            "Certification ID": "3519", 
+            "Certifying Organization": "National Registry of Environmental Professionals"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Molecular Diagnostics", 
+            "Type": "Advanced", 
+            "Certification ID": "2063", 
+            "Certifying Organization": "American Board of Clinical Chemistry"
+        }
+    ], 
+    "onet": "19102200"
+}

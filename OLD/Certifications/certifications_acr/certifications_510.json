@@ -1,0 +1,19 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "First Responder", 
+            "Type": "Core", 
+            "Certification ID": "0290", 
+            "Certifying Organization": "National Registry of Emergency Medical Technicians"
+        }, 
+        {
+            "Acronym": "CPO", 
+            "Certification Name": "Certified Protection Officer", 
+            "Type": "Core", 
+            "Certification ID": "2251", 
+            "Certifying Organization": "International Foundation for Protection Officers"
+        }
+    ], 
+    "onet": "33305200"
+}

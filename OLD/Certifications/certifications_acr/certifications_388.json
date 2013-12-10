@@ -1,0 +1,929 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Geriatric Medicine", 
+            "Type": "Specialty", 
+            "Certification ID": "6316", 
+            "Certifying Organization": "American Board of Internal Medicine"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification of Special Qualifications for Gastroenterology", 
+            "Type": "Specialty", 
+            "Certification ID": "6399", 
+            "Certifying Organization": "American Osteopathic Board of Internal Medicine"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification of Special Qualifications for Oncology", 
+            "Type": "Specialty", 
+            "Certification ID": "6404", 
+            "Certifying Organization": "American Osteopathic Board of Internal Medicine"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification of Added Qualifications for Sports Medicine", 
+            "Type": "Specialty", 
+            "Certification ID": "6411", 
+            "Certifying Organization": "American Osteopathic Board of Internal Medicine"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Endocrinology, Diabetes & Metabolism", 
+            "Type": "Specialty", 
+            "Certification ID": "5480", 
+            "Certifying Organization": "American Board of Internal Medicine"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Diplomate of the American Board of Bariatric Medicine", 
+            "Type": "Specialty", 
+            "Certification ID": "6860", 
+            "Certifying Organization": "American Board of Obesity Medicine"
+        }, 
+        {
+            "Acronym": "SAPACC", 
+            "Certification Name": "Certified Substance Abuse Program Administrator", 
+            "Type": "Advanced", 
+            "Certification ID": "3565", 
+            "Certifying Organization": "Substance Abuse Program Administrators Certification Commission"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Cardiovascular Disease", 
+            "Type": "Specialty", 
+            "Certification ID": "0176", 
+            "Certifying Organization": "American Board of Internal Medicine"
+        }, 
+        {
+            "Acronym": "CSPI", 
+            "Certification Name": "Certification for Specialists in Poison Information", 
+            "Type": "Specialty", 
+            "Certification ID": "7450", 
+            "Certifying Organization": "American Association of Poison Control Centers"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Diplomate", 
+            "Type": "Advanced", 
+            "Certification ID": "8842", 
+            "Certifying Organization": "National Board of Medical Examiners"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification in Internal Medicine/Physical Medicine & Rehabilitation", 
+            "Type": "Core", 
+            "Certification ID": "6427", 
+            "Certifying Organization": "American Board of Internal Medicine"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Board Certified in Urgent Care Medicine", 
+            "Type": "Advanced", 
+            "Certification ID": "9007", 
+            "Certifying Organization": "American Board of Urgent Care Medicine"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification in Internal Medicine", 
+            "Type": "Core", 
+            "Certification ID": "2551", 
+            "Certifying Organization": "American Osteopathic Board of Internal Medicine"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certificate of Completion: Airways Management", 
+            "Type": "Specialty", 
+            "Certification ID": "9539", 
+            "Certifying Organization": "American College of Chest Physicians"
+        }, 
+        {
+            "Acronym": "ABHPM", 
+            "Certification Name": "ABHPM Board Certified in Hospice and Palliative Medicine", 
+            "Type": "Specialty", 
+            "Certification ID": "2106", 
+            "Certifying Organization": "American Academy of Hospice and Palliative Medicine"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Geriatric Medicine", 
+            "Type": "Specialty", 
+            "Certification ID": "6513", 
+            "Certifying Organization": "American Board of Physician Specialties"
+        }, 
+        {
+            "Acronym": "HM", 
+            "Certification Name": "Headache Medicine Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "8665", 
+            "Certifying Organization": "United Council for Neurologic Subspecialties"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Hospital Medicine, Focused Practice", 
+            "Type": "Core", 
+            "Certification ID": "6315", 
+            "Certifying Organization": "American Board of Internal Medicine"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification in Phlebology", 
+            "Type": "Core", 
+            "Certification ID": "6757", 
+            "Certifying Organization": "The American Board of Phlebology"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification in Internal Medicine", 
+            "Type": "Core", 
+            "Certification ID": "0174", 
+            "Certifying Organization": "American Board of Internal Medicine"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification of Added Qualifications in Hospice and Palliative Medicine", 
+            "Type": "Specialty", 
+            "Certification ID": "6327", 
+            "Certifying Organization": "American Osteopathic Board of Family Physicians"
+        }, 
+        {
+            "Acronym": "VA-BC", 
+            "Certification Name": "Vascular Access-Board Certified", 
+            "Type": "Core", 
+            "Certification ID": "9533", 
+            "Certifying Organization": "Vascular Access Certification Corporation"
+        }, 
+        {
+            "Acronym": "NO", 
+            "Certification Name": "Neuro-Oncology Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "8669", 
+            "Certifying Organization": "United Council for Neurologic Subspecialties"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Neurocritical Care Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "8667", 
+            "Certifying Organization": "United Council for Neurologic Subspecialties"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Transthoracic 2-D and Doppler Echocardiography", 
+            "Type": "Specialty", 
+            "Certification ID": "8120", 
+            "Certifying Organization": "National Board of Echocardiography"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification in Pediatrics: Transplant Hepatology", 
+            "Type": "Specialty", 
+            "Certification ID": "3893", 
+            "Certifying Organization": "American Board of Pediatrics"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification in Pediatrics: Sleep Medicine", 
+            "Type": "Specialty", 
+            "Certification ID": "3894", 
+            "Certifying Organization": "American Board of Pediatrics"
+        }, 
+        {
+            "Acronym": "CWS", 
+            "Certification Name": "Certified Wound Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "5904", 
+            "Certifying Organization": "American Board of Wound Management"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification of Added Qualifications for Sleep Medicine", 
+            "Type": "Specialty", 
+            "Certification ID": "6374", 
+            "Certifying Organization": "American Osteopathic Board of Opthamology/American Osteopathic Board of Otolaryngology- Head and Neck Surgery"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification of Special Qualifications for Cardiology", 
+            "Type": "Specialty", 
+            "Certification ID": "6397", 
+            "Certifying Organization": "American Osteopathic Board of Internal Medicine"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification of Added Qualifications for Addiction Medicine", 
+            "Type": "Specialty", 
+            "Certification ID": "6406", 
+            "Certifying Organization": "American Osteopathic Board of Internal Medicine"
+        }, 
+        {
+            "Acronym": "ECNU", 
+            "Certification Name": "Endocrine Certification in Neck Ultrasound", 
+            "Type": "Specialty", 
+            "Certification ID": "6672", 
+            "Certifying Organization": "American Association of Clinical Endocrinologists"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Urgent Care", 
+            "Type": "Specialty", 
+            "Certification ID": "6523", 
+            "Certifying Organization": "American Board of Physician Specialties"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Autonomic Disorders Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "8653", 
+            "Certifying Organization": "United Council for Neurologic Subspecialties"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Comprehensive Echocardiography", 
+            "Type": "Advanced", 
+            "Certification ID": "8124", 
+            "Certifying Organization": "National Board of Echocardiography"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification in Internal Medicine/Pediatrics", 
+            "Type": "Core", 
+            "Certification ID": "6426", 
+            "Certifying Organization": "American Board of Internal Medicine"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification in Emergency Medicine: Undersea and Hyperbaric Medicine", 
+            "Type": "Specialty", 
+            "Certification ID": "3417", 
+            "Certifying Organization": "American Board of Emergency Medicine"
+        }, 
+        {
+            "Acronym": "CIC", 
+            "Certification Name": "Infection Control Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "2290", 
+            "Certifying Organization": "Certification Board of Infection Control and Epidemiology, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification in Proctology", 
+            "Type": "Specialty", 
+            "Certification ID": "2558", 
+            "Certifying Organization": "American Osteopathic Board of Proctology"
+        }, 
+        {
+            "Acronym": "CNSC", 
+            "Certification Name": "Certified Nutrition Support Clinician", 
+            "Type": "Advanced", 
+            "Certification ID": "2437", 
+            "Certifying Organization": "National Board of Nutrition Support Certification, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certificate of Advanced Training in Bariatric Medicine", 
+            "Type": "Advanced", 
+            "Certification ID": "6861", 
+            "Certifying Organization": "American Board of Obesity Medicine"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification in Internal Medicine/Medical Genetics", 
+            "Type": "Specialty", 
+            "Certification ID": "6423", 
+            "Certifying Organization": "American Board of Internal Medicine"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Transthoracic plus Stress Echocardiography", 
+            "Type": "Specialty", 
+            "Certification ID": "8123", 
+            "Certifying Organization": "National Board of Echocardiography"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification in Pediatrics: Emergency Medicine", 
+            "Type": "Specialty", 
+            "Certification ID": "3892", 
+            "Certifying Organization": "American Board of Pediatrics"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Hospice and Palliative Medicine", 
+            "Type": "Specialty", 
+            "Certification ID": "5483", 
+            "Certifying Organization": "American Board of Internal Medicine"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Transplant Hepatology", 
+            "Type": "Specialty", 
+            "Certification ID": "5484", 
+            "Certifying Organization": "American Board of Internal Medicine"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Advanced Heart Failure and Transplant Cadiology", 
+            "Type": "Specialty", 
+            "Certification ID": "6318", 
+            "Certifying Organization": "American Board of Internal Medicine"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification of Added Qualifications for Sleep Medicine", 
+            "Type": "Specialty", 
+            "Certification ID": "6414", 
+            "Certifying Organization": "American Osteopathic Board of Internal Medicine"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Clinical Cytogenetics", 
+            "Type": "Specialty", 
+            "Certification ID": "0191", 
+            "Certifying Organization": "American Board of Medical Genetics"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Medical Biochemical Genetics", 
+            "Type": "Specialty", 
+            "Certification ID": "6433", 
+            "Certifying Organization": "American Board of Medical Genetics"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Nephrology", 
+            "Type": "Specialty", 
+            "Certification ID": "0186", 
+            "Certifying Organization": "American Board of Internal Medicine"
+        }, 
+        {
+            "Acronym": "BCN", 
+            "Certification Name": "Board Certified in Neurofeedback", 
+            "Type": "Specialty", 
+            "Certification ID": "6711", 
+            "Certifying Organization": "Biofeedback Certification International Alliance"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Technician Certification in Biofeedback", 
+            "Type": "Specialty", 
+            "Certification ID": "6716", 
+            "Certifying Organization": "Biofeedback Certification International Alliance"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Diplomate of American Board of Vascular Medicine", 
+            "Type": "Specialty", 
+            "Certification ID": "7440", 
+            "Certifying Organization": "American Board of Vascular Medicine"
+        }, 
+        {
+            "Acronym": "CoAP", 
+            "Certification Name": "Cardiac CT Certificate of Advanced Proficiency", 
+            "Type": "Specialty", 
+            "Certification ID": "9491", 
+            "Certifying Organization": "American College of Radiology"
+        }, 
+        {
+            "Acronym": "MC-FP", 
+            "Certification Name": "Family Medicine", 
+            "Type": "Advanced", 
+            "Certification ID": "8764", 
+            "Certifying Organization": "American Board of Family Medicine"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification of Added Qualifications in Emergency Medical Services", 
+            "Type": "Specialty", 
+            "Certification ID": "2372", 
+            "Certifying Organization": "American Osteopathic Board of Emergency Medicine"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification in Emergency Medicine", 
+            "Type": "Specialty", 
+            "Certification ID": "2549", 
+            "Certifying Organization": "American Osteopathic Board of Emergency Medicine"
+        }, 
+        {
+            "Acronym": "CPE", 
+            "Certification Name": "Certified Physician Executive", 
+            "Type": "Specialty", 
+            "Certification ID": "9526", 
+            "Certifying Organization": "Certifying Commission in Medical Management"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Hospice and Palliative Medicine", 
+            "Type": "Specialty", 
+            "Certification ID": "6442", 
+            "Certifying Organization": "American Board of Surgery"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification in Internal Medicine/Emergency Medicine/Critical Care Medicine", 
+            "Type": "Specialty", 
+            "Certification ID": "6421", 
+            "Certifying Organization": "American Board of Internal Medicine"
+        }, 
+        {
+            "Acronym": "RPhS", 
+            "Certification Name": "Registered Phlebology Sonographer", 
+            "Type": "Specialty", 
+            "Certification ID": "5912", 
+            "Certifying Organization": "Cardiovascular Credentialing International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification of Special Qualifications for Allergy/Immunology", 
+            "Type": "Specialty", 
+            "Certification ID": "6396", 
+            "Certifying Organization": "American Osteopathic Board of Internal Medicine"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification of Special Qualifications for Endocrinology", 
+            "Type": "Specialty", 
+            "Certification ID": "6398", 
+            "Certifying Organization": "American Osteopathic Board of Internal Medicine"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification of Special Qualifications for Infectious Disease", 
+            "Type": "Specialty", 
+            "Certification ID": "6401", 
+            "Certifying Organization": "American Osteopathic Board of Internal Medicine"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification of Special Qualifications for Rheumatology", 
+            "Type": "Specialty", 
+            "Certification ID": "6405", 
+            "Certifying Organization": "American Osteopathic Board of Internal Medicine"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification of Added Qualifications for Clinical Cardiac Electrophysiology", 
+            "Type": "Specialty", 
+            "Certification ID": "6408", 
+            "Certifying Organization": "American Osteopathic Board of Internal Medicine"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification of Added Qualifications for Intervential Cardiology", 
+            "Type": "Specialty", 
+            "Certification ID": "6409", 
+            "Certifying Organization": "American Osteopathic Board of Internal Medicine"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification in Internal Medicine Subspecialty in Geriatric Medicine", 
+            "Type": "Specialty", 
+            "Certification ID": "6415", 
+            "Certifying Organization": "American Board of Internal Medicine"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification in Internal Medicine Subspecialty in Geriatric Medicine and Medical Oncology", 
+            "Type": "Specialty", 
+            "Certification ID": "6416", 
+            "Certifying Organization": "American Board of Internal Medicine"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Clinical Biochemical Genetics", 
+            "Type": "Specialty", 
+            "Certification ID": "0190", 
+            "Certifying Organization": "American Board of Medical Genetics"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Clinical Genetics", 
+            "Type": "Advanced", 
+            "Certification ID": "0192", 
+            "Certifying Organization": "American Board of Medical Genetics"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification in Internal Medicine/Family Medicine", 
+            "Type": "Specialty", 
+            "Certification ID": "6422", 
+            "Certifying Organization": "American Board of Internal Medicine"
+        }, 
+        {
+            "Acronym": "MSCS", 
+            "Certification Name": "Multiple Sclerosis Certified Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "6875", 
+            "Certifying Organization": "The Consortium of Multiple Sclerosis Centers"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Pulmonary Disease", 
+            "Type": "Specialty", 
+            "Certification ID": "0187", 
+            "Certifying Organization": "American Board of Internal Medicine"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Disaster Medicine", 
+            "Type": "Specialty", 
+            "Certification ID": "6509", 
+            "Certifying Organization": "American Board of Physician Specialties"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Emergency Medicine", 
+            "Type": "Specialty", 
+            "Certification ID": "6510", 
+            "Certifying Organization": "American Board of Physician Specialties"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification in Physical Medicine & Rehabilitation", 
+            "Type": "Advanced", 
+            "Certification ID": "0237", 
+            "Certifying Organization": "American Board of Physical Medicine & Rehabilitation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Internal Medicine", 
+            "Type": "Core", 
+            "Certification ID": "6515", 
+            "Certifying Organization": "American Board of Physician Specialties"
+        }, 
+        {
+            "Acronym": "BCB", 
+            "Certification Name": "Board Certified in Biofeedback", 
+            "Type": "Specialty", 
+            "Certification ID": "2318", 
+            "Certifying Organization": "Biofeedback Certification International Alliance"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification of Added Qualifications in Medical Toxicology", 
+            "Type": "Specialty", 
+            "Certification ID": "2374", 
+            "Certifying Organization": "American Osteopathic Board of Emergency Medicine"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification in Neuromusculoskeletal Medicine & OMM", 
+            "Type": "Specialty", 
+            "Certification ID": "2562", 
+            "Certifying Organization": "American Osteopathic Board of Neuromusculoskeletal Medicine"
+        }, 
+        {
+            "Acronym": "EM", 
+            "Certification Name": "Certification in Emergency Medicine", 
+            "Type": "Specialty", 
+            "Certification ID": "0167", 
+            "Certifying Organization": "American Board of Emergency Medicine"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Transthoracic plus Transesophageal Echocardiography", 
+            "Type": "Specialty", 
+            "Certification ID": "8122", 
+            "Certifying Organization": "National Board of Echocardiography"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Gastroenterology", 
+            "Type": "Specialty", 
+            "Certification ID": "5482", 
+            "Certifying Organization": "American Board of Internal Medicine"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification of Added Qualifications for Geriatric Medicine", 
+            "Type": "Specialty", 
+            "Certification ID": "6410", 
+            "Certifying Organization": "American Osteopathic Board of Internal Medicine"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification of Added Qualifications for Undersea and Hyperbaric Medicine", 
+            "Type": "Specialty", 
+            "Certification ID": "6412", 
+            "Certifying Organization": "American Osteopathic Board of Internal Medicine"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification in Internal Medicine/Pediatric Subspecialty", 
+            "Type": "Specialty", 
+            "Certification ID": "6417", 
+            "Certifying Organization": "American Board of Internal Medicine"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Clinical Cardiac Electrophysiology", 
+            "Type": "Specialty", 
+            "Certification ID": "0177", 
+            "Certifying Organization": "American Board of Internal Medicine"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification for Competency in Cardiac Rhythm Device Therapy for the Physician", 
+            "Type": "Specialty", 
+            "Certification ID": "7307", 
+            "Certifying Organization": "International Board of Heart Rhythm Examiners"
+        }, 
+        {
+            "Acronym": "PTE", 
+            "Certification Name": "Basic Perioperative Transesophageal Echocardiography", 
+            "Type": "Specialty", 
+            "Certification ID": "8121", 
+            "Certifying Organization": "National Board of Echocardiography"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Adolescent Medicine", 
+            "Type": "Specialty", 
+            "Certification ID": "0175", 
+            "Certifying Organization": "American Board of Internal Medicine"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Hematology", 
+            "Type": "Specialty", 
+            "Certification ID": "0183", 
+            "Certifying Organization": "American Board of Internal Medicine"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Rheumatology", 
+            "Type": "Specialty", 
+            "Certification ID": "0188", 
+            "Certifying Organization": "American Board of Internal Medicine"
+        }, 
+        {
+            "Acronym": "CPHQ", 
+            "Certification Name": "Certified Professional in Healthcare Quality", 
+            "Type": "Core", 
+            "Certification ID": "9207", 
+            "Certifying Organization": "National Association for Healthcare Quality"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification in Emergency Medicine: Hospice and Palliative Medicine", 
+            "Type": "Specialty", 
+            "Certification ID": "6428", 
+            "Certifying Organization": "American Board of Emergency Medicine"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification in Internal Medicine/Preventive Medicine", 
+            "Type": "Core", 
+            "Certification ID": "2545", 
+            "Certifying Organization": "American Board of Internal Medicine"
+        }, 
+        {
+            "Acronym": "CIME", 
+            "Certification Name": "Certified Independent Medical Examiner", 
+            "Type": "Specialty", 
+            "Certification ID": "2180", 
+            "Certifying Organization": "American Board of Independent Medical Examiners"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Sleep Medicine", 
+            "Type": "Specialty", 
+            "Certification ID": "5326", 
+            "Certifying Organization": "American Board of Internal Medicine"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification in Pediatrics: Hospice and Palliative Medicine", 
+            "Type": "Specialty", 
+            "Certification ID": "6310", 
+            "Certifying Organization": "American Board of Pediatrics"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification of Special Qualifications for Pulmonary Diseases", 
+            "Type": "Specialty", 
+            "Certification ID": "6402", 
+            "Certifying Organization": "American Osteopathic Board of Internal Medicine"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Medical Oncology", 
+            "Type": "Specialty", 
+            "Certification ID": "0185", 
+            "Certifying Organization": "American Board of Internal Medicine"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Clinical Molecular Genetics", 
+            "Type": "Specialty", 
+            "Certification ID": "0193", 
+            "Certifying Organization": "American Board of Medical Genetics"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Molecular Genetic Pathology", 
+            "Type": "Specialty", 
+            "Certification ID": "6434", 
+            "Certifying Organization": "American Board of Medical Genetics"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Critical Care Medicine", 
+            "Type": "Specialty", 
+            "Certification ID": "0179", 
+            "Certifying Organization": "American Board of Internal Medicine"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Diplomate", 
+            "Type": "Advanced", 
+            "Certification ID": "8935", 
+            "Certifying Organization": "American Board of Medical Microbiology"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification in Internal Medicine/Nuclear Medicine", 
+            "Type": "Core", 
+            "Certification ID": "6425", 
+            "Certifying Organization": "American Board of Internal Medicine"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification in Allergy & Immunology", 
+            "Type": "Core", 
+            "Certification ID": "0158", 
+            "Certifying Organization": "American Board of Allergy & Immunology"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification of Added Qualifications in Sports Medicine", 
+            "Type": "Specialty", 
+            "Certification ID": "2373", 
+            "Certifying Organization": "American Osteopathic Board of Emergency Medicine"
+        }, 
+        {
+            "Acronym": "EM", 
+            "Certification Name": "Certification in Emergency Medicine: Medical Toxicology", 
+            "Type": "Specialty", 
+            "Certification ID": "0168", 
+            "Certifying Organization": "American Board of Emergency Medicine"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification in Urology", 
+            "Type": "Specialty", 
+            "Certification ID": "0268", 
+            "Certifying Organization": "American Board of Urology"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Hospice and Palliative Medicine", 
+            "Type": "Specialty", 
+            "Certification ID": "5716", 
+            "Certifying Organization": "American Board of Radiology"
+        }, 
+        {
+            "Acronym": "CPI", 
+            "Certification Name": "Certified Physician Investigator", 
+            "Type": "Specialty", 
+            "Certification ID": "5981", 
+            "Certifying Organization": "Association of Clinical Research Professionals"
+        }, 
+        {
+            "Acronym": "WCC", 
+            "Certification Name": "Wound Care Certifed", 
+            "Type": "Specialty", 
+            "Certification ID": "6051", 
+            "Certifying Organization": "National Alliance of Wound Care"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification of Added Qualifications in Critical Care Medicine", 
+            "Type": "Specialty", 
+            "Certification ID": "6320", 
+            "Certifying Organization": "American Osteopathic College of Anesthesiology"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification of Special Qualifications for Hematology", 
+            "Type": "Specialty", 
+            "Certification ID": "6400", 
+            "Certifying Organization": "American Osteopathic Board of Internal Medicine"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification of Special Qualifications for Nephrology", 
+            "Type": "Specialty", 
+            "Certification ID": "6403", 
+            "Certifying Organization": "American Osteopathic Board of Internal Medicine"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification of Added Qualifications for Critical Care Medicine", 
+            "Type": "Specialty", 
+            "Certification ID": "6407", 
+            "Certifying Organization": "American Osteopathic Board of Internal Medicine"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification of Added Qualifications for Hospice and Palliative Medicine", 
+            "Type": "Specialty", 
+            "Certification ID": "6413", 
+            "Certifying Organization": "American Osteopathic Board of Internal Medicine"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification in Internal Medicine/Dermatology", 
+            "Type": "Specialty", 
+            "Certification ID": "6418", 
+            "Certifying Organization": "American Board of Internal Medicine"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification for Competency in Cardiac Electrophysiology for the Physician", 
+            "Type": "Specialty", 
+            "Certification ID": "7310", 
+            "Certifying Organization": "International Board of Heart Rhythm Examiners"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Infectious Disease", 
+            "Type": "Specialty", 
+            "Certification ID": "0184", 
+            "Certifying Organization": "American Board of Internal Medicine"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Sports Medicine", 
+            "Type": "Specialty", 
+            "Certification ID": "0189", 
+            "Certifying Organization": "American Board of Internal Medicine"
+        }, 
+        {
+            "Acronym": "RhMSUS", 
+            "Certification Name": "Musculoskeletal Ultrasound Certification in Rheumatology", 
+            "Type": "Specialty", 
+            "Certification ID": "9212", 
+            "Certifying Organization": "American College of Rheumatology"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Diplomate of American Board of Vascular Medicine: Endovascular", 
+            "Type": "Specialty", 
+            "Certification ID": "7441", 
+            "Certifying Organization": "American Board of Vascular Medicine"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification in Internal Medicine/Neurology", 
+            "Type": "Core", 
+            "Certification ID": "6424", 
+            "Certifying Organization": "American Board of Internal Medicine"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification in Internal Medicine/Psychiatry", 
+            "Type": "Core", 
+            "Certification ID": "2546", 
+            "Certifying Organization": "American Board of Internal Medicine"
+        }, 
+        {
+            "Acronym": "MRO", 
+            "Certification Name": "Medical Review Officer Certification", 
+            "Type": "Core", 
+            "Certification ID": "2182", 
+            "Certifying Organization": "American Association of Medical Review Officers"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Interventional Cardiology", 
+            "Type": "Specialty", 
+            "Certification ID": "2534", 
+            "Certifying Organization": "American Board of Internal Medicine"
+        }, 
+        {
+            "Acronym": "EM/IM", 
+            "Certification Name": "Certification in Emergency Medicine/Internal Medicine", 
+            "Type": "Specialty", 
+            "Certification ID": "6420", 
+            "Certifying Organization": "American Board of Internal Medicine"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "ABEM Diplomate", 
+            "Type": "Specialty", 
+            "Certification ID": "8018", 
+            "Certifying Organization": "American Board of Emergency Medicine"
+        }, 
+        {
+            "Acronym": "CWSP", 
+            "Certification Name": "Certified Wound Specialist  Physician", 
+            "Type": "Specialty", 
+            "Certification ID": "5905", 
+            "Certifying Organization": "American Board of Wound Management"
+        }
+    ], 
+    "onet": "29106300"
+}

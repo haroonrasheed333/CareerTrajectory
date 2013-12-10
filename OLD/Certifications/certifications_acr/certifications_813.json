@@ -1,0 +1,40 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Master Instructor", 
+            "Type": "Advanced", 
+            "Certification ID": "8782", 
+            "Certifying Organization": "National Center for Aerospace & Transportation Technologies"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Senior Instructor", 
+            "Type": "Advanced", 
+            "Certification ID": "8781", 
+            "Certifying Organization": "National Center for Aerospace & Transportation Technologies"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Airmen Certification", 
+            "Type": "Core", 
+            "Certification ID": "5136", 
+            "Certifying Organization": "Federal Aviation Administration"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Medical Certification", 
+            "Type": "Core", 
+            "Certification ID": "5137", 
+            "Certifying Organization": "Federal Aviation Administration"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Instructor", 
+            "Type": "Core", 
+            "Certification ID": "8780", 
+            "Certifying Organization": "National Center for Aerospace & Transportation Technologies"
+        }
+    ], 
+    "onet": "53201200"
+}

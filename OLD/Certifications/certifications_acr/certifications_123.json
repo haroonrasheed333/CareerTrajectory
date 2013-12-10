@@ -1,0 +1,782 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "IPEP", 
+            "Certification Name": "Internet Protocol Engineering Professional", 
+            "Type": "Core", 
+            "Certification ID": "8634", 
+            "Certifying Organization": "Society of Cable Telecommunications Engineers"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "CCIE Security", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "5407", 
+            "Certifying Organization": "Cisco Systems, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "HP APP - S-Series Networking Products [2011]", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8909", 
+            "Certifying Organization": "Hewlett Packard Certification and Learning"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Brocade Certified Ethernet Fabric Professional", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8828", 
+            "Certifying Organization": "Brocade Communications Systems, Inc."
+        }, 
+        {
+            "Acronym": "CCIE", 
+            "Certification Name": "CCIE Service Provider Operations", 
+            "Type": "Advanced", 
+            "Certification ID": "8694", 
+            "Certifying Organization": "Cisco Systems, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "CCIE Wireless", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "5791", 
+            "Certifying Organization": "Cisco Systems, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "HP Sales Certified - Networking [2013]", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8896", 
+            "Certifying Organization": "Hewlett Packard Certification and Learning"
+        }, 
+        {
+            "Acronym": "ISSMP", 
+            "Certification Name": "Information Systems Security Management Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "5323", 
+            "Certifying Organization": "International Information Systems Security Certification Consortium, Inc."
+        }, 
+        {
+            "Acronym": "GCFW", 
+            "Certification Name": "GIAC Certified Firewall Analyst", 
+            "Type": "Core", 
+            "Certification ID": "2819", 
+            "Certifying Organization": "Global Information Assurance Certification"
+        }, 
+        {
+            "Acronym": "GCIH", 
+            "Certification Name": "GIAC Certified Incident Handler", 
+            "Type": "Core", 
+            "Certification ID": "2820", 
+            "Certifying Organization": "Global Information Assurance Certification"
+        }, 
+        {
+            "Acronym": "ESNT", 
+            "Certification Name": "Electronic Security NetworkingTechnician", 
+            "Type": "Core", 
+            "Certification ID": "5811", 
+            "Certifying Organization": "ETA International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Network Technology Associate", 
+            "Type": "Core", 
+            "Certification ID": "6279", 
+            "Certifying Organization": "Certified Internet Web Professionals"
+        }, 
+        {
+            "Acronym": "WNT", 
+            "Certification Name": "Wireless Network Technician", 
+            "Type": "Core", 
+            "Certification ID": "6828", 
+            "Certifying Organization": "ETA International"
+        }, 
+        {
+            "Acronym": "EMCDCA", 
+            "Certification Name": "Data Center Architect", 
+            "Type": "Core", 
+            "Certification ID": "6846", 
+            "Certifying Organization": "EMC Corporation"
+        }, 
+        {
+            "Acronym": "CSDA", 
+            "Certification Name": "Certified Software Development Associate", 
+            "Type": "Core", 
+            "Certification ID": "5873", 
+            "Certifying Organization": "Institute of Electrical and Electronics Engineers"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Microsoft Certified Architect: Microsoft SharePoint Server", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7457", 
+            "Certifying Organization": "Microsoft Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Brocade Certified Network Engineer", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "6255", 
+            "Certifying Organization": "Brocade Communications Systems, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "JD Edwards EnterpriseOne 9 Configurable Network Computing Certified Implementation Specialist", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8465", 
+            "Certifying Organization": "Oracle Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "HP Master ASE - Software for Cloud Management V1", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8851", 
+            "Certifying Organization": "Hewlett Packard Certification and Learning"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "CCIE Data Center", 
+            "Type": "Advanced", 
+            "Certification ID": "8689", 
+            "Certifying Organization": "Cisco Systems, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Cisco Certified Design Professional", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "0651", 
+            "Certifying Organization": "Cisco Systems, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Novell Certified Linux Engineer 10", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "1729", 
+            "Certifying Organization": "Novell, Inc. - Education"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Brocade Accredited Network Advisor Specialist", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8838", 
+            "Certifying Organization": "Brocade Communications Systems, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "HP AIS - StorageWorks Integration [2011]", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7216", 
+            "Certifying Organization": "Hewlett Packard Certification and Learning"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "HP APP - Enterprise Networking [2011]", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7251", 
+            "Certifying Organization": "Hewlett Packard Certification and Learning"
+        }, 
+        {
+            "Acronym": "CWDP", 
+            "Certification Name": "Certified Wireless Design Professional", 
+            "Type": "Core", 
+            "Certification ID": "6339", 
+            "Certifying Organization": "Certified Wireless Network Professional"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "HP ATP - ITPS Executive Scorecard v9", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8876", 
+            "Certifying Organization": "Hewlett Packard Certification and Learning"
+        }, 
+        {
+            "Acronym": "WCM", 
+            "Certification Name": "Wireless Communications Electronics Technician", 
+            "Type": "Core", 
+            "Certification ID": "3683", 
+            "Certifying Organization": "ETA International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "HP Advanced Sales Certified - Enterprise Networking [2012]", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8895", 
+            "Certifying Organization": "Hewlett Packard Certification and Learning"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Novell Certified Linux Administrator", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "3742", 
+            "Certifying Organization": "Novell, Inc. - Education"
+        }, 
+        {
+            "Acronym": "CNP", 
+            "Certification Name": "Certified Network Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "6193", 
+            "Certifying Organization": "Network Professional Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "HP ASE - Software for Cloud Management V1", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8854", 
+            "Certifying Organization": "Hewlett Packard Certification and Learning"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Brocade Certified Fabric Professional 16 Gbps", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "2459", 
+            "Certifying Organization": "Brocade Communications Systems, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Cisco Certified Architect", 
+            "Type": "Advanced", 
+            "Certification ID": "8687", 
+            "Certifying Organization": "Cisco Systems, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "HP ASE - Server Solutions Architect V8", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "2972", 
+            "Certifying Organization": "Hewlett Packard Certification and Learning"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Brocade Accredited Campus Networking Specialist", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8839", 
+            "Certifying Organization": "Brocade Communications Systems, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "CCDE Design Expert", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "5704", 
+            "Certifying Organization": "Cisco Systems, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "HP Technical Certified II - ArcSight Security Administrator [2012]", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8912", 
+            "Certifying Organization": "Hewlett Packard Certification and Learning"
+        }, 
+        {
+            "Acronym": "CWNA", 
+            "Certification Name": "Certified Wireless Network Administrator", 
+            "Type": "Core", 
+            "Certification ID": "2812", 
+            "Certifying Organization": "Certified Wireless Network Professional"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "CompTIA Green IT Certification", 
+            "Type": "Core", 
+            "Certification ID": "7375", 
+            "Certifying Organization": "Computing Technology Industry Association (CompTIA)"
+        }, 
+        {
+            "Acronym": "GAWN", 
+            "Certification Name": "GIAC Assessing Wireless Networks", 
+            "Type": "Core", 
+            "Certification ID": "4396", 
+            "Certifying Organization": "Global Information Assurance Certification"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Microsoft Certified Solutions Associate", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "3608", 
+            "Certifying Organization": "Microsoft Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "HP Master ASE - Storage Solutions [2011]", 
+            "Type": "Advanced", 
+            "Certification ID": "7246", 
+            "Certifying Organization": "Hewlett Packard Certification and Learning"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "CCNA Voice", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "3030", 
+            "Certifying Organization": "Cisco Systems, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "HP ASE - Cloud Integrator V1", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8853", 
+            "Certifying Organization": "Hewlett Packard Certification and Learning"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "RSA Certified Systems Engineer - SecurID", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "2818", 
+            "Certifying Organization": "RSA Security, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "3Com Certified WAN Expert", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "3877", 
+            "Certifying Organization": "3Com"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Senior System Architect", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9267", 
+            "Certifying Organization": "Pegasystems"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "HP Master ASE - Wireless Networks Implementer V1", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7243", 
+            "Certifying Organization": "Hewlett Packard Certification and Learning"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "HP ATP - Server Administrator V8", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8867", 
+            "Certifying Organization": "Hewlett Packard Certification and Learning"
+        }, 
+        {
+            "Acronym": "CNST", 
+            "Certification Name": "Certified Network Systems Technician", 
+            "Type": "Core", 
+            "Certification ID": "0517", 
+            "Certifying Organization": "ETA International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Server+ Certification", 
+            "Type": "Core", 
+            "Certification ID": "2387", 
+            "Certifying Organization": "Computing Technology Industry Association (CompTIA)"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Linux+ Powered by LPI Certification", 
+            "Type": "Core", 
+            "Certification ID": "2388", 
+            "Certifying Organization": "Computing Technology Industry Association (CompTIA)"
+        }, 
+        {
+            "Acronym": "CNCT", 
+            "Certification Name": "Certified Network Computer Technician", 
+            "Type": "Core", 
+            "Certification ID": "3037", 
+            "Certifying Organization": "ETA International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Service Management Cloud Computing Infrastructure V1", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9522", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Check Point Certified Managed Security Expert", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "3022", 
+            "Certifying Organization": "Check Point Software Technologies, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Microsoft Certified Architect: SQL Server", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7458", 
+            "Certifying Organization": "Microsoft Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Check Point Certified Security Expert Plus NGX", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "3023", 
+            "Certifying Organization": "Check Point Software Technologies, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Microsoft Certified IT Professional: Enterprise Administrator on Windows Server 2008", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7396", 
+            "Certifying Organization": "Microsoft Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "HP Accredited Integration Specialist - Network Infrastructure [2011]", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "3349", 
+            "Certifying Organization": "Hewlett Packard Certification and Learning"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "HP Accredited Systems Engineer - Network Infrastructure [2011]", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7269", 
+            "Certifying Organization": "Hewlett Packard Certification and Learning"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "HP ATP - Cloud Service Automation v3", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8875", 
+            "Certifying Organization": "Hewlett Packard Certification and Learning"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Check Point Certified Managed Security Expert Plus VSX", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "3421", 
+            "Certifying Organization": "Check Point Software Technologies, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Citrix Certified Integration Architect", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "3708", 
+            "Certifying Organization": "Citrix Systems Incorporated"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Alcatel-Lucent Triple Play Routing Professional", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "2908", 
+            "Certifying Organization": "Alcatel"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Cisco Certified Design Associate", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "0652", 
+            "Certifying Organization": "Cisco Systems, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "HP ASE - Wireless Networks Implementer V1", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8860", 
+            "Certifying Organization": "Hewlett Packard Certification and Learning"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "HP ASE - Network Infrastructure [2011]", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7202", 
+            "Certifying Organization": "Hewlett Packard Certification and Learning"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "HP ATA - Networks V1", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8861", 
+            "Certifying Organization": "Hewlett Packard Certification and Learning"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Cisco Certified Network Professional Voice", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "4942", 
+            "Certifying Organization": "Cisco Systems, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "HP ASE - Converged Infrastructure Architect V1", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7218", 
+            "Certifying Organization": "Hewlett Packard Certification and Learning"
+        }, 
+        {
+            "Acronym": "TCM", 
+            "Certification Name": "Telecommunications", 
+            "Type": "Core", 
+            "Certification ID": "3682", 
+            "Certifying Organization": "ETA International"
+        }, 
+        {
+            "Acronym": "EMCCA", 
+            "Certification Name": "Cloud Architect", 
+            "Type": "Core", 
+            "Certification ID": "6847", 
+            "Certifying Organization": "EMC Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "HP ATP - Asset Manager v9", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8873", 
+            "Certifying Organization": "Hewlett Packard Certification and Learning"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "http://www-03.ibm.com/certify/certs/24006405.shtml", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9571", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Citrix Certified Enterprise Engineer", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "1598", 
+            "Certifying Organization": "Citrix Systems Incorporated"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Microsoft Technology Associate: Networking Fundamentals", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7483", 
+            "Certifying Organization": "Microsoft Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "ITS Installer 2, Optical Fiber", 
+            "Type": "Advanced", 
+            "Certification ID": "6251", 
+            "Certifying Organization": "Building Industry Consulting Service International"
+        }, 
+        {
+            "Acronym": "CWSP", 
+            "Certification Name": "Certified Wireless Security Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "3764", 
+            "Certifying Organization": "Certified Wireless Network Professional"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Brocade Accredited Technical Support Specialist", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8832", 
+            "Certifying Organization": "Brocade Communications Systems, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Teradata 14 Enterprise Architect", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9222", 
+            "Certifying Organization": "Teradata"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Brocade Certified Service Provider Network Engineer", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8830", 
+            "Certifying Organization": "Brocade Communications Systems, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Red Hat Certified Engineer", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "1711", 
+            "Certifying Organization": "Red Hat, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "HP AIS - BSM Network Node Manager i v9", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7204", 
+            "Certifying Organization": "Hewlett Packard Certification and Learning"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "HP AIS - BSM Operations Manager For UNIX and Linux v9", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8872", 
+            "Certifying Organization": "Hewlett Packard Certification and Learning"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "HP ATP - Storage Essentials v9", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8878", 
+            "Certifying Organization": "Hewlett Packard Certification and Learning"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "HP ASE - Server Solutions Integrator V8.1", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8849", 
+            "Certifying Organization": "Hewlett Packard Certification and Learning"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "HP Master ASE - Network Infrastructure [2011]", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7242", 
+            "Certifying Organization": "Hewlett Packard Certification and Learning"
+        }, 
+        {
+            "Acronym": "ISSAP", 
+            "Certification Name": "Information Systems Security Architecture Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "5321", 
+            "Certifying Organization": "International Information Systems Security Certification Consortium, Inc."
+        }, 
+        {
+            "Acronym": "CWAP", 
+            "Certification Name": "Certified Wireless Analysis Professional", 
+            "Type": "Core", 
+            "Certification ID": "6340", 
+            "Certifying Organization": "Certified Wireless Network Professional"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Microsoft Technology Associate: Windows Server Administration Fundamentals", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7485", 
+            "Certifying Organization": "Microsoft Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Lead System Architect", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9268", 
+            "Certifying Organization": "Pegasystems"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Brocade Certified Ethernet Fabric Engineer", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8827", 
+            "Certifying Organization": "Brocade Communications Systems, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Administrator - Cognos 10 BI", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "5475", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "HP ASE - Cloud Architect V2", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8852", 
+            "Certifying Organization": "Hewlett Packard Certification and Learning"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "HP ATP - Rack and Tower Server Solutions Integrator V8.1", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8866", 
+            "Certifying Organization": "Hewlett Packard Certification and Learning"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Novell Administrator", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "0362", 
+            "Certifying Organization": "Novell, Inc. - Education"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Cisco Certified Network Professional", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "1271", 
+            "Certifying Organization": "Cisco Systems, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Microsoft Certified Architect: Windows Server: Directory", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7459", 
+            "Certifying Organization": "Microsoft Corporation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Red Hat Certified Architect", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "5713", 
+            "Certifying Organization": "Red Hat, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Brocade Certified Fabric Designer", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "5769", 
+            "Certifying Organization": "Brocade Communications Systems, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "HP ATA - Servers and Storage V1", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8868", 
+            "Certifying Organization": "Hewlett Packard Certification and Learning"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Cisco Rich Media Communications Specialist", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7713", 
+            "Certifying Organization": "Cisco Systems, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Teradata 12 Certified Master", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "2796", 
+            "Certifying Organization": "Teradata"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "CCIE Routing & Switching", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "2964", 
+            "Certifying Organization": "Cisco Systems, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "HP ASE - Network Architect V1", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8857", 
+            "Certifying Organization": "Hewlett Packard Certification and Learning"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Network+ Certification", 
+            "Type": "Core", 
+            "Certification ID": "0642", 
+            "Certifying Organization": "Computing Technology Industry Association (CompTIA)"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Brocade Certified Network Professional", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "6256", 
+            "Certifying Organization": "Brocade Communications Systems, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Brocade Certified Network Designer", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "8829", 
+            "Certifying Organization": "Brocade Communications Systems, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified Solution Designer - Rational System Architect: BPMN Emphasis", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "9438", 
+            "Certifying Organization": "IBM Corporation"
+        }, 
+        {
+            "Acronym": "CWNE", 
+            "Certification Name": "Certified Wireless Network Expert", 
+            "Type": "Advanced", 
+            "Certification ID": "2813", 
+            "Certifying Organization": "Certified Wireless Network Professional"
+        }
+    ], 
+    "onet": "15114300"
+}

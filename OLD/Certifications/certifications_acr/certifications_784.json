@@ -1,0 +1,75 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "API TES Tank Entry Supervisor Certification", 
+            "Type": "Core", 
+            "Certification ID": "5269", 
+            "Certifying Organization": "American Petroleum Institute"
+        }, 
+        {
+            "Acronym": "PMTLevel", 
+            "Certification Name": "Custom Pipeline Maintenance Inspector", 
+            "Type": "Advanced", 
+            "Certification ID": "8215", 
+            "Certifying Organization": "National Center for Construction Education and Research"
+        }, 
+        {
+            "Acronym": "API", 
+            "Certification Name": "UT Shear Wave (Detection) Qualification Certification", 
+            "Type": "Core", 
+            "Certification ID": "5271", 
+            "Certifying Organization": "American Petroleum Institute"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "API 510 Pressure Vessels Inspector Certification", 
+            "Type": "Core", 
+            "Certification ID": "5265", 
+            "Certifying Organization": "American Petroleum Institute"
+        }, 
+        {
+            "Acronym": "PEC", 
+            "Certification Name": "Petroleum Engineering Certification", 
+            "Type": "Core", 
+            "Certification ID": "6169", 
+            "Certifying Organization": "Society of Petroleum Engineers"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "API 936 Refractory Personnel Certification", 
+            "Type": "Advanced", 
+            "Certification ID": "5268", 
+            "Certifying Organization": "American Petroleum Institute"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Control Center Operations Technician", 
+            "Type": "Core", 
+            "Certification ID": "5404", 
+            "Certifying Organization": "National Center for Construction Education and Research"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "API 570 Piping Inspector Certification", 
+            "Type": "Core", 
+            "Certification ID": "5266", 
+            "Certifying Organization": "American Petroleum Institute"
+        }, 
+        {
+            "Acronym": "Sizing", 
+            "Certification Name": "API QUSE - UT Shear Wave (Sizing) Qualification Certification", 
+            "Type": "Core", 
+            "Certification ID": "5272", 
+            "Certifying Organization": "American Petroleum Institute"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "API 653 Aboveground Storage Tanks Inspector Certification", 
+            "Type": "Core", 
+            "Certification ID": "5267", 
+            "Certifying Organization": "American Petroleum Institute"
+        }
+    ], 
+    "onet": "51809300"
+}

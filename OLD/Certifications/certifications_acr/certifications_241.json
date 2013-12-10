@@ -1,0 +1,19 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CEcD", 
+            "Certification Name": "Certified Economic Developer", 
+            "Type": "Advanced", 
+            "Certification ID": "1220", 
+            "Certifying Organization": "International Economic Development Council"
+        }, 
+        {
+            "Acronym": "EDFP", 
+            "Certification Name": "Economic Development Finance Professional", 
+            "Type": "Core", 
+            "Certification ID": "5200", 
+            "Certifying Organization": "The National Development Council"
+        }
+    ], 
+    "onet": "19301100"
+}

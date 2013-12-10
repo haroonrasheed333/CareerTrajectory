@@ -1,0 +1,54 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CKBI", 
+            "Certification Name": "Certified Kitchen & Bathroom Installer", 
+            "Type": "Core", 
+            "Certification ID": "2217", 
+            "Certifying Organization": "National Kitchen & Bath Association"
+        }, 
+        {
+            "Acronym": "FOIC", 
+            "Certification Name": "Fiber Optics Installer", 
+            "Type": "Specialty", 
+            "Certification ID": "0518", 
+            "Certifying Organization": "ETA International"
+        }, 
+        {
+            "Acronym": "CSI", 
+            "Certification Name": "Certified Satellite Installer", 
+            "Type": "Advanced", 
+            "Certification ID": "0468", 
+            "Certifying Organization": "ETA International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Machine Building Level II - Mechanical Assembly", 
+            "Type": "Advanced", 
+            "Certification ID": "3842", 
+            "Certifying Organization": "National Institute for Metalworking Skills "
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Brocade Certified Network Professional", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "6256", 
+            "Certifying Organization": "Brocade Communications Systems, Inc."
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Brocade Certified Layer 4-7 Engineer", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "6257", 
+            "Certifying Organization": "Brocade Communications Systems, Inc."
+        }, 
+        {
+            "Acronym": "FOTC", 
+            "Certification Name": "Fiber Optics Technician", 
+            "Type": "Specialty", 
+            "Certification ID": "0519", 
+            "Certifying Organization": "ETA International"
+        }
+    ], 
+    "onet": "49909900"
+}

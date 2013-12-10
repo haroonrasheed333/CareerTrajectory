@@ -1,0 +1,19 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "HSO", 
+            "Certification Name": "Health & Safety Officer Certification", 
+            "Type": "Core", 
+            "Certification ID": "5400", 
+            "Certifying Organization": "Fire Department Safety Officers Association"
+        }, 
+        {
+            "Acronym": "CFPS", 
+            "Certification Name": "Certified Fire Protection Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "1023", 
+            "Certifying Organization": "National Fire Protection Association"
+        }
+    ], 
+    "onet": "33102101"
+}

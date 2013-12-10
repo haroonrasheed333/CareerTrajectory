@@ -1,0 +1,68 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CSS", 
+            "Certification Name": "Certified Security Supervision & Management", 
+            "Type": "Advanced", 
+            "Certification ID": "2252", 
+            "Certifying Organization": "International Foundation for Protection Officers"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Video Security Systems Designer II", 
+            "Type": "Advanced", 
+            "Certification ID": "9100", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "CFE", 
+            "Certification Name": "Certified Fraud Examiner", 
+            "Type": "Core", 
+            "Certification ID": "1245", 
+            "Certifying Organization": "Association of Certified Fraud Examiners"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Video Security Systems Technician II", 
+            "Type": "Core", 
+            "Certification ID": "9101", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Video Security Systems Technician I", 
+            "Type": "Core", 
+            "Certification ID": "5387", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Video Security Systems Technician III", 
+            "Type": "Core", 
+            "Certification ID": "9102", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "CPO", 
+            "Certification Name": "Certified Protection Officer", 
+            "Type": "Core", 
+            "Certification ID": "2251", 
+            "Certifying Organization": "International Foundation for Protection Officers"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Video Security Systems Technician IV", 
+            "Type": "Core", 
+            "Certification ID": "9103", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Video Security Systems Designer I", 
+            "Type": "Advanced", 
+            "Certification ID": "5386", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }
+    ], 
+    "onet": "33903100"
+}

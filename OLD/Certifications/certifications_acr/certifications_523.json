@@ -1,0 +1,19 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "ProChef Level I Certification", 
+            "Type": "Core", 
+            "Certification ID": "7670", 
+            "Certifying Organization": "The Culinary Institute of America"
+        }, 
+        {
+            "Acronym": "CC", 
+            "Certification Name": "Certified Culinarian", 
+            "Type": "Core", 
+            "Certification ID": "1102", 
+            "Certifying Organization": "American Culinary Federation, Inc."
+        }
+    ], 
+    "onet": "35202100"
+}

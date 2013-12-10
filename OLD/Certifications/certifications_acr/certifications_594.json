@@ -1,0 +1,68 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CCE", 
+            "Certification Name": "Certified Credit Executive", 
+            "Type": "Advanced", 
+            "Certification ID": "5898", 
+            "Certifying Organization": "National Association of Credit Management"
+        }, 
+        {
+            "Acronym": "HCM", 
+            "Certification Name": "Health Care Collection Management", 
+            "Type": "Advanced", 
+            "Certification ID": "7977", 
+            "Certifying Organization": "Association of Credit and Collection Professionals"
+        }, 
+        {
+            "Acronym": "CBA", 
+            "Certification Name": "Credit Business Associate", 
+            "Type": "Core", 
+            "Certification ID": "5896", 
+            "Certifying Organization": "National Association of Credit Management"
+        }, 
+        {
+            "Acronym": "PCA", 
+            "Certification Name": "Professional Credit Associate", 
+            "Type": "Core", 
+            "Certification ID": "8972", 
+            "Certifying Organization": "Credit Professionals International"
+        }, 
+        {
+            "Acronym": "CBF", 
+            "Certification Name": "Credit Business Fellow", 
+            "Type": "Advanced", 
+            "Certification ID": "5897", 
+            "Certifying Organization": "National Association of Credit Management"
+        }, 
+        {
+            "Acronym": "PCE", 
+            "Certification Name": "Professional Credit Executive", 
+            "Type": "Advanced", 
+            "Certification ID": "8974", 
+            "Certifying Organization": "Credit Professionals International"
+        }, 
+        {
+            "Acronym": "PCS", 
+            "Certification Name": "Professional Credit Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "8973", 
+            "Certifying Organization": "Credit Professionals International"
+        }, 
+        {
+            "Acronym": "MPCE", 
+            "Certification Name": "Master Professional Credit Executive", 
+            "Type": "Advanced", 
+            "Certification ID": "8975", 
+            "Certifying Organization": "Credit Professionals International"
+        }, 
+        {
+            "Acronym": "CCCO", 
+            "Certification Name": "Credit and Collection Compliance Officer", 
+            "Type": "Advanced", 
+            "Certification ID": "7976", 
+            "Certifying Organization": "Association of Credit and Collection Professionals"
+        }
+    ], 
+    "onet": "43404100"
+}

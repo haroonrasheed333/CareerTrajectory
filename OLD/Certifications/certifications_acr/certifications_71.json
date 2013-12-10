@@ -1,0 +1,68 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CAMC", 
+            "Certification Name": "Certified Anti-Money Laundering Consultant", 
+            "Type": "Advanced", 
+            "Certification ID": "7924", 
+            "Certifying Organization": "American Academy of Financial Management"
+        }, 
+        {
+            "Acronym": "CPSI", 
+            "Certification Name": "Certified Playground Safety Inspector", 
+            "Type": "Specialty", 
+            "Certification ID": "3132", 
+            "Certifying Organization": "National Recreation and Park Association"
+        }, 
+        {
+            "Acronym": "SSI", 
+            "Certification Name": "Substrate/Subfloor Inspector", 
+            "Type": "Core", 
+            "Certification ID": "2353", 
+            "Certifying Organization": "Institute of Inspection Cleaning and Restoration Certification"
+        }, 
+        {
+            "Acronym": "CAMS", 
+            "Certification Name": "Certified Anti-Money Laundering Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "3572", 
+            "Certifying Organization": "Association of Certified Anti-Money Laundering Specialists"
+        }, 
+        {
+            "Acronym": "CAMLS", 
+            "Certification Name": "Certified Anti-Money Laundering Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "6904", 
+            "Certifying Organization": "Education Foundation of State Bank Supervisors"
+        }, 
+        {
+            "Acronym": "CEA", 
+            "Certification Name": "Certified Energy Auditor", 
+            "Type": "Advanced", 
+            "Certification ID": "5505", 
+            "Certifying Organization": "Association of Energy Engineers"
+        }, 
+        {
+            "Acronym": "NHI", 
+            "Certification Name": "Certified National Home Inspector", 
+            "Type": "Core", 
+            "Certification ID": "6023", 
+            "Certifying Organization": "Examination Board of Professional Home Inspectors"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IAPMO Accessibility Inspector Certification", 
+            "Type": "Core", 
+            "Certification ID": "6137", 
+            "Certifying Organization": "National Inspection, Testing and Certification Corporation"
+        }, 
+        {
+            "Acronym": "CPPS", 
+            "Certification Name": "Certified Professional Property Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "1333", 
+            "Certifying Organization": "National Property Management Association, Inc."
+        }
+    ], 
+    "onet": "13104104"
+}

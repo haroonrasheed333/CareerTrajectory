@@ -1,0 +1,40 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "Electrostatic Discharge", 
+            "Certification Name": "ESD (Electrostatic Discharge) Control Engineer", 
+            "Type": "Advanced", 
+            "Certification ID": "2281", 
+            "Certifying Organization": "National Association of Radio and Telecommunications Engineers, Inc."
+        }, 
+        {
+            "Acronym": "MDA", 
+            "Certification Name": "Master Decorative Artist", 
+            "Type": "Advanced", 
+            "Certification ID": "3763", 
+            "Certifying Organization": "Society of Decorative Painters"
+        }, 
+        {
+            "Acronym": "Electrostatic Discharge", 
+            "Certification Name": "ESD (Electrostatic Discharge) Technician", 
+            "Type": "Advanced", 
+            "Certification ID": "2279", 
+            "Certifying Organization": "National Association of Radio and Telecommunications Engineers, Inc."
+        }, 
+        {
+            "Acronym": "CDA,", 
+            "Certification Name": "Certified Decorative Artist", 
+            "Type": "Core", 
+            "Certification ID": "3762", 
+            "Certifying Organization": "Society of Decorative Painters"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Protective Coatings Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "1150", 
+            "Certifying Organization": "NACE International"
+        }
+    ], 
+    "onet": "51912300"
+}

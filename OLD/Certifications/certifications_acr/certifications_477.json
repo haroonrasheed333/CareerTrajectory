@@ -1,0 +1,96 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "COA", 
+            "Certification Name": "Certified Orthodontic Assistant", 
+            "Type": "Core", 
+            "Certification ID": "4341", 
+            "Certifying Organization": "Dental Assisting National Board"
+        }, 
+        {
+            "Acronym": "RHS", 
+            "Certification Name": "Certified Dental Assistant Certificate of Competency in Radiation Health and Safety", 
+            "Type": "Specialty", 
+            "Certification ID": "7358", 
+            "Certifying Organization": "Dental Assisting National Board"
+        }, 
+        {
+            "Acronym": "CPFDA", 
+            "Certification Name": "Certified Preventative Functions Dental Assistant", 
+            "Type": "Core", 
+            "Certification ID": "7339", 
+            "Certifying Organization": "Dental Assisting National Board"
+        }, 
+        {
+            "Acronym": "DA", 
+            "Certification Name": "Dental Assistant", 
+            "Type": "Core", 
+            "Certification ID": "0460", 
+            "Certifying Organization": "American Medical Technologists"
+        }, 
+        {
+            "Acronym": "TA", 
+            "Certification Name": "Certified Dental Assistant Certificate of Competency in Topical Anesthetic", 
+            "Type": "Specialty", 
+            "Certification ID": "7363", 
+            "Certifying Organization": "Dental Assisting National Board"
+        }, 
+        {
+            "Acronym": "CDA", 
+            "Certification Name": "Certified Dental Assistant", 
+            "Type": "Core", 
+            "Certification ID": "1195", 
+            "Certifying Organization": "Dental Assisting National Board"
+        }, 
+        {
+            "Acronym": "SE", 
+            "Certification Name": "Certified Dental Assistant Certificate of Competency in Sealants", 
+            "Type": "Specialty", 
+            "Certification ID": "7361", 
+            "Certifying Organization": "Dental Assisting National Board"
+        }, 
+        {
+            "Acronym": "ICE", 
+            "Certification Name": "Certified Orthodontic Assistant Certificate of Competency in Infection Control", 
+            "Type": "Specialty", 
+            "Certification ID": "7364", 
+            "Certifying Organization": "Dental Assisting National Board"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Dental Technician", 
+            "Type": "Core", 
+            "Certification ID": "5633", 
+            "Certifying Organization": "National Board for Certification in Dental Laboratory Technology"
+        }, 
+        {
+            "Acronym": "TF", 
+            "Certification Name": "Certified Dental Assistant Certificate of Competency in Topical Fluoride", 
+            "Type": "Specialty", 
+            "Certification ID": "7362", 
+            "Certifying Organization": "Dental Assisting National Board"
+        }, 
+        {
+            "Acronym": "CP", 
+            "Certification Name": "Certified Dental Assistant Certificate of Competency in Coronal Polish", 
+            "Type": "Specialty", 
+            "Certification ID": "7360", 
+            "Certifying Organization": "Dental Assisting National Board"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Registered Medical Assistant", 
+            "Type": "Core", 
+            "Certification ID": "8528", 
+            "Certifying Organization": "American Phlebotomy Association"
+        }, 
+        {
+            "Acronym": "ICE", 
+            "Certification Name": "Certified Dental Assistant Certificate of Competency in Infection Control", 
+            "Type": "Specialty", 
+            "Certification ID": "7359", 
+            "Certifying Organization": "Dental Assisting National Board"
+        }
+    ], 
+    "onet": "31909100"
+}

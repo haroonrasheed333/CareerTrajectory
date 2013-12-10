@@ -1,0 +1,26 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CPTS", 
+            "Certification Name": "Pupil Transportation Specialist", 
+            "Type": "Core", 
+            "Certification ID": "2513", 
+            "Certifying Organization": "National Association for Pupil Transportation"
+        }, 
+        {
+            "Acronym": "CEAP", 
+            "Certification Name": "Certified Employee Assistance Professional", 
+            "Type": "Core", 
+            "Certification ID": "1375", 
+            "Certifying Organization": "International Employee Assistance Professionals Association"
+        }, 
+        {
+            "Acronym": "NCFR", 
+            "Certification Name": "Certified Family Life Educator", 
+            "Type": "Advanced", 
+            "Certification ID": "3646", 
+            "Certifying Organization": "National Council on Family Relations"
+        }
+    ], 
+    "onet": "21109900"
+}

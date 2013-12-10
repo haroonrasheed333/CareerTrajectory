@@ -1,0 +1,75 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "ACS", 
+            "Certification Name": "Associate CET Senior", 
+            "Type": "Core", 
+            "Certification ID": "0511", 
+            "Certifying Organization": "International Society of Certified Electronics Technicians"
+        }, 
+        {
+            "Acronym": "MST", 
+            "Certification Name": "Certified Electronics Technician - Journeyman-Level - Multimedia Systems Technician", 
+            "Type": "Specialty", 
+            "Certification ID": "9332", 
+            "Certifying Organization": "International Society of Certified Electronics Technicians"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "ITS Design Fundamentals", 
+            "Type": "Core", 
+            "Certification ID": "9197", 
+            "Certifying Organization": "Building Industry Consulting Service International"
+        }, 
+        {
+            "Acronym": "CET", 
+            "Certification Name": "Certified Electronics Technician - Journeyman-Level - Consumer", 
+            "Type": "Specialty", 
+            "Certification ID": "0507", 
+            "Certifying Organization": "International Society of Certified Electronics Technicians"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Engineering Technician - Audio Systems", 
+            "Type": "Core", 
+            "Certification ID": "3530", 
+            "Certifying Organization": "National Institute for Certification in Engineering Technologies"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Wireless Systems Installer Technician", 
+            "Type": "Core", 
+            "Certification ID": "2670", 
+            "Certifying Organization": "National Association of Radio and Telecommunications Engineers, Inc."
+        }, 
+        {
+            "Acronym": "CSI", 
+            "Certification Name": "Certified Satellite Installer", 
+            "Type": "Advanced", 
+            "Certification ID": "0468", 
+            "Certifying Organization": "ETA International"
+        }, 
+        {
+            "Acronym": "EST", 
+            "Certification Name": "Certified  Electronic Systems Technician", 
+            "Type": "Core", 
+            "Certification ID": "6945", 
+            "Certifying Organization": "Electronic Systems Professional Alliance"
+        }, 
+        {
+            "Acronym": "NCE", 
+            "Certification Name": "Wireless Systems Installer Engineer", 
+            "Type": "Advanced", 
+            "Certification ID": "2669", 
+            "Certifying Organization": "National Association of Radio and Telecommunications Engineers, Inc."
+        }, 
+        {
+            "Acronym": "ESA", 
+            "Certification Name": "Certified Electronics Systems Associate", 
+            "Type": "Core", 
+            "Certification ID": "0504", 
+            "Certifying Organization": "International Society of Certified Electronics Technicians"
+        }
+    ], 
+    "onet": "49209700"
+}

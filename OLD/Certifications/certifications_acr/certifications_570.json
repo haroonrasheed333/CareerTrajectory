@@ -1,0 +1,75 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CDSM", 
+            "Certification Name": "Certified Demand-Side Manager", 
+            "Type": "Advanced", 
+            "Certification ID": "8560", 
+            "Certifying Organization": "Association of Energy Engineers"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Renewable Energy Photovoltaic and Small Wind Installer Level I Apprentice", 
+            "Type": "Core", 
+            "Certification ID": "6834", 
+            "Certifying Organization": "ETA International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Renewable Energy Integrator Level I", 
+            "Type": "Core", 
+            "Certification ID": "6831", 
+            "Certifying Organization": "ETA International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Renewable Energy Photovoltaic and Small Wind Installer Level III Technician", 
+            "Type": "Advanced", 
+            "Certification ID": "6836", 
+            "Certifying Organization": "ETA International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Renewable Energy Photovoltaic and Small Wind Installer Level II Specialist", 
+            "Type": "Core", 
+            "Certification ID": "6835", 
+            "Certifying Organization": "ETA International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Renewable Energy Integrator Level II", 
+            "Type": "Advanced", 
+            "Certification ID": "6832", 
+            "Certifying Organization": "ETA International"
+        }, 
+        {
+            "Acronym": "ERP", 
+            "Certification Name": "Energy Risk Professional", 
+            "Type": "Core", 
+            "Certification ID": "5868", 
+            "Certifying Organization": "Global Association of Risk Professionals"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Renewable Energy Integrator Level III", 
+            "Type": "Advanced", 
+            "Certification ID": "6833", 
+            "Certifying Organization": "ETA International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Energy Code Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "6924", 
+            "Certifying Organization": "International Code Council"
+        }, 
+        {
+            "Acronym": "REP", 
+            "Certification Name": "Certified Renewable Energy Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "6084", 
+            "Certifying Organization": "Association of Energy Engineers"
+        }
+    ], 
+    "onet": "41309901"
+}

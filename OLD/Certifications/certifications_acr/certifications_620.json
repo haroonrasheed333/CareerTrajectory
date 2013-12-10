@@ -1,0 +1,33 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CQI", 
+            "Certification Name": "Certified Quality Inspector", 
+            "Type": "Advanced", 
+            "Certification ID": "5361", 
+            "Certifying Organization": "American Society for Quality"
+        }, 
+        {
+            "Acronym": "CWP", 
+            "Certification Name": "Certified Weighing Professionals", 
+            "Type": "Advanced", 
+            "Certification ID": "8951", 
+            "Certifying Organization": "International Society of Weighing and Measurement"
+        }, 
+        {
+            "Acronym": "CWT", 
+            "Certification Name": "Certified Weighing Technicians", 
+            "Type": "Core", 
+            "Certification ID": "8950", 
+            "Certifying Organization": "International Society of Weighing and Measurement"
+        }, 
+        {
+            "Acronym": "CWS", 
+            "Certification Name": "Certified Weighing Salespersons", 
+            "Type": "Core", 
+            "Certification ID": "8952", 
+            "Certifying Organization": "International Society of Weighing and Measurement"
+        }
+    ], 
+    "onet": "43511100"
+}

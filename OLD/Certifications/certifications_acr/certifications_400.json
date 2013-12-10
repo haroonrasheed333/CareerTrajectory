@@ -1,0 +1,222 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "Chem", 
+            "Certification Name": "Certification in Pathology: Chemical Pathology", 
+            "Type": "Specialty", 
+            "Certification ID": "0211", 
+            "Certifying Organization": "American Board of Pathology"
+        }, 
+        {
+            "Acronym": "FP", 
+            "Certification Name": "Certification in Pathology: Forensic Pathology", 
+            "Type": "Specialty", 
+            "Certification ID": "0215", 
+            "Certifying Organization": "American Board of Pathology"
+        }, 
+        {
+            "Acronym": "PP", 
+            "Certification Name": "Certification in Pathology: Pediatric Pathology", 
+            "Type": "Specialty", 
+            "Certification ID": "0220", 
+            "Certifying Organization": "American Board of Pathology"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Diplomate", 
+            "Type": "Advanced", 
+            "Certification ID": "8842", 
+            "Certifying Organization": "National Board of Medical Examiners"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Qualification in Immunohistochemistry", 
+            "Type": "Core", 
+            "Certification ID": "6313", 
+            "Certifying Organization": "American Society for Clinical Pathology"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Toxicological Chemistry", 
+            "Type": "Advanced", 
+            "Certification ID": "2062", 
+            "Certifying Organization": "American Board of Clinical Chemistry"
+        }, 
+        {
+            "Acronym": "MGP", 
+            "Certification Name": "Certification in Pathology: Molecular Genetic Pathology", 
+            "Type": "Core", 
+            "Certification ID": "2577", 
+            "Certifying Organization": "American Board of Pathology"
+        }, 
+        {
+            "Acronym": "QCYM", 
+            "Certification Name": "Qualification in Cytometry", 
+            "Type": "Specialty", 
+            "Certification ID": "1817", 
+            "Certifying Organization": "American Society for Clinical Pathology"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification of Special Qualifications for Forensic Pathology", 
+            "Type": "Specialty", 
+            "Certification ID": "6370", 
+            "Certifying Organization": "American Osteopathic Board of Pathology"
+        }, 
+        {
+            "Acronym": "AP", 
+            "Certification Name": "Certification in Anatomic Pathology", 
+            "Type": "Specialty", 
+            "Certification ID": "0210", 
+            "Certifying Organization": "American Board of Pathology"
+        }, 
+        {
+            "Acronym": "MMB", 
+            "Certification Name": "Certification in Pathology: Medical Microbiology", 
+            "Type": "Specialty", 
+            "Certification ID": "0218", 
+            "Certifying Organization": "American Board of Pathology"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification of Added Qualifications for Dermatopathology", 
+            "Type": "Core", 
+            "Certification ID": "6371", 
+            "Certifying Organization": "American Osteopathic Board of Pathology"
+        }, 
+        {
+            "Acronym": "ASCP)", 
+            "Certification Name": "Diplomate in Laboratory Management", 
+            "Type": "Core", 
+            "Certification ID": "1813", 
+            "Certifying Organization": "American Society for Clinical Pathology"
+        }, 
+        {
+            "Acronym": "AP/CP", 
+            "Certification Name": "Combined Anatomic Pathology & Clinical Pathology Certification", 
+            "Type": "Specialty", 
+            "Certification ID": "0208", 
+            "Certifying Organization": "American Board of Pathology"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Clinical Chemistry", 
+            "Type": "Advanced", 
+            "Certification ID": "2061", 
+            "Certifying Organization": "American Board of Clinical Chemistry"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Clinical Cytogenetics", 
+            "Type": "Specialty", 
+            "Certification ID": "0191", 
+            "Certifying Organization": "American Board of Medical Genetics"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Medical Biochemical Genetics", 
+            "Type": "Specialty", 
+            "Certification ID": "6433", 
+            "Certifying Organization": "American Board of Medical Genetics"
+        }, 
+        {
+            "Acronym": "HEM", 
+            "Certification Name": "Certification in Pathology: Hematology", 
+            "Type": "Specialty", 
+            "Certification ID": "0216", 
+            "Certifying Organization": "American Board of Pathology"
+        }, 
+        {
+            "Acronym": "NP", 
+            "Certification Name": "Certification in Pathology: Neuropathology", 
+            "Type": "Specialty", 
+            "Certification ID": "0219", 
+            "Certifying Organization": "American Board of Pathology"
+        }, 
+        {
+            "Acronym": "CoAP", 
+            "Certification Name": "Cardiac CT Certificate of Advanced Proficiency", 
+            "Type": "Specialty", 
+            "Certification ID": "9491", 
+            "Certifying Organization": "American College of Radiology"
+        }, 
+        {
+            "Acronym": "CPE", 
+            "Certification Name": "Certified Physician Executive", 
+            "Type": "Specialty", 
+            "Certification ID": "9526", 
+            "Certifying Organization": "Certifying Commission in Medical Management"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Clinical Biochemical Genetics", 
+            "Type": "Specialty", 
+            "Certification ID": "0190", 
+            "Certifying Organization": "American Board of Medical Genetics"
+        }, 
+        {
+            "Acronym": "BB/TM", 
+            "Certification Name": "Certification in Pathology: Blood Banking/Transfusion Medicine", 
+            "Type": "Specialty", 
+            "Certification ID": "0209", 
+            "Certifying Organization": "American Board of Pathology"
+        }, 
+        {
+            "Acronym": "CYP", 
+            "Certification Name": "Certification in Pathology: Cytopathology", 
+            "Type": "Specialty", 
+            "Certification ID": "0213", 
+            "Certifying Organization": "American Board of Pathology"
+        }, 
+        {
+            "Acronym": "CPHQ", 
+            "Certification Name": "Certified Professional in Healthcare Quality", 
+            "Type": "Core", 
+            "Certification ID": "9207", 
+            "Certifying Organization": "National Association for Healthcare Quality"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification in Laboratory Medicine Anatomic Pathology", 
+            "Type": "Specialty", 
+            "Certification ID": "2556", 
+            "Certifying Organization": "American Osteopathic Board of Pathology"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Clinical Molecular Genetics", 
+            "Type": "Specialty", 
+            "Certification ID": "0193", 
+            "Certifying Organization": "American Board of Medical Genetics"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Molecular Genetic Pathology", 
+            "Type": "Specialty", 
+            "Certification ID": "6434", 
+            "Certifying Organization": "American Board of Medical Genetics"
+        }, 
+        {
+            "Acronym": "DP", 
+            "Certification Name": "Certification in Pathology: Dermatopathology", 
+            "Type": "Specialty", 
+            "Certification ID": "0214", 
+            "Certifying Organization": "American Board of Pathology"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Diplomate", 
+            "Type": "Advanced", 
+            "Certification ID": "8935", 
+            "Certifying Organization": "American Board of Medical Microbiology"
+        }, 
+        {
+            "Acronym": "CP", 
+            "Certification Name": "Certification in Clinical Pathology", 
+            "Type": "Core", 
+            "Certification ID": "0212", 
+            "Certifying Organization": "American Board of Pathology"
+        }
+    ], 
+    "onet": "29106907"
+}

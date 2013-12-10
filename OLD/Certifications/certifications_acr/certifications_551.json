@@ -1,0 +1,26 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CCP", 
+            "Certification Name": "Certified Childcare Professional", 
+            "Type": "Advanced", 
+            "Certification ID": "7994", 
+            "Certifying Organization": "National Early Childhood  Program Accreditation"
+        }, 
+        {
+            "Acronym": "CDA", 
+            "Certification Name": "Child Development Associate", 
+            "Type": "Core", 
+            "Certification ID": "0865", 
+            "Certifying Organization": "Council for Professional Recognition"
+        }, 
+        {
+            "Acronym": "NAC", 
+            "Certification Name": "National Administrator Credential", 
+            "Type": "Advanced", 
+            "Certification ID": "7993", 
+            "Certifying Organization": "National Early Childhood  Program Accreditation"
+        }
+    ], 
+    "onet": "39901100"
+}

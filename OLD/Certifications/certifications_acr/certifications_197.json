@@ -1,0 +1,33 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Unmanned Systems Aircraft Maintenance", 
+            "Type": "Specialty", 
+            "Certification ID": "8779", 
+            "Certifying Organization": "National Center for Aerospace & Transportation Technologies"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Robotic Arc Welding Operator", 
+            "Type": "Core", 
+            "Certification ID": "3989", 
+            "Certifying Organization": "American Welding Society"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Robotic Arc Welding Technician", 
+            "Type": "Advanced", 
+            "Certification ID": "7852", 
+            "Certifying Organization": "American Welding Society"
+        }, 
+        {
+            "Acronym": "CCST", 
+            "Certification Name": "Certified Control Systems Technician   Level I", 
+            "Type": "Core", 
+            "Certification ID": "1107", 
+            "Certifying Organization": "International Society of Automation"
+        }
+    ], 
+    "onet": "17302401"
+}

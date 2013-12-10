@@ -1,0 +1,194 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "RRA", 
+            "Certification Name": "Registered Radiologist Assistant", 
+            "Type": "Advanced", 
+            "Certification ID": "3940", 
+            "Certifying Organization": "American Registry of Radiologic Technologists"
+        }, 
+        {
+            "Acronym": "EEG", 
+            "Certification Name": "Certified Electroencephalographic Technologists", 
+            "Type": "Core", 
+            "Certification ID": "5938", 
+            "Certifying Organization": "American Board of Registration of  Electroencephalography and  Evoked Potential Technologists"
+        }, 
+        {
+            "Acronym": "IRRSP", 
+            "Certification Name": "Industrial Radiography Radiation Safety Personnel - X-Ray", 
+            "Type": "Specialty", 
+            "Certification ID": "7910", 
+            "Certifying Organization": "American Society for Nondestructive Testing"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "EKG Technician", 
+            "Type": "Core", 
+            "Certification ID": "8531", 
+            "Certifying Organization": "American Phlebotomy Association"
+        }, 
+        {
+            "Acronym": "CRA", 
+            "Certification Name": "Certified Radiology Administrator", 
+            "Type": "Advanced", 
+            "Certification ID": "3740", 
+            "Certifying Organization": "American Healthcare Radiology Administrators"
+        }, 
+        {
+            "Acronym": "VA-BC", 
+            "Certification Name": "Vascular Access-Board Certified", 
+            "Type": "Core", 
+            "Certification ID": "9533", 
+            "Certifying Organization": "Vascular Access Certification Corporation"
+        }, 
+        {
+            "Acronym": "RTCV", 
+            "Certification Name": "Registered Technologist - Cardiac-Interventional Radiography", 
+            "Type": "Specialty", 
+            "Certification ID": "2027", 
+            "Certifying Organization": "American Registry of Radiologic Technologists"
+        }, 
+        {
+            "Acronym": "RTCT", 
+            "Certification Name": "Registered Technologist - Computed Tomography", 
+            "Type": "Specialty", 
+            "Certification ID": "2029", 
+            "Certifying Organization": "American Registry of Radiologic Technologists"
+        }, 
+        {
+            "Acronym": "PET", 
+            "Certification Name": "Positron Emission Tomography", 
+            "Type": "Specialty", 
+            "Certification ID": "6695", 
+            "Certifying Organization": "Nuclear Medicine Technology Certification Board"
+        }, 
+        {
+            "Acronym": "RTR", 
+            "Certification Name": "Registered Technologist - Radiography", 
+            "Type": "Core", 
+            "Certification ID": "6492", 
+            "Certifying Organization": "American Registry of Radiologic Technologists"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certification in Magnetic Resonance Imaging Physics", 
+            "Type": "Core", 
+            "Certification ID": "7911", 
+            "Certifying Organization": "American Board of Medical Physics"
+        }, 
+        {
+            "Acronym": "RTM", 
+            "Certification Name": "Registered Technologist - Mammography", 
+            "Type": "Specialty", 
+            "Certification ID": "2028", 
+            "Certifying Organization": "American Registry of Radiologic Technologists"
+        }, 
+        {
+            "Acronym": "EP", 
+            "Certification Name": "Certified Evoked Potential Technologist", 
+            "Type": "Specialty", 
+            "Certification ID": "5939", 
+            "Certifying Organization": "American Board of Registration of  Electroencephalography and  Evoked Potential Technologists"
+        }, 
+        {
+            "Acronym": "R.T.", 
+            "Certification Name": "Registered Technologist - Magnetic Resonance Imaging", 
+            "Type": "Core", 
+            "Certification ID": "2030", 
+            "Certifying Organization": "American Registry of Radiologic Technologists"
+        }, 
+        {
+            "Acronym": "RTN", 
+            "Certification Name": "Registered Technologist - Nuclear Medicine Technology", 
+            "Type": "Specialty", 
+            "Certification ID": "2025", 
+            "Certifying Organization": "American Registry of Radiologic Technologists"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Magnetic Resonance Imaging Technologist", 
+            "Type": "Core", 
+            "Certification ID": "5577", 
+            "Certifying Organization": "American Registry of Magnetic Resonance Imaging Technologists"
+        }, 
+        {
+            "Acronym": "RTS", 
+            "Certification Name": "Registered Technologist - Sonography", 
+            "Type": "Core", 
+            "Certification ID": "2686", 
+            "Certifying Organization": "American Registry of Radiologic Technologists"
+        }, 
+        {
+            "Acronym": "RTBD", 
+            "Certification Name": "Registered Technologist - Bone Densitometry", 
+            "Type": "Specialty", 
+            "Certification ID": "2685", 
+            "Certifying Organization": "American Registry of Radiologic Technologists"
+        }, 
+        {
+            "Acronym": "RTBS", 
+            "Certification Name": "Registered Technologist - Breast Sonography", 
+            "Type": "Specialty", 
+            "Certification ID": "3749", 
+            "Certifying Organization": "American Registry of Radiologic Technologists"
+        }, 
+        {
+            "Acronym": "RTQM", 
+            "Certification Name": "Registered Technologist - Quality Management", 
+            "Type": "Specialty", 
+            "Certification ID": "2031", 
+            "Certifying Organization": "American Registry of Radiologic Technologists"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Radiological Technologist", 
+            "Type": "Core", 
+            "Certification ID": "5953", 
+            "Certifying Organization": "American Chiropractic Registry of Radiologic Technologists"
+        }, 
+        {
+            "Acronym": "RTVI", 
+            "Certification Name": "Registered Technologist - Vascular-Interventional Radiography", 
+            "Type": "Specialty", 
+            "Certification ID": "3748", 
+            "Certifying Organization": "American Registry of Radiologic Technologists"
+        }, 
+        {
+            "Acronym": "IRRSP", 
+            "Certification Name": "Industrial Radiography Radiation Safety Personnel - Radioactive Materials", 
+            "Type": "Specialty", 
+            "Certification ID": "7909", 
+            "Certifying Organization": "American Society for Nondestructive Testing"
+        }, 
+        {
+            "Acronym": "RPA", 
+            "Certification Name": "Radiology Practitioner Assistant", 
+            "Type": "Core", 
+            "Certification ID": "5990", 
+            "Certifying Organization": "Certification Board for Radiology Practitioner Assistants"
+        }, 
+        {
+            "Acronym": "RTT", 
+            "Certification Name": "Registered Technologist - Radiation Therapy", 
+            "Type": "Specialty", 
+            "Certification ID": "6939", 
+            "Certifying Organization": "American Registry of Radiologic Technologists"
+        }, 
+        {
+            "Acronym": "NCT", 
+            "Certification Name": "Nuclear Cardiology Technologist", 
+            "Type": "Specialty", 
+            "Certification ID": "5578", 
+            "Certifying Organization": "Nuclear Medicine Technology Certification Board"
+        }, 
+        {
+            "Acronym": "RTVS", 
+            "Certification Name": "Registered Technologist - Vascular Sonography", 
+            "Type": "Specialty", 
+            "Certification ID": "2684", 
+            "Certifying Organization": "American Registry of Radiologic Technologists"
+        }
+    ], 
+    "onet": "29209906"
+}

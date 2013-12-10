@@ -1,0 +1,180 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CAMH", 
+            "Certification Name": "Certified Associate in Materials Handling", 
+            "Type": "Core", 
+            "Certification ID": "1429", 
+            "Certifying Organization": "Materials Handling and Management Society"
+        }, 
+        {
+            "Acronym": "CSP", 
+            "Certification Name": "Certified Sales Professional", 
+            "Type": "Core", 
+            "Certification ID": "1320", 
+            "Certifying Organization": "Manufacturers Representatives Educational Research Foundation"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "APS - Networking [2010]", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7234", 
+            "Certifying Organization": "Hewlett Packard Certification and Learning"
+        }, 
+        {
+            "Acronym": "CPTC", 
+            "Certification Name": "Certified Professional Technical Communicator", 
+            "Type": "Advanced", 
+            "Certification ID": "9143", 
+            "Certifying Organization": "Society for Technical Communication"
+        }, 
+        {
+            "Acronym": "CSS", 
+            "Certification Name": "Certified Security Salesperson", 
+            "Type": "Core", 
+            "Certification ID": "7043", 
+            "Certifying Organization": "Electronic Security Association"
+        }, 
+        {
+            "Acronym": "CLMC", 
+            "Certification Name": "Certified Lighting Management Consultant", 
+            "Type": "Advanced", 
+            "Certification ID": "1773", 
+            "Certifying Organization": "International Association of Lighting Management Companies"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "CompTIA IT for Sales Certification", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7619", 
+            "Certifying Organization": "Computing Technology Industry Association (CompTIA)"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Lighting Associate", 
+            "Type": "Core", 
+            "Certification ID": "3342", 
+            "Certifying Organization": "American Lighting Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "PV Technical Sales Certification", 
+            "Type": "Core", 
+            "Certification ID": "6780", 
+            "Certifying Organization": "North American Board of Certified Energy Practitioners"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "National Professional Certification in Sales", 
+            "Type": "Core", 
+            "Certification ID": "5264", 
+            "Certifying Organization": "National Retail Federation Foundation"
+        }, 
+        {
+            "Acronym": "CWSR", 
+            "Certification Name": "Certified Welding Sales Representative", 
+            "Type": "Core", 
+            "Certification ID": "7347", 
+            "Certifying Organization": "American Welding Society"
+        }, 
+        {
+            "Acronym": "CWS", 
+            "Certification Name": "Certified Weighing Salespersons", 
+            "Type": "Core", 
+            "Certification ID": "8952", 
+            "Certifying Organization": "International Society of Weighing and Measurement"
+        }, 
+        {
+            "Acronym": "CMTSE", 
+            "Certification Name": "Certified Machine Tool Sales Engineer", 
+            "Type": "Advanced", 
+            "Certification ID": "0432", 
+            "Certifying Organization": "AMT - The Association for Manufacturing Technology"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Recycling Systems - Technical Associate", 
+            "Type": "Core", 
+            "Certification ID": "1472", 
+            "Certifying Organization": "Solid Waste Association of North America"
+        }, 
+        {
+            "Acronym": "CLS", 
+            "Certification Name": "Certified Lubrication Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "2107", 
+            "Certifying Organization": "Society of Tribologists and Lubrication Engineers"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "APC - HP Superdome 2 Solutions [2011]", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "3485", 
+            "Certifying Organization": "Hewlett Packard Certification and Learning"
+        }, 
+        {
+            "Acronym": "PHC", 
+            "Certification Name": "Professional Housing Consultant", 
+            "Type": "Core", 
+            "Certification ID": "8948", 
+            "Certifying Organization": "Manufactured Housing Institute"
+        }, 
+        {
+            "Acronym": "SCPS", 
+            "Certification Name": "Certified Salesperson", 
+            "Type": "Core", 
+            "Certification ID": "0462", 
+            "Certifying Organization": "Sales & Marketing Executives International"
+        }, 
+        {
+            "Acronym": "CSR", 
+            "Certification Name": "Certified Sales Representative", 
+            "Type": "Core", 
+            "Certification ID": "7693", 
+            "Certifying Organization": "Water Quality Association"
+        }, 
+        {
+            "Acronym": "PCMH", 
+            "Certification Name": "Professional Certified in Materials Handling", 
+            "Type": "Core", 
+            "Certification ID": "1430", 
+            "Certifying Organization": "Materials Handling and Management Society"
+        }, 
+        {
+            "Acronym": "CSS", 
+            "Certification Name": "Certified Customer Service Specialist", 
+            "Type": "Core", 
+            "Certification ID": "0520", 
+            "Certifying Organization": "ETA International"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "HP Sales Certified - Imaging and Printing Solutions [2012]", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "3486", 
+            "Certifying Organization": "Hewlett Packard Certification and Learning"
+        }, 
+        {
+            "Acronym": "CSP", 
+            "Certification Name": "Certified Sales Professional", 
+            "Type": "Core", 
+            "Certification ID": "7705", 
+            "Certifying Organization": "National Ground Water Association"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "APS - HP P2000 StorageWorks Solutions [2010]", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "7232", 
+            "Certifying Organization": "Hewlett Packard Certification and Learning"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "IBM Certified SOA Associate [2008]", 
+            "Type": "Product/Equipment", 
+            "Certification ID": "5474", 
+            "Certifying Organization": "IBM Corporation"
+        }
+    ], 
+    "onet": "41401100"
+}

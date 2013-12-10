@@ -1,0 +1,47 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "CCS", 
+            "Certification Name": "Certified Customs Specialist", 
+            "Type": "Core", 
+            "Certification ID": "9117", 
+            "Certifying Organization": "The National Customs Brokers & Forwarders Association of America"
+        }, 
+        {
+            "Acronym": "CITDS", 
+            "Certification Name": "Certified International Trade Documentation Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "5189", 
+            "Certifying Organization": "IIEI Certification"
+        }, 
+        {
+            "Acronym": "CES", 
+            "Certification Name": "Certified Export Specialist", 
+            "Type": "Specialty", 
+            "Certification ID": "9118", 
+            "Certifying Organization": "The National Customs Brokers & Forwarders Association of America"
+        }, 
+        {
+            "Acronym": "ACP", 
+            "Certification Name": "Air Cargo Professional", 
+            "Type": "Core", 
+            "Certification ID": "9384", 
+            "Certifying Organization": "International Air Transport Association"
+        }, 
+        {
+            "Acronym": "PLS", 
+            "Certification Name": "Professional Designation in Logistics and Supply Chain Management", 
+            "Type": "Advanced", 
+            "Certification ID": "3984", 
+            "Certifying Organization": "American Society of Transportation and Logistics"
+        }, 
+        {
+            "Acronym": "TIA", 
+            "Certification Name": "Transportation Intermediaries Association", 
+            "Type": "Core", 
+            "Certification ID": "8966", 
+            "Certifying Organization": "Transportation Intermediaries Association"
+        }
+    ], 
+    "onet": "43501100"
+}

@@ -1,0 +1,47 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "", 
+            "Certification Name": "Certified Genetics Counselor", 
+            "Type": "Core", 
+            "Certification ID": "5928", 
+            "Certifying Organization": "American Board of Genetic Counseling"
+        }, 
+        {
+            "Acronym": "MGP", 
+            "Certification Name": "Certification in Pathology: Molecular Genetic Pathology", 
+            "Type": "Core", 
+            "Certification ID": "2577", 
+            "Certifying Organization": "American Board of Pathology"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Clinical Cytogenetics", 
+            "Type": "Specialty", 
+            "Certification ID": "0191", 
+            "Certifying Organization": "American Board of Medical Genetics"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Board Certified in Animal Genetics", 
+            "Type": "Advanced", 
+            "Certification ID": "9376", 
+            "Certifying Organization": "American Registry of Professional Animal Scientists"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Clinical Biochemical Genetics", 
+            "Type": "Specialty", 
+            "Certification ID": "0190", 
+            "Certifying Organization": "American Board of Medical Genetics"
+        }, 
+        {
+            "Acronym": "", 
+            "Certification Name": "Clinical Molecular Genetics", 
+            "Type": "Specialty", 
+            "Certification ID": "0193", 
+            "Certifying Organization": "American Board of Medical Genetics"
+        }
+    ], 
+    "onet": "19102903"
+}

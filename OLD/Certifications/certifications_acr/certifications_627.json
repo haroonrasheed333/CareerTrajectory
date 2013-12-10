@@ -1,0 +1,19 @@
+{
+    "certification_list": [
+        {
+            "Acronym": "MOS", 
+            "Certification Name": "Microsoft Office Specialist (MOS): Microsoft Word 2010", 
+            "Type": "Core", 
+            "Certification ID": "7944", 
+            "Certifying Organization": "Microsoft Corporation"
+        }, 
+        {
+            "Acronym": "CCP", 
+            "Certification Name": "Certified CART Provider", 
+            "Type": "Core", 
+            "Certification ID": "3581", 
+            "Certifying Organization": "National Court Reporters Association"
+        }
+    ], 
+    "onet": "43902200"
+}
