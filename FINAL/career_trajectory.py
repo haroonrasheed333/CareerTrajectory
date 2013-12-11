@@ -148,8 +148,8 @@ def feature_consolidation(documents, fd_words, addTrueScore=False):
 
 
 def unigram_features(document, lemma_words_list):
-    #docu = re.sub('[^A-Za-z\' ]+', '', str(document))
-    tokens = nltk.word_tokenize(document)
+    docu = re.sub('[^A-Za-z\' ]+', '', str(document))
+    tokens = nltk.word_tokenize(docu)
     #bigrs = bigrams(tokens)
     #bigrams_list = []
     #bigrams_list += ["".join([porter.stem(bigr[0]), porter.stem(bigr[1])]) for bigr in bigrs if (bigr[0] not in stopwords or bigr[1] not in stopwords)]
