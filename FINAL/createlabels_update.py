@@ -93,7 +93,8 @@ class ResumeCorpus():
         job_titles = []
 
         hjobs50 = ['Director', 'Consultant', 'Administrative Assistant', 'Project Manager', 'Manager', 'Owner', 'Vice President', 'Sales Associate', 'Contractor', 'Graphic Designer', 'Customer Service Representative', 'Intern', 'Office Manager', 'Research Assistant', 'Executive Assistant', 'Cashier', 'Volunteer', 'President', 'Software Engineer', 'Business Analyst', 'Senior Software Engineer', 'Account Executive', 'Substitute Teacher', 'Assistant Manager', 'Supervisor', 'Receptionist', 'Program Manager', 'Graduate Assistant', 'Sales Representative', 'Graduate Research Assistant', 'Teaching Assistant', 'Principal', 'Marketing Manager', 'Office Assistant', 'Accountant', 'Account Manager', 'Instructor', 'Web Developer', 'Senior Manager', 'Business Development Manager', 'Associate', 'Medical Assistant', 'Marketing Consultant', 'Computer Technician', 'Senior Consultant', 'Bookkeeper', 'VP', 'Staff Accountant', 'Senior Project Manager', 'Senior Accountant']
-        hjobs = hjobs50[:20]
+        #hjobs = hjobs50[:20]
+        hjobs = ['Director', 'Consultant', 'Project Manager', 'Manager', 'Owner', 'Vice President', 'Graphic Designer', 'Customer Service Representative', 'Intern', 'Research Assistant', 'Executive Assistant', 'Cashier', 'Software Engineer', 'Business Analyst', 'Senior Software Engineer']
         numberjobs = {}
         for i in range(0,len(hjobs)-1):
             numberjobs[hjobs[i]] = i+1
