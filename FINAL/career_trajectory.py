@@ -146,18 +146,41 @@ def train_classifier(training_featureset):
 
 
 def feature_consolidation(documents, top_unigrams, top_bigrams,  add_true_score=False):
+    """
+    Function to consolidate all the featuresets for the training data
+
+    Args:
+        documents -- list of tuples [(resume_text, tag, filename), (resume_text, tag, filename)...]
+        top_unigrams -- list of top unigrams from the training dataset
+        top_bigrams -- list of top bigrams from the training dataset
+        add_true_score -- boolean (default: False)
+
+    Returns:
+        consolidated_features -- list of consolidated features
+    """
     if add_true_score:
         uni_features = [(unigram_features(resume_text, top_unigrams), tag) for (resume_text, tag, filename) in documents]
-        bi_features = [(bigram_features(resume_text, top_bigrams), tag) for (resume_text, tag, filename) in documents]
-        consolidated_features = uni_features + bi_features
+        #bi_features = [(bigram_features(resume_text, top_bigrams), tag) for (resume_text, tag, filename) in documents]
+        #consolidated_features = uni_features + bi_features
     else:   
         uni_features = unigram_features(documents, top_unigrams)
-        bi_features = unigram_features(documents, top_bigrams)
-        consolidated_features = uni_features.update(bi_features)
-    return consolidated_features
+        #bi_features = bigram_features(documents, top_bigrams)
+        #consolidated_features = dict(uni_features.items() + bi_features.items())
+    #return consolidated_features
+    return uni_features
 
 
 def unigram_features(resume_text, top_unigrams):
+    """
+    Function to create unigram features from the resume text
+
+    Args:
+        resume_text -- content of resume as string
+        top_unigrams -- list of top unigrams
+
+    Returns:
+        features -- dictionary of unigram features
+    """
     resume_text = re.sub('[^A-Za-z\' ]+', '', str(resume_text))
     tokens = nltk.word_tokenize(resume_text)
     features = {}
@@ -175,6 +198,16 @@ def unigram_features(resume_text, top_unigrams):
 
 
 def bigram_features(resume_text, top_bigrams):
+    """
+    Function to create bigram features from the resume text
+
+    Args:
+        resume_text -- content of resume as string
+        top_bigrams -- list of top bigrams
+
+    Returns:
+        features -- dictionary of bigram features
+    """
     resume_text = re.sub('[^A-Za-z\' ]+', '', str(resume_text))
     tokens = nltk.word_tokenize(resume_text)
     bigrs = bigrams(tokens)
@@ -197,24 +230,26 @@ if __name__ == "__main__":
     test_resumes = traintest_corpus.resumes[int(num_resumes*0.9) + 1:]
 
     top_skills = extract_top_skills(train_resumes)
-    print len(top_skills)
-    print top_skills
+    #print len(top_skills)
+    #print top_skills
 
     words = []
     bigrams_list = []
     for resume in train_resumes:
         unigrams = resume[0].split()
         words = words + unigrams
-        bigrms = bigrams(unigrams)
-        bigrams_list += ["".join([porter.stem(bigr[0]), porter.stem(bigr[1])]) for bigr in bigrms if (bigr[0] not in stopwords or bigr[1] not in stopwords)]
+        #bigrms = bigrams(unigrams)
+        #bigrams_list += ["".join([porter.stem(bigr[0]), porter.stem(bigr[1])]) for bigr in bigrms if (bigr[0] not in stopwords or bigr[1] not in stopwords)]
 
     fd = FreqDist(words)
-    fd_bi = FreqDist(bigrams_list)
+    #fd_bi = FreqDist(bigrams_list)
 
     top_unigrams = [porter.stem(word) for word in fd.keys()[:200] if word not in stopwords]
-    top_bigrams = fd_bi.keys()[:30]
+    top_unigrams += top_skills
+    top_bigrams = []
+    #top_bigrams = fd_bi.keys()[:30]
 
-    train_featureset  = feature_consolidation(train_resumes, top_unigrams, top_bigrams, True)
+    train_featureset = feature_consolidation(train_resumes, top_unigrams, top_bigrams, True)
     review_classifier = train_classifier(train_featureset)
 
     output_file = open('classifier_output.txt','w')
@@ -225,7 +260,7 @@ if __name__ == "__main__":
         output_file.write('%s' %fileName + '\t' + '%s' %str(tag) + '\t' + '%s' %classifier_output + '\n')
 
     output_file.close()
-    test_featureset  = feature_consolidation(test_resumes, top_unigrams, top_bigrams, True)
+    test_featureset = feature_consolidation(test_resumes, top_unigrams, top_bigrams, True)
     accuracy = nltk.classify.accuracy(review_classifier, test_featureset)
     print accuracy
 
