@@ -19,16 +19,6 @@ lemma = nltk.WordNetLemmatizer()
 porter = nltk.PorterStemmer()
 
 
-def pbar(size):
-    bar = progressbar.ProgressBar(maxval=size,
-                                  widgets=[progressbar.Bar('=', '[', ']'),
-                                           ' ', progressbar.Percentage(),
-                                           ' ', progressbar.ETA(),
-                                           ' ', progressbar.Counter(),
-                                           '/%s' % size])
-    return bar
-
-
 def create_skills_json(training_data):
     """
     This function will extract all the skills from the training corpus and create a dictionary with Job Titles as
@@ -135,9 +125,8 @@ class ResumeCorpus():
         for line in open(self.labels_file).readlines():
             try:
                 filename_tag = line.split('\t')
-                #filename = ftag[1].rstrip() + '/' + ftag[0]
                 filename = filename_tag[0]
-                resume_tag = filename_tag[1]
+                resume_tag = filename_tag[1].rstrip()
                 resumes.append((open(self.source_dir + '/training/' + filename).read(), resume_tag, filename))
             except:
                 pass
@@ -159,15 +148,15 @@ def feature_consolidation(documents, fd_words, addTrueScore=False):
 
 
 def unigram_features(document, lemma_words_list):
-    docu = re.sub('[^A-Za-z\' ]+', '', str(document))
-    tokens = nltk.word_tokenize(docu)
-    bigrs = bigrams(tokens)
-    bigrams_list = []
-    bigrams_list += ["".join([porter.stem(bigr[0]), porter.stem(bigr[1])]) for bigr in bigrs if (bigr[0] not in stopwords or bigr[1] not in stopwords)]
+    #docu = re.sub('[^A-Za-z\' ]+', '', str(document))
+    tokens = nltk.word_tokenize(document)
+    #bigrs = bigrams(tokens)
+    #bigrams_list = []
+    #bigrams_list += ["".join([porter.stem(bigr[0]), porter.stem(bigr[1])]) for bigr in bigrs if (bigr[0] not in stopwords or bigr[1] not in stopwords)]
     features = {}
     avg_word_len= 0
     count = 0
-    for word in tokens + bigrams_list:
+    for word in tokens: # + bigrams_list:
         word_stem = str(porter.stem(word))
         if word_stem in lemma_words_list:
             features[word_stem] = True
@@ -198,7 +187,7 @@ if __name__ == "__main__":
         #bigrams_list += ["".join([porter.stem(bigr[0]), porter.stem(bigr[1])]) for bigr in bigrms if (bigr[0] not in stopwords or bigr[1] not in stopwords)]
     fd = FreqDist(words)
     #fd_bi = FreqDist(bigrams_list)
-    fd_words = [porter.stem(word) for word in fd.keys()[:120] if word not in stopwords]
+    fd_words = [porter.stem(word) for word in fd.keys()[:200] if word not in stopwords]
 
     #print len(fd_bi.keys())
     #print fd_bi.keys()[:30]
