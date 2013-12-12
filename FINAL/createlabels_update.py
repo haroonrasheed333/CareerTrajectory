@@ -1,10 +1,10 @@
-from lxml import etree
-import os, re
-import nltk
-import progressbar
-import json
-import shutil
+import os
+import re
 import random
+import shutil
+import progressbar
+from lxml import etree
+
 user_name = os.environ.get('USER')
 
 
@@ -33,6 +33,7 @@ def split_data(labels_list):
     heldout_dir = '/Users/' + user_name + '/Documents/Data/heldout'
 
     random.shuffle(labels_list)
+    random.shuffle(labels_list)
 
     num_files = len(labels_list)
 
@@ -54,119 +55,100 @@ def split_data(labels_list):
     labels_heldout.close()
 
 
-class ResumeCorpus():
+def stripxml(data):
     """
 
     Args:
 
     """
-    def __init__(self, source_dir):
-        """
+    pattern = re.compile(r'<.*?>')
+    return pattern.sub('', data)
 
-        """
-        self.source_dir = source_dir
-        self.files = self.get_files()
-        self.read_files()
-        
-    def get_files(self):
-        """
-
-        """
-        files = [ f for (dirpath, dirnames, filenames) in os.walk(self.source_dir) for f in filenames if f[-4:] == '.txt' ]
-        return files
    
-    def read_files(self):
-        """
+def prepare_data(source_dir):
+    """
 
-        """
-             
-        def stripxml(data):
-            """
+    """
 
-            Args:
+    files = [f for (dirpath, dirnames, filenames) in os.walk(source_dir) for f in filenames if f[-4:] == '.txt']
 
-            """
-            pattern = re.compile(r'<.*?>')
-            return pattern.sub('', data)
+    names = []
+    job_titles = []
 
-        names = []
-        job_titles = []
+    hjobs50 = ['Director', 'Consultant', 'Administrative Assistant', 'Project Manager', 'Manager', 'Owner', 'Vice President', 'Sales Associate', 'Contractor', 'Graphic Designer', 'Customer Service Representative', 'Intern', 'Office Manager', 'Research Assistant', 'Executive Assistant', 'Cashier', 'Volunteer', 'President', 'Software Engineer', 'Business Analyst', 'Senior Software Engineer', 'Account Executive', 'Substitute Teacher', 'Assistant Manager', 'Supervisor', 'Receptionist', 'Program Manager', 'Graduate Assistant', 'Sales Representative', 'Graduate Research Assistant', 'Teaching Assistant', 'Principal', 'Marketing Manager', 'Office Assistant', 'Accountant', 'Account Manager', 'Instructor', 'Web Developer', 'Senior Manager', 'Business Development Manager', 'Associate', 'Medical Assistant', 'Marketing Consultant', 'Computer Technician', 'Senior Consultant', 'Bookkeeper', 'VP', 'Staff Accountant', 'Senior Project Manager', 'Senior Accountant']
+    hjobs = hjobs50[:20]
+    numberjobs = {}
+    for i in range(0,len(hjobs)-1):
+        numberjobs[hjobs[i]] = i+1
 
-        hjobs50 = ['Director', 'Consultant', 'Administrative Assistant', 'Project Manager', 'Manager', 'Owner', 'Vice President', 'Sales Associate', 'Contractor', 'Graphic Designer', 'Customer Service Representative', 'Intern', 'Office Manager', 'Research Assistant', 'Executive Assistant', 'Cashier', 'Volunteer', 'President', 'Software Engineer', 'Business Analyst', 'Senior Software Engineer', 'Account Executive', 'Substitute Teacher', 'Assistant Manager', 'Supervisor', 'Receptionist', 'Program Manager', 'Graduate Assistant', 'Sales Representative', 'Graduate Research Assistant', 'Teaching Assistant', 'Principal', 'Marketing Manager', 'Office Assistant', 'Accountant', 'Account Manager', 'Instructor', 'Web Developer', 'Senior Manager', 'Business Development Manager', 'Associate', 'Medical Assistant', 'Marketing Consultant', 'Computer Technician', 'Senior Consultant', 'Bookkeeper', 'VP', 'Staff Accountant', 'Senior Project Manager', 'Senior Accountant']
-        #hjobs = hjobs50[:20]
-        hjobs = ['Director', 'Consultant', 'Project Manager', 'Manager', 'Owner', 'Vice President', 'Graphic Designer', 'Customer Service Representative', 'Intern', 'Research Assistant', 'Executive Assistant', 'Cashier', 'Software Engineer', 'Business Analyst', 'Senior Software Engineer']
-        numberjobs = {}
-        for i in range(0,len(hjobs)-1):
-            numberjobs[hjobs[i]] = i+1
+    j, bar = 0, pbar(len(files))
+    bar.start()
+    labels_list = []
 
-        j, bar = 0, pbar(len(self.files))
-        bar.start()
-        labels_list = []
+    for fname in files:
+        xml = etree.parse(source_dir + '/' + fname)
+        current_job_title = xml.xpath('//job[@end = "present"]/title/text()')
+        current_job = xml.xpath('//job[@end = "present"]')
+        contact = xml.xpath('//contact')
+        try:
+            name = xml.xpath('//givenname/text()')[0] + ' ' + xml.xpath('//surname/text()')[0]
+            if name not in names:
+                names.append(name)
+                if contact:
+                        contact[0].getparent().remove(contact[0])
 
-        for fname in self.files:
-            xml = etree.parse(self.source_dir + '/' + fname)
-            current_job_title = xml.xpath('//job[@end = "present"]/title/text()')
-            current_job = xml.xpath('//job[@end = "present"]')
-            contact = xml.xpath('//contact')
-            job_title = ''
-            try:
-                name = xml.xpath('//givenname/text()')[0] + ' ' + xml.xpath('//surname/text()')[0]
-                if name not in names:
-                    names.append(name)
-                    if current_job:
-                        xml = etree.tostring(xml, pretty_print=True)
-                        text_data = stripxml(xml)
+                if current_job:
+                    if len(current_job) > 1:
+                        while i < len(current_job):
+                            current_job[i].getparent().remove(current_job[i])
+                            i += 1
+                    else:
+                        current_job[0].getparent().remove(current_job[0])
+
+                    xml = etree.tostring(xml, pretty_print=True)
+                    text_data = stripxml(xml)
+                    i = 0
+                    flag = 0
+                    if current_job_title:
                         i = 0
-                        flag = 0
-                        if current_job_title:
-                            i = 0
-                            if len(current_job_title) > 1:
-                                while i < len(current_job_title):
-                                    text_data = text_data.replace(current_job_title[i], '')
-                                    job_titles.append(current_job_title[i])
-                                    i += 1
-                                    if current_job_title[i] in hjobs:
-                                        job_title = current_job_title[i]
-                                        flag = 1
-                            else:
-                                text_data = text_data.replace(current_job_title[0], '')
-                                job_titles.append(current_job_title[0])
+                        if len(current_job_title) > 1:
+                            while i < len(current_job_title):
+                                text_data = text_data.replace(current_job_title[i], '')
+                                job_titles.append(current_job_title[i])
+                                i += 1
                                 if current_job_title[i] in hjobs:
                                     job_title = current_job_title[i]
                                     flag = 1
-
-                    if flag == 1:
-                        if len(current_job) > 1:
-                            while i < len(current_job):
-                                current_job[i].getparent().remove(current_job[i])
-                                i += 1
                         else:
-                            current_job[0].getparent().remove(current_job[0])
+                            text_data = text_data.replace(current_job_title[0], '')
+                            job_titles.append(current_job_title[0])
+                            if current_job_title[i] in hjobs:
+                                job_title = current_job_title[i]
+                                flag = 1
 
-                        if contact:
-                            contact[0].getparent().remove(contact[0])
+                if flag == 1:
 
-                        number = numberjobs[current_job_title[0]]
-                        directory = '/Users/' + user_name + '/Documents/Data/samples_text/' + str(number)
+                    number = numberjobs[current_job_title[0]]
+                    directory = '/Users/' + user_name + '/Documents/Data/samples_text/' + str(number)
 
-                        if current_job_title:
-                            directory = '/Users/' + user_name + '/Documents/Data/samples_text/'
-                            f = open(directory + '%s' %fname[:-4] +'_plaintext.txt', 'w')
-                            f.write(text_data)
-                            f.close()
+                    if current_job_title:
+                        directory = '/Users/' + user_name + '/Documents/Data/samples_text/'
+                        f = open(directory + '%s' %fname[:-4] +'_plaintext.txt', 'w')
+                        f.write(text_data)
+                        f.close()
 
-                            labels_list.append((fname[:-4] + '_plaintext.txt', current_job_title[0].replace('\n', '')))
-            except:
-                pass
+                        labels_list.append((fname[:-4] + '_plaintext.txt', current_job_title[0].replace('\n', '')))
+        except:
+            pass
 
-            j += 1
-            bar.update(j)
-        bar.finish()
+        j += 1
+        bar.update(j)
+    bar.finish()
 
-        split_data(labels_list)
+    split_data(labels_list)
 
-        return
+    return
 
 if __name__ == "__main__":
-    traintest_corpus = ResumeCorpus('/Users/' + user_name + '/Documents/Data/samples')
+    prepare_data('/Users/' + user_name + '/Documents/Data/samples')
 
